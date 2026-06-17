@@ -10,6 +10,10 @@
     <itunes:summary>Battles, commanders, and turning points that shaped history — told in 60 seconds.</itunes:summary>
     <itunes:category text="History"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/warvault.png"/>
+    <itunes:owner>
+      <itunes:name>WarVault</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
