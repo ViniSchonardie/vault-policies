@@ -10,6 +10,10 @@
     <itunes:summary>What really happened inside the cockpit — aviation accident investigations told in 60 seconds.</itunes:summary>
     <itunes:category text="Science"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/blackboxfiles.png"/>
+    <itunes:owner>
+      <itunes:name>Black Box Files</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
