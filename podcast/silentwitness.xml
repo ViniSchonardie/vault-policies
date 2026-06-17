@@ -10,6 +10,10 @@
     <itunes:summary>The courtroom moments, landmark verdicts, and trials that defined justice — 60 seconds each.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/silentwitness.png"/>
+    <itunes:owner>
+      <itunes:name>Silent Witness</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
