@@ -10,6 +10,10 @@
     <itunes:summary>How cults recruit, manipulate, and control — every dangerous group in 60 seconds.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/mindcontrol.png"/>
+    <itunes:owner>
+      <itunes:name>Mind Control</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
