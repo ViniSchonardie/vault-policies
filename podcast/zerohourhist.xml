@@ -10,6 +10,10 @@
     <itunes:summary>Earthquakes, shipwrecks, explosions, and catastrophes that changed the world — every disaster in 60 seconds.</itunes:summary>
     <itunes:category text="History"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/zerohourhist.png"/>
+    <itunes:owner>
+      <itunes:name>Zero Hour History</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
