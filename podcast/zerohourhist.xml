@@ -16,5 +16,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2023 Marrakesh-Safi earthquake</title>
+      <description>On 8 September 2023 at 23:11 DST (22:11 UTC), an earthquake with a moment magnitude of 6.9 and maximum Mercalli intensity of IX (Violent) struck Morocco's Al Haouz Province. The earthquake's epicenter was 73.4 km (45.6 mi) southwest of Marrakesh, near the town of Ighil and the Oukaïmeden ski resort in the Atlas Mountains. It occurred as a result of shallow oblique-thrust faulting beneath the mount</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2023-marrakesh-safi-earthquake-20260617.mp3" type="audio/mpeg" length="1641787"/>
+      <guid isPermaLink="false">history-2023-marrakesh-safi-earthquake-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
