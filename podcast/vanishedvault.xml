@@ -10,6 +10,10 @@
     <itunes:summary>Cold War double agents, daring prison escapes, and people who vanished without a trace — every story in 60 seconds.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/vanishedvault.png"/>
+    <itunes:owner>
+      <itunes:name>Vanished Vault</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
