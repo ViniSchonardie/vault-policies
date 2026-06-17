@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Con Game: Swindlers in 60 Seconds</title>
+    <description>The con artists, grifters, and master fraudsters who fooled the world — every scheme in 60 seconds.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/congame.xml</link>
+    <language>en</language>
+    <copyright>Con Game 2026</copyright>
+    <itunes:author>Con Game</itunes:author>
+    <itunes:summary>The con artists, grifters, and master fraudsters who fooled the world — every scheme in 60 seconds.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/congame.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
