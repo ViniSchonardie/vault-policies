@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CrimeVault: True Crime in 60 Seconds</title>
+    <description>The world's most gripping true crime cases — serial killers, cold cases, and unsolved mysteries — told in 60 seconds each.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/crimevault.xml</link>
+    <language>en</language>
+    <copyright>CrimeVault 2026</copyright>
+    <itunes:author>CrimeVault</itunes:author>
+    <itunes:summary>The world's most gripping true crime cases — serial killers, cold cases, and unsolved mysteries — told in 60 seconds each.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/crimevault.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
