@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Silent Witness: True Crime Trials in 60 Seconds</title>
+    <description>The courtroom moments, landmark verdicts, and trials that defined justice — 60 seconds each.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/silentwitness.xml</link>
+    <language>en</language>
+    <copyright>Silent Witness 2026</copyright>
+    <itunes:author>Silent Witness</itunes:author>
+    <itunes:summary>The courtroom moments, landmark verdicts, and trials that defined justice — 60 seconds each.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/silentwitness.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
