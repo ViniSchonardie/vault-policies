@@ -16,5 +16,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Galley</title>
+      <description>A galley is a type of ship optimised for propulsion by oars. Galleys were historically used for warfare, trade, and piracy mostly in the seas surrounding Europe. It developed in the Mediterranean world during antiquity and continued to exist in various forms until the early 19th century. It typically had a long, slender hull, shallow draft, and often a low freeboard. Most types of galleys also had</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/galley-20260617.mp3" type="audio/mpeg" length="1040762"/>
+      <guid isPermaLink="false">pirates-galley-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:14:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
