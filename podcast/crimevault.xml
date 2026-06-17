@@ -16,5 +16,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2022 New York City Subway attack</title>
+      <description>On the morning of April 12, 2022, a mass shooting was committed on a northbound N train on the New York City Subway in Sunset Park, Brooklyn. At approximately 8:24 a.m. EDT, 62-year-old Frank Robert James put on a gas mask, threw two smoke grenades, and fired a handgun 33 times. The shooting occurred as the train was traveling between the 59th Street and 36th Street stations.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-new-york-city-subway-attack-20260617.mp3" type="audio/mpeg" length="1175763"/>
+      <guid isPermaLink="false">crime-2022-new-york-city-subway-attack-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
