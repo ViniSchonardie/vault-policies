@@ -16,5 +16,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Illyrian religion</title>
+      <description>Illyrian religion refers to the religious beliefs and practices of the Illyrian peoples, a group of tribes who spoke the Illyrian languages and inhabited part of the western Balkan Peninsula from at least the 8th century BC until the 7th century AD. The available written sources are very tenuous. They consist largely of personal and place names, and a few glosses from Classical sources.
+Still insu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/illyrian-religion-20260617.mp3" type="audio/mpeg" length="1185376"/>
+      <guid isPermaLink="false">mindcontrol-illyrian-religion-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
