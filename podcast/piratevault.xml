@@ -10,6 +10,10 @@
     <itunes:summary>The golden age of piracy, naval battles, and the most daring sea raiders in history — 60 seconds each.</itunes:summary>
     <itunes:category text="History"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/piratevault.png"/>
+    <itunes:owner>
+      <itunes:name>Pirate Vault</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
