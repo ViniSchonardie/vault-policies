@@ -16,5 +16,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gestapo</title>
+      <description>The Geheime Staatspolizei ([ɡəˈhaɪmə ˈʃtaːtspoliˌtsaɪ] , lit. 'Secret State Police', abbreviated Gestapo [ɡəˈstaːpo] ), was the official secret police of Nazi Germany and in German-occupied Europe.
+The force was created by Hermann Göring in 1933 by combining the various political police agencies of Prussia into one organisation. On 20 April 1934, oversight of the Gestapo passed to the head of the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/gestapo-20260617.mp3" type="audio/mpeg" length="1291119"/>
+      <guid isPermaLink="false">shadow-gestapo-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
