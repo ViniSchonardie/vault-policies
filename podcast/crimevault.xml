@@ -10,6 +10,10 @@
     <itunes:summary>The world's most gripping true crime cases — serial killers, cold cases, and unsolved mysteries — told in 60 seconds each.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/crimevault.png"/>
+    <itunes:owner>
+      <itunes:name>CrimeVault</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
