@@ -10,6 +10,10 @@
     <itunes:summary>The con artists, grifters, and master fraudsters who fooled the world — every scheme in 60 seconds.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/congame.png"/>
+    <itunes:owner>
+      <itunes:name>Con Game</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
