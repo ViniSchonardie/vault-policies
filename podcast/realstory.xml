@@ -10,6 +10,10 @@
     <itunes:summary>Behind every headline is a real story. True events, real people — 60 seconds at a time.</itunes:summary>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/realstory.png"/>
+    <itunes:owner>
+      <itunes:name>The Real Story</itunes:name>
+      <itunes:email>vschonardie@whitepages.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
   </channel>
