@@ -16,5 +16,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Kevin Trudeau</title>
+      <description>Kevin Trudeau (; born 1962 or 1963) is an American author, salesman, and television personality, who has been convicted of fraud, larceny, and contempt of court, and is also known for promotion of his books and resulting legal cases involving the US Federal Trade Commission. His late-night infomercials, which promoted unsubstantiated health, diet, and financial advice, earned him a fortune but res</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/kevin-trudeau-20260617.mp3" type="audio/mpeg" length="1094679"/>
+      <guid isPermaLink="false">congame-kevin-trudeau-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
