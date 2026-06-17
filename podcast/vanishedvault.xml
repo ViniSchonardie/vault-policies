@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vanished: Spies, Escapes & Disappearances in 60 Seconds</title>
+    <description>Cold War double agents, daring prison escapes, and people who vanished without a trace — every story in 60 seconds.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/vanishedvault.xml</link>
+    <language>en</language>
+    <copyright>Vanished Vault 2026</copyright>
+    <itunes:author>Vanished Vault</itunes:author>
+    <itunes:summary>Cold War double agents, daring prison escapes, and people who vanished without a trace — every story in 60 seconds.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/vanishedvault.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
