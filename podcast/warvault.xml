@@ -16,5 +16,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>First Battle of Bull Run</title>
+      <description>The First Battle of Bull Run, called the Battle of First Manassas by Confederate forces, was the first major battle of the American Civil War. The battle was fought on July 21, 1861, in Prince William County, Virginia, just north of what is now the city of Manassas and about thirty miles west-southwest of Washington, D.C. The Union army was slow in positioning themselves, allowing Confederate rein</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-bull-run-20260617.mp3" type="audio/mpeg" length="1161552"/>
+      <guid isPermaLink="false">warvault-first-battle-of-bull-run-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:14:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
