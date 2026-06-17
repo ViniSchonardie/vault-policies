@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Real Story in 60 Seconds</title>
+    <description>Behind every headline is a real story. True events, real people — 60 seconds at a time.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/realstory.xml</link>
+    <language>en</language>
+    <copyright>The Real Story 2026</copyright>
+    <itunes:author>The Real Story</itunes:author>
+    <itunes:summary>Behind every headline is a real story. True events, real people — 60 seconds at a time.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/realstory.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
