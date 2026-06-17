@@ -16,5 +16,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Otto von Bismarck</title>
+      <description>Otto Eduard Leopold, Prince of Bismarck, Count of Bismarck-Schönhausen, Duke of Lauenburg (1 April 1815 – 30 July 1898) was a German statesman and diplomat who oversaw the unification of Germany and served as its first chancellor from 1871 to 1890. Bismarck's Realpolitik and firm governance earned him the nickname Iron Chancellor (Eiserner Kanzler).
+From Junker landowner origins, Bismarck rose rap</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/otto-von-bismarck-20260617.mp3" type="audio/mpeg" length="1324556"/>
+      <guid isPermaLink="false">realstory-otto-von-bismarck-20260617</guid>
+      <pubDate>Wed, 17 Jun 2026 21:13:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
