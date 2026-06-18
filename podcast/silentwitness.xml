@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Witchcraft</title>
+      <description>Witchcraft is the use of magic by a person called a witch. Traditionally, "witchcraft" means the use of magic to inflict supernatural harm or misfortune on others, and this remains the most common and widespread meaning. Though the idea of witchcraft is largely imaginary, it has nevertheless served in many cultures as a way to explain the presence of evil. The belief in witches has been found thro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/witchcraft-20260618.mp3" type="audio/mpeg" length="1145252"/>
+      <guid isPermaLink="false">trials-witchcraft-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 11:12:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2016 Atatrk Airport Attack</title>
       <description>The Atatürk Airport attack, consisting of shootings and suicide bombings, occurred on 28 June 2016 at Atatürk Airport in Istanbul, Turkey. Gunmen armed with automatic weapons and explosive belts staged a simultaneous attack at the international terminal of Terminal 2. Three attackers and forty-five other people were killed, with more than 230 people injured. Monitoring group Turkey Blocks identifi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/2016-atatrk-airport-attack-20260618.mp3" type="audio/mpeg" length="1025715"/>
