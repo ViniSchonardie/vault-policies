@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Leningrad</title>
+      <description>The siege of Leningrad was a military blockade undertaken by the Axis powers against the city of Leningrad (present-day Saint Petersburg) in the Soviet Union on the Eastern Front of World War II from 1941 to 1944. Leningrad, the country's second largest city, was besieged by Germany and Finland for 872 days, but never captured. The siege was the most destructive in history and possibly the most de</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-leningrad-20260618.mp3" type="audio/mpeg" length="1322048"/>
+      <guid isPermaLink="false">warvault-siege-of-leningrad-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 15:48:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Attack on Pearl Harbor</title>
       <description>On December 7, 1941, the Empire of Japan launched a surprise military strike on the United States Pacific Fleet at its naval base at Pearl Harbor on Oahu, Hawaii Territory. At the time, the US was a neutral country in World War II. The air raid on Pearl Harbor, which was launched from aircraft carriers, prompted the US to declare war on Japan the next day. The Japanese military leadership referred</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/attack-on-pearl-harbor-20260618.mp3" type="audio/mpeg" length="1502189"/>
