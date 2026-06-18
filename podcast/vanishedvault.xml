@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stasi</title>
+      <description>The Ministry for State Security (German: Ministerium für Staatssicherheit, pronounced [minɪsˈteːʁiʊm fyːɐ̯ ˈʃtaːtsˌzɪçɐhaɪt]; abbreviated MfS), commonly known as the Stasi (pronounced [ˈʃtaːziː] , an abbreviation of Staatssicherheit), was the intelligence service and secret police of East Germany (the German Democratic Republic or GDR) from 1950 to 1990. It was one of the most repressive police or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/stasi-20260618.mp3" type="audio/mpeg" length="1185376"/>
+      <guid isPermaLink="false">shadow-stasi-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 08:16:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gestapo</title>
       <description>The Geheime Staatspolizei ([ɡəˈhaɪmə ˈʃtaːtspoliˌtsaɪ] , lit. 'Secret State Police', abbreviated Gestapo [ɡəˈstaːpo] ), was the official secret police of Nazi Germany and in German-occupied Europe.
 The force was created by Hermann Göring in 1933 by combining the various political police agencies of Prussia into one organisation. On 20 April 1934, oversight of the Gestapo passed to the head of the </description>
