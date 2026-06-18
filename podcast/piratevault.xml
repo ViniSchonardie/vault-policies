@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Corsairs Of Algiers</title>
+      <description>The ta'ifa of raïs (Arabic: طائفة الرياس, community of corsair captains) or the Raïs for short, were Barbary pirates based in Regency of Algiers who were involved in piracy and the slave trade in the Mediterranean Sea from the 16th to the 19th century. They were an ethnically mixed group of seafarers, including mostly "renegades" from European provinces of the Mediterranean and the North Sea, alon</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/corsairs-of-algiers-20260618.mp3" type="audio/mpeg" length="1009415"/>
+      <guid isPermaLink="false">pirates-corsairs-of-algiers-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 10:19:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Galley</title>
       <description>A galley is a type of ship optimised for propulsion by oars. Galleys were historically used for warfare, trade, and piracy mostly in the seas surrounding Europe. It developed in the Mediterranean world during antiquity and continued to exist in various forms until the early 19th century. It typically had a long, slender hull, shallow draft, and often a low freeboard. Most types of galleys also had</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/galley-20260617.mp3" type="audio/mpeg" length="1040762"/>
