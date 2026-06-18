@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julius and Ethel Rosenberg</title>
+      <description>Julius Rosenberg (May 12, 1918 – June 19, 1953) and Ethel Rosenberg (born Greenglass; September 28, 1915 – June 19, 1953) were an American married couple who were convicted of spying for the Soviet Union, including providing top-secret information about American radar, sonar, jet propulsion engines, and nuclear weapon designs. They were executed by the federal government of the United States in 19</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/julius-and-ethel-rosenberg-20260618.mp3" type="audio/mpeg" length="1361755"/>
+      <guid isPermaLink="false">trials-julius-and-ethel-rosenberg-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 19:42:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Witchcraft</title>
       <description>Witchcraft is the use of magic by a person called a witch. Traditionally, "witchcraft" means the use of magic to inflict supernatural harm or misfortune on others, and this remains the most common and widespread meaning. Though the idea of witchcraft is largely imaginary, it has nevertheless served in many cultures as a way to explain the presence of evil. The belief in witches has been found thro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/witchcraft-20260618.mp3" type="audio/mpeg" length="1145252"/>
