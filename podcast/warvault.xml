@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Stalingrad</title>
+      <description>The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern Russia. Marked by intense close-quarters combat and heavy civilian losses during aerial bombardment, the battle is considered the largest and deadliest urban battle in military history and the largest ba</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-stalingrad-20260618.mp3" type="audio/mpeg" length="1293209"/>
+      <guid isPermaLink="false">warvault-battle-of-stalingrad-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 20:20:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Leningrad</title>
       <description>The siege of Leningrad was a military blockade undertaken by the Axis powers against the city of Leningrad (present-day Saint Petersburg) in the Soviet Union on the Eastern Front of World War II from 1941 to 1944. Leningrad, the country's second largest city, was besieged by Germany and Finland for 872 days, but never captured. The siege was the most destructive in history and possibly the most de</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-leningrad-20260618.mp3" type="audio/mpeg" length="1322048"/>
