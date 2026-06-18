@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Spotsylvania Court House</title>
+      <description>The Battle of Spotsylvania Court House, sometimes more simply referred to as the Battle of Spotsylvania (or the 19th-century spelling Spottsylvania), was the second major battle in Lt. Gen. Ulysses S. Grant and Maj. Gen. George G. Meade's 1864 Overland Campaign of the American Civil War. Following the bloody but inconclusive Battle of the Wilderness, Grant's army disengaged from Confederate Genera</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-spotsylvania-court-house-20260618.mp3" type="audio/mpeg" length="1430718"/>
+      <guid isPermaLink="false">warvault-battle-of-spotsylvania-court-house-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 04:22:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Battle of Bull Run</title>
       <description>The First Battle of Bull Run, called the Battle of First Manassas by Confederate forces, was the first major battle of the American Civil War. The battle was fought on July 21, 1861, in Prince William County, Virginia, just north of what is now the city of Manassas and about thirty miles west-southwest of Washington, D.C. The Union army was slow in positioning themselves, allowing Confederate rein</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-bull-run-20260617.mp3" type="audio/mpeg" length="1161552"/>
