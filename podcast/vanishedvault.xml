@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Portland Spy Ring</title>
+      <description>The Portland spy ring was an espionage group active in the UK between 1953 and 1961. It comprised five people who obtained classified research documents from the Admiralty Underwater Weapons Establishment (AUWE) on the Isle of Portland, Dorset, and passed them to the Soviet Union.
+Two of the group's members, Harry Houghton and Ethel Gee, were British. They worked at the AUWE and had access to the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/portland-spy-ring-20260618.mp3" type="audio/mpeg" length="1390594"/>
+      <guid isPermaLink="false">shadow-portland-spy-ring-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 11:22:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stasi</title>
       <description>The Ministry for State Security (German: Ministerium für Staatssicherheit, pronounced [minɪsˈteːʁiʊm fyːɐ̯ ˈʃtaːtsˌzɪçɐhaɪt]; abbreviated MfS), commonly known as the Stasi (pronounced [ˈʃtaːziː] , an abbreviation of Staatssicherheit), was the intelligence service and secret police of East Germany (the German Democratic Republic or GDR) from 1950 to 1990. It was one of the most repressive police or</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/stasi-20260618.mp3" type="audio/mpeg" length="1185376"/>
