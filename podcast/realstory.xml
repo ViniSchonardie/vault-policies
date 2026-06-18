@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Herbert Hoover</title>
+      <description>Herbert Clark Hoover (August 10, 1874 – October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. As a member of the Republican Party, he served as the third United States secretary of commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as inadequ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/herbert-hoover-20260618.mp3" type="audio/mpeg" length="1061242"/>
+      <guid isPermaLink="false">realstory-herbert-hoover-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 14:33:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thomas Aquinas</title>
       <description>Thomas Aquinas (  ə-KWY-nəs; Italian: Tommaso d'Aquino, lit. 'Thomas of Aquino'; c. 1225 – 7 March 1274) was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.
 Thomas was a proponent of natural theology and the father of a school of thought (encompassing both theology </description>
