@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am Flight 103</title>
+      <description>Pan Am Flight 103 was a regularly scheduled Pan Am transatlantic flight from Frankfurt to Detroit via a stopover in London and another in New York City. Shortly after 19:00 on 21 December 1988, the Boeing 747 Clipper Maid of the Seas was destroyed by a bomb while flying over the Scottish town of Lockerbie, killing all 243 passengers and 16 crew aboard. Large sections of the aircraft crashed in a r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-103-20260618.mp3" type="audio/mpeg" length="1256847"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-103-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 14:16:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Harmelen train disaster</title>
       <description>The Harmelen train disaster, on 8 January 1962, was the worst railway accident in the history of the Netherlands. Harmelen, in the central Netherlands, is the location of a railway junction where a branch to Amsterdam leaves the Rotterdam to Utrecht line. It is common at high-speed junctions to avoid the use of diamond crossings wherever possible—instead, a ladder crossing is employed where trains</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/harmelen-train-disaster-20260618.mp3" type="audio/mpeg" length="1154447"/>
