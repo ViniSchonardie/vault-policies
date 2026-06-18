@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Amelia Earhart</title>
+      <description>Amelia Mary Earhart ( AIR-hart; born July 24, 1897; disappeared July 2, 1937; declared dead January 5, 1939) was an American aviator and aviation pioneer who became one of the most celebrated figures of early flight.  
+In 1928, she was the first female passenger to cross the Atlantic by airplane. In 1932, she became the first woman to make a nonstop solo transatlantic flight, and was awarded the D</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/amelia-earhart-20260618.mp3" type="audio/mpeg" length="1375547"/>
+      <guid isPermaLink="false">shadow-amelia-earhart-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 21:27:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Attempts To Escape Oflag Iv C</title>
       <description>Prisoners made numerous attempts to escape from Oflag IV-C, one of the most famous German Army prisoner-of-war camps for officers in World War II. Between 30 and 36 men succeeded in their attempts - exact numbers differ between German and Allied sources. The camp was situated in Colditz Castle, perched on a cliff overlooking the town of Colditz in Saxony.
 The German Army made Colditz a Sonderlager</description>
