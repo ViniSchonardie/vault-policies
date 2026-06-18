@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chemical weapon</title>
+      <description>A chemical weapon (CW) is a specialized munition that uses chemicals formulated to inflict death or harm on humans. According to the Organisation for the Prohibition of Chemical Weapons (OPCW), this can be any chemical compound intended as a weapon "or its precursor that can cause death, injury, temporary incapacitation or sensory irritation through its chemical action. Munitions or other delivery</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/chemical-weapon-20260618.mp3" type="audio/mpeg" length="1235949"/>
+      <guid isPermaLink="false">mindcontrol-chemical-weapon-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 07:04:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Waco siege</title>
       <description>The Waco siege, also known as the Waco massacre, was the siege by US federal government and Texas state law enforcement officials of a compound belonging to the religious cult known as the Branch Davidians, between February 28 and April 19, 1993. The Branch Davidians, led by David Koresh, were headquartered at Mount Carmel Center ranch in unincorporated McLennan County, Texas, 13 miles (21 kilomet</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/waco-siege-20260617.mp3" type="audio/mpeg" length="1360083"/>
