@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sandy Hook Elementary School shooting</title>
+      <description>On December 14, 2012, a mass shooting occurred at Sandy Hook Elementary School in Newtown, Connecticut, United States. The perpetrator, 20-year-old Adam Lanza, shot and killed 26 people. The victims were 20 children between six and seven years old, and six adult staff members. Earlier that day, before driving to the school, Lanza fatally shot his mother at their Newtown home. As first responders a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sandy-hook-elementary-school-shooting-20260618.mp3" type="audio/mpeg" length="960514"/>
+      <guid isPermaLink="false">crime-sandy-hook-elementary-school-shooting-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 12:23:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2021 Kazan school attack</title>
       <description>On 11 May 2021, a school shooting and a school bombing occurred in Kazan, Tatarstan, in the western part of Russia. Seven 8th-grade students and two teachers were murdered, all by gunfire, and 23 others were injured. The perpetrator was identified as 19-year-old Ilnaz Galyaviev, a former student. He pleaded guilty to the murder of two or more people on the next day and was sentenced to life impris</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-kazan-school-attack-20260618.mp3" type="audio/mpeg" length="1325810"/>
