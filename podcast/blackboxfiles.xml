@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Harmelen train disaster</title>
+      <description>The Harmelen train disaster, on 8 January 1962, was the worst railway accident in the history of the Netherlands. Harmelen, in the central Netherlands, is the location of a railway junction where a branch to Amsterdam leaves the Rotterdam to Utrecht line. It is common at high-speed junctions to avoid the use of diamond crossings wherever possible—instead, a ladder crossing is employed where trains</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/harmelen-train-disaster-20260618.mp3" type="audio/mpeg" length="1154447"/>
+      <guid isPermaLink="false">aviation-harmelen-train-disaster-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 09:23:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Asiana Airlines Flight 214</title>
       <description>Asiana Airlines Flight 214 was a scheduled transpacific passenger flight originating from Incheon International Airport near Seoul, South Korea, to San Francisco International Airport near San Francisco, California, United States that crashed on final approach into Runway 28L of San Francisco International Airport in the United States on the morning of July 6, 2013. The Boeing 777-200ER operating </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/asiana-airlines-flight-214-20260618.mp3" type="audio/mpeg" length="939616"/>
