@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chernobyl disaster</title>
+      <description>On 26 April 1986, reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, Ukraine, exploded. With dozens of direct casualties and thousands of health complications stemming from the disaster, it is one of only two nuclear accidents rated at the maximum severity on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear accident, which happened in Japan. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/chernobyl-disaster-20260618.mp3" type="audio/mpeg" length="1602499"/>
+      <guid isPermaLink="false">history-chernobyl-disaster-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 20:16:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1908 Messina earthquake</title>
       <description>A devastating earthquake occurred on 28 December 1908 in Sicily and Calabria, southern Italy, with a moment magnitude of 7.1 and a maximum Mercalli intensity of XI (Extreme). The epicentre was in the Strait of Messina which separates Sicily from the Italian mainland. The cities of Messina and Reggio Calabria were nearly destroyed and around 120,000 people died, making it the deadliest earthquake i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1908-messina-earthquake-20260618.mp3" type="audio/mpeg" length="1438241"/>
