@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Happy Science</title>
+      <description>Happy Science (幸福の科学, Kōfuku-no-Kagaku), formerly known as the Institute for Research in Human Happiness, is a new religious movement founded in Japan on 6 October 1986 by former Wall Street trader Ryuho Okawa, whose followers regarded him as the incarnation of a supreme being from Venus. Happy Science has been described as a cult.
+The Happy Science group includes a publication division called IRH</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/happy-science-20260618.mp3" type="audio/mpeg" length="1489232"/>
+      <guid isPermaLink="false">mindcontrol-happy-science-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 17:05:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chemical weapon</title>
       <description>A chemical weapon (CW) is a specialized munition that uses chemicals formulated to inflict death or harm on humans. According to the Organisation for the Prohibition of Chemical Weapons (OPCW), this can be any chemical compound intended as a weapon "or its precursor that can cause death, injury, temporary incapacitation or sensory irritation through its chemical action. Munitions or other delivery</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/chemical-weapon-20260618.mp3" type="audio/mpeg" length="1235949"/>
