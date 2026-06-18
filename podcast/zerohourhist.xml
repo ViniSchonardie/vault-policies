@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2019 Albania earthquake</title>
+      <description>On 26 November 2019 at 03:54 CET (UTC+1), northwestern Albania was struck by a magnitude 6.4 earthquake with an epicentre 16 kilometres (9.9 mi) west-southwest of Mamurras. The earthquake lasted at least 50 seconds and was felt in Albania's capital Tirana, and in places as far away as Bari, Taranto and Belgrade, 370 kilometres (230 mi) northeast of the epicentre. The maximum felt intensity was VII</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2019-albania-earthquake-20260618.mp3" type="audio/mpeg" length="1344618"/>
+      <guid isPermaLink="false">history-2019-albania-earthquake-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 10:08:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2024 Hualien earthquake</title>
       <description>On 3 April 2024, at 07:58:11 NST (23:58:11 UTC on 2 April), a Mw 7.4 earthquake struck 15 km (9.3 mi) south of Hualien City, Hualien County, Taiwan. At least 19 people were killed and over 1,100 were injured in the earthquake. It was the strongest earthquake in Taiwan since the 1999 Jiji earthquake, with three aftershocks above Mw 6.0.
 
