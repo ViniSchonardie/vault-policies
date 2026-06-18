@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2024 Hualien earthquake</title>
+      <description>On 3 April 2024, at 07:58:11 NST (23:58:11 UTC on 2 April), a Mw 7.4 earthquake struck 15 km (9.3 mi) south of Hualien City, Hualien County, Taiwan. At least 19 people were killed and over 1,100 were injured in the earthquake. It was the strongest earthquake in Taiwan since the 1999 Jiji earthquake, with three aftershocks above Mw 6.0.
+
+
+== Tectonic setting ==
+
+Taiwan has a history of strong earth</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2024-hualien-earthquake-20260618.mp3" type="audio/mpeg" length="1545239"/>
+      <guid isPermaLink="false">history-2024-hualien-earthquake-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 04:25:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2023 Marrakesh-Safi earthquake</title>
       <description>On 8 September 2023 at 23:11 DST (22:11 UTC), an earthquake with a moment magnitude of 6.9 and maximum Mercalli intensity of IX (Violent) struck Morocco's Al Haouz Province. The earthquake's epicenter was 73.4 km (45.6 mi) southwest of Marrakesh, near the town of Ighil and the Oukaïmeden ski resort in the Atlas Mountains. It occurred as a result of shallow oblique-thrust faulting beneath the mount</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2023-marrakesh-safi-earthquake-20260617.mp3" type="audio/mpeg" length="1641787"/>
