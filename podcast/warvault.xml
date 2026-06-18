@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Attack on Pearl Harbor</title>
+      <description>On December 7, 1941, the Empire of Japan launched a surprise military strike on the United States Pacific Fleet at its naval base at Pearl Harbor on Oahu, Hawaii Territory. At the time, the US was a neutral country in World War II. The air raid on Pearl Harbor, which was launched from aircraft carriers, prompted the US to declare war on Japan the next day. The Japanese military leadership referred</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/attack-on-pearl-harbor-20260618.mp3" type="audio/mpeg" length="1502189"/>
+      <guid isPermaLink="false">warvault-attack-on-pearl-harbor-20260618</guid>
+      <pubDate>Thu, 18 Jun 2026 10:20:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Spotsylvania Court House</title>
       <description>The Battle of Spotsylvania Court House, sometimes more simply referred to as the Battle of Spotsylvania (or the 19th-century spelling Spottsylvania), was the second major battle in Lt. Gen. Ulysses S. Grant and Maj. Gen. George G. Meade's 1864 Overland Campaign of the American Civil War. Following the bloody but inconclusive Battle of the Wilderness, Grant's army disengaged from Confederate Genera</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-spotsylvania-court-house-20260618.mp3" type="audio/mpeg" length="1430718"/>
