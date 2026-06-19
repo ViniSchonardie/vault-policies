@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles I of England</title>
+      <description>Charles I (19 November 1600 – 30 January 1649) was King of England, Scotland, and Ireland from 27 March 1625 until his execution in 1649.
+Charles was born into the House of Stuart as the second son of King James VI of Scotland. After his father inherited the English throne in 1603, he moved to England, where he spent much of the rest of his life. He became heir apparent to the kingdoms of England,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/charles-i-of-england-20260619.mp3" type="audio/mpeg" length="1314943"/>
+      <guid isPermaLink="false">royal-charles-i-of-england-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 12:08:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cleopatra</title>
       <description>Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit. 'Cleopatra father-loving goddess'; 70/69 BC – 10 or 12 August 30 BC) was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. H</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/cleopatra-20260619.mp3" type="audio/mpeg" length="1447018"/>
