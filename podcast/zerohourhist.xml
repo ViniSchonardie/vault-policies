@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Space Shuttle Columbia disaster</title>
+      <description>On February 1, 2003, Space Shuttle Columbia disintegrated as it re-entered the atmosphere over Texas and Louisiana, killing all seven astronauts on board. It was the second of two Space Shuttle missions to end in disaster, after the loss of Challenger and crew in 1986.
+The mission, designated STS-107, was the twenty-eighth flight for the orbiter and the 113th flight of the Space Shuttle fleet. It </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/space-shuttle-columbia-disaster-20260619.mp3" type="audio/mpeg" length="1174927"/>
+      <guid isPermaLink="false">history-space-shuttle-columbia-disaster-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 04:51:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chernobyl disaster</title>
       <description>On 26 April 1986, reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, Ukraine, exploded. With dozens of direct casualties and thousands of health complications stemming from the disaster, it is one of only two nuclear accidents rated at the maximum severity on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear accident, which happened in Japan. The </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/chernobyl-disaster-20260618.mp3" type="audio/mpeg" length="1602499"/>
