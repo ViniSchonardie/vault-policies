@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Adolf Hitler</title>
+      <description>Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born  German politician who was the dictator of Germany during the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/adolf-hitler-20260619.mp3" type="audio/mpeg" length="1364680"/>
+      <guid isPermaLink="false">warvault-adolf-hitler-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 04:51:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Stalingrad</title>
       <description>The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern Russia. Marked by intense close-quarters combat and heavy civilian losses during aerial bombardment, the battle is considered the largest and deadliest urban battle in military history and the largest ba</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-stalingrad-20260618.mp3" type="audio/mpeg" length="1293209"/>
