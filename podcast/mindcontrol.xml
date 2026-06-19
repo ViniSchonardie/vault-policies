@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Manson</title>
+      <description>Charles Milles Manson (né Maddox; November 12, 1934 – November 19, 2017) was an American criminal, cult leader, and musician who was the founder of the Manson Family. He gained notoriety for ordering the Tate–LaBianca murders, where his followers murdered nine people around Los Angeles in 1969.
+Before the murders, Manson had spent more than half of his life in correctional institutions. While gath</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/charles-manson-20260619.mp3" type="audio/mpeg" length="1355067"/>
+      <guid isPermaLink="false">mindcontrol-charles-manson-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 07:24:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peoples Temple</title>
       <description>The Peoples Temple of the Disciples of Christ, originally Peoples Temple Full Gospel Church and commonly shortened to Peoples Temple, was an American new religious organization that existed between 1955 and 1978 and was affiliated with the Christian Church (Disciples of Christ). Founded by Jim Jones in Indianapolis, Indiana, the Peoples Temple spread a message that combined elements of Christianit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/peoples-temple-20260618.mp3" type="audio/mpeg" length="1391848"/>
