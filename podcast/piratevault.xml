@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stede Bonnet</title>
+      <description>Stede Bonnet (c. 1688 – 10 December 1718), known as the Gentleman Pirate, was an English pirate and landowner. Bonnet was born into a wealthy English family on the island of Barbados, and inherited the family estate after his father's death in 1694. Despite his lack of sailing experience, Bonnet decided he should turn to piracy and crime in the spring of 1717. He bought a sailing vessel, the Reven</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/stede-bonnet-20260619.mp3" type="audio/mpeg" length="1370532"/>
+      <guid isPermaLink="false">pirates-stede-bonnet-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 23:04:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Francis Drake</title>
       <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/francis-drake-20260619.mp3" type="audio/mpeg" length="1477529"/>
