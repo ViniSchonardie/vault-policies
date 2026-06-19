@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Joseph Stalin</title>
+      <description>Joseph Vissarionovich Stalin (né Dzhugashvili; 18 December [O.S. 6 December] 1878 – 5 March 1953) was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as the General Secretary of the Communist Party from 1922 to 1952 and as the premier from 1941 until his death. Despite initially governing the country as part of a collective leadershi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/joseph-stalin-20260619.mp3" type="audio/mpeg" length="1429046"/>
+      <guid isPermaLink="false">warvault-joseph-stalin-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 10:27:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adolf Hitler</title>
       <description>Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born  German politician who was the dictator of Germany during the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/adolf-hitler-20260619.mp3" type="audio/mpeg" length="1364680"/>
