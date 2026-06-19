@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Genghis Khan</title>
+      <description>Genghis Khan (born Temüjin; c. 1162 – August 1227), also known as Chinggis Khan, was the founder and first khan of the Mongol Empire. After spending most of his life uniting the Mongol tribes, he launched a series of military campaigns, conquering large parts of China and Central Asia.
+Genghis Khan was born Temüjin between 1155 and 1167 as the eldest child of Yesugei, a Mongol chieftain of the Bor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/genghis-khan-20260619.mp3" type="audio/mpeg" length="1692360"/>
+      <guid isPermaLink="false">realstory-genghis-khan-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 18:59:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Che Guevara</title>
       <description>Ernesto "Che" Guevara de la Serna (14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, author, guerrilla leader, diplomat, politician, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a countercultural symbol of rebellion and global insignia in popular culture.
 As a medical student, Guevara travelled throughout South America and was a</description>
