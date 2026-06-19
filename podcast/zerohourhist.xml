@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pompeii</title>
+      <description>Pompeii ( ; Latin: [pɔmˈpei̯.iː]) was a city in what is now the municipality of Pompei, near Naples, in the Campania region of Italy. Along with Herculaneum, Stabiae, and many surrounding villas, it was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in 79 AD.
+Largely preserved under the ash, Pompeii offers a unique snapshot of Roman life, frozen at</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/pompeii-20260619.mp3" type="audio/mpeg" length="1762159"/>
+      <guid isPermaLink="false">history-pompeii-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 19:32:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Holodomor</title>
       <description>The Holodomor, also known as the Ukrainian famine, was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union.
 While scholars agree the famine was primarily man-made, it remains in dispute whether the Holodomor was intentional,</description>
