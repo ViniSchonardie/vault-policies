@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Queen Victoria</title>
+      <description>Victoria (Alexandrina Victoria; 24 May 1819 – 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, constituted the Victorian era, a period of industrial, political, scientific, and military change within the United Kingdom marked by a great</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/queen-victoria-20260619.mp3" type="audio/mpeg" length="1252249"/>
+      <guid isPermaLink="false">royal-queen-victoria-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 17:25:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles I of England</title>
       <description>Charles I (19 November 1600 – 30 January 1649) was King of England, Scotland, and Ireland from 27 March 1625 until his execution in 1649.
 Charles was born into the House of Stuart as the second son of King James VI of Scotland. After his father inherited the English throne in 1603, he moved to England, where he spent much of the rest of his life. He became heir apparent to the kingdoms of England,</description>
