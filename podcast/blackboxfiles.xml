@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Airlines Flight 2976</title>
+      <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20260619.mp3" type="audio/mpeg" length="1431554"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-2976-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:53:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korean Air Lines Flight 007</title>
       <description>Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-lines-flight-007-20260618.mp3" type="audio/mpeg" length="1241382"/>
