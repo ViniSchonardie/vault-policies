@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Richard Sorge</title>
+      <description>Richard Gustavovich Sorge (Russian: Рихард Густавович Зорге, romanized: Rikhard Gustavovich Zorge; 4 October 1895 – 7 November 1944) was a German-Russian journalist and Soviet military intelligence officer who was active before and during World War II and worked undercover as a German journalist in both Nazi Germany and the Empire of Japan. His codename was "Ramsay" (Рамза́й).
+Sorge is known for h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/richard-sorge-20260619.mp3" type="audio/mpeg" length="1410656"/>
+      <guid isPermaLink="false">shadow-richard-sorge-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 20:32:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anna Chapman</title>
       <description>Anna Vasilyevna Chapman (Russian: А́нна Васи́льевна Ча́пман; born Anna Vasilyevna Kushchenko, 23 February 1982) is a Russian former intelligence agent, media personality, and model who was arrested in the United States on 27 June 2010 as part of the Illegals Program, a Russian spy ring. At the time of her arrest, she was accused of espionage on behalf of the Russian Federation's external intellige</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/anna-chapman-20260619.mp3" type="audio/mpeg" length="1422359"/>
