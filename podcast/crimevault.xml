@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Manson</title>
+      <description>Charles Milles Manson was an American criminal, cult leader, and musician who was the founder of the Manson Family. He gained notoriety for ordering the Tate–LaBianca murders, where his followers murdered nine people around Los Angeles in 1969.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-manson-20260619.mp3" type="audio/mpeg" length="1165314"/>
+      <guid isPermaLink="false">crime-charles-manson-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 08:44:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ed Gein</title>
       <description>Edward Theodore Gein, also known as the Butcher of Plainfield and the Plainfield Ghoul, was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he stole corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ed-gein-20260619.mp3" type="audio/mpeg" length="1121010"/>
