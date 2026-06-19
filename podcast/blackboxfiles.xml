@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air France Flight 447</title>
+      <description>Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France, that crashed into the mid-Atlantic Ocean on 1 June 2009 killing all 228 passengers and crew on board. The incident, which occurred on an Airbus A330, happened because inconsistent airspeed indications and resulting miscommunication between the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-447-20260619.mp3" type="audio/mpeg" length="1450780"/>
+      <guid isPermaLink="false">aviation-air-france-flight-447-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 14:20:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UPS Airlines Flight 2976</title>
       <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20260619.mp3" type="audio/mpeg" length="1431554"/>
