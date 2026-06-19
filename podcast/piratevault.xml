@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Francis Drake</title>
+      <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/francis-drake-20260619.mp3" type="audio/mpeg" length="1477529"/>
+      <guid isPermaLink="false">pirates-francis-drake-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 16:56:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henry Morgan</title>
       <description>Sir Henry Morgan (Welsh: Harri Morgan; c. 1635 – 25 August 1688) was a Welsh privateer, plantation owner and, later, the lieutenant governor of Jamaica. From his base in Port Royal, Jamaica, he and those under his command raided settlements and shipping on the Spanish Main, from which he profited. With the prize money and plunder from these raids, Morgan purchased three large sugar plantations in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/henry-morgan-20260619.mp3" type="audio/mpeg" length="1340021"/>
