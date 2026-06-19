@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bonnie and Clyde</title>
+      <description>Bonnie Elizabeth Parker (October 1, 1910 – May 23, 1934) and Clyde Chestnut "Champion" Barrow (March 24, 1909 – May 23, 1934) were outlaws who traveled the Central United States with their gang during the Great Depression, committing a series of criminal acts such as bank robberies, kidnappings and murders between 1932 and 1934. The couple were known for their bank robberies and multiple murders, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bonnie-and-clyde-20260619.mp3" type="audio/mpeg" length="1582855"/>
+      <guid isPermaLink="false">heist-bonnie-and-clyde-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 21:20:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Al Capone</title>
       <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
 Capone was born in</description>
