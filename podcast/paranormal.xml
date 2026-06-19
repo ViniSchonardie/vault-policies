@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Paranormal Vault: Every Mystery Is Real</title>
+    <description>The world's most terrifying unsolved mysteries in 60 seconds. Dyatlov Pass, Roswell, Bigfoot, MH370 — real cases, no explanation.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/paranormal.xml</link>
+    <language>en</language>
+    <copyright>Paranormal Vault 2026</copyright>
+    <itunes:author>Paranormal Vault</itunes:author>
+    <itunes:summary>The world's most terrifying unsolved mysteries in 60 seconds. Dyatlov Pass, Roswell, Bigfoot, MH370 — real cases, no explanation.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/paranormal.png"/>
+    <itunes:owner>
+      <itunes:name>Paranormal Vault</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
