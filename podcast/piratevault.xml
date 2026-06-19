@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bartholomew Roberts</title>
+      <description>Bartholomew Roberts (born John Roberts; 17 May 1682 – 10 February 1722) was a Welsh pirate who was, measured by vessels captured, the most successful pirate of the Golden Age of Piracy. During his piratical career, he took over 400 prize ships, although most were mere fishing boats. Roberts raided ships off the Americas and the West African coast between 1719 and 1722; he is also noted for creatin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/bartholomew-roberts-20260619.mp3" type="audio/mpeg" length="1131041"/>
+      <guid isPermaLink="false">pirates-bartholomew-roberts-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 00:18:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blackbeard</title>
       <description>Edward Teach (or Thatch; c. 1680 – 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateering ships during Queen Anne's War before he settled on the Bahamian island of New Providence, a base for Captain Benjami</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/blackbeard-20260618.mp3" type="audio/mpeg" length="1076288"/>
