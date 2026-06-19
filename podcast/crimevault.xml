@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dennis Rader</title>
+      <description>Dennis Lynn Rader, better known by his pseudonym BTK, is an American serial killer and mass murderer who killed at least ten people in Wichita and Park City, Kansas, between 1974 and 1991. Although he occasionally killed or attempted to kill men and children, Rader typically targeted women. His victims were often attacked in their homes and then bound, sometimes with objects from their homes, and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dennis-rader-20260619.mp3" type="audio/mpeg" length="1688599"/>
+      <guid isPermaLink="false">crime-dennis-rader-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 17:19:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jeffrey Dahmer</title>
       <description>Jeffrey Lionel Dahmer, also known as the Milwaukee Cannibal or the Milwaukee Monster, was an American serial killer and sex offender who killed and dismembered seventeen men and boys between 1978 and 1991.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jeffrey-dahmer-20260619.mp3" type="audio/mpeg" length="1252249"/>
