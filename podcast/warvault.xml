@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Saddam Hussein</title>
+      <description>Saddam Hussein (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003 during the United States-led invasion of Iraq. He previously served as the vice president from 1968 to 1979 and also as the prime minister from 1979 to 1991 and later from 1994 to 2003. A leading member of the Iraqi Ba'ath Party</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/saddam-hussein-20260619.mp3" type="audio/mpeg" length="1478783"/>
+      <guid isPermaLink="false">warvault-saddam-hussein-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 15:42:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph Stalin</title>
       <description>Joseph Vissarionovich Stalin (né Dzhugashvili; 18 December [O.S. 6 December] 1878 – 5 March 1953) was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as the General Secretary of the Communist Party from 1922 to 1952 and as the premier from 1941 until his death. Despite initially governing the country as part of a collective leadershi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/joseph-stalin-20260619.mp3" type="audio/mpeg" length="1429046"/>
