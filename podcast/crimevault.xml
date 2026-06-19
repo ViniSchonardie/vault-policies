@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Zodiac Killer</title>
+      <description>The Zodiac Killer is an unidentified serial killer who murdered at least five people in the San Francisco Bay Area between December 1968 and October 1969. The Zodiac attacked three couples and a cab driver in Benicia, Vallejo, unincorporated Napa County, and the city of San Francisco. Two of the Zodiac's seven victims survived.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/zodiac-killer-20260619.mp3" type="audio/mpeg" length="1585781"/>
+      <guid isPermaLink="false">crime-zodiac-killer-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 22:04:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dennis Rader</title>
       <description>Dennis Lynn Rader, better known by his pseudonym BTK, is an American serial killer and mass murderer who killed at least ten people in Wichita and Park City, Kansas, between 1974 and 1991. Although he occasionally killed or attempted to kill men and children, Rader typically targeted women. His victims were often attacked in their homes and then bound, sometimes with objects from their homes, and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dennis-rader-20260619.mp3" type="audio/mpeg" length="1688599"/>
