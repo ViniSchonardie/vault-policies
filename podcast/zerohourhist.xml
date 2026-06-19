@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Holodomor</title>
+      <description>The Holodomor, also known as the Ukrainian famine, was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union.
+While scholars agree the famine was primarily man-made, it remains in dispute whether the Holodomor was intentional,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/holodomor-20260619.mp3" type="audio/mpeg" length="1745859"/>
+      <guid isPermaLink="false">history-holodomor-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 14:46:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2004 Indian Ocean earthquake and tsunami</title>
       <description>On 26 December 2004, at 07:58:53 local time (UTC+7), a Mw 9.2–9.3 earthquake struck with its epicenter off the west coast of Aceh, in northern Sumatra, Indonesia. The undersea megathrust earthquake, known in the scientific community as the Sumatra–Andaman earthquake, was caused by a rupture along the fault boundary between the Burma plate and the Indian plate, and reached a maximum Mercalli intens</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2004-indian-ocean-earthquake-and-tsunami-20260619.mp3" type="audio/mpeg" length="1460393"/>
