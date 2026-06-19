@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Che Guevara</title>
+      <description>Ernesto "Che" Guevara de la Serna (14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, author, guerrilla leader, diplomat, politician, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a countercultural symbol of rebellion and global insignia in popular culture.
+As a medical student, Guevara travelled throughout South America and was a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/che-guevara-20260619.mp3" type="audio/mpeg" length="1652654"/>
+      <guid isPermaLink="false">realstory-che-guevara-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 14:19:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cleopatra</title>
       <description>Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit. 'Cleopatra father-loving goddess'; 70/69 BC – 10 or 12 August 30 BC) was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. H</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cleopatra-20260619.mp3" type="audio/mpeg" length="1445346"/>
