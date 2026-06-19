@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Billy the Kid</title>
+      <description>Henry McCarty (September 17 or November 23, 1859 – July 14, 1881), alias William H. Bonney, better known as Billy the Kid, was an American outlaw and gunfighter of the Old West who was linked to nine murders. He was solely responsible for four of them, and he may have played a role in five, alongside other men. He is also noted for his involvement in New Mexico's Lincoln County War.
+McCarty was or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/billy-the-kid-20260619.mp3" type="audio/mpeg" length="1590378"/>
+      <guid isPermaLink="false">heist-billy-the-kid-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 23:08:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonnie and Clyde</title>
       <description>Bonnie Elizabeth Parker (October 1, 1910 – May 23, 1934) and Clyde Chestnut "Champion" Barrow (March 24, 1909 – May 23, 1934) were outlaws who traveled the Central United States with their gang during the Great Depression, committing a series of criminal acts such as bank robberies, kidnappings and murders between 1932 and 1934. The couple were known for their bank robberies and multiple murders, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bonnie-and-clyde-20260619.mp3" type="audio/mpeg" length="1582855"/>
