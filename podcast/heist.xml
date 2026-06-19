@@ -16,5 +16,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Al Capone</title>
+      <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
+Capone was born in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/al-capone-20260619.mp3" type="audio/mpeg" length="1584527"/>
+      <guid isPermaLink="false">heist-al-capone-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 17:56:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
