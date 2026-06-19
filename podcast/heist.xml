@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Heist Vault: The Perfect Crime in 60 Seconds</title>
+    <description>The most audacious robberies in history. Planning, execution, and the one mistake that undid it all.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/heist.xml</link>
+    <language>en</language>
+    <copyright>Heist Vault 2026</copyright>
+    <itunes:author>Heist Vault</itunes:author>
+    <itunes:summary>The most audacious robberies in history. Planning, execution, and the one mistake that undid it all.</itunes:summary>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/heist.png"/>
+    <itunes:owner>
+      <itunes:name>Heist Vault</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
