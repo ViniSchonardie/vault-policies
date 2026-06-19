@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ed Gein</title>
+      <description>Edward Theodore Gein, also known as the Butcher of Plainfield and the Plainfield Ghoul, was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he stole corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ed-gein-20260619.mp3" type="audio/mpeg" length="1121010"/>
+      <guid isPermaLink="false">crime-ed-gein-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 01:47:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dean Arnold Corll</title>
       <description>Dean Arnold Corll was an American serial killer and sex offender who abducted, raped, tortured and murdered at least 29 teenage boys and young men between 1970 and 1973 in Houston and Pasadena, Texas. He was aided by two teenaged accomplices, David Owen Brooks and Elmer Wayne Henley. The crimes, which became known as the Houston Mass Murders, came to light after Henley fatally shot Corll. Upon dis</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dean-arnold-corll-20260618.mp3" type="audio/mpeg" length="1150685"/>
