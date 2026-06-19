@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Benito Mussolini</title>
+      <description>Benito Amilcare Andrea Mussolini (29 July 1883 – 28 April 1945) was an Italian politician, journalist, and dictator who led Italy as Il Duce from 1922 until his overthrow in 1943. He founded fascism in 1919 with the creation of the Fasci Italiani di Combattimento, which became the National Fascist Party (PNF) in 1921. Mussolini was appointed Prime Minister of Italy after the March on Rome in 1922,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/benito-mussolini-20260619.mp3" type="audio/mpeg" length="1844497"/>
+      <guid isPermaLink="false">warvault-benito-mussolini-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 19:49:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saddam Hussein</title>
       <description>Saddam Hussein (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003 during the United States-led invasion of Iraq. He previously served as the vice president from 1968 to 1979 and also as the prime minister from 1979 to 1991 and later from 1994 to 2003. A leading member of the Iraqi Ba'ath Party</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/saddam-hussein-20260619.mp3" type="audio/mpeg" length="1478783"/>
