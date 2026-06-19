@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cleopatra</title>
+      <description>Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit. 'Cleopatra father-loving goddess'; 70/69 BC – 10 or 12 August 30 BC) was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. H</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cleopatra-20260619.mp3" type="audio/mpeg" length="1445346"/>
+      <guid isPermaLink="false">realstory-cleopatra-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 09:32:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hildegard of Bingen</title>
       <description>Hildegard of Bingen  (German: Hildegard von Bingen, pronounced [ˈhɪldəɡaʁt fɔn ˈbɪŋən]; Latin: Hildegardis Bingensis; c. 1098 – 17 September 1179), also known as the Sibyl of the Rhine, was a German Benedictine abbess and polymath active as a writer, composer, philosopher, mystic, visionary, and as a medical writer and practitioner of the Catholic Church during the High Middle Ages. She is one of </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hildegard-of-bingen-20260618.mp3" type="audio/mpeg" length="1330408"/>
