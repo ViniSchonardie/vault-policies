@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jeffrey Dahmer</title>
+      <description>Jeffrey Lionel Dahmer, also known as the Milwaukee Cannibal or the Milwaukee Monster, was an American serial killer and sex offender who killed and dismembered seventeen men and boys between 1978 and 1991.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jeffrey-dahmer-20260619.mp3" type="audio/mpeg" length="1252249"/>
+      <guid isPermaLink="false">crime-jeffrey-dahmer-20260619</guid>
+      <pubDate>Fri, 19 Jun 2026 13:10:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Manson</title>
       <description>Charles Milles Manson was an American criminal, cult leader, and musician who was the founder of the Manson Family. He gained notoriety for ordering the Tate–LaBianca murders, where his followers murdered nine people around Los Angeles in 1969.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-manson-20260619.mp3" type="audio/mpeg" length="1165314"/>
