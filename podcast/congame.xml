@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wilhelm Voigt</title>
+      <description>Friedrich Wilhelm Voigt (German pronunciation: [ˈfʁiːdʁɪç ˈvɪlhɛlm ˈfoːkt]; 13 February 1849 – 3 January 1922) was a German con man and impostor. In his most famous exploit, Voigt masqueraded as a military officer of the elite Prussian Guards in 1906, rounding up a number of Imperial German Army soldiers under his command, arresting the Mayor of Köpenick, and confiscating  4,002 marks from the cit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/wilhelm-voigt-20260620.mp3" type="audio/mpeg" length="1345036"/>
+      <guid isPermaLink="false">congame-wilhelm-voigt-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 17:19:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soapy Smith</title>
       <description>Jefferson Randolph "Soapy" Smith II (November 2, 1860 – July 8, 1898) was an American con artist and gangster in the American frontier and the Klondike.
 Smith operated confidence schemes across the Western United States, and had a large hand in organized criminal operations in both Colorado and the District of Alaska. Smith gained notoriety through his "prize soap racket," in which he would sell b</description>
