@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bugsy Siegel</title>
+      <description>Benjamin "Bugsy" Siegel (; February 28, 1906 – June 20, 1947) was an American mobster who was a driving force behind the development of the Las Vegas Strip. Along with his childhood friend and fellow gangster Meyer Lansky, Siegel was influential within the Jewish-American mob, the Italian-American Mafia, and the largely Italian-Jewish coalition known as the National Crime Syndicate. Described as "</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bugsy-siegel-20260620.mp3" type="audio/mpeg" length="1411492"/>
+      <guid isPermaLink="false">heist-bugsy-siegel-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 17:29:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jesse James</title>
       <description>Jesse Woodson James (September 5, 1847 – April 3, 1882) was an American outlaw, bank and train robber, guerrilla and leader of the James–Younger Gang. Raised a Southern sympathizer in the "Little Dixie" area of Missouri, James and his brother Frank joined pro-Confederate guerrillas known as "bushwhackers" operating in Missouri and Kansas during the American Civil War. As followers of William Quant</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/jesse-james-20260620.mp3" type="audio/mpeg" length="1510130"/>
