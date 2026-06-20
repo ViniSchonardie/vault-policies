@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Voynich manuscript</title>
+      <description>The Voynich manuscript is an illustrated codex, hand-written in an unknown script referred to as Voynichese. The vellum on which it is written has been carbon-dated to the early 15th century (1404–1438). Stylistic analysis has indicated the manuscript may have been composed in Italy during the Italian Renaissance. The origins, authorship, and purpose of the manuscript are still debated, but curren</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/voynich-manuscript-20260620.mp3" type="audio/mpeg" length="1542313"/>
+      <guid isPermaLink="false">paranormal-voynich-manuscript-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 07:04:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bermuda Triangle</title>
       <description>The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the North Atlantic Ocean, roughly bounded by Florida, Bermuda, and Puerto Rico. Since the mid-20th century, it has been the focus of an urban legend suggesting that many aircraft, ships, and people have disappeared there under mysterious circumstances. However, extensive investigations by reputable sources, in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/bermuda-triangle-20260619.mp3" type="audio/mpeg" length="1716602"/>
