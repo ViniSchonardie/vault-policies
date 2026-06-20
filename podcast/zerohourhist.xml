@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Great Fire of London</title>
+      <description>The Great Fire of London was a major conflagration that occurred in central London from Sunday 2 September to Wednesday 5 September 1666, gutting the medieval City of London inside the old Roman city wall, while also extending past the wall to the west. The death toll is generally thought to have been relatively small, although some historians have challenged this belief.
+The fire started in a bak</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/great-fire-of-london-20260620.mp3" type="audio/mpeg" length="1762995"/>
+      <guid isPermaLink="false">history-great-fire-of-london-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 13:31:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Triangle Shirtwaist Factory fire</title>
       <description>The Triangle Shirtwaist Factory fire occurred in the Greenwich Village neighborhood of Manhattan, a borough of New York City, on Saturday, March 25, 1911. The fire was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history. The fire caused the deaths of 146 garment workers—123 women and girls and 23 men—who died from either the fire, smoke inhalation</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/triangle-shirtwaist-factory-fire-20260620.mp3" type="audio/mpeg" length="1730813"/>
