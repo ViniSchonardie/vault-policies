@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>ValuJet Flight 592</title>
+      <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20260620.mp3" type="audio/mpeg" length="1756726"/>
+      <guid isPermaLink="false">aviation-valujet-flight-592-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 12:31:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air India Flight 182</title>
       <description>Air India Flight 182 was a scheduled international flight from Toronto Pearson International Airport (as Air India Flight 181) to Mumbai’s Sahar International Airport with regular Mirabel-London-Delhi stops. On the morning of June 23, 1985, the Boeing 747-237B serving the Montreal-London segment exploded near the coast of Ireland from a bomb planted by Sikh terrorists from the Babbar Khalsa. All 3</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-182-20260620.mp3" type="audio/mpeg" length="1562793"/>
