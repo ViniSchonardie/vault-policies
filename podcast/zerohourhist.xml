@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Krakatoa</title>
+      <description>Krakatoa (), also transcribed Krakatau (), is a caldera in the Sunda Strait between the islands of Java and Sumatra in the Indonesian province of Lampung. The caldera is part of a volcanic island group (Krakatoa archipelago) comprising four islands. Two of them are known as Lang and Verlaten; another, Rakata, is the only remnant of an island, also called Krakatoa, mostly destroyed by an eruption i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/krakatoa-20260620.mp3" type="audio/mpeg" length="1857872"/>
+      <guid isPermaLink="false">history-krakatoa-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 19:16:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Fire of London</title>
       <description>The Great Fire of London was a major conflagration that occurred in central London from Sunday 2 September to Wednesday 5 September 1666, gutting the medieval City of London inside the old Roman city wall, while also extending past the wall to the west. The death toll is generally thought to have been relatively small, although some historians have challenged this belief.
 The fire started in a bak</description>
