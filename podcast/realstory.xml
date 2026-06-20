@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marie Curie</title>
+      <description>Maria Salomea Skłodowska Curie (Polish: [ˈmarja salɔˈmɛa skwɔˈdɔfska kiˈri] ; née Skłodowska; 7 November 1867 – 4 July 1934), better known as Marie Curie ( KURE-ee; French: [maʁi kyʁi] ), was a Polish and naturalised-French physicist and chemist. She shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, "for their joint researches on the  radioactivity phenomena discovered by Prof</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marie-curie-20260620.mp3" type="audio/mpeg" length="1549000"/>
+      <guid isPermaLink="false">realstory-marie-curie-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 12:33:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joan of Arc</title>
       <description>Joan of Arc (French: Jeanne d'Arc [ʒan daʁk] ; Middle French: Jehanne Darc [ʒəˈãnə ˈdark]; c. 1412 – 30 May 1431) is a patron saint of France, honored as a defender of the French nation for her role in the siege of Orléans and her insistence on the coronation of Charles VII of France during the Hundred Years' War. Stating that she acted under divine guidance, she became a military leader who gaine</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/joan-of-arc-20260620.mp3" type="audio/mpeg" length="1426956"/>
