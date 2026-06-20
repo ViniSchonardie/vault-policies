@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest Airlines Flight 1380</title>
+      <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20260620.mp3" type="audio/mpeg" length="1765921"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1380-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 18:23:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ValuJet Flight 592</title>
       <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20260620.mp3" type="audio/mpeg" length="1756726"/>
