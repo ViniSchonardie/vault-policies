@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Muammar Gaddafi</title>
+      <description>Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Sec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/muammar-gaddafi-20260620.mp3" type="audio/mpeg" length="1813986"/>
+      <guid isPermaLink="false">warvault-muammar-gaddafi-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 00:58:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Benito Mussolini</title>
       <description>Benito Amilcare Andrea Mussolini (29 July 1883 – 28 April 1945) was an Italian politician, journalist, and dictator who led Italy as Il Duce from 1922 until his overthrow in 1943. He founded fascism in 1919 with the creation of the Fasci Italiani di Combattimento, which became the National Fascist Party (PNF) in 1921. Mussolini was appointed Prime Minister of Italy after the March on Rome in 1922,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/benito-mussolini-20260619.mp3" type="audio/mpeg" length="1844497"/>
