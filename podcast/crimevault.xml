@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Richard Ramirez</title>
+      <description>Ricardo Leyva Muñoz Ramirez, better known as Richard Ramirez, was an American serial killer, sex offender and burglar whose killing spree occurred in Greater Los Angeles and the San Francisco Bay Area in the state of California. From April 1984 to August 1985, Ramirez murdered at least fifteen people during various break-ins. With his crimes usually taking place after dark, Ramirez was dubbed the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-ramirez-20260620.mp3" type="audio/mpeg" length="1343782"/>
+      <guid isPermaLink="false">crime-richard-ramirez-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 16:18:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Edmund Kemper</title>
       <description>Edmund Emil Kemper III is an American serial killer convicted of murdering seven women, including his own mother, and one girl between May 1972 and April 1973. Years earlier, at the age of 15, Kemper had murdered his paternal grandparents. Kemper was nicknamed the "Co-ed Killer", as most of his non-familial victims were female college students hitchhiking in the vicinity of Santa Cruz County, Cali</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/edmund-kemper-20260620.mp3" type="audio/mpeg" length="1500517"/>
