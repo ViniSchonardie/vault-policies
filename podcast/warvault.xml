@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pol Pot</title>
+      <description>Pol Pot (born Saloth Sâr; 19 May 1925 – 15 April 1998) was a Cambodian politician, revolutionary, and dictator who ruled Democratic Kampuchea from 1975 until his overthrow in 1979 during the Cambodian–Vietnamese War. Under his reign, his administration oversaw the Cambodian genocide, and he is widely believed to be one of the most brutal despots in modern world history. Ideologically a Maoist and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/pol-pot-20260620.mp3" type="audio/mpeg" length="1694450"/>
+      <guid isPermaLink="false">warvault-pol-pot-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 14:27:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Heinrich Himmler</title>
       <description>Heinrich Luitpold Himmler (German: [ˈhaɪnʁɪç ˈluːɪtpɔlt ˈhɪmlɐ] ; 7 October 1900 – 23 May 1945) was a German Nazi politician and military leader. He was the 4th Reichsführer of the Schutzstaffel (Protection Squadron; SS) from 1929 to 1945. He was a leading member of the Nazi Party, and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the ge</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/heinrich-himmler-20260620.mp3" type="audio/mpeg" length="1593304"/>
