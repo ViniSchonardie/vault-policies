@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George Blake</title>
+      <description>George Blake (né Behar; 11 November 1922 – 26 December 2020) was a spy who worked for Britain's Secret Intelligence Service (MI6) and became a double agent for the Soviet Union. Captured during the Korean War, he was imprisoned by North Korean forces and became a communist, deciding to work for the Ministry of State Security (MGB). Upon returning to the United Kingdom, he resumed work with MI6 whi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/george-blake-20260620.mp3" type="audio/mpeg" length="1242636"/>
+      <guid isPermaLink="false">shadow-george-blake-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 07:08:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Violette Szabo</title>
       <description>Violette Reine Elizabeth Szabo, GC (née Bushell; 26 June 1921 – c. 5 February 1945) was a British-French Special Operations Executive (SOE) agent during the Second World War and a posthumous recipient of the George Cross. On her second mission into occupied France, Szabo was captured by the German army, interrogated, tortured, and deported to Ravensbrück concentration camp in Germany, where she wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/violette-szabo-20260620.mp3" type="audio/mpeg" length="1450780"/>
