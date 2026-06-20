@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bigfoot</title>
+      <description>Bigfoot, also commonly referred to as Sasquatch, is a large, hairy, mythical humanoid creature said to inhabit forests in North America, particularly in the Pacific Northwest. Bigfoot is featured in both American and Canadian folklore, and since the mid-20th century has become a cultural icon, permeating popular culture and becoming the subject of its own distinct subculture.
+Enthusiasts of Bigfoo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/bigfoot-20260620.mp3" type="audio/mpeg" length="1400207"/>
+      <guid isPermaLink="false">paranormal-bigfoot-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 15:03:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dyatlov Pass incident</title>
       <description>The Dyatlov Pass incident (Russian: Гибель тургруппы Дятлова, romanized: Gibel turgruppy Dyatlova, lit. 'Death of the Dyatlov Hiking Group') was an event in which nine Soviet ski hikers died in the northern part of the Ural Mountains ridge in the Russian SFSR of the Soviet Union on 1 or 2 February 1959 under undetermined circumstances. The experienced trekking group from the Ural Polytechnical Ins</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/dyatlov-pass-incident-20260620.mp3" type="audio/mpeg" length="1744187"/>
