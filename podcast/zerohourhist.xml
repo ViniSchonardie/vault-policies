@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Triangle Shirtwaist Factory fire</title>
+      <description>The Triangle Shirtwaist Factory fire occurred in the Greenwich Village neighborhood of Manhattan, a borough of New York City, on Saturday, March 25, 1911. The fire was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history. The fire caused the deaths of 146 garment workers—123 women and girls and 23 men—who died from either the fire, smoke inhalation</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/triangle-shirtwaist-factory-fire-20260620.mp3" type="audio/mpeg" length="1730813"/>
+      <guid isPermaLink="false">history-triangle-shirtwaist-factory-fire-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 08:46:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hindenburg disaster</title>
       <description>The Hindenburg disaster was an airship accident that occurred on May 6, 1937, in Manchester Township, New Jersey, United States. The LZ 129 Hindenburg (Luftschiff Zeppelin #129; Registration: D-LZ 129) was a German commercial passenger-carrying rigid airship, the lead ship of the Hindenburg class, the longest class of flying machine and the largest airship by envelope volume. Filled with hydrogen,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/hindenburg-disaster-20260620.mp3" type="audio/mpeg" length="1589542"/>
