@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Violette Szabo</title>
+      <description>Violette Reine Elizabeth Szabo, GC (née Bushell; 26 June 1921 – c. 5 February 1945) was a British-French Special Operations Executive (SOE) agent during the Second World War and a posthumous recipient of the George Cross. On her second mission into occupied France, Szabo was captured by the German army, interrogated, tortured, and deported to Ravensbrück concentration camp in Germany, where she wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/violette-szabo-20260620.mp3" type="audio/mpeg" length="1450780"/>
+      <guid isPermaLink="false">shadow-violette-szabo-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 00:10:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Richard Sorge</title>
       <description>Richard Gustavovich Sorge (Russian: Рихард Густавович Зорге, romanized: Rikhard Gustavovich Zorge; 4 October 1895 – 7 November 1944) was a German-Russian journalist and Soviet military intelligence officer who was active before and during World War II and worked undercover as a German journalist in both Nazi Germany and the Empire of Japan. His codename was "Ramsay" (Рамза́й).
 Sorge is known for h</description>
