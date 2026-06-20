@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Windsor Castle</title>
+      <description>Windsor Castle is a royal residence at Windsor in the English county of Berkshire, about 25 miles (40 km) west of central London. It is strongly associated with the English and succeeding British royal family, and embodies almost a millennium of architectural history.
+The original castle was built in the 11th century, after the Norman invasion of England by William the Conqueror. Since the time of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/windsor-castle-20260620.mp3" type="audio/mpeg" length="1272311"/>
+      <guid isPermaLink="false">royal-windsor-castle-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 16:25:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Queen Camilla</title>
       <description>Camilla (née Camilla Rosemary Shand, later Parker Bowles; born 17 July 1947) is Queen of the United Kingdom and the 14 other Commonwealth realms as the wife of King Charles III.
 Camilla was raised in East Sussex and South Kensington in England and educated in England, Switzerland and France. In 1973, she married British Army officer Andrew Parker Bowles; they divorced in 1995. Camilla and Charles </description>
