@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Dillinger</title>
+      <description>John Herbert Dillinger (; June 22, 1903 – July 22, 1934) was an American gangster during the Great Depression. He commanded the Dillinger Gang, which was accused of robbing twenty-four banks and four police stations. Dillinger was imprisoned several times and escaped twice. He was charged with but not convicted of the murder of East Chicago, Indiana, police officer William O'Malley, who shot Dilli</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/john-dillinger-20260620.mp3" type="audio/mpeg" length="1375547"/>
+      <guid isPermaLink="false">heist-john-dillinger-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 23:16:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bugsy Siegel</title>
       <description>Benjamin "Bugsy" Siegel (; February 28, 1906 – June 20, 1947) was an American mobster who was a driving force behind the development of the Las Vegas Strip. Along with his childhood friend and fellow gangster Meyer Lansky, Siegel was influential within the Jewish-American mob, the Italian-American Mafia, and the largely Italian-Jewish coalition known as the National Crime Syndicate. Described as "</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bugsy-siegel-20260620.mp3" type="audio/mpeg" length="1411492"/>
