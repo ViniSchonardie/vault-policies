@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Heinrich Himmler</title>
+      <description>Heinrich Luitpold Himmler (German: [ˈhaɪnʁɪç ˈluːɪtpɔlt ˈhɪmlɐ] ; 7 October 1900 – 23 May 1945) was a German Nazi politician and military leader. He was the 4th Reichsführer of the Schutzstaffel (Protection Squadron; SS) from 1929 to 1945. He was a leading member of the Nazi Party, and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the ge</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/heinrich-himmler-20260620.mp3" type="audio/mpeg" length="1593304"/>
+      <guid isPermaLink="false">warvault-heinrich-himmler-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 08:54:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mao Zedong</title>
       <description>Mao Zedong (26 December 1893 – 9 September 1976) was a Chinese revolutionary, politician, writer, political theorist and the founder of the People's Republic of China (PRC). He led China from the PRC's establishment in October 1949 until his death in September 1976, primarily through his role as the Chairman of the Chinese Communist Party (CCP). His theories, which he advocated as a Chinese adapta</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/mao-zedong-20260620.mp3" type="audio/mpeg" length="1670626"/>
