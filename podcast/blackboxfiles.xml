@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air India Flight 182</title>
+      <description>Air India Flight 182 was a scheduled international flight from Toronto Pearson International Airport (as Air India Flight 181) to Mumbai’s Sahar International Airport with regular Mirabel-London-Delhi stops. On the morning of June 23, 1985, the Boeing 747-237B serving the Montreal-London segment exploded near the coast of Ireland from a bomb planted by Sikh terrorists from the Babbar Khalsa. All 3</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-182-20260620.mp3" type="audio/mpeg" length="1562793"/>
+      <guid isPermaLink="false">aviation-air-india-flight-182-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 08:28:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jeju Air Flight 2216</title>
       <description>Jeju Air Flight 2216 was a scheduled international passenger flight operated by Jeju Air from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, when the Boeing 737-800 operating the flight was approaching Muan, a bird strike occurred, with both of the engines ingesting birds, causing an apparent loss of thrust in the right </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jeju-air-flight-2216-20260620.mp3" type="audio/mpeg" length="1566555"/>
