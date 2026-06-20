@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mao Zedong</title>
+      <description>Mao Zedong (26 December 1893 – 9 September 1976) was a Chinese revolutionary, politician, writer, political theorist and the founder of the People's Republic of China (PRC). He led China from the PRC's establishment in October 1949 until his death in September 1976, primarily through his role as the Chairman of the Chinese Communist Party (CCP). His theories, which he advocated as a Chinese adapta</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/mao-zedong-20260620.mp3" type="audio/mpeg" length="1670626"/>
+      <guid isPermaLink="false">warvault-mao-zedong-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 04:06:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Muammar Gaddafi</title>
       <description>Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Sec</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/muammar-gaddafi-20260620.mp3" type="audio/mpeg" length="1813986"/>
