@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Louis XVI</title>
+      <description>Louis XVI (Louis-Auguste; French: [lwi sɛːz]; 23 August 1754 – 21 January 1793) was the last king of France before the fall of the monarchy during the French Revolution. The son of Louis, Dauphin of France (son and heir apparent of King Louis XV), and Maria Josepha of Saxony, Louis became the new Dauphin when his father died in 1765. In 1770, he married Marie Antoinette. He became King of France a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/louis-xvi-20260620.mp3" type="audio/mpeg" length="1403133"/>
+      <guid isPermaLink="false">royal-louis-xvi-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 05:24:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elizabeth I</title>
       <description>Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.
 Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two y</description>
