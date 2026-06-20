@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Ponzi</title>
+      <description>Charles Ponzi (; Italian: [ˈpontsi]; born Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi; 3 March 1882 – 18 January 1949) was an Italian charlatan and con artist who operated in the United States and Canada. His aliases included Charles Ponci, Carlo, Benny Broncko and Charles P. Bianchi.
+Born in Lugo, Italy, he became known in the early 1920s as a swindler in North America for his money-making sche</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/charles-ponzi-20260620.mp3" type="audio/mpeg" length="1261444"/>
+      <guid isPermaLink="false">congame-charles-ponzi-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 02:06:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jho Low</title>
       <description>Taek Jho Low (Chinese: 刘特佐; pinyin: Liú Tèzuǒ; born 4 November 1981) is a Malaysian businessman and fugitive who has been wanted by Interpol since 2016 for his key role in the 1MDB scandal. Low is alleged to have stolen over US$4.5 billion from the state-owned company 1MDB.
 Born into a wealthy Malaysian family, Low graduated from University of Pennsylvania in 2005. He is the beneficiary of numerou</description>
