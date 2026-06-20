@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Margaret Tudor</title>
+      <description>Margaret Tudor (29 November 1489 – 18 October 1541) was Queen of Scotland from 1503 until 1513 as the wife of James IV. She then served as regent of Scotland during her son's minority, and fought to extend her regency. Margaret was the eldest daughter and second child of Henry VII of England and Elizabeth of York, and the elder sister of Henry VIII. Through her descendants, the House of Stuart eve</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/margaret-tudor-20260620.mp3" type="audio/mpeg" length="1302822"/>
+      <guid isPermaLink="false">royal-margaret-tudor-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 22:17:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Windsor Castle</title>
       <description>Windsor Castle is a royal residence at Windsor in the English county of Berkshire, about 25 miles (40 km) west of central London. It is strongly associated with the English and succeeding British royal family, and embodies almost a millennium of architectural history.
 The original castle was built in the 11th century, after the Norman invasion of England by William the Conqueror. Since the time of</description>
