@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jeju Air Flight 2216</title>
+      <description>Jeju Air Flight 2216 was a scheduled international passenger flight operated by Jeju Air from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, when the Boeing 737-800 operating the flight was approaching Muan, a bird strike occurred, with both of the engines ingesting birds, causing an apparent loss of thrust in the right </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jeju-air-flight-2216-20260620.mp3" type="audio/mpeg" length="1566555"/>
+      <guid isPermaLink="false">aviation-jeju-air-flight-2216-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 00:17:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Japan Air Lines Flight 123</title>
       <description>Japan Air Lines Flight 123 was a scheduled domestic passenger flight from Tokyo to Osaka, Japan. On the evening of Monday, August 12, 1985, the Boeing 747 flying the route suffered a severe structural failure and explosive decompression 12 minutes after takeoff. After flying under minimal control for 32 minutes, the plane crashed in the area of Mount Takamagahara, 100 kilometres (62 mi; 54 nmi) fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/japan-air-lines-flight-123-20260619.mp3" type="audio/mpeg" length="1320795"/>
