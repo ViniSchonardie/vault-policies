@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dyatlov Pass incident</title>
+      <description>The Dyatlov Pass incident (Russian: Гибель тургруппы Дятлова, romanized: Gibel turgruppy Dyatlova, lit. 'Death of the Dyatlov Hiking Group') was an event in which nine Soviet ski hikers died in the northern part of the Ural Mountains ridge in the Russian SFSR of the Soviet Union on 1 or 2 February 1959 under undetermined circumstances. The experienced trekking group from the Ural Polytechnical Ins</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/dyatlov-pass-incident-20260620.mp3" type="audio/mpeg" length="1744187"/>
+      <guid isPermaLink="false">paranormal-dyatlov-pass-incident-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 10:03:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Voynich manuscript</title>
       <description>The Voynich manuscript is an illustrated codex, hand-written in an unknown script referred to as Voynichese. The vellum on which it is written has been carbon-dated to the early 15th century (1404–1438). Stylistic analysis has indicated the manuscript may have been composed in Italy during the Italian Renaissance. The origins, authorship, and purpose of the manuscript are still debated, but curren</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/voynich-manuscript-20260620.mp3" type="audio/mpeg" length="1542313"/>
