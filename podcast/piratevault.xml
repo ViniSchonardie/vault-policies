@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>William Kidd</title>
+      <description>William Kidd (c. 1645 – 23 May 1701), also known as Captain William Kidd or simply Captain Kidd, was a Scottish privateer. Conflicting accounts exist regarding his early life, but he was likely born in Dundee and later settled in New York City. By 1690, Kidd had become a highly successful privateer, commissioned to protect English interests in the Thirteen Colonies in North America and the West In</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/william-kidd-20260620.mp3" type="audio/mpeg" length="1573242"/>
+      <guid isPermaLink="false">pirates-william-kidd-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 15:48:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mary Read</title>
       <description>Mary Read (died April 1721), was an English pirate who served under John Rackham. She and Anne Bonny were among the few female pirates during the "Golden Age of Piracy".
 Much of Read's background is unknown. The first biography of Read comes from Captain Charles Johnson's 1724 book, A General History of the Pyrates. According to Johnson, Read was born in England, dressed as a boy much of her child</description>
