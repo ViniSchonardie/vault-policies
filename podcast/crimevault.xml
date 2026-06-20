@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aileen Wuornos</title>
+      <description>Aileen Carol Wuornos was an American serial killer. Between 1989 and 1990, while engaging in street prostitution along highways in Florida, Wuornos shot, killed, and robbed seven of her male clients. She initially claimed that her victims had either raped or attempted to rape her, and that the homicides were committed in self-defense, but later abandoned this defense. Wuornos was sentenced to deat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/aileen-wuornos-20260620.mp3" type="audio/mpeg" length="1192899"/>
+      <guid isPermaLink="false">crime-aileen-wuornos-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 07:10:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Zodiac Killer</title>
       <description>The Zodiac Killer is an unidentified serial killer who murdered at least five people in the San Francisco Bay Area between December 1968 and October 1969. The Zodiac attacked three couples and a cab driver in Benicia, Vallejo, unincorporated Napa County, and the city of San Francisco. Two of the Zodiac's seven victims survived.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/zodiac-killer-20260619.mp3" type="audio/mpeg" length="1585781"/>
