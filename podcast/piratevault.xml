@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jean Lafitte</title>
+      <description>Jean Lafitte (c. 1780 – c. 1823) was a French pirate, privateer, and slave trader who operated in the Gulf of Mexico in the early 19th century. He and his older brother Pierre spelled their last name Laffite, but English language documents of the time used "Lafitte". This has become the common spelling in the United States, including places named after him.
+Lafitte is believed to have been born ei</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/jean-lafitte-20260620.mp3" type="audio/mpeg" length="1613366"/>
+      <guid isPermaLink="false">pirates-jean-lafitte-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 23:12:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Kidd</title>
       <description>William Kidd (c. 1645 – 23 May 1701), also known as Captain William Kidd or simply Captain Kidd, was a Scottish privateer. Conflicting accounts exist regarding his early life, but he was likely born in Dundee and later settled in New York City. By 1690, Kidd had become a highly successful privateer, commissioned to protect English interests in the Thirteen Colonies in North America and the West In</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/william-kidd-20260620.mp3" type="audio/mpeg" length="1573242"/>
