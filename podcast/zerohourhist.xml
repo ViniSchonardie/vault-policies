@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hindenburg disaster</title>
+      <description>The Hindenburg disaster was an airship accident that occurred on May 6, 1937, in Manchester Township, New Jersey, United States. The LZ 129 Hindenburg (Luftschiff Zeppelin #129; Registration: D-LZ 129) was a German commercial passenger-carrying rigid airship, the lead ship of the Hindenburg class, the longest class of flying machine and the largest airship by envelope volume. Filled with hydrogen,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/hindenburg-disaster-20260620.mp3" type="audio/mpeg" length="1589542"/>
+      <guid isPermaLink="false">history-hindenburg-disaster-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 04:07:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pompeii</title>
       <description>Pompeii ( ; Latin: [pɔmˈpei̯.iː]) was a city in what is now the municipality of Pompei, near Naples, in the Campania region of Italy. Along with Herculaneum, Stabiae, and many surrounding villas, it was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in 79 AD.
 Largely preserved under the ash, Pompeii offers a unique snapshot of Roman life, frozen at</description>
