@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Soapy Smith</title>
+      <description>Jefferson Randolph "Soapy" Smith II (November 2, 1860 – July 8, 1898) was an American con artist and gangster in the American frontier and the Klondike.
+Smith operated confidence schemes across the Western United States, and had a large hand in organized criminal operations in both Colorado and the District of Alaska. Smith gained notoriety through his "prize soap racket," in which he would sell b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/soapy-smith-20260620.mp3" type="audio/mpeg" length="1413582"/>
+      <guid isPermaLink="false">congame-soapy-smith-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 10:28:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Ponzi</title>
       <description>Charles Ponzi (; Italian: [ˈpontsi]; born Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi; 3 March 1882 – 18 January 1949) was an Italian charlatan and con artist who operated in the United States and Canada. His aliases included Charles Ponci, Carlo, Benny Broncko and Charles P. Bianchi.
 Born in Lugo, Italy, he became known in the early 1920s as a swindler in North America for his money-making sche</description>
