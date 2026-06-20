@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gary Ridgway</title>
+      <description>Gary Leon Ridgway, known as the Green River Killer or the Green River Strangler, is an American serial killer who was convicted of murdering forty-nine women between 1982 and 1998 in the northwestern United States. At the time of his arrest in 2001, he was believed to be the most prolific serial killer in United States history, according to confirmed murders.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gary-ridgway-20260620.mp3" type="audio/mpeg" length="1233023"/>
+      <guid isPermaLink="false">crime-gary-ridgway-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 22:02:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Richard Ramirez</title>
       <description>Ricardo Leyva Muñoz Ramirez, better known as Richard Ramirez, was an American serial killer, sex offender and burglar whose killing spree occurred in Greater Los Angeles and the San Francisco Bay Area in the state of California. From April 1984 to August 1985, Ramirez murdered at least fifteen people during various break-ins. With his crimes usually taking place after dark, Ramirez was dubbed the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-ramirez-20260620.mp3" type="audio/mpeg" length="1343782"/>
