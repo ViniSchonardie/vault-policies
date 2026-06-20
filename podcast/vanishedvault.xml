@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ivan Serov</title>
+      <description>Ivan Alexandrovich Serov (Russian: Ива́н Алекса́ндрович Серóв; 13 August 1905 – 1 July 1990) was a Soviet intelligence officer who served as Chairman of the KGB from March 1954 to December 1958 and Director of the GRU from December 1958 to February 1963. Serov was NKVD Commissar of the Ukrainian SSR from 1939 to 1941 and Deputy Commissar of the NKVD under Lavrentiy Beria from 1941 to 1954.
+Serov w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/ivan-serov-20260620.mp3" type="audio/mpeg" length="1424031"/>
+      <guid isPermaLink="false">shadow-ivan-serov-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 10:02:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George Blake</title>
       <description>George Blake (né Behar; 11 November 1922 – 26 December 2020) was a spy who worked for Britain's Secret Intelligence Service (MI6) and became a double agent for the Soviet Union. Captured during the Korean War, he was imprisoned by North Korean forces and became a communist, deciding to work for the Ministry of State Security (MGB). Upon returning to the United Kingdom, he resumed work with MI6 whi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/george-blake-20260620.mp3" type="audio/mpeg" length="1242636"/>
