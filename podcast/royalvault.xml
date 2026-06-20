@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Queen Camilla</title>
+      <description>Camilla (née Camilla Rosemary Shand, later Parker Bowles; born 17 July 1947) is Queen of the United Kingdom and the 14 other Commonwealth realms as the wife of King Charles III.
+Camilla was raised in East Sussex and South Kensington in England and educated in England, Switzerland and France. In 1973, she married British Army officer Andrew Parker Bowles; they divorced in 1995. Camilla and Charles </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/queen-camilla-20260620.mp3" type="audio/mpeg" length="1480455"/>
+      <guid isPermaLink="false">royal-queen-camilla-20260620</guid>
+      <pubDate>Sat, 20 Jun 2026 11:18:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lady Jane Grey</title>
       <description>Lady Jane Grey (1536/1537 – 12 February 1554), also known as Lady Jane Dudley after her marriage, and nicknamed as the "Nine Days Queen", was an English noblewoman who was proclaimed Queen of England and Ireland on 10 July 1553 and reigned until she was deposed by the Privy Council of England, which proclaimed her cousin, Mary I, as the new Queen on 19 July. Jane was later beheaded for high treaso</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/lady-jane-grey-20260620.mp3" type="audio/mpeg" length="1304912"/>
