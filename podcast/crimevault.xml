@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rodney Alcala</title>
+      <description>Rodney James Alcala, also known as John Berger and John Burger, was an American serial killer and convicted sex offender who was sentenced to death in California for five murders committed between 1977 and 1979. He pleaded guilty and received two sentences, both twenty-five years to life, for two further murders committed in New York State. He was also indicted for one murder in Wyoming, although </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/rodney-alcala-20260621.mp3" type="audio/mpeg" length="1720364"/>
+      <guid isPermaLink="false">crime-rodney-alcala-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 16:32:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>David Berkowitz</title>
       <description>David Richard Berkowitz, also known as the Son of Sam, the .44 Caliber Killer and the Phantom of the Bronx, is an American serial killer, serial arsonist and former United States Army soldier who committed a stabbing and a series of shootings in New York City between 1975 and 1977, killing six people and wounding eleven others. Armed with a .44 caliber Bulldog revolver during most of his crimes, B</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-berkowitz-20260621.mp3" type="audio/mpeg" length="1573242"/>
