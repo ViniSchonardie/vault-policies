@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Horatio Bottomley</title>
+      <description>Horatio William Bottomley (23 March 1860 – 26 May 1933) was an English financier, journalist, editor, newspaper proprietor, swindler, and Member of Parliament. He is best known for his editorship of the popular magazine John Bull, and for his nationalistic oratory during the First World War. His career came to a sudden end when, in 1922, he was convicted of fraud and sentenced to seven years' impr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/horatio-bottomley-20260621.mp3" type="audio/mpeg" length="1380981"/>
+      <guid isPermaLink="false">congame-horatio-bottomley-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 11:02:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amy Bock</title>
       <description>Amy Maud Bock (18 May 1859 – 29 August 1943) was a New Zealand confidence trickster. Her usual pattern involved making emotional claims to her employer or other acquaintances in order to obtain money or property, or committing some other petty scam like taking watches for "repair" and then claiming to have lost them, making purchases under her employer or acquaintance's name without permission, or</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/amy-bock-20260621.mp3" type="audio/mpeg" length="1218813"/>
