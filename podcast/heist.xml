@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thompson submachine gun</title>
+      <description>The Thompson submachine gun (also known as the "Tommy gun", "Chicago typewriter", or "trench broom") is a blowback-operated, selective-fire submachine gun, invented and developed by Brigadier General John T. Thompson, a United States Army officer, in 1918. It was designed to break the stalemate of trench warfare of World War I, although early models did not arrive in time for actual combat. The Th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/thompson-submachine-gun-20260621.mp3" type="audio/mpeg" length="1603753"/>
+      <guid isPermaLink="false">heist-thompson-submachine-gun-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 17:31:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ned Kelly</title>
       <description>Edward Kelly (December 1854 – 11 November 1880) was an Australian bushranger, gang leader and police-murderer. One of the last bushrangers, he is known for wearing a homemade suit of bulletproof armour during his final shootout with the police.
 Kelly was born and raised in rural Victoria, the third of eight children to Irish parents. His father, a transported convict, died in 1866, leaving Kelly, </description>
