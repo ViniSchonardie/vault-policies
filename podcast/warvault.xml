@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Francisco Franco</title>
+      <description>Francisco Franco Bahamonde (4 December 1892 – 20 November 1975) was a Spanish military general who was the leader of Spain from 1939 until his death in 1975. He had led the Nationalist forces in overthrowing the Second Spanish Republic during the Spanish Civil War. This period in Spanish history, from the Nationalist victory to Franco's death, is commonly known as Francoist Spain.
+Born in Ferrol, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/francisco-franco-20260621.mp3" type="audio/mpeg" length="1515982"/>
+      <guid isPermaLink="false">warvault-francisco-franco-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 04:48:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Idi Amin</title>
       <description>Awon'go Idi Amin Dada Oumee (30 May 1928 – 16 August 2003) was a Ugandan military officer and politician who seized and held power as the third president of Uganda from 1971 until his overthrow in 1979. In 1971, he overthrew president Milton Obote, subsequently ruling as a dictator. He was ousted from power in 1979 after launching an unsuccessful war on Tanzania, living in exile in Saudi Arabia fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/idi-amin-20260620.mp3" type="audio/mpeg" length="1492158"/>
