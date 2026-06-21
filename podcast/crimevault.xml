@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>David Berkowitz</title>
+      <description>David Richard Berkowitz, also known as the Son of Sam, the .44 Caliber Killer and the Phantom of the Bronx, is an American serial killer, serial arsonist and former United States Army soldier who committed a stabbing and a series of shootings in New York City between 1975 and 1977, killing six people and wounding eleven others. Armed with a .44 caliber Bulldog revolver during most of his crimes, B</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-berkowitz-20260621.mp3" type="audio/mpeg" length="1573242"/>
+      <guid isPermaLink="false">crime-david-berkowitz-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 11:42:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Albert Fish</title>
       <description>Hamilton Howard "Albert" Fish was an American serial killer, rapist, child molester and cannibal who committed at least three child murders between July 1924 and June 1928. He was also known as the Gray Man, the Werewolf of Wysteria, the Brooklyn Vampire, the Moon Maniac and the Boogey Man. Fish was a suspect in at least ten murders during his lifetime, although he only confessed to three that pol</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-fish-20260621.mp3" type="audio/mpeg" length="1337931"/>
