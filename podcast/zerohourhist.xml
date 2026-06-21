@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Black Saturday bushfires</title>
+      <description>The Black Saturday bushfires were a series of bushfires that either ignited or were already burning across the Australian state of Victoria on Saturday, 7 February 2009, and was one of Australia's all-time worst bushfire disasters. The fires occurred during extreme bushfire weather conditions and resulted in Australia's highest-ever loss of human life from a bushfire, with 173 fatalities. Many peo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/black-saturday-bushfires-20260621.mp3" type="audio/mpeg" length="1759652"/>
+      <guid isPermaLink="false">history-black-saturday-bushfires-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 19:21:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Texas City disaster</title>
       <description>The Texas City disaster was an industrial accident that occurred on April 16, 1947, in the port of Texas City, Texas, United States, located in Galveston Bay. It was the deadliest industrial accident in U.S. history and one of history's largest non-nuclear explosions.
 The explosion was triggered by a mid-morning fire on board the French-registered vessel Grandcamp (docked at port), which detonated</description>
