@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Edward Low</title>
+      <description>Edward Low, also known as Ned Low (other spellings include Lowe and Loe; c. 1690–1724), was a pirate of English origin during the latter days of the Golden Age of Piracy, in the early 18th century. Low was born into poverty in Westminster, Middlesex, and was a thief from an early age. He moved to Boston, Massachusetts, as a young man. His wife died in childbirth in late 1719. Two years later, he b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/edward-low-20260621.mp3" type="audio/mpeg" length="1348380"/>
+      <guid isPermaLink="false">pirates-edward-low-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 15:53:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Olivier Levasseur</title>
       <description>Olivier Levasseur (1688, 1689, or 1690 – 7 July 1730), was a French pirate, nicknamed La Buse ("The Buzzard") or La Bouche ("The Mouth") or (Portuguese: O Falcão) in his early days for the speed and ruthlessness with which he always attacked his enemies as well as his ability to verbally attack his opponents. He is known for his involvement in the Nossa Senhora Do Cabo heist, among the richest plu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/olivier-levasseur-20260621.mp3" type="audio/mpeg" length="1761324"/>
