@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Empress Matilda</title>
+      <description>Empress Matilda (c. 7 February 1102 – 10 September 1167), also known as Empress Maud, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until his death in 1125, and was subsequently a claimant to the English throne, and Lady of the English, during the civil war known as the Anarchy. Following the death of her father, King Henry I of England, as his only surviving child and nominat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/empress-matilda-20260621.mp3" type="audio/mpeg" length="1244308"/>
+      <guid isPermaLink="false">royal-empress-matilda-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 11:47:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tipu Sultan</title>
       <description>Tipu Sultan (Urdu: [ʈiːpuː sʊlt̪aːn], Kannada: [ʈipːu sult̪aːn], Sultan Fateh Ali Sahab Tipu; 1 December 1751 – 4 May 1799), commonly referred to as Sher-e-Mysore (Tiger of Mysore), was the Sultan of Mysore from 1782 until his death in 1799. He was a pioneer of rocket artillery. He expanded the iron-cased Mysorean rockets and commissioned the military manual Fathul Mujahidin. The economy of Mysore</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/tipu-sultan-20260621.mp3" type="audio/mpeg" length="1193735"/>
