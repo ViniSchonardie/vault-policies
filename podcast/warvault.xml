@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Midway</title>
+      <description>The Battle of Midway was a major naval battle in the Pacific Theater of World War II that took place on 4–7 June 1942, six months after Japan's attack on Pearl Harbor and one month after the Battle of the Coral Sea. The Japanese Combined Fleet under the command of Isoroku Yamamoto suffered a decisive defeat by two carrier strike groups of the U.S. Pacific Fleet near Midway Atoll, about 1,300 mi (1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-midway-20260621.mp3" type="audio/mpeg" length="1742097"/>
+      <guid isPermaLink="false">warvault-battle-of-midway-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 19:29:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nicolae Ceaușescu</title>
       <description>Nicolae Ceaușescu (8 February [O.S. 26 January] 1918 – 25 December 1989) was a Romanian communist politician and dictator who led Romania as general secretary of the Romanian Communist Party from 1965 and as president from 1974 until his execution in 1989.
 Born in Scornicești, Ceaușescu joined the Romanian Communist Party in his teens and was repeatedly imprisoned under the pre-war and wartime reg</description>
