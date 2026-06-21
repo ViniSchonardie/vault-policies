@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1994 Fairchild Air Force Base B-52 crash</title>
+      <description>On Friday, June 24, 1994, a United States Air Force (USAF) Boeing B-52 Stratofortress crashed at Fairchild Air Force Base, Washington, United States, after its pilot, Lieutenant Colonel Arthur "Bud" Holland, maneuvered the bomber beyond its operational limits and lost control. The aircraft stalled, fell to the ground and exploded, killing Holland and the other three crew aboard. The crash was capt</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1994-fairchild-air-force-base-b-52-crash-20260621.mp3" type="audio/mpeg" length="1604589"/>
+      <guid isPermaLink="false">aviation-1994-fairchild-air-force-base-b-52-crash-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 00:09:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest Airlines Flight 1380</title>
       <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20260620.mp3" type="audio/mpeg" length="1765921"/>
