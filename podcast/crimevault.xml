@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Harold Shipman</title>
+      <description>Harold Frederick Shipman was an English doctor in general practice and serial killer. He is considered to be one of the most prolific serial killers in modern history, with an estimated 250 victims over roughly 30 years. On 31 January 2000, Shipman was convicted of murdering 15 patients under his care. He was sentenced to life imprisonment with a whole life order. On 13 January 2004, one day befor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/harold-shipman-20260621.mp3" type="audio/mpeg" length="1629248"/>
+      <guid isPermaLink="false">crime-harold-shipman-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 22:11:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rodney Alcala</title>
       <description>Rodney James Alcala, also known as John Berger and John Burger, was an American serial killer and convicted sex offender who was sentenced to death in California for five murders committed between 1977 and 1979. He pleaded guilty and received two sentences, both twenty-five years to life, for two further murders committed in New York State. He was also indicted for one murder in Wyoming, although </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/rodney-alcala-20260621.mp3" type="audio/mpeg" length="1720364"/>
