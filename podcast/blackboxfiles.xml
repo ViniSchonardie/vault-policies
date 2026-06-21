@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>South African Airways Flight 295</title>
+      <description>South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-295-20260621.mp3" type="audio/mpeg" length="1603753"/>
+      <guid isPermaLink="false">aviation-south-african-airways-flight-295-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 18:25:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Northwest Airlines Flight 255</title>
       <description>On August 16, 1987, a McDonnell Douglas MD-82 operating as Northwest Airlines Flight 255 crashed shortly after takeoff from Detroit Metropolitan Airport at about 20:46 EDT (00:46 UTC August 17). All six crew members and 148 of the 149 passengers, as well as two people on the ground, were killed. The National Transportation Safety Board (NTSB) determined that the probable cause of the accident was </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-airlines-flight-255-20260621.mp3" type="audio/mpeg" length="1772608"/>
