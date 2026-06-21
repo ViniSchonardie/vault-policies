@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Deepwater Horizon explosion</title>
+      <description>On April 20, 2010, an explosion and fire occurred on the Deepwater Horizon semi-submersible mobile offshore drilling unit, which was owned and operated by Transocean and drilling for BP in the Macondo Prospect oil field about 40 miles (64 km) southeast off the Louisiana coast. The explosion and subsequent fire resulted in the sinking of the Deepwater Horizon and the deaths of 11 workers; 17 others</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/deepwater-horizon-explosion-20260621.mp3" type="audio/mpeg" length="1936031"/>
+      <guid isPermaLink="false">history-deepwater-horizon-explosion-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 09:39:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2025 Myanmar earthquake</title>
       <description>On 28 March 2025, at 12:50:52 MMT (06:20:52 UTC), a moment magnitude (Mw) 7.7–7.9 earthquake struck the Sagaing Region of Myanmar, with an epicenter close to Mandalay, the country's second-largest city. The shaking caused by this strike-slip shock reached a maximum Modified Mercalli intensity of X (Extreme). It was the most powerful earthquake to strike Myanmar since 1912, and the second deadliest</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2025-myanmar-earthquake-20260621.mp3" type="audio/mpeg" length="1723289"/>
