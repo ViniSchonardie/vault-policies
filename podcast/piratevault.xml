@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>William Dampier</title>
+      <description>William Dampier (1651 – March 1715) was an English explorer, pirate, privateer and naturalist who became the first Englishman to explore parts of what is today Australia, and the first person to circumnavigate the world three times. He has also been described as Australia's first natural historian, as well as one of the most important British explorers of the period between the 16th-century explor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/william-dampier-20260621.mp3" type="audio/mpeg" length="1459557"/>
+      <guid isPermaLink="false">pirates-william-dampier-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 23:16:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Edward Low</title>
       <description>Edward Low, also known as Ned Low (other spellings include Lowe and Loe; c. 1690–1724), was a pirate of English origin during the latter days of the Golden Age of Piracy, in the early 18th century. Low was born into poverty in Westminster, Middlesex, and was a thief from an early age. He moved to Boston, Massachusetts, as a young man. His wife died in childbirth in late 1719. Two years later, he b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/edward-low-20260621.mp3" type="audio/mpeg" length="1348380"/>
