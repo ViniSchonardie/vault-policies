@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Extraterrestrial life</title>
+      <description>Extraterrestrial life, or alien life (colloquially aliens), is life that originates from another world rather than on Earth. No extraterrestrial life has yet been detected. Such life might range from simple forms such as microbes to intelligent beings, possibly bringing forth civilizations that might be far more, or far less, advanced than humans. The Drake equation speculates about the existence </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/extraterrestrial-life-20260621.mp3" type="audio/mpeg" length="1701973"/>
+      <guid isPermaLink="false">paranormal-extraterrestrial-life-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 15:10:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Loch Ness Monster</title>
       <description>The Loch Ness Monster (Scottish Gaelic: Uilebheist Loch Nis), known affectionately as Nessie, is a mythical creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/loch-ness-monster-20260621.mp3" type="audio/mpeg" length="1734574"/>
