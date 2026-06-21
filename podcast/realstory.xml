@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alan Turing</title>
+      <description>Alan Mathison Turing (; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/alan-turing-20260621.mp3" type="audio/mpeg" length="1596230"/>
+      <guid isPermaLink="false">realstory-alan-turing-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 00:04:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of John F. Kennedy</title>
       <description>John F. Kennedy, the 35th president of the United States, was assassinated while riding in a presidential motorcade through Dealey Plaza in Dallas, Texas, on Friday, November 22, 1963. Kennedy was in the vehicle with his wife Jacqueline, Texas governor John Connally, and Connally's wife Nellie, when he was fatally shot from the nearby Texas School Book Depository by Lee Harvey Oswald, a former U.S</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-john-f-kennedy-20260620.mp3" type="audio/mpeg" length="1335423"/>
