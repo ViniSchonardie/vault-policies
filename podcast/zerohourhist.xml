@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2025 Myanmar earthquake</title>
+      <description>On 28 March 2025, at 12:50:52 MMT (06:20:52 UTC), a moment magnitude (Mw) 7.7–7.9 earthquake struck the Sagaing Region of Myanmar, with an epicenter close to Mandalay, the country's second-largest city. The shaking caused by this strike-slip shock reached a maximum Modified Mercalli intensity of X (Extreme). It was the most powerful earthquake to strike Myanmar since 1912, and the second deadliest</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2025-myanmar-earthquake-20260621.mp3" type="audio/mpeg" length="1723289"/>
+      <guid isPermaLink="false">history-2025-myanmar-earthquake-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 04:48:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Krakatoa</title>
       <description>Krakatoa (), also transcribed Krakatau (), is a caldera in the Sunda Strait between the islands of Java and Sumatra in the Indonesian province of Lampung. The caldera is part of a volcanic island group (Krakatoa archipelago) comprising four islands. Two of them are known as Lang and Verlaten; another, Rakata, is the only remnant of an island, also called Krakatoa, mostly destroyed by an eruption i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/krakatoa-20260620.mp3" type="audio/mpeg" length="1857872"/>
