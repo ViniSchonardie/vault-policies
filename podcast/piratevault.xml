@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Olivier Levasseur</title>
+      <description>Olivier Levasseur (1688, 1689, or 1690 – 7 July 1730), was a French pirate, nicknamed La Buse ("The Buzzard") or La Bouche ("The Mouth") or (Portuguese: O Falcão) in his early days for the speed and ruthlessness with which he always attacked his enemies as well as his ability to verbally attack his opponents. He is known for his involvement in the Nossa Senhora Do Cabo heist, among the richest plu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/olivier-levasseur-20260621.mp3" type="audio/mpeg" length="1761324"/>
+      <guid isPermaLink="false">pirates-olivier-levasseur-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 09:47:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jean Lafitte</title>
       <description>Jean Lafitte (c. 1780 – c. 1823) was a French pirate, privateer, and slave trader who operated in the Gulf of Mexico in the early 19th century. He and his older brother Pierre spelled their last name Laffite, but English language documents of the time used "Lafitte". This has become the common spelling in the United States, including places named after him.
 Lafitte is believed to have been born ei</description>
