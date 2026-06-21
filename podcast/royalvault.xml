@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mary Boleyn</title>
+      <description>Mary Boleyn (c. 1499 – 19 or 30 July 1543), also known as Lady Mary, was the sister of English queen consort Anne Boleyn, whose family enjoyed considerable influence during the reign of King Henry VIII.
+Mary was one of the mistresses of Henry VIII for an unknown period. It has been rumoured that she bore two of the King's children, though Henry did not acknowledge either. Mary was also rumoured to</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/mary-boleyn-20260621.mp3" type="audio/mpeg" length="1304494"/>
+      <guid isPermaLink="false">royal-mary-boleyn-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 16:50:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Empress Matilda</title>
       <description>Empress Matilda (c. 7 February 1102 – 10 September 1167), also known as Empress Maud, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until his death in 1125, and was subsequently a claimant to the English throne, and Lady of the English, during the civil war known as the Anarchy. Following the death of her father, King Henry I of England, as his only surviving child and nominat</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/empress-matilda-20260621.mp3" type="audio/mpeg" length="1244308"/>
