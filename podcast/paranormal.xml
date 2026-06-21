@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Loch Ness Monster</title>
+      <description>The Loch Ness Monster (Scottish Gaelic: Uilebheist Loch Nis), known affectionately as Nessie, is a mythical creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/loch-ness-monster-20260621.mp3" type="audio/mpeg" length="1734574"/>
+      <guid isPermaLink="false">paranormal-loch-ness-monster-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 10:31:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Moon landing conspiracy theories</title>
       <description>Conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA, possibly with the aid of other organizations. Such views are considered fringe. The most notable claim of these conspiracy theories is that the six crewed landings (1969–1972) were faked and that twelve Apollo astronauts did not actually land on the Moon. Since the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/moon-landing-conspiracy-theories-20260621.mp3" type="audio/mpeg" length="1549418"/>
