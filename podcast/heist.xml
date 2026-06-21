@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2025 Louvre heist</title>
+      <description>On 19 October 2025, thieves disguised as construction workers stole eight pieces of the French Crown Jewels valued at approximately €88 million from the Galerie d'Apollon (lit. 'Apollo's Gallery') of the Louvre in Paris, France. The robbery took less than eight minutes, of which the thieves spent four in the museum itself, and occurred during regular opening hours. It was the first art theft from </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/2025-louvre-heist-20260621.mp3" type="audio/mpeg" length="1888383"/>
+      <guid isPermaLink="false">heist-2025-louvre-heist-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 08:43:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Dillinger</title>
       <description>John Herbert Dillinger (; June 22, 1903 – July 22, 1934) was an American gangster during the Great Depression. He commanded the Dillinger Gang, which was accused of robbing twenty-four banks and four police stations. Dillinger was imprisoned several times and escaped twice. He was charged with but not convicted of the murder of East Chicago, Indiana, police officer William O'Malley, who shot Dilli</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/john-dillinger-20260620.mp3" type="audio/mpeg" length="1375547"/>
