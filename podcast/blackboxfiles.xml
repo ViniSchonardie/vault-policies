@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Northwest Airlines Flight 255</title>
+      <description>On August 16, 1987, a McDonnell Douglas MD-82 operating as Northwest Airlines Flight 255 crashed shortly after takeoff from Detroit Metropolitan Airport at about 20:46 EDT (00:46 UTC August 17). All six crew members and 148 of the 149 passengers, as well as two people on the ground, were killed. The National Transportation Safety Board (NTSB) determined that the probable cause of the accident was </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-airlines-flight-255-20260621.mp3" type="audio/mpeg" length="1772608"/>
+      <guid isPermaLink="false">aviation-northwest-airlines-flight-255-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 13:10:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026 Indonesia Air Transport ATR 42 crash</title>
       <description>On 17 January 2026, an ATR 42 operated by Indonesia Air Transport crashed while flying from Adisutjipto Airport to Sultan Hasanuddin International Airport in Indonesia. Air traffic control reportedly lost contact with the flight in the South Sulawesi area, and the aircraft was ultimately found to have crashed in the Bulusaraung mountain area. All ten people on board were killed. Burning wreckage w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2026-indonesia-air-transport-atr-42-crash-20260621.mp3" type="audio/mpeg" length="1729559"/>
