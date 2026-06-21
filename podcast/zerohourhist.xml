@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Texas City disaster</title>
+      <description>The Texas City disaster was an industrial accident that occurred on April 16, 1947, in the port of Texas City, Texas, United States, located in Galveston Bay. It was the deadliest industrial accident in U.S. history and one of history's largest non-nuclear explosions.
+The explosion was triggered by a mid-morning fire on board the French-registered vessel Grandcamp (docked at port), which detonated</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/texas-city-disaster-20260621.mp3" type="audio/mpeg" length="1746277"/>
+      <guid isPermaLink="false">history-texas-city-disaster-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 13:50:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deepwater Horizon explosion</title>
       <description>On April 20, 2010, an explosion and fire occurred on the Deepwater Horizon semi-submersible mobile offshore drilling unit, which was owned and operated by Transocean and drilling for BP in the Macondo Prospect oil field about 40 miles (64 km) southeast off the Louisiana coast. The explosion and subsequent fire resulted in the sinking of the Deepwater Horizon and the deaths of 11 workers; 17 others</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/deepwater-horizon-explosion-20260621.mp3" type="audio/mpeg" length="1936031"/>
