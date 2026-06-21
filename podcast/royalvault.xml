@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Holy Roman Emperor</title>
+      <description>The Holy Roman Emperor, originally and officially the Emperor of the Romans (Latin: Imperator Romanorum; German: Kaiser der Römer) during the Middle Ages, and also known as the Roman-German Emperor since the early modern period (Latin: Imperator Germanorum; German: Römisch-Deutscher Kaiser), was the ruler and head of state of the Holy Roman Empire. The title was held in conjunction with the title </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/holy-roman-emperor-20260621.mp3" type="audio/mpeg" length="1727887"/>
+      <guid isPermaLink="false">royal-holy-roman-emperor-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 06:12:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Margaret Tudor</title>
       <description>Margaret Tudor (29 November 1489 – 18 October 1541) was Queen of Scotland from 1503 until 1513 as the wife of James IV. She then served as regent of Scotland during her son's minority, and fought to extend her regency. Margaret was the eldest daughter and second child of Henry VII of England and Elizabeth of York, and the elder sister of Henry VIII. Through her descendants, the House of Stuart eve</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/margaret-tudor-20260620.mp3" type="audio/mpeg" length="1302822"/>
