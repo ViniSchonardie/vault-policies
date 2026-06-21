@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Albert Fish</title>
+      <description>Hamilton Howard "Albert" Fish was an American serial killer, rapist, child molester and cannibal who committed at least three child murders between July 1924 and June 1928. He was also known as the Gray Man, the Werewolf of Wysteria, the Brooklyn Vampire, the Moon Maniac and the Boogey Man. Fish was a suspect in at least ten murders during his lifetime, although he only confessed to three that pol</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-fish-20260621.mp3" type="audio/mpeg" length="1337931"/>
+      <guid isPermaLink="false">crime-albert-fish-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 08:12:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gary Ridgway</title>
       <description>Gary Leon Ridgway, known as the Green River Killer or the Green River Strangler, is an American serial killer who was convicted of murdering forty-nine women between 1982 and 1998 in the northwestern United States. At the time of his arrest in 2001, he was believed to be the most prolific serial killer in United States history, according to confirmed murders.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gary-ridgway-20260620.mp3" type="audio/mpeg" length="1233023"/>
