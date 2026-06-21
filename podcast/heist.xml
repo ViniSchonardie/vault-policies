@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ned Kelly</title>
+      <description>Edward Kelly (December 1854 – 11 November 1880) was an Australian bushranger, gang leader and police-murderer. One of the last bushrangers, he is known for wearing a homemade suit of bulletproof armour during his final shootout with the police.
+Kelly was born and raised in rural Victoria, the third of eight children to Irish parents. His father, a transported convict, died in 1866, leaving Kelly, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/ned-kelly-20260621.mp3" type="audio/mpeg" length="1707825"/>
+      <guid isPermaLink="false">heist-ned-kelly-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 12:12:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2025 Louvre heist</title>
       <description>On 19 October 2025, thieves disguised as construction workers stole eight pieces of the French Crown Jewels valued at approximately €88 million from the Galerie d'Apollon (lit. 'Apollo's Gallery') of the Louvre in Paris, France. The robbery took less than eight minutes, of which the thieves spent four in the museum itself, and occurred during regular opening hours. It was the first art theft from </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/2025-louvre-heist-20260621.mp3" type="audio/mpeg" length="1888383"/>
