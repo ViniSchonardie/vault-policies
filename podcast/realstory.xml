@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vlad the Impaler</title>
+      <description>Vlad III (1428/31 – 1476/77), commonly known as Vlad the Impaler (Romanian: Vlad Țepeș [ˈvlad ˈtsepeʃ]) or Vlad Dracula ( DRAK-yuu-lə, -⁠yə-; Romanian: Vlad Drăculea [ˈdrəkule̯a]), was Voivode of Wallachia three times between 1448 and his death. He is regarded as a Christian hero in Romania due to his opposition to the Ottoman Empire and he is considered an important ruler in Wallachian history.
+H</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/vlad-the-impaler-20260621.mp3" type="audio/mpeg" length="1629666"/>
+      <guid isPermaLink="false">realstory-vlad-the-impaler-20260621</guid>
+      <pubDate>Sun, 21 Jun 2026 13:12:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anne Frank</title>
       <description>Annelies Marie Frank (12 June 1929 – c. February or March 1945) was a German-born Jewish diarist and Holocaust victim. She gained worldwide notability posthumously for keeping a diary documenting her life in hiding during the German occupation of the Netherlands. In the diary, she regularly described her family's everyday life in their hiding place in an Amsterdam attic from 1942 until their arres</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/anne-frank-20260621.mp3" type="audio/mpeg" length="1655998"/>
