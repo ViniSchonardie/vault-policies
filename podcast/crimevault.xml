@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Sobhraj</title>
+      <description>Charles Sobhraj is a French serial killer, fraudster, and thief whose victims were mainly Western tourists travelling on the hippie trail of South Asia during the 1970s. He is of Sindhi and Vietnamese origin. He was known as the Bikini Killer because of the attire of several of his victims, as well as the Splitting Killer and the Serpent for "his snake-like ability to avoid detection by authoritie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-sobhraj-20260622.mp3" type="audio/mpeg" length="1571152"/>
+      <guid isPermaLink="false">crime-charles-sobhraj-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 18:14:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Hansen</title>
       <description> Robert Christian Boes Hansen, also known as the  Butcher Baker, was an American serial killer active in Anchorage, Alaska, between 1971 and 1983, abducting, raping and murdering at least seventeen women. Many of his victims were released by Hansen into the wilderness and hunted with a Ruger Mini-14 semi-automatic rifle and hunting knives. Hansen was captured in 1983 and sentenced to 461 years' im</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-hansen-20260622.mp3" type="audio/mpeg" length="1363844"/>
