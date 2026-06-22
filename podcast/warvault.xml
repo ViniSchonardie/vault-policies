@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Augusto Pinochet</title>
+      <description>Augusto José Ramón Pinochet Ugarte (25 November 1915 – 10 December 2006) was a Chilean army officer and military dictator who ruled Chile from 1973 to 1990. He led the military junta that overthrew President Salvador Allende in 1973 and established a military dictatorship. He was proclaimed President of Chile in 1974 and served until 1990, when he stepped down to pave the way for democratic electi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/augusto-pinochet-20260622.mp3" type="audio/mpeg" length="1774698"/>
+      <guid isPermaLink="false">warvault-augusto-pinochet-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 17:14:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Iwo Jima</title>
       <description>The Battle of Iwo Jima (硫黄島の戦い, Iōtō no Tatakai,or Iōjima no Tatakai; 19 February – 26 March 1945) was a major battle in which the United States Marine Corps (USMC), United States Navy (USN), and United States Army (USA) landed on and eventually captured the island of Iwo Jima from the Imperial Japanese Army (IJA) during World War II. The American invasion, designated Operation Detachment, had the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-iwo-jima-20260622.mp3" type="audio/mpeg" length="1357993"/>
