@@ -3,12 +3,18 @@
   <channel>
     <title>Sports Crime: Scandals in 60 Seconds</title>
     <description>Doping, match-fixing, assault and fraud — the dark side of sport in 60 seconds.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/sportscrime.xml</link>
     <language>en</language>
+    <copyright>Sports Crime 2026</copyright>
     <itunes:author>Sports Crime</itunes:author>
-    <itunes:owner><itunes:name>Sports Crime</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/sportscrime.png"/>
+    <itunes:summary>Doping, match-fixing, assault and fraud — the dark side of sport in 60 seconds.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/sportscrime.png"/>
+    <itunes:owner>
+      <itunes:name>Sports Crime</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://crimevault.io</link>
   </channel>
 </rss>
