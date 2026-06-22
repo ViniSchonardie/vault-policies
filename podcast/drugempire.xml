@@ -3,12 +3,18 @@
   <channel>
     <title>Drug Empire: Cartels & Kingpins in 60 Seconds</title>
     <description>The rise and fall of the world's most powerful drug lords — narcos, mafias and kingpins in 60 seconds.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/drugempire.xml</link>
     <language>en</language>
+    <copyright>Drug Empire 2026</copyright>
     <itunes:author>Drug Empire</itunes:author>
-    <itunes:owner><itunes:name>Drug Empire</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/drugempire.png"/>
+    <itunes:summary>The rise and fall of the world's most powerful drug lords — narcos, mafias and kingpins in 60 seconds.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/drugempire.png"/>
+    <itunes:owner>
+      <itunes:name>Drug Empire</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://crimevault.io</link>
   </channel>
 </rss>
