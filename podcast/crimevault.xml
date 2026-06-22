@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Andrew Cunanan</title>
+      <description>Andrew Phillip Cunanan was an American spree killer who murdered five people over three months from April 27 to July 15, 1997. His victims include Italian fashion designer Gianni Versace and Chicago real estate developer Lee Miglin, as well as his former boyfriend David Madson and friend Jeffrey Trail. Cunanan killed himself on July 23, 1997, eight days after murdering Versace. Cunanan's status as</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andrew-cunanan-20260622.mp3" type="audio/mpeg" length="1599991"/>
+      <guid isPermaLink="false">crime-andrew-cunanan-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 17:57:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>H. H. Holmes</title>
       <description>Herman Webster Mudgett, better known as Dr. Henry Howard Holmes or H. H. Holmes, was an American con artist and serial killer active between 1891 and 1894. By the time of his execution in 1896, Holmes had engaged in a lengthy criminal career that included insurance fraud, forgery, swindling, three or four bigamous marriages, horse theft, and murder. Known as the Beast of Chicago, the Devil in the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/h-h-holmes-20260622.mp3" type="audio/mpeg" length="1593304"/>
