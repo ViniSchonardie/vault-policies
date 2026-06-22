@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1900 Galveston hurricane</title>
+      <description>The 1900 Galveston hurricane (otherwise known as the Great Galveston hurricane and the Galveston Flood and known regionally as the Great Storm of 1900 or the 1900 Storm) was a catastrophic tropical cyclone that became the deadliest natural disaster in the history of the United States. The strongest storm of the 1900 Atlantic hurricane season, it left between 6,000 and 12,000 fatalities; the number</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1900-galveston-hurricane-20260622.mp3" type="audio/mpeg" length="1891309"/>
+      <guid isPermaLink="false">history-1900-galveston-hurricane-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 04:55:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Saturday bushfires</title>
       <description>The Black Saturday bushfires were a series of bushfires that either ignited or were already burning across the Australian state of Victoria on Saturday, 7 February 2009, and was one of Australia's all-time worst bushfire disasters. The fires occurred during extreme bushfire weather conditions and resulted in Australia's highest-ever loss of human life from a bushfire, with 173 fatalities. Many peo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/black-saturday-bushfires-20260621.mp3" type="audio/mpeg" length="1759652"/>
