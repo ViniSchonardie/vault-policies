@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peshtigo fire</title>
+      <description>The Peshtigo Fire was a large wildfire on October 8, 1871, in northeastern Wisconsin, United States, including much of the southern half of the Door Peninsula and adjacent parts of the Upper Peninsula of Michigan. The largest community in the affected area was Peshtigo, Wisconsin, which had a population of approximately 1,700 residents. The fire burned about 1.2 million acres (490,000 ha) and is t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/peshtigo-fire-20260622.mp3" type="audio/mpeg" length="1936031"/>
+      <guid isPermaLink="false">history-peshtigo-fire-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 20:39:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SS Eastland</title>
       <description>SS Eastland was an American Great Lakes passenger ship. On July 24, 1915, the ship capsized while tied to a dock in the Chicago River. In total, 844 passengers and crew were killed in what is, as of 2026, the largest loss of life from a shipwreck on the Great Lakes and the Chicago area.
 After the disaster, Eastland was salvaged and sold to the United States Navy. After restorations and modificatio</description>
