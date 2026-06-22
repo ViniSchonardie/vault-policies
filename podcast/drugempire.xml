@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drug Empire: Cartels & Kingpins in 60 Seconds</title>
+    <description>The rise and fall of the world's most powerful drug lords — narcos, mafias and kingpins in 60 seconds.</description>
+    <language>en</language>
+    <itunes:author>Drug Empire</itunes:author>
+    <itunes:owner><itunes:name>Drug Empire</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/drugempire.png"/>
+    <itunes:category text="True Crime"/>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://crimevault.io</link>
+  </channel>
+</rss>
