@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ancient astronauts</title>
+      <description>Ancient astronauts (or ancient aliens) refers to a pseudoscientific set of beliefs, also called paleocontact, that hold that intelligent extraterrestrial beings (alien astronauts) visited Earth and made contact with humans in antiquity and prehistoric times. Proponents of the theory suggest that this contact influenced the development of modern cultures, technologies, religions, and human biology.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/ancient-astronauts-20260622.mp3" type="audio/mpeg" length="1466244"/>
+      <guid isPermaLink="false">paranormal-ancient-astronauts-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 21:39:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Satanic panic</title>
       <description>The Satanic panic is a moral panic consisting of over 12,000 unsubstantiated cases of Satanic ritual abuse (SRA), sometimes known as ritual abuse, starting in North America in the 1980s, spreading throughout many parts of the world by the late 1990s, and persisting today. The panic originated in 1980 with the publication of Michelle Remembers, a book co-written by Canadian psychiatrist Lawrence Pa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/satanic-panic-20260622.mp3" type="audio/mpeg" length="1379309"/>
