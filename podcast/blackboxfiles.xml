@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TWA Flight 514</title>
+      <description>Trans World Airlines Flight 514 was a domestic scheduled flight of Trans World Airlines from Indianapolis, Indiana, and Columbus, Ohio, to Washington National Airport. On December 1, 1974, the Boeing 727-231 serving the flight was diverted to Washington Dulles International Airport but crashed into Mount Weather, Virginia. All 92 occupants aboard, 85 passengers and 7 crew members, died. In stormy </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/twa-flight-514-20260622.mp3" type="audio/mpeg" length="1710751"/>
+      <guid isPermaLink="false">aviation-twa-flight-514-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 10:47:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Singapore Airlines Flight 321</title>
       <description>Singapore Airlines Flight 321 was a scheduled international passenger flight operating from London Heathrow Airport in London, England, to Changi Airport in Changi, Singapore. On 21 May 2024, the Boeing 777 operating the flight, carrying 211 passengers and 18 crew members, encountered severe turbulence over the Irrawaddy River, Myanmar, resulting in the death of a passenger and leaving 79 crew and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-321-20260622.mp3" type="audio/mpeg" length="1525177"/>
