@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2025 Cebu earthquake</title>
+      <description>On September 30, 2025, at 21:59:43 PHT (13:59:43 UTC), an earthquake with a magnitude of 6.9 on the moment magnitude scale (Mw) struck the Visayas archipelago in the Philippines. It was the strongest earthquake ever recorded in northern Cebu and the deadliest in the country since 2013, with its epicenter located off the coast of Cebu Province in the Central Visayas region. 
+The earthquake was felt</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2025-cebu-earthquake-20260622.mp3" type="audio/mpeg" length="1616292"/>
+      <guid isPermaLink="false">history-2025-cebu-earthquake-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 11:39:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1900 Galveston hurricane</title>
       <description>The 1900 Galveston hurricane (otherwise known as the Great Galveston hurricane and the Galveston Flood and known regionally as the Great Storm of 1900 or the 1900 Storm) was a catastrophic tropical cyclone that became the deadliest natural disaster in the history of the United States. The strongest storm of the 1900 Atlantic hurricane season, it left between 6,000 and 12,000 fatalities; the number</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1900-galveston-hurricane-20260622.mp3" type="audio/mpeg" length="1891309"/>
