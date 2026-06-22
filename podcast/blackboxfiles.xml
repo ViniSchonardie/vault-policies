@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>LANSA Flight 508</title>
+      <description>LANSA Flight 508 was a Lockheed L-188A Electra turboprop operated as a scheduled domestic passenger flight by Lineas Aéreas Nacionales Sociedad Anonima (LANSA) that crashed in a thunderstorm en route from Lima to Pucallpa in Peru on 24 December 1971, killing 91 people – all 6 crew on board and 85 of its 86 passengers. As a result of a lightning bolt strike to the right-hand wing, the aircraft cras</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lansa-flight-508-20260622.mp3" type="audio/mpeg" length="1462065"/>
+      <guid isPermaLink="false">aviation-lansa-flight-508-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 15:57:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TWA Flight 514</title>
       <description>Trans World Airlines Flight 514 was a domestic scheduled flight of Trans World Airlines from Indianapolis, Indiana, and Columbus, Ohio, to Washington National Airport. On December 1, 1974, the Boeing 727-231 serving the flight was diverted to Washington Dulles International Airport but crashed into Mount Weather, Virginia. All 92 occupants aboard, 85 passengers and 7 crew members, died. In stormy </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/twa-flight-514-20260622.mp3" type="audio/mpeg" length="1710751"/>
