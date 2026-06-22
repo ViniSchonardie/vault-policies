@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Edinburgh Castle</title>
+      <description>Edinburgh Castle (Scottish Gaelic: Caisteal Dhùn Èideann) is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/edinburgh-castle-20260622.mp3" type="audio/mpeg" length="1709497"/>
+      <guid isPermaLink="false">royal-edinburgh-castle-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 10:48:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kensington Palace</title>
       <description>Kensington Palace is a royal residence situated within Kensington Gardens in the Royal Borough of Kensington and Chelsea in London, England. It has served as a residence for the British royal family since the 17th century and is currently the official London residence of several royals, including the Prince and Princess of Wales, the Duke and Duchess of Gloucester, the Duke of Kent, Prince and Pri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kensington-palace-20260622.mp3" type="audio/mpeg" length="1369696"/>
