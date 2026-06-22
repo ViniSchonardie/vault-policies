@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>H. H. Holmes</title>
+      <description>Herman Webster Mudgett, better known as Dr. Henry Howard Holmes or H. H. Holmes, was an American con artist and serial killer active between 1891 and 1894. By the time of his execution in 1896, Holmes had engaged in a lengthy criminal career that included insurance fraud, forgery, swindling, three or four bigamous marriages, horse theft, and murder. Known as the Beast of Chicago, the Devil in the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/h-h-holmes-20260622.mp3" type="audio/mpeg" length="1593304"/>
+      <guid isPermaLink="false">crime-h-h-holmes-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 17:27:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Whitey Bulger</title>
       <description>James Joseph "Whitey" Bulger Jr. was an American organized crime boss who led the Winter Hill Gang, an Irish mob group based in the Winter Hill neighborhood of Somerville, Massachusetts, northwest of Boston. On December 23, 1994, Bulger went into hiding after his former FBI handler, John Connolly, tipped him off about a pending RICO indictment against him. He remained at large for sixteen years. A</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/whitey-bulger-20260622.mp3" type="audio/mpeg" length="1505533"/>
