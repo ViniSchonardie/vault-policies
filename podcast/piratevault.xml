@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hippolyte Bouchard</title>
+      <description>Hippolyte Bouchard, hispanicized as Hipólito Bouchard, (15 January 1780 – 4 January 1837) and known in California as Pirata Buchar, was a French-born Argentine sailor and corsair (pirate) who fought for Argentina, Chile, and Peru in the Spanish American wars of independence.
+During his first campaign as an Argentine corsair he attacked the Spanish colonies of Chile and Peru, under the command of t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/hippolyte-bouchard-20260622.mp3" type="audio/mpeg" length="1612112"/>
+      <guid isPermaLink="false">pirates-hippolyte-bouchard-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 18:18:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Martin Frobisher</title>
       <description>Sir Martin Frobisher (; c. 1535/1539 – 22 November 1594) was an English sea captain and privateer who made three voyages to the New World looking for the North-west Passage. He probably sighted Resolution Island near Labrador in eastern Canada, before entering Frobisher Bay and landing on present-day Baffin Island.
 On his second voyage, Frobisher found what he thought was gold ore and carried 200 </description>
