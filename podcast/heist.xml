@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Butch Cassidy</title>
+      <description>Robert LeRoy Parker (April 13, 1866 – November 7, 1908), better known as Butch Cassidy, was an American cowboy, train and bank robber and the leader of a gang of criminal outlaws known as the "Wild Bunch" in the Old West.
+Parker engaged in criminal activity for more than a decade at the end of the 19th century and the early 20th century, but the pressures of being pursued by law enforcement, notab</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/butch-cassidy-20260622.mp3" type="audio/mpeg" length="1461229"/>
+      <guid isPermaLink="false">heist-butch-cassidy-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 15:18:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonnie and Clyde (film)</title>
       <description>Bonnie and Clyde is a 1967 American biographical crime drama film directed by Arthur Penn and starring Warren Beatty and Faye Dunaway as Clyde Barrow and Bonnie Parker, outlaws and romantic partners in the Great Depression-era American South. The cast also features Michael J. Pollard, Gene Hackman, and Estelle Parsons. The screenplay was written by David Newman and Robert Benton (with uncredited c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bonnie-and-clyde-film-20260622.mp3" type="audio/mpeg" length="1585363"/>
