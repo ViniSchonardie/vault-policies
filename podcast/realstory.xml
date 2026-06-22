@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Billy the Kid</title>
+      <description>Henry McCarty (September 17 or November 23, 1859 – July 14, 1881), alias William H. Bonney, better known as Billy the Kid, was an American outlaw and gunfighter of the Old West who was linked to nine murders. He was solely responsible for four of them, and he may have played a role in five, alongside other men. He is also noted for his involvement in New Mexico's Lincoln County War.
+McCarty was or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/billy-the-kid-20260622.mp3" type="audio/mpeg" length="1521415"/>
+      <guid isPermaLink="false">realstory-billy-the-kid-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 20:14:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Augustine of Hippo</title>
       <description>Augustine of Hippo ( aw-GUST-in, US also  AW-gə-steen; Latin: Aurelius Augustinus Hipponensis; 13 November 354 – 28 August 430) was a Christian theologian and philosopher from Thagaste, Numidia Cirtensis and the Bishop of Hippo Regius. He is generally regarded as one of the most influential philosophers in the history of the Western world, and he is viewed as one of the most important Church Fathe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/augustine-of-hippo-20260622.mp3" type="audio/mpeg" length="1708661"/>
