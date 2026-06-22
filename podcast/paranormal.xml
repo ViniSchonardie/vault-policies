@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Satanic panic</title>
+      <description>The Satanic panic is a moral panic consisting of over 12,000 unsubstantiated cases of Satanic ritual abuse (SRA), sometimes known as ritual abuse, starting in North America in the 1980s, spreading throughout many parts of the world by the late 1990s, and persisting today. The panic originated in 1980 with the publication of Michelle Remembers, a book co-written by Canadian psychiatrist Lawrence Pa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/satanic-panic-20260622.mp3" type="audio/mpeg" length="1379309"/>
+      <guid isPermaLink="false">paranormal-satanic-panic-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 17:26:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Roswell incident</title>
       <description>Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United States military recovered a crashed extraterrestrial spacecraft. After metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces announced possession of a "flying disc". This announcement made international headl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/roswell-incident-20260622.mp3" type="audio/mpeg" length="1339185"/>
