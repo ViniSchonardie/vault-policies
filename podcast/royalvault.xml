@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kensington Palace</title>
+      <description>Kensington Palace is a royal residence situated within Kensington Gardens in the Royal Borough of Kensington and Chelsea in London, England. It has served as a residence for the British royal family since the 17th century and is currently the official London residence of several royals, including the Prince and Princess of Wales, the Duke and Duchess of Gloucester, the Duke of Kent, Prince and Pri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kensington-palace-20260622.mp3" type="audio/mpeg" length="1369696"/>
+      <guid isPermaLink="false">royal-kensington-palace-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 06:36:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Early Middle Ages</title>
       <description>The Early Middle Ages (or early medieval period), sometimes controversially referred to as the Dark Ages, is typically regarded by historians as lasting from the late 5th to the 10th century. They marked the start of the Middle Ages of European history, following the decline of the Western Roman Empire, and preceding the High Middle Ages (c. 11th to 14th centuries). The alternative term late antiq</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/early-middle-ages-20260621.mp3" type="audio/mpeg" length="1598737"/>
