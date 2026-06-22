@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><title>TikTok Auth</title>
+<style>body{font-family:sans-serif;max-width:600px;margin:60px auto;background:#111;color:#fff;padding:20px}
+code{background:#222;padding:12px 20px;display:block;border-radius:8px;font-size:14px;word-break:break-all;margin:12px 0}
+h2{color:#fe2c55}</style>
+</head>
+<body>
+<h2>VaultChannels — TikTok Authorization</h2>
+<p id="msg">Reading authorization code...</p>
+<code id="code"></code>
+<p id="inst" style="display:none">Copy the code above and paste it into the terminal.</p>
+<script>
+const p = new URLSearchParams(window.location.search);
+const code = p.get("code");
+const err = p.get("error");
+if (code) {
+  document.getElementById("msg").textContent = "Authorization successful! Your code:";
+  document.getElementById("code").textContent = code;
+  document.getElementById("inst").style.display = "block";
+} else if (err) {
+  document.getElementById("msg").textContent = "Error: " + (p.get("error_description") || err);
+} else {
+  document.getElementById("msg").textContent = "No code found in URL.";
+}
+</script>
+</body>
+</html>
