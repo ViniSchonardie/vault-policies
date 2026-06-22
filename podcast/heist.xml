@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Assassination of Jesse James by the Coward Robert Ford</title>
+      <description>The Assassination of Jesse James by the Coward Robert Ford is a 2007 American epic revisionist Western film written and directed by Andrew Dominik. Based on Ron Hansen's 1983 novel of the same name, the film dramatizes the relationship between Jesse James and Robert Ford, focusing on the events that led up to the killing. It stars Brad Pitt as James and Casey Affleck as Ford, with Sam Shepard, Mar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/the-assassination-of-jesse-james-by-the-coward-robert-ford-20260622.mp3" type="audio/mpeg" length="1444928"/>
+      <guid isPermaLink="false">heist-the-assassination-of-jesse-james-by-the-coward-robert-ford-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 19:32:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Butch Cassidy</title>
       <description>Robert LeRoy Parker (April 13, 1866 – November 7, 1908), better known as Butch Cassidy, was an American cowboy, train and bank robber and the leader of a gang of criminal outlaws known as the "Wild Bunch" in the Old West.
 Parker engaged in criminal activity for more than a decade at the end of the 19th century and the early 20th century, but the pressures of being pursued by law enforcement, notab</description>
