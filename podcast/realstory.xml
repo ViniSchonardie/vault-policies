@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leon Trotsky</title>
+      <description>Lev Davidovich Trotsky (né Bronstein; 7 November [O.S. 26 October] 1879 – 21 August 1940), better known as Leon Trotsky, was a Russian revolutionary, Soviet politician and political theorist. He was a key figure in the 1905 Revolution, the October Revolution of 1917, the Russian Civil War, and the establishment of the Soviet Union, from which he was exiled in 1929 before his assassination in 1940.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leon-trotsky-20260622.mp3" type="audio/mpeg" length="1686091"/>
+      <guid isPermaLink="false">realstory-leon-trotsky-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 10:41:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonnie and Clyde</title>
       <description>Bonnie Elizabeth Parker (October 1, 1910 – May 23, 1934) and Clyde Chestnut "Champion" Barrow (March 24, 1909 – May 23, 1934) were outlaws who traveled the Central United States with their gang during the Great Depression, committing a series of criminal acts such as bank robberies, kidnappings and murders between 1932 and 1934. The couple were known for their bank robberies and multiple murders, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/bonnie-and-clyde-20260622.mp3" type="audio/mpeg" length="1625905"/>
