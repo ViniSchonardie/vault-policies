@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Roberto Cofres</title>
+      <description>Roberto Cofresí y Ramírez de Arellano (June 17, 1791 – March 29, 1825), also known as El Pirata Cofresí, was a Puerto Rican pirate. He was born into a noble family, but the political and economic difficulties faced by the island as a colony of the Spanish Empire during the regional independence wars against the metropole meant that his household was poor. Cofresí worked at sea from an early age, w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/roberto-cofres-20260622.mp3" type="audio/mpeg" length="1745023"/>
+      <guid isPermaLink="false">pirates-roberto-cofres-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 23:25:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hippolyte Bouchard</title>
       <description>Hippolyte Bouchard, hispanicized as Hipólito Bouchard, (15 January 1780 – 4 January 1837) and known in California as Pirata Buchar, was a French-born Argentine sailor and corsair (pirate) who fought for Argentina, Chile, and Peru in the Spanish American wars of independence.
 During his first campaign as an Argentine corsair he attacked the Spanish colonies of Chile and Peru, under the command of t</description>
