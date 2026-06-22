@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Whitey Bulger</title>
+      <description>James Joseph "Whitey" Bulger Jr. was an American organized crime boss who led the Winter Hill Gang, an Irish mob group based in the Winter Hill neighborhood of Somerville, Massachusetts, northwest of Boston. On December 23, 1994, Bulger went into hiding after his former FBI handler, John Connolly, tipped him off about a pending RICO indictment against him. He remained at large for sixteen years. A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/whitey-bulger-20260622.mp3" type="audio/mpeg" length="1505533"/>
+      <guid isPermaLink="false">crime-whitey-bulger-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 14:29:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dennis Nilsen</title>
       <description>Dennis Andrew Nilsen was a Scottish serial killer and necrophile who murdered at least twelve young men and boys between 1978 and 1983. Convicted at the Old Bailey of six counts of murder and two of attempted murder, Nilsen was sentenced to life imprisonment on 4 November 1983, with a recommendation that he serve a minimum of 25 years; this recommendation was later changed to a whole life tariff i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dennis-nilsen-20260622.mp3" type="audio/mpeg" length="1350470"/>
