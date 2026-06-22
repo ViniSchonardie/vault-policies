@@ -3,12 +3,18 @@
   <channel>
     <title>Space: Missions & Disasters in 60 Seconds</title>
     <description>The most daring missions and catastrophic failures in space history — 60 seconds each.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/space.xml</link>
     <language>en</language>
+    <copyright>Space Vault 2026</copyright>
     <itunes:author>Space Vault</itunes:author>
-    <itunes:owner><itunes:name>Space Vault</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/space.png"/>
+    <itunes:summary>The most daring missions and catastrophic failures in space history — 60 seconds each.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/space.png"/>
+    <itunes:owner>
+      <itunes:name>Space Vault</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://crimevault.io</link>
   </channel>
 </rss>
