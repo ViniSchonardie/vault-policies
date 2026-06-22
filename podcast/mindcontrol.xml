@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aum Shinrikyo</title>
+      <description>Aleph (Japanese: アレフ, Hepburn: Arefu), better known by their former name Aum Shinrikyo (オウム真理教, Ōmu Shinrikyō; lit. 'religion of Aum Supreme Truth'), is a Japanese new religious movement and doomsday cult founded by Shoko Asahara in 1987. It carried out the deadly Tokyo subway sarin attack in 1995 and was then found to have been responsible for the Matsumoto sarin attack the previous year.
+The gro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/aum-shinrikyo-20260622.mp3" type="audio/mpeg" length="1527266"/>
+      <guid isPermaLink="false">mindcontrol-aum-shinrikyo-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 22:14:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pilėnai</title>
       <description>Siege of Pilėnai (also Pillenen in German) was a siege of hill fort in the Grand Duchy of Lithuania. Its location is unknown and is subject to academic debates, but it is well known in the history of Lithuania due to its heroic defense against the Teutonic Order in 1336. Attacked by a large Teutonic force, the fortress, commanded by Duke Margiris, tried in vain to organize a defense against the la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/pilnai-20260622.mp3" type="audio/mpeg" length="1441167"/>
