@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dennis Nilsen</title>
+      <description>Dennis Andrew Nilsen was a Scottish serial killer and necrophile who murdered at least twelve young men and boys between 1978 and 1983. Convicted at the Old Bailey of six counts of murder and two of attempted murder, Nilsen was sentenced to life imprisonment on 4 November 1983, with a recommendation that he serve a minimum of 25 years; this recommendation was later changed to a whole life tariff i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dennis-nilsen-20260622.mp3" type="audio/mpeg" length="1350470"/>
+      <guid isPermaLink="false">crime-dennis-nilsen-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 09:23:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Harold Shipman</title>
       <description>Harold Frederick Shipman was an English doctor in general practice and serial killer. He is considered to be one of the most prolific serial killers in modern history, with an estimated 250 victims over roughly 30 years. On 31 January 2000, Shipman was convicted of murdering 15 patients under his care. He was sentenced to life imprisonment with a whole life order. On 13 January 2004, one day befor</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/harold-shipman-20260621.mp3" type="audio/mpeg" length="1629248"/>
