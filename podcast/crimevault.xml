@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Susan Atkins</title>
+      <description>Susan Denise Atkins was an American convicted murderer who was a member of Charles Manson's "Family". Manson's followers committed a series of nine murders at four locations in California over a period of five weeks in the summer of 1969. Known within the Manson family as Sadie, Sadie Glutz, Sadie Mae Glutz or Sexy Sadie, Atkins was convicted for her participation in eight of these killings, inclu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/susan-atkins-20260622.mp3" type="audio/mpeg" length="1599991"/>
+      <guid isPermaLink="false">crime-susan-atkins-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 18:46:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Sobhraj</title>
       <description>Charles Sobhraj is a French serial killer, fraudster, and thief whose victims were mainly Western tourists travelling on the hippie trail of South Asia during the 1970s. He is of Sindhi and Vietnamese origin. He was known as the Bikini Killer because of the attire of several of his victims, as well as the Splitting Killer and the Serpent for "his snake-like ability to avoid detection by authoritie</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-sobhraj-20260622.mp3" type="audio/mpeg" length="1571152"/>
