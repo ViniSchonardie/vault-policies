@@ -3,12 +3,18 @@
   <channel>
     <title>Ancient: Emperors & Empires in 60 Seconds</title>
     <description>Roman emperors, Egyptian pharaohs and ancient battles — the full story in 60 seconds.</description>
+    <link>https://vinischonardie.github.io/vault-policies/podcast/ancient.xml</link>
     <language>en</language>
+    <copyright>Ancient Vault 2026</copyright>
     <itunes:author>Ancient Vault</itunes:author>
-    <itunes:owner><itunes:name>Ancient Vault</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/ancient.png"/>
+    <itunes:summary>Roman emperors, Egyptian pharaohs and ancient battles — the full story in 60 seconds.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:category text="True Crime"/>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/ancient.png"/>
+    <itunes:owner>
+      <itunes:name>Ancient Vault</itunes:name>
+      <itunes:email>vini.schonardie@hotmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://crimevault.io</link>
   </channel>
 </rss>
