@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Martin Frobisher</title>
+      <description>Sir Martin Frobisher (; c. 1535/1539 – 22 November 1594) was an English sea captain and privateer who made three voyages to the New World looking for the North-west Passage. He probably sighted Resolution Island near Labrador in eastern Canada, before entering Frobisher Bay and landing on present-day Baffin Island.
+On his second voyage, Frobisher found what he thought was gold ore and carried 200 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/martin-frobisher-20260622.mp3" type="audio/mpeg" length="1408984"/>
+      <guid isPermaLink="false">pirates-martin-frobisher-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 11:51:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Dampier</title>
       <description>William Dampier (1651 – March 1715) was an English explorer, pirate, privateer and naturalist who became the first Englishman to explore parts of what is today Australia, and the first person to circumnavigate the world three times. He has also been described as Australia's first natural historian, as well as one of the most important British explorers of the period between the 16th-century explor</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/william-dampier-20260621.mp3" type="audio/mpeg" length="1459557"/>
