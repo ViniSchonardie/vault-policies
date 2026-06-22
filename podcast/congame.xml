@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Enron Scandal</title>
+      <description>The Enron scandal was an accounting scandal sparked by American energy company Enron Corporation filing for bankruptcy after news of widespread internal fraud became public in October 2001, which led to the dissolution of its accounting firm, Arthur Andersen, previously one of the five largest in the world. The largest bankruptcy reorganization in U.S. history at that time, Enron was cited as the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/enron-scandal-20260622.mp3" type="audio/mpeg" length="1679404"/>
+      <guid isPermaLink="false">congame-enron-scandal-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 02:33:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adele Spitzeder</title>
       <description>Adelheid Luise "Adele" Spitzeder ([ˈaːdl̩haɪt ʔaˈdeːlə ˈʃpɪtˌtseːdɐ]; 9 February 1832 – 27 or 28 October 1895), also known by her stage name Adele Vio, was a German actress, folk singer, and con artist. Initially a promising young actress, Spitzeder became a well-known private banker in 19th-century Munich when her theatrical success dwindled. Running what was possibly the first recorded Ponzi sch</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/adele-spitzeder-20260621.mp3" type="audio/mpeg" length="1542313"/>
