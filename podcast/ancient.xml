@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ancient: Emperors & Empires in 60 Seconds</title>
+    <description>Roman emperors, Egyptian pharaohs and ancient battles — the full story in 60 seconds.</description>
+    <language>en</language>
+    <itunes:author>Ancient Vault</itunes:author>
+    <itunes:owner><itunes:name>Ancient Vault</itunes:name><itunes:email>vini.schonardie@hotmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/ancient.png"/>
+    <itunes:category text="True Crime"/>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://crimevault.io</link>
+  </channel>
+</rss>
