@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Queen Elizabeth The Queen Mother</title>
+      <description>Elizabeth Angela Marguerite Bowes-Lyon (4 August 1900 – 30 March 2002) was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last Empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Que</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/queen-elizabeth-the-queen-mother-20260622.mp3" type="audio/mpeg" length="1666865"/>
+      <guid isPermaLink="false">royal-queen-elizabeth-the-queen-mother-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 14:39:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Edinburgh Castle</title>
       <description>Edinburgh Castle (Scottish Gaelic: Caisteal Dhùn Èideann) is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/edinburgh-castle-20260622.mp3" type="audio/mpeg" length="1709497"/>
