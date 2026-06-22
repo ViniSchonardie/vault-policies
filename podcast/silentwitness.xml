@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Blood Libel</title>
+      <description>Blood libel or ritual murder libel (also blood accusation) is an antisemitic trope which falsely accuses Jews of murdering Christians in order to use their blood in the performance of religious rituals. Echoing very old myths of secret cultic practices in many prehistoric societies, the claim, as it is leveled against Jews, was rarely attested to in antiquity. According to Tertullian, it originall</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/blood-libel-20260622.mp3" type="audio/mpeg" length="1454542"/>
+      <guid isPermaLink="false">trials-blood-libel-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 00:10:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Samlesbury Witches</title>
       <description>The Samlesbury witches were three women from the Lancashire village of Samlesbury – Jane Southworth, Jennet Bierley, and Ellen Bierley – accused by a 14-year-old girl, Grace Sowerbutts, of practising witchcraft. Their trial at Lancaster Assizes in England on 19 August 1612 was one in a series of witch trials held there over two days, among the most infamous in English history. The trials were unus</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/samlesbury-witches-20260621.mp3" type="audio/mpeg" length="1197497"/>
