@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>SS Eastland</title>
+      <description>SS Eastland was an American Great Lakes passenger ship. On July 24, 1915, the ship capsized while tied to a dock in the Chicago River. In total, 844 passengers and crew were killed in what is, as of 2026, the largest loss of life from a shipwreck on the Great Lakes and the Chicago area.
+After the disaster, Eastland was salvaged and sold to the United States Navy. After restorations and modificatio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/ss-eastland-20260622.mp3" type="audio/mpeg" length="1519743"/>
+      <guid isPermaLink="false">history-ss-eastland-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 16:30:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2025 Cebu earthquake</title>
       <description>On September 30, 2025, at 21:59:43 PHT (13:59:43 UTC), an earthquake with a magnitude of 6.9 on the moment magnitude scale (Mw) struck the Visayas archipelago in the Philippines. It was the strongest earthquake ever recorded in northern Cebu and the deadliest in the country since 2013, with its epicenter located off the coast of Cebu Province in the Central Visayas region. 
 The earthquake was felt</description>
