@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Witch Hunt</title>
+      <description>A witch hunt, or a witch purge, is a search for people who have been labeled witches or a search for evidence of witchcraft. Practicing evil spells or incantations was proscribed and punishable in early human civilizations in the Middle East. An intensive period of witch-hunts occurring in Early Modern Europe and to a smaller extent Colonial America, took place from about 1450 to 1750, spanning th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/witch-hunt-20260622.mp3" type="audio/mpeg" length="1622561"/>
+      <guid isPermaLink="false">trials-witch-hunt-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 18:52:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aktion T4</title>
       <description>"Aktion T4" (German, pronounced [akˈtsi̯oːn teː fiːɐ]) is the name given to campaigns of mass murder by involuntary euthanasia which targeted people with disabilities and the mentally ill in Nazi Germany. The term was first used in post-war trials against doctors who had been involved in the killings. The name T4 is an abbreviation of Tiergartenstraße 4, a street address of the Chancellery departm</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/aktion-t4-20260622.mp3" type="audio/mpeg" length="1404804"/>
