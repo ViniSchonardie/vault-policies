@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aktion T4</title>
+      <description>"Aktion T4" (German, pronounced [akˈtsi̯oːn teː fiːɐ]) is the name given to campaigns of mass murder by involuntary euthanasia which targeted people with disabilities and the mentally ill in Nazi Germany. The term was first used in post-war trials against doctors who had been involved in the killings. The name T4 is an abbreviation of Tiergartenstraße 4, a street address of the Chancellery departm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/aktion-t4-20260622.mp3" type="audio/mpeg" length="1404804"/>
+      <guid isPermaLink="false">trials-aktion-t4-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 12:51:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blood Libel</title>
       <description>Blood libel or ritual murder libel (also blood accusation) is an antisemitic trope which falsely accuses Jews of murdering Christians in order to use their blood in the performance of religious rituals. Echoing very old myths of secret cultic practices in many prehistoric societies, the claim, as it is leveled against Jews, was rarely attested to in antiquity. According to Tertullian, it originall</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/blood-libel-20260622.mp3" type="audio/mpeg" length="1454542"/>
