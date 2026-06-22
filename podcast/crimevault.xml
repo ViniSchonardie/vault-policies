@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Hansen</title>
+      <description> Robert Christian Boes Hansen, also known as the  Butcher Baker, was an American serial killer active in Anchorage, Alaska, between 1971 and 1983, abducting, raping and murdering at least seventeen women. Many of his victims were released by Hansen into the wilderness and hunted with a Ruger Mini-14 semi-automatic rifle and hunting knives. Hansen was captured in 1983 and sentenced to 461 years' im</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-hansen-20260622.mp3" type="audio/mpeg" length="1363844"/>
+      <guid isPermaLink="false">crime-robert-hansen-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 18:04:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Andrew Cunanan</title>
       <description>Andrew Phillip Cunanan was an American spree killer who murdered five people over three months from April 27 to July 15, 1997. His victims include Italian fashion designer Gianni Versace and Chicago real estate developer Lee Miglin, as well as his former boyfriend David Madson and friend Jeffrey Trail. Cunanan killed himself on July 23, 1997, eight days after murdering Versace. Cunanan's status as</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andrew-cunanan-20260622.mp3" type="audio/mpeg" length="1599991"/>
