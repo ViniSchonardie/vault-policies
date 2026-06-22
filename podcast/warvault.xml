@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fall of Constantinople</title>
+      <description>The Fall of Constantinople, also known as the Conquest of Constantinople, was the capture of Constantinople, the capital city of the Byzantine Empire, by the Ottoman Empire. The city was captured on 29 May 1453 as part of the culmination of a 53-day siege which had begun on 6 April.
+The attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by Sultan Mehm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/fall-of-constantinople-20260622.mp3" type="audio/mpeg" length="1244726"/>
+      <guid isPermaLink="false">warvault-fall-of-constantinople-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 20:43:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Augusto Pinochet</title>
       <description>Augusto José Ramón Pinochet Ugarte (25 November 1915 – 10 December 2006) was a Chilean army officer and military dictator who ruled Chile from 1973 to 1990. He led the military junta that overthrew President Salvador Allende in 1973 and established a military dictatorship. He was proclaimed President of Chile in 1974 and served until 1990, when he stepped down to pave the way for democratic electi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/augusto-pinochet-20260622.mp3" type="audio/mpeg" length="1774698"/>
