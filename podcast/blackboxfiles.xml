@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Singapore Airlines Flight 321</title>
+      <description>Singapore Airlines Flight 321 was a scheduled international passenger flight operating from London Heathrow Airport in London, England, to Changi Airport in Changi, Singapore. On 21 May 2024, the Boeing 777 operating the flight, carrying 211 passengers and 18 crew members, encountered severe turbulence over the Irrawaddy River, Myanmar, resulting in the death of a passenger and leaving 79 crew and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-321-20260622.mp3" type="audio/mpeg" length="1525177"/>
+      <guid isPermaLink="false">aviation-singapore-airlines-flight-321-20260622</guid>
+      <pubDate>Mon, 22 Jun 2026 00:13:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>South African Airways Flight 295</title>
       <description>South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-295-20260621.mp3" type="audio/mpeg" length="1603753"/>
