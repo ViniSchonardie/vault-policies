@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Burning of Smyrna</title>
+      <description>The burning of Smyrna (Greek: Καταστροφή της Σμύρνης, romanized: Katastrofí tis Smírnis, "Smyrna catastrophe"; Turkish: 1922 İzmir Yangını, "1922 İzmir Fire"; Armenian: Զմիւռնիոյ Մեծ Հրդեհ, Zmyuṙnio Mets Hrdeh) destroyed much of the port city of Smyrna (modern İzmir, Turkey) in September 1922. Eyewitness reports state that the fire began on 13 September 1922 and lasted until it was largely extingu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/burning-of-smyrna-20260623.mp3" type="audio/mpeg" length="1634264"/>
+      <guid isPermaLink="false">history-burning-of-smyrna-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 09:04:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peshtigo fire</title>
       <description>The Peshtigo Fire was a large wildfire on October 8, 1871, in northeastern Wisconsin, United States, including much of the southern half of the Door Peninsula and adjacent parts of the Upper Peninsula of Michigan. The largest community in the affected area was Peshtigo, Wisconsin, which had a population of approximately 1,700 residents. The fire burned about 1.2 million acres (490,000 ha) and is t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/peshtigo-fire-20260622.mp3" type="audio/mpeg" length="1936031"/>
