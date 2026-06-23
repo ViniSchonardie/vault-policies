@@ -16,5 +16,14 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>John Higgins</title>
+      <description>John Higgins (born 18 May 1975) is a Scottish professional snooker player from Wishaw in North Lanarkshire. Since turning professional in 1992, he has won 33 ranking titles, placing him in third position on the all-time list of ranking event winners. He has won four World Championships, three UK Championships and two Masters titles, for a total of nine Triple Crown titles, behind only four players</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/john-higgins-20260623.mp3" type="audio/mpeg" length="1309920"/>
+      <guid isPermaLink="false">sportscrime-john-higgins-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:18:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
