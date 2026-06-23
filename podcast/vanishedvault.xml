@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aldrich Ames</title>
+      <description>Aldrich Hazen Ames (; May 26, 1941 – January 5, 2026) was an American counterintelligence officer with the Central Intelligence Agency who was convicted of espionage on behalf of the Soviet Union and Russia in 1994.
+Ames was responsible for the arrest and eventual execution of numerous Soviet and Russian officials secretly working on behalf of the United States intelligence community. He served a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/aldrich-ames-20260623.mp3" type="audio/mpeg" length="1655040"/>
+      <guid isPermaLink="false">shadow-aldrich-ames-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:56:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>D. B. Cooper</title>
       <description>Dan Cooper, best known as D. B. Cooper, was the alias of an unidentified man who hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington, on November 24, 1971. Cooper told the flight crew he had a bomb and demanded $200,000 in ransom (equivalent to $1,600,000 in 2025) and four parachutes upon landing in Seattle. After releasing the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/d-b-cooper-20260623.mp3" type="audio/mpeg" length="1522560"/>
