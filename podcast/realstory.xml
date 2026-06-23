@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas Jefferson</title>
+      <description>Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States from 1801 to 1809. He was the second vice president under John Adams. Jefferson was the primary author of the Declaration of Independence, and a leading proponent of democracy, republicanism and natural rights.
+Jefferson was born into the Colony of Virginia's planter c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-jefferson-20260623.mp3" type="audio/mpeg" length="1662720"/>
+      <guid isPermaLink="false">realstory-thomas-jefferson-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:52:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Wallace</title>
       <description>Sir William Wallace (Scottish Gaelic: Uilleam Uallas, pronounced [ˈɯʎam ˈuəl̪ˠəs̪]; Norman French: William le Waleys; c. 1270 – 23 August 1305) was a Scottish knight who became one of the main leaders during the First War of Scottish Independence.
 Along with Andrew Moray, Wallace defeated an English army at the Battle of Stirling Bridge in September 1297. He was appointed Guardian of Scotland and </description>
