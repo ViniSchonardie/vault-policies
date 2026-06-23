@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Galileo Galilei</title>
+      <description>Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), commonly referred to as Galileo Galilei, was an Italian astronomer, physicist, and engineer, sometimes described as a polymath. He was born in the city of Pisa, then part of the Duchy of Florence. Galileo has been called the father of observational astronomy, modern-era classical physics, the scientific method, and moder</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/galileo-galilei-20260623.mp3" type="audio/mpeg" length="1725797"/>
+      <guid isPermaLink="false">realstory-galileo-galilei-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 00:04:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Billy the Kid</title>
       <description>Henry McCarty (September 17 or November 23, 1859 – July 14, 1881), alias William H. Bonney, better known as Billy the Kid, was an American outlaw and gunfighter of the Old West who was linked to nine murders. He was solely responsible for four of them, and he may have played a role in five, alongside other men. He is also noted for his involvement in New Mexico's Lincoln County War.
 McCarty was or</description>
