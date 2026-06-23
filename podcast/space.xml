@@ -16,5 +16,15 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>STS-107</title>
+      <description>STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission ended on February 1, 2003, with the Space Shuttle Columbia disaster, in which all seven crew members were killed in the re-entry on the Earth's atmosphere; the shuttle was destroyed along with most of its scientific payloads.
+The flight launched from Kennedy Space Center </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-107-20260623.mp3" type="audio/mpeg" length="1722240"/>
+      <guid isPermaLink="false">space-sts-107-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:15:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
