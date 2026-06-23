@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ukraine International Airlines Flight 752</title>
+      <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
+Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ukraine-international-airlines-flight-752-20260623.mp3" type="audio/mpeg" length="1541280"/>
+      <guid isPermaLink="false">aviation-ukraine-international-airlines-flight-752-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 22:55:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sknyliv air show disaster</title>
       <description>The Sknyliv air show disaster (Ukrainian: Скнилівська трагедія, lit. 'Sknyliv tragedy') occurred on 27 July 2002, when a Ukrainian Air Force Sukhoi Su-27UB aircraft, piloted by Volodymyr Toponar (of the Ukrainian Falcons) and co-piloted by Yuriy Yegorov, crashed into spectators during an aerobatics presentation at Sknyliv airfield near Lviv, Ukraine. The accident killed 77 people and injured 543. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sknyliv-air-show-disaster-20260623.mp3" type="audio/mpeg" length="1910117"/>
