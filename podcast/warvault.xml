@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Somme</title>
+      <description>The Battle of the Somme (French: Bataille de la Somme; German: Schlacht an der Somme), also known as the Somme offensive, was a battle of the First World War fought by the armies of the British Empire and the French Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the river Somme in France. The battle was intended to hasten</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-somme-20260623.mp3" type="audio/mpeg" length="1727887"/>
+      <guid isPermaLink="false">warvault-battle-of-the-somme-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 03:58:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fall of Constantinople</title>
       <description>The Fall of Constantinople, also known as the Conquest of Constantinople, was the capture of Constantinople, the capital city of the Byzantine Empire, by the Ottoman Empire. The city was captured on 29 May 1453 as part of the culmination of a 53-day siege which had begun on 6 April.
 The attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by Sultan Mehm</description>
