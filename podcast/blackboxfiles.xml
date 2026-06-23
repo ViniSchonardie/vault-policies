@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sknyliv air show disaster</title>
+      <description>The Sknyliv air show disaster (Ukrainian: Скнилівська трагедія, lit. 'Sknyliv tragedy') occurred on 27 July 2002, when a Ukrainian Air Force Sukhoi Su-27UB aircraft, piloted by Volodymyr Toponar (of the Ukrainian Falcons) and co-piloted by Yuriy Yegorov, crashed into spectators during an aerobatics presentation at Sknyliv airfield near Lviv, Ukraine. The accident killed 77 people and injured 543. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sknyliv-air-show-disaster-20260623.mp3" type="audio/mpeg" length="1910117"/>
+      <guid isPermaLink="false">aviation-sknyliv-air-show-disaster-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 08:36:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Qantas Flight 72</title>
       <description>Qantas Flight 72 (QF72) was a scheduled flight from Singapore Changi Airport to Perth Airport by an Airbus A330. On 7 October 2008, the flight made an emergency landing at Learmonth Airport near the town of Exmouth, Western Australia, following an in-flight upset that included a pair of sudden, uncommanded pitch-down manoeuvres that caused severe injuries—including fractures, lacerations and spina</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/qantas-flight-72-20260623.mp3" type="audio/mpeg" length="1570316"/>
