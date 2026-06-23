@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Elaine Race Riot</title>
+      <description>The Elaine Race massacre occurred on September 30 – October 2, 1919, at Hoop Spur in the vicinity of Elaine in rural Phillips County, Arkansas, where African Americans were organizing against peonage and abuses in tenant farming. As many as several hundred African Americans were murdered and five white men were killed. Estimates of deaths made in the immediate aftermath of the Elaine Massacre by e</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/elaine-race-riot-20260623.mp3" type="audio/mpeg" length="1691520"/>
+      <guid isPermaLink="false">crime-elaine-race-riot-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:47:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Cullen</title>
       <description>Charles Edmund Cullen is an American serial killer. While working as a nurse, Cullen murdered dozens—possibly hundreds—of patients during a 16-year career spanning several New Jersey and Pennsylvania medical centers until finally being arrested in 2003. He confessed to committing as many as 40 murders at least 29 of which have been confirmed, though interviews with police, psychiatrists and journa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-cullen-20260622.mp3" type="audio/mpeg" length="1312435"/>
