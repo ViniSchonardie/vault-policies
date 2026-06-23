@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vasco Nez De Balboa</title>
+      <description>Vasco Núñez de Balboa (Spanish pronunciation: [ˈbasko ˈnuɲeθ ðe βalˈβo.a]; c. 1475 – around January 12–21, 1519) was a Spanish explorer, governor, conquistador, adelantado, and a pirate. He is best known for being the first European to discover the Pacific Ocean while crossing the Isthmus of Panama in 1513.
+He traveled to the New World in 1500 and, after some exploration, settled on the island of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/vasco-nez-de-balboa-20260623.mp3" type="audio/mpeg" length="1558080"/>
+      <guid isPermaLink="false">pirates-vasco-nez-de-balboa-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:50:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henry Morgans Panama Expedition</title>
       <description>Henry Morgan's Panama expedition, also known as The Sack of Panama, was a military expedition in which English privateers commanded by Welsh Buccaneer Henry Morgan launched an attack with an army of 1,400 men (including French and Dutch volunteers) with the purpose of capturing the rich Spanish city of Panama off the Pacific coast between 16 December 1670 and 5 March 1671 during the later stage of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/henry-morgans-panama-expedition-20260623.mp3" type="audio/mpeg" length="1657920"/>
