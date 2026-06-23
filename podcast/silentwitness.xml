@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alfred Rosenberg</title>
+      <description>Alfred Ernst Rosenberg (12 January [O.S. 31 December 1892] 1893 – 16 October 1946) was a Baltic German Nazi theorist, theologian, ideologue and convicted war criminal. Rosenberg was first introduced to Adolf Hitler by Dietrich Eckart, and he held several important posts in the Nazi government. He was the head of the NSDAP Office of Foreign Affairs during the entire rule of Nazi Germany (1933–1945)</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/alfred-rosenberg-20260623.mp3" type="audio/mpeg" length="1189137"/>
+      <guid isPermaLink="false">trials-alfred-rosenberg-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 00:06:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Witch Hunt</title>
       <description>A witch hunt, or a witch purge, is a search for people who have been labeled witches or a search for evidence of witchcraft. Practicing evil spells or incantations was proscribed and punishable in early human civilizations in the Middle East. An intensive period of witch-hunts occurring in Early Modern Europe and to a smaller extent Colonial America, took place from about 1450 to 1750, spanning th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/witch-hunt-20260622.mp3" type="audio/mpeg" length="1622561"/>
