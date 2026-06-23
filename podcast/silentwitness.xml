@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Amanda Knox</title>
+      <description>Amanda Marie Knox (born July 9, 1987) is an American author. She came to international prominence after being convicted for the November 2007 murder of her roommate, Meredith Kercher, in Perugia, Italy, a trial that was highly publicized between Knox's conviction in 2009 and her acquittal two years later. 
+She was convicted of the murder of Kercher in 2009 and was sentenced to 26 years in prison. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/amanda-knox-20260623.mp3" type="audio/mpeg" length="1773120"/>
+      <guid isPermaLink="false">trials-amanda-knox-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:48:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alfred Rosenberg</title>
       <description>Alfred Ernst Rosenberg (12 January [O.S. 31 December 1892] 1893 – 16 October 1946) was a Baltic German Nazi theorist, theologian, ideologue and convicted war criminal. Rosenberg was first introduced to Adolf Hitler by Dietrich Eckart, and he held several important posts in the Nazi government. He was the head of the NSDAP Office of Foreign Affairs during the entire rule of Nazi Germany (1933–1945)</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/alfred-rosenberg-20260623.mp3" type="audio/mpeg" length="1189137"/>
