@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Baby Face Nelson</title>
+      <description>Lester Joseph Gillis (December 6, 1908 – November 27, 1934), also known as George Nelson and Baby Face Nelson, was an American bank robber who became a criminal partner of John Dillinger when he helped Dillinger escape from prison in Crown Point, Indiana. Later, the Federal Bureau of Investigation (FBI) announced that Nelson and the remaining gang of bank robbers were collectively "Public Enemy Nu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/baby-face-nelson-20260623.mp3" type="audio/mpeg" length="1464960"/>
+      <guid isPermaLink="false">heist-baby-face-nelson-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:47:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Train Robbery (1963)</title>
       <description>The Great Train Robbery was the robbery of £2.61 million (worth about £64 million in 2024) from a Royal Mail train travelling from Glasgow to London, on the West Coast Main Line, in the early hours of 8 August 1963. It took place at Bridego Railway Bridge, Ledburn, near Mentmore, in Buckinghamshire, England.
 After tampering with the lineside signals to bring the train to a halt, a gang of 15, led </description>
