@@ -16,5 +16,15 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Didius Julianus</title>
+      <description>Marcus Didius Julianus (; 29 January 133 – 2 June 193) was Roman emperor from March to June 193, during the Year of the Five Emperors. He is known for having purchased the title of emperor in an auction run by the Praetorian Guard. His reign is a common delineation in the decline and fall of the Roman Empire.
+Julianus had a successful political career, governing several provinces, including Dalmat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/didius-julianus-20260623.mp3" type="audio/mpeg" length="1795680"/>
+      <guid isPermaLink="false">ancient-didius-julianus-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:47:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
