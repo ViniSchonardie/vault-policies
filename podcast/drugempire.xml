@@ -16,5 +16,15 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2011 Monterrey casino attack</title>
+      <description>On August 25, 2011, members of the drug cartel Los Zetas set a casino on fire in Monterrey, Nuevo León, Mexico, killing 52 people.
+The arson attack left over a dozen injured, and over 35 trapped for several hours. Mexican forces, which arrived minutes after the incident, eventually used backhoes to break down the walls and free the trapped victims. Media reports state the majority of those killed </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/2011-monterrey-casino-attack-20260623.mp3" type="audio/mpeg" length="1659360"/>
+      <guid isPermaLink="false">drugempire-2011-monterrey-casino-attack-20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 23:47:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
