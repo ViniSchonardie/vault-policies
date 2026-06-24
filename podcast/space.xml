@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 8</title>
+      <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20260624.mp3" type="audio/mpeg" length="2004960"/>
+      <guid isPermaLink="false">space-gemini-8-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 23:11:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51-L</title>
       <description>STS-51-L was the 25th mission of NASA's Space Shuttle program which resulted in the loss of Space Shuttle Challenger.
 It was planned as the first Teacher in Space Project flight in addition to observing Halley's Comet for six days and performing a routine satellite deployment. The mission did not achieve orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space</description>
