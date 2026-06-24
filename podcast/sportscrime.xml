@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tyson Fury</title>
+      <description>Tyson Luke Fury (born 12 August 1988) is a British professional boxer. He held multiple world heavyweight championships, including unified titles from 2015 to 2016, the Ring magazine title twice between 2015 and 2022, and the World Boxing Council (WBC) title from 2020 to 2024. He also held the International Boxing Organization (IBO) title during his first reign as champion.
+At regional level, he h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/tyson-fury-20260624.mp3" type="audio/mpeg" length="1565280"/>
+      <guid isPermaLink="false">sportscrime-tyson-fury-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 07:48:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Higgins</title>
       <description>John Higgins (born 18 May 1975) is a Scottish professional snooker player from Wishaw in North Lanarkshire. Since turning professional in 1992, he has won 33 ranking titles, placing him in third position on the all-time list of ranking event winners. He has won four World Championships, three UK Championships and two Masters titles, for a total of nine Triple Crown titles, behind only four players</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/john-higgins-20260623.mp3" type="audio/mpeg" length="1309920"/>
