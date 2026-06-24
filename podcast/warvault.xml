@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Hastings</title>
+      <description>The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson, beginning the Norman Conquest of England. It took place approximately 7 mi (11 km) northwest of Hastings, close to the present-day town of Battle, East Sussex, and was a decisive Norman victory.
+The background to the batt</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-hastings-20260624.mp3" type="audio/mpeg" length="1865760"/>
+      <guid isPermaLink="false">warvault-battle-of-hastings-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 04:00:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Thermopylae</title>
       <description>The Battle of Thermopylae () was fought in 480 BC at Thermopylae between the Achaemenid Persian Empire under Xerxes and an alliance of Greek city-states led by Sparta under Leonidas I. Lasting over the course of three days, it was one of the most prominent battles of both the second Persian invasion of Greece and the wider Greco-Persian Wars.
 The engagement occurred simultaneously with the naval B</description>
