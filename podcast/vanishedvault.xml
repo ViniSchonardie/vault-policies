@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mata Hari</title>
+      <description>Margaretha Geertruida MacLeod (née Zelle, Dutch: [mɑrɣaːˈreːtaː ɣeːrˈtrœydaː ˈzɛlə]; 7 August 1876 – 15 October 1917), better known by the stage name Mata Hari ( MAH-tə HAR-ee, Dutch: [ˈmaːtaː ˈɦaːri]; Indonesian for 'sun', lit. 'eye of the day'), was a Dutch exotic dancer and courtesan who was convicted of being a spy for Germany during World War I. She was executed by firing squad in France.
+The</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/mata-hari-20260624.mp3" type="audio/mpeg" length="1821120"/>
+      <guid isPermaLink="false">shadow-mata-hari-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 10:24:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aldrich Ames</title>
       <description>Aldrich Hazen Ames (; May 26, 1941 – January 5, 2026) was an American counterintelligence officer with the Central Intelligence Agency who was convicted of espionage on behalf of the Soviet Union and Russia in 1994.
 Ames was responsible for the arrest and eventual execution of numerous Soviet and Russian officials secretly working on behalf of the United States intelligence community. He served a </description>
