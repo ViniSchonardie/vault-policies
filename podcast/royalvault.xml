@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine the Great</title>
+      <description>Catherine II (born Princess Sophia Augusta Frederica of Anhalt-Zerbst; 2 May 1729 – 17 November 1796), commonly known as Catherine the Great, was the Empress of Russia from 1762 to 1796. She came to power after a coup d'etat against her husband, Peter III. Her long reign helped Russia thrive under a golden age during the Enlightenment. This renaissance led to the founding of many new cities, unive</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-the-great-20260624.mp3" type="audio/mpeg" length="1980480"/>
+      <guid isPermaLink="false">royal-catherine-the-great-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 18:35:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marie Antoinette</title>
       <description>Marie Antoinette (Marie Antoinette Josèphe Jeanne; born Maria Antonia Josefa Johanna; 2 November 1755 – 16 October 1793) was Queen consort of France as the wife of Louis XVI from 10 May 1774 until the abolition of the French monarchy in 1792 during the French Revolution.
 Born in November 1755 at the Hofburg in Vienna, Marie was the fifteenth child and youngest daughter of Emperor Francis I and Emp</description>
