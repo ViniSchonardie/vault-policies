@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Diego Maradona</title>
+      <description>Diego Armando Maradona (30 October 1960 – 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the Century award, alongside Pelé.
+An advanced playmaker who operated in the classic number 10 position, Maradona's vision, passing, ball control, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/diego-maradona-20260624.mp3" type="audio/mpeg" length="1437120"/>
+      <guid isPermaLink="false">sportscrime-diego-maradona-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 23:17:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rick Pitino</title>
       <description>Richard Andrew Pitino (; born September 18, 1952) is an American basketball coach who is the head men's basketball coach at St. John's University. He has been the head coach of several teams in NCAA Division I and in the NBA, including Boston University (1978–1983), Providence College (1985–1987), the New York Knicks (1987–1989), the University of Kentucky (1989–1997), the Boston Celtics (1997–200</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/rick-pitino-20260624.mp3" type="audio/mpeg" length="1736160"/>
