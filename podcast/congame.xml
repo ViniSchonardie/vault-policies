@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jordan Belfort</title>
+      <description>Jordan Ross Belfort (; born July 9, 1962) is an American former stockbroker, criminal, and businessman who pleaded guilty to fraud and related crimes in connection with stock-market manipulation and running a boiler room as part of a penny-stock scam in 1999.  Belfort spent 22 months in prison as part of an agreement under which, becoming an informant for the FBI and wearing a covert listening dev</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/jordan-belfort-20260624.mp3" type="audio/mpeg" length="1895520"/>
+      <guid isPermaLink="false">congame-jordan-belfort-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 10:43:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Facebookcambridge Analytica Data Scandal</title>
       <description>In the 2010s, personal data belonging to millions of Facebook users was collected by British consulting firm Cambridge Analytica for political advertising without informed consent.
 The data was collected through an app called "This Is Your Digital Life", developed by data scientist Aleksandr Kogan and his company Global Science Research in 2013. The app consisted of a series of questions to build </description>
