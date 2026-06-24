@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Isabella Stewart Gardner Museum theft</title>
+      <description>In the early hours of March 18, 1990, 13 works of art were stolen from the Isabella Stewart Gardner Museum in Boston. Security guards admitted two men posing as policemen responding to a disturbance call, and the thieves bound the guards and looted the museum over the next hour. The case is unsolved; no arrests have been made, and no works have been recovered. The stolen works have been valued at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/isabella-stewart-gardner-museum-theft-20260624.mp3" type="audio/mpeg" length="1773600"/>
+      <guid isPermaLink="false">heist-isabella-stewart-gardner-museum-theft-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 07:56:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Baby Face Nelson</title>
       <description>Lester Joseph Gillis (December 6, 1908 – November 27, 1934), also known as George Nelson and Baby Face Nelson, was an American bank robber who became a criminal partner of John Dillinger when he helped Dillinger escape from prison in Crown Point, Indiana. Later, the Federal Bureau of Investigation (FBI) announced that Nelson and the remaining gang of bank robbers were collectively "Public Enemy Nu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/baby-face-nelson-20260623.mp3" type="audio/mpeg" length="1464960"/>
