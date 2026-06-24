@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Macrinus</title>
+      <description>Marcus Opellius Macrinus (; c. 165 – June 218) was a Roman emperor who reigned from April 217 to June 218, jointly with his young son Diadumenianus. Born in Caesarea (now called Cherchell, in modern Algeria), in the Roman province of Mauretania Caesariensis to an equestrian family of Berber origins, he became the first emperor who did not hail from the senatorial class and also the first emperor w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/macrinus-20260624.mp3" type="audio/mpeg" length="1795680"/>
+      <guid isPermaLink="false">ancient-macrinus-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 20:55:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Antoninus Pius</title>
       <description>Titus Aelius Hadrianus Antoninus Pius (; Latin: [antoːˈniːnus ˈpius]; 19 September 86 – 7 March 161) was Roman emperor from AD 138 to 161. He was the fourth of the Five Good Emperors from the Nerva–Antonine dynasty and also the fourth of the six adoptive emperors.
 Born into a senatorial family, Antoninus held various offices during the reign of Emperor Hadrian. He married Hadrian's niece Faustina,</description>
