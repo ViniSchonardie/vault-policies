@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle Of Tonkin River</title>
+      <description>The Battle of Tonkin River was a major naval battle fought in northern Vietnam between the pirates of Shap Ng-tsai and the British Royal Navy with aid from the Qing Chinese navy and the Tonkinese. The 1849 expedition led to the destruction of Shap Ng-tsai's fleet and the loss of over 2,000 men. The battle occurred over a three-day period at the mouth of the Tonkin River, near present-day Hai Phong</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/battle-of-tonkin-river-20260624.mp3" type="audio/mpeg" length="1502400"/>
+      <guid isPermaLink="false">pirates-battle-of-tonkin-river-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 23:08:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jeanne De Clisson</title>
       <description>Jeanne de Clisson (1300–1359), also known as Jeanne de Belleville and the Lioness of Brittany, was a French–Breton noblewoman who became a privateer to avenge her husband after he was executed for treason by King Philip VI of France. She crossed the English Channel, targeted French ships, and regularly slaughtered almost their entire crew. It was her practice to leave at least one sailor alive to </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/jeanne-de-clisson-20260624.mp3" type="audio/mpeg" length="1639680"/>
