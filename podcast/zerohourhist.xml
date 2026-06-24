@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2010 Canterbury earthquake</title>
+      <description>The 2010 Canterbury earthquake (also known as the Darfield earthquake) struck the South Island of New Zealand with a moment magnitude of 7.1 at 4:35 am local time on 4 September, and had a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. Some damaging aftershocks followed the main event, the strongest of which was a magnitude 6.3 shock known as the Christchurch earthquak</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2010-canterbury-earthquake-20260624.mp3" type="audio/mpeg" length="1849440"/>
+      <guid isPermaLink="false">history-2010-canterbury-earthquake-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 23:18:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2003 Bam earthquake</title>
       <description>An earthquake struck the Kerman province of southeastern Iran at 01:56 UTC (5:26 am Iran Standard Time) on December 26, 2003. The Mw 6.6 (Ms 6.8–7.0) strike-slip shock had a maximum Mercalli intensity of X (Extreme). The earthquake was particularly destructive in Bam and Baravat, with 34,000 fatalities and 200,000 injuries officially reported. It was the deadliest natural disaster globally since t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2003-bam-earthquake-20260624.mp3" type="audio/mpeg" length="1620480"/>
