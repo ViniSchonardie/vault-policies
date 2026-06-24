@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Columbine High School massacre</title>
+      <description>On April 20, 1999, high school senior students Eric Harris and Dylan Klebold murdered 13 students and one teacher in a school shooting and attempted bombing at Columbine High School in Columbine, Colorado, United States. Twenty people were injured by the gunfire, and three others were injured while trying to escape. The attack ended when Harris and Klebold died by suicide.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/columbine-high-school-massacre-20260624.mp3" type="audio/mpeg" length="1868640"/>
+      <guid isPermaLink="false">crime-columbine-high-school-massacre-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 05:14:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elaine Race Riot</title>
       <description>The Elaine Race massacre occurred on September 30 – October 2, 1919, at Hoop Spur in the vicinity of Elaine in rural Phillips County, Arkansas, where African Americans were organizing against peonage and abuses in tenant farming. As many as several hundred African Americans were murdered and five white men were killed. Estimates of deaths made in the immediate aftermath of the Elaine Massacre by e</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/elaine-race-riot-20260623.mp3" type="audio/mpeg" length="1691520"/>
