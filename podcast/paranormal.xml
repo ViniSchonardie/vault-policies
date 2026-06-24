@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kraken</title>
+      <description>The kraken (; from Norwegian: kraken, ) is a legendary sea monster of enormous size, per its etymology something akin to a cephalopod, said to appear in the Norwegian Sea off the coast of Norway. It is believed that the legend of the Kraken may have originated from sightings of giant squid, which may grow to 10.5 metres (34 ft) in length.
+The kraken, as a subject of sailors' superstitions and myth</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/kraken-20260624.mp3" type="audio/mpeg" length="1394400"/>
+      <guid isPermaLink="false">paranormal-kraken-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 20:58:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Unidentified flying object</title>
       <description>An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs). Upon investiga</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/unidentified-flying-object-20260624.mp3" type="audio/mpeg" length="1687680"/>
