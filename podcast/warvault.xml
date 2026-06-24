@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Okinawa</title>
+      <description>The Battle of Okinawa (Japanese: 沖縄戦, Hepburn: Okinawa-sen), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by the United States Army and United States Marine Corps forces against the Imperial Japanese Army. The initial invasion of Okinawa on 1 April 1945 was the largest amphibious assault in the Pacific Theater of World War II. The Kerama Island</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-okinawa-20260624.mp3" type="audio/mpeg" length="1468800"/>
+      <guid isPermaLink="false">warvault-battle-of-okinawa-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 10:56:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Agincourt</title>
       <description>The Battle of Agincourt ( AJ-in-kor(t); French: Azincourt [azɛ̃kuʁ]) was an English victory in the Hundred Years' War. It took place on 25 October 1415 (Saint Crispin's Day) near Azincourt, in northern France. The unexpected victory of the vastly outnumbered English troops over the French army boosted English morale, crippled France, and began a new period of English dominance in the war. This adv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-agincourt-20260624.mp3" type="audio/mpeg" length="1694400"/>
