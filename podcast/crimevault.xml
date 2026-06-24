@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Israel Keyes</title>
+      <description>Israel Keyes (January 7, 1978 – December 1, 2012) was an American serial killer, rapist, bank robber, burglar, arsonist, and kidnapper.
+Keyes is known to have murdered three people. Law enforcement investigators believe he committed a number of other violent crimes across the United States between the late 1990s and early 2012. Keyes was arrested in March 2012 in connection with the killing of a w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/israel-keyes-20260624.mp3" type="audio/mpeg" length="1704000"/>
+      <guid isPermaLink="false">crime-israel-keyes-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 18:59:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2017 Las Vegas shooting</title>
       <description>On October 1, 2017, a mass shooting occurred when 64-year-old Stephen Paddock opened fire on the crowd attending the Route 91 Harvest music festival on the Las Vegas Strip in Nevada from his 32nd-floor suites in the Mandalay Bay hotel. He fired more than 1,000 rounds, killing 60 people and wounding at least 413 others. The ensuing panic brought the total number of injured to about 867. About an ho</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2017-las-vegas-shooting-20260624.mp3" type="audio/mpeg" length="1677120"/>
