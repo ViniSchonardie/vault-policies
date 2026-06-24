@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Scopes Trial</title>
+      <description>The State of Tennessee v. John Thomas Scopes, commonly known as the Scopes trial or Scopes Monkey Trial, was an American legal case from July 10 to July 21, 1925, in which a high school teacher, John T. Scopes, was accused of violating the Butler Act, a Tennessee state law which outlawed the teaching of human evolution in public schools. The trial was deliberately staged in order to attract public</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/scopes-trial-20260624.mp3" type="audio/mpeg" length="1781760"/>
+      <guid isPermaLink="false">trials-scopes-trial-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 10:25:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sacco and Vanzetti</title>
       <description>Nicola Sacco (Italian: [niˈkɔːla ˈsakko]; April 22, 1891 – August 23, 1927) and Bartolomeo Vanzetti (Italian: [bartoloˈmɛːo vanˈtsetti, -ˈdzet-]; June 11, 1888 – August 23, 1927) were Italian immigrants and anarchists, controversially accused of murdering Alessandro Berardelli and Frederick Parmenter, a guard and a paymaster, during the April 15, 1920, armed robbery of the Slater and Morrill Shoe </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/sacco-and-vanzetti-20260623.mp3" type="audio/mpeg" length="1861920"/>
