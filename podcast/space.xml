@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-12</title>
+      <description>SpaceX Crew-12 is the twelfth operational NASA Commercial Crew Program flight and the 20th crewed orbital flight of a Crew Dragon spacecraft. The mission transported four crew members—NASA astronauts Jessica Meir and Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev—to the International Space Station (ISS). The mission launched on 13 February 2026.
+
+
+== Crew ==
+
+In</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-12-20260624.mp3" type="audio/mpeg" length="1609920"/>
+      <guid isPermaLink="false">space-spacex-crew-12-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 12:21:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-107</title>
       <description>STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission ended on February 1, 2003, with the Space Shuttle Columbia disaster, in which all seven crew members were killed in the re-entry on the Earth's atmosphere; the shuttle was destroyed along with most of its scientific payloads.
 The flight launched from Kennedy Space Center </description>
