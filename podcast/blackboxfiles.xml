@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean Air Flight 801</title>
+      <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20260624.mp3" type="audio/mpeg" length="1559520"/>
+      <guid isPermaLink="false">aviation-korean-air-flight-801-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 22:14:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAM Airlines Flight 3054</title>
       <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20260624.mp3" type="audio/mpeg" length="1670880"/>
