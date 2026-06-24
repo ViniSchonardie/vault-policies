@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Spartacus</title>
+      <description>Spartacus (; c. 103 – 71 BC) was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic.
+Historical accounts of his life come primarily from Plutarch and Appian, who wrote more than a century after his death. Plutarch's Life of Crassus and Appian's Civil Wars provide the most detailed accounts of the slave revolt. A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/spartacus-20260624.mp3" type="audio/mpeg" length="1727520"/>
+      <guid isPermaLink="false">realstory-spartacus-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 10:20:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Karl Marx</title>
       <description>Karl Marx (German: [ˈkaʁl ˈmaʁks]; 5 May 1818 – 14 March 1883) was a German philosopher, social and political theorist, economist, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favour of communism. Marx co-authored The Communist Manifesto (1848) with h</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/karl-marx-20260624.mp3" type="audio/mpeg" length="1760640"/>
