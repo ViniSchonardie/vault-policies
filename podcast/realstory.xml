@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Karl Marx</title>
+      <description>Karl Marx (German: [ˈkaʁl ˈmaʁks]; 5 May 1818 – 14 March 1883) was a German philosopher, social and political theorist, economist, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favour of communism. Marx co-authored The Communist Manifesto (1848) with h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/karl-marx-20260624.mp3" type="audio/mpeg" length="1760640"/>
+      <guid isPermaLink="false">realstory-karl-marx-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 08:24:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thomas Jefferson</title>
       <description>Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States from 1801 to 1809. He was the second vice president under John Adams. Jefferson was the primary author of the Declaration of Independence, and a leading proponent of democracy, republicanism and natural rights.
 Jefferson was born into the Colony of Virginia's planter c</description>
