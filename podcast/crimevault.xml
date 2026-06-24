@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Las Vegas shooting</title>
+      <description>On October 1, 2017, a mass shooting occurred when 64-year-old Stephen Paddock opened fire on the crowd attending the Route 91 Harvest music festival on the Las Vegas Strip in Nevada from his 32nd-floor suites in the Mandalay Bay hotel. He fired more than 1,000 rounds, killing 60 people and wounding at least 413 others. The ensuing panic brought the total number of injured to about 867. About an ho</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2017-las-vegas-shooting-20260624.mp3" type="audio/mpeg" length="1677120"/>
+      <guid isPermaLink="false">crime-2017-las-vegas-shooting-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 11:44:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbine High School massacre</title>
       <description>On April 20, 1999, high school senior students Eric Harris and Dylan Klebold murdered 13 students and one teacher in a school shooting and attempted bombing at Columbine High School in Columbine, Colorado, United States. Twenty people were injured by the gunfire, and three others were injured while trying to escape. The attack ended when Harris and Klebold died by suicide.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/columbine-high-school-massacre-20260624.mp3" type="audio/mpeg" length="1868640"/>
