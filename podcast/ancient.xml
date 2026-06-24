@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Theodosius I</title>
+      <description>Theodosius I (Ancient Greek: Θεοδόσιος Theodósios; 11 January 347 –  17 January 395), also known as Theodosius the Great, was Roman emperor from 379 to 395. He won two civil wars and was instrumental in establishing the Nicene Creed as the orthodox doctrine for Nicene Christianity. Theodosius was the last emperor to rule the entire Roman Empire. After his death, his sons Arcadius and Honorius rule</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/theodosius-i-20260624.mp3" type="audio/mpeg" length="1975680"/>
+      <guid isPermaLink="false">ancient-theodosius-i-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 05:05:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Didius Julianus</title>
       <description>Marcus Didius Julianus (; 29 January 133 – 2 June 193) was Roman emperor from March to June 193, during the Year of the Five Emperors. He is known for having purchased the title of emperor in an auction run by the Praetorian Guard. His reign is a common delineation in the decline and fall of the Roman Empire.
 Julianus had a successful political career, governing several provinces, including Dalmat</description>
