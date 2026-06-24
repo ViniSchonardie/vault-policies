@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marie Antoinette</title>
+      <description>Marie Antoinette (Marie Antoinette Josèphe Jeanne; born Maria Antonia Josefa Johanna; 2 November 1755 – 16 October 1793) was Queen consort of France as the wife of Louis XVI from 10 May 1774 until the abolition of the French monarchy in 1792 during the French Revolution.
+Born in November 1755 at the Hofburg in Vienna, Marie was the fifteenth child and youngest daughter of Emperor Francis I and Emp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/marie-antoinette-20260624.mp3" type="audio/mpeg" length="1486080"/>
+      <guid isPermaLink="false">royal-marie-antoinette-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 11:49:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henry VIII</title>
       <description>Henry VIII (28 June 1491 – 28 January 1547) was King of England and Lord of Ireland from 22 April 1509, and King of Ireland from 18 June 1542, until his death in 1547.
 Born in Greenwich, Henry was the second son of Henry VII and Elizabeth of York. His elder brother, Arthur, Prince of Wales, was heir apparent, but he died in 1502 at the age of 15. Henry took the throne at the age of 17 on his fathe</description>
