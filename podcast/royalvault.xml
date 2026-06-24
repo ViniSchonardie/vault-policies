@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Henry VIII</title>
+      <description>Henry VIII (28 June 1491 – 28 January 1547) was King of England and Lord of Ireland from 22 April 1509, and King of Ireland from 18 June 1542, until his death in 1547.
+Born in Greenwich, Henry was the second son of Henry VII and Elizabeth of York. His elder brother, Arthur, Prince of Wales, was heir apparent, but he died in 1502 at the age of 15. Henry took the throne at the age of 17 on his fathe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/henry-viii-20260624.mp3" type="audio/mpeg" length="1403040"/>
+      <guid isPermaLink="false">royal-henry-viii-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 05:11:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Habsburg Spain</title>
       <description>Habsburg Spain, also known as the Catholic Monarchy, was the period of Spanish history and Spanish Empire from 1516 to 1700 when it was ruled by kings from the House of Habsburg. In this period the Spanish Empire was at the zenith of its influence and power. During this period, Spain held many territories, including Pan-American continental holdings and the West Indies; European territories like t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/habsburg-spain-20260623.mp3" type="audio/mpeg" length="1729977"/>
