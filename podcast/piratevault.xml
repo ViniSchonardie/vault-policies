@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jeanne De Clisson</title>
+      <description>Jeanne de Clisson (1300–1359), also known as Jeanne de Belleville and the Lioness of Brittany, was a French–Breton noblewoman who became a privateer to avenge her husband after he was executed for treason by King Philip VI of France. She crossed the English Channel, targeted French ships, and regularly slaughtered almost their entire crew. It was her practice to leave at least one sailor alive to </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/jeanne-de-clisson-20260624.mp3" type="audio/mpeg" length="1639680"/>
+      <guid isPermaLink="false">pirates-jeanne-de-clisson-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 16:21:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Newland Maffitt Privateer</title>
       <description>John Newland Maffitt (February 22, 1819 – May 15, 1886) was an officer in the Confederate States Navy who was nicknamed the "Prince of Privateers" due to his success as a blockade runner and commerce raider in the U.S. Civil War.
 
