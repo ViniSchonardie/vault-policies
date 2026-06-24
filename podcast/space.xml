@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-L</title>
+      <description>STS-51-L was the 25th mission of NASA's Space Shuttle program which resulted in the loss of Space Shuttle Challenger.
+It was planned as the first Teacher in Space Project flight in addition to observing Halley's Comet for six days and performing a routine satellite deployment. The mission did not achieve orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-l-20260624.mp3" type="audio/mpeg" length="2029920"/>
+      <guid isPermaLink="false">space-sts-51-l-20260624</guid>
+      <pubDate>Wed, 24 Jun 2026 17:54:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX Crew-12</title>
       <description>SpaceX Crew-12 is the twelfth operational NASA Commercial Crew Program flight and the 20th crewed orbital flight of a Crew Dragon spacecraft. The mission transported four crew members—NASA astronauts Jessica Meir and Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev—to the International Space Station (ISS). The mission launched on 13 February 2026.
 
