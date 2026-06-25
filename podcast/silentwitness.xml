@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ig Farben Trial</title>
+      <description>The United States of America vs. Carl Krauch, et al., also known as the IG Farben Trial, was the sixth of the twelve trials for war crimes the U.S. authorities held in their occupation zone in Germany after the end of World War II. IG Farben was the private German chemicals company allied with the Nazis that manufactured the Zyklon B gas used to commit genocide against millions of European Jews, R</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/ig-farben-trial-20260625.mp3" type="audio/mpeg" length="1435680"/>
+      <guid isPermaLink="false">trials-ig-farben-trial-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:25:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination Of Sadi Carnot</title>
       <description>On 24 June 1894, French President Sadi Carnot was assassinated by Italian anarchist Sante Geronimo Caserio in Lyon, France. A part of the Ère des attentats anarchist terrorist campaign (1892–1894), it led to a historic crackdown on French anarchist activities.
 Carnot was one of the main supporters of the lois scélérates ('villainous laws'), which aimed to break up anarchist activities during the È</description>
