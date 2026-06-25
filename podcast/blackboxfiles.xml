@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Airlines Flight 006</title>
+      <description>China Airlines Flight 006 was a daily non-stop international passenger flight from Taipei to Los Angeles International Airport. On February 19, 1985, the Boeing 747SP operating the flight was involved in an aircraft upset accident, following the failure of the No. 4 engine, while cruising at 41,000 ft (12,000 m). The plane rolled over and plunged 31,500 ft (10,000 m), experiencing high speeds and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-006-20260625.mp3" type="audio/mpeg" length="1794720"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-006-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 15:49:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Airlines Flight 611</title>
       <description>China Airlines Flight 611 was a regularly scheduled international passenger flight from Chiang Kai-shek International Airport (now Taoyuan International Airport) in Taiwan to Hong Kong International Airport that disintegrated midair and crashed into the Taiwan Strait, 23 nautical miles (43 km; 26 mi) northeast of the Penghu Islands, 20 minutes after takeoff, killing all 225 people on board. The in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-611-20260625.mp3" type="audio/mpeg" length="1740960"/>
