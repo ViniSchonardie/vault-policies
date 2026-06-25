@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Arthur Seyss Inquart</title>
+      <description>Arthur Seyss-Inquart (German: Seyß-Inquart; Austrian German pronunciation: [ˈartuːɐ̯ saɪs ˈɪŋkvart]; 22 July 1892 – 16 October 1946) was an Austrian Nazi politician and convicted war criminal who served as Chancellor of Austria in 1938 for two days before the Anschluss. His positions in Nazi Germany included deputy governor to Hans Frank in the General Government of Occupied Poland, and Reichskomm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/arthur-seyss-inquart-20260625.mp3" type="audio/mpeg" length="2087040"/>
+      <guid isPermaLink="false">trials-arthur-seyss-inquart-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 17:17:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ig Farben Trial</title>
       <description>The United States of America vs. Carl Krauch, et al., also known as the IG Farben Trial, was the sixth of the twelve trials for war crimes the U.S. authorities held in their occupation zone in Germany after the end of World War II. IG Farben was the private German chemicals company allied with the Nazis that manufactured the Zyklon B gas used to commit genocide against millions of European Jews, R</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/ig-farben-trial-20260625.mp3" type="audio/mpeg" length="1435680"/>
