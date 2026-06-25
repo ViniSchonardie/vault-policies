@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Buffalo Bills</title>
+      <description>The Buffalo Bills are a professional American football team based in the Buffalo–Niagara Falls metropolitan area. The Bills compete in the National Football League (NFL) as a member of the American Football Conference (AFC) East division. The team plays its home games at Highmark Stadium in Orchard Park, New York.
+Founded in 1959 as a charter member of the American Football League (AFL), the team </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/buffalo-bills-20260625.mp3" type="audio/mpeg" length="1695840"/>
+      <guid isPermaLink="false">sportscrime-buffalo-bills-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:27:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Diego Maradona</title>
       <description>Diego Armando Maradona (30 October 1960 – 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the Century award, alongside Pelé.
 An advanced playmaker who operated in the classic number 10 position, Maradona's vision, passing, ball control, </description>
