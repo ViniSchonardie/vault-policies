@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ma Barker</title>
+      <description>Kate Barker (born  
+Arizona Donnie Clark; October 8, 1873 – January 16, 1935), better known as Ma Barker (and sometimes known as Arizona Barker and Arrie Barker), was the mother of a few members of the Barker–Karpis Gang during the "public enemy era", when the exploits of criminal gangs in the Midwestern United States gripped the American people and press.
+Barker gained a reputation as a ruthless </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/ma-barker-20260625.mp3" type="audio/mpeg" length="1818720"/>
+      <guid isPermaLink="false">heist-ma-barker-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 14:02:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pretty Boy Floyd</title>
       <description>Charles Arthur Floyd (February 3, 1904 – October 22, 1934), nicknamed Pretty Boy Floyd, was an American bank robber whose crimes across the Midwestern and South Central United States received widespread press coverage in the 1930s. Floyd developed a positive reputation among some members of the public, in part because he reportedly destroyed mortgage documents during robberies, allegedly relieving</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/pretty-boy-floyd-20260625.mp3" type="audio/mpeg" length="1774080"/>
