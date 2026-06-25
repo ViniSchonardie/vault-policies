@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Vitellius</title>
+      <description>Aulus Vitellius (; Latin: [vɪˈtɛliʊs]; 24 September 15 – 20 December 69) was Roman emperor, ruling for eight months from 19 April to 20 December AD 69. Vitellius became emperor following the quick succession of the previous emperors Galba and Otho, in a year of civil war known as the Year of the Four Emperors. Vitellius added the honorific title Germanicus to his name instead of Caesar upon his ac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/vitellius-20260625.mp3" type="audio/mpeg" length="1762080"/>
+      <guid isPermaLink="false">ancient-vitellius-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 15:43:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Galba</title>
       <description>Servius Sulpicius Galba (  Latin pronunciation: [ˈgʌlbʌ]; 24 December 3 BC – 15 January AD 69) was Roman emperor, ruling for 7 months from 8 June AD 68 to 15 January 69. He was the first emperor in the Year of the Four Emperors and assumed the throne following Emperor Nero's suicide.
 Born into a wealthy family, Galba held at various times the positions of praetor, consul, and governor of the provi</description>
