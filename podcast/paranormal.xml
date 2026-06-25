@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Werewolf</title>
+      <description>In folklore, a werewolf (from Old English  werwulf 'man-wolf'), or occasionally lycanthrope (from Ancient Greek λυκάνθρωπος 'wolf-human'), is an individual who can shapeshift into a wolf or therianthropic hybrid wolf–humanlike creature, either voluntarily or involuntarily due to a curse or other affliction. In modern fiction, especially film, transformations are often depicted as triggered by the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/werewolf-20260625.mp3" type="audio/mpeg" length="1625280"/>
+      <guid isPermaLink="false">paranormal-werewolf-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 13:21:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mothman</title>
       <description>In American folklore, Mothman is the name given to a humanoid creature that was reportedly seen around Point Pleasant, West Virginia, from November 15, 1966, to December 15, 1967. Despite its name, the original sightings of the creature described avian features. The first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled "Couples See Man-Sized Bird ... </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/mothman-20260625.mp3" type="audio/mpeg" length="1813920"/>
