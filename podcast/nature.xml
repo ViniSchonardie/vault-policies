@@ -16,5 +16,15 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Lion</title>
+      <description>The lion (Panthera leo) is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a dark, hairy tuft at the tip of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane that extends from the head to the shoulders and chest.
+The lion inha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lion-20260625.mp3" type="audio/mpeg" length="1690560"/>
+      <guid isPermaLink="false">nature-lion-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:30:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
