@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>American football</title>
+      <description>American football, referred to simply as football in the United States and Canada and also known as gridiron football, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or throwing it, while the defense, the team witho</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/american-football-20260625.mp3" type="audio/mpeg" length="1470240"/>
+      <guid isPermaLink="false">sportscrime-american-football-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 18:19:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Buffalo Bills</title>
       <description>The Buffalo Bills are a professional American football team based in the Buffalo–Niagara Falls metropolitan area. The Bills compete in the National Football League (NFL) as a member of the American Football Conference (AFC) East division. The team plays its home games at Highmark Stadium in Orchard Park, New York.
 Founded in 1959 as a charter member of the American Football League (AFL), the team </description>
