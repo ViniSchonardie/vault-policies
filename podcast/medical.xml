@@ -16,5 +16,14 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>COVID-19 pandemic</title>
+      <description>The global COVID-19 pandemic (also known as the coronavirus pandemic), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019. It spread to other parts of Asia and then worldwide in early 2020. The World Health Organization (WHO) declared the outbreak a public health emergency of international concern (PHEIC) on 30 January 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/covid-19-pandemic-20260625.mp3" type="audio/mpeg" length="1519680"/>
+      <guid isPermaLink="false">medical-covid-19-pandemic-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:25:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
