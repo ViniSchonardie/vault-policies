@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julius and Ethel Rosenberg</title>
+      <description>Julius Rosenberg (May 12, 1918 – June 19, 1953) and Ethel Rosenberg (born Greenglass; September 28, 1915 – June 19, 1953) were an American married couple who were convicted of spying for the Soviet Union, including providing top-secret information about American radar, sonar, jet propulsion engines, and nuclear weapon designs. They were executed by the federal government of the United States in 19</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/julius-and-ethel-rosenberg-20260625.mp3" type="audio/mpeg" length="1871520"/>
+      <guid isPermaLink="false">shadow-julius-and-ethel-rosenberg-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 00:08:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Hanssen</title>
       <description>Robert Philip Hanssen (April 18, 1944 – June 5, 2023) was an American Federal Bureau of Investigation (FBI) agent who spied for Soviet and Russian intelligence services intermittently against the United States from 1979 to 2001. His espionage was described by the United States Department of Justice as "possibly the worst intelligence disaster in U.S. history".
 In 1979, three years after joining th</description>
