@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 1</title>
+      <description>Soyuz 1 (Russian: Союз 1, lit. 'Union 1') was a crewed spaceflight of the Soviet space program. Launched into orbit on 23 April 1967 carrying cosmonaut colonel Vladimir Komarov, Soyuz 1 was the first crewed flight of the Soyuz spacecraft. The flight was plagued with technical issues, and Komarov was killed when the descent module crashed into the ground due to a parachute failure. This was the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-1-20260625.mp3" type="audio/mpeg" length="1920960"/>
+      <guid isPermaLink="false">space-soyuz-1-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:24:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 8</title>
       <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20260624.mp3" type="audio/mpeg" length="2004960"/>
