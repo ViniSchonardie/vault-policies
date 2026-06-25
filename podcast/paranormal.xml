@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mothman</title>
+      <description>In American folklore, Mothman is the name given to a humanoid creature that was reportedly seen around Point Pleasant, West Virginia, from November 15, 1966, to December 15, 1967. Despite its name, the original sightings of the creature described avian features. The first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled "Couples See Man-Sized Bird ... </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/mothman-20260625.mp3" type="audio/mpeg" length="1813920"/>
+      <guid isPermaLink="false">paranormal-mothman-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:24:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kraken</title>
       <description>The kraken (; from Norwegian: kraken, ) is a legendary sea monster of enormous size, per its etymology something akin to a cephalopod, said to appear in the Norwegian Sea off the coast of Norway. It is believed that the legend of the Kraken may have originated from sightings of giant squid, which may grow to 10.5 metres (34 ft) in length.
 The kraken, as a subject of sailors' superstitions and myth</description>
