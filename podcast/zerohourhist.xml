@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2018 Anchorage earthquake</title>
+      <description>On November 30, 2018, at 8:29 a.m. AKST (17:29 UTC), a magnitude 7.1 earthquake hit Anchorage in Southcentral Alaska. The earthquake's epicenter was near Point Mackenzie, about 10 miles (16 km) north of Anchorage, and occurred at a depth of 29 miles (47 km). It was followed six minutes later by a magnitude 5.7 aftershock centered 2.5 miles (4.0 km) north-northwest of the municipality. The earthqua</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2018-anchorage-earthquake-20260625.mp3" type="audio/mpeg" length="1891680"/>
+      <guid isPermaLink="false">history-2018-anchorage-earthquake-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 23:29:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1920 Haiyuan earthquake</title>
       <description>The 1920 Haiyuan earthquake (Chinese: 海原大地震; pinyin: Hǎiyuán dà dìzhèn) occurred in Haiyuan County, Ningxia Province, Republic of China at 19:05:53 (UTC+8) on December 16, 1920. It was also called the 1920 Gansu earthquake because Ningxia was a part of Gansu Province when the earthquake occurred. It caused destruction in the Lijunbu-Haiyuan-Ganyanchi area and was assigned the maximum intensity on </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1920-haiyuan-earthquake-20260625.mp3" type="audio/mpeg" length="2075520"/>
