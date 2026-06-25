@@ -16,5 +16,14 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Odyssey</title>
+      <description>The Odyssey (; Ancient Greek: Ὀδύσσεια, romanized: Odýsseia) is one of two major epics of ancient Greek literature attributed to Homer. It is one of the oldest surviving works of literature and remains popular with modern audiences. Like the Iliad, the Odyssey is divided into 24 books. It follows the heroic king of Ithaca, Odysseus, also known by the Latin variant Ulysses, and his homecoming journ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/odyssey-20260625.mp3" type="audio/mpeg" length="1595520"/>
+      <guid isPermaLink="false">mythology-odyssey-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:25:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
