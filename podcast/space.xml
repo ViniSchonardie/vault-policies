@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-1</title>
+      <description>STS-1 (Space Transportation System-1) was the first orbital spaceflight of NASA's Space Shuttle program. The first orbiter, Columbia, launched on April 12, 1981, and returned on April 14, 1981, 54.5 hours later, having orbited the Earth 37 times. Columbia carried a crew of two—commander John W. Young and pilot Robert L. Crippen. It was the first American crewed space flight since the Apollo–Soyuz </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-1-20260625.mp3" type="audio/mpeg" length="1776960"/>
+      <guid isPermaLink="false">space-sts-1-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 18:11:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 1</title>
       <description>Soyuz 1 (Russian: Союз 1, lit. 'Union 1') was a crewed spaceflight of the Soviet space program. Launched into orbit on 23 April 1967 carrying cosmonaut colonel Vladimir Komarov, Soyuz 1 was the first crewed flight of the Soyuz spacecraft. The flight was plagued with technical issues, and Komarov was killed when the descent module crashed into the ground due to a parachute failure. This was the fir</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-1-20260625.mp3" type="audio/mpeg" length="1920960"/>
