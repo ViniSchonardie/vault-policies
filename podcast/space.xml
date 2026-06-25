@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Viking</title>
+      <description>Viking was Sweden's first satellite. It was launched on an Ariane 1 rocket as a piggyback payload together with the French satellite SPOT 1, on February 22, 1986. Operations ended on May 12, 1987. Viking was used to explore plasma processes in the magnetosphere and the ionosphere.
+
+
+== Spacecraft ==
+Space was limited underneath the SPOT 1 satellite, and Viking had to be quite sturdy in order to wi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/viking-20260625.mp3" type="audio/mpeg" length="1947360"/>
+      <guid isPermaLink="false">space-viking-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 23:23:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-1</title>
       <description>STS-1 (Space Transportation System-1) was the first orbital spaceflight of NASA's Space Shuttle program. The first orbiter, Columbia, launched on April 12, 1981, and returned on April 14, 1981, 54.5 hours later, having orbited the Earth 37 times. Columbia carried a crew of two—commander John W. Young and pilot Robert L. Crippen. It was the first American crewed space flight since the Apollo–Soyuz </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-1-20260625.mp3" type="audio/mpeg" length="1776960"/>
