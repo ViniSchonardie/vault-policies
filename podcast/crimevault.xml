@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peter Sutcliffe</title>
+      <description>Peter William Sutcliffe (2 June 1946 – 13 November 2020), also known as Peter Coonan, was an English serial killer who was convicted of murdering thirteen women and attempting to murder seven others between 1975 and 1980. Press reports dubbed him the Yorkshire Ripper, an allusion to the Victorian serial killer Jack the Ripper. Sutcliffe was sentenced to twenty concurrent sentences of life imprison</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-sutcliffe-20260625.mp3" type="audio/mpeg" length="1877760"/>
+      <guid isPermaLink="false">crime-peter-sutcliffe-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 19:13:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Samuel Little</title>
       <description>Samuel Little (né McDowell; June 7, 1940 – December 30, 2020) was an American serial killer who was convicted of 8 murders and confessed to committing 93 murders, across 19 states, between 1970 and 2005. The FBI's Violent Criminal Apprehension Program has confirmed his involvement in at least 60 murders, the largest number of confirmed victims for any serial killer in American history. Little prov</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/samuel-little-20260625.mp3" type="audio/mpeg" length="1478400"/>
