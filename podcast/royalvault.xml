@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tuileries Palace</title>
+      <description>The Tuileries Palace (French: palais des Tuileries, [palɛ de tɥilʁi]) was a palace in Paris which stood on the right bank of the Seine, directly in the west-front of the Louvre Palace. It was the Parisian residence of most French monarchs, from Henri IV to Napoleon III, until it was burned by the Paris Commune in 1871 and demolished in 1883.
+Construction began in 1564, originally to serve as a hom</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/tuileries-palace-20260625.mp3" type="audio/mpeg" length="1708800"/>
+      <guid isPermaLink="false">royal-tuileries-palace-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 19:10:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anne Boleyn</title>
       <description>Anne Boleyn (; c. 1501 or 1507 – 19 May 1536) was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.
 Anne was the daughter of Thomas Boleyn (later Earl of Wiltshire), and his wife, Elizabet</description>
