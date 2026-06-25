@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black Death</title>
+      <description>The Black Death was a plague pandemic that occurred in Europe from 1346 to 1353. It was one of the most fatal pandemics in human history, leading to the death of up to 50 million people, or 50% of Europe's 14th-century population.  The disease is caused by the bacterium Yersinia pestis and is spread by fleas and through the air. One of the most significant events in European history, the Black Dea</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/black-death-20260625.mp3" type="audio/mpeg" length="1783200"/>
+      <guid isPermaLink="false">medical-black-death-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 22:21:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Unit 731</title>
       <description>Unit 731 (Japanese: 731部隊, Hepburn: Nana-san-ichi Butai), officially known as the Manchu Detachment 731 and also referred to as the Kamo Detachment and the Ishii Unit, was a secret research facility operated by the Imperial Japanese Army between 1933 and 1945. It was located in the Pingfang district of Harbin, in the Japanese puppet state of Manchukuo (now part of Northeast China), and maintained </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/unit-731-20260625.mp3" type="audio/mpeg" length="1713600"/>
