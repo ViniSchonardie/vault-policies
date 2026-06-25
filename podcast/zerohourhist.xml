@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1920 Haiyuan earthquake</title>
+      <description>The 1920 Haiyuan earthquake (Chinese: 海原大地震; pinyin: Hǎiyuán dà dìzhèn) occurred in Haiyuan County, Ningxia Province, Republic of China at 19:05:53 (UTC+8) on December 16, 1920. It was also called the 1920 Gansu earthquake because Ningxia was a part of Gansu Province when the earthquake occurred. It caused destruction in the Lijunbu-Haiyuan-Ganyanchi area and was assigned the maximum intensity on </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1920-haiyuan-earthquake-20260625.mp3" type="audio/mpeg" length="2075520"/>
+      <guid isPermaLink="false">history-1920-haiyuan-earthquake-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 16:30:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2010 Canterbury earthquake</title>
       <description>The 2010 Canterbury earthquake (also known as the Darfield earthquake) struck the South Island of New Zealand with a moment magnitude of 7.1 at 4:35 am local time on 4 September, and had a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. Some damaging aftershocks followed the main event, the strongest of which was a magnitude 6.3 shock known as the Christchurch earthquak</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2010-canterbury-earthquake-20260624.mp3" type="audio/mpeg" length="1849440"/>
