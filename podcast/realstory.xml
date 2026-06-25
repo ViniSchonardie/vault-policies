@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Quincy Adams</title>
+      <description>John Quincy Adams ( ; July 11, 1767 – February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825; minister to Great Britain, Prussia, and Russia; and senator for Massachusetts. After his presidency, Adams uniquely returned to Congress as a member of the lower house, where he died </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-quincy-adams-20260625.mp3" type="audio/mpeg" length="1581120"/>
+      <guid isPermaLink="false">realstory-john-quincy-adams-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 00:02:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spartacus</title>
       <description>Spartacus (; c. 103 – 71 BC) was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic.
 Historical accounts of his life come primarily from Plutarch and Appian, who wrote more than a century after his death. Plutarch's Life of Crassus and Appian's Civil Wars provide the most detailed accounts of the slave revolt. A</description>
