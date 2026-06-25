@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Yakuza (franchise)</title>
+      <description>Yakuza, also known as Like a Dragon (Japanese: 龍が如く, Hepburn: Ryū ga Gotoku), is a video game series and media franchise created by Toshihiro Nagoshi for Sega. It incorporates elements of the action-adventure, beat 'em up, and role-playing genres.
+Each installment is typically a crime drama, with plot lines inspired by yakuza films and pre-millennial Japanese crime dramas. The most frequently feat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/yakuza-franchise-20260625.mp3" type="audio/mpeg" length="1602720"/>
+      <guid isPermaLink="false">drugempire-yakuza-franchise-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 17:13:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Los Zetas</title>
       <description>Los Zetas (pronounced [los ˈsetas], Spanish for "The Zs") is a fractured Mexican criminal syndicate and designated terrorist organization, known as one of the most dangerous of Mexico's drug cartels. They are known for engaging in brutally violent "shock and awe" tactics such as beheadings, torture, and indiscriminate murder. While primarily concerned with drug trafficking, the organization also r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/los-zetas-20260625.mp3" type="audio/mpeg" length="2051520"/>
