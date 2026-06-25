@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>United Airlines Flight 585</title>
+      <description>United Airlines Flight 585 was a scheduled passenger flight on March 3, 1991, from Denver to Colorado Springs, Colorado, carrying 20 passengers and 5 crew members. The Boeing 737 experienced a rudder hardover while on final approach to runway 35 at Colorado Springs Municipal Airport, causing the plane to roll over and enter an uncontrolled dive. All on board were killed on impact.
+The National Tra</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-585-20260625.mp3" type="audio/mpeg" length="1896480"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-585-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 22:19:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Airlines Flight 006</title>
       <description>China Airlines Flight 006 was a daily non-stop international passenger flight from Taipei to Los Angeles International Airport. On February 19, 1985, the Boeing 747SP operating the flight was involved in an aircraft upset accident, following the failure of the No. 4 engine, while cruising at 41,000 ft (12,000 m). The plane rolled over and plunged 31,500 ft (10,000 m), experiencing high speeds and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-006-20260625.mp3" type="audio/mpeg" length="1794720"/>
