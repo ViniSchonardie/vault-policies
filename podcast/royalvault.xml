@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Anne Boleyn</title>
+      <description>Anne Boleyn (; c. 1501 or 1507 – 19 May 1536) was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.
+Anne was the daughter of Thomas Boleyn (later Earl of Wiltshire), and his wife, Elizabet</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/anne-boleyn-20260625.mp3" type="audio/mpeg" length="1724160"/>
+      <guid isPermaLink="false">royal-anne-boleyn-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:26:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Catherine the Great</title>
       <description>Catherine II (born Princess Sophia Augusta Frederica of Anhalt-Zerbst; 2 May 1729 – 17 November 1796), commonly known as Catherine the Great, was the Empress of Russia from 1762 to 1796. She came to power after a coup d'etat against her husband, Peter III. Her long reign helped Russia thrive under a golden age during the Enlightenment. This renaissance led to the founding of many new cities, unive</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-the-great-20260624.mp3" type="audio/mpeg" length="1980480"/>
