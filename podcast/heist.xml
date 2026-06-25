@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pretty Boy Floyd</title>
+      <description>Charles Arthur Floyd (February 3, 1904 – October 22, 1934), nicknamed Pretty Boy Floyd, was an American bank robber whose crimes across the Midwestern and South Central United States received widespread press coverage in the 1930s. Floyd developed a positive reputation among some members of the public, in part because he reportedly destroyed mortgage documents during robberies, allegedly relieving</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/pretty-boy-floyd-20260625.mp3" type="audio/mpeg" length="1774080"/>
+      <guid isPermaLink="false">heist-pretty-boy-floyd-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:24:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Bling Ring</title>
       <description>The Bling Ring is a 2013 American crime film written and directed by Sofia Coppola featuring an ensemble cast led by Emma Watson, Katie Chang, Israel Broussard, Taissa Farmiga, Claire Julien, Georgia Rock and Leslie Mann. It is based on the 2010 Vanity Fair article "The Suspects Wore Louboutins" by Nancy Jo Sales, which dealt with a real-life gang known as the Bling Ring. The story follows a group</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/the-bling-ring-20260624.mp3" type="audio/mpeg" length="1604640"/>
