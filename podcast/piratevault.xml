@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alexander Selkirk</title>
+      <description>Alexander Selkirk (1676 – 13 December 1721) was a Scottish privateer and Royal Navy officer who spent four years and four months as a castaway (1704–1709) after being marooned by his captain, initially at his request, on an uninhabited island in the South Pacific Ocean.
+Selkirk was an unruly youth and joined buccaneering voyages to the South Pacific during the War of the Spanish Succession. One su</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/alexander-selkirk-20260625.mp3" type="audio/mpeg" length="1666560"/>
+      <guid isPermaLink="false">pirates-alexander-selkirk-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 23:23:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Hawkins Naval Commander</title>
       <description>Admiral Sir John Hawkins (also spelled Hawkyns) (1532 – 1595) was an English naval commander, naval administrator, privateer and slave trader. Hawkins pioneered, and was an early promoter of, English involvement in the Atlantic slave trade. He is considered to be the first English merchant to profit from the Triangle Trade, selling enslaved people from Africa to the Spanish colonies in the West In</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/john-hawkins-naval-commander-20260625.mp3" type="audio/mpeg" length="1780320"/>
