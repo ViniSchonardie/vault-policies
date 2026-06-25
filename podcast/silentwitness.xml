@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination Of Sadi Carnot</title>
+      <description>On 24 June 1894, French President Sadi Carnot was assassinated by Italian anarchist Sante Geronimo Caserio in Lyon, France. A part of the Ère des attentats anarchist terrorist campaign (1892–1894), it led to a historic crackdown on French anarchist activities.
+Carnot was one of the main supporters of the lois scélérates ('villainous laws'), which aimed to break up anarchist activities during the È</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-sadi-carnot-20260625.mp3" type="audio/mpeg" length="1608000"/>
+      <guid isPermaLink="false">trials-assassination-of-sadi-carnot-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 00:07:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trial Of The 66</title>
       <description>The Trial of the 66, also known as the Great Trial of the Anarchists (French: Grand procès des anarchistes), was a French political trial held in January 1883 against dozens of anarchists accused and sentenced for participating in the Black International. As a significant episode of repression against the anarchist movement, which was then in the process of formation and growth, the trial sought t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/trial-of-the-66-20260624.mp3" type="audio/mpeg" length="2019840"/>
