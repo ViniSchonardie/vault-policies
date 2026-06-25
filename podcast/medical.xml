@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Unit 731</title>
+      <description>Unit 731 (Japanese: 731部隊, Hepburn: Nana-san-ichi Butai), officially known as the Manchu Detachment 731 and also referred to as the Kamo Detachment and the Ishii Unit, was a secret research facility operated by the Imperial Japanese Army between 1933 and 1945. It was located in the Pingfang district of Harbin, in the Japanese puppet state of Manchukuo (now part of Northeast China), and maintained </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/unit-731-20260625.mp3" type="audio/mpeg" length="1713600"/>
+      <guid isPermaLink="false">medical-unit-731-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 15:49:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 pandemic</title>
       <description>The global COVID-19 pandemic (also known as the coronavirus pandemic), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019. It spread to other parts of Asia and then worldwide in early 2020. The World Health Organization (WHO) declared the outbreak a public health emergency of international concern (PHEIC) on 30 January 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/covid-19-pandemic-20260625.mp3" type="audio/mpeg" length="1519680"/>
