@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Los Zetas</title>
+      <description>Los Zetas (pronounced [los ˈsetas], Spanish for "The Zs") is a fractured Mexican criminal syndicate and designated terrorist organization, known as one of the most dangerous of Mexico's drug cartels. They are known for engaging in brutally violent "shock and awe" tactics such as beheadings, torture, and indiscriminate murder. While primarily concerned with drug trafficking, the organization also r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/los-zetas-20260625.mp3" type="audio/mpeg" length="2051520"/>
+      <guid isPermaLink="false">drugempire-los-zetas-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:24:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sicilian Mafia</title>
       <description>The Sicilian Mafia or Cosa Nostra (Italian: [ˈkɔːza ˈnɔstra, ˈkɔːsa -]; Sicilian: [ˈkɔːsa ˈnɔʂː(ɽ)a]; lit. 'Our Thing'), also simply referred to as the Mafia, is an Italian criminal society and criminal organization originating on the island of Sicily and dating back to the mid-19th century. Emerging as a form of local protection and control over land and agriculture, the Mafia gradually evolved i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/sicilian-mafia-20260624.mp3" type="audio/mpeg" length="1631520"/>
