@@ -16,5 +16,14 @@
       <itunes:email>vini.schonardie@hotmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Cretaceous–Paleogene extinction event</title>
+      <description>The Cretaceous–Paleogene (K–Pg) extinction event, formerly known as the Cretaceous-Tertiary (K–T) extinction event, was a major mass extinction of three-quarters of the plant and animal species on Earth  which occurred around 66 million years ago. The event caused the extinction of all of the non-avian dinosaurs and most other tetrapods weighing more than 25 kg (55 lb), with the exception of some </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cretaceouspaleogene-extinction-event-20260625.mp3" type="audio/mpeg" length="1840320"/>
+      <guid isPermaLink="false">prehistoric-cretaceouspaleogene-extinction-event-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:25:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
