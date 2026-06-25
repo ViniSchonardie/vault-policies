@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Mugabe</title>
+      <description>Robert Gabriel Mugabe ( muu-GAH-bee, Shona: [muɡaɓe]; 21 February 1924 – 6 September 2019) was a Zimbabwean revolutionary and politician who led Zimbabwe from 1980 until he was deposed in a coup in 2017. He served as the first Prime Minister of Zimbabwe from internationally recognised independence in 1980 to 1987, then as the second president of Zimbabwe from 1987 to 2017. He was also the Leader o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/robert-mugabe-20260625.mp3" type="audio/mpeg" length="1522560"/>
+      <guid isPermaLink="false">warvault-robert-mugabe-20260625</guid>
+      <pubDate>Thu, 25 Jun 2026 12:25:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Okinawa</title>
       <description>The Battle of Okinawa (Japanese: 沖縄戦, Hepburn: Okinawa-sen), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by the United States Army and United States Marine Corps forces against the Imperial Japanese Army. The initial invasion of Okinawa on 1 April 1945 was the largest amphibious assault in the Pacific Theater of World War II. The Kerama Island</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-okinawa-20260624.mp3" type="audio/mpeg" length="1468800"/>
