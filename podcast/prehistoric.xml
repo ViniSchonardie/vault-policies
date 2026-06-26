@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Quetzalcoatlus</title>
+      <description>Quetzalcoatlus ( ) is a genus of azhdarchid pterosaur that lived during the Maastrichtian age of the Late Cretaceous in North America. The type specimen, recovered in 1971 from the Javelina Formation of Texas, United States, consists of several wing fragments and was described as Quetzalcoatlus northropi in 1975 by Douglas Lawson. The generic name refers to the Aztec serpent god of the sky, Quetza</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/quetzalcoatlus-20260626.mp3" type="audio/mpeg" length="1733280"/>
+      <guid isPermaLink="false">prehistoric-quetzalcoatlus-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 23:14:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aurochs</title>
       <description>The aurochs (Bos primigenius;  or ; pl.: aurochs or aurochsen; also ure or urus) is an extinct species of bovine, considered to be the wild ancestor of modern domestic cattle. With a shoulder height of up to 1.8 m (5 ft 11 in) in bulls and 1.55 m (5 ft 1 in) in cows, it was one of the largest herbivores in the Holocene; it had massive elongated and broad horns that reached 80 cm (31 in) in length.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/aurochs-20260626.mp3" type="audio/mpeg" length="1425120"/>
