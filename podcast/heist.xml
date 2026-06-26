@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Outlaw</title>
+      <description>An outlaw, in its original and legal meaning, is a person declared as outside the protection of the law. In pre-modern societies, all legal protection was withdrawn from the criminal, so anyone was legally empowered to persecute or kill them. Outlawry was thus one of the harshest penalties in the legal system. In early Germanic law, the death penalty is conspicuously absent, and outlawing is the m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/outlaw-20260626.mp3" type="audio/mpeg" length="1581120"/>
+      <guid isPermaLink="false">heist-outlaw-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 21:29:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dalton Gang</title>
       <description>The Dalton Gang was a group of outlaws in the American Old West during 1890–1892. It was also known as The Dalton Brothers because three of its members were brothers. The gang specialized in bank and train robberies. During an attempted double bank robbery in Coffeyville, Kansas, in 1892, two of the brothers and two other gang members were killed; Emmett Dalton survived, was captured, and later pl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/dalton-gang-20260626.mp3" type="audio/mpeg" length="1466400"/>
