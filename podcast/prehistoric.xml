@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aurochs</title>
+      <description>The aurochs (Bos primigenius;  or ; pl.: aurochs or aurochsen; also ure or urus) is an extinct species of bovine, considered to be the wild ancestor of modern domestic cattle. With a shoulder height of up to 1.8 m (5 ft 11 in) in bulls and 1.55 m (5 ft 1 in) in cows, it was one of the largest herbivores in the Holocene; it had massive elongated and broad horns that reached 80 cm (31 in) in length.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/aurochs-20260626.mp3" type="audio/mpeg" length="1425120"/>
+      <guid isPermaLink="false">prehistoric-aurochs-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 16:16:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Permian–Triassic extinction event</title>
       <description>The Permian–Triassic extinction event, colloquially known as the Great Dying, was an extinction event that occurred around the boundary between the Permian and Triassic geologic periods, and with them the Paleozoic and Mesozoic eras. It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 62% of genera, 81% of marine species,  and 70% of terrestrial ver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/permiantriassic-extinction-event-20260626.mp3" type="audio/mpeg" length="1724640"/>
