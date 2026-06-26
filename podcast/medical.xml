@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Florence Nightingale</title>
+      <description>Florence Nightingale (; 12 May 1820 – 13 August 1910) was an English social reformer, statistician and the founder of modern nursing. Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople. She significantly reduced death rates by improving hygiene and living standards. Nightingale g</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/florence-nightingale-20260626.mp3" type="audio/mpeg" length="1926720"/>
+      <guid isPermaLink="false">medical-florence-nightingale-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 15:34:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Havana syndrome</title>
       <description>Havana syndrome, also known as anomalous health incidents (AHIs), is a disputed medical condition. Starting in 2016 in about a dozen overseas locations, U.S. and Canadian government officials and their families reported symptoms associated with a perceived localized loud sound. The symptoms lasted for months and included disabling cognitive problems, balance problems, dizziness, insomnia, and head</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/havana-syndrome-20260626.mp3" type="audio/mpeg" length="1840320"/>
