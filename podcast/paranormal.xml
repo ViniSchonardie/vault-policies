@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Yeti</title>
+      <description>The Yeti (), also commonly referred to as the Abominable Snowman in Western popular culture, is a large, hairy, mythical humanoid creature said to inhabit the Himalayan mountain range in Asia. Many dubious articles have been offered in an attempt to prove the existence of the Yeti, including anecdotal visual sightings, disputed video recordings, photographs, and plaster casts of large footprints. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/yeti-20260626.mp3" type="audio/mpeg" length="1963680"/>
+      <guid isPermaLink="false">paranormal-yeti-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 06:58:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Werewolf</title>
       <description>In folklore, a werewolf (from Old English  werwulf 'man-wolf'), or occasionally lycanthrope (from Ancient Greek λυκάνθρωπος 'wolf-human'), is an individual who can shapeshift into a wolf or therianthropic hybrid wolf–humanlike creature, either voluntarily or involuntarily due to a curse or other affliction. In modern fiction, especially film, transformations are often depicted as triggered by the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/werewolf-20260625.mp3" type="audio/mpeg" length="1625280"/>
