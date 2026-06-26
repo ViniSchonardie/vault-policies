@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Leprosy</title>
+      <description>Leprosy, also known as Hansen's disease (HD), is a long-term infection by the bacterium Mycobacterium leprae or Mycobacterium lepromatosis. Infection can lead to damage of the nerves, respiratory tract, skin, and eyes. This nerve damage may result in the loss of nociception, which can lead to the loss of parts of a person's extremities from repeated injuries or infection through unnoticed wounds. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/leprosy-20260626.mp3" type="audio/mpeg" length="1826400"/>
+      <guid isPermaLink="false">medical-leprosy-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 22:07:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Florence Nightingale</title>
       <description>Florence Nightingale (; 12 May 1820 – 13 August 1910) was an English social reformer, statistician and the founder of modern nursing. Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople. She significantly reduced death rates by improving hygiene and living standards. Nightingale g</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/florence-nightingale-20260626.mp3" type="audio/mpeg" length="1926720"/>
