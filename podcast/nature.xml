@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Komodo dragon</title>
+      <description>The Komodo dragon (Varanus komodoensis), also known as the Komodo monitor, is a large reptile of the monitor lizard family Varanidae that is endemic to the Indonesian islands of Komodo, Rinca, Flores, Gili Dasami, and Gili Motang. The largest extant population lives  within the Komodo National Park in Eastern Indonesia. It is the largest extant species of lizard, with the males growing to a maximu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/komodo-dragon-20260626.mp3" type="audio/mpeg" length="1770240"/>
+      <guid isPermaLink="false">nature-komodo-dragon-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 20:35:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wolf</title>
       <description>The wolf (Canis lupus; pl.: wolves), also known as the grey wolf or gray wolf, is a canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, including the dog and dingo, though grey wolves, as popularly understood, include only naturally occurring wild subspecies. The wolf is the largest wild extant member of the family Canidae, and is further di</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wolf-20260626.mp3" type="audio/mpeg" length="1503840"/>
