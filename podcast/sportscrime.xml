@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Nancy Kerrigan</title>
+      <description>Nancy Ann Kerrigan (born October 13, 1969) is an American former figure skater. She won bronze medals at the 1991 World Championships and the 1992 Winter Olympics, silver medals at the 1992 World Championships and the 1994 Winter Olympics, as well as the 1993 US National Figure Skating Championship.  Kerrigan was inducted into the United States Figure Skating Hall of Fame in 2004.
+On January 6, 19</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/nancy-kerrigan-20260626.mp3" type="audio/mpeg" length="1545120"/>
+      <guid isPermaLink="false">sportscrime-nancy-kerrigan-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 08:01:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Larry Nassar</title>
       <description>Lawrence Gerard Nassar (born August 16, 1963) is an American convicted serial sex offender and former family medicine osteopathic physician. He served as a team doctor for the United States women's national gymnastics team from 1996 to 2014, where he used his position to exploit and sexually assault hundreds of young athletes as part of the largest sexual abuse scandal in sports history. Nassar wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/larry-nassar-20260625.mp3" type="audio/mpeg" length="1713600"/>
