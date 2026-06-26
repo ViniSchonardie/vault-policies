@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Arundel Castle</title>
+      <description>Arundel Castle is a restored and remodelled medieval castle in Arundel, West Sussex, England. It was established by Roger de Montgomery in the 11th century. The castle was damaged in the English Civil War and then restored in the 18th and early 19th centuries by Charles Howard, 11th Duke of Norfolk. Further restoration and embellishment was undertaken from the 1890s by Charles Alban Buckler for th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/arundel-castle-20260626.mp3" type="audio/mpeg" length="1857120"/>
+      <guid isPermaLink="false">royal-arundel-castle-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 11:47:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>County Cork</title>
       <description>County Cork ( , Irish: Contae Chorcaí) is the largest and the southernmost county of Ireland, named after the city of Cork, the country's second-largest city. It is in the province of Munster and the Southern Region. Its largest market towns are Midleton, Mallow, Bandon, Macroom, and Skibbereen. In 2022, the county had a population of 584,156, making it the third-most populous county in Ireland. C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/county-cork-20260626.mp3" type="audio/mpeg" length="1822560"/>
