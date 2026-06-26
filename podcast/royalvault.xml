@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>County Cork</title>
+      <description>County Cork ( , Irish: Contae Chorcaí) is the largest and the southernmost county of Ireland, named after the city of Cork, the country's second-largest city. It is in the province of Munster and the Southern Region. Its largest market towns are Midleton, Mallow, Bandon, Macroom, and Skibbereen. In 2022, the county had a population of 584,156, making it the third-most populous county in Ireland. C</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/county-cork-20260626.mp3" type="audio/mpeg" length="1822560"/>
+      <guid isPermaLink="false">royal-county-cork-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 05:18:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tuileries Palace</title>
       <description>The Tuileries Palace (French: palais des Tuileries, [palɛ de tɥilʁi]) was a palace in Paris which stood on the right bank of the Seine, directly in the west-front of the Louvre Palace. It was the Parisian residence of most French monarchs, from Henri IV to Napoleon III, until it was burned by the Paris Commune in 1871 and demolished in 1883.
 Construction began in 1564, originally to serve as a hom</description>
