@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 7</title>
+      <description>Gemini 7 (officially Gemini VII) was a 1965 crewed spaceflight in NASA's Gemini program. It was the fourth crewed Gemini flight, the twelfth crewed American spaceflight, and the twentieth crewed spaceflight including Soviet flights and X-15 flights above the Kármán line. The crew of Frank Borman and Jim Lovell spent nearly 14 days in space, making a total of 206 orbits. Their spacecraft was the pa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-7-20260626.mp3" type="audio/mpeg" length="1614720"/>
+      <guid isPermaLink="false">space-gemini-7-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 12:13:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Viking</title>
       <description>Viking was Sweden's first satellite. It was launched on an Ariane 1 rocket as a piggyback payload together with the French satellite SPOT 1, on February 22, 1986. Operations ended on May 12, 1987. Viking was used to explore plasma processes in the magnetosphere and the ionosphere.
 
