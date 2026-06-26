@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Yorktown</title>
+      <description>The Siege of Yorktown, also known as the Battle of Yorktown and the surrender at Yorktown, took place in 1781 and was the final major land engagement of the American Revolutionary War. It was won decisively by the Continental Army, led by George Washington, with support from the Marquis de Lafayette and French Army troops, led by Comte de Rochambeau, and a French Navy force commanded by the Comte </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-yorktown-20260626.mp3" type="audio/mpeg" length="1696320"/>
+      <guid isPermaLink="false">warvault-siege-of-yorktown-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 10:57:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Antietam</title>
       <description>The Battle of Antietam ( an-TEE-təm), also called the Battle of Sharpsburg, particularly in the Southern United States, took place during the American Civil War on September 17, 1862, between Confederate General Robert E. Lee's Army of Northern Virginia and Union Major General George B. McClellan's Army of the Potomac near Sharpsburg, Maryland, and Antietam Creek. Part of the Maryland Campaign, it</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-antietam-20260626.mp3" type="audio/mpeg" length="1659360"/>
