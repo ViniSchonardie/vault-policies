@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Orca</title>
+      <description>The orca (Orcinus orca), or killer whale, is a toothed whale and the largest member of the oceanic dolphin family. The only extant species in the genus Orcinus, it is recognizable by its distinct pigmentation; being mostly black on top, white on the bottom and having recognizable white eye patches. A cosmopolitan species, it inhabits a wide range of marine environments, from Arctic to Antarctic re</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/orca-20260626.mp3" type="audio/mpeg" length="1600800"/>
+      <guid isPermaLink="false">nature-orca-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 06:57:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elephant</title>
       <description>Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). They are the only surviving members of the family Elephantidae and the order Proboscidea; extinct relatives include mammoths and mastodons. Distinctive features of elephants</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/elephant-20260625.mp3" type="audio/mpeg" length="1706880"/>
