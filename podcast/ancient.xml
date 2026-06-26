@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Severus Alexander</title>
+      <description>Marcus Aurelius Severus Alexander (1 October 208 – March 235), also known as Alexander Severus, was Roman emperor from 222 until 235. He was the last emperor from the Severan dynasty and, at the age of 13, became the youngest sole emperor of the united Roman Empire.
+Alexander became emperor at age 13, succeeding his slain cousin, Emperor Elagabalus as his heir. Alexander and Elagabalus were both g</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/severus-alexander-20260626.mp3" type="audio/mpeg" length="1740000"/>
+      <guid isPermaLink="false">ancient-severus-alexander-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 15:27:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Maximinus Thrax</title>
       <description>Gaius Julius Verus Maximinus "Thrax" (c. 173 – 238, also spelled as Maximin in some English modern texts) was a Roman emperor from 235 to 238. Of Thracian origin – given the nickname Thrax ("the Thracian") – he rose up through the military ranks, ultimately holding high command in the army of the Rhine under Emperor Severus Alexander. After Severus was murdered in 235, Maximinus was proclaimed emp</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/maximinus-thrax-20260626.mp3" type="audio/mpeg" length="1542720"/>
