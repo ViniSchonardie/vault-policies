@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Anne Bonny</title>
+      <description>Anne Bonny (likely died December 1733) was a pirate who served under John Rackham. Amongst the few recorded female pirates in the Golden Age of Piracy, she has become one of the most recognized pirates of the era, as well as the history of piracy in general.
+Much of Bonny's background is unknown. The first biography of Bonny comes from Captain Charles Johnson's 1724 book A General History of the P</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/anne-bonny-20260626.mp3" type="audio/mpeg" length="1741920"/>
+      <guid isPermaLink="false">pirates-anne-bonny-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 16:19:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Woodes Rogers</title>
       <description>Woodes Rogers (c. 1679 – 15 July 1732) was an English sea captain, privateer and colonial administrator who served as the governor of the Bahamas from 1718 to 1721 and again from 1728 to 1732. He is remembered as the captain of the vessel that rescued marooned Scottish sailor Alexander Selkirk, whose plight is generally believed to have inspired Daniel Defoe's novel Robinson Crusoe. Rogers came fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/woodes-rogers-20260626.mp3" type="audio/mpeg" length="1870560"/>
