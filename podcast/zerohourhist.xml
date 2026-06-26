@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1867 Manhattan, Kansas earthquake</title>
+      <description>An earthquake struck Riley County, Kansas, in the United States on April 24, 1867, at 20:22 UTC, or about 14:30 local time. The strongest earthquake to originate in the state, it measured 5.1 on a seismic scale that is based on an isoseismal map or the event's felt area. The earthquake's epicenter was near the town of Manhattan.
+The earthquake had a maximum perceived intensity of VII (Very strong)</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1867-manhattan-kansas-earthquake-20260626.mp3" type="audio/mpeg" length="1785600"/>
+      <guid isPermaLink="false">history-1867-manhattan-kansas-earthquake-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 08:54:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2018 Anchorage earthquake</title>
       <description>On November 30, 2018, at 8:29 a.m. AKST (17:29 UTC), a magnitude 7.1 earthquake hit Anchorage in Southcentral Alaska. The earthquake's epicenter was near Point Mackenzie, about 10 miles (16 km) north of Anchorage, and occurred at a depth of 29 miles (47 km). It was followed six minutes later by a magnitude 5.7 aftershock centered 2.5 miles (4.0 km) north-northwest of the municipality. The earthqua</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2018-anchorage-earthquake-20260625.mp3" type="audio/mpeg" length="1891680"/>
