@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rabindranath Tagore</title>
+      <description>Rabindranath Tagore  (Bengali: [ɾobind̪ɾonat̪ʰ ʈʰakuɾ] ; 7 May 1861 – 7 August 1941), was a Bengali poet, author, playwright, musician, composer, philosopher, social reformer, painter, and one of the foremost figures of the Bengal Renaissance. In 1913, Tagore became the first Asian to win a Nobel Prize in any category, and also the first lyricist and non-European to win the Nobel Prize in Literatu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/rabindranath-tagore-20260626.mp3" type="audio/mpeg" length="1624320"/>
+      <guid isPermaLink="false">realstory-rabindranath-tagore-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 00:09:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blackbeard</title>
       <description>Edward Teach (or Thatch; c. 1680 – 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateering ships during Queen Anne's War before he settled on the Bahamian island of New Providence, a base for Captain Benjami</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/blackbeard-20260625.mp3" type="audio/mpeg" length="1636320"/>
