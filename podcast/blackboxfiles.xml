@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>American Eagle Flight 4184</title>
+      <description>American Eagle Flight 4184, officially operating as Simmons Airlines Flight 4184, was a scheduled domestic passenger flight from Indianapolis, Indiana, to Chicago, Illinois, United States. On October 31, 1994, the ATR 72 performing this route flew into severe icing conditions, lost control and crashed into a field, killing all 68 people on board in the high-speed impact.
+
+
+== Background ==
+
+
+=== A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-eagle-flight-4184-20260626.mp3" type="audio/mpeg" length="1676160"/>
+      <guid isPermaLink="false">aviation-american-eagle-flight-4184-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 08:39:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>United Airlines Flight 585</title>
       <description>United Airlines Flight 585 was a scheduled passenger flight on March 3, 1991, from Denver to Colorado Springs, Colorado, carrying 20 passengers and 5 crew members. The Boeing 737 experienced a rudder hardover while on final approach to runway 35 at Colorado Springs Municipal Airport, causing the plane to roll over and enter an uncontrolled dive. All on board were killed on impact.
 The National Tra</description>
