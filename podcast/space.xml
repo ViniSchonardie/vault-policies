@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 4</title>
+      <description>Gemini 4 (officially Gemini IV) was the second crewed spaceflight in NASA's Project Gemini, occurring in June 1965. It was the tenth crewed American spaceflight (including two X-15 flights at altitudes exceeding 100 kilometers (62 mi; 54 nmi)). Astronauts James McDivitt and Ed White orbited the Earth 66 times in four days, making it the first US flight to approach the five-day flight of the Soviet</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-4-20260626.mp3" type="audio/mpeg" length="1901760"/>
+      <guid isPermaLink="false">space-gemini-4-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 23:13:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Axiom Mission 4</title>
       <description>Axiom Mission 4 (Ax‑4) was a private crewed spaceflight to the International Space Station (ISS) operated by Axiom Space in partnership with SpaceX and NASA. The mission launched atop a SpaceX Falcon 9 Block 5 rocket, which placed the Crew Dragon Grace spacecraft into low Earth orbit. Ax-4 was the first mission to fly aboard the Crew Dragon capsule 'Grace' (C213), which is the fifth and final Drag</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/axiom-mission-4-20260626.mp3" type="audio/mpeg" length="1823040"/>
