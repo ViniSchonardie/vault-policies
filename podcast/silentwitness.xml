@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jedwabne Pogrom</title>
+      <description>The Jedwabne pogrom was a massacre of Polish Jews in the town of Jedwabne, German-occupied Poland, on 10 July 1941, during World War II and the early stages of the Holocaust. Estimates of the number of victims vary from 300 to 1,600, including women, children, and elderly, many of whom were locked in a barn and burned alive.
+At least 40 ethnic Poles carried out the killing; their ringleaders decid</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/jedwabne-pogrom-20260626.mp3" type="audio/mpeg" length="1841280"/>
+      <guid isPermaLink="false">trials-jedwabne-pogrom-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 00:11:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arthur Seyss Inquart</title>
       <description>Arthur Seyss-Inquart (German: Seyß-Inquart; Austrian German pronunciation: [ˈartuːɐ̯ saɪs ˈɪŋkvart]; 22 July 1892 – 16 October 1946) was an Austrian Nazi politician and convicted war criminal who served as Chancellor of Austria in 1938 for two days before the Anschluss. His positions in Nazi Germany included deputy governor to Hans Frank in the General Government of Occupied Poland, and Reichskomm</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/arthur-seyss-inquart-20260625.mp3" type="audio/mpeg" length="2087040"/>
