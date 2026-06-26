@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cary Stayner</title>
+      <description>Cary Anthony Stayner is an American serial killer and the older brother of kidnapping victim Steven Stayner. He worked as a mechanic in Mariposa County, California, and murdered four women between February and July 1999, dumping their bodies near Yosemite National Park, leading to him being dubbed the Yosemite Park Killer or simply the Yosemite Killer. Stayner was found guilty and received a death</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/cary-stayner-20260626.mp3" type="audio/mpeg" length="1665600"/>
+      <guid isPermaLink="false">crime-cary-stayner-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 19:00:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Delphine LaLaurie</title>
       <description>Marie Delphine Macarty or MacCarthy, more commonly known as Madame Blanque or, after her third marriage, as Madame LaLaurie, was a New Orleans socialite and serial killer who tortured and murdered enslaved people in her household.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/delphine-lalaurie-20260626.mp3" type="audio/mpeg" length="1475040"/>
