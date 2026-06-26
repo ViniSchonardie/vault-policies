@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Havana syndrome</title>
+      <description>Havana syndrome, also known as anomalous health incidents (AHIs), is a disputed medical condition. Starting in 2016 in about a dozen overseas locations, U.S. and Canadian government officials and their families reported symptoms associated with a perceived localized loud sound. The symptoms lasted for months and included disabling cognitive problems, balance problems, dizziness, insomnia, and head</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/havana-syndrome-20260626.mp3" type="audio/mpeg" length="1840320"/>
+      <guid isPermaLink="false">medical-havana-syndrome-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 08:32:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Death</title>
       <description>The Black Death was a plague pandemic that occurred in Europe from 1346 to 1353. It was one of the most fatal pandemics in human history, leading to the death of up to 50 million people, or 50% of Europe's 14th-century population.  The disease is caused by the bacterium Yersinia pestis and is spread by fleas and through the air. One of the most significant events in European history, the Black Dea</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/black-death-20260625.mp3" type="audio/mpeg" length="1783200"/>
