@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Woodes Rogers</title>
+      <description>Woodes Rogers (c. 1679 – 15 July 1732) was an English sea captain, privateer and colonial administrator who served as the governor of the Bahamas from 1718 to 1721 and again from 1728 to 1732. He is remembered as the captain of the vessel that rescued marooned Scottish sailor Alexander Selkirk, whose plight is generally believed to have inspired Daniel Defoe's novel Robinson Crusoe. Rogers came fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/woodes-rogers-20260626.mp3" type="audio/mpeg" length="1870560"/>
+      <guid isPermaLink="false">pirates-woodes-rogers-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 09:04:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander Selkirk</title>
       <description>Alexander Selkirk (1676 – 13 December 1721) was a Scottish privateer and Royal Navy officer who spent four years and four months as a castaway (1704–1709) after being marooned by his captain, initially at his request, on an uninhabited island in the South Pacific Ocean.
 Selkirk was an unruly youth and joined buccaneering voyages to the South Pacific during the War of the Spanish Succession. One su</description>
