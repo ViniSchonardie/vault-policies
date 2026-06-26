@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air France Flight 358</title>
+      <description>Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada. On the afternoon of 2 August 2005, while landing at Pearson airport, the Airbus A340-313E operating the route overran the runway and crashed into nearby Etobicoke Creek, approximately 300 m (1,000 ft) beyond the end of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-358-20260626.mp3" type="audio/mpeg" length="1953600"/>
+      <guid isPermaLink="false">aviation-air-france-flight-358-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 15:32:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Eagle Flight 4184</title>
       <description>American Eagle Flight 4184, officially operating as Simmons Airlines Flight 4184, was a scheduled domestic passenger flight from Indianapolis, Indiana, to Chicago, Illinois, United States. On October 31, 1994, the ATR 72 performing this route flew into severe icing conditions, lost control and crashed into a field, killing all 68 people on board in the high-speed impact.
 
