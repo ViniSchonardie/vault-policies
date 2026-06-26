@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mary Celeste</title>
+      <description>Mary Celeste (, often erroneously referred to as Marie Celeste,) was a Canadian-built, American-registered, merchant brigantine that was discovered adrift and deserted in the Atlantic Ocean off the Azores on December 4, 1872. 
+The Canadian brigantine Dei Gratia found her in a dishevelled but seaworthy condition under partial sail and with her lifeboat missing. The last entry in her log was dated 1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/mary-celeste-20260626.mp3" type="audio/mpeg" length="1908960"/>
+      <guid isPermaLink="false">paranormal-mary-celeste-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 20:55:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1561 celestial phenomenon over Nuremberg</title>
       <description>In April 1561, a broadsheet by Hans Glaser described a mass sighting of celestial phenomena or unidentified flying objects (UFO) above Nuremberg (then a Free Imperial City of the Holy Roman Empire). Ufologists have speculated that these phenomena may have been extraterrestrial spacecraft. Skeptics assert that the phenomenon was likely to have been another atmospheric phenomenon, such as a sun dog,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/1561-celestial-phenomenon-over-nuremberg-20260626.mp3" type="audio/mpeg" length="1392480"/>
