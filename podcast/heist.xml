@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Dillinger Escape Plan</title>
+      <description>The Dillinger Escape Plan is an American metalcore band. The band was formed in 1997 in Morris Plains, New Jersey by guitarist Ben Weinman, bassist Adam Doll, vocalist Dimitri Minakakis, and drummer Chris Pennie. The band's use of dissonance, odd time signatures, polyrhythms and unconventional drum patterns became a staple of their sound, although later albums incorporated more melody, and influen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/the-dillinger-escape-plan-20260626.mp3" type="audio/mpeg" length="1994880"/>
+      <guid isPermaLink="false">heist-the-dillinger-escape-plan-20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 08:04:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dick Turpin</title>
       <description>Richard Turpin (bapt. 21 September 1705 – 7 April 1739) was an English highwayman whose exploits were romanticised following his execution in York for horse theft. Turpin may have followed his father's trade as a butcher early in his life but, by the early 1730s, he had joined a gang of deer thieves and, later, became a poacher, burglar, horse thief, and killer.  He is also known for a fictional 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/dick-turpin-20260625.mp3" type="audio/mpeg" length="1430400"/>
