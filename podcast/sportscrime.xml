@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tennessee Titans</title>
+      <description>The Tennessee Titans are a professional American football team based in Nashville, Tennessee. They compete in the National Football League (NFL) as a member of the American Football Conference (AFC) South division. The Titans play their home games at Nissan Stadium; the team will move to a new domed stadium with the same name, which will be completed in 2027.
+Originally known as the Houston Oilers</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/tennessee-titans-20260627.mp3" type="audio/mpeg" length="1757280"/>
+      <guid isPermaLink="false">sportscrime-tennessee-titans-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 23:14:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John McEnroe</title>
       <description>John Patrick McEnroe Jr. (born February 16, 1959) is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 170 weeks, and as world No. 1 in men's doubles for 269 weeks (third-most of all time). He is one of two male players (alongside Stefan Edberg) to have held both No. 1 rankings, and the only one to </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/john-mcenroe-20260627.mp3" type="audio/mpeg" length="1606080"/>
