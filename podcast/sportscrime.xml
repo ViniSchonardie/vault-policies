@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>John McEnroe</title>
+      <description>John Patrick McEnroe Jr. (born February 16, 1959) is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 170 weeks, and as world No. 1 in men's doubles for 269 weeks (third-most of all time). He is one of two male players (alongside Stefan Edberg) to have held both No. 1 rankings, and the only one to </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/john-mcenroe-20260627.mp3" type="audio/mpeg" length="1606080"/>
+      <guid isPermaLink="false">sportscrime-john-mcenroe-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 17:21:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Steve Smith (cricketer)</title>
       <description>Steven Peter Devereux Smith (born 2 June 1989) is an Australian international cricketer, former captain of the Australian national team in all three formats of the game and since 2021, the vice-captain of the Australian Test team. He is regarded as the best Test batsman of his generation, scoring over 10,000 Test runs, having reached an ICC Test batting rating of 947, the second-highest figure of </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/steve-smith-cricketer-20260627.mp3" type="audio/mpeg" length="1629120"/>
