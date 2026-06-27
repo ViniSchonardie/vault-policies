@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1922 Vallenar earthquake</title>
+      <description>The 1922 Vallenar earthquake occurred with a moment magnitude of 8.3-8.6 and a tsunami magnitude of 8.7 in the Atacama Region of Chile, near the border with Argentina on 11 November at 04:32 UTC. It triggered a destructive tsunami that caused significant damage to the coast of Chile and was observed as far away as Australia.
+
+
+== Tectonic setting ==
+The earthquake took place along the boundary bet</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1922-vallenar-earthquake-20260627.mp3" type="audio/mpeg" length="1702080"/>
+      <guid isPermaLink="false">history-1922-vallenar-earthquake-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 23:14:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1957 Andreanof Islands earthquake</title>
       <description>The 1957 Andreanof Islands earthquake occurred at 04:22 local time on March 9 with a moment magnitude estimated at 8.6 and a maximum Modified Mercalli intensity of VIII (Severe). It occurred south of the Andreanof Islands group, which is part of the Aleutian Islands arc. The event occurred along the Aleutian Trench, the convergent plate boundary that separates the Pacific plate and the North Ameri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1957-andreanof-islands-earthquake-20260627.mp3" type="audio/mpeg" length="1913280"/>
