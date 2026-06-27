@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 9A</title>
+      <description>Gemini 9A (officially Gemini IX-A) was a 1966 crewed spaceflight in NASA's Gemini program. It was the seventh crewed Gemini flight, the 15th crewed American flight and the 23rd spaceflight of all time (includes X-15 flights over 100 kilometers (62 mi; 54 nmi)). The original crew for Gemini 9, command pilot Elliot See and pilot Charles Bassett, were killed in a crash on February 28, 1966, while fly</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-9a-20260627.mp3" type="audio/mpeg" length="1664160"/>
+      <guid isPermaLink="false">space-gemini-9a-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 17:05:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Inspiration4</title>
       <description>Inspiration4 (stylized as Inspirati④n) was a 2021 human spaceflight operated by SpaceX on behalf of Shift4 Payments CEO Jared Isaacman. The mission launched the Crew Dragon Resilience on September 16, 2021, at 00:02:56 UTC from Kennedy Space Center's Launch Complex 39A atop a Falcon 9 launch vehicle. It placed the Dragon capsule into a low Earth orbit. The mission ended on September 18, 2021, at 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/inspiration4-20260627.mp3" type="audio/mpeg" length="1704000"/>
