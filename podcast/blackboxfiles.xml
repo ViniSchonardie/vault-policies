@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Turkish Airlines Flight 1951</title>
+      <description>Turkish Airlines Flight 1951 (also known as the Poldercrash or the Schiphol Polderbaan incident) was a passenger flight that crashed during landing at Amsterdam Schiphol Airport, the Netherlands, on 25 February 2009, resulting in the deaths of nine passengers and crew,  including all three pilots.
+The aircraft, a Turkish Airlines Boeing 737-800, crashed into a field about 1.5 km (0.9 mi) north of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-1951-20260627.mp3" type="audio/mpeg" length="1941600"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-1951-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 07:58:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nigeria Airways Flight 2120</title>
       <description>Nigeria Airways Flight 2120 was a chartered passenger flight from Jeddah, Saudi Arabia, to Sokoto, Nigeria, on 11 July 1991, which caught fire shortly after takeoff from King Abdulaziz International Airport and crashed while attempting to return for an emergency landing, killing all 247 passengers and 14 crew members on board. The investigation traced the fire to underinflated tires which overheat</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/nigeria-airways-flight-2120-20260626.mp3" type="audio/mpeg" length="1550400"/>
