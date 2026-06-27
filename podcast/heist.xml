@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>James–Younger Gang</title>
+      <description>The James–Younger Gang was a notable 19th-century gang of American outlaws that revolved around Jesse James and his brother Frank James. The gang was based in the state of Missouri, the home of most of the members.
+Membership fluctuated from robbery to robbery, as the outlaws' raids were usually separated by many months. As well as the notorious James brothers, at various times it included the You</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/jamesyounger-gang-20260627.mp3" type="audio/mpeg" length="2411040"/>
+      <guid isPermaLink="false">heist-jamesyounger-gang-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 13:09:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Isabella Stewart Gardner Museum</title>
       <description>The Isabella Stewart Gardner Museum is an art museum in Boston, Massachusetts, which houses significant examples of European, Asian, and American art. Its collection includes paintings, sculpture, tapestries, and decorative arts. It was founded by Isabella Stewart Gardner, whose will called for her art collection to be permanently exhibited "for the education and enjoyment of the public forever."
 </description>
