@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Enron Play</title>
+      <description>Enron (stylised as ENRON) is a 2009 play by the British playwright Lucy Prebble, based on the Enron scandal.
+
+
+== Productions ==
+
+Enron premiered at the Chichester Festival Theatre (11 July – 29 August 2009), before London transfers to the Jerwood Downstairs at the Royal Court Theatre from 17 September to 7 November 2009 and then the Noël Coward Theatre from 16 January to 14 August 2010 (after a c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/enron-play-20260627.mp3" type="audio/mpeg" length="1555680"/>
+      <guid isPermaLink="false">congame-enron-play-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 09:59:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Coin Rolling Scams</title>
       <description>Coin-rolling related scams are a collection of scams involving coin wrappers (rolls of coins). The scammer will roll coins of lesser value or slugs of no value, or less than the correct number of coins in a roll, then exchange them at a bank or retail outlet for cash.
 To prevent these problems, many banks will require people turning in coins to have an account, and will debit the customer's accoun</description>
