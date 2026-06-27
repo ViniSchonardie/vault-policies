@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Mint</title>
+      <description>The Royal Mint is the United Kingdom's official maker of British coins. It is currently located in Llantrisant, Wales, where it moved in 1968.
+Operating under the legal name The Royal Mint Limited, it is a limited company that is wholly owned by His Majesty's Treasury and is under an exclusive contract to supply the nation's coinage. As well as minting circulating coins for the UK and internationa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-mint-20260627.mp3" type="audio/mpeg" length="1932000"/>
+      <guid isPermaLink="false">royal-royal-mint-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 18:02:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Richmond Palace</title>
       <description>Richmond Palace was a Tudor royal residence on the River Thames in England which stood in the sixteenth and seventeenth centuries. Situated in what was then rural Surrey, it lay upstream and on the opposite bank from the Palace of Westminster, which was located nine miles (14 km) to the north-east. It was erected in about 1501 by Henry VII of England, formerly known as the Earl of Richmond, in hon</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/richmond-palace-20260627.mp3" type="audio/mpeg" length="1872480"/>
