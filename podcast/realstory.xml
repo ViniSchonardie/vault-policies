@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Frank Lloyd Wright</title>
+      <description>Frank Lloyd Wright Sr. (June 8, 1867 – April 9, 1959) was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship. Wright believ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/frank-lloyd-wright-20260627.mp3" type="audio/mpeg" length="1677120"/>
+      <guid isPermaLink="false">realstory-frank-lloyd-wright-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 07:52:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jesse James</title>
       <description>Jesse Woodson James (September 5, 1847 – April 3, 1882) was an American outlaw, bank and train robber, guerrilla and leader of the James–Younger Gang. Raised a Southern sympathizer in the "Little Dixie" area of Missouri, James and his brother Frank joined pro-Confederate guerrillas known as "bushwhackers" operating in Missouri and Kansas during the American Civil War. As followers of William Quant</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/jesse-james-20260627.mp3" type="audio/mpeg" length="1904640"/>
