@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1963 Camden PA-24 crash</title>
+      <description>On March 5, 1963, the American country music performers Patsy Cline (born Virginia Patterson Hensley), Harold Franklin "Hawkshaw" Hawkins, Lloyd Estel "Cowboy" Copas, and pilot Ramsey Dorris "Randy" Hughes were killed in an airplane crash near Camden, Tennessee, United States. Mr. Hughes was also Cline's manager and Copas' son-in-law. The accident occurred as the four occupants were returning home</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1963-camden-pa-24-crash-20260627.mp3" type="audio/mpeg" length="1715040"/>
+      <guid isPermaLink="false">aviation-1963-camden-pa-24-crash-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 21:58:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UPS Airlines Flight 1354</title>
       <description>UPS Airlines Flight 1354 was a scheduled cargo flight from Louisville, Kentucky, to Birmingham, Alabama. On August 14, 2013, the Airbus A300 flying the route crashed and burst into flames short of the runway on approach to Birmingham–Shuttlesworth International Airport. Both pilots were pronounced dead at the scene of the crash. They were the only people aboard the aircraft. It was the second fata</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-1354-20260627.mp3" type="audio/mpeg" length="1824480"/>
