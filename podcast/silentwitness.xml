@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination Of Talaat Pasha</title>
+      <description>On 15 March 1921, Armenian student Soghomon Tehlirian killed Talaat Pasha—former grand vizier of the Ottoman Empire and the main architect of the Armenian genocide—in Berlin. At his trial, Tehlirian argued, "I have killed a man, but I am not a murderer"; the jury acquitted him.
+Tehlirian came from Erzindjan in the Ottoman Empire but moved to Serbia before the war. He served in the Armenian volunte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-talaat-pasha-20260627.mp3" type="audio/mpeg" length="1829280"/>
+      <guid isPermaLink="false">trials-assassination-of-talaat-pasha-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 00:04:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>War Crimes Of The Wehrmacht</title>
       <description>During World War II, the German Wehrmacht (combined armed forces – Heer, Kriegsmarine, and Luftwaffe) committed systematic war crimes, including massacres, mass rape, looting, the exploitation of forced labour, the murder of three million Soviet prisoners of war, and participated in the extermination of Jews. While the Nazi Party's own SS forces (in particular the SS-Totenkopfverbände, Einsatzgrup</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/war-crimes-of-the-wehrmacht-20260626.mp3" type="audio/mpeg" length="1994880"/>
