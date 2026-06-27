@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1957 Andreanof Islands earthquake</title>
+      <description>The 1957 Andreanof Islands earthquake occurred at 04:22 local time on March 9 with a moment magnitude estimated at 8.6 and a maximum Modified Mercalli intensity of VIII (Severe). It occurred south of the Andreanof Islands group, which is part of the Aleutian Islands arc. The event occurred along the Aleutian Trench, the convergent plate boundary that separates the Pacific plate and the North Ameri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1957-andreanof-islands-earthquake-20260627.mp3" type="audio/mpeg" length="1913280"/>
+      <guid isPermaLink="false">history-1957-andreanof-islands-earthquake-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 15:21:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2014 South Napa earthquake</title>
       <description>The 2014 South Napa earthquake occurred in the northern San Francisco Bay Area on August 24 at 03:20:44 Pacific Daylight Time. At 6.0 on the moment magnitude scale and with a maximum Mercalli intensity of VIII (Severe), the event was the largest in the San Francisco Bay Area since the 1989 Loma Prieta earthquake. The epicenter of the earthquake was located to the south of Napa and to the northwest</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2014-south-napa-earthquake-20260627.mp3" type="audio/mpeg" length="1463520"/>
