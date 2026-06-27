@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2014 South Napa earthquake</title>
+      <description>The 2014 South Napa earthquake occurred in the northern San Francisco Bay Area on August 24 at 03:20:44 Pacific Daylight Time. At 6.0 on the moment magnitude scale and with a maximum Mercalli intensity of VIII (Severe), the event was the largest in the San Francisco Bay Area since the 1989 Loma Prieta earthquake. The epicenter of the earthquake was located to the south of Napa and to the northwest</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2014-south-napa-earthquake-20260627.mp3" type="audio/mpeg" length="1463520"/>
+      <guid isPermaLink="false">history-2014-south-napa-earthquake-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 08:32:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ajka alumina plant accident</title>
       <description>The Ajka alumina plant accident in October 2010 was a caustic waste reservoir chain collapse at the Ajkai Timföldgyár alumina plant in Ajka, Veszprém County, in western Hungary.
 On 4 October 2010, at 12:25 CEST (10:25 UTC), the northwestern corner of the dam of reservoir number 10 collapsed, releasing approximately one million cubic metres (35 million cubic feet) of liquid waste from red mud lakes</description>
