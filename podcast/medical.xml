@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lyme disease</title>
+      <description>Lyme disease, also known as Lyme borreliosis, is a tick-borne disease caused by species of Borrelia bacteria, transmitted by blood-feeding ticks in the genus Ixodes. It is the most common disease spread by ticks in the Northern Hemisphere. Infections are most common in the spring and early summer. Infection is treatable with antibiotics. Most treated patients experience a full recovery. For some p</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/lyme-disease-20260627.mp3" type="audio/mpeg" length="1773600"/>
+      <guid isPermaLink="false">medical-lyme-disease-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 21:57:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henrietta Lacks</title>
       <description>Henrietta Lacks (née Loretta Pleasant; August 1, 1920 – October 4, 1951) was an African-American woman whose cancer cells are the source of the HeLa cell line, the first immortalized human cell line and one of the most important cell lines in medical research. An immortalized cell line reproduces indefinitely under specific conditions, and the HeLa cell line continues to be a source of invaluable </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/henrietta-lacks-20260627.mp3" type="audio/mpeg" length="1564800"/>
