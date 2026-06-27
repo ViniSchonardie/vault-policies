@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Trojan War</title>
+      <description>The Trojan War was a legendary conflict in Greek mythology that took place around the  thirteenth century  or early  twelfth century BC. The war was waged by the Achaeans (Greeks) against the city of Troy after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology, and it has been narrated through many works of Greek lite</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/trojan-war-20260627.mp3" type="audio/mpeg" length="1554720"/>
+      <guid isPermaLink="false">mythology-trojan-war-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 19:21:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Odysseus</title>
       <description>In Greek and Roman mythology, Odysseus ( ; Ancient Greek: Ὀδυσσεύς, Ὀδυσεύς, romanized: Odysseús, Odyseús, IPA: [o.dy(s).sěu̯s]), also known by the Latin variant Ulysses (, UK also ; Latin: Ulysses, Ulixes), is a legendary Greek king of Ithaca and the hero of Homer's epic poem, the Odyssey. Odysseus also plays a key role in Homer's Iliad and other works in that same epic cycle.
 As the son of Laërt</description>
