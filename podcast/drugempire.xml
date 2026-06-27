@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Saint Valentine's Day Massacre</title>
+      <description>The Saint Valentine's Day Massacre was the murder of seven members and associates of Chicago's North Side Gang on Saint Valentine's Day 1929. The men were gathered at a Lincoln Park, Chicago, garage when between four and six men entered, two of whom were disguised as police officers. The seven men were lined up facing a wall and shot with Thompson submachine guns and a sawed-off shotgun; seventy r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/saint-valentines-day-massacre-20260627.mp3" type="audio/mpeg" length="1586880"/>
+      <guid isPermaLink="false">drugempire-saint-valentines-day-massacre-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 22:01:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Capital punishment in the United States</title>
       <description>In the United States, capital punishment (also known as the death penalty) is a legal penalty in 27 states (of which two, Oregon and Wyoming, have no inmates sentenced to death), throughout the country at the federal level, and in American Samoa. It is also a legal penalty for some military offenses. Capital punishment has been abolished in the other 23 states and in the federal capital, Washingto</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/capital-punishment-in-the-united-states-20260627.mp3" type="audio/mpeg" length="1833120"/>
