@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Inspiration4</title>
+      <description>Inspiration4 (stylized as Inspirati④n) was a 2021 human spaceflight operated by SpaceX on behalf of Shift4 Payments CEO Jared Isaacman. The mission launched the Crew Dragon Resilience on September 16, 2021, at 00:02:56 UTC from Kennedy Space Center's Launch Complex 39A atop a Falcon 9 launch vehicle. It placed the Dragon capsule into a low Earth orbit. The mission ended on September 18, 2021, at 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/inspiration4-20260627.mp3" type="audio/mpeg" length="1704000"/>
+      <guid isPermaLink="false">space-inspiration4-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 11:26:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 4</title>
       <description>Gemini 4 (officially Gemini IV) was the second crewed spaceflight in NASA's Project Gemini, occurring in June 1965. It was the tenth crewed American spaceflight (including two X-15 flights at altitudes exceeding 100 kilometers (62 mi; 54 nmi)). Astronauts James McDivitt and Ed White orbited the Earth 66 times in four days, making it the first US flight to approach the five-day flight of the Soviet</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-4-20260626.mp3" type="audio/mpeg" length="1901760"/>
