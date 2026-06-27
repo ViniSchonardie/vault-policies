@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Richmond Palace</title>
+      <description>Richmond Palace was a Tudor royal residence on the River Thames in England which stood in the sixteenth and seventeenth centuries. Situated in what was then rural Surrey, it lay upstream and on the opposite bank from the Palace of Westminster, which was located nine miles (14 km) to the north-east. It was erected in about 1501 by Henry VII of England, formerly known as the Earl of Richmond, in hon</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/richmond-palace-20260627.mp3" type="audio/mpeg" length="1872480"/>
+      <guid isPermaLink="false">royal-richmond-palace-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 11:00:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Caernarfon Castle</title>
       <description>Caernarfon Castle (Welsh: Castell Caernarfon; Welsh pronunciation: [kastɛɬ kaɨrˈnarvɔn]) is a medieval fortress in Gwynedd, north-west Wales. The first fortification on the site was a motte-and-bailey castle built in the late 11th century, which King Edward I of England began to replace it with the current stone structure in 1283. The castle and town established by Edward acted as the administrati</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/caernarfon-castle-20260627.mp3" type="audio/mpeg" length="1673760"/>
