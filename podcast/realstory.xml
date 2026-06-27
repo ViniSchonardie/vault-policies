@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination of Abraham Lincoln</title>
+      <description>On April 14, 1865, Abraham Lincoln, the 16th president of the United States, was shot at Ford's Theatre in Washington, D.C., one month into his second term and towards the conclusion of the American Civil War. Lincoln was watching the play Our American Cousin with his wife Mary Todd, Major Henry Rathbone, and Rathbone's fiancé Clara Harris when John Wilkes Booth, an actor and Confederate sympathiz</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-abraham-lincoln-20260627.mp3" type="audio/mpeg" length="1765440"/>
+      <guid isPermaLink="false">realstory-assassination-of-abraham-lincoln-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 09:30:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Frank Lloyd Wright</title>
       <description>Frank Lloyd Wright Sr. (June 8, 1867 – April 9, 1959) was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship. Wright believ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/frank-lloyd-wright-20260627.mp3" type="audio/mpeg" length="1677120"/>
