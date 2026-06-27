@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Airlines Flight 1354</title>
+      <description>UPS Airlines Flight 1354 was a scheduled cargo flight from Louisville, Kentucky, to Birmingham, Alabama. On August 14, 2013, the Airbus A300 flying the route crashed and burst into flames short of the runway on approach to Birmingham–Shuttlesworth International Airport. Both pilots were pronounced dead at the scene of the crash. They were the only people aboard the aircraft. It was the second fata</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-1354-20260627.mp3" type="audio/mpeg" length="1824480"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-1354-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 14:54:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Turkish Airlines Flight 1951</title>
       <description>Turkish Airlines Flight 1951 (also known as the Poldercrash or the Schiphol Polderbaan incident) was a passenger flight that crashed during landing at Amsterdam Schiphol Airport, the Netherlands, on 25 February 2009, resulting in the deaths of nine passengers and crew,  including all three pilots.
 The aircraft, a Turkish Airlines Boeing 737-800, crashed into a field about 1.5 km (0.9 mi) north of </description>
