@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lobotomy</title>
+      <description>A lobotomy (from Greek  λοβός (lobos) 'lobe' and  τομή (tomē) 'cut, slice') or leucotomy is a discredited form of neurosurgical treatment for psychiatric disorder or neurological disorder (e.g. epilepsy, depression) that involves severing connections in the brain's prefrontal cortex. The surgery severs most of the connections to and from the prefrontal cortex, and the anterior part of the frontal </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/lobotomy-20260627.mp3" type="audio/mpeg" length="1538400"/>
+      <guid isPermaLink="false">medical-lobotomy-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 07:48:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leprosy</title>
       <description>Leprosy, also known as Hansen's disease (HD), is a long-term infection by the bacterium Mycobacterium leprae or Mycobacterium lepromatosis. Infection can lead to damage of the nerves, respiratory tract, skin, and eyes. This nerve damage may result in the loss of nociception, which can lead to the loss of parts of a person's extremities from repeated injuries or infection through unnoticed wounds. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/leprosy-20260626.mp3" type="audio/mpeg" length="1826400"/>
