@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination of Archduke Franz Ferdinand</title>
+      <description>The assassination of Archduke Franz Ferdinand, also called the Attack in Sarajevo or Sarajevo incident occurred on 28 June 1914 and was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated by Bosnian Serb student Gavrilo Princip. They were shot at close rang</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-archduke-franz-ferdinand-20260627.mp3" type="audio/mpeg" length="1697280"/>
+      <guid isPermaLink="false">realstory-assassination-of-archduke-franz-ferdinand-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 23:59:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Abraham Lincoln</title>
       <description>On April 14, 1865, Abraham Lincoln, the 16th president of the United States, was shot at Ford's Theatre in Washington, D.C., one month into his second term and towards the conclusion of the American Civil War. Lincoln was watching the play Our American Cousin with his wife Mary Todd, Major Henry Rathbone, and Rathbone's fiancé Clara Harris when John Wilkes Booth, an actor and Confederate sympathiz</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-abraham-lincoln-20260627.mp3" type="audio/mpeg" length="1765440"/>
