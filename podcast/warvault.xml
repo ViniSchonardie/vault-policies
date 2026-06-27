@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Marathon</title>
+      <description>The Battle of Marathon took place in 490 BC during the first Persian invasion of Greece. It was fought between the citizens of Athens, aided by Plataea, and a Persian force commanded by Datis and Artaphernes. The battle was the culmination of the first attempt by Persia under King Darius I to subjugate Greece. The Greek army inflicted a crushing defeat on the more numerous Persians, marking a turn</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-marathon-20260627.mp3" type="audio/mpeg" length="1822560"/>
+      <guid isPermaLink="false">warvault-battle-of-marathon-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 03:52:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Yorktown</title>
       <description>The Siege of Yorktown, also known as the Battle of Yorktown and the surrender at Yorktown, took place in 1781 and was the final major land engagement of the American Revolutionary War. It was won decisively by the Continental Army, led by George Washington, with support from the Marquis de Lafayette and French Army troops, led by Comte de Rochambeau, and a French Navy force commanded by the Comte </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-yorktown-20260626.mp3" type="audio/mpeg" length="1696320"/>
