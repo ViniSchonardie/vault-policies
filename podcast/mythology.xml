@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Odysseus</title>
+      <description>In Greek and Roman mythology, Odysseus ( ; Ancient Greek: Ὀδυσσεύς, Ὀδυσεύς, romanized: Odysseús, Odyseús, IPA: [o.dy(s).sěu̯s]), also known by the Latin variant Ulysses (, UK also ; Latin: Ulysses, Ulixes), is a legendary Greek king of Ithaca and the hero of Homer's epic poem, the Odyssey. Odysseus also plays a key role in Homer's Iliad and other works in that same epic cycle.
+As the son of Laërt</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/odysseus-20260627.mp3" type="audio/mpeg" length="1646400"/>
+      <guid isPermaLink="false">mythology-odysseus-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 11:35:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iliad</title>
       <description>The Iliad ( ; Ancient Greek: Ἰλιάς, romanized: Iliás, [iːli'as]; lit. '[a poem] about Ilion (Troy)') is one of two major surviving ancient Greek epic poems attributed to Homer. It is one of the oldest extant works of literature still widely read by modern audiences. Like the Odyssey, the poem is divided into 24 books and was written in dactylic hexameter. It contains 15,693 lines in its standard e</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/iliad-20260627.mp3" type="audio/mpeg" length="1585920"/>
