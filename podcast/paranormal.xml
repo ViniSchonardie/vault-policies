@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ouija</title>
+      <description>The Ouija (  WEE-jə,  -⁠jee), also known as a Ouija board, spirit board, talking board, or witch board, is a flat board marked with the letters of the Latin alphabet, the numbers 0–9, the words "yes", "no", and occasionally "hello" and "goodbye", along with various symbols and graphics. It uses a planchette (a small heart-shaped piece of wood or plastic) as a movable indicator to spell out message</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/ouija-20260627.mp3" type="audio/mpeg" length="1721280"/>
+      <guid isPermaLink="false">paranormal-ouija-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 20:21:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pentagon UFO videos</title>
       <description>The Pentagon UFO videos are selected visual recordings of forward-looking infrared (FLIR) targeting cameras from United States Navy fighter jets based aboard the aircraft carriers USS Nimitz and USS Theodore Roosevelt in 2004, 2014 and 2015, with additional footage taken by other Navy personnel in 2019. The four Infrared videos taken from aircraft's targeting pod have been widely characterized as </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/pentagon-ufo-videos-20260627.mp3" type="audio/mpeg" length="1800480"/>
