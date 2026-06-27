@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Polar bear</title>
+      <description>The polar bear (Ursus maritimus) is a large bear native to the Arctic and nearby areas. It is closely related to the brown bear, and the two species can interbreed. The polar bear is the largest extant species of bear and land carnivore by body mass, with adult males weighing 300–800 kg (660–1,760 lb). The species is sexually dimorphic, as adult females are much smaller. The polar bear is white or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/polar-bear-20260627.mp3" type="audio/mpeg" length="1660800"/>
+      <guid isPermaLink="false">nature-polar-bear-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 12:10:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Honey badger</title>
       <description>The honey badger (Mellivora capensis), also known as the ratel ( or ), is a mammal widely distributed across Africa, Southwest Asia, and the Indian subcontinent. It is the sole living representative of the Mellivorinae subfamily of the Mustelidae.
 It has a fairly long body, with a distinctly thick-set and broad back, and remarkably loose skin, allowing the badger to turn and twist freely within it</description>
