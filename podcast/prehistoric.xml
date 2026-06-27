@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Smilodon</title>
+      <description>Smilodon is a genus of extinct felids. It is one of the best-known saber-toothed predators and prehistoric mammals. Although commonly known as the saber-toothed tiger, it was not closely related to the tiger or other modern cats, belonging to the extinct subfamily Machairodontinae, with an estimated date of divergence from the ancestor of living cats around 20 million years ago. Smilodon was one o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/smilodon-20260627.mp3" type="audio/mpeg" length="1942080"/>
+      <guid isPermaLink="false">prehistoric-smilodon-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 08:45:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Quetzalcoatlus</title>
       <description>Quetzalcoatlus ( ) is a genus of azhdarchid pterosaur that lived during the Maastrichtian age of the Late Cretaceous in North America. The type specimen, recovered in 1971 from the Javelina Formation of Texas, United States, consists of several wing fragments and was described as Quetzalcoatlus northropi in 1975 by Douglas Lawson. The generic name refers to the Aztec serpent god of the sky, Quetza</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/quetzalcoatlus-20260626.mp3" type="audio/mpeg" length="1733280"/>
