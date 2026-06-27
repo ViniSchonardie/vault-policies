@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Isabella Stewart Gardner Museum</title>
+      <description>The Isabella Stewart Gardner Museum is an art museum in Boston, Massachusetts, which houses significant examples of European, Asian, and American art. Its collection includes paintings, sculpture, tapestries, and decorative arts. It was founded by Isabella Stewart Gardner, whose will called for her art collection to be permanently exhibited "for the education and enjoyment of the public forever."
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/isabella-stewart-gardner-museum-20260627.mp3" type="audio/mpeg" length="1468320"/>
+      <guid isPermaLink="false">heist-isabella-stewart-gardner-museum-20260627</guid>
+      <pubDate>Sat, 27 Jun 2026 07:27:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Outlaw</title>
       <description>An outlaw, in its original and legal meaning, is a person declared as outside the protection of the law. In pre-modern societies, all legal protection was withdrawn from the criminal, so anyone was legally empowered to persecute or kill them. Outlawry was thus one of the harshest penalties in the legal system. In early Germanic law, the death penalty is conspicuously absent, and outlawing is the m</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/outlaw-20260626.mp3" type="audio/mpeg" length="1581120"/>
