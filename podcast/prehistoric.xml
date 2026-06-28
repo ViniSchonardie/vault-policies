@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Diplodocus</title>
+      <description>Diplodocus (, , or ) is an extinct genus of diplodocid sauropod dinosaurs known from the Late Jurassic of North America. The first fossils of Diplodocus were discovered in 1877 by S. W. Williston. The generic name, coined by Othniel Charles Marsh in 1878, is a Neo-Latin term derived from Greek διπλός (diplos) "double" and δοκός (dokos) "beam", in reference to the double-beamed chevron bones locate</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/diplodocus-20260628.mp3" type="audio/mpeg" length="1804800"/>
+      <guid isPermaLink="false">prehistoric-diplodocus-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 23:10:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stegosaurus</title>
       <description>Stegosaurus (; lit. 'roof-lizard') is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails. Fossils of the genus have been found in the western United States and in Portugal, where they are found in Kimmeridgian- to Tithonian-aged strata, dating to between 155 and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stegosaurus-20260627.mp3" type="audio/mpeg" length="1879200"/>
