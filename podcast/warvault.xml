@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Saragarhi</title>
+      <description>The Battle of Saragarhi was a last-stand battle fought before the Tirah Campaign between the British Indian Empire and Afghan tribesmen. On 12 September 1897, an estimated 12,000–24,000 Orakzai and Afridi tribesmen were seen near Gogra, at Samana Suk, and around Saragarhi, cutting off Fort Gulistan from Fort Lockhart. The Afghans attacked the outpost of Saragarhi where thousands of them swarmed an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-saragarhi-20260628.mp3" type="audio/mpeg" length="1943520"/>
+      <guid isPermaLink="false">warvault-battle-of-saragarhi-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 04:15:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Fort Sumter</title>
       <description>The Battle of Fort Sumter (also the Attack on Fort Sumter or the Fall of Fort Sumter) (April 12–13, 1861) was the bombardment of Fort Sumter near Charleston, South Carolina, by the South Carolina militia. It ended with the surrender of the fort by the United States Army, beginning the American Civil War.
 Following the declaration of secession by South Carolina on December 20, 1860, its authorities</description>
