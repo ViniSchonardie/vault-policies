@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>HIV/AIDS</title>
+      <description>The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. Without treatment, it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (AIDS). It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/hivaids-20260628.mp3" type="audio/mpeg" length="1608480"/>
+      <guid isPermaLink="false">medical-hivaids-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 08:21:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lyme disease</title>
       <description>Lyme disease, also known as Lyme borreliosis, is a tick-borne disease caused by species of Borrelia bacteria, transmitted by blood-feeding ticks in the genus Ixodes. It is the most common disease spread by ticks in the Northern Hemisphere. Infections are most common in the spring and early summer. Infection is treatable with antibiotics. Most treated patients experience a full recovery. For some p</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/lyme-disease-20260627.mp3" type="audio/mpeg" length="1773600"/>
