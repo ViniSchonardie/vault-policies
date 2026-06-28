@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thai Airways International Flight 261</title>
+      <description>Thai Airways International Flight 261 was a scheduled domestic passenger flight from Bangkok's Don Mueang International Airport to Surat Thani International Airport in Surat Thani, Thailand. The flight was operated by Thai Airways International, the flag carrier of Thailand. On 11 December 1998, the aircraft, an Airbus A310-204 registered in Thailand as HS-TIA, stalled and crashed into a swamp dur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-261-20260628.mp3" type="audio/mpeg" length="1688160"/>
+      <guid isPermaLink="false">aviation-thai-airways-international-flight-261-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 08:29:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1963 Camden PA-24 crash</title>
       <description>On March 5, 1963, the American country music performers Patsy Cline (born Virginia Patterson Hensley), Harold Franklin "Hawkshaw" Hawkins, Lloyd Estel "Cowboy" Copas, and pilot Ramsey Dorris "Randy" Hughes were killed in an airplane crash near Camden, Tennessee, United States. Mr. Hughes was also Cline's manager and Copas' son-in-law. The accident occurred as the four occupants were returning home</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1963-camden-pa-24-crash-20260627.mp3" type="audio/mpeg" length="1715040"/>
