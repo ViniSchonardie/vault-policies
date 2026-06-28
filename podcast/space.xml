@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-121</title>
+      <description>STS-121 was a 2006 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Discovery on its 32nd flight. The main purposes of the mission were to test new safety and repair techniques introduced following the Columbia disaster of February 2003 as well as to deliver supplies, equipment, and European Space Agency (ESA) astronaut Thomas Reiter to the ISS. The European se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-121-20260628.mp3" type="audio/mpeg" length="1733280"/>
+      <guid isPermaLink="false">space-sts-121-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 23:09:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Crew Dragon Demo-2</title>
       <description>Crew Dragon Demo-2 (officially Crew Demo-2, SpaceX Demo-2, or Demonstration Mission-2) was the first crewed test flight of the Crew Dragon spacecraft. The spacecraft, named Endeavour, launched on May 30, 2020 on a Falcon 9 rocket, and carried NASA astronauts Doug Hurley and Bob Behnken to the International Space Station in the first crewed orbital spaceflight launched from the United States since </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/crew-dragon-demo-2-20260627.mp3" type="audio/mpeg" length="1572960"/>
