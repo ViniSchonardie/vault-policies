@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Securitas AB</title>
+      <description>Securitas AB is a Swedish group devoted to security services, such as security guarding, mobile patrolling, monitoring, investigation and related consulting services. The group is headquartered in Stockholm and had over 322,000 employees in 44 markets worldwide as of 2025. Securitas AB is listed at Nasdaq OMX Stockholm in the Large Cap segment.
+Securitas AB owns and operates the Swiss security com</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/securitas-ab-20260628.mp3" type="audio/mpeg" length="1472160"/>
+      <guid isPermaLink="false">heist-securitas-ab-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 08:00:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hatton Garden safe deposit burglary</title>
       <description>In April 2015, an underground safe deposit facility in Hatton Garden, London, owned by Hatton Garden Safe Deposit Ltd., was burgled. According to official sources, the total stolen had an estimated value of up to £14 million (equivalent to £19 million in 2025), of which only £4.3 million (equivalent to £5.9 million in 2025) has been recovered. The burglars entered through a lift shaft over the Eas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/hatton-garden-safe-deposit-burglary-20260627.mp3" type="audio/mpeg" length="1812960"/>
