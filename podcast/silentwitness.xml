@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Erich Raeder</title>
+      <description>Erich Johann Albert Raeder ([ˈeːʁɪç ˈʁɛːdɐ]; 24 April 1876 – 6 November 1960) was a German admiral who played a major role in the naval history of World War II and was convicted of war crimes after the war. He attained the highest possible naval rank, that of grand admiral, in 1939. Raeder led the Kriegsmarine for the first half of the war; he resigned in January 1943 and was replaced by Karl Döni</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/erich-raeder-20260628.mp3" type="audio/mpeg" length="1746240"/>
+      <guid isPermaLink="false">trials-erich-raeder-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 00:03:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lidice Massacre</title>
       <description>The Lidice massacre (Czech: Vyhlazení Lidic) was the complete destruction of the village of Lidice in the Protectorate of Bohemia and Moravia, which is now a part of the Czech Republic, in June 1942 on orders from Nazi leader Adolf Hitler and acting Reichsprotektor Kurt Daluege, successor to Reinhard Heydrich. It has gained historical attention as one of the most documented instances of German war</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/lidice-massacre-20260627.mp3" type="audio/mpeg" length="1895040"/>
