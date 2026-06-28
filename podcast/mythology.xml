@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo</title>
+      <description>Apollo is one of the Olympian deities in ancient Greek religion and mythology. His numerous functions and representations include the Sun and light, prophecy, philosophy, truth, logic, inspiration, music, poetry, the arts, purification, medicine, healing, plague, archery, and masculine beauty. He is the son of Zeus and Leto, and the twin brother of Artemis, goddess of the hunt. He is considered to</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/apollo-20260628.mp3" type="audio/mpeg" length="1673760"/>
+      <guid isPermaLink="false">mythology-apollo-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 06:27:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trojan War</title>
       <description>The Trojan War was a legendary conflict in Greek mythology that took place around the  thirteenth century  or early  twelfth century BC. The war was waged by the Achaeans (Greeks) against the city of Troy after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology, and it has been narrated through many works of Greek lite</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/trojan-war-20260627.mp3" type="audio/mpeg" length="1554720"/>
