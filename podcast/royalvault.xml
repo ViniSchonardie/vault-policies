@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fotheringhay Castle</title>
+      <description>Fotheringhay Castle, also known as Fotheringay Castle, was a High Middle Age Norman Motte-and-bailey castle in the village of Fotheringhay 3+1⁄2 miles (6 kilometres) to the north of the market town of Oundle, Northamptonshire,  England (grid reference TL061930). It was probably founded around 1100 by Simon de Senlis, Earl of Northampton. In 1113, possession passed to Prince David of Scotland when </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/fotheringhay-castle-20260628.mp3" type="audio/mpeg" length="1356960"/>
+      <guid isPermaLink="false">royal-fotheringhay-castle-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 05:24:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Mint</title>
       <description>The Royal Mint is the United Kingdom's official maker of British coins. It is currently located in Llantrisant, Wales, where it moved in 1968.
 Operating under the legal name The Royal Mint Limited, it is a limited company that is wholly owned by His Majesty's Treasury and is under an exclusive contract to supply the nation's coinage. As well as minting circulating coins for the UK and internationa</description>
