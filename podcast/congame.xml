@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Edm Samson</title>
+      <description>Edmé Samson (1810, Paris – 1891, Paris) was the founder of the porcelain firm Samson, Edmé et Cie (commonly known as Samson Ceramics) and a famous copyist (and perhaps forger) of porcelain and pottery.  The firm produced high-quality copies or imitations of earlier styles of porcelain, mainly 18th-century European and Chinese and Japanese porcelain, but also earlier styles such as Italian maiolica</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/edm-samson-20260628.mp3" type="audio/mpeg" length="1612800"/>
+      <guid isPermaLink="false">congame-edm-samson-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 02:10:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ruja Ignatova</title>
       <description>Ruja Plamenova Ignatova (Bulgarian: Ружа Пламенова Игнатова; born May 30, 1980 – disappeared October 25, 2017), also known by the nickname "Cryptoqueen", is a Bulgarian-German entrepreneur and con artist. She is one of the FBI Ten Most Wanted Fugitives, and is best known as the founder of the fraudulent cryptocurrency scheme OneCoin, which The Times described as "one of the biggest scams in histor</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/ruja-ignatova-20260627.mp3" type="audio/mpeg" length="1401600"/>
