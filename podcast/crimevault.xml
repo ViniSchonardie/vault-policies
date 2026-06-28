@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ivan Milat</title>
+      <description>Ivan Robert Marko Milat, commonly referred to in media as the Backpacker Murderer, was an Australian serial killer who was convicted for the abduction, assault, robbery and murder of two men and five women in New South Wales between 1989 and 1992. His modus operandi was to approach backpackers along the Hume Highway under the guise of providing them transport to areas of southern New South Wales, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ivan-milat-20260628.mp3" type="audio/mpeg" length="1703040"/>
+      <guid isPermaLink="false">crime-ivan-milat-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 05:27:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Monster of Florence</title>
       <description>The Monster of Florence is the name coined by the Italian press for a serial killer active within the former province of Florence between 1968 and 1985. The Monster murdered sixteen victims, usually young couples secluded in search of privacy, in wooded areas during new moons. Although none of the murders were committed in the city of Florence proper, the name of the killer, initially referred to </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/monster-of-florence-20260627.mp3" type="audio/mpeg" length="1572480"/>
