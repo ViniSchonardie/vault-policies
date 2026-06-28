@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tardigrade</title>
+      <description>Tardigrades ( ), also known as water bears or moss piglets, are a phylum of eight-legged segmented micro-animals. They were first described by the German zoologist Johann August Ephraim Goeze in 1773, who called them Kleiner Wasserbär 'little water bear'. In 1776, the Italian biologist Lazzaro Spallanzani named them Tardigrada, which means 'slow walkers'.
+Tardigrades live in diverse regions of Ear</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/tardigrade-20260628.mp3" type="audio/mpeg" length="2050080"/>
+      <guid isPermaLink="false">nature-tardigrade-20260628</guid>
+      <pubDate>Sun, 28 Jun 2026 07:06:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Platypus</title>
       <description>The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record. Together with the four species of echidna, it is one</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/platypus-20260627.mp3" type="audio/mpeg" length="1914720"/>
