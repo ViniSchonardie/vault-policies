@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marcel Proust</title>
+      <description>Valentin Louis Georges Eugène Marcel Proust ( PROOST; French: [maʁsɛl pʁust]; 10 July 1871 – 18 November 1922) was a French novelist, literary critic, and essayist best known for his novel À la recherche du temps perdu (translated into English as In Search of Lost Time, earlier Remembrance of Things Past), which was published in seven volumes between 1913 and 1927. He is considered by critics and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marcel-proust-20260629.mp3" type="audio/mpeg" length="1784640"/>
+      <guid isPermaLink="false">realstory-marcel-proust-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 00:06:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Robert F. Kennedy</title>
       <description>On June 5, 1968, Robert F. Kennedy was shot by 24-year-old Sirhan Sirhan at the Ambassador Hotel in Los Angeles, California. Medical teams attempted to treat him, but he died the following day at the age of 42.
 Kennedy, a United States senator and candidate in the 1968 Democratic Party presidential primaries, won the California and South Dakota primaries on June 4. He addressed his campaign suppor</description>
