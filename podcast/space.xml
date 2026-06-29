@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mercury-Atlas 9</title>
+      <description>Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963, from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-9-20260629.mp3" type="audio/mpeg" length="1548480"/>
+      <guid isPermaLink="false">space-mercury-atlas-9-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 23:04:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boeing Crew Flight Test</title>
       <description>Boeing Crew Flight Test (Boe-CFT) was the first crewed mission of the Boeing Starliner capsule. Launched on June 5, 2024, the mission flew a crew of two NASA astronauts, Barry E. Wilmore and Sunita Williams, from Cape Canaveral Space Force Station to the International Space Station. The mission was meant to last eight days, ending on June 14 with a landing in the American Southwest. However, Starl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/boeing-crew-flight-test-20260629.mp3" type="audio/mpeg" length="1694400"/>
