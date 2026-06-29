@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Richard Cottingham</title>
+      <description>Richard Francis Cottingham is an American serial killer who committed ten murders in New York State between 1972 and 1980, plus a further ten murders in New Jersey between 1965 and 1980. He was nicknamed by media as the Torso Killer and the Times Square Ripper, since some of the murders he was convicted of included acts of mutilation and dismemberment.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-cottingham-20260629.mp3" type="audio/mpeg" length="1468320"/>
+      <guid isPermaLink="false">crime-richard-cottingham-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 06:01:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ivan Milat</title>
       <description>Ivan Robert Marko Milat, commonly referred to in media as the Backpacker Murderer, was an Australian serial killer who was convicted for the abduction, assault, robbery and murder of two men and five women in New South Wales between 1989 and 1992. His modus operandi was to approach backpackers along the Hume Highway under the guise of providing them transport to areas of southern New South Wales, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ivan-milat-20260628.mp3" type="audio/mpeg" length="1703040"/>
