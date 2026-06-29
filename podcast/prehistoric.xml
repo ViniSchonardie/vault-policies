@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mosasaurus</title>
+      <description>Mosasaurus (; "lizard of the Meuse River") is the type genus (defining example) of the Mosasauridae, an extinct group of aquatic squamate reptiles. It lived from about 82 to 66 million years ago during the Campanian and Maastrichtian stages of the Late Cretaceous. The genus was one of the first Mesozoic marine reptiles known to science—the first fossils of Mosasaurus were found as skulls in a chal</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mosasaurus-20260629.mp3" type="audio/mpeg" length="1773120"/>
+      <guid isPermaLink="false">prehistoric-mosasaurus-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 16:58:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dunkleosteus</title>
       <description>Dunkleosteus is an extinct genus of large arthrodire ("jointed-neck") fish that existed during the Late Devonian period, about 382–358 million years ago. It was a pelagic fish inhabiting open waters, and one of the first vertebrate apex predators of any ecosystem. Fossils of Dunkleosteus have been found in the United States, Canada, Poland, Belgium, and Morocco.
 Dunkleosteus consists of ten specie</description>
