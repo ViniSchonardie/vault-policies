@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Myth Vault: Gods & Monsters in 80 Seconds</title>
+    <title>Myth Vault: Gods &amp; Monsters in 80 Seconds</title>
     <description>Gods, monsters, and heroes from every culture in history. Every myth carries a truth older than recorded history.</description>
     <link>https://vinischonardie.github.io/vault-policies/podcast/mythology.xml</link>
     <language>en</language>
@@ -9,7 +9,7 @@
     <itunes:author>Myth Vault</itunes:author>
     <itunes:summary>Gods, monsters, and heroes from every culture in history. Every myth carries a truth older than recorded history.</itunes:summary>
     <itunes:type>episodic</itunes:type>
-    <itunes:category text="Society & Culture"/>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://vinischonardie.github.io/vault-policies/covers/mythology.png"/>
     <itunes:owner>
       <itunes:name>Myth Vault</itunes:name>
