@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean Air Cargo Flight 8509</title>
+      <description>Korean Air Cargo Flight 8509 was a Boeing 747-2B5F, registered HL7451 bound for Milan Malpensa Airport, that crashed due to instrument malfunction and pilot error on 22 December 1999 shortly after take-off from London Stansted Airport where the final leg of its route from South Korea to Italy had begun. The aircraft crashed into Hatfield Forest near the village of Great Hallingbury, close to, but </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-cargo-flight-8509-20260629.mp3" type="audio/mpeg" length="1786080"/>
+      <guid isPermaLink="false">aviation-korean-air-cargo-flight-8509-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 09:55:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thai Airways International Flight 261</title>
       <description>Thai Airways International Flight 261 was a scheduled domestic passenger flight from Bangkok's Don Mueang International Airport to Surat Thani International Airport in Surat Thani, Thailand. The flight was operated by Thai Airways International, the flag carrier of Thailand. On 11 December 1998, the aircraft, an Airbus A310-204 registered in Thailand as HS-TIA, stalled and crashed into a swamp dur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-261-20260628.mp3" type="audio/mpeg" length="1688160"/>
