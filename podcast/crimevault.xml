@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Starkweather</title>
+      <description>Charles Raymond Starkweather was an American spree killer who murdered eleven people in Nebraska and Wyoming between December 1957 and January 1958, when he was nineteen years old. He killed ten of his victims between January 21 and January 29, 1958, the date of his arrest. During his spree in 1958, Starkweather was accompanied by his fourteen-year-old girlfriend, Caril Ann Fugate.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-starkweather-20260629.mp3" type="audio/mpeg" length="1686240"/>
+      <guid isPermaLink="false">crime-charles-starkweather-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 19:16:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Danny Rolling</title>
       <description>Daniel Harold Rolling, known as the Gainesville Ripper, was an American serial killer who murdered five college students in Gainesville, Florida, over four days in August 1990.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/danny-rolling-20260629.mp3" type="audio/mpeg" length="1564320"/>
