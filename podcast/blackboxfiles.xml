@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flydubai Flight 981</title>
+      <description>Flydubai Flight 981 (FZ981/FDB981) was a scheduled international passenger flight from Dubai, United Arab Emirates, to Rostov-on-Don, Russia. On 19 March 2016, the Boeing 737-800 aircraft operating the flight crashed during a go-around, killing all 62 passengers and crew on board. 
+The flight occurred at night and the weather at Rostov-on-Don was poor. Flight 981 aborted its first landing attempt </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flydubai-flight-981-20260629.mp3" type="audio/mpeg" length="1896960"/>
+      <guid isPermaLink="false">aviation-flydubai-flight-981-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 22:11:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Singapore Airlines Flight 117</title>
       <description>Singapore Airlines Flight 117 was a regularly-scheduled Singapore Airlines flight from Kuala Lumpur (Sultan Abdul Aziz Shah Airport) to Singapore (Changi Airport).  On 26 March 1991 the Airbus A310-324 serving the flight was hijacked en route by four Pakistani terrorists.  The aircraft landed in Singapore. The hijackers, who were members of the Pakistan People's Party (PPP), demanded the release f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-117-20260629.mp3" type="audio/mpeg" length="1759680"/>
