@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cronus</title>
+      <description>In ancient Greek religion and mythology, Cronus, Cronos, or Kronos ( or ; Ancient Greek: Κρόνος) was the leader and youngest of the Titans, the children of Gaia (Earth) and Uranus (Sky). He overthrew his father and ruled during the mythological Golden Age until he was overthrown by his son Zeus and imprisoned in Tartarus. According to Plato, however, Cronus, along with the deities Phorcys and Rhea</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cronus-20260629.mp3" type="audio/mpeg" length="1580640"/>
+      <guid isPermaLink="false">mythology-cronus-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 06:55:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo</title>
       <description>Apollo is one of the Olympian deities in ancient Greek religion and mythology. His numerous functions and representations include the Sun and light, prophecy, philosophy, truth, logic, inspiration, music, poetry, the arts, purification, medicine, healing, plague, archery, and masculine beauty. He is the son of Zeus and Leto, and the twin brother of Artemis, goddess of the hunt. He is considered to</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/apollo-20260628.mp3" type="audio/mpeg" length="1673760"/>
