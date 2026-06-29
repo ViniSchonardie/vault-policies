@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Paranormal</title>
+      <description>Paranormal events are purported or imagined phenomena described in popular culture, folklore, and other non-scientific bodies of knowledge, whose existence within these contexts is described as being beyond the scope of normal scientific understanding. Notable paranormal beliefs include those that pertain to extrasensory perceptions (for example, telepathy), and the pseudosciences of ghost hunting</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/paranormal-20260629.mp3" type="audio/mpeg" length="1499520"/>
+      <guid isPermaLink="false">paranormal-paranormal-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 07:33:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Time travel claims and urban legends</title>
       <description>Multiple accounts of people who allegedly travelled through time have been reported by the press or circulated online. These reports have turned out to be either hoaxes or else based on incorrect assumptions, incomplete information, or interpretation of fiction as fact. Many are now recognized as urban legends.
 
