@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination of Malcolm X</title>
+      <description>On February 21, 1965, Malcolm X, a Muslim African American minister and Black power activist who was a popular figure during the civil rights movement, was shot multiple times and died from his wounds in Manhattan, New York City, at the age of 39 while preparing to address the Organization of Afro-American Unity at the Audubon Ballroom in the neighborhood of Washington Heights. Three members of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-malcolm-x-20260629.mp3" type="audio/mpeg" length="1812000"/>
+      <guid isPermaLink="false">realstory-assassination-of-malcolm-x-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 09:31:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marcel Proust</title>
       <description>Valentin Louis Georges Eugène Marcel Proust ( PROOST; French: [maʁsɛl pʁust]; 10 July 1871 – 18 November 1922) was a French novelist, literary critic, and essayist best known for his novel À la recherche du temps perdu (translated into English as In Search of Lost Time, earlier Remembrance of Things Past), which was published in seven volumes between 1913 and 1927. He is considered by critics and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marcel-proust-20260629.mp3" type="audio/mpeg" length="1784640"/>
