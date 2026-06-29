@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Palmito Ranch</title>
+      <description>The Battle of Palmito Ranch, also known as the Battle of Palmito Hill, is considered by some criteria the final battle of the American Civil War. It was fought May 12 and 13, 1865, on the banks of the Rio Grande east of Brownsville, Texas, and a few miles from the seaport of Los Brazos de Santiago, at the southern tip of Texas. The battle took place more than a month after the surrender of the Arm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-palmito-ranch-20260629.mp3" type="audio/mpeg" length="1875360"/>
+      <guid isPermaLink="false">warvault-battle-of-palmito-ranch-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 04:22:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Saragarhi</title>
       <description>The Battle of Saragarhi was a last-stand battle fought before the Tirah Campaign between the British Indian Empire and Afghan tribesmen. On 12 September 1897, an estimated 12,000–24,000 Orakzai and Afridi tribesmen were seen near Gogra, at Samana Suk, and around Saragarhi, cutting off Fort Gulistan from Fort Lockhart. The Afghans attacked the outpost of Saragarhi where thousands of them swarmed an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-saragarhi-20260628.mp3" type="audio/mpeg" length="1943520"/>
