@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Johann Wolfgang von Goethe</title>
+      <description>Johann Wolfgang von Goethe (28 August 1749 – 22 March 1832) was a German polymath who is widely regarded as the most influential writer in the German language. His work has had a wide-ranging influence on literary, political, Christian views, and philosophical thought in the Western world from the late 18th century to the present. A poet, playwright, novelist, scientist, statesman, theatre-directo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/johann-wolfgang-von-goethe-20260629.mp3" type="audio/mpeg" length="1927680"/>
+      <guid isPermaLink="false">realstory-johann-wolfgang-von-goethe-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 23:59:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Mahatma Gandhi</title>
       <description>Mahatma Gandhi was assassinated on 30 January 1948 at the age of 78 in the compound of The Birla House (now Gandhi Smriti), a large mansion in central New Delhi. His assassin was Nathuram Godse, from Pune, Maharashtra, a right-wing Hindu nationalist, with a history of association with the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu paramilitary organization, and with membership in the Hi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-mahatma-gandhi-20260629.mp3" type="audio/mpeg" length="1679520"/>
