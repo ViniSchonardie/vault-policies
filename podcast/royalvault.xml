@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Collection</title>
+      <description>The Royal Collection of the British royal family is the largest private art collection in the world.
+Spread among 13 occupied and historic royal residences in the United Kingdom, the collection is owned by King Charles III and overseen by the Royal Collection Trust. The British monarch owns some of the collection in right of the Crown and some as a private individual. It is made up of more than on</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-collection-20260629.mp3" type="audio/mpeg" length="1987200"/>
+      <guid isPermaLink="false">royal-royal-collection-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 06:00:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fotheringhay Castle</title>
       <description>Fotheringhay Castle, also known as Fotheringay Castle, was a High Middle Age Norman Motte-and-bailey castle in the village of Fotheringhay 3+1⁄2 miles (6 kilometres) to the north of the market town of Oundle, Northamptonshire,  England (grid reference TL061930). It was probably founded around 1100 by Simon de Senlis, Earl of Northampton. In 1113, possession passed to Prince David of Scotland when </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/fotheringhay-castle-20260628.mp3" type="audio/mpeg" length="1356960"/>
