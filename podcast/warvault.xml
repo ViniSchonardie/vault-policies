@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Port Arthur</title>
+      <description>The siege of Port Arthur (Japanese: 旅順攻囲戦, romanized: Ryojun Kōisen; Russian: Оборона Порт-Артура, romanized: Oborona Port-Artura; August 1, 1904 – January 2, 1905) was the longest and most violent land battle of the Russo-Japanese War.
+Port Arthur, the deep-water port and Russian naval base at the tip of the Liaodong Peninsula in Manchuria, had been widely regarded as one of the most strongly for</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-port-arthur-20260629.mp3" type="audio/mpeg" length="2016000"/>
+      <guid isPermaLink="false">warvault-siege-of-port-arthur-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 12:40:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Nanking</title>
       <description>The Battle of Nanking (or Nanjing) was fought in early December 1937 during the Second Sino-Japanese War between the Chinese National Revolutionary Army and the Imperial Japanese Army for control of Nanjing (Chinese: 南京; pinyin: Nánjīng), the capital of the Republic of China.
 Following the outbreak of war between Japan and China in July 1937, the Japanese and Chinese forces engaged in the vicious </description>
