@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bangladesh Bank Robbery</title>
+      <description>The Bangladesh Bank robbery, also known colloquially as the Bangladesh Bank cyber heist, was a theft that took place in February 2016.  Thirty-five fraudulent instructions were issued by security hackers via the SWIFT network to illegally transfer close to US$1 billion from the Federal Reserve Bank of New York account belonging to Bangladesh Bank, the central bank of Bangladesh. Five of the thirty</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/bangladesh-bank-robbery-20260629.mp3" type="audio/mpeg" length="1672320"/>
+      <guid isPermaLink="false">congame-bangladesh-bank-robbery-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 18:09:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lockheed Bribery Scandals</title>
       <description>From the late 1950s to the 1970s, officials of U.S. aerospace company Lockheed paid bribes in the process of negotiating the sale of aircraft. The scandal caused considerable political controversy in West Germany, Italy, the Netherlands, and Japan. In the U.S., the scandal nearly led to Lockheed's downfall, as it was already struggling due to the commercial failure of the L-1011 TriStar airliner.
 </description>
