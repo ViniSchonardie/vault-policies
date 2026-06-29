@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheetah</title>
+      <description>The cheetah (Acinonyx jubatus) is a species of large feline and the only living member of the genus Acinonyx. The cheetah is a pursuit predator and the fastest land animal, capable of running at 93–104 km/h (58–65 mph); it has evolved for speed, having powerful hindlimb muscles, long limbs and a flexible spine. The cheetah has a tawny to creamy white or pale buff fur that is marked with evenly spa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cheetah-20260629.mp3" type="audio/mpeg" length="1407840"/>
+      <guid isPermaLink="false">nature-cheetah-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 20:53:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gorilla</title>
       <description>Gorillas are large, primarily herbivorous, great apes that live in the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 96 to 99% depending on what is included, and they are the next closest living relatives to humans af</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gorilla-20260629.mp3" type="audio/mpeg" length="1523040"/>
