@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Isabella Stewart Gardner</title>
+      <description>Isabella Stewart Gardner (née Stewart; April 14, 1840 – July 17, 1924) was an American art collector, philanthropist, and patron of the arts. She founded the Isabella Stewart Gardner Museum in Boston.
+Gardner was noted for her intellectual curiosity and love of travel. She was a friend of noted artists and writers of the day, including John Singer Sargent, James McNeill Whistler, Dennis Miller Bun</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/isabella-stewart-gardner-20260629.mp3" type="audio/mpeg" length="1648800"/>
+      <guid isPermaLink="false">heist-isabella-stewart-gardner-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 21:45:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>221B Baker Street</title>
       <description>221B Baker Street is the London address of the fictional detective Sherlock Holmes, created by author Sir Arthur Conan Doyle. In the United Kingdom, postal addresses with a number followed by a letter may indicate a separate address within a larger, often residential building. Baker Street in the late 19th century was a high-class residential district, and Holmes's apartment would probably have be</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/221b-baker-street-20260629.mp3" type="audio/mpeg" length="1752480"/>
