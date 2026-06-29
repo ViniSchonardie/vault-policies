@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Murder Of Jn Kuciak</title>
+      <description>Ján Kuciak (17 May 1990 – 21 February 2018) was a Slovak investigative journalist. Kuciak worked as a reporter for the news website Aktuality.sk and focused mainly on investigating tax fraud of several businessmen with connections to top-level Slovak politicians. He and his fiancée, Martina Kušnírová, were assassinated on 21 February 2018 in their home in Veľká Mača, Galanta District, Slovakia.
+Ku</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-of-jn-kuciak-20260629.mp3" type="audio/mpeg" length="1866720"/>
+      <guid isPermaLink="false">trials-murder-of-jn-kuciak-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 12:03:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trial Of The Six</title>
       <description>The Trial of the Six (Greek: Δίκη των Έξ(ι), Díki ton Éx(i)) or the Execution of the Six was the trial for treason, in late 1922, of the Anti-Venizelist officials held responsible for the Greek military defeat in Asia Minor. All nine defendants were convicted, with six of them sentenced to death and executed promptly afterwards. In 2010, the Supreme Court of Greece overturned the convictions.
 
