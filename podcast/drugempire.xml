@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Human trafficking</title>
+      <description>Human trafficking is the unlawful act of entrapping, transporting, transferring, harboring, or buying human beings through force, fraud, or coercion for the purpose of exploiting them for profit. This exploitation may include forced labor, sexual slavery, or other forms of commercial sexual exploitation. It is a form of modern slavery, a crime against humanity and serious violation of human rights</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/human-trafficking-20260629.mp3" type="audio/mpeg" length="1655040"/>
+      <guid isPermaLink="false">drugempire-human-trafficking-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 17:37:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander Litvinenko</title>
       <description>Alexander Valterovich Litvinenko (30 August 1962 – 23 November 2006) was a British-naturalised Russian defector and former officer of the Russian Federal Security Service (FSB) who specialised in tackling organised crime. A prominent critic of Russian President Vladimir Putin, he advised British intelligence and coined the term "mafia state."
 In November 1998, Litvinenko and several other FSB offi</description>
