@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Danny Rolling</title>
+      <description>Daniel Harold Rolling, known as the Gainesville Ripper, was an American serial killer who murdered five college students in Gainesville, Florida, over four days in August 1990.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/danny-rolling-20260629.mp3" type="audio/mpeg" length="1564320"/>
+      <guid isPermaLink="false">crime-danny-rolling-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 13:01:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Richard Cottingham</title>
       <description>Richard Francis Cottingham is an American serial killer who committed ten murders in New York State between 1972 and 1980, plus a further ten murders in New Jersey between 1965 and 1980. He was nicknamed by media as the Torso Killer and the Times Square Ripper, since some of the murders he was convicted of included acts of mutilation and dismemberment.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-cottingham-20260629.mp3" type="audio/mpeg" length="1468320"/>
