@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Mactan</title>
+      <description>The Battle of Mactan (Filipino: Labanan sa Mactan; Spanish: Batalla de Mactán) was fought on a beach in Mactan Island (now part of Cebu, Philippines) between Spanish forces led by the Portuguese explorer Ferdinand Magellan along with local allies, and Lapulapu, the chieftain of the island, on the early morning of April 27, 1521. Magellan, a Portuguese-born commander serving the Spanish Empire who </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-mactan-20260629.mp3" type="audio/mpeg" length="1714080"/>
+      <guid isPermaLink="false">ancient-battle-of-mactan-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 16:40:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apuleius</title>
       <description>Apuleius ( APP-yuu-LEE-əs), also called Lucius Apuleius Madaurensis (c. 124 – after  170), was a Numidian Latin-language prose writer, Platonist philosopher and rhetorician. He was born in the Roman province of Numidia, in the Berber city of Madauros, modern-day M'Daourouch, Algeria. He studied Platonism in Athens, travelled to Italy, Asia Minor, and Egypt, and was an initiate in several cults or </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/apuleius-20260629.mp3" type="audio/mpeg" length="1765920"/>
