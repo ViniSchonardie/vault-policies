@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Panam Viejo</title>
+      <description>Panamá Viejo (English: "Old Panama"), also known as Panamá la Vieja, is the remaining part of the original Panama City, the former capital of Panama, which was destroyed in 1671 by the Welsh privateer Henry Morgan. It is located in the suburbs of the current capital. Together with the historical district of Panamá, it has been a World Heritage Site since 1997.
+
+
+== History ==
+
+A settlement was fou</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/panam-viejo-20260629.mp3" type="audio/mpeg" length="1233600"/>
+      <guid isPermaLink="false">pirates-panam-viejo-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 10:55:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Capture Of The Sloop Anne</title>
       <description>A naval campaign carried out by an alliance between the Spanish Empire forces in Puerto Rico, the Danish government in Saint Thomas and the United States Navy captured Roberto Cofresí's pirate sloop Anne. The powers pursued Roberto Cofresí's pirate flotilla in March 1825 because of the economic losses suffered by the parties to the pirates, as well as diplomatic concerns caused by their use of the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/capture-of-the-sloop-anne-20260628.mp3" type="audio/mpeg" length="1495200"/>
