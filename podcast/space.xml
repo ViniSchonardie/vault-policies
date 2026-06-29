@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Boeing Crew Flight Test</title>
+      <description>Boeing Crew Flight Test (Boe-CFT) was the first crewed mission of the Boeing Starliner capsule. Launched on June 5, 2024, the mission flew a crew of two NASA astronauts, Barry E. Wilmore and Sunita Williams, from Cape Canaveral Space Force Station to the International Space Station. The mission was meant to last eight days, ending on June 14 with a landing in the American Southwest. However, Starl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/boeing-crew-flight-test-20260629.mp3" type="audio/mpeg" length="1694400"/>
+      <guid isPermaLink="false">space-boeing-crew-flight-test-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 18:11:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Skylab 4</title>
       <description>Skylab 4 (also SL-4 and SLM-3) was the third crewed Skylab mission and placed the third and final crew aboard the first American space station.
 The mission began on November 16, 1973, with the launch of Gerald P. Carr, Edward Gibson, and William R. Pogue in an Apollo command and service module on a Saturn IB rocket from the Kennedy Space Center, Florida, and lasted 84 days, one hour and 16 minutes</description>
