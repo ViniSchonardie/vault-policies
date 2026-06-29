@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cholera</title>
+      <description>Cholera () is an infection of the small intestine by some strains of the bacterium Vibrio cholerae. Symptoms may range from none, to mild, to severe. The classic symptom is large amounts of watery diarrhea lasting a few days. Vomiting and muscle cramps may also occur. Diarrhea can be so severe that it leads within hours to severe dehydration and electrolyte imbalance. This can in turn result in su</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/cholera-20260629.mp3" type="audio/mpeg" length="1883520"/>
+      <guid isPermaLink="false">medical-cholera-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 22:09:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spanish flu</title>
       <description>The 1918–1920 flu pandemic, also known as the Great Influenza epidemic or by the misleading name Spanish flu, was an exceptionally deadly global influenza pandemic caused by the H1N1 subtype of the influenza A virus. The earliest probable cases were documented in March 1918 in Haskell County, Kansas, United States, with further cases recorded in France, Germany and the United Kingdom in April. Two</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/spanish-flu-20260629.mp3" type="audio/mpeg" length="1700160"/>
