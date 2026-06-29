@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mammoth</title>
+      <description>A mammoth is a member of the extinct elephantid genus Mammuthus. They lived from the late Miocene epoch (from around 6.2 million years ago) into the Holocene until about 4,000 years ago, with mammoth species at various times inhabiting Africa, Asia, Europe and North America. Mammoths are distinguished from living elephants by their (typically large) spirally twisted tusks and in some later species</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mammoth-20260629.mp3" type="audio/mpeg" length="1696320"/>
+      <guid isPermaLink="false">prehistoric-mammoth-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 23:07:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mosasaurus</title>
       <description>Mosasaurus (; "lizard of the Meuse River") is the type genus (defining example) of the Mosasauridae, an extinct group of aquatic squamate reptiles. It lived from about 82 to 66 million years ago during the Campanian and Maastrichtian stages of the Late Cretaceous. The genus was one of the first Mesozoic marine reptiles known to science—the first fossils of Mosasaurus were found as skulls in a chal</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mosasaurus-20260629.mp3" type="audio/mpeg" length="1773120"/>
