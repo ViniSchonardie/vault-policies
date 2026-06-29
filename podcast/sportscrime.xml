@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Olympiacos F.C.</title>
+      <description>Olympiacos Football Club (Greek: ΠΑΕ Ολυμπιακός Σ.Φ.Π. [olibiaˈkos]), known simply as Olympiacos or Olympiacos Piraeus, are a Greek professional football club based in Piraeus. Part of the major multi-sport club Olympiacos CFP (Greek: Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς, Olympiakós Sýndesmos Filáthlon Peiraiós, lit. 'Olympic Association of Friends-of-sports of Piraeus'), their name was inspired</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/olympiacos-fc-20260629.mp3" type="audio/mpeg" length="1614240"/>
+      <guid isPermaLink="false">sportscrime-olympiacos-fc-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 09:09:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tommy Morrison</title>
       <description>Tommy David Morrison (January 2, 1969 – September 1, 2013) was an American professional boxer and mixed martial artist who competed from 1988 to 2009. Best known for his left hook and formidable punching power, Morrison won the World Boxing Organization heavyweight world title in 1993 with a unanimous decision victory over George Foreman. He lost the title in his second defense to Michael Bentt th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/tommy-morrison-20260628.mp3" type="audio/mpeg" length="1696800"/>
