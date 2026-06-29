@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1905 Calabria earthquake</title>
+      <description>Striking southern Italy on 8 September, the 1905 Calabria earthquake had a moment magnitude of 7.2 and a maximum Mercalli intensity of XI (Extreme). The first major earthquake of the 20th century, it severely damaged parts of Lipari, Messina Province and a large area between Cosenza and Nicotera and killed between 557 and 2,500 people.
+
+
+== Tectonic setting ==
+
+The region of Calabria is located be</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1905-calabria-earthquake-20260629.mp3" type="audio/mpeg" length="1823040"/>
+      <guid isPermaLink="false">history-1905-calabria-earthquake-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 10:26:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>May 2015 Nepal earthquake</title>
       <description>A major earthquake occurred in Nepal on 12 May 2015 at 12:50 pm local time (07:05 UTC) with a moment magnitude of 7.2–7.3, 18 kilometres (11 mi) southeast of Kodari. The epicenter was on the border of Dolakha and Sindhupalchowk, two districts of Nepal. This earthquake occurred on the same fault as the larger magnitude 7.8 earthquake of 25 April, but further east than the original quake. As such, i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/may-2015-nepal-earthquake-20260628.mp3" type="audio/mpeg" length="1593600"/>
