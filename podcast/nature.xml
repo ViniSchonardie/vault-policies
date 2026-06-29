@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gorilla</title>
+      <description>Gorillas are large, primarily herbivorous, great apes that live in the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 96 to 99% depending on what is included, and they are the next closest living relatives to humans af</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gorilla-20260629.mp3" type="audio/mpeg" length="1523040"/>
+      <guid isPermaLink="false">nature-gorilla-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 14:49:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sperm whale</title>
       <description>The sperm whale or cachalot (Physeter macrocephalus) is the largest of the toothed whales and the largest toothed predator. It is the only living member of the genus Physeter and one of three extant species in the sperm whale superfamily Physeteroidea, along with the pygmy sperm whale and dwarf sperm whale of the genus Kogia.
 The sperm whale is a pelagic mammal with a worldwide range, and will mig</description>
