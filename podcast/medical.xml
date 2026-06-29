@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spanish flu</title>
+      <description>The 1918–1920 flu pandemic, also known as the Great Influenza epidemic or by the misleading name Spanish flu, was an exceptionally deadly global influenza pandemic caused by the H1N1 subtype of the influenza A virus. The earliest probable cases were documented in March 1918 in Haskell County, Kansas, United States, with further cases recorded in France, Germany and the United Kingdom in April. Two</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/spanish-flu-20260629.mp3" type="audio/mpeg" length="1700160"/>
+      <guid isPermaLink="false">medical-spanish-flu-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 16:47:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Plague of Justinian</title>
       <description>The plague of Justinian or Justinianic plague (AD 541–549) was an epidemic of plague that afflicted the entire Mediterranean Basin, Europe, and the Near East, especially the Sasanian Empire and the Byzantine Empire. The plague is named for the Byzantine Emperor Justinian I (r. 527–565) who, according to his court historian Procopius, contracted the disease and recovered in 542, at the height of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/plague-of-justinian-20260629.mp3" type="audio/mpeg" length="1878720"/>
