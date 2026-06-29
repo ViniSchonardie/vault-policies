@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Plague of Justinian</title>
+      <description>The plague of Justinian or Justinianic plague (AD 541–549) was an epidemic of plague that afflicted the entire Mediterranean Basin, Europe, and the Near East, especially the Sasanian Empire and the Byzantine Empire. The plague is named for the Byzantine Emperor Justinian I (r. 527–565) who, according to his court historian Procopius, contracted the disease and recovered in 542, at the height of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/plague-of-justinian-20260629.mp3" type="audio/mpeg" length="1878720"/>
+      <guid isPermaLink="false">medical-plague-of-justinian-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 09:27:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>HIV/AIDS</title>
       <description>The human immunodeficiency virus (HIV) is a retrovirus that attacks the immune system. Without treatment, it can lead to a spectrum of conditions including acquired immunodeficiency syndrome (AIDS). It is a preventable disease. It can be managed with treatment and become a manageable chronic health condition. While there is no cure or vaccine for HIV, antiretroviral treatment can slow the course o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/hivaids-20260628.mp3" type="audio/mpeg" length="1608480"/>
