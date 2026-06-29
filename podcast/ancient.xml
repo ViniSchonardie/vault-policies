@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apuleius</title>
+      <description>Apuleius ( APP-yuu-LEE-əs), also called Lucius Apuleius Madaurensis (c. 124 – after  170), was a Numidian Latin-language prose writer, Platonist philosopher and rhetorician. He was born in the Roman province of Numidia, in the Berber city of Madauros, modern-day M'Daourouch, Algeria. He studied Platonism in Athens, travelled to Italy, Asia Minor, and Egypt, and was an initiate in several cults or </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/apuleius-20260629.mp3" type="audio/mpeg" length="1765920"/>
+      <guid isPermaLink="false">ancient-apuleius-20260629</guid>
+      <pubDate>Mon, 29 Jun 2026 05:31:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Valentinian I</title>
       <description>Valentinian I (Latin: Valentinianus; 321 – 17 November 375), sometimes known as Valentinian the Great, was Roman emperor from 364 to 375. He is the second-last emperor to govern the empire as a whole, albeit only from February to March of 364, after which he appointed Valens to rule over the Eastern half the empire, while he remained in control of the West. The founder of the Valentinian dynasty, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/valentinian-i-20260628.mp3" type="audio/mpeg" length="1913760"/>
