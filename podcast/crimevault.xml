@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Henry Lee Lucas</title>
+      <description>Henry Lee Lucas, also known as The Confession Killer, was an American convicted murderer. Lucas was convicted of murdering his mother in 1960 and two others in 1983. He rose to infamy as a claimed serial killer while incarcerated for these crimes when he falsely confessed to approximately 600 other murders to Texas Rangers and other law enforcement officials. Many unsolved cases were closed based </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/henry-lee-lucas-20260630.mp3" type="audio/mpeg" length="1665120"/>
+      <guid isPermaLink="false">crime-henry-lee-lucas-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 11:44:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ottis Toole</title>
       <description>Ottis Elwood Toole was an American serial killer who was convicted of six counts of murder. Like his companion Henry Lee Lucas, Toole made confessions which resulted in murder convictions, and which he later recanted. The discrediting of the case against Lucas for crimes for which Toole had offered corroborating statements created doubts as to whether either was a genuine serial killer or, as Hugh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ottis-toole-20260630.mp3" type="audio/mpeg" length="1479360"/>
