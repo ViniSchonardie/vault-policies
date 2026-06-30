@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Phineas Gage</title>
+      <description>Phineas P. Gage (1823–1860) was an American railroad construction foreman remembered for his improbable[B1] survival of an accident in which a large iron rod was driven completely through his head, destroying much of his brain's left frontal lobe, and for that injury's reported effects on his personality and behavior over the remaining 12 years of his life‍—‌effects sufficiently profound that frie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/phineas-gage-20260630.mp3" type="audio/mpeg" length="1799520"/>
+      <guid isPermaLink="false">medical-phineas-gage-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 15:43:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Agent Orange</title>
       <description>Agent Orange is a chemical herbicide and defoliant. During the Vietnam War, the United States Armed Forces along with the South Vietnamese military used it in Operation Ranch Hand (1962–1971), part of a broader herbicidal warfare campaign intended to deprive the People's Army of Vietnam/Viet Cong of vegetation cover. It was one of a group of tactical-use herbicides, known as Rainbow Herbicides. Ag</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/agent-orange-20260630.mp3" type="audio/mpeg" length="1844160"/>
