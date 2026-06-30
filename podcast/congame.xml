@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pharmally Scandal</title>
+      <description>Pharmally Pharmaceutical Corp. became involved in a scandal over allegations of overpriced medical supplies it supplied to the Philippine government for the latter's response to the COVID-19 pandemic. The Blue Ribbon Committee of the Senate of the Philippines launched an investigation into the matter and uncovered other issues, such as the supplied face shields' alleged substandard quality and how</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/pharmally-scandal-20260630.mp3" type="audio/mpeg" length="2077440"/>
+      <guid isPermaLink="false">congame-pharmally-scandal-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 17:52:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Onecoin</title>
       <description>OneCoin is a fraudulent cryptocurrency scheme conducted by offshore companies OneCoin Ltd (based in Bulgaria and registered in Dubai) and OneLife Network Ltd (registered in Belize), both founded by Ruja Ignatova in concert with Sebastian Greenwood. OneCoin is considered a Ponzi scheme due to its organisational structure of paying early investors using money obtained from newer ones. It was also a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/onecoin-20260630.mp3" type="audio/mpeg" length="1933440"/>
