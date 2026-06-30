@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Allosaurus</title>
+      <description>Allosaurus ( AL-o-SAWR-us) is a genus of theropod dinosaur that lived 155 to 143 million years ago during the late Jurassic period (latest Oxfordian to latest Tithonian ages). The first fossil remains that could definitively be ascribed to this genus were described in 1877 by Othniel C. Marsh. The name "Allosaurus" means "different lizard", alluding to its lightweight vertebrae, which Marsh believ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/allosaurus-20260630.mp3" type="audio/mpeg" length="1894080"/>
+      <guid isPermaLink="false">prehistoric-allosaurus-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 23:21:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trilobite</title>
       <description>Trilobites (; meaning "three-lobed entities") are extinct marine arthropods that form the class Trilobita. One of the earliest groups of arthropods to appear in the fossil record, trilobites were among the most successful of all early animals, existing in oceans for almost 270 million years, with over 22,000 species having been described.
 Because trilobites had wide diversity and an easily fossili</description>
