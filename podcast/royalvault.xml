@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Conwy Castle</title>
+      <description>Conwy Castle (Welsh: Castell Conwy; Welsh pronunciation: [kastɛɬ 'kɔnwɨ̞]) is a fortification in Conwy, located in North Wales. It was built by Edward I, during his conquest of Wales, between 1283 and 1287. Constructed as part of a wider project to create the walled town of Conwy, the combined defences cost around £15,000, a massive sum for the period. Over the next few centuries, the castle playe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/conwy-castle-20260630.mp3" type="audio/mpeg" length="1923360"/>
+      <guid isPermaLink="false">royal-conwy-castle-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 18:35:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lotf Ali Khan</title>
       <description>Lotf Ali Khan (Persian: لطفعلی‌خان زند; c. 1769 – 1794) was the last ruler of Iran from the Zand dynasty, ruling from 1789 to 1794.
 
