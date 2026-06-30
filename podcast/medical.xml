@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Agent Orange</title>
+      <description>Agent Orange is a chemical herbicide and defoliant. During the Vietnam War, the United States Armed Forces along with the South Vietnamese military used it in Operation Ranch Hand (1962–1971), part of a broader herbicidal warfare campaign intended to deprive the People's Army of Vietnam/Viet Cong of vegetation cover. It was one of a group of tactical-use herbicides, known as Rainbow Herbicides. Ag</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/agent-orange-20260630.mp3" type="audio/mpeg" length="1844160"/>
+      <guid isPermaLink="false">medical-agent-orange-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 08:30:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cholera</title>
       <description>Cholera () is an infection of the small intestine by some strains of the bacterium Vibrio cholerae. Symptoms may range from none, to mild, to severe. The classic symptom is large amounts of watery diarrhea lasting a few days. Vomiting and muscle cramps may also occur. Diarrhea can be so severe that it leads within hours to severe dehydration and electrolyte imbalance. This can in turn result in su</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/cholera-20260629.mp3" type="audio/mpeg" length="1883520"/>
