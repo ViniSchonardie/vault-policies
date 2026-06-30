@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1952 Kern County earthquake</title>
+      <description>The 1952 Kern County earthquake occurred on July 21 in the southern San Joaquin Valley and measured 7.3 on the moment magnitude scale. The main shock occurred at 4:52 am Pacific Daylight Time (11:52 UTC), killed 12 people, injured hundreds more and caused an estimated $60 million in property damage. A small sector of damage near Bealville corresponded to a maximum Mercalli intensity of XI (Extreme</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1952-kern-county-earthquake-20260630.mp3" type="audio/mpeg" length="1651680"/>
+      <guid isPermaLink="false">history-1952-kern-county-earthquake-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 23:23:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1965 Rat Islands earthquake</title>
       <description>The 1965 Rat Islands earthquake occurred at 05:01 UTC, on 4 February (19:01, 3 February local time). It had a magnitude of 8.7, making it one of the largest earthquakes in recorded history, and triggered a tsunami of over 10 m on Shemya Island, but caused very little damage.
 
