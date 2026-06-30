@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>David Carpenter</title>
+      <description>David Joseph Carpenter, also called the Trailside Killer, is an American serial killer and sex offender who raped and murdered various victims in the San Francisco Bay Area between 1979 and 1981. He was sentenced to death for seven murders and is believed to be responsible for several more.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-carpenter-20260630.mp3" type="audio/mpeg" length="1827840"/>
+      <guid isPermaLink="false">crime-david-carpenter-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 19:06:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henry Lee Lucas</title>
       <description>Henry Lee Lucas, also known as The Confession Killer, was an American convicted murderer. Lucas was convicted of murdering his mother in 1960 and two others in 1983. He rose to infamy as a claimed serial killer while incarcerated for these crimes when he falsely confessed to approximately 600 other murders to Texas Rangers and other law enforcement officials. Many unsolved cases were closed based </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/henry-lee-lucas-20260630.mp3" type="audio/mpeg" length="1665120"/>
