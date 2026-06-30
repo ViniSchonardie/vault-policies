@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Extermination Camp</title>
+      <description>Nazi Germany used six extermination camps (German: Vernichtungslager), also called death camps (Todeslager), or killing centers (Tötungszentren), in Central Europe, primarily in German-occupied Poland, during World War II to systematically murder over 2.7 million people—mainly Jews—in the Holocaust. The victims of death camps were primarily murdered by gassing, either in permanent installations co</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/extermination-camp-20260630.mp3" type="audio/mpeg" length="1809120"/>
+      <guid isPermaLink="false">trials-extermination-camp-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 10:37:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Croix De Guerre</title>
       <description>The Croix de Guerre (French: [kʁwa də ɡɛʁ], Cross of War) is a military decoration of France. It was first created in 1915 and consists of a square-cross medal on two crossed swords, hanging from a ribbon with various degree pins. The decoration was first awarded during World War I, again in World War II, and in other conflicts; the croix de guerre des théâtres d'opérations extérieures ("cross of </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/croix-de-guerre-20260630.mp3" type="audio/mpeg" length="1895520"/>
