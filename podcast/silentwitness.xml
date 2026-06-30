@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Croix De Guerre</title>
+      <description>The Croix de Guerre (French: [kʁwa də ɡɛʁ], Cross of War) is a military decoration of France. It was first created in 1915 and consists of a square-cross medal on two crossed swords, hanging from a ribbon with various degree pins. The decoration was first awarded during World War I, again in World War II, and in other conflicts; the croix de guerre des théâtres d'opérations extérieures ("cross of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/croix-de-guerre-20260630.mp3" type="audio/mpeg" length="1895520"/>
+      <guid isPermaLink="false">trials-croix-de-guerre-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 00:02:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Konstantin Von Neurath</title>
       <description>Konstantin Hermann Karl Freiherr von Neurath (2 February 1873 – 14 August 1956) was a German politician, diplomat and convicted Nazi war criminal who served as Foreign Minister of Germany between 1932 and 1938.
 Born to a Swabian noble family, Neurath began his diplomatic career in 1901. He fought in World War I and was awarded the Iron Cross for his service. After the war, Neurath served as minist</description>
