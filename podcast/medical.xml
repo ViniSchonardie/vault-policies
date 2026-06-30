@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Louis Pasteur</title>
+      <description>Louis Pasteur (, French: [lwi pastœʁ] ; 27 December 1822 – 28 September 1895) was a French chemist, pharmacist, and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, the last of which was named after him. His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/louis-pasteur-20260630.mp3" type="audio/mpeg" length="1755840"/>
+      <guid isPermaLink="false">medical-louis-pasteur-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 22:13:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Phineas Gage</title>
       <description>Phineas P. Gage (1823–1860) was an American railroad construction foreman remembered for his improbable[B1] survival of an accident in which a large iron rod was driven completely through his head, destroying much of his brain's left frontal lobe, and for that injury's reported effects on his personality and behavior over the remaining 12 years of his life‍—‌effects sufficiently profound that frie</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/phineas-gage-20260630.mp3" type="audio/mpeg" length="1799520"/>
