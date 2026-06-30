@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Itavia Flight 870</title>
+      <description>On 27 June 1980, Itavia Flight 870 (IH 870, AJ 421), a Douglas DC-9 passenger jet en route from Bologna to Palermo, Italy, crashed into the Tyrrhenian Sea between the islands of Ponza and Ustica at 20:59 CEST, killing all 81 occupants on board. Known in Italy as the Ustica massacre ("strage di Ustica"), the disaster led to numerous investigations, as well as legal actions and accusations; it conti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/itavia-flight-870-20260630.mp3" type="audio/mpeg" length="1687680"/>
+      <guid isPermaLink="false">aviation-itavia-flight-870-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 08:37:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flydubai Flight 981</title>
       <description>Flydubai Flight 981 (FZ981/FDB981) was a scheduled international passenger flight from Dubai, United Arab Emirates, to Rostov-on-Don, Russia. On 19 March 2016, the Boeing 737-800 aircraft operating the flight crashed during a go-around, killing all 62 passengers and crew on board. 
 The flight occurred at night and the weather at Rostov-on-Don was poor. Flight 981 aborted its first landing attempt </description>
