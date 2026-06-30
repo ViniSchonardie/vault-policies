@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Licinius</title>
+      <description>Valerius Licinianus Licinius (; Greek: Λικίνιος; c. 265 – 325) was Roman emperor from 308 to 324. For most of his reign, he was the colleague and rival of Constantine I, with whom he co-authored the Edict of Milan that granted official toleration to Christians in the Roman Empire. He was finally defeated at the Battle of Chrysopolis (AD 324), and was later executed on the orders of Constantine. 
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/licinius-20260630.mp3" type="audio/mpeg" length="1857600"/>
+      <guid isPermaLink="false">ancient-licinius-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 21:05:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Francis Walsingham</title>
       <description>Sir Francis Walsingham (c. 1532 – 6 April 1590) was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her "spymaster".
 Born to a well-connected family of gentry, Walsingham attended Cambridge University and travelled in continental Europe before embarking on a career in law at the age of twenty. A committed Protestant, during t</description>
