@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Terra</title>
+      <description>Terra (EOS AM-1) is a multi-national scientific research satellite operated by NASA in a Sun-synchronous orbit around the Earth.  It takes simultaneous measurements of Earth's atmosphere, land, and water to understand how Earth is changing and to identify the consequences for life on Earth. It is the flagship of the Earth Observing System (EOS) and the first satellite of the system which was follo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/terra-20260630.mp3" type="audio/mpeg" length="1932000"/>
+      <guid isPermaLink="false">space-terra-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 17:54:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 6A</title>
       <description>Gemini 6A (officially Gemini VI-A) was a 1965 crewed United States spaceflight in NASA's Gemini program. 
 The mission, flown by Wally Schirra and Thomas P. Stafford, achieved the first crewed rendezvous with another spacecraft, its sister Gemini 7.  Although the Soviet Union had twice previously launched simultaneous pairs of Vostok spacecraft, these established radio contact with each other, but </description>
