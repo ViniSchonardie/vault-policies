@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cougar</title>
+      <description>The cougar ( KOO-gər; Puma concolor), also called puma, mountain lion, catamount, and panther, is a large feline native to the Americas. It inhabits North, Central and South America, making it the most widely distributed wild, terrestrial mammal in the Western Hemisphere, and one of the most widespread in the world. Its range spans Yukon, British Columbia and Alberta in Canada, the Rocky Mountains</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cougar-20260630.mp3" type="audio/mpeg" length="1736640"/>
+      <guid isPermaLink="false">nature-cougar-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cheetah</title>
       <description>The cheetah (Acinonyx jubatus) is a species of large feline and the only living member of the genus Acinonyx. The cheetah is a pursuit predator and the fastest land animal, capable of running at 93–104 km/h (58–65 mph); it has evolved for speed, having powerful hindlimb muscles, long limbs and a flexible spine. The cheetah has a tawny to creamy white or pale buff fur that is marked with evenly spa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cheetah-20260629.mp3" type="audio/mpeg" length="1407840"/>
