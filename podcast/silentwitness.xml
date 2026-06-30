@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>High Court Of Justiciary</title>
+      <description>The High Court of Justiciary (Scottish Gaelic: Àrd-chùirt a' Cheartais) is the supreme criminal court in Scotland. The High Court is both a trial court and a court of appeal. As a trial court, the High Court sits on circuit at Parliament House or in the adjacent Justiciary Building (the former Sheriff Court building) in the Old Town in Edinburgh, or in dedicated buildings in Glasgow and Aberdeen. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/high-court-of-justiciary-20260630.mp3" type="audio/mpeg" length="1912320"/>
+      <guid isPermaLink="false">trials-high-court-of-justiciary-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 17:12:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Extermination Camp</title>
       <description>Nazi Germany used six extermination camps (German: Vernichtungslager), also called death camps (Todeslager), or killing centers (Tötungszentren), in Central Europe, primarily in German-occupied Poland, during World War II to systematically murder over 2.7 million people—mainly Jews—in the Holocaust. The victims of death camps were primarily murdered by gassing, either in permanent installations co</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/extermination-camp-20260630.mp3" type="audio/mpeg" length="1809120"/>
