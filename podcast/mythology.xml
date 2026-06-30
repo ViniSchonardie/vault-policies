@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Athena</title>
+      <description>Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva. Athena was regarded as the patron and protectress of various cities across Greece, particularly the city of Athens, from which she most likely received her name. Her major symbols include owls, olive trees, snakes, a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/athena-20260630.mp3" type="audio/mpeg" length="1131360"/>
+      <guid isPermaLink="false">mythology-athena-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 06:19:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Achilles</title>
       <description>In Greek mythology, Achilles (  ə-KIL-eez) or Achilleus (Ancient Greek: Ἀχιλλεύς, romanized: Achilleús) was a hero of the Trojan War who was known as being the greatest of all the Greek warriors. The central character in Homer's Iliad, he was the son of the Nereid Thetis and Peleus, king of Phthia and famous Argonaut. Achilles was raised in Phthia along with his childhood companion Patroclus and r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/achilles-20260629.mp3" type="audio/mpeg" length="1150560"/>
