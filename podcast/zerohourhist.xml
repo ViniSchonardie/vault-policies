@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1965 Rat Islands earthquake</title>
+      <description>The 1965 Rat Islands earthquake occurred at 05:01 UTC, on 4 February (19:01, 3 February local time). It had a magnitude of 8.7, making it one of the largest earthquakes in recorded history, and triggered a tsunami of over 10 m on Shemya Island, but caused very little damage.
+
+
+== Tectonic setting ==
+The Rat Islands form part of the Aleutian Islands, a chain of volcanic islands forming an island ar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1965-rat-islands-earthquake-20260630.mp3" type="audio/mpeg" length="1633920"/>
+      <guid isPermaLink="false">history-1965-rat-islands-earthquake-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 16:27:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1998 Papua New Guinea earthquake</title>
       <description>The 1998 Papua New Guinea earthquake occurred on July 17 with a moment magnitude of 7.0 and a maximum Mercalli intensity of VIII (Severe). The event occurred on a reverse fault near the north coast region of Papua New Guinea, 25 km (16 mi) from the coast near Aitape and caused a large submarine landslide which caused a tsunami that hit the coast, killing between at least 2,183 and 2,700 people and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1998-papua-new-guinea-earthquake-20260630.mp3" type="audio/mpeg" length="1832160"/>
