@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Onecoin</title>
+      <description>OneCoin is a fraudulent cryptocurrency scheme conducted by offshore companies OneCoin Ltd (based in Bulgaria and registered in Dubai) and OneLife Network Ltd (registered in Belize), both founded by Ruja Ignatova in concert with Sebastian Greenwood. OneCoin is considered a Ponzi scheme due to its organisational structure of paying early investors using money obtained from newer ones. It was also a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/onecoin-20260630.mp3" type="audio/mpeg" length="1933440"/>
+      <guid isPermaLink="false">congame-onecoin-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 10:51:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shawn Merriman Fraudster</title>
       <description>Shawn Richard Merriman, born in 1963, is a former American investment adviser and lay leader in The Church of Jesus Christ of Latter-day Saints (LDS Church). He ran his scheme for more than fifteen years, roughly from 1994 to 2009. Following his conviction for operating a $20 million Ponzi scheme, which has been widely reported in the media as one of the significant examples of affinity fraud in t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/shawn-merriman-fraudster-20260630.mp3" type="audio/mpeg" length="1884000"/>
