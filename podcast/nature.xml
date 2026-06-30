@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Octopus</title>
+      <description>An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the centre point of the eight limbs. An octopus can radically</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/octopus-20260630.mp3" type="audio/mpeg" length="1513920"/>
+      <guid isPermaLink="false">nature-octopus-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 13:07:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cougar</title>
       <description>The cougar ( KOO-gər; Puma concolor), also called puma, mountain lion, catamount, and panther, is a large feline native to the Americas. It inhabits North, Central and South America, making it the most widely distributed wild, terrestrial mammal in the Western Hemisphere, and one of the most widespread in the world. Its range spans Yukon, British Columbia and Alberta in Canada, the Rocky Mountains</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cougar-20260630.mp3" type="audio/mpeg" length="1736640"/>
