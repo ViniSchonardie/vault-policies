@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Black Friday</title>
+      <description>On 9 February 1945, near the end of the Second World War, a force of Allied Bristol Beaufighter aircraft suffered many losses during an attack on the German destroyer Z33 and its escorting vessels; the operation was called Black Friday by the survivors. The German ships were sheltering in a strong defensive position in the Førde Fjord in Sogn og Fjordane county, Norway, forcing the Allied aircraft</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/black-friday-20260630.mp3" type="audio/mpeg" length="1812000"/>
+      <guid isPermaLink="false">warvault-black-friday-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 04:03:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Port Arthur</title>
       <description>The siege of Port Arthur (Japanese: 旅順攻囲戦, romanized: Ryojun Kōisen; Russian: Оборона Порт-Артура, romanized: Oborona Port-Artura; August 1, 1904 – January 2, 1905) was the longest and most violent land battle of the Russo-Japanese War.
 Port Arthur, the deep-water port and Russian naval base at the tip of the Liaodong Peninsula in Manchuria, had been widely regarded as one of the most strongly for</description>
