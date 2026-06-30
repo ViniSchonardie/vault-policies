@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pier Gerlofs Donia</title>
+      <description>Pier Gerlofs Donia (c. 1480 – 28 October 1520) was a Frisian farmer, rebel leader, and pirate. He is best known by his West Frisian nickname Grutte Pier ('Big Pier'; in the pre-1980 West Frisian spelling written as Greate Pier), or by the Dutch translation Grote Pier, which referred to his legendary size, strength, and bravery.
+
+His life is mostly shrouded in legend. Based upon a description now a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/pier-gerlofs-donia-20260630.mp3" type="audio/mpeg" length="1760160"/>
+      <guid isPermaLink="false">pirates-pier-gerlofs-donia-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 09:32:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Operation Dawn Of Gulf Of Aden</title>
       <description>Operation Dawn of Gulf of Aden (Korean: 아덴만 여명 작전) was a naval operation by the Republic of Korea Navy against Somali pirates in the Arabian Sea. The operation was spurred by the pirates' seizure of the South Korean chemical tanker Samho Jewelry. In response, the South Korean government sent a destroyer and 30 naval commandos to retake the ship and rescue its crew. After trailing the tanker for se</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/operation-dawn-of-gulf-of-aden-20260629.mp3" type="audio/mpeg" length="1696800"/>
