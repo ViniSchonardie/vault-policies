@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Skylab 2</title>
+      <description>Skylab 2 (also SL-2 and SLM-1) was the first crewed mission to Skylab, the first American orbital space station. The mission was launched on an Apollo command and service module by a Saturn IB rocket on May 25, 1973, and carried NASA astronauts Pete Conrad, Joseph P. Kerwin, Paul J. Weitz to the station. The name Skylab 2 also refers to the vehicle used for that mission. The Skylab 2 mission estab</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-2-20260630.mp3" type="audio/mpeg" length="1836960"/>
+      <guid isPermaLink="false">space-skylab-2-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 23:20:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Terra</title>
       <description>Terra (EOS AM-1) is a multi-national scientific research satellite operated by NASA in a Sun-synchronous orbit around the Earth.  It takes simultaneous measurements of Earth's atmosphere, land, and water to understand how Earth is changing and to identify the consequences for life on Earth. It is the flagship of the Earth Observing System (EOS) and the first satellite of the system which was follo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/terra-20260630.mp3" type="audio/mpeg" length="1932000"/>
