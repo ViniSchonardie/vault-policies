@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Badminton</title>
+      <description>Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; professional games are played on a rectangular indoor court. Points are</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/badminton-20260630.mp3" type="audio/mpeg" length="1692000"/>
+      <guid isPermaLink="false">sportscrime-badminton-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 18:07:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Barry Bonds</title>
       <description>Barry Lamar Bonds (born July 24, 1964) is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). Bonds was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. He is considered one of the greatest baseball players of all time.
 Recognized as an all-around player, Bonds received a record seven Nation</description>
