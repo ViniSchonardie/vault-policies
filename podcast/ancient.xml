@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Francis Walsingham</title>
+      <description>Sir Francis Walsingham (c. 1532 – 6 April 1590) was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her "spymaster".
+Born to a well-connected family of gentry, Walsingham attended Cambridge University and travelled in continental Europe before embarking on a career in law at the age of twenty. A committed Protestant, during t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/francis-walsingham-20260630.mp3" type="audio/mpeg" length="1830240"/>
+      <guid isPermaLink="false">ancient-francis-walsingham-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 15:29:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Magnus Maximus</title>
       <description>Magnus Maximus (Classical Latin: [ˈmaːgnus ˈmaːksimus]; died 28 August 388) was Roman emperor in the West from 383 to 388. He usurped the throne from emperor Gratian.
 Born in Gallaecia, he served as an officer in Britain under Theodosius the Elder during the Great Conspiracy. In 383, he was proclaimed emperor in Britannia, and in Gaul the next year, while Gratian's brother Valentinian II retained </description>
