@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dover Castle</title>
+      <description>Dover Castle is a medieval castle in Dover, Kent, England and is Grade I listed. It was founded in the 11th century and has been described as the "Key to England" due to its defensive significance throughout history. Some sources say it is the largest castle in England, a title also claimed by Windsor Castle.
+
+
+== History ==
+
+
+=== Iron age ===
+This site may have been fortified with earthworks in t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/dover-castle-20260630.mp3" type="audio/mpeg" length="1713120"/>
+      <guid isPermaLink="false">royal-dover-castle-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 05:13:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peterhof Palace</title>
       <description>The Peterhof Palace (Russian: Петерго́ф, romanized: Petergóf, IPA: [pʲɪtʲɪrˈɡof]; an emulation of German "Peterhof", meaning "Peter's Court") is a series of palaces and gardens located in Petergof, Saint Petersburg, Russia, commissioned by Peter the Great as a direct response to the Palace of Versailles by Louis XIV of France. Originally intending it in 1709 for country habitation, Peter the Great</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/peterhof-palace-20260629.mp3" type="audio/mpeg" length="1829760"/>
