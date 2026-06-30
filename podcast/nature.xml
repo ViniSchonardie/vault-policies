@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Greenland shark</title>
+      <description>The Greenland shark (Somniosus microcephalus), also known as the grey shark or gurry shark, is a large shark of the family Somniosidae ("sleeper sharks"), closely related to the Pacific and southern sleeper sharks. Inhabiting the North Atlantic and Arctic Oceans, they are notable for their exceptional longevity, although they are poorly studied because of the depth and remoteness of their natural </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/greenland-shark-20260630.mp3" type="audio/mpeg" length="1450560"/>
+      <guid isPermaLink="false">nature-greenland-shark-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 20:57:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Octopus</title>
       <description>An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the centre point of the eight limbs. An octopus can radically</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/octopus-20260630.mp3" type="audio/mpeg" length="1513920"/>
