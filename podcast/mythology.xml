@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Odin</title>
+      <description>Odin (; from Old Norse: Óðinn) is a widely revered god in Norse mythology and Germanic paganism. Most surviving information on Odin comes from Norse mythology, but he figures prominently in the recorded history of Northern Europe. This includes the Roman Empire's partial occupation of Germania (c. 2 BCE), the Migration Period (4th–6th centuries CE) and the Viking Age (8th–11th centuries CE). Conse</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/odin-20260630.mp3" type="audio/mpeg" length="1764960"/>
+      <guid isPermaLink="false">mythology-odin-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 12:16:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Athena</title>
       <description>Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva. Athena was regarded as the patron and protectress of various cities across Greece, particularly the city of Athens, from which she most likely received her name. Her major symbols include owls, olive trees, snakes, a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/athena-20260630.mp3" type="audio/mpeg" length="1131360"/>
