@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ottis Toole</title>
+      <description>Ottis Elwood Toole was an American serial killer who was convicted of six counts of murder. Like his companion Henry Lee Lucas, Toole made confessions which resulted in murder convictions, and which he later recanted. The discrediting of the case against Lucas for crimes for which Toole had offered corroborating statements created doubts as to whether either was a genuine serial killer or, as Hugh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ottis-toole-20260630.mp3" type="audio/mpeg" length="1479360"/>
+      <guid isPermaLink="false">crime-ottis-toole-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 05:15:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Starkweather</title>
       <description>Charles Raymond Starkweather was an American spree killer who murdered eleven people in Nebraska and Wyoming between December 1957 and January 1958, when he was nineteen years old. He killed ten of his victims between January 21 and January 29, 1958, the date of his arrest. During his spree in 1958, Starkweather was accompanied by his fourteen-year-old girlfriend, Caril Ann Fugate.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-starkweather-20260629.mp3" type="audio/mpeg" length="1686240"/>
