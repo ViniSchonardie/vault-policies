@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest Airlines Flight 1455</title>
+      <description>Southwest Airlines Flight 1455 was a scheduled passenger flight from 
+McCarran International Airport, Las Vegas, Nevada, to Burbank-Glendale-Pasadena Airport, Burbank, California, that overran the runway during landing on March 5, 2000. The aircraft, a Boeing 737-3T5, registration N668SW, came to rest on a city street adjacent to a Chevron gas station. The National Transportation Safety Board foun</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1455-20260630.mp3" type="audio/mpeg" length="1473600"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1455-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 22:13:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAROM Flight 371</title>
       <description>TAROM Flight 371 was a scheduled international passenger flight from Otopeni International Airport in Romania's capital Bucharest to Brussels Airport in Belgium. On 31 March 1995, the Airbus A310 operating flight 371 entered a steep turn and  dive shortly after takeoff, crashing near Balotești in Romania, killing all 60 people on board. The flight was operated by TAROM, the flag carrier of Romania</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tarom-flight-371-20260630.mp3" type="audio/mpeg" length="1449120"/>
