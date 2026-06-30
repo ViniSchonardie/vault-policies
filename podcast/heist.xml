@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Butch Cassidy's Wild Bunch</title>
+      <description>Butch Cassidy's Wild Bunch was one of the loosely organized outlaw gangs operating out of the Hole-in-the-Wall, near Kaycee in Wyoming, a natural fortress of caves, with a narrow entrance that was constantly guarded. In the beginning, the gang was referred to as the "Hole in the Wall Gang" during the Old West era in the United States. It was popularized by the 1969 movie, Butch Cassidy and the Sun</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/butch-cassidys-wild-bunch-20260630.mp3" type="audio/mpeg" length="1833600"/>
+      <guid isPermaLink="false">heist-butch-cassidys-wild-bunch-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 08:03:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Isabella Stewart Gardner</title>
       <description>Isabella Stewart Gardner (née Stewart; April 14, 1840 – July 17, 1924) was an American art collector, philanthropist, and patron of the arts. She founded the Isabella Stewart Gardner Museum in Boston.
 Gardner was noted for her intellectual curiosity and love of travel. She was a friend of noted artists and writers of the day, including John Singer Sargent, James McNeill Whistler, Dennis Miller Bun</description>
