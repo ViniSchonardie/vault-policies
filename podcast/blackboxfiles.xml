@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TAROM Flight 371</title>
+      <description>TAROM Flight 371 was a scheduled international passenger flight from Otopeni International Airport in Romania's capital Bucharest to Brussels Airport in Belgium. On 31 March 1995, the Airbus A310 operating flight 371 entered a steep turn and  dive shortly after takeoff, crashing near Balotești in Romania, killing all 60 people on board. The flight was operated by TAROM, the flag carrier of Romania</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tarom-flight-371-20260630.mp3" type="audio/mpeg" length="1449120"/>
+      <guid isPermaLink="false">aviation-tarom-flight-371-20260630</guid>
+      <pubDate>Tue, 30 Jun 2026 15:40:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Itavia Flight 870</title>
       <description>On 27 June 1980, Itavia Flight 870 (IH 870, AJ 421), a Douglas DC-9 passenger jet en route from Bologna to Palermo, Italy, crashed into the Tyrrhenian Sea between the islands of Ponza and Ustica at 20:59 CEST, killing all 81 occupants on board. Known in Italy as the Ustica massacre ("strage di Ustica"), the disaster led to numerous investigations, as well as legal actions and accusations; it conti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/itavia-flight-870-20260630.mp3" type="audio/mpeg" length="1687680"/>
