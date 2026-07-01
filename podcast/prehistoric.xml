@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Brachiosaurus</title>
+      <description>Brachiosaurus () is a genus of sauropod dinosaur that lived in North America during the Late Jurassic, about 155.6 to 145.5 million years ago. It was first described by American paleontologist Elmer S. Riggs in 1903 from fossils found in the Colorado River valley in western Colorado, United States. Riggs named the dinosaur Brachiosaurus altithorax; the generic name is Greek for "arm lizard", in re</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/brachiosaurus-20260701.mp3" type="audio/mpeg" length="1491360"/>
+      <guid isPermaLink="false">prehistoric-brachiosaurus-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 16:26:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dilophosaurus</title>
       <description>Dilophosaurus ( dy-LOH-fə-SOR-əs, -⁠foh-) is a genus of theropod dinosaurs that lived in what is now North America during the Early Jurassic, about 186 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942. The most complete specimen became the holotype of a new species in the genus Megalosaurus, named M. wetherilli by Sam</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dilophosaurus-20260701.mp3" type="audio/mpeg" length="1894080"/>
