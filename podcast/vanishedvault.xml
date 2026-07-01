@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>D. B. Cooper</title>
+      <description>Dan Cooper, best known as D. B. Cooper, was the alias of an unidentified man who hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington, on November 24, 1971. Cooper told the flight crew he had a bomb and demanded $200,000 in ransom (equivalent to $1,600,000 in 2025) and four parachutes upon landing in Seattle. After releasing the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/d-b-cooper-20260701.mp3" type="audio/mpeg" length="1905600"/>
+      <guid isPermaLink="false">shadow-d-b-cooper-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 17:15:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amelia Earhart</title>
       <description>Amelia Mary Earhart ( AIR-hart; born July 24, 1897; disappeared July 2, 1937; declared dead January 5, 1939) was an American aviator and aviation pioneer who became one of the most celebrated figures of early flight.  
 In 1928, she was the first female passenger to cross the Atlantic by airplane. In 1932, she became the first woman to make a nonstop solo transatlantic flight, and was awarded the D</description>
