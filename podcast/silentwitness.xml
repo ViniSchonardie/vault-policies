@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Beer Hall Putsch Trial</title>
+      <description>The Beer Hall Putsch trial (also known as the Hitler trial or Hitler-Ludendorff trial) was the criminal proceeding against Adolf Hitler and other leaders of the failed coup attempt of 9 November 1923. The trial was held from 26 February to 1 April 1924 before the Bavarian People's Court in Munich.
+The conduct of the trial by presiding judge Georg Neithardt, who imposed far milder sentences than pr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/beer-hall-putsch-trial-20260701.mp3" type="audio/mpeg" length="1884960"/>
+      <guid isPermaLink="false">trials-beer-hall-putsch-trial-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 17:19:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>High Command Trial</title>
       <description>The High Command Trial (officially, The United States of America vs. Wilhelm von Leeb, et al.), also known initially as Case No. 12 (the 13 Generals' Trial), and later as Case No. 72 (the German high command trial: Trial of Wilhelm von Leeb and thirteen others), was the last of the twelve trials for war crimes the U.S. authorities held in their occupation zone of Germany in Nuremberg after the end</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/high-command-trial-20260701.mp3" type="audio/mpeg" length="1801440"/>
