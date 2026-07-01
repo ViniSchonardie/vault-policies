@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Balaclava</title>
+      <description>The Battle of Balaclava, fought on 25 October 1854 during the Crimean War, was part of the Siege of Sevastopol (1854–55), an attempt by the British, French and Ottoman allies to capture the port and fortress of Sevastopol, Russia's principal naval base on the Black Sea. The engagement followed the earlier Allied victory in September at the Battle of the Alma, where the Russian General Menshikov ha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-balaclava-20260701.mp3" type="audio/mpeg" length="1591200"/>
+      <guid isPermaLink="false">warvault-battle-of-balaclava-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 09:46:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Masada</title>
       <description>The hilltop fortress of Masada, in present-day Israel, was successfully besieged and taken by Roman imperial forces between 72 and 73 AD, during the final period of the First Jewish–Roman War. At the time, the fortress was held by members of the Sicarii rebel group. The siege is recorded by a single contemporary written source, The Jewish War by Josephus. According to Josephus, the long siege ende</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-masada-20260701.mp3" type="audio/mpeg" length="1829760"/>
