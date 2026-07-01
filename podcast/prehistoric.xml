@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dilophosaurus</title>
+      <description>Dilophosaurus ( dy-LOH-fə-SOR-əs, -⁠foh-) is a genus of theropod dinosaurs that lived in what is now North America during the Early Jurassic, about 186 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942. The most complete specimen became the holotype of a new species in the genus Megalosaurus, named M. wetherilli by Sam</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dilophosaurus-20260701.mp3" type="audio/mpeg" length="1894080"/>
+      <guid isPermaLink="false">prehistoric-dilophosaurus-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 10:00:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Allosaurus</title>
       <description>Allosaurus ( AL-o-SAWR-us) is a genus of theropod dinosaur that lived 155 to 143 million years ago during the late Jurassic period (latest Oxfordian to latest Tithonian ages). The first fossil remains that could definitively be ascribed to this genus were described in 1877 by Othniel C. Marsh. The name "Allosaurus" means "different lizard", alluding to its lightweight vertebrae, which Marsh believ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/allosaurus-20260630.mp3" type="audio/mpeg" length="1894080"/>
