@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lambeth Palace</title>
+      <description>Lambeth Palace is the official London residence of the Archbishop of Canterbury. It is situated in north Lambeth, London, on the south bank of the River Thames, 400 yards (370 metres) south-east of the Palace of Westminster, which houses Parliament, on the opposite bank.
+Close to Westminster and the City, the estate was first acquired by the archbishopric for the archbishop (who also has a residen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/lambeth-palace-20260701.mp3" type="audio/mpeg" length="1647840"/>
+      <guid isPermaLink="false">royal-lambeth-palace-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 19:01:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leeds Castle</title>
       <description>Leeds Castle is a castle in Kent, England, 7 miles (11 km) southeast of Maidstone. It is built on islands in a lake formed by the River Len to the east of the village of Leeds and is a historic Grade I listed estate.
 A castle has existed on the site since 857. In the 13th century, it came into the hands of King Edward I, for whom it became a favourite residence; in the 16th century, Henry VIII use</description>
