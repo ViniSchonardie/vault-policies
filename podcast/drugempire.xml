@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black Mafia Family</title>
+      <description>The Black Mafia Family (BMF) is a drug trafficking and money laundering organization in the United States. It was founded in 1985, in Southwest Detroit, by brothers Demetrius Edward "Big Meech" and Terry Lee "Southwest Tee" Flenory. By 2000, it had established cocaine distribution sales throughout the United States through its Los Angeles–based drug source and direct links to Mexican drug cartels.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/black-mafia-family-20260701.mp3" type="audio/mpeg" length="1949280"/>
+      <guid isPermaLink="false">drugempire-black-mafia-family-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 17:14:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Organized crime</title>
       <description>Organized crime refers to transnational, national, or local groups of centralized enterprises that engage in illegal activities, most commonly for profit. While organized crime is generally considered a form of illegal business, some criminal organizations, such as terrorist groups, rebel groups, and separatists, are politically motivated. Many criminal organizations rely on fear or terror to achi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/organized-crime-20260701.mp3" type="audio/mpeg" length="1514880"/>
