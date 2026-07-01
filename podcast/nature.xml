@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shark</title>
+      <description>Sharks are a group of elasmobranch cartilaginous fishes characterized by a ribless endoskeleton, dermal denticles, five to seven gill slits on each side, and pectoral fins that are not fused to the head. Modern sharks are classified within the division Selachii and are the sister group to the Batomorphi (rays and skates). Some sources extend the term "shark" as an informal category including extin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/shark-20260701.mp3" type="audio/mpeg" length="1628640"/>
+      <guid isPermaLink="false">nature-shark-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 13:35:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hippopotamus</title>
       <description>The hippopotamus (Hippopotamus amphibius; ; pl.: hippopotamuses), often shortened to hippo (pl.: hippos), further qualified as the common hippopotamus, Nile hippopotamus and river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa. It is one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus (Choeropsis liberiensis or Hexaprotodon </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/hippopotamus-20260701.mp3" type="audio/mpeg" length="1706880"/>
