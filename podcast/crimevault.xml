@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bobby Joe Long</title>
+      <description>Bobby Joe Long was an American serial killer and rapist. During an eight-month period in 1984, Long abducted, sexually assaulted, and murdered at least ten women in the Tampa Bay area in Florida. At trial, Long was sentenced to death for one of the murders and life for seven others. He was sentenced to death in 1986 by the state of Florida for the murder of Michelle Denise Simms. He was executed b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/bobby-joe-long-20260701.mp3" type="audio/mpeg" length="1876320"/>
+      <guid isPermaLink="false">crime-bobby-joe-long-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 05:33:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>David Carpenter</title>
       <description>David Joseph Carpenter, also called the Trailside Killer, is an American serial killer and sex offender who raped and murdered various victims in the San Francisco Bay Area between 1979 and 1981. He was sentenced to death for seven murders and is believed to be responsible for several more.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-carpenter-20260630.mp3" type="audio/mpeg" length="1827840"/>
