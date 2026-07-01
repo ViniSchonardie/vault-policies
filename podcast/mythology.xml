@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hermes</title>
+      <description>Hermes (; Ancient Greek: Ἑρμῆς) is an Olympian deity in ancient Greek religion and mythology considered the herald of the gods. He is also widely considered the protector of human heralds, travelers, thieves, merchants, and orators. He is able to move quickly and freely between the worlds of the mortal and the divine aided by his winged sandals. Hermes plays the role of the psychopomp or "soul gui</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hermes-20260701.mp3" type="audio/mpeg" length="1877760"/>
+      <guid isPermaLink="false">mythology-hermes-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 12:41:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dionysus</title>
       <description>In ancient Greek religion and myth, Dionysus ( ; Ancient Greek: Διόνυσος Diónysos) is the god of wine-making, orchards, fruit, vegetation, fertility, festivity, insanity, ritual madness, religious ecstasy, and theatre. He was also known as Bacchus ( or ; Ancient Greek: Βάκχος Bacchos) by the Greeks (a name later adopted by the Romans) for a frenzy he is said to induce called baccheia. His wine, mu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/dionysus-20260701.mp3" type="audio/mpeg" length="1246560"/>
