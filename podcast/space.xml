@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 5</title>
+      <description>Gemini 5 (officially Gemini V)
+was a 1965 crewed spaceflight in NASA's Project Gemini. It was the third crewed Gemini flight, the eleventh crewed American spaceflight (including two X-15 flights above 100 kilometers (54 nmi)), and the nineteenth human spaceflight. It was also the first time an American crewed space mission held the world record for duration, set on August 26, 1965, by breaking the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-5-20260701.mp3" type="audio/mpeg" length="1824960"/>
+      <guid isPermaLink="false">space-gemini-5-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 23:22:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 21</title>
       <description>Shenzhou 21 (Chinese: 神舟二十一号; pinyin: Shénzhōu èrshíyī-hào; lit. 'Divine Boat Number 21') was a Chinese spaceflight to the Tiangong space station, launched on 31 October 2025. It carried three taikonauts on board a Shenzhou spacecraft. The mission was the 16th crewed Chinese spaceflight and the 21st flight overall of the Shenzhou program. The flight marked the tenth crew rotation to the Tiangong s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-21-20260701.mp3" type="audio/mpeg" length="1724160"/>
