@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Thalidomide</title>
+      <description>Thalidomide, sold under the brand names Contergan, Distaval and Thalomid among others, is an oral administered medication used to treat a number of cancers (e.g., multiple myeloma), graft-versus-host disease, and many skin disorders (e.g., complications of leprosy such as skin lesions). Thalidomide has been used to treat conditions associated with HIV: aphthous ulcers, HIV-associated wasting syndr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/thalidomide-20260701.mp3" type="audio/mpeg" length="1864800"/>
+      <guid isPermaLink="false">medical-thalidomide-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 22:17:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Radium Girls</title>
       <description>The Radium Girls were female factory workers who contracted radiation poisoning from painting radium dials – watch dials and hands with self-luminous paint. The incidents occurred at three factories in the United States: one in Orange, New Jersey, beginning around 1917; one in Ottawa, Illinois, beginning in the early 1920s; and one in Waterbury, Connecticut, also in the 1920s.
 After being told tha</description>
