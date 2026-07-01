@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Philippi</title>
+      <description>The Battle of Philippi formed part of the Western Virginia Campaign of the American Civil War and was fought in and around Philippi, Virginia (now West Virginia), on June 3, 1861. A Union Army victory, it was the first organized land action of the war but is generally viewed as a skirmish rather than a battle. 
+The Northern press, however, celebrated it as an epic triumph, which encouraged Congres</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-philippi-20260701.mp3" type="audio/mpeg" length="2019840"/>
+      <guid isPermaLink="false">warvault-battle-of-philippi-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 11:29:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Balaclava</title>
       <description>The Battle of Balaclava, fought on 25 October 1854 during the Crimean War, was part of the Siege of Sevastopol (1854–55), an attempt by the British, French and Ottoman allies to capture the port and fortress of Sevastopol, Russia's principal naval base on the Black Sea. The engagement followed the earlier Allied victory in September at the Battle of the Alma, where the Russian General Menshikov ha</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-balaclava-20260701.mp3" type="audio/mpeg" length="1591200"/>
