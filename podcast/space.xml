@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aura</title>
+      <description>Aura (EOS CH-1) is a multi-national NASA scientific research satellite in orbit around the Earth, studying the Earth's ozone layer, air quality and climate. It is the third major component of the Earth Observing System (EOS) following on Terra (launched 1999) and Aqua (launched 2002). Aura follows on from the Upper Atmosphere Research Satellite (UARS). Aura is a joint mission between NASA, the Net</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/aura-20260701.mp3" type="audio/mpeg" length="1905600"/>
+      <guid isPermaLink="false">space-aura-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 12:33:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Skylab 2</title>
       <description>Skylab 2 (also SL-2 and SLM-1) was the first crewed mission to Skylab, the first American orbital space station. The mission was launched on an Apollo command and service module by a Saturn IB rocket on May 25, 1973, and carried NASA astronauts Pete Conrad, Joseph P. Kerwin, Paul J. Weitz to the station. The name Skylab 2 also refers to the vehicle used for that mission. The Skylab 2 mission estab</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-2-20260630.mp3" type="audio/mpeg" length="1836960"/>
