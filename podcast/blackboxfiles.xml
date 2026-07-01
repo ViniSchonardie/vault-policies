@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Airlines Flight 642</title>
+      <description>China Airlines Flight 642 was a scheduled flight that crashed at Hong Kong (Chek Lap Kok) International Airport on 22 August 1999. It was operating from Bangkok (Bangkok International Airport, now renamed as Don Mueang International Airport) to Taipei with a stopover in Hong Kong.
+The plane, a McDonnell Douglas MD-11 (registration B-150), touched down hard during landing, flipped over and caught f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-642-20260701.mp3" type="audio/mpeg" length="1494240"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-642-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 15:52:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Northwest Airlines Flight 85</title>
       <description>Northwest Airlines Flight 85 was a scheduled international passenger flight from Detroit Metropolitan Wayne County Airport in the United States to Narita International Airport in Japan. On October 9, 2002, while over the Bering Sea, the Boeing 747-400 experienced a lower rudder hardover event, which occurs when an aircraft's rudder deflects to its travel limit without crew input. The 747's hardove</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-airlines-flight-85-20260701.mp3" type="audio/mpeg" length="1634880"/>
