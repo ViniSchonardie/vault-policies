@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Carinus</title>
+      <description>Marcus Aurelius Carinus (died 285) was Roman Emperor from 283 to 285. The eldest son of the Emperor Carus, he was first appointed Caesar in late 282, then given the title of Augustus in early 283, and made co-emperor of the western part of the Empire by his father. Official accounts of his character and career, which portray him as dissolute and incompetent, have been filtered through the propagan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/carinus-20260701.mp3" type="audio/mpeg" length="1796160"/>
+      <guid isPermaLink="false">ancient-carinus-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 20:55:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cyaxares</title>
       <description>Cyaxares was the third king of the Medes. He ascended to the throne in 625 BC, after his father Phraortes lost his life in a battle against the Assyrians, probably Ashurbanipal. Assyrian allies, the Scythians then ruled Media for 28 years before Cyaxeres overthrew Scythian domination and became king.
 Cyaxares collaborated with the Babylonians to destroy the Assyrian Empire, and united most of the </description>
