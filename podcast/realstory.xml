@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Francis Drake</title>
+      <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/francis-drake-20260701.mp3" type="audio/mpeg" length="1786080"/>
+      <guid isPermaLink="false">realstory-francis-drake-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 00:03:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Julius Caesar</title>
       <description>Julius Caesar, the Roman dictator, was assassinated on the Ides of March (15 March), 44 BC, by a group of senators during a Senate session at the Curia of Pompey, located within the Theatre of Pompey in Rome. The conspirators, numbering 60 individuals and led by Marcus Junius Brutus, Gaius Cassius Longinus, and Decimus Junius Brutus Albinus, stabbed Caesar approximately 23 times. They justified th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-julius-caesar-20260630.mp3" type="audio/mpeg" length="1816800"/>
