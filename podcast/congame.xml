@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bernie Madoff</title>
+      <description>Bernard Lawrence  Madoff (; April 29, 1938 – April 14, 2021) was an American financier, con artist, and stock broker who was the admitted mastermind of the largest-known Ponzi scheme in history, worth an estimated $65 billion. He was at one time chairman of the Nasdaq stock exchange. Madoff's firm had two basic units: a stock brokerage and an asset management business; the Ponzi scheme was centere</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/bernie-madoff-20260701.mp3" type="audio/mpeg" length="1323840"/>
+      <guid isPermaLink="false">congame-bernie-madoff-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 02:10:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pharmally Scandal</title>
       <description>Pharmally Pharmaceutical Corp. became involved in a scandal over allegations of overpriced medical supplies it supplied to the Philippine government for the latter's response to the COVID-19 pandemic. The Blue Ribbon Committee of the Senate of the Philippines launched an investigation into the matter and uncovered other issues, such as the supplied face shields' alleged substandard quality and how</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/pharmally-scandal-20260630.mp3" type="audio/mpeg" length="2077440"/>
