@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Deshaun Watson</title>
+      <description>Derrick Deshaun Watson (born September 14, 1995) is an American professional football quarterback for the Cleveland Browns of the National Football League (NFL). He played college football for the Clemson Tigers, leading the team to a national championship in 2016. Watson was selected in the first round of the 2017 NFL draft by the Houston Texans.
+After having a productive rookie season cut short </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/deshaun-watson-20260701.mp3" type="audio/mpeg" length="1712160"/>
+      <guid isPermaLink="false">sportscrime-deshaun-watson-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 18:07:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pakistan national cricket team</title>
       <description>The Pakistan men's national cricket team represents Pakistan in international cricket. It is controlled by the Pakistan Cricket Board (PCB), the governing body for cricket in Pakistan, which is a Full Member of the International Cricket Council (ICC). Pakistan compete in cricket tours and tournaments sanctioned by the PCB and other regional or international cricket bodies in Test, One Day Internat</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/pakistan-national-cricket-team-20260701.mp3" type="audio/mpeg" length="1390560"/>
