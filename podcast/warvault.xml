@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Masada</title>
+      <description>The hilltop fortress of Masada, in present-day Israel, was successfully besieged and taken by Roman imperial forces between 72 and 73 AD, during the final period of the First Jewish–Roman War. At the time, the fortress was held by members of the Sicarii rebel group. The siege is recorded by a single contemporary written source, The Jewish War by Josephus. According to Josephus, the long siege ende</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-masada-20260701.mp3" type="audio/mpeg" length="1829760"/>
+      <guid isPermaLink="false">warvault-siege-of-masada-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 04:17:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Allied invasion of Italy</title>
       <description>The Allied invasion of Italy was the Allied amphibious landing on mainland Italy that took place from 3 September 1943, during the Italian campaign of World War II. The operation was undertaken by General Sir Harold Alexander's 15th Army Group (comprising General Mark W. Clark's American Fifth Army and General Bernard Montgomery's British Eighth Army) and followed the successful Allied invasion of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/allied-invasion-of-italy-20260630.mp3" type="audio/mpeg" length="1830240"/>
