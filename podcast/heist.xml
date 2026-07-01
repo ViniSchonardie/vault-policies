@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Al Capone</title>
+      <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
+Capone was born in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/al-capone-20260701.mp3" type="audio/mpeg" length="1674240"/>
+      <guid isPermaLink="false">heist-al-capone-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:24:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Northern Bank robbery</title>
       <description>On 20 December 2004, £26.5 million in cash was stolen from the headquarters of Northern Bank on Donegall Square West in Belfast, Northern Ireland. Having taken family members of two bank officials hostage, an armed gang forced the workers to help them steal both used and unused pound sterling banknotes. The money was then loaded into a van and driven away in two trips. This was one of the largest </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/northern-bank-robbery-20260630.mp3" type="audio/mpeg" length="1787520"/>
