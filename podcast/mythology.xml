@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dionysus</title>
+      <description>In ancient Greek religion and myth, Dionysus ( ; Ancient Greek: Διόνυσος Diónysos) is the god of wine-making, orchards, fruit, vegetation, fertility, festivity, insanity, ritual madness, religious ecstasy, and theatre. He was also known as Bacchus ( or ; Ancient Greek: Βάκχος Bacchos) by the Greeks (a name later adopted by the Romans) for a frenzy he is said to induce called baccheia. His wine, mu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/dionysus-20260701.mp3" type="audio/mpeg" length="1246560"/>
+      <guid isPermaLink="false">mythology-dionysus-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 06:35:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hanuman</title>
       <description>Hanuman (; Sanskrit: हनुमान्, IAST: Hanumān), also known as Maruti, Bajrangabali, and Anjaneya, is a deity in Hinduism, revered as a divine vanara, and a devoted companion of Lord Rama. Central to the Ramayana, Hanuman is celebrated for his unwavering devotion to Rama and is considered a chiranjivi. He is traditionally believed to be the spiritual offspring of the celestial wind-god Vayu. In Shaiv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hanuman-20260630.mp3" type="audio/mpeg" length="1599840"/>
