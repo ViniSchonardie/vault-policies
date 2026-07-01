@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Polio</title>
+      <description>Poliomyelitis ( POH-lee-oh-MY-ə-LY-tiss), commonly shortened to polio, is an infectious disease caused by the poliovirus. Approximately 75% of cases are asymptomatic; mild symptoms which can occur include sore throat and fever; in a proportion of cases more severe symptoms develop such as headache, neck stiffness, and paresthesia. These symptoms usually pass within one or two weeks. A less common </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/polio-20260701.mp3" type="audio/mpeg" length="1672800"/>
+      <guid isPermaLink="false">medical-polio-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Louis Pasteur</title>
       <description>Louis Pasteur (, French: [lwi pastœʁ] ; 27 December 1822 – 28 September 1895) was a French chemist, pharmacist, and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, the last of which was named after him. His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/louis-pasteur-20260630.mp3" type="audio/mpeg" length="1755840"/>
