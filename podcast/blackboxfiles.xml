@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Northwest Airlines Flight 85</title>
+      <description>Northwest Airlines Flight 85 was a scheduled international passenger flight from Detroit Metropolitan Wayne County Airport in the United States to Narita International Airport in Japan. On October 9, 2002, while over the Bering Sea, the Boeing 747-400 experienced a lower rudder hardover event, which occurs when an aircraft's rudder deflects to its travel limit without crew input. The 747's hardove</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-airlines-flight-85-20260701.mp3" type="audio/mpeg" length="1634880"/>
+      <guid isPermaLink="false">aviation-northwest-airlines-flight-85-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 09:01:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest Airlines Flight 1455</title>
       <description>Southwest Airlines Flight 1455 was a scheduled passenger flight from 
 McCarran International Airport, Las Vegas, Nevada, to Burbank-Glendale-Pasadena Airport, Burbank, California, that overran the runway during landing on March 5, 2000. The aircraft, a Boeing 737-3T5, registration N668SW, came to rest on a city street adjacent to a Chevron gas station. The National Transportation Safety Board foun</description>
