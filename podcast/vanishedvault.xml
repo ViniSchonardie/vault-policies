@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vladimir Putin</title>
+      <description>Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008. Putin also served as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012. He has been described as the de facto leader of Russia since 1999.
+Born in Leningrad (now Saint Petersburg</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/vladimir-putin-20260701.mp3" type="audio/mpeg" length="1850400"/>
+      <guid isPermaLink="false">shadow-vladimir-putin-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 00:08:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1950 Douglas C 54d Disappearance</title>
       <description>On 26 January 1950, the Douglas C-54 Skymaster serial number 42-72469 disappeared en route from Alaska to Montana, with 44 people aboard. The aircraft made its last radio contact two hours into its eight-hour flight. Despite one of the largest rescue efforts carried out by a joint effort between Canadian and US military forces, as of 2026, no trace of the aircraft has been found.
 
