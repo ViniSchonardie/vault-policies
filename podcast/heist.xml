@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>American Mafia</title>
+      <description>The American Mafia, commonly referred to in North America as the Italian-American Mafia, the Mafia, or the Mob, is a highly organized Italian American criminal society and organized crime group. The terms Italian Mafia and Italian Mob apply to these American-based organizations, as well as the separate yet related Sicilian Mafia or other organized crime groups in Italy, or ethnic Italian crime gro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/american-mafia-20260701.mp3" type="audio/mpeg" length="1803360"/>
+      <guid isPermaLink="false">heist-american-mafia-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 21:47:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonnie and Clyde</title>
       <description>Bonnie Elizabeth Parker (October 1, 1910 – May 23, 1934) and Clyde Chestnut "Champion" Barrow (March 24, 1909 – May 23, 1934) were outlaws who traveled the Central United States with their gang during the Great Depression, committing a series of criminal acts such as bank robberies, kidnappings and murders between 1932 and 1934. The couple were known for their bank robberies and multiple murders, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bonnie-and-clyde-20260701.mp3" type="audio/mpeg" length="1646880"/>
