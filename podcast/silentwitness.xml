@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>High Command Trial</title>
+      <description>The High Command Trial (officially, The United States of America vs. Wilhelm von Leeb, et al.), also known initially as Case No. 12 (the 13 Generals' Trial), and later as Case No. 72 (the German high command trial: Trial of Wilhelm von Leeb and thirteen others), was the last of the twelve trials for war crimes the U.S. authorities held in their occupation zone of Germany in Nuremberg after the end</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/high-command-trial-20260701.mp3" type="audio/mpeg" length="1801440"/>
+      <guid isPermaLink="false">trials-high-command-trial-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 10:46:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rusha Trial</title>
       <description>United States of America vs. Ulrich Greifelt, et al., commonly known as the RuSHA trial, was the eighth of the twelve "subsequent Nuremberg trials" for war crimes and crimes against humanity after the end of World War II between 1947 and 1948. The accused were 14 officials of the Race and Settlement Main Office (RuSHA), the Reich Commission for the Consolidation of German Nationhood, the Volksdeut</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rusha-trial-20260701.mp3" type="audio/mpeg" length="2128320"/>
