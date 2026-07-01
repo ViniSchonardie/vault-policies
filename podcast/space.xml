@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 21</title>
+      <description>Shenzhou 21 (Chinese: 神舟二十一号; pinyin: Shénzhōu èrshíyī-hào; lit. 'Divine Boat Number 21') was a Chinese spaceflight to the Tiangong space station, launched on 31 October 2025. It carried three taikonauts on board a Shenzhou spacecraft. The mission was the 16th crewed Chinese spaceflight and the 21st flight overall of the Shenzhou program. The flight marked the tenth crew rotation to the Tiangong s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-21-20260701.mp3" type="audio/mpeg" length="1724160"/>
+      <guid isPermaLink="false">space-shenzhou-21-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 17:52:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aura</title>
       <description>Aura (EOS CH-1) is a multi-national NASA scientific research satellite in orbit around the Earth, studying the Earth's ozone layer, air quality and climate. It is the third major component of the Earth Observing System (EOS) following on Terra (launched 1999) and Aqua (launched 2002). Aura follows on from the Upper Atmosphere Research Satellite (UARS). Aura is a joint mission between NASA, the Net</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/aura-20260701.mp3" type="audio/mpeg" length="1905600"/>
