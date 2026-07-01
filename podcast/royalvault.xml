@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leeds Castle</title>
+      <description>Leeds Castle is a castle in Kent, England, 7 miles (11 km) southeast of Maidstone. It is built on islands in a lake formed by the River Len to the east of the village of Leeds and is a historic Grade I listed estate.
+A castle has existed on the site since 857. In the 13th century, it came into the hands of King Edward I, for whom it became a favourite residence; in the 16th century, Henry VIII use</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/leeds-castle-20260701.mp3" type="audio/mpeg" length="1452480"/>
+      <guid isPermaLink="false">royal-leeds-castle-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 12:02:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Corfe Castle</title>
       <description>Corfe Castle is a fortification standing above the village of the same name on the Isle of Purbeck peninsula in the English county of Dorset. Built by William the Conqueror, the castle dates to the 11th century and commands a gap in the Purbeck Hills on the route between Wareham and Swanage. The first phase was one of the earliest castles in England to be built at least partly using stone when the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/corfe-castle-20260701.mp3" type="audio/mpeg" length="1654560"/>
