@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rusha Trial</title>
+      <description>United States of America vs. Ulrich Greifelt, et al., commonly known as the RuSHA trial, was the eighth of the twelve "subsequent Nuremberg trials" for war crimes and crimes against humanity after the end of World War II between 1947 and 1948. The accused were 14 officials of the Race and Settlement Main Office (RuSHA), the Reich Commission for the Consolidation of German Nationhood, the Volksdeut</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rusha-trial-20260701.mp3" type="audio/mpeg" length="2128320"/>
+      <guid isPermaLink="false">trials-rusha-trial-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 00:07:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>High Court Of Justiciary</title>
       <description>The High Court of Justiciary (Scottish Gaelic: Àrd-chùirt a' Cheartais) is the supreme criminal court in Scotland. The High Court is both a trial court and a court of appeal. As a trial court, the High Court sits on circuit at Parliament House or in the adjacent Justiciary Building (the former Sheriff Court building) in the Old Town in Edinburgh, or in dedicated buildings in Glasgow and Aberdeen. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/high-court-of-justiciary-20260630.mp3" type="audio/mpeg" length="1912320"/>
