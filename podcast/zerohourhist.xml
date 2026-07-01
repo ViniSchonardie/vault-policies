@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2008 Illinois earthquake</title>
+      <description>The 2008 Illinois earthquake was one of the largest earthquakes ever recorded in the Midwest state of Illinois. This moderate strike-slip shock measured 5.2 on the moment magnitude scale and had a maximum Mercalli intensity of VII (Very strong). It occurred at 04:36:59 local time on April 18 near Bellmont and Mount Carmel, Illinois, within the Wabash Valley seismic zone. Earthquakes in this part o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2008-illinois-earthquake-20260701.mp3" type="audio/mpeg" length="1704000"/>
+      <guid isPermaLink="false">history-2008-illinois-earthquake-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 23:25:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026 Jorm earthquake</title>
       <description>On April 3, 2026, a Mw 5.8 earthquake struck the Hindu Kush region of Afghanistan. The epicenter was located 35 kilometres (22 mi) S of Jorm at a depth of 188.0 km (117 mi). Twelve people were killed and six others were injured.
 
