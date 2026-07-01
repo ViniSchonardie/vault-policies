@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pedro Rodrigues Filho</title>
+      <description>Pedro Rodrigues Filho, also known as Pedrinho Matador, Killer Lil' Pedro, Killer Killer Petey, or simply Killer Petey, was a Brazilian serial killer, spree killer, vigilante, and YouTuber known for pursuing and killing other criminals and suspected criminals. He committed most of his crimes as a teenager, when he was between 14 and 19 years old, and was officially sentenced for 71 murders, but cla</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/pedro-rodrigues-filho-20260701.mp3" type="audio/mpeg" length="1324800"/>
+      <guid isPermaLink="false">crime-pedro-rodrigues-filho-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 19:06:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jerry Brudos</title>
       <description>Jerome Henry "Jerry" Brudos was an American serial killer and necrophile known as the Lust Killer and the Shoe Fetish Slayer who committed the kidnap, rape, and murder of four young women between 1968 and 1969 in Salem, Oregon. He is also known to have attempted to abduct two other young women.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jerry-brudos-20260701.mp3" type="audio/mpeg" length="1779360"/>
