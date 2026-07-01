@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hippopotamus</title>
+      <description>The hippopotamus (Hippopotamus amphibius; ; pl.: hippopotamuses), often shortened to hippo (pl.: hippos), further qualified as the common hippopotamus, Nile hippopotamus and river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa. It is one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus (Choeropsis liberiensis or Hexaprotodon </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/hippopotamus-20260701.mp3" type="audio/mpeg" length="1706880"/>
+      <guid isPermaLink="false">nature-hippopotamus-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 07:16:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Greenland shark</title>
       <description>The Greenland shark (Somniosus microcephalus), also known as the grey shark or gurry shark, is a large shark of the family Somniosidae ("sleeper sharks"), closely related to the Pacific and southern sleeper sharks. Inhabiting the North Atlantic and Arctic Oceans, they are notable for their exceptional longevity, although they are poorly studied because of the depth and remoteness of their natural </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/greenland-shark-20260630.mp3" type="audio/mpeg" length="1450560"/>
