@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1999 Hector Mine earthquake</title>
+      <description>The 1999 Hector Mine earthquake occurred in Southern California, United States, on October 16 at 02:46:50 PDT. Its moment magnitude was 7.1 and the earthquake was preceded by 12 foreshocks, the largest of which had a magnitude of 3.8. The event is thought to have been triggered by the 1992 Landers earthquake which occurred seven years earlier. It also deformed nearby faults vertically and horizont</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1999-hector-mine-earthquake-20260701.mp3" type="audio/mpeg" length="1484640"/>
+      <guid isPermaLink="false">history-1999-hector-mine-earthquake-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 09:32:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1952 Kern County earthquake</title>
       <description>The 1952 Kern County earthquake occurred on July 21 in the southern San Joaquin Valley and measured 7.3 on the moment magnitude scale. The main shock occurred at 4:52 am Pacific Daylight Time (11:52 UTC), killed 12 people, injured hundreds more and caused an estimated $60 million in property damage. A small sector of damage near Bealville corresponded to a maximum Mercalli intensity of XI (Extreme</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1952-kern-county-earthquake-20260630.mp3" type="audio/mpeg" length="1651680"/>
