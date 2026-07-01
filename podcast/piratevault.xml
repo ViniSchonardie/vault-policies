@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Francis Drake</title>
+      <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/francis-drake-20260701.mp3" type="audio/mpeg" length="1742880"/>
+      <guid isPermaLink="false">pirates-francis-drake-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 09:45:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blackbeard</title>
       <description>Edward Teach (or Thatch; c. 1680 – 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateering ships during Queen Anne's War before he settled on the Bahamian island of New Providence, a base for Captain Benjami</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/blackbeard-20260630.mp3" type="audio/mpeg" length="1732800"/>
