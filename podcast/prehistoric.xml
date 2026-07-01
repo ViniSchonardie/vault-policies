@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mastodon</title>
+      <description>A mastodon (from Ancient Greek  μαστός (mastós) 'breast' and  ὀδούς (odoús) 'tooth') is a member of the genus Mammut (German for 'mammoth'), which was endemic to North America and lived from the late Miocene to the early Holocene. Mastodons belong to the order Proboscidea, the same order as elephants and mammoths (which belong to the family Elephantidae). Mammut is the type genus of the extinct fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mastodon-20260701.mp3" type="audio/mpeg" length="1613760"/>
+      <guid isPermaLink="false">prehistoric-mastodon-20260701</guid>
+      <pubDate>Wed, 01 Jul 2026 23:24:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brachiosaurus</title>
       <description>Brachiosaurus () is a genus of sauropod dinosaur that lived in North America during the Late Jurassic, about 155.6 to 145.5 million years ago. It was first described by American paleontologist Elmer S. Riggs in 1903 from fossils found in the Colorado River valley in western Colorado, United States. Riggs named the dinosaur Brachiosaurus altithorax; the generic name is Greek for "arm lizard", in re</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/brachiosaurus-20260701.mp3" type="audio/mpeg" length="1491360"/>
