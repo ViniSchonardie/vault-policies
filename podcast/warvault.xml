@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Chasiv Yar</title>
+      <description>The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the cros</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chasiv-yar-20260702.mp3" type="audio/mpeg" length="2030880"/>
+      <guid isPermaLink="false">warvault-battle-of-chasiv-yar-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 10:46:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Kohima</title>
       <description>The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War. It took place in three stages from 4 April to 22 June 1944 around the town of Kohima, now the capital city of the state of Nagaland in Northeast India. From 3 to 16 April, the Japanese attempted to capture Kohima ridge, a feature which dominated the road by which the be</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-kohima-20260702.mp3" type="audio/mpeg" length="1775520"/>
