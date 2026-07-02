@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chanakya</title>
+      <description>Chanakya (ISO: Cāṇakya, चाणक्य, ), according to legendary narratives preserved in various traditions dating from the 4th to 11th century CE, was a Brahmin who assisted the first Mauryan emperor Chandragupta in his rise to power and the establishment of the Maurya Empire. According to these narratives, Chanakya served as the chief adviser and prime minister to both emperors Chandragupta Maurya and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/chanakya-20260702.mp3" type="audio/mpeg" length="1716960"/>
+      <guid isPermaLink="false">realstory-chanakya-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:52:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carl von Clausewitz</title>
       <description>Carl Philipp Gottlieb von Clausewitz ( KLOW-zə-vits; German: [ˈkaʁl fɔn ˈklaʊzəvɪts] ; born Carl Philipp Gottlieb Clauswitz; 1 July 1780 – 16 November 1831) was a Prussian army officer and military theorist who stressed the "moral" (in modern terms meaning psychological) and political aspects of waging war. His most notable work, Vom Kriege (On War), though unfinished at his death, is considered a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/carl-von-clausewitz-20260702.mp3" type="audio/mpeg" length="1613280"/>
