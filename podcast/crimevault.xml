@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Randall Woodfield</title>
+      <description>Randall Brent Woodfield is an American serial killer, serial rapist, kidnapper, robber, burglar, and former football player who was dubbed the I-5 Killer or the I-5 Bandit by the media due to the crimes he committed along the Interstate 5 corridor running through Washington, Oregon and California. Before his crimes, Woodfield was best known for having played for the Green Bay Packers. Before his c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/randall-woodfield-20260702.mp3" type="audio/mpeg" length="1651680"/>
+      <guid isPermaLink="false">crime-randall-woodfield-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 11:31:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Allen Muhammad</title>
       <description>John Allen Muhammad was an American serial killer and former U.S. Army sergeant. He and his accomplice, Lee Boyd Malvo, carried out a series of shootings across ten states between February through September 2002, killing seven people. They later moved their attacks to the Washington metropolitan area, where they conducted the D.C. sniper shootings, which resulted in the deaths of ten more victims </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-allen-muhammad-20260702.mp3" type="audio/mpeg" length="1704480"/>
