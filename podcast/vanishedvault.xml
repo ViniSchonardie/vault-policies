@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ian Fleming</title>
+      <description>Ian Lancaster Fleming (28 May 1908 – 12 August 1964) was a British writer best known for his postwar James Bond series of spy novels. Fleming came from a wealthy family connected to the merchant bank Robert Fleming &amp; Co., and his father was the Member of Parliament for Henley from 1910 until his death on the Western Front in 1917. Educated at Eton, Sandhurst, and, briefly, the Ludwig-Maximilians-U</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/ian-fleming-20260702.mp3" type="audio/mpeg" length="1769280"/>
+      <guid isPermaLink="false">shadow-ian-fleming-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 00:09:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>D. B. Cooper</title>
       <description>Dan Cooper, best known as D. B. Cooper, was the alias of an unidentified man who hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington, on November 24, 1971. Cooper told the flight crew he had a bomb and demanded $200,000 in ransom (equivalent to $1,600,000 in 2025) and four parachutes upon landing in Seattle. After releasing the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/d-b-cooper-20260701.mp3" type="audio/mpeg" length="1905600"/>
