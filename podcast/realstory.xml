@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Guglielmo Marconi</title>
+      <description>Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency engineer, inventor, and politician known for his creation of a practical radio wave-based wireless telegraph system. This led to his being largely credited as the inventor of radio and sharing the 1909 Nobel Prize in Physics with Ferdinand Braun "in recognition of their contribu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/guglielmo-marconi-20260702.mp3" type="audio/mpeg" length="1959840"/>
+      <guid isPermaLink="false">realstory-guglielmo-marconi-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:17:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Butch Cassidy</title>
       <description>Robert LeRoy Parker (April 13, 1866 – November 7, 1908), better known as Butch Cassidy, was an American cowboy, train and bank robber and the leader of a gang of criminal outlaws known as the "Wild Bunch" in the Old West.
 Parker engaged in criminal activity for more than a decade at the end of the 19th century and the early 20th century, but the pressures of being pursued by law enforcement, notab</description>
