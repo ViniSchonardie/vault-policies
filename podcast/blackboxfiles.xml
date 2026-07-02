@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Paradise Airlines Flight 901A</title>
+      <description>Paradise Airlines Flight 901A was a scheduled passenger flight from San Jose Municipal Airport to Tahoe Valley Airport, both within California, United States. On March 1, 1964, the Lockheed L-049 Constellation serving the flight crashed near Genoa Peak, on the eastern side of Lake Tahoe during a heavy snowstorm, killing all 85 aboard. After the crash site was located, the recovery of the wreckage </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/paradise-airlines-flight-901a-20260702.mp3" type="audio/mpeg" length="1930080"/>
+      <guid isPermaLink="false">aviation-paradise-airlines-flight-901a-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 22:05:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2001 Avjet Gulfstream III crash</title>
       <description>On March 29, 2001, a chartered Gulfstream III business jet operated by Avjet from Los Angeles, California, to Aspen, Colorado, crashed into the ground while on final approach. All three crew members and 15 passengers on board died.
 The subsequent investigation by the National Transportation Safety Board (NTSB) concluded that the cause of the accident was the captain's premature descent below the m</description>
