@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pacific Air Lines Flight 773</title>
+      <description>Pacific Air Lines Flight 773 was a Fairchild F27A Friendship airliner that crashed on May 7, 1964, near San Ramon, California, a suburb in the East Bay, east of Oakland. The crash was most likely the first instance in the United States of an airliner's pilots being shot by a passenger as part of a murder–suicide. Francisco Paula Gonzales, 27, shot both pilots before turning the gun on himself, cau</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-air-lines-flight-773-20260702.mp3" type="audio/mpeg" length="1818720"/>
+      <guid isPermaLink="false">aviation-pacific-air-lines-flight-773-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:18:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1993 Zambia national football team plane crash</title>
       <description>On the evening of 27 April 1993, a de Havilland Canada DHC-5 Buffalo transport aircraft of the Zambian Air Force crashed into the Atlantic Ocean shortly after taking off from Libreville, Gabon. The flight was carrying most of the Zambia national football team to a 1994 FIFA World Cup Qualifier against Senegal in Dakar. All 25 passengers and five crew members were killed. The official investigation</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1993-zambia-national-football-team-plane-crash-20260701.mp3" type="audio/mpeg" length="1876320"/>
