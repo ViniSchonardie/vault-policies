@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Great white shark</title>
+      <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale sha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-white-shark-20260702.mp3" type="audio/mpeg" length="1574880"/>
+      <guid isPermaLink="false">nature-great-white-shark-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 12:58:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wolverine</title>
       <description>The wolverine ( WUUL-və-reen, US also  WUUL-və-REEN; Gulo gulo), also called the carcajou or quickhatch (from East Cree, kwiihkwahaacheew), is the largest land-dwelling member of the family Mustelidae. It is a muscular carnivore and a solitary animal. The wolverine has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wolverine-20260702.mp3" type="audio/mpeg" length="1639680"/>
