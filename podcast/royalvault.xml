@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alexander Palace</title>
+      <description>The Alexander Palace (Russian: Александровский дворец, Alexandrovskiy dvorets, IPA: [ɐlʲɪkˈsandrəfskʲɪj dvɐˈrʲets]) is a former imperial residence near the town of Tsarskoye Selo in Russia, on a plateau about 30 miles (48 km) south of Saint Petersburg.  The palace was commissioned by Catherine the Great in 1792.
+Due to the privacy it offered when officially resident in St Petersburg, the Alexander</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/alexander-palace-20260702.mp3" type="audio/mpeg" length="1694400"/>
+      <guid isPermaLink="false">royal-alexander-palace-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 05:07:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lambeth Palace</title>
       <description>Lambeth Palace is the official London residence of the Archbishop of Canterbury. It is situated in north Lambeth, London, on the south bank of the River Thames, 400 yards (370 metres) south-east of the Palace of Westminster, which houses Parliament, on the opposite bank.
 Close to Westminster and the City, the estate was first acquired by the archbishopric for the archbishop (who also has a residen</description>
