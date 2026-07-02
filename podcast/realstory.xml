@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carl von Clausewitz</title>
+      <description>Carl Philipp Gottlieb von Clausewitz ( KLOW-zə-vits; German: [ˈkaʁl fɔn ˈklaʊzəvɪts] ; born Carl Philipp Gottlieb Clauswitz; 1 July 1780 – 16 November 1831) was a Prussian army officer and military theorist who stressed the "moral" (in modern terms meaning psychological) and political aspects of waging war. His most notable work, Vom Kriege (On War), though unfinished at his death, is considered a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/carl-von-clausewitz-20260702.mp3" type="audio/mpeg" length="1613280"/>
+      <guid isPermaLink="false">realstory-carl-von-clausewitz-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 09:58:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guglielmo Marconi</title>
       <description>Guglielmo Giovanni Maria Marconi, 1st Marquess of Marconi (25 April 1874 – 20 July 1937), was an Italian radio-frequency engineer, inventor, and politician known for his creation of a practical radio wave-based wireless telegraph system. This led to his being largely credited as the inventor of radio and sharing the 1909 Nobel Prize in Physics with Ferdinand Braun "in recognition of their contribu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/guglielmo-marconi-20260702.mp3" type="audio/mpeg" length="1959840"/>
