@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine Palace</title>
+      <description>The Catherine Palace (Russian: Екатерининский дворец, romanized: Yekaterininskiy dvorets, IPA: [jɪkətʲɪˈrʲinʲɪnskʲɪj dvɐˈrʲets]) is a Rococo palace in Tsarskoye Selo (Pushkin), located 30 kilometres (19 mi) south of St. Petersburg, Russia. It was the summer residence of the Russian tsars. The palace is part of the World Heritage Site Saint Petersburg and Related Groups of Monuments.
+
+
+== History =</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-palace-20260702.mp3" type="audio/mpeg" length="1708320"/>
+      <guid isPermaLink="false">royal-catherine-palace-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 18:30:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pembroke Castle</title>
       <description>Pembroke Castle (Welsh: Castell Penfro) is a medieval castle in the centre of Pembroke, Pembrokeshire in Wales. The castle was the original family seat of the Earldom of Pembroke. A Grade I listed building since 1951, it underwent major restoration during the early 20th century.
 In 1093, Arnulf of Montgomery built the first castle at the site when he fortified the promontory beside the Pembroke Ri</description>
