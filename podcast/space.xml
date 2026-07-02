@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-C</title>
+      <description>STS-51-C (formerly STS-10) was the 15th flight of NASA's Space Shuttle program, and the third flight of Space Shuttle Discovery. It launched on January 24, 1985, and made the fourth shuttle landing at the Shuttle Landing Facility at the Kennedy Space Center in Florida on January 27, 1985. STS-51-C was the first shuttle mission dedicated to the United States Department of Defense (DoD), and consequ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-c-20260702.mp3" type="audio/mpeg" length="1734720"/>
+      <guid isPermaLink="false">space-sts-51-c-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:12:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 23</title>
       <description>Shenzhou 23 (Chinese: 神舟二十三号; pinyin: Shénzhōu èrshísān-hào; lit. 'Divine Boat Number 23') is an ongoing Chinese spaceflight to transport three taikonauts on a Shenzhou spacecraft to and from the Tiangong space station. The mission is the 17th crewed Chinese spaceflight and the 23rd flight overall of the Shenzhou program.
 
