@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Savo Island</title>
+      <description>The Battle of Savo Island, also known as the First Battle of Savo Island and in Japanese sources as the First Battle of the Solomon Sea (第一次ソロモン海戦, Dai-ichi-ji Soromon Kaisen), and colloquially among Allied Guadalcanal veterans as the Battle of the Five Sitting Ducks, was a naval battle during the Solomon Islands campaign of the Pacific War of World War II between the Imperial Japanese Navy and Al</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-savo-island-20260702.mp3" type="audio/mpeg" length="1287360"/>
+      <guid isPermaLink="false">warvault-battle-of-savo-island-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 17:34:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Chasiv Yar</title>
       <description>The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the cros</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chasiv-yar-20260702.mp3" type="audio/mpeg" length="2030880"/>
