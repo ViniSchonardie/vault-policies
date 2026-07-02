@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Circe</title>
+      <description>In Greek mythology, Circe (; Ancient Greek: [[wikt:Κίρκη|Κίρκη]], romanized: Kírkē, pronounced [kírkɛː]) is a witch, sometimes considered a goddess or a nymph. In most accounts, Circe is described as the daughter of the sun god Helios and the Oceanid Perse. Circe was renowned for her vast knowledge of potions and herbs. Through the use of these and a magic wand or staff, she would transform her en</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/circe-20260702.mp3" type="audio/mpeg" length="1530240"/>
+      <guid isPermaLink="false">mythology-circe-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 06:07:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Prometheus</title>
       <description>In Greek mythology, Prometheus (; Ancient Greek: Προμηθεύς [promɛːtʰěu̯s]) is a Titan responsible for creating or aiding humanity in its earliest days. He defied the Olympian gods by taking fire from them and giving it to humanity in the form of technology, knowledge and, more generally, civilization.
 In some versions of the myth, Prometheus is also credited with the creation of humanity from clay</description>
