@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Helter Skelter (song)</title>
+      <description>"Helter Skelter" is a song by the English rock band the Beatles from their 1968 album The Beatles (also known as the "White Album"). It was written by Paul McCartney and credited to Lennon–McCartney. The song was McCartney's attempt to create a sound as loud and dirty as possible. It is regarded as a key influence in the early development of heavy metal. In 1976, the song was released as the B-sid</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/helter-skelter-song-20260702.mp3" type="audio/mpeg" length="1255680"/>
+      <guid isPermaLink="false">mindcontrol-helter-skelter-song-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 06:11:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sarin</title>
       <description>Sarin (NATO designation GB short for G-series, B) is an extremely toxic organophosphorus compound that has been often used as a chemical weapon due to its extreme potency as a nerve agent.
 Sarin is a volatile, colorless and odorless liquid. Exposure can be lethal even at very low concentrations, and death can occur within one to ten minutes after direct inhalation of a lethal dose due to suffocati</description>
