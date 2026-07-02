@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Persephone</title>
+      <description>In ancient Greek mythology and religion, Persephone (  per-SEF-a-nee; Greek: Περσεφόνη, romanized: Persephónē, classical pronunciation: [per.se.pʰó.nɛː]), also called Kore (Greek: Κόρη, romanized: Kórē, lit. 'the maiden') or Cora, is the daughter of Zeus and Demeter. She became the queen of the underworld after her abduction by her uncle Hades, the king of the underworld, who later took her into m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/persephone-20260702.mp3" type="audio/mpeg" length="1355520"/>
+      <guid isPermaLink="false">mythology-persephone-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 12:18:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Circe</title>
       <description>In Greek mythology, Circe (; Ancient Greek: [[wikt:Κίρκη|Κίρκη]], romanized: Kírkē, pronounced [kírkɛː]) is a witch, sometimes considered a goddess or a nymph. In most accounts, Circe is described as the daughter of the sun god Helios and the Oceanid Perse. Circe was renowned for her vast knowledge of potions and herbs. Through the use of these and a magic wand or staff, she would transform her en</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/circe-20260702.mp3" type="audio/mpeg" length="1530240"/>
