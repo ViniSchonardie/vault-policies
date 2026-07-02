@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bald eagle</title>
+      <description>The bald eagle (Haliaeetus leucocephalus) is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle (Haliaeetus albicilla), which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico. It is found near large bodi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bald-eagle-20260702.mp3" type="audio/mpeg" length="1218240"/>
+      <guid isPermaLink="false">nature-bald-eagle-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 20:20:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great white shark</title>
       <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale sha</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-white-shark-20260702.mp3" type="audio/mpeg" length="1574880"/>
