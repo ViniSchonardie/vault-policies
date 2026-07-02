@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Megatherium</title>
+      <description>Megatherium ( meg-ə-THEER-ee-əm; from Greek méga (μέγα) 'great' + theríon (θηρίον) 'beast') is an extinct genus of large ground sloths endemic to South America that lived from the Early Pliocene through the end of the Late Pleistocene. It is best known for the elephant-sized, 3.5–4 tonnes (7,700–8,800 lb) type species Megatherium americanum, primarily known from the Pampas, but ranging southwards </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/megatherium-20260702.mp3" type="audio/mpeg" length="1404480"/>
+      <guid isPermaLink="false">prehistoric-megatherium-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 23:15:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pachycephalosaurus</title>
       <description>Pachycephalosaurus (; meaning "thick-headed lizard", from Greek pachys/παχύς "thickness", kephalon/κεφαλή "head" and sauros/σαῦρος "lizard") is a genus of pachycephalosaurid ornithischian dinosaur. The type species, P. wyomingensis, is the only known definitive species. The possibly synonymous taxon, Stygimoloch, might represent a distinct genus or a second species, P. spinifer. It lived during th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pachycephalosaurus-20260702.mp3" type="audio/mpeg" length="1904640"/>
