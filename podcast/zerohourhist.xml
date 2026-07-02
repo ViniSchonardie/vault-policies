@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1915 Avezzano earthquake</title>
+      <description>The 1915 Avezzano earthquake or 1915 Fucino earthquake occurred on 13 January in central Italy at 07:52:42 local time. The shock had a moment magnitude of 6.7 and a maximum Mercalli intensity of XI (Extreme). The epicenter was located in the city of Avezzano (which was destroyed) in the Province of L'Aquila. Around 30,000 direct fatalities and $60 million in damage resulted from the earthquake.
+
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1915-avezzano-earthquake-20260702.mp3" type="audio/mpeg" length="1605120"/>
+      <guid isPermaLink="false">history-1915-avezzano-earthquake-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:15:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2002 Sumatra earthquake</title>
       <description>The 2002 Sumatra earthquake occurred at 08:26:10 WIB (01:26 UTC) on 2 November. It had a magnitude of Mw 7.2–7.4 with an epicenter just north of Simeulue island, and resulted in three fatalities. It is regarded as a foreshock of the 2004 Indian Ocean earthquake, which had an epicenter about 60 km to the northwest.
 
