@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Blood River</title>
+      <description>The Battle of Blood River or Voortrekker-Zulu War (16 December 1838) was fought on the bank of the Ncome River, in what is today KwaZulu-Natal, South Africa between 464 Voortrekkers ("Pioneers"), led by Andries Pretorius, and an estimated 25,000 to 30,000 Zulu. Estimations of casualties amounted to over 3,000 of King Dingane's soldiers dead, including two Zulu princes competing with Prince Mpande </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-blood-river-20260702.mp3" type="audio/mpeg" length="1604640"/>
+      <guid isPermaLink="false">warvault-battle-of-blood-river-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 03:59:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Philippi</title>
       <description>The Battle of Philippi formed part of the Western Virginia Campaign of the American Civil War and was fought in and around Philippi, Virginia (now West Virginia), on June 3, 1861. A Union Army victory, it was the first organized land action of the war but is generally viewed as a skirmish rather than a battle. 
 The Northern press, however, celebrated it as an epic triumph, which encouraged Congres</description>
