@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alexander Litvinenko</title>
+      <description>Alexander Valterovich Litvinenko (30 August 1962 – 23 November 2006) was a British-naturalised Russian defector and former officer of the Russian Federal Security Service (FSB) who specialised in tackling organised crime. A prominent critic of Russian President Vladimir Putin, he advised British intelligence and coined the term "mafia state."
+In November 1998, Litvinenko and several other FSB offi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/alexander-litvinenko-20260702.mp3" type="audio/mpeg" length="1909920"/>
+      <guid isPermaLink="false">shadow-alexander-litvinenko-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:51:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stasi</title>
       <description>The Ministry for State Security (German: Ministerium für Staatssicherheit, pronounced [minɪsˈteːʁiʊm fyːɐ̯ ˈʃtaːtsˌzɪçɐhaɪt]; abbreviated MfS), commonly known as the Stasi (pronounced [ˈʃtaːziː] , an abbreviation of Staatssicherheit), was the intelligence service and secret police of East Germany (the German Democratic Republic or GDR) from 1950 to 1990. It was one of the most repressive police or</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/stasi-20260702.mp3" type="audio/mpeg" length="1912320"/>
