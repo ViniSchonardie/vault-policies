@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Anomalocaris</title>
+      <description>Anomalocaris (from Ancient Greek ανώμαλος, meaning "anomalous", and καρίς, meaning "shrimp", with the intended meaning "unlike other shrimp") is an extinct genus of radiodont, an order of early-diverging stem-group marine arthropods. It is best known from the type species A. canadensis, found in the Stephen Formation (particularly the Burgess Shale) of British Columbia, Canada. The other named spe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/anomalocaris-20260702.mp3" type="audio/mpeg" length="1621920"/>
+      <guid isPermaLink="false">prehistoric-anomalocaris-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 09:23:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mastodon</title>
       <description>A mastodon (from Ancient Greek  μαστός (mastós) 'breast' and  ὀδούς (odoús) 'tooth') is a member of the genus Mammut (German for 'mammoth'), which was endemic to North America and lived from the late Miocene to the early Holocene. Mastodons belong to the order Proboscidea, the same order as elephants and mammoths (which belong to the family Elephantidae). Mammut is the type genus of the extinct fa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mastodon-20260701.mp3" type="audio/mpeg" length="1613760"/>
