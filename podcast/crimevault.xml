@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Allen Muhammad</title>
+      <description>John Allen Muhammad was an American serial killer and former U.S. Army sergeant. He and his accomplice, Lee Boyd Malvo, carried out a series of shootings across ten states between February through September 2002, killing seven people. They later moved their attacks to the Washington metropolitan area, where they conducted the D.C. sniper shootings, which resulted in the deaths of ten more victims </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-allen-muhammad-20260702.mp3" type="audio/mpeg" length="1704480"/>
+      <guid isPermaLink="false">crime-john-allen-muhammad-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 05:09:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pedro Rodrigues Filho</title>
       <description>Pedro Rodrigues Filho, also known as Pedrinho Matador, Killer Lil' Pedro, Killer Killer Petey, or simply Killer Petey, was a Brazilian serial killer, spree killer, vigilante, and YouTuber known for pursuing and killing other criminals and suspected criminals. He committed most of his crimes as a teenager, when he was between 14 and 19 years old, and was officially sentenced for 71 murders, but cla</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/pedro-rodrigues-filho-20260701.mp3" type="audio/mpeg" length="1324800"/>
