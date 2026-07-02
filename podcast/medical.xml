@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Alexander Fleming</title>
+      <description>Sir Alexander Fleming (6 August 1881 – 11 March 1955) was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain "for the discovery of penicillin and its curative effect in various infectious diseases".
+This was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin (or </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/alexander-fleming-20260702.mp3" type="audio/mpeg" length="1831200"/>
+      <guid isPermaLink="false">medical-alexander-fleming-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:06:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thalidomide</title>
       <description>Thalidomide, sold under the brand names Contergan, Distaval and Thalomid among others, is an oral administered medication used to treat a number of cancers (e.g., multiple myeloma), graft-versus-host disease, and many skin disorders (e.g., complications of leprosy such as skin lesions). Thalidomide has been used to treat conditions associated with HIV: aphthous ulcers, HIV-associated wasting syndr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/thalidomide-20260701.mp3" type="audio/mpeg" length="1864800"/>
