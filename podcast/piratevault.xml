@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Long John Silver</title>
+      <description>Long John Silver is a fictional character and the main antagonist in the 1883 novel Treasure Island by Robert Louis Stevenson. The most colourful and complex character in the book, he continues to appear in popular culture. His missing leg and parrot, in particular, have greatly contributed to the image of the pirate in popular culture.
+
+
+== Profile ==
+Long John Silver is a cunning and opportunist</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/long-john-silver-20260702.mp3" type="audio/mpeg" length="1691520"/>
+      <guid isPermaLink="false">pirates-long-john-silver-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:55:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Piracy off the coast of Somalia</title>
       <description>Piracy off the coast of Somalia occurs in the Gulf of Aden, Guardafui Channel, and Indian Ocean, in Somali territorial waters and other surrounding places and has a long troubled history with different perspectives from different communities. It was initially a threat to international fishing vessels during the early 2000s, only to rapidly escalate and expand to international shipping during the W</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/piracy-off-the-coast-of-somalia-20260701.mp3" type="audio/mpeg" length="1514880"/>
