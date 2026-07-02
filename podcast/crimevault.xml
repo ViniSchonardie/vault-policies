@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dorothea Puente</title>
+      <description>Dorothea Helen Puente, also known as the Killer Landlady or the Death House Landlady, was an American serial killer and financial fraudster who murdered various tenants of the boarding house she ran in Sacramento, California, between 1982 and 1988.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dorothea-puente-20260702.mp3" type="audio/mpeg" length="1464000"/>
+      <guid isPermaLink="false">crime-dorothea-puente-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 18:32:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Randall Woodfield</title>
       <description>Randall Brent Woodfield is an American serial killer, serial rapist, kidnapper, robber, burglar, and former football player who was dubbed the I-5 Killer or the I-5 Bandit by the media due to the crimes he committed along the Interstate 5 corridor running through Washington, Oregon and California. Before his crimes, Woodfield was best known for having played for the Green Bay Packers. Before his c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/randall-woodfield-20260702.mp3" type="audio/mpeg" length="1651680"/>
