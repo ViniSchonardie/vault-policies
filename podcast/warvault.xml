@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Kohima</title>
+      <description>The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War. It took place in three stages from 4 April to 22 June 1944 around the town of Kohima, now the capital city of the state of Nagaland in Northeast India. From 3 to 16 April, the Japanese attempted to capture Kohima ridge, a feature which dominated the road by which the be</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-kohima-20260702.mp3" type="audio/mpeg" length="1775520"/>
+      <guid isPermaLink="false">warvault-battle-of-kohima-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:57:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Blood River</title>
       <description>The Battle of Blood River or Voortrekker-Zulu War (16 December 1838) was fought on the bank of the Ncome River, in what is today KwaZulu-Natal, South Africa between 464 Voortrekkers ("Pioneers"), led by Andries Pretorius, and an estimated 25,000 to 30,000 Zulu. Estimations of casualties amounted to over 3,000 of King Dingane's soldiers dead, including two Zulu princes competing with Prince Mpande </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-blood-river-20260702.mp3" type="audio/mpeg" length="1604640"/>
