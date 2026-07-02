@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hypnosis</title>
+      <description>Hypnosis is a human condition involving focused attention (the selective attention/selective inattention hypothesis, SASI), reduced peripheral awareness, and an enhanced capacity to respond to suggestion.
+There are competing theories explaining hypnosis and related phenomena. Altered state theories see hypnosis as an altered state of mind or trance, marked by a level of awareness different from th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/hypnosis-20260702.mp3" type="audio/mpeg" length="1703040"/>
+      <guid isPermaLink="false">medical-hypnosis-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 15:28:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander Fleming</title>
       <description>Sir Alexander Fleming (6 August 1881 – 11 March 1955) was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain "for the discovery of penicillin and its curative effect in various infectious diseases".
 This was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin (or </description>
