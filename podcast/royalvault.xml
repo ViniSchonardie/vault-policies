@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pembroke Castle</title>
+      <description>Pembroke Castle (Welsh: Castell Penfro) is a medieval castle in the centre of Pembroke, Pembrokeshire in Wales. The castle was the original family seat of the Earldom of Pembroke. A Grade I listed building since 1951, it underwent major restoration during the early 20th century.
+In 1093, Arnulf of Montgomery built the first castle at the site when he fortified the promontory beside the Pembroke Ri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/pembroke-castle-20260702.mp3" type="audio/mpeg" length="1780800"/>
+      <guid isPermaLink="false">royal-pembroke-castle-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 11:35:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander Palace</title>
       <description>The Alexander Palace (Russian: Александровский дворец, Alexandrovskiy dvorets, IPA: [ɐlʲɪkˈsandrəfskʲɪj dvɐˈrʲets]) is a former imperial residence near the town of Tsarskoye Selo in Russia, on a plateau about 30 miles (48 km) south of Saint Petersburg.  The palace was commissioned by Catherine the Great in 1792.
 Due to the privacy it offered when officially resident in St Petersburg, the Alexander</description>
