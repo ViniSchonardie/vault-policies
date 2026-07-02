@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Seungri</title>
+      <description>Lee Seung-hyun (Korean: 이승현; born December 12, 1990), better known by the stage names Seungri (승리) and V.I, is a South Korean former singer-songwriter and was a member of the South Korean boy band BigBang formed by YG Entertainment. A key figure of the Burning Sun scandal, he was convicted in 2020 for prostitution mediation and embezzlement.
+In the mid-2000s, Seungri rose to prominence as a member</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/seungri-20260702.mp3" type="audio/mpeg" length="1278720"/>
+      <guid isPermaLink="false">congame-seungri-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 10:30:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sing Sing</title>
       <description>Sing Sing Correctional Facility is a maximum-security prison for men operated by the New York State Department of Corrections and Community Supervision in the village of Ossining, New York, United States. It is about 30 miles (48 km) north of Midtown Manhattan on the east bank of the Hudson River. It holds about 1,700 inmates as of 2007, and housed the execution chamber for the State of New York f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/sing-sing-20260702.mp3" type="audio/mpeg" length="1883040"/>
