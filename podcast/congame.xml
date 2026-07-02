@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sing Sing</title>
+      <description>Sing Sing Correctional Facility is a maximum-security prison for men operated by the New York State Department of Corrections and Community Supervision in the village of Ossining, New York, United States. It is about 30 miles (48 km) north of Midtown Manhattan on the east bank of the Hudson River. It holds about 1,700 inmates as of 2007, and housed the execution chamber for the State of New York f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/sing-sing-20260702.mp3" type="audio/mpeg" length="1883040"/>
+      <guid isPermaLink="false">congame-sing-sing-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 02:04:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Sobhraj</title>
       <description>Charles Sobhraj (born Hotchand Bhawnani Gurmukh Sobhraj; 6 April 1944) is a French serial killer, fraudster, and thief whose victims were mainly Western tourists travelling on the hippie trail of South Asia during the 1970s. He is of Sindhi and Vietnamese origin. He was known as the Bikini Killer because of the attire of several of his victims, as well as the Splitting Killer and the Serpent for "</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/charles-sobhraj-20260701.mp3" type="audio/mpeg" length="1918080"/>
