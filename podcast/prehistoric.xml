@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pachycephalosaurus</title>
+      <description>Pachycephalosaurus (; meaning "thick-headed lizard", from Greek pachys/παχύς "thickness", kephalon/κεφαλή "head" and sauros/σαῦρος "lizard") is a genus of pachycephalosaurid ornithischian dinosaur. The type species, P. wyomingensis, is the only known definitive species. The possibly synonymous taxon, Stygimoloch, might represent a distinct genus or a second species, P. spinifer. It lived during th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pachycephalosaurus-20260702.mp3" type="audio/mpeg" length="1904640"/>
+      <guid isPermaLink="false">prehistoric-pachycephalosaurus-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:08:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anomalocaris</title>
       <description>Anomalocaris (from Ancient Greek ανώμαλος, meaning "anomalous", and καρίς, meaning "shrimp", with the intended meaning "unlike other shrimp") is an extinct genus of radiodont, an order of early-diverging stem-group marine arthropods. It is best known from the type species A. canadensis, found in the Stephen Formation (particularly the Burgess Shale) of British Columbia, Canada. The other named spe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/anomalocaris-20260702.mp3" type="audio/mpeg" length="1621920"/>
