@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Fripp</title>
+      <description>Robert Fripp (born 16 May 1946) is an English musician, composer, record producer, and author, best known as the guitarist, founder and only constant member of the progressive rock band King Crimson. He has worked extensively as a session musician and collaborator, notably with David Bowie, Blondie, Brian Eno, Peter Gabriel, Peter Hammill, Daryl Hall, the Roches, Talking Heads, and David Sylvian. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/robert-fripp-20260702.mp3" type="audio/mpeg" length="1460160"/>
+      <guid isPermaLink="false">heist-robert-fripp-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 13:29:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Conrad</title>
       <description>Robert Conrad (born Conrad Robert Falk; March 1, 1935 – February 8, 2020) was an American actor, singer, and stuntman. He is best known for his role in the 1965–1969 television series The Wild Wild West, playing the sophisticated Secret Service agent James T. West. He also portrayed private investigator Tom Lopaka in Hawaiian Eye (1959–1963) and World War II ace Pappy Boyington in Baa Baa Black Sh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/robert-conrad-20260702.mp3" type="audio/mpeg" length="1540800"/>
