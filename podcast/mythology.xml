@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Heracles</title>
+      <description>Heracles (   Ancient Greek: Ἡρακλῆς, lit. 'glory/fame of Hera'), born Alcaeus (Ἀλκαῖος, Alkaios) or Alcides (Ἀλκείδης, Alkeidēs), was a divine hero in Greek mythology, the son of Zeus and Alcmene, and the foster son of Amphitryon. He was a descendant of Perseus, another son of Zeus.
+He was the greatest of the Greek heroes, the ancestor of royal clans known as Heracleidae (Ἡρακλεῖδαι), and a champi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/heracles-20260702.mp3" type="audio/mpeg" length="1703520"/>
+      <guid isPermaLink="false">mythology-heracles-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 19:26:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Persephone</title>
       <description>In ancient Greek mythology and religion, Persephone (  per-SEF-a-nee; Greek: Περσεφόνη, romanized: Persephónē, classical pronunciation: [per.se.pʰó.nɛː]), also called Kore (Greek: Κόρη, romanized: Kórē, lit. 'the maiden') or Cora, is the daughter of Zeus and Demeter. She became the queen of the underworld after her abduction by her uncle Hades, the king of the underworld, who later took her into m</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/persephone-20260702.mp3" type="audio/mpeg" length="1355520"/>
