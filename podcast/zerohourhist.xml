@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2002 Sumatra earthquake</title>
+      <description>The 2002 Sumatra earthquake occurred at 08:26:10 WIB (01:26 UTC) on 2 November. It had a magnitude of Mw 7.2–7.4 with an epicenter just north of Simeulue island, and resulted in three fatalities. It is regarded as a foreshock of the 2004 Indian Ocean earthquake, which had an epicenter about 60 km to the northwest.
+
+
+== Tectonic setting ==
+
+The island of Sumatra lies on the convergent plate boundar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2002-sumatra-earthquake-20260702.mp3" type="audio/mpeg" length="1887840"/>
+      <guid isPermaLink="false">history-2002-sumatra-earthquake-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 08:46:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2008 Illinois earthquake</title>
       <description>The 2008 Illinois earthquake was one of the largest earthquakes ever recorded in the Midwest state of Illinois. This moderate strike-slip shock measured 5.2 on the moment magnitude scale and had a maximum Mercalli intensity of VII (Very strong). It occurred at 04:36:59 local time on April 18 near Bellmont and Mount Carmel, Illinois, within the Wabash Valley seismic zone. Earthquakes in this part o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2008-illinois-earthquake-20260701.mp3" type="audio/mpeg" length="1704000"/>
