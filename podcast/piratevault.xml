@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Captain Nemo</title>
+      <description>Captain Nemo ( NAY-moh; also known as Prince Dakkar) is a character created by the French novelist Jules Verne (1828–1905). Nemo appears in two of Verne's science-fiction books, Twenty Thousand Leagues Under the Seas (1870) and The Mysterious Island (1875). He also makes a brief appearance in a play written by Verne with the collaboration of Adolphe d'Ennery, Journey Through the Impossible (1882).</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/captain-nemo-20260702.mp3" type="audio/mpeg" length="1292160"/>
+      <guid isPermaLink="false">pirates-captain-nemo-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 16:09:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Long John Silver</title>
       <description>Long John Silver is a fictional character and the main antagonist in the 1883 novel Treasure Island by Robert Louis Stevenson. The most colourful and complex character in the book, he continues to appear in popular culture. His missing leg and parrot, in particular, have greatly contributed to the image of the pirate in popular culture.
 
