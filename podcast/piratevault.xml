@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sloop</title>
+      <description>In modern usage, a sloop is a sailboat with a single mast generally having only one headsail in front of the mast and one mainsail abaft (behind) the mast. It is a type of fore-and-aft rig. The mainsail may be of any type, most often Bermuda rig, but also others, such as gaff or gunter.
+In naval terminology, "sloop-of-war" refers to the purpose of the craft, rather than to the specific size or sai</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/sloop-20260702.mp3" type="audio/mpeg" length="1352160"/>
+      <guid isPermaLink="false">pirates-sloop-20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 23:10:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Captain Nemo</title>
       <description>Captain Nemo ( NAY-moh; also known as Prince Dakkar) is a character created by the French novelist Jules Verne (1828–1905). Nemo appears in two of Verne's science-fiction books, Twenty Thousand Leagues Under the Seas (1870) and The Mysterious Island (1875). He also makes a brief appearance in a play written by Verne with the collaboration of Adolphe d'Ennery, Journey Through the Impossible (1882).</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/captain-nemo-20260702.mp3" type="audio/mpeg" length="1292160"/>
