@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-125</title>
+      <description>STS-125, or HST-SM4 (Hubble Space Telescope Servicing Mission 4), was the fifth and final Space Shuttle mission to the Hubble Space Telescope (HST). 
+The launch of the Space Shuttle Atlantis occurred on May 11, 2009, at 2:01 pm EDT. Landing occurred on May 24 at 11:39 am EDT, with the mission lasting a total of just under 13 days.
+Space Shuttle Atlantis carried two new instruments to the Hubble Sp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-125-20260703.mp3" type="audio/mpeg" length="1460160"/>
+      <guid isPermaLink="false">space-sts-125-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 08:59:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-41-B</title>
       <description>STS-41-B was NASA's tenth Space Shuttle mission and the fourth flight of the Space Shuttle Challenger. It launched on February 3, 1984 and landed on February 11, 1984, after deploying two communications satellites. It was also notable for including the first untethered spacewalk.
 Following STS-9, the flight numbering system for the Space Shuttle program was changed. Because the original successor </description>
