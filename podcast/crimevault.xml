@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Richard Chase</title>
+      <description>Richard Trenton Chase was an American serial killer, cannibal and necrophile known as the Vampire of Sacramento, the Dracula Killer and the Vampire Killer, who killed six people between December 1977 and January 1978 in Sacramento, California.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-chase-20260703.mp3" type="audio/mpeg" length="1278720"/>
+      <guid isPermaLink="false">crime-richard-chase-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 11:29:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Caril Ann Fugate</title>
       <description>Caril Ann Fugate is an American spree killer. Fugate was an accomplice of Charles Starkweather, being 14 years old when his murders took place in 1958. She was convicted as his accomplice and sentenced to life imprisonment. She was paroled in 1976 after serving 18 years.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/caril-ann-fugate-20260703.mp3" type="audio/mpeg" length="1564320"/>
