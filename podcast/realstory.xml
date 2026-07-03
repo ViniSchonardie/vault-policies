@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sophocles</title>
+      <description>Sophocles (; Ancient Greek: Σοφοκλῆς, pronounced [so.pʰo.klɛ̂ːs], Sophoklễs; c. 497/496 – winter 406/405 BC) was an ancient Greek tragedian, one of three from whom at least two plays have survived in full. His first plays were written later than, or contemporary with, those of Aeschylus and earlier than, or contemporary with, those of Euripides. Sophocles wrote more than 120 plays, but only seven </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/sophocles-20260703.mp3" type="audio/mpeg" length="1444800"/>
+      <guid isPermaLink="false">realstory-sophocles-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 16:26:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sarah Bernhardt</title>
       <description>Sarah Bernhardt (French: [saʁa bɛʁnɑʁt]; born Henriette-Rosine Bernard; 22 October 1844 – 26 March 1923) was a French stage actress who starred in some of the most popular French plays of the late 19th and early 20th centuries, including La Dame aux Camélias by Alexandre Dumas fils, Ruy Blas by Victor Hugo, Fédora and La Tosca by Victorien Sardou, and L'Aiglon by Edmond Rostand. She played female </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/sarah-bernhardt-20260703.mp3" type="audio/mpeg" length="1682400"/>
