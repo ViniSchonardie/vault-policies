@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Electroconvulsive therapy</title>
+      <description>Electroconvulsive therapy (ECT) is a psychiatric treatment that causes a generalized seizure by passing electrical current through the brain. ECT is often used as an intervention for mental disorders when other treatments are inadequate. Conditions responsive to ECT include major depressive disorder, mania, and catatonia. 
+ECT evolved from early seizure-inducing treatments and 18th–19th century el</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/electroconvulsive-therapy-20260703.mp3" type="audio/mpeg" length="1873440"/>
+      <guid isPermaLink="false">medical-electroconvulsive-therapy-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 15:22:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Zolpidem</title>
       <description>Zolpidem, sold under the brand name Ambien among others, is a medication primarily used for the short-term treatment of sleeping problems. Guidelines recommend that it be used only after cognitive behavioral therapy for insomnia and after behavioral changes, such as sleep hygiene, have been tried. It decreases the time to sleep onset by about fifteen minutes and at larger doses helps people stay a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/zolpidem-20260703.mp3" type="audio/mpeg" length="1492320"/>
