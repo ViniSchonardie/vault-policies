@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sosoliso Airlines Flight 1145</title>
+      <description>Sosoliso Airlines Flight 1145 (SO1145/OSL1145) was a scheduled Nigerian domestic passenger flight from Nigeria's capital of Abuja (ABV) to Port Harcourt (PHC).  At approximately 14:08 local time (13:08 UTC) on 10 December 2005, it crash-landed at Port Harcourt International Airport.  The aircraft, a McDonnell Douglas DC-9-32 with 110 people on board, slammed into the ground and burst into flames. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sosoliso-airlines-flight-1145-20260703.mp3" type="audio/mpeg" length="1577280"/>
+      <guid isPermaLink="false">aviation-sosoliso-airlines-flight-1145-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 08:17:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Paradise Airlines Flight 901A</title>
       <description>Paradise Airlines Flight 901A was a scheduled passenger flight from San Jose Municipal Airport to Tahoe Valley Airport, both within California, United States. On March 1, 1964, the Lockheed L-049 Constellation serving the flight crashed near Genoa Peak, on the eastern side of Lake Tahoe during a heavy snowstorm, killing all 85 aboard. After the crash site was located, the recovery of the wreckage </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/paradise-airlines-flight-901a-20260702.mp3" type="audio/mpeg" length="1930080"/>
