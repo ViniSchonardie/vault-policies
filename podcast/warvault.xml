@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Solferino</title>
+      <description>The Battle of Solferino (referred to in Italy as the Battle of Solferino and San Martino) on 24 June 1859 was the climactic battle of the Second Italian War of Independence and resulted in the victory of the allied French army under Napoleon III and the Piedmont-Sardinian army under Victor Emmanuel II (together known as the Franco-Sardinian alliance) against the Austrian army under Emperor Franz J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-solferino-20260703.mp3" type="audio/mpeg" length="1766400"/>
+      <guid isPermaLink="false">warvault-battle-of-solferino-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 03:41:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Savo Island</title>
       <description>The Battle of Savo Island, also known as the First Battle of Savo Island and in Japanese sources as the First Battle of the Solomon Sea (第一次ソロモン海戦, Dai-ichi-ji Soromon Kaisen), and colloquially among Allied Guadalcanal veterans as the Battle of the Five Sitting Ducks, was a naval battle during the Solomon Islands campaign of the Pacific War of World War II between the Imperial Japanese Navy and Al</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-savo-island-20260702.mp3" type="audio/mpeg" length="1287360"/>
