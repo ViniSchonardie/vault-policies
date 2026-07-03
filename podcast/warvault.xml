@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Shiroyama</title>
+      <description>The Battle of Shiroyama (城山の戦い, Shiroyama no tatakai) took place on 24 September 1877, in Kagoshima, Japan. It was the final battle of the Satsuma Rebellion, where the heavily outnumbered samurai under Saigō Takamori made their last stand against Imperial Japanese Army troops under the command of General Yamagata Aritomo and Admiral Kawamura Sumiyoshi. The battle culminated in the annihilation of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-shiroyama-20260703.mp3" type="audio/mpeg" length="1619520"/>
+      <guid isPermaLink="false">warvault-battle-of-shiroyama-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 10:41:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Solferino</title>
       <description>The Battle of Solferino (referred to in Italy as the Battle of Solferino and San Martino) on 24 June 1859 was the climactic battle of the Second Italian War of Independence and resulted in the victory of the allied French army under Napoleon III and the Piedmont-Sardinian army under Victor Emmanuel II (together known as the Franco-Sardinian alliance) against the Austrian army under Emperor Franz J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-solferino-20260703.mp3" type="audio/mpeg" length="1766400"/>
