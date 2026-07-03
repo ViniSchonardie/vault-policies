@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Old Bailey</title>
+      <description>The Central Criminal Court of England and Wales, commonly referred to as the Old Bailey after the street on which it stands, is a criminal court building in the City of London, one of several that house the Crown Court of England and Wales. 
+The street outside follows the route of the ancient wall around London, which was part of the fortification's bailey; this likely gave it its name.
+The court </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/old-bailey-20260703.mp3" type="audio/mpeg" length="1395840"/>
+      <guid isPermaLink="false">heist-old-bailey-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 21:20:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthony Casso</title>
       <description>Anthony Salvatore Casso (May 21, 1942 – December 15, 2020), nicknamed "Gaspipe", was an American mobster and underboss in the Lucchese crime family of the Italian-American Mafia. Regarded as a "homicidal maniac," Casso confessed to involvement in between fifteen and thirty-six murders. In interviews, and in court testimony, he confessed involvement in the killings of Frank DeCicco, Roy DeMeo and V</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/anthony-casso-20260703.mp3" type="audio/mpeg" length="1816320"/>
