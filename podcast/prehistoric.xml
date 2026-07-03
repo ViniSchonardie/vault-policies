@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spinosaurus mirabilis</title>
+      <description>Spinosaurus mirabilis is a large extinct species of the spinosaurid theropod dinosaur genus Spinosaurus, known from the Late Cretaceous Farak Formation of Niger. The species was named and described in 2026, based on various cranial and postcranial bones collected in two localities. It is characterized by a long, low snout, a scimitar-shaped midline crest on the top of the skull, and a large sail o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/spinosaurus-mirabilis-20260703.mp3" type="audio/mpeg" length="1397280"/>
+      <guid isPermaLink="false">prehistoric-spinosaurus-mirabilis-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 15:56:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pterodactylus</title>
       <description>Pterodactylus (from Ancient Greek: πτεροδάκτυλος, romanized: pterodáktylos 'winged finger') is a genus of extinct pterosaurs. It is thought to contain only a single species, Pterodactylus antiquus, which was the first pterosaur to be named and identified as a flying reptile and one of the first prehistoric reptiles ever to be discovered.
 Fossil remains of Pterodactylus have primarily been found in</description>
