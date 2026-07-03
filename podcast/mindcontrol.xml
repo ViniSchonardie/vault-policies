@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Massacre</title>
+      <description>A massacre is an event of killing defenseless human beings or animals. It is generally used to describe a targeted mass killing of civilians by an armed group. It can also be used figuratively to refer to a one-sided exchange between armed groups. The word is a loan of a French term for "butchery" or "carnage". Other terms with overlapping scope include war crime, pogrom, mass killing, mass murder</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/massacre-20260703.mp3" type="audio/mpeg" length="1636800"/>
+      <guid isPermaLink="false">mindcontrol-massacre-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 19:06:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Masada</title>
       <description>The hilltop fortress of Masada, in present-day Israel, was successfully besieged and taken by Roman imperial forces between 72 and 73 AD, during the final period of the First Jewish–Roman War. At the time, the fortress was held by members of the Sicarii rebel group. The siege is recorded by a single contemporary written source, The Jewish War by Josephus. According to Josephus, the long siege ende</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/siege-of-masada-20260703.mp3" type="audio/mpeg" length="1705920"/>
