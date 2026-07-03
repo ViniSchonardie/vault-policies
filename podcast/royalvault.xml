@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sudeley Castle</title>
+      <description>Sudeley Castle is a Grade I listed castle in the parish of Sudeley, in the Cotswolds, near to the medieval market town of Winchcombe, Gloucestershire, England. The castle has 10 notable gardens covering some 15 acres (6.1 ha) within a 1,200-acre (490 ha) estate in the Cotswold hills.
+Building of the castle began in 1443 for Ralph Boteler; the Lord High Treasurer of England, on the site of a previo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/sudeley-castle-20260703.mp3" type="audio/mpeg" length="1840800"/>
+      <guid isPermaLink="false">royal-sudeley-castle-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 04:52:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Catherine Palace</title>
       <description>The Catherine Palace (Russian: Екатерининский дворец, romanized: Yekaterininskiy dvorets, IPA: [jɪkətʲɪˈrʲinʲɪnskʲɪj dvɐˈrʲets]) is a Rococo palace in Tsarskoye Selo (Pushkin), located 30 kilometres (19 mi) south of St. Petersburg, Russia. It was the summer residence of the Russian tsars. The palace is part of the World Heritage Site Saint Petersburg and Related Groups of Monuments.
 
