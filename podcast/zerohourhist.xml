@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1940 Vrancea earthquake</title>
+      <description>The 1940 Vrancea earthquake, also known as the 1940 Bucharest earthquake, (Romanian: Cutremurul din 1940) occurred on Sunday, 10 November 1940, in Romania, at 03:39 (local time), when the majority of the population was at home.
+The 1940 earthquake registered a magnitude of 7.7 on the moment magnitude scale, being the strongest earthquake recorded in the 20th century in Romania. Its epicenter lay i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1940-vrancea-earthquake-20260703.mp3" type="audio/mpeg" length="1697280"/>
+      <guid isPermaLink="false">history-1940-vrancea-earthquake-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 15:58:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1868 Hawaii earthquake</title>
       <description>The 1868 Hawaiʻi earthquake was the largest recorded in the history of Hawaiʻi island, with an estimated magnitude of 7.9 Mfa and a maximum Mercalli intensity of X (Extreme). The earthquake occurred at 4 p.m. local time on April 2, 1868, and caused a landslide and tsunami that led to 77 deaths. The aftershock sequence for this event has continued up to the present day.
 
