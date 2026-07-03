@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Anthony Casso</title>
+      <description>Anthony Salvatore Casso (May 21, 1942 – December 15, 2020), nicknamed "Gaspipe", was an American mobster and underboss in the Lucchese crime family of the Italian-American Mafia. Regarded as a "homicidal maniac," Casso confessed to involvement in between fifteen and thirty-six murders. In interviews, and in court testimony, he confessed involvement in the killings of Frank DeCicco, Roy DeMeo and V</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/anthony-casso-20260703.mp3" type="audio/mpeg" length="1816320"/>
+      <guid isPermaLink="false">heist-anthony-casso-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 13:35:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gangster</title>
       <description>A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/gangster-20260703.mp3" type="audio/mpeg" length="1975680"/>
