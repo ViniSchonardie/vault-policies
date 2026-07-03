@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apatosaurus</title>
+      <description>Apatosaurus (; meaning "deceptive lizard") is a genus of herbivorous sauropod dinosaur that lived in North America during the Late Jurassic period. Othniel Charles Marsh described and named the first-known species, Apatosaurus ajax, in 1877, and a second species, Apatosaurus louisae, was discovered and named by William H. Holland in 1916. Apatosaurus lived about 152 to 151 million years ago (mya),</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/apatosaurus-20260703.mp3" type="audio/mpeg" length="1717920"/>
+      <guid isPermaLink="false">prehistoric-apatosaurus-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 23:13:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spinosaurus mirabilis</title>
       <description>Spinosaurus mirabilis is a large extinct species of the spinosaurid theropod dinosaur genus Spinosaurus, known from the Late Cretaceous Farak Formation of Niger. The species was named and described in 2026, based on various cranial and postcranial bones collected in two localities. It is characterized by a long, low snout, a scimitar-shaped midline crest on the top of the skull, and a large sail o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/spinosaurus-mirabilis-20260703.mp3" type="audio/mpeg" length="1397280"/>
