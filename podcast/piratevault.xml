@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Whydah Gally</title>
+      <description>Whydah Gally  (commonly known simply as the Whydah) was a fully rigged ship that was originally built as a passenger, cargo, and slave ship. On the return leg of her maiden voyage of the triangle trade, Whydah Gally was captured by the pirate Captain Samuel Bellamy, beginning a new role in the Golden Age of Piracy.
+Bellamy sailed Whydah Gally up the coast of colonial America, capturing other ships</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/whydah-gally-20260703.mp3" type="audio/mpeg" length="1763520"/>
+      <guid isPermaLink="false">pirates-whydah-gally-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 15:57:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1715 Treasure Fleet</title>
       <description>The 1715 Treasure Fleet was a combination of two Spanish treasure fleets returning from the New World to Spain, the "Nueva España Fleet", under Captain-General Don Juan Esteban de Ubilla, and the "Tierra Firme Fleet", under Don Antonio de Echeverz y Zubiza. At two in the morning on Wednesday, July 31, 1715, seven days after departing from Havana, Cuba, all eleven ships of the fleet were lost in a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/1715-treasure-fleet-20260703.mp3" type="audio/mpeg" length="1296000"/>
