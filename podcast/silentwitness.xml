@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2010 Pune Bombing</title>
+      <description>On 13 February 2010 at approximately 19:15 Indian Standard Time, a bomb exploded at a German bakery in the Indian city of Pune, Maharashtra. The blast killed 18 people, including an Italian woman, two Sudanese students and two Iranian students, and injured at least 60 more.
+The German bakery is located near the local Jewish Chabad House and the Osho International Meditation Resort in Koregaon Park</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/2010-pune-bombing-20260703.mp3" type="audio/mpeg" length="1845600"/>
+      <guid isPermaLink="false">trials-2010-pune-bombing-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 09:59:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Murder Trial Of O J Simpson</title>
       <description>The People of the State of California v. Orenthal James Simpson was a criminal trial in Los Angeles County Superior Court, in which former NFL player and actor O. J. Simpson was tried and acquitted for the murders of his ex-wife Nicole Brown Simpson and her friend Ron Goldman, who were stabbed to death outside Brown's home in Los Angeles on June 12, 1994. The trial spanned eight months, from Janua</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-trial-of-o-j-simpson-20260703.mp3" type="audio/mpeg" length="1791840"/>
