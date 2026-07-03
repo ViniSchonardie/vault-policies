@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy-retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,4 +43,13 @@ jobs:
           path: '.'
       - id: deploy
         if: steps.check.outputs.skip == 'false'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Wait before retry
+        if: steps.check.outputs.skip == 'false' && steps.deploy.outcome == 'failure'
+        run: |
+          echo "Deploy failed, waiting 60s before retry..."
+          sleep 60
+      - id: deploy-retry
+        if: steps.check.outputs.skip == 'false' && steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
