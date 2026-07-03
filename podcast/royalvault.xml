@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kenilworth Castle</title>
+      <description>Kenilworth Castle is a castle in the town of Kenilworth in Warwickshire, England, managed by English Heritage; much of it is in ruins. The castle was founded after the Norman Conquest of 1066; with development through to the Tudor period. It has been described by the architectural historian Anthony Emery as "the finest surviving example of a semi-royal palace of the later Middle Ages, significant </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kenilworth-castle-20260703.mp3" type="audio/mpeg" length="1977600"/>
+      <guid isPermaLink="false">royal-kenilworth-castle-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 11:34:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sudeley Castle</title>
       <description>Sudeley Castle is a Grade I listed castle in the parish of Sudeley, in the Cotswolds, near to the medieval market town of Winchcombe, Gloucestershire, England. The castle has 10 notable gardens covering some 15 acres (6.1 ha) within a 1,200-acre (490 ha) estate in the Cotswold hills.
 Building of the castle began in 1443 for Ralph Boteler; the Lord High Treasurer of England, on the site of a previo</description>
