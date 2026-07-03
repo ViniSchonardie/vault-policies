@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pontefract Castle</title>
+      <description>Pontefract (or Pomfret) Castle is a castle ruin in the town of Pontefract, in West Yorkshire, England. King Richard II is thought to have died there. It was the site of a series of sieges during the 17th-century English Civil War.
+Pontefract Castle is owned by the Duchy of Lancaster and managed by Wakefield Council.
+
+
+== History ==
+
+The castle, on a rock to the east of the town above All Saints' C</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/pontefract-castle-20260703.mp3" type="audio/mpeg" length="1517760"/>
+      <guid isPermaLink="false">royal-pontefract-castle-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 18:13:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kenilworth Castle</title>
       <description>Kenilworth Castle is a castle in the town of Kenilworth in Warwickshire, England, managed by English Heritage; much of it is in ruins. The castle was founded after the Norman Conquest of 1066; with development through to the Tudor period. It has been described by the architectural historian Anthony Emery as "the finest surviving example of a semi-royal palace of the later Middle Ages, significant </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kenilworth-castle-20260703.mp3" type="audio/mpeg" length="1977600"/>
