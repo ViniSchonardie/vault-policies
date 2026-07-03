@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Zolpidem</title>
+      <description>Zolpidem, sold under the brand name Ambien among others, is a medication primarily used for the short-term treatment of sleeping problems. Guidelines recommend that it be used only after cognitive behavioral therapy for insomnia and after behavioral changes, such as sleep hygiene, have been tried. It decreases the time to sleep onset by about fifteen minutes and at larger doses helps people stay a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/zolpidem-20260703.mp3" type="audio/mpeg" length="1492320"/>
+      <guid isPermaLink="false">medical-zolpidem-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 08:00:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thalidomide scandal</title>
       <description>In the late 1950s and early 1960s, thalidomide was prescribed to women in 46 countries who were pregnant or who subsequently became pregnant, and consequently resulted in the "biggest anthropogenic medical disaster ever," with more than 10,000 children born with a range of severe deformities, such as phocomelia, as well as thousands of miscarriages.
 Thalidomide was introduced in 1957 as a tranquil</description>
