@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Snow leopard</title>
+      <description>The snow leopard (Panthera uncia) is a species of large cat in the genus Panthera of the family Felidae. It is native to the mountain ranges of Central and South Asia, ranging from eastern Afghanistan, the Himalayas and the Tibetan Plateau to southern Siberia, Mongolia and Western China. It inhabits alpine and subalpine zones at elevations of 3,000–4,500 m (9,800–14,800 ft), but also lives at lowe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snow-leopard-20260703.mp3" type="audio/mpeg" length="1632960"/>
+      <guid isPermaLink="false">nature-snow-leopard-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 20:17:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peregrine falcon</title>
       <description>The peregrine falcon (Falco peregrinus), also referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head. As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Histori</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/peregrine-falcon-20260703.mp3" type="audio/mpeg" length="1668960"/>
