@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pete Rose</title>
+      <description>Peter Edward Rose Sr. (April 14, 1941 – September 30, 2024), nicknamed "Charlie Hustle", was an American professional baseball player and manager. He played in Major League Baseball (MLB) from 1963 to 1986, most prominently as a member of the Cincinnati Reds lineup known as the Big Red Machine for their dominance of the National League in the 1970s. He also played for the Philadelphia Phillies, wh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/pete-rose-20260703.mp3" type="audio/mpeg" length="1472640"/>
+      <guid isPermaLink="false">sportscrime-pete-rose-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 21:00:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>New Orleans Saints</title>
       <description>The New Orleans Saints are a professional American football team based in New Orleans. The Saints compete in the National Football League (NFL) as a member of the National Football Conference (NFC) South division. Since 1975, the team plays its home games at Caesars Superdome after using Tulane Stadium during its first eight seasons. Founded by John W. Mecom Jr., David Dixon, and the city of New O</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/new-orleans-saints-20260703.mp3" type="audio/mpeg" length="1238880"/>
