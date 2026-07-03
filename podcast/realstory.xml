@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sarah Bernhardt</title>
+      <description>Sarah Bernhardt (French: [saʁa bɛʁnɑʁt]; born Henriette-Rosine Bernard; 22 October 1844 – 26 March 1923) was a French stage actress who starred in some of the most popular French plays of the late 19th and early 20th centuries, including La Dame aux Camélias by Alexandre Dumas fils, Ruy Blas by Victor Hugo, Fédora and La Tosca by Victorien Sardou, and L'Aiglon by Edmond Rostand. She played female </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/sarah-bernhardt-20260703.mp3" type="audio/mpeg" length="1682400"/>
+      <guid isPermaLink="false">realstory-sarah-bernhardt-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 09:55:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Yitzhak Rabin</title>
       <description>Yitzhak Rabin, the prime minister of Israel, was assassinated on 4 November 1995 at 21:30, at the end of a rally in support of the Oslo Accords at Kings of Israel Square in Tel Aviv. The assailant was Yigal Amir, an Israeli law student and far-right ultranationalist who radically opposed the Oslo Accords and Rabin's peace initiative more broadly.
 
