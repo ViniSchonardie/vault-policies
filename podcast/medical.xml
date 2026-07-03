@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ignaz Semmelweis</title>
+      <description>Ignaz Philipp Semmelweis (German: [ˈɪɡnaːts ˈzɛml̩vaɪs]; Hungarian: Semmelweis Ignác Fülöp [ˈsɛm(ː)ɛlvɛjs ˈiɡnaːts ˈfyløp]; 1 July 1818 – 13 August 1865) was a Hungarian medical doctor and scientist of German descent who was an early pioneer of antiseptic procedures and was described as the "saviour of mothers". Postpartum infection, also known as puerperal fever or childbed fever, consists of any</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/ignaz-semmelweis-20260703.mp3" type="audio/mpeg" length="1704960"/>
+      <guid isPermaLink="false">medical-ignaz-semmelweis-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 22:00:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Electroconvulsive therapy</title>
       <description>Electroconvulsive therapy (ECT) is a psychiatric treatment that causes a generalized seizure by passing electrical current through the brain. ECT is often used as an intervention for mental disorders when other treatments are inadequate. Conditions responsive to ECT include major depressive disorder, mania, and catatonia. 
 ECT evolved from early seizure-inducing treatments and 18th–19th century el</description>
