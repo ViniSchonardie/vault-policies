@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Masada</title>
+      <description>The hilltop fortress of Masada, in present-day Israel, was successfully besieged and taken by Roman imperial forces between 72 and 73 AD, during the final period of the First Jewish–Roman War. At the time, the fortress was held by members of the Sicarii rebel group. The siege is recorded by a single contemporary written source, The Jewish War by Josephus. According to Josephus, the long siege ende</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/siege-of-masada-20260703.mp3" type="audio/mpeg" length="1705920"/>
+      <guid isPermaLink="false">mindcontrol-siege-of-masada-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 12:16:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Church of the SubGenius</title>
       <description>The Church of the SubGenius is a parody religion that satirizes better-known belief systems. It teaches a complex philosophy that focuses on J. R. "Bob" Dobbs, purportedly a salesman from the 1950s, who is revered as a prophet by the Church. SubGenius leaders have developed detailed narratives about Dobbs and his relationship to various gods and conspiracies. Their central deity, Jehovah 1, is acc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/church-of-the-subgenius-20260703.mp3" type="audio/mpeg" length="1759680"/>
