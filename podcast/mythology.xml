@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sisyphus</title>
+      <description>In Greek mythology, Sisyphus or Sisyphos ( ; Ancient Greek: Σίσυφος, romanized: Sísyphos) is the founder and king of Ephyra (now known as Corinth). He reveals Zeus's abduction of Aegina to the river god Asopus, thereby incurring Zeus's wrath. His subsequent cheating of death earns him eternal punishment in the underworld, once he dies of old age. The gods condemned him to push an immense boulder u</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/sisyphus-20260703.mp3" type="audio/mpeg" length="1522560"/>
+      <guid isPermaLink="false">mythology-sisyphus-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 19:19:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ouroboros</title>
       <description>The ouroboros () or uroboros () is an ancient symbol depicting a snake or dragon eating its own tail. The ouroboros entered Western tradition via ancient Egyptian iconography and the Greek magical tradition. It was adopted as a symbol in Gnosticism, Hermeticism, and alchemy.
 
