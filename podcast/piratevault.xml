@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1715 Treasure Fleet</title>
+      <description>The 1715 Treasure Fleet was a combination of two Spanish treasure fleets returning from the New World to Spain, the "Nueva España Fleet", under Captain-General Don Juan Esteban de Ubilla, and the "Tierra Firme Fleet", under Don Antonio de Echeverz y Zubiza. At two in the morning on Wednesday, July 31, 1715, seven days after departing from Havana, Cuba, all eleven ships of the fleet were lost in a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/1715-treasure-fleet-20260703.mp3" type="audio/mpeg" length="1296000"/>
+      <guid isPermaLink="false">pirates-1715-treasure-fleet-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 09:01:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sloop</title>
       <description>In modern usage, a sloop is a sailboat with a single mast generally having only one headsail in front of the mast and one mainsail abaft (behind) the mast. It is a type of fore-and-aft rig. The mainsail may be of any type, most often Bermuda rig, but also others, such as gaff or gunter.
 In naval terminology, "sloop-of-war" refers to the purpose of the craft, rather than to the specific size or sai</description>
