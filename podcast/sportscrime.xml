@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>New Orleans Saints</title>
+      <description>The New Orleans Saints are a professional American football team based in New Orleans. The Saints compete in the National Football League (NFL) as a member of the National Football Conference (NFC) South division. Since 1975, the team plays its home games at Caesars Superdome after using Tulane Stadium during its first eight seasons. Founded by John W. Mecom Jr., David Dixon, and the city of New O</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/new-orleans-saints-20260703.mp3" type="audio/mpeg" length="1238880"/>
+      <guid isPermaLink="false">sportscrime-new-orleans-saints-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 14:28:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jerry Sandusky</title>
       <description>Gerald Arthur Sandusky (born January 26, 1944) is an American convicted serial child molester and retired college football coach.
 Sandusky served as an assistant coach for his entire career, mostly at Pennsylvania State University under Joe Paterno. Sandusky was an assistant coach at Penn State from 1969 to 1999, where he served as defensive coordinator for the final 22 years of his career. He rec</description>
