@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am Flight 759</title>
+      <description>Pan Am Flight 759 was a regularly scheduled domestic passenger flight from Miami to San Diego, with en route stops in New Orleans and Las Vegas. On July 9, 1982, the Boeing 727 flying this route crashed in the New Orleans suburb of Kenner after being forced down by a microburst shortly after takeoff. All 145 on board, as well as eight people on the ground, were killed.
+
+
+== Aircraft and crew ==
+Th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-759-20260703.mp3" type="audio/mpeg" length="1717920"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-759-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 22:01:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2010 Austin suicide attack</title>
       <description>The 2010 Austin suicide attack occurred on February 18, 2010, when Andrew Joseph Stack III deliberately crashed his single-engine Piper Dakota plane into Building I of the Echelon office complex in Austin, Texas, United States, killing himself and Internal Revenue Service (IRS) manager Vernon Hunter. Thirteen others were injured, two severely. The four-story office building housed an IRS field off</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2010-austin-suicide-attack-20260703.mp3" type="audio/mpeg" length="1558080"/>
