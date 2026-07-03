@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 11</title>
+      <description>Gemini 11 (officially Gemini XI) was the ninth crewed spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th crewed American flight and the 25th spaceflight to that time (includes X-15 flights over 100 kilometers (62 mi; 54 nmi)). Astronauts Pete Conrad and Dick Gordon performed the first direct-ascent (first orbit) rendezvous with an Agena Target V</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-11-20260703.mp3" type="audio/mpeg" length="1492800"/>
+      <guid isPermaLink="false">space-gemini-11-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 15:59:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-125</title>
       <description>STS-125, or HST-SM4 (Hubble Space Telescope Servicing Mission 4), was the fifth and final Space Shuttle mission to the Hubble Space Telescope (HST). 
 The launch of the Space Shuttle Atlantis occurred on May 11, 2009, at 2:01 pm EDT. Landing occurred on May 24 at 11:39 am EDT, with the mission lasting a total of just under 13 days.
