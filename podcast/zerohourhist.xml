@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Pohang earthquake</title>
+      <description>The 2017 Pohang earthquake, measuring magnitude 5.4 on the local magnitude scale (5.5 Mw), struck Heunghae, Pohang, South Korea on November 15, 2017, and the hypocenter was 7 km below the surface. It is tied with the 2016 Gyeongju earthquake as the country's strongest earthquake in modern history since seismological observations started in Korea in 1978, and the most destructive ever recorded with</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2017-pohang-earthquake-20260703.mp3" type="audio/mpeg" length="1753920"/>
+      <guid isPermaLink="false">history-2017-pohang-earthquake-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 23:18:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1940 Vrancea earthquake</title>
       <description>The 1940 Vrancea earthquake, also known as the 1940 Bucharest earthquake, (Romanian: Cutremurul din 1940) occurred on Sunday, 10 November 1940, in Romania, at 03:39 (local time), when the majority of the population was at home.
 The 1940 earthquake registered a magnitude of 7.7 on the moment magnitude scale, being the strongest earthquake recorded in the 20th century in Romania. Its epicenter lay i</description>
