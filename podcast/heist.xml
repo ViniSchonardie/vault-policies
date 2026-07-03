@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gangster</title>
+      <description>A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active fo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/gangster-20260703.mp3" type="audio/mpeg" length="1975680"/>
+      <guid isPermaLink="false">heist-gangster-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 07:36:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Murder of Kitty Genovese</title>
       <description>Kitty Genovese, a 28-year-old bartender, was raped and stabbed to death on March 13, 1964, outside the apartment building where she lived in the Kew Gardens neighborhood of the Queens borough of New York City, United States. Two weeks after the murder, The New York Times published an article claiming that thirty-seven witnesses saw or heard the attack, and that none of them called the police or ca</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/murder-of-kitty-genovese-20260702.mp3" type="audio/mpeg" length="1937280"/>
