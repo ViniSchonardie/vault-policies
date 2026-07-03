@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Kali</title>
+      <description>Kali (; Sanskrit: काली, IAST: Kālī), also called Kalika, is a major goddess in Hinduism, primarily associated with time, death, and destruction. Kali is also connected with transcendental knowledge and is the first of the ten Mahavidyas, goddesses who provide liberating knowledge. Of the numerous Hindu goddesses, Kali is held as the most famous. She is the preeminent deity in the Hindu tantric and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/kali-20260703.mp3" type="audio/mpeg" length="1617120"/>
+      <guid isPermaLink="false">mythology-kali-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 06:01:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Heracles</title>
       <description>Heracles (   Ancient Greek: Ἡρακλῆς, lit. 'glory/fame of Hera'), born Alcaeus (Ἀλκαῖος, Alkaios) or Alcides (Ἀλκείδης, Alkeidēs), was a divine hero in Greek mythology, the son of Zeus and Alcmene, and the foster son of Amphitryon. He was a descendant of Perseus, another son of Zeus.
 He was the greatest of the Greek heroes, the ancestor of royal clans known as Heracleidae (Ἡρακλεῖδαι), and a champi</description>
