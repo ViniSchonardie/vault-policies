@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sonderkommando</title>
+      <description>Sonderkommandos (German: [ˈzɔndɐkɔˌmando], lit. 'special unit') were work units made up of German Nazi death camp prisoners. They were composed of prisoners, usually Jews, who were forced, on threat of their own deaths, to aid with the disposal of gas chamber victims during the Holocaust. The death-camp Sonderkommandos, who were always inmates, were unrelated to the SS-Sonderkommandos, which were </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/sonderkommando-20260703.mp3" type="audio/mpeg" length="1713120"/>
+      <guid isPermaLink="false">congame-sonderkommando-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 10:30:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marc Rich</title>
       <description>Marc Rich (born Marcell David Reich; December 18, 1934 – June 26, 2013) was a Belgian-American commodities trader, financier, and businessman. He founded the commodities company Glencore and was later indicted in the United States on federal charges of tax evasion, wire fraud, racketeering, and selling Iranian oil to Israel during the Iran hostage crisis. He fled to Switzerland at the time of the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/marc-rich-20260703.mp3" type="audio/mpeg" length="1740000"/>
