@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dingo</title>
+      <description>The dingo is a lineage of dog found in Australia.
+It is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina. Its three main coat colourations are light ginger or tan, black and tan, or creamy white. The skull is wedge-shaped and appears large in proportion to the body.
+Its taxonomic classification is debated: It is variously considered a form of domestic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dingo-20260703.mp3" type="audio/mpeg" length="1444800"/>
+      <guid isPermaLink="false">nature-dingo-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 06:33:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bald eagle</title>
       <description>The bald eagle (Haliaeetus leucocephalus) is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle (Haliaeetus albicilla), which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico. It is found near large bodi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bald-eagle-20260702.mp3" type="audio/mpeg" length="1218240"/>
