@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Peregrine falcon</title>
+      <description>The peregrine falcon (Falco peregrinus), also referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head. As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Histori</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/peregrine-falcon-20260703.mp3" type="audio/mpeg" length="1668960"/>
+      <guid isPermaLink="false">nature-peregrine-falcon-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 12:55:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dingo</title>
       <description>The dingo is a lineage of dog found in Australia.
 It is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina. Its three main coat colourations are light ginger or tan, black and tan, or creamy white. The skull is wedge-shaped and appears large in proportion to the body.
