@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Storm Area 51</title>
+      <description>Storm Area 51, They Can't Stop All of Us was an American Facebook event that took place on and around September 20, 2019, in the desert surrounding Area 51, a highly-classified United States Air Force (USAF) facility within the Nevada Test and Training Range. 
+The event, created as a sardonic shitpost by Matty Roberts on June 27, 2019, asked Facebook users to band together and raid the site in a s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/storm-area-51-20260703.mp3" type="audio/mpeg" length="1663200"/>
+      <guid isPermaLink="false">paranormal-storm-area-51-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 13:01:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Disappearance of Harold Holt</title>
       <description>On 17 December 1967, Harold Holt, the 17th prime minister of Australia, disappeared while swimming in the sea near Portsea, Victoria. An enormous search operation was mounted in and around Cheviot Beach, but his body was never recovered. Holt was presumed to have drowned, and his memorial service five days later was attended by many world leaders.
 It is generally agreed that Holt's disappearance w</description>
