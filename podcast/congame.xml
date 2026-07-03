@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Quackery</title>
+      <description>Quackery, often synonymous with health fraud, is the promotion of fraudulent or ignorant medical practices. A quack is a "fraudulent or ignorant pretender to medical skill" or "a person who pretends, professionally or publicly, to have skill, knowledge, qualification or credentials they do not possess; a charlatan or snake oil salesman". The term quack is a clipped form of the archaic term quacksa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/quackery-20260703.mp3" type="audio/mpeg" length="1508160"/>
+      <guid isPermaLink="false">congame-quackery-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 17:20:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sonderkommando</title>
       <description>Sonderkommandos (German: [ˈzɔndɐkɔˌmando], lit. 'special unit') were work units made up of German Nazi death camp prisoners. They were composed of prisoners, usually Jews, who were forced, on threat of their own deaths, to aid with the disposal of gas chamber victims during the Holocaust. The death-camp Sonderkommandos, who were always inmates, were unrelated to the SS-Sonderkommandos, which were </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/sonderkommando-20260703.mp3" type="audio/mpeg" length="1713120"/>
