@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Caril Ann Fugate</title>
+      <description>Caril Ann Fugate is an American spree killer. Fugate was an accomplice of Charles Starkweather, being 14 years old when his murders took place in 1958. She was convicted as his accomplice and sentenced to life imprisonment. She was paroled in 1976 after serving 18 years.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/caril-ann-fugate-20260703.mp3" type="audio/mpeg" length="1564320"/>
+      <guid isPermaLink="false">crime-caril-ann-fugate-20260703</guid>
+      <pubDate>Fri, 03 Jul 2026 04:53:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dorothea Puente</title>
       <description>Dorothea Helen Puente, also known as the Killer Landlady or the Death House Landlady, was an American serial killer and financial fraudster who murdered various tenants of the boarding house she ran in Sacramento, California, between 1982 and 1988.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dorothea-puente-20260702.mp3" type="audio/mpeg" length="1464000"/>
