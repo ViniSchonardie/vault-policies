@@ -21,9 +21,26 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Skip if not latest commit
+        id: check
+        run: |
+          git fetch origin main --quiet
+          HEAD=$(git rev-parse HEAD)
+          LATEST=$(git rev-parse origin/main)
+          if [ "$HEAD" != "$LATEST" ]; then
+            echo "Newer commit exists ($LATEST), skipping deploy."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
       - uses: actions/configure-pages@v5
+        if: steps.check.outputs.skip == 'false'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.check.outputs.skip == 'false'
         with:
           path: '.'
       - id: deploy
+        if: steps.check.outputs.skip == 'false'
         uses: actions/deploy-pages@v4
