@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ichthyosauria</title>
+      <description>Ichthyosauria is an order of large extinct marine reptiles sometimes referred to as "ichthyosaurs", although the term is also used for wider clades in which the order resides.
+Ichthyosaurians thrived during much of the Mesozoic era; based on fossil evidence, they first appeared around 250 million years ago (Ma) and at least one species survived until about 94 million years ago, into the Late Creta</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ichthyosauria-20260704.mp3" type="audio/mpeg" length="1720800"/>
+      <guid isPermaLink="false">prehistoric-ichthyosauria-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:04:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thagomizer</title>
       <description>A thagomizer () is the distinctive arrangement of spike-shaped osteoderms on the tails of some stegosaurian dinosaurs. These spikes are believed to have been a defensive measure against predators.
 The arrangement of spikes originally had no distinct name. Cartoonist Gary Larson invented the name "thagomizer" in 1982 as a joke in his comic strip The Far Side, and it was gradually adopted as an info</description>
