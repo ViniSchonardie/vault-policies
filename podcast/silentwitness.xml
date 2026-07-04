@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Coastal Road Massacre</title>
+      <description>The coastal road massacre occurred on 11 March 1978, when Palestinian militants hijacked a bus on the Coastal Highway of Israel and murdered its occupants; 38 Israeli civilians, including 13 children, were killed as a result of the attack while 76 more were wounded. The attack was planned by the influential Palestinian militant leader Khalil al-Wazir (aka Abu Jihad) and carried out by Fatah, a Pal</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/coastal-road-massacre-20260704.mp3" type="audio/mpeg" length="1678560"/>
+      <guid isPermaLink="false">trials-coastal-road-massacre-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 16:06:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Witch House</title>
       <description>The Jonathan Corwin House, known locally as The Witch House, is a historic house museum in Salem, Massachusetts. It was the home of Judge Jonathan Corwin (1640–1718) and is one of the few structures still standing in Salem with direct ties to the Salem witch trials of 1692. Corwin bought the house in 1675 when he was 35 and when the house was still unfinished, and lived there for more than 40 year</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/the-witch-house-20260704.mp3" type="audio/mpeg" length="1674240"/>
