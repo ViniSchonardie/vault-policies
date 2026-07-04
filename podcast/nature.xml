@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Blue-ringed octopus</title>
+      <description>Blue-ringed octopuses, comprising the genus Hapalochlaena, are four extremely venomous species of octopus that can be found in shells between rocks and crevices in tide pools and also coral reefs in the Pacific and Indian Oceans, from Japan to Australia. They can be identified by their yellowish skin and characteristic blue and black rings that can change color dramatically when the animals are th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/blue-ringed-octopus-20260704.mp3" type="audio/mpeg" length="1492320"/>
+      <guid isPermaLink="false">nature-blue-ringed-octopus-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 06:20:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snow leopard</title>
       <description>The snow leopard (Panthera uncia) is a species of large cat in the genus Panthera of the family Felidae. It is native to the mountain ranges of Central and South Asia, ranging from eastern Afghanistan, the Himalayas and the Tibetan Plateau to southern Siberia, Mongolia and Western China. It inhabits alpine and subalpine zones at elevations of 3,000–4,500 m (9,800–14,800 ft), but also lives at lowe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snow-leopard-20260703.mp3" type="audio/mpeg" length="1632960"/>
