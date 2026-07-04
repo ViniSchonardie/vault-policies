@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Portuguese man o' war</title>
+      <description>The Portuguese man o' war (Physalia physalis), also known as the man-of-war or bluebottle, is a marine hydrozoan found in the Atlantic, Indian, and Pacific oceans. While it is typically considered the only species in its genus, Physalia, and family, Physaliidae, genetic evidence suggests there may be more.
+Although it superficially resembles a jellyfish, the Portuguese man o' war is in fact a siph</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/portuguese-man-o-war-20260704.mp3" type="audio/mpeg" length="1482240"/>
+      <guid isPermaLink="false">nature-portuguese-man-o-war-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 12:05:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blue-ringed octopus</title>
       <description>Blue-ringed octopuses, comprising the genus Hapalochlaena, are four extremely venomous species of octopus that can be found in shells between rocks and crevices in tide pools and also coral reefs in the Pacific and Indian Oceans, from Japan to Australia. They can be identified by their yellowish skin and characteristic blue and black rings that can change color dramatically when the animals are th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/blue-ringed-octopus-20260704.mp3" type="audio/mpeg" length="1492320"/>
