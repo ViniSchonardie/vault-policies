@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Samuel Mason</title>
+      <description>Samuel Ross Mason (November 8, 1739 – 1803), was an American Revolutionary War veteran, Virginia militia captain, justice of the peace, frontier leader, and later, a figure associated with river piracy and highway robbery. He is best known as the leader of the Mason Gang, a notorious group active along the lower Ohio River and Mississippi Rivers in the late 18th and early 19th centuries. Mason is </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/samuel-mason-20260704.mp3" type="audio/mpeg" length="1769760"/>
+      <guid isPermaLink="false">pirates-samuel-mason-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:04:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Piracy in the Persian Gulf</title>
       <description>Piracy in the Persian Gulf describes the naval warfare that was prevalent until the 19th century and occurred between seafaring Arabs in Eastern Arabia and the British Empire in the Persian Gulf. It was perceived as one of the primary threats to global maritime trade routes, particularly those with significance to British India and Iraq. Many of the most notable historical instances of these raids</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/piracy-in-the-persian-gulf-20260704.mp3" type="audio/mpeg" length="1776960"/>
