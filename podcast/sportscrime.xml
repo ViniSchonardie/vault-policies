@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ryan Lochte</title>
+      <description>Ryan Steven Lochte ( LOK-tee; born August 3, 1984) is an American former competitive swimmer and 12-time Olympic medalist. He is the third-most decorated swimmer in Olympic history measured by total number of medals, behind only Michael Phelps and Katie Ledecky. Lochte's seven individual Olympic medals rank second in history in men's swimming (again to Michael Phelps), tied for second among all Ol</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/ryan-lochte-20260704.mp3" type="audio/mpeg" length="1578720"/>
+      <guid isPermaLink="false">sportscrime-ryan-lochte-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 13:53:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chris Webber</title>
       <description>Mayce Edward Christopher Webber III (born March 1, 1973), nicknamed "C-Webb", is an American former professional basketball player. Webber played 15 seasons in the National Basketball Association (NBA), with the largest portion of his career spent with the Sacramento Kings. Drafted number one overall in the 1993 NBA draft, Webber became a five-time NBA All-Star, a five-time All-NBA Team member, an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/chris-webber-20260704.mp3" type="audio/mpeg" length="1576800"/>
