@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eltham Palace</title>
+      <description>Eltham Palace is a large house at Eltham ( EL-təm) in southeast London, England, within the Royal Borough of Greenwich. The house consists of the medieval great hall of a former royal residence, to which an Art Deco extension was added in the 1930s. The hammerbeam roof of the great hall is the third-largest of its type in England, and the Art Deco interior of the house has been described as a "mas</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/eltham-palace-20260704.mp3" type="audio/mpeg" length="1704960"/>
+      <guid isPermaLink="false">royal-eltham-palace-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 18:03:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hurst Castle</title>
       <description>Hurst Castle is an artillery fort established by Henry VIII on the Hurst Spit in Hampshire, England, between 1541 and 1544. It formed part of the king's Device Forts coastal protection programme against invasion from France and the Holy Roman Empire, and defended the western entrance to the Solent waterway. The early castle had a central keep and three bastions, and in 1547 was equipped with 26 gu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hurst-castle-20260704.mp3" type="audio/mpeg" length="1709280"/>
