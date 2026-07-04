@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>British Royal Train</title>
+      <description>The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned by Network Rail, and maintained and operated by DB Cargo UK.
+The Royal Train comprises a dedicated set of claret-liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. The</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/british-royal-train-20260704.mp3" type="audio/mpeg" length="1748160"/>
+      <guid isPermaLink="false">royal-british-royal-train-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 04:45:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pontefract Castle</title>
       <description>Pontefract (or Pomfret) Castle is a castle ruin in the town of Pontefract, in West Yorkshire, England. King Richard II is thought to have died there. It was the site of a series of sieges during the 17th-century English Civil War.
 Pontefract Castle is owned by the Duchy of Lancaster and managed by Wakefield Council.
