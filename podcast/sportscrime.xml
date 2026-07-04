@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Chris Webber</title>
+      <description>Mayce Edward Christopher Webber III (born March 1, 1973), nicknamed "C-Webb", is an American former professional basketball player. Webber played 15 seasons in the National Basketball Association (NBA), with the largest portion of his career spent with the Sacramento Kings. Drafted number one overall in the 1993 NBA draft, Webber became a five-time NBA All-Star, a five-time All-NBA Team member, an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/chris-webber-20260704.mp3" type="audio/mpeg" length="1576800"/>
+      <guid isPermaLink="false">sportscrime-chris-webber-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 06:55:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pete Rose</title>
       <description>Peter Edward Rose Sr. (April 14, 1941 – September 30, 2024), nicknamed "Charlie Hustle", was an American professional baseball player and manager. He played in Major League Baseball (MLB) from 1963 to 1986, most prominently as a member of the Cincinnati Reds lineup known as the Big Red Machine for their dominance of the National League in the 1970s. He also played for the Philadelphia Phillies, wh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/pete-rose-20260703.mp3" type="audio/mpeg" length="1472640"/>
