@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Witch House</title>
+      <description>The Jonathan Corwin House, known locally as The Witch House, is a historic house museum in Salem, Massachusetts. It was the home of Judge Jonathan Corwin (1640–1718) and is one of the few structures still standing in Salem with direct ties to the Salem witch trials of 1692. Corwin bought the house in 1675 when he was 35 and when the house was still unfinished, and lived there for more than 40 year</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/the-witch-house-20260704.mp3" type="audio/mpeg" length="1674240"/>
+      <guid isPermaLink="false">trials-the-witch-house-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 09:26:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>West Memphis Three</title>
       <description>The West Memphis Three are three freed men convicted as teenagers of the 1993 murders of three boys in West Memphis, Arkansas, United States. Damien Echols was sentenced to death, Jessie Misskelley Jr. to life imprisonment plus two 20-year sentences, and Jason Baldwin to life imprisonment. During the trial, the prosecution asserted that the juveniles killed the children as part of a Satanic ritual</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/west-memphis-three-20260704.mp3" type="audio/mpeg" length="1777440"/>
