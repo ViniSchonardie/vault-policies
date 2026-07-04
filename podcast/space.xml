@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-3</title>
+      <description>STS-3  was NASA's third Space Shuttle mission and the third mission for the Space Shuttle Columbia. It launched on March 22, 1982 and landed eight days later on March 30, 1982. The mission, crewed by Jack R. Lousma and C. Gordon Fullerton, involved extensive orbital endurance testing of Columbia itself, as well as numerous scientific experiments. STS-3 was the first shuttle launch with an unpainte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-3-20260704.mp3" type="audio/mpeg" length="1685760"/>
+      <guid isPermaLink="false">space-sts-3-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:05:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-26</title>
       <description>STS-26 was the 26th NASA Space Shuttle mission and the seventh flight of the orbiter Discovery. The mission launched from Kennedy Space Center, Florida, on September 29, 1988, and landed four days later on October 3, 1988. STS-26 was declared the "Return to Flight" mission, being the first mission after the Space Shuttle Challenger disaster of January 28, 1986. It was the first mission since STS-9</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-26-20260704.mp3" type="audio/mpeg" length="1875360"/>
