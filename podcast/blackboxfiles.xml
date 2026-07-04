@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flying Tiger Line Flight 739</title>
+      <description>Flying Tiger Line Flight 739 was a Lockheed L-1049 Super Constellation propliner that disappeared on March 16, 1962, over the western Pacific Ocean. The aircraft, which had been chartered by the United States Army, was transporting ninety-six military passengers from Travis Air Force Base in California to Tan Son Nhut International Airport in Saigon, South Vietnam. After refueling at Andersen Air </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flying-tiger-line-flight-739-20260704.mp3" type="audio/mpeg" length="1637760"/>
+      <guid isPermaLink="false">aviation-flying-tiger-line-flight-739-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 21:52:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gulf Air Flight 072</title>
       <description>Gulf Air Flight 072 was a scheduled international passenger flight from Cairo International Airport, Egypt, to Bahrain International Airport, Bahrain, operated by Gulf Air. On 23 August 2000 at 19:30 Arabia Standard Time (UTC+3), the Airbus A320 crashed minutes after executing a go-around following a failed attempt to land on Runway 12. The flight crew suffered from spatial disorientation during t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/gulf-air-flight-072-20260704.mp3" type="audio/mpeg" length="1756320"/>
