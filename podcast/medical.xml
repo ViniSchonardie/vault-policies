@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sweating sickness</title>
+      <description>Sweating sickness, also known as the sweats, English sweating sickness, English sweat or sudor anglicus in Latin, was a mysterious and contagious disease that struck England and later continental Europe in a series of epidemics beginning in 1485. Other major outbreaks of the English sweating sickness occurred in 1508, 1517, and 1528, with the last outbreak in 1551, after which the disease apparent</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/sweating-sickness-20260704.mp3" type="audio/mpeg" length="1692960"/>
+      <guid isPermaLink="false">medical-sweating-sickness-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 14:48:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Intravenous therapy</title>
       <description>Intravenous therapy (abbreviated as IV therapy) is a medical process that administers fluids, medications and nutrients directly into a person's vein. The intravenous route of administration is commonly used for rehydration or to provide nutrients for those who cannot, or will not—due to reduced mental states or otherwise—consume food or water by mouth. It may also be used to administer medication</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/intravenous-therapy-20260704.mp3" type="audio/mpeg" length="1373280"/>
