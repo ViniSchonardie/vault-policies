@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Boston Strangler</title>
+      <description>The Boston Strangler is the murderer of 13 women in Greater Boston during the early 1960s. The crimes were attributed to Albert DeSalvo (1931–1973) based on his confession, on details revealed in court during a separate case, and DNA evidence linking him to the final victim.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/boston-strangler-20260704.mp3" type="audio/mpeg" length="1487520"/>
+      <guid isPermaLink="false">crime-boston-strangler-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 18:10:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sweeney Todd</title>
       <description>Sweeney Todd is a fictional character who first appeared as the villain of the penny dreadful serial The String of Pearls (1846–1847). The original tale became a feature of 19th-century melodrama and London legend. A barber from Fleet Street, Todd murders his customers with a straight razor and gives their corpses to Mrs. Lovett, his partner in crime, who bakes their flesh into meat pies. The tale</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sweeney-todd-20260704.mp3" type="audio/mpeg" length="1723200"/>
