@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ghost ship</title>
+      <description>A ghost ship, also known as a phantom ship, is a vessel with no living crew aboard; it may be a fictional ghostly vessel, such as the Flying Dutchman, or a physical derelict found adrift with its crew missing or dead, like the Mary Celeste. The term is sometimes used for ships that have been decommissioned but not yet scrapped, as well as drifting boats that have been found after breaking loose of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/ghost-ship-20260704.mp3" type="audio/mpeg" length="1696800"/>
+      <guid isPermaLink="false">paranormal-ghost-ship-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 20:19:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rendlesham Forest incident</title>
       <description>The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings. The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF). USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, clai</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/rendlesham-forest-incident-20260704.mp3" type="audio/mpeg" length="1500000"/>
