@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Political corruption</title>
+      <description>Political corruption is the use of powers by government officials or their network contacts for illegitimate private gain. Forms of corruption vary but can include bribery, lobbying, extortion, cronyism, nepotism, parochialism, patronage, influence peddling, graft, and embezzlement. Corruption may facilitate criminal enterprise, such as drug trafficking, money laundering, and human trafficking, al</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/political-corruption-20260704.mp3" type="audio/mpeg" length="1558560"/>
+      <guid isPermaLink="false">congame-political-corruption-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 01:35:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Quackery</title>
       <description>Quackery, often synonymous with health fraud, is the promotion of fraudulent or ignorant medical practices. A quack is a "fraudulent or ignorant pretender to medical skill" or "a person who pretends, professionally or publicly, to have skill, knowledge, qualification or credentials they do not possess; a charlatan or snake oil salesman". The term quack is a clipped form of the archaic term quacksa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/quackery-20260703.mp3" type="audio/mpeg" length="1508160"/>
