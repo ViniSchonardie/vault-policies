@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1303 Hongdong earthquake</title>
+      <description>The 1303 Hongdong earthquake occurred in Yuan dynasty of the Mongol Empire, on September 25. The shock was estimated to have a moment magnitude of 7.6 and it had a maximum Mercalli intensity of XI (Extreme). This was one of the most deadly earthquakes in China, in turn making it one of the top disasters in China by death toll.
+
+
+== Geology ==
+In 2018, the epicentre was revised to be at 36.8°N 111.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1303-hongdong-earthquake-20260704.mp3" type="audio/mpeg" length="1414080"/>
+      <guid isPermaLink="false">history-1303-hongdong-earthquake-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 08:27:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2017 Pohang earthquake</title>
       <description>The 2017 Pohang earthquake, measuring magnitude 5.4 on the local magnitude scale (5.5 Mw), struck Heunghae, Pohang, South Korea on November 15, 2017, and the hypocenter was 7 km below the surface. It is tied with the 2016 Gyeongju earthquake as the country's strongest earthquake in modern history since seismological observations started in Korea in 1978, and the most destructive ever recorded with</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2017-pohang-earthquake-20260703.mp3" type="audio/mpeg" length="1753920"/>
