@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>West Memphis Three</title>
+      <description>The West Memphis Three are three freed men convicted as teenagers of the 1993 murders of three boys in West Memphis, Arkansas, United States. Damien Echols was sentenced to death, Jessie Misskelley Jr. to life imprisonment plus two 20-year sentences, and Jason Baldwin to life imprisonment. During the trial, the prosecution asserted that the juveniles killed the children as part of a Satanic ritual</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/west-memphis-three-20260704.mp3" type="audio/mpeg" length="1777440"/>
+      <guid isPermaLink="false">trials-west-memphis-three-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 00:04:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pogroms During The Russian Civil War</title>
       <description>The pogroms during the Russian Civil War were a wave of mass murders of Jews, primarily in Ukraine, during the Russian Civil War. From 1918 to 1920, there were 1,500 pogroms in over 1,300 localities, in which 35,000-250,000 died. All armed forces operating in Ukraine were involved in the killings, in particular the anti-Communist Ukrainian People's Army and Armed Forces of South Russia. Jewish sou</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/pogroms-during-the-russian-civil-war-20260703.mp3" type="audio/mpeg" length="2122560"/>
