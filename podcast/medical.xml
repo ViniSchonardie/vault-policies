@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Intravenous therapy</title>
+      <description>Intravenous therapy (abbreviated as IV therapy) is a medical process that administers fluids, medications and nutrients directly into a person's vein. The intravenous route of administration is commonly used for rehydration or to provide nutrients for those who cannot, or will not—due to reduced mental states or otherwise—consume food or water by mouth. It may also be used to administer medication</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/intravenous-therapy-20260704.mp3" type="audio/mpeg" length="1373280"/>
+      <guid isPermaLink="false">medical-intravenous-therapy-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 07:43:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ignaz Semmelweis</title>
       <description>Ignaz Philipp Semmelweis (German: [ˈɪɡnaːts ˈzɛml̩vaɪs]; Hungarian: Semmelweis Ignác Fülöp [ˈsɛm(ː)ɛlvɛjs ˈiɡnaːts ˈfyløp]; 1 July 1818 – 13 August 1865) was a Hungarian medical doctor and scientist of German descent who was an early pioneer of antiseptic procedures and was described as the "saviour of mothers". Postpartum infection, also known as puerperal fever or childbed fever, consists of any</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/ignaz-semmelweis-20260703.mp3" type="audio/mpeg" length="1704960"/>
