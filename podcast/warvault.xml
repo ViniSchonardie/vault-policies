@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Ulundi</title>
+      <description>The Battle of Ulundi (also known as the Battle of kwaNodwengu or the Battle of oCwecweni) took place at the Zulu capital of Ulundi (Zulu: oNdini) on 4 July 1879 and was the last battle of the Anglo-Zulu War. The British Army broke the military power of the Zulu Kingdom by defeating the main Zulu army and capturing and burning the royal kraal of oNdini.
+
+
+== Prelude ==
+
+After the Zulu victory at th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-ulundi-20260704.mp3" type="audio/mpeg" length="1739040"/>
+      <guid isPermaLink="false">warvault-battle-of-ulundi-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 10:16:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fall of Phnom Penh</title>
       <description>The Fall of Phnom Penh was the capture of Phnom Penh, capital of the Khmer Republic (in present-day Cambodia), by the Khmer Rouge on 17 April 1975, effectively ending the Cambodian Civil War. At the beginning of the month, Phnom Penh, one of the last remaining strongholds of the Khmer Republic, was surrounded by the Khmer Rouge and totally dependent on aerial resupply through Pochentong Airport. 
 </description>
