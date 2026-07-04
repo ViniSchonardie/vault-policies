@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rodeo</title>
+      <description>Rodeo (  ROH-dee-oh or  rə-DAY-oh) is a competitive equestrian sport that arose out of the working practices of cattle herding in Spain and Mexico, expanding throughout the Americas and to other nations. It was originally based on the skills required of the working vaqueros and, later, cowboys in what today is the western United States, western Canada, and northern Mexico. Today, it is a sporting </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/rodeo-20260704.mp3" type="audio/mpeg" length="1655040"/>
+      <guid isPermaLink="false">heist-rodeo-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 06:58:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Old Bailey</title>
       <description>The Central Criminal Court of England and Wales, commonly referred to as the Old Bailey after the street on which it stands, is a criminal court building in the City of London, one of several that house the Crown Court of England and Wales. 
 The street outside follows the route of the ancient wall around London, which was part of the fortification's bailey; this likely gave it its name.
