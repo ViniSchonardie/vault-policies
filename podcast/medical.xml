@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Charles Baudelaire</title>
+      <description>Charles-Pierre Baudelaire (UK: ; US: ; French: [ʃaʁl(ə) bodlɛʁ] ; 9 April 1821 – 31 August 1867) was a French poet, essayist, translator and art critic. His poems are described as exhibiting mastery of rhythm and rhyme, containing an exoticism inherited from the Romantics, and are based on observations of real life.
+His most famous work, a book of lyric poetry titled Les Fleurs du mal (The Flowers</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/charles-baudelaire-20260704.mp3" type="audio/mpeg" length="1405920"/>
+      <guid isPermaLink="false">medical-charles-baudelaire-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 21:52:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sweating sickness</title>
       <description>Sweating sickness, also known as the sweats, English sweating sickness, English sweat or sudor anglicus in Latin, was a mysterious and contagious disease that struck England and later continental Europe in a series of epidemics beginning in 1485. Other major outbreaks of the English sweating sickness occurred in 1508, 1517, and 1528, with the last outbreak in 1551, after which the disease apparent</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/sweating-sickness-20260704.mp3" type="audio/mpeg" length="1692960"/>
