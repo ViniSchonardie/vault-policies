@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gustave Eiffel</title>
+      <description>Alexandre Gustave Eiffel (  EYE-fəl, French: [alɛksɑ̃dʁ ɡystav ɛfɛl]; né Bonickhausen dit Eiffel; 15 December 1832 – 27 December 1923) was a French civil engineer. A graduate of École Centrale des Arts et Métiers, he made his name with various bridges for the French railway network, most famously the Garabit Viaduct. He is best known for the Eiffel Tower, designed by his company and built for the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/gustave-eiffel-20260704.mp3" type="audio/mpeg" length="1416480"/>
+      <guid isPermaLink="false">realstory-gustave-eiffel-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 16:02:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Baden-Powell, 1st Baron Baden-Powell</title>
       <description>Lieutenant-General Robert Stephenson Smyth Baden-Powell, 1st Baron Baden-Powell (22 February 1857 – 8 January 1941), was a British Army officer, writer, founder of The Boy Scouts Association and its first Chief Scout, and founder, with his sister Agnes, of The Girl Guides Association. Baden-Powell wrote Scouting for Boys, which with his previous books – such as his 1884 Reconnaissance and Scouting</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/robert-baden-powell-1st-baron-baden-powell-20260704.mp3" type="audio/mpeg" length="1741920"/>
