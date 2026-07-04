@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sweeney Todd</title>
+      <description>Sweeney Todd is a fictional character who first appeared as the villain of the penny dreadful serial The String of Pearls (1846–1847). The original tale became a feature of 19th-century melodrama and London legend. A barber from Fleet Street, Todd murders his customers with a straight razor and gives their corpses to Mrs. Lovett, his partner in crime, who bakes their flesh into meat pies. The tale</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sweeney-todd-20260704.mp3" type="audio/mpeg" length="1723200"/>
+      <guid isPermaLink="false">crime-sweeney-todd-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 10:53:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Allan Legere</title>
       <description>Allan Joseph Legere, known as the Monster of the Miramichi, was a Canadian rapist, arsonist, and serial killer. In 1986, he participated in a home invasion against an elderly couple that ended with the death of the husband and the sexual assault of the wife, for which he was sentenced to prison. In 1989, he escaped custody while receiving medical treatment and attacked people over the course of mo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/allan-legere-20260704.mp3" type="audio/mpeg" length="1701600"/>
