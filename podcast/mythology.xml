@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Poseidon</title>
+      <description>Poseidon (; Ancient Greek: Ποσειδῶν, romanised: Poseidôn) is one of the twelve Olympians in ancient Greek religion and mythology, presiding over the sea, storms, earthquakes and horses. He was the protector of seafarers and the guardian of many Hellenic cities and colonies. In pre-Olympian Bronze Age Greece, Poseidon was venerated as a chief deity at Pylos and Thebes, with the cult title "earth sh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/poseidon-20260704.mp3" type="audio/mpeg" length="1167840"/>
+      <guid isPermaLink="false">mythology-poseidon-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 19:09:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Homunculus</title>
       <description>A homunculus (UK:  hom-UNK-yuul-əs, US:  hohm-, Latin: [hɔˈmʊŋkʊlʊs]; "little person", pl.: homunculi UK:  hom-UNK-yuul-lye, US:  hohm-, Latin: [hɔˈmʊŋkʊliː]) is a small artificial human or human-like being. Popularized in 16th-century alchemy and 19th-century fiction, it has historically been referred to as the creation of a miniature, fully formed human or humanoid being. The concept has roots i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/homunculus-20260704.mp3" type="audio/mpeg" length="1494720"/>
