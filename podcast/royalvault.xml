@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hurst Castle</title>
+      <description>Hurst Castle is an artillery fort established by Henry VIII on the Hurst Spit in Hampshire, England, between 1541 and 1544. It formed part of the king's Device Forts coastal protection programme against invasion from France and the Holy Roman Empire, and defended the western entrance to the Solent waterway. The early castle had a central keep and three bastions, and in 1547 was equipped with 26 gu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hurst-castle-20260704.mp3" type="audio/mpeg" length="1709280"/>
+      <guid isPermaLink="false">royal-hurst-castle-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 10:57:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>British Royal Train</title>
       <description>The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned by Network Rail, and maintained and operated by DB Cargo UK.
 The Royal Train comprises a dedicated set of claret-liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. The</description>
