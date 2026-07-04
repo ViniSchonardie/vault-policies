@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carl Benz</title>
+      <description>Carl (or Karl) Friedrich Benz (German: [kaʁl ˈfʁiːdʁɪç ˈbɛnts] ; born Karl Friedrich Michael Vaillant; 25 November 1844 – 4 April 1929) was a German engine designer and automotive engineer. His Benz Patent-Motorwagen from 1885 is considered the first practical, modern automobile and the first car to be put into series production. He received a patent for the motorcar in 1886, the same year he firs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/carl-benz-20260704.mp3" type="audio/mpeg" length="1593600"/>
+      <guid isPermaLink="false">realstory-carl-benz-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:58:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gustave Eiffel</title>
       <description>Alexandre Gustave Eiffel (  EYE-fəl, French: [alɛksɑ̃dʁ ɡystav ɛfɛl]; né Bonickhausen dit Eiffel; 15 December 1832 – 27 December 1923) was a French civil engineer. A graduate of École Centrale des Arts et Métiers, he made his name with various bridges for the French railway network, most famously the Garabit Viaduct. He is best known for the Eiffel Tower, designed by his company and built for the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/gustave-eiffel-20260704.mp3" type="audio/mpeg" length="1416480"/>
