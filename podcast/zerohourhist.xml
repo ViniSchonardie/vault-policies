@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2018 Hawaii earthquake</title>
+      <description>On May 4, 2018, an earthquake with a magnitude of Mw 6.9 struck Hawaii island in the Hawaii archipelago at around 12:33 p.m. local time. The earthquake's epicenter was near the south flank of Kīlauea, which has been the site of seismic and volcanic activity since late April of that year. According to the United States Geological Survey the quake was related to the new lava outbreaks at the volcano</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2018-hawaii-earthquake-20260704.mp3" type="audio/mpeg" length="1647840"/>
+      <guid isPermaLink="false">history-2018-hawaii-earthquake-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:07:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Atlanta fire of 1917</title>
       <description>The Great Atlanta Fire of 1917 began just after noon on 21 May 1917 in the Old Fourth Ward of Atlanta, Georgia. It is unclear just how the fire started, but it was fueled by hot temperatures and strong winds which propelled the fire. The fire, which burned for nearly 10 hours, destroyed 300 acres (120 ha) and 1,900 structures displacing over 10,000 people. Damages were estimated at $5 million, ($1</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/great-atlanta-fire-of-1917-20260704.mp3" type="audio/mpeg" length="1622880"/>
