@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-26</title>
+      <description>STS-26 was the 26th NASA Space Shuttle mission and the seventh flight of the orbiter Discovery. The mission launched from Kennedy Space Center, Florida, on September 29, 1988, and landed four days later on October 3, 1988. STS-26 was declared the "Return to Flight" mission, being the first mission after the Space Shuttle Challenger disaster of January 28, 1986. It was the first mission since STS-9</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-26-20260704.mp3" type="audio/mpeg" length="1875360"/>
+      <guid isPermaLink="false">space-sts-26-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 15:11:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-2</title>
       <description>STS-2 was the second Space Shuttle mission conducted by NASA, and the second flight of the orbiter Columbia. The mission, crewed by Joe H. Engle and Richard H. Truly, launched on November 12, 1981, and landed two days later on November 14, 1981. STS-2 marked the first time that a crewed, reusable orbital vehicle returned to space. This mission tested the Shuttle Imaging Radar (SIR) as part of the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-2-20260704.mp3" type="audio/mpeg" length="1950720"/>
