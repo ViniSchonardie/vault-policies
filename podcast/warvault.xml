@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Gonzales</title>
+      <description>The Battle of Gonzales was the first military engagement of the Texas Revolution. It was fought near Gonzales, Texas, on October 2, 1835, between rebellious Texian settlers and a detachment of Mexican Army soldiers. In 1831, Green DeWitt asked the Mexican authorities to lend the Gonzales colonists a cannon to help protect them from frequent Comanche raids. One was supplied, on the condition that t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gonzales-20260704.mp3" type="audio/mpeg" length="1462080"/>
+      <guid isPermaLink="false">warvault-battle-of-gonzales-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 17:00:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Ulundi</title>
       <description>The Battle of Ulundi (also known as the Battle of kwaNodwengu or the Battle of oCwecweni) took place at the Zulu capital of Ulundi (Zulu: oNdini) on 4 July 1879 and was the last battle of the Anglo-Zulu War. The British Army broke the military power of the Zulu Kingdom by defeating the main Zulu army and capturing and burning the royal kraal of oNdini.
 
