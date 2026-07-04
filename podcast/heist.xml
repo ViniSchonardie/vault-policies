@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Buffalo crime family</title>
+      <description>The Buffalo crime family, also known as the Magaddino crime family, the Todaro crime family, the New York State crime family, the Buffalo Mafia, the Upstate New York Mafia, and the Arm is an Italian American Mafia crime family based in Buffalo, New York. Criminal investigators assert that the family operates throughout Western New York, Erie, Pennsylvania, and Hamilton, Ontario, Canada. The Buffal</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/buffalo-crime-family-20260704.mp3" type="audio/mpeg" length="1334880"/>
+      <guid isPermaLink="false">heist-buffalo-crime-family-20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 12:59:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rodeo</title>
       <description>Rodeo (  ROH-dee-oh or  rə-DAY-oh) is a competitive equestrian sport that arose out of the working practices of cattle herding in Spain and Mexico, expanding throughout the Americas and to other nations. It was originally based on the skills required of the working vaqueros and, later, cowboys in what today is the western United States, western Canada, and northern Mexico. Today, it is a sporting </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/rodeo-20260704.mp3" type="audio/mpeg" length="1655040"/>
