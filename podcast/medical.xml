@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Germ theory of disease</title>
+      <description>The germ theory of disease is the currently accepted scientific theory explaining the cause of infectious diseases. It states that microorganisms known as pathogens or "germs" can cause disease. These small organisms, which are too small to be seen without magnification, invade animals, plants, and even bacteria. Their growth and reproduction within their hosts can cause disease. "Germ" refers not</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/germ-theory-of-disease-20260705.mp3" type="audio/mpeg" length="1535520"/>
+      <guid isPermaLink="false">medical-germ-theory-of-disease-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 21:53:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pandemic</title>
       <description>A pandemic ( pan-DEM-ik) is an epidemic of an infectious disease that has a sudden increase in cases and spreads across a large region, for instance multiple continents or worldwide, affecting a substantial portion of the human population. Widespread endemic diseases with a stable number of infected individuals such as recurrences of seasonal influenza are generally excluded as they occur simultan</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/pandemic-20260705.mp3" type="audio/mpeg" length="1594080"/>
