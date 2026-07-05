@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1965 Carmel mid-air collision</title>
+      <description>On December 4, 1965, Trans World Airlines Flight 42, a Boeing 707 en route from San Francisco International Airport to John F. Kennedy International Airport, collided in mid-air with Eastern Air Lines Flight 853, a Lockheed Super Constellation en route from Boston Logan International Airport to Newark International Airport, New Jersey, over Carmel, New York.
+TWA Flight 42 made an emergency landing</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1965-carmel-mid-air-collision-20260705.mp3" type="audio/mpeg" length="1637760"/>
+      <guid isPermaLink="false">aviation-1965-carmel-mid-air-collision-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 14:54:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trans-Air Service Flight 671</title>
       <description>Trans-Air Service Flight 671 was a cargo flight from Luxembourg Airport to Mallam Aminu Kano International Airport in Kano, Nigeria. While flying over France on 31 March 1992, the Boeing 707 operating the flight experienced an in-flight separation of two engines on its right wing. Despite the damage to the aircraft, the pilots were able to perform an emergency landing on runway 33 at Istres-Le Tub</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/trans-air-service-flight-671-20260705.mp3" type="audio/mpeg" length="1554720"/>
