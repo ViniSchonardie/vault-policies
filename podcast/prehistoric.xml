@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Siberian Traps</title>
+      <description>The Siberian Traps (Russian: Сибирские траппы, romanized: Sibirskiye trappy) are a large region of volcanic rock, known as a large igneous province, in Siberia, Russia. Large volumes of basaltic lava covered a large expanse of Siberia in a flood basalt event. The massive eruptive event that formed the traps is one of the largest known volcanic events in the last 500 million years. The eruptions co</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/siberian-traps-20260705.mp3" type="audio/mpeg" length="1536960"/>
+      <guid isPermaLink="false">prehistoric-siberian-traps-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 09:02:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ichthyosauria</title>
       <description>Ichthyosauria is an order of large extinct marine reptiles sometimes referred to as "ichthyosaurs", although the term is also used for wider clades in which the order resides.
 Ichthyosaurians thrived during much of the Mesozoic era; based on fossil evidence, they first appeared around 250 million years ago (Ma) and at least one species survived until about 94 million years ago, into the Late Creta</description>
