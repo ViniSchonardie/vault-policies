@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>King cobra</title>
+      <description>The king cobra (Ophiophagus hannah) is a species complex of snakes endemic to Asia. With an average length of 3.18 to 4 m (10.4 to 13.1 ft) and a record length of 5.85 m (19.2 ft), it is the world's longest venomous snake and among the heaviest. Under the genus Ophiophagus, it is not phylogenetically a true cobra despite its common name and some resemblance. Spanning from the Indian subcontinent t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/king-cobra-20260705.mp3" type="audio/mpeg" length="1529760"/>
+      <guid isPermaLink="false">nature-king-cobra-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 12:12:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cassowary</title>
       <description>Cassowaries (Indonesian: kasuari; Biak: man suar 'bird strong'; Tok Pisin: muruk; Papuan: kasu weri 'horned head') are flightless birds of the genus Casuarius, in the order Casuariiformes. They are classified as ratites, flightless birds without a keel on their sternum bones. Cassowaries are native to the tropical forests of New Guinea (Western New Guinea and Papua New Guinea), the Moluccas (Seram</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cassowary-20260705.mp3" type="audio/mpeg" length="1702560"/>
