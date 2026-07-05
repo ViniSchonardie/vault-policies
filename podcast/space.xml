@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-27</title>
+      <description>Soyuz MS-27, identified by NASA as Soyuz 73S, was a Russian crewed Soyuz spaceflight that launched on 8 April 2025 from Site 31/6 at the Baikonur Cosmodrome, bound for the International Space Station. The spacecraft was launched aboard a Soyuz-2.1a rocket carrying three crew members, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, along with NASA astronaut Jonny Kim.
+
+
+== Mission ==
+
+Th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-27-20260705.mp3" type="audio/mpeg" length="1445280"/>
+      <guid isPermaLink="false">space-soyuz-ms-27-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 23:08:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mercury-Atlas 8</title>
       <description>Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, thou</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-8-20260705.mp3" type="audio/mpeg" length="1598880"/>
