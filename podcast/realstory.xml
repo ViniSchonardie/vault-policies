@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Oswald Spengler</title>
+      <description>Oswald Arnold Gottfried Spengler (29 May 1880 – 8 May 1936) was a German polymath whose areas of interest included history, philosophy, mathematics, science, and art, as well as their relation to his organic theory of history. He is best known for his two-volume work The Decline of the West (Der Untergang des Abendlandes), published in 1918 and 1922, covering human history. Spengler's model of his</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/oswald-spengler-20260705.mp3" type="audio/mpeg" length="1358400"/>
+      <guid isPermaLink="false">realstory-oswald-spengler-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 16:06:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Graham Hill</title>
       <description>Norman Graham Hill (15 February 1929 – 29 November 1975) was a British racing driver, rower and motorsport executive, who competed in Formula One from 1958 to 1975. Nicknamed "Mr. Monaco", Hill won two Formula One World Drivers' Championship titles and, at the time of his retirement, held the record for most podium finishes (36); he won 14 Grands Prix across 18 seasons. In American open-wheel raci</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/graham-hill-20260705.mp3" type="audio/mpeg" length="1760640"/>
