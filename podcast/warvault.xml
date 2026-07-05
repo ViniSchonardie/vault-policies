@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Tenaru</title>
+      <description>The Battle of the Tenaru, sometimes called the Battle of the Ilu River or the Battle of Alligator Creek, was a land battle between the Imperial Japanese Army and Allied ground forces that took place on 21 August 1942, on the island of Guadalcanal during the Pacific campaign of World War II. The battle was the first major Japanese land offensive during the Guadalcanal campaign.
+In the battle, U.S. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-tenaru-20260705.mp3" type="audio/mpeg" length="1788000"/>
+      <guid isPermaLink="false">warvault-battle-of-the-tenaru-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 17:05:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Charleston</title>
       <description>The siege of Charleston was a major engagement and major British victory in the American Revolutionary War, fought in the environs of Charles Town (today Charleston), between March 29 and May 12, 1780. The British, following the collapse of their northern strategy in late 1777 and their withdrawal from Philadelphia in 1778, shifted their focus to the North American Southern Colonies. After approxi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-charleston-20260705.mp3" type="audio/mpeg" length="1794720"/>
