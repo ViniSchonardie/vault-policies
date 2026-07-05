@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Smuggling</title>
+      <description>Smuggling is the illegal transportation of objects, substances, information or people, such as out of a house or buildings, into a prison, or across an international border, in violation of applicable laws or other regulations. More broadly, social scientists define smuggling as the purposeful movement across a border in contravention to the relevant legal frameworks.
+There are various motivations</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/smuggling-20260705.mp3" type="audio/mpeg" length="1806720"/>
+      <guid isPermaLink="false">congame-smuggling-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 01:51:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Henry Wirz</title>
       <description>Captain Henry Wirz (born Hartmann Heinrich Wirz; November 25, 1823 – November 10, 1865) was a Confederate States Army officer, doctor, and convicted war criminal best known for commanding Andersonville Prison during the American Civil War. Born in Zurich, Switzerland, Wirz immigrated to the United States in 1849 after being exiled from the canton of Zurich following a conviction of embezzlement an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/henry-wirz-20260704.mp3" type="audio/mpeg" length="1512960"/>
