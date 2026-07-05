@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gangster</title>
+      <description>A gangster (informally gangsta) is a criminal who is a member of a gang. Most gangs are considered to be part of organized crime. Gangsters are also called mobsters, a term derived from mob and the suffix -ster. Gangs provide a level of organization and resources that support much larger and more complex criminal transactions than an individual criminal could achieve. Gangsters have been active fo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/gangster-20260705.mp3" type="audio/mpeg" length="1674720"/>
+      <guid isPermaLink="false">drugempire-gangster-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 20:23:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Victor Amuso</title>
       <description>Vittorio "Little Vic" Amuso (born November 4, 1934) is an American mobster and the boss of the Lucchese crime family. He was described as "The Deadly Don" by Assistant United States Attorney Charles Rose. Amuso's reign is considered one of the bloodiest periods in American Mafia history during the late 1980s and early 1990s, alongside his former underboss and close protégé Anthony Casso, who turne</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/victor-amuso-20260705.mp3" type="audio/mpeg" length="1512480"/>
