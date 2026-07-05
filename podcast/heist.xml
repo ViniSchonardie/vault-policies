@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Home Office</title>
+      <description>The Home Office, also formally referred to as the Home Department, is the United Kingdom's interior ministry. It is responsible for public safety, border security, immigration, passports, and civil registration, as well as policing and criminal justice in England and Wales only (not Scotland or Northern Ireland where it is devolved).
+The department oversees key areas of domestic policy in England </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/home-office-20260705.mp3" type="audio/mpeg" length="1743360"/>
+      <guid isPermaLink="false">heist-home-office-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 21:14:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lincoln County War</title>
       <description>The Lincoln County War was an Old West conflict between rival factions which began in 1878 in Lincoln County, New Mexico Territory, the predecessor of the state of New Mexico, and continued until 1881. The feud became famous because of the participation of William H. Bonney ("Billy the Kid"). Other notable participants included Sheriff William J. Brady, cattle rancher John Chisum, lawyer and busin</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/lincoln-county-war-20260705.mp3" type="audio/mpeg" length="1676640"/>
