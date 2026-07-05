@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Markus Wolf</title>
+      <description>Markus Johannes Wolf (19 January 1923 – 9 November 2006), also known as Mischa, was a German spymaster who served as the head of the Main Directorate for Reconnaissance (Hauptverwaltung Aufklärung), the foreign intelligence division of East Germany's Ministry for State Security (Ministerium für Staatssicherheit, abbr. MfS, commonly known as the Stasi). He was the Stasi's number two for 34 years, w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/markus-wolf-20260705.mp3" type="audio/mpeg" length="1731360"/>
+      <guid isPermaLink="false">shadow-markus-wolf-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 09:44:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Defection</title>
       <description>In politics, a defector is a person who gives up allegiance to one state in exchange for allegiance to another, changing sides in a way which is considered illegitimate by the first state. More broadly, defection involves abandoning a person, cause, or doctrine to which one is bound by some tie, as of allegiance or duty.
 This term is also applied, often pejoratively, to anyone who switches loyalty</description>
