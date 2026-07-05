@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hera</title>
+      <description>In ancient Greek religion, Hera (; Ancient Greek: Ἥρα, romanized: Hḗrā; Ἥρη, Hḗrē in Ionic and Homeric Greek) is the goddess of marriage, women, and family, and the protector of women during childbirth. In Greek mythology, she is queen among the twelve Olympians on Mount Olympus, sister and wife of Zeus, and daughter of the Titans Cronus and Rhea. One of her defining characteristics in myth is her</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hera-20260705.mp3" type="audio/mpeg" length="1520640"/>
+      <guid isPermaLink="false">mythology-hera-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 19:17:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ra</title>
       <description>Ra (; Ancient Egyptian: rꜥ; also transliterated rꜥw, pronounced [ˈɾiːʕuw] ; cuneiform: 𒊑𒀀 ri-a or 𒊑𒅀ri-ia; Phoenician: 𐤓𐤏, romanized: rʿ) or Re (Coptic: ⲣⲏ, romanized: Rē) was the ancient Egyptian deity of the Sun. By the Fifth Dynasty, in the 25th and 24th centuries BC, Ra had become one of the most important gods in ancient Egyptian religion, identified primarily with the noon-day Sun. Ra </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ra-20260705.mp3" type="audio/mpeg" length="1586880"/>
