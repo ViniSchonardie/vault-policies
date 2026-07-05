@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Framlingham Castle</title>
+      <description>Framlingham Castle is a castle in the market town of Framlingham, Suffolk, England. An early motte and bailey or ringwork Norman castle was built on the Framlingham site by 1148, but this was destroyed (slighted) by Henry II of England in the aftermath of the Revolt of 1173–1174. Its replacement, constructed by Roger Bigod, the Earl of Norfolk, was unusual for the time in having no central keep, b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/framlingham-castle-20260705.mp3" type="audio/mpeg" length="1805280"/>
+      <guid isPermaLink="false">royal-framlingham-castle-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 18:03:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>French Royal Army</title>
       <description>The French Royal Army (French: Armée Royale Française) was the principal land force of the Kingdom of France. It served the Bourbon dynasty from the reign of Louis XIV in the mid-17th century to that of Charles X in the 19th, with an interlude from 1792 to 1814 and another during the Hundred Days in 1815. It was permanently dissolved following the July Revolution in 1830. The French Royal Army bec</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/french-royal-army-20260705.mp3" type="audio/mpeg" length="1952640"/>
