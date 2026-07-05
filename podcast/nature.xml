@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cassowary</title>
+      <description>Cassowaries (Indonesian: kasuari; Biak: man suar 'bird strong'; Tok Pisin: muruk; Papuan: kasu weri 'horned head') are flightless birds of the genus Casuarius, in the order Casuariiformes. They are classified as ratites, flightless birds without a keel on their sternum bones. Cassowaries are native to the tropical forests of New Guinea (Western New Guinea and Papua New Guinea), the Moluccas (Seram</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cassowary-20260705.mp3" type="audio/mpeg" length="1702560"/>
+      <guid isPermaLink="false">nature-cassowary-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 06:43:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Orangutan</title>
       <description>Orangutans are great apes native to the rainforests of Indonesia and Malaysia. They are now found only in parts of Borneo and Sumatra, but during the Pleistocene they ranged throughout Southeast Asia and South China. Classified in the genus Pongo, orangutans were originally considered to be one species. In 1996, they were divided into two species: the Bornean orangutan (P. pygmaeus, with three sub</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/orangutan-20260704.mp3" type="audio/mpeg" length="1740960"/>
