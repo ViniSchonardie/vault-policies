@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1995 Gulf of Aqaba earthquake</title>
+      <description>The 1995 Gulf of Aqaba earthquake (also known as Nuweiba earthquake) occurred on November 22 at 06:15 local time (04:15 UTC) and registered 7.3 on the Mw scale. The epicenter was located in the central segment of the Gulf of Aqaba, the narrow body of water that separates Egypt's Sinai Peninsula from the western border of Saudi Arabia. At least 8 people were killed and 30 were injured in the meizos</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1995-gulf-of-aqaba-earthquake-20260705.mp3" type="audio/mpeg" length="1681920"/>
+      <guid isPermaLink="false">history-1995-gulf-of-aqaba-earthquake-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1575 Valdivia earthquake</title>
       <description>The 1575 Valdivia earthquake occurred at 14:30 local time on December 16. It had an estimated magnitude of 8.5 of on the surface-wave magnitude scale and an estimated magnitude of 9.0+ on the Moment magnitude scale and led to the flood of Valdivia, Chile.
 Pedro Mariño de Lobera, who was corregidor of Valdivia by that time, wrote that the waters of the river opened like the Red Sea, one part flowin</description>
