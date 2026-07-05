@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Charleston</title>
+      <description>The siege of Charleston was a major engagement and major British victory in the American Revolutionary War, fought in the environs of Charles Town (today Charleston), between March 29 and May 12, 1780. The British, following the collapse of their northern strategy in late 1777 and their withdrawal from Philadelphia in 1778, shifted their focus to the North American Southern Colonies. After approxi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-charleston-20260705.mp3" type="audio/mpeg" length="1794720"/>
+      <guid isPermaLink="false">warvault-siege-of-charleston-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 10:19:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Queenston Heights</title>
       <description>The Battle of Queenston Heights was the first major engagement of the War of 1812. The battle took place on 13 October 1812, at Queenston in Upper Canada (now Ontario) and was a decisive British victory. United States regulars and New York militia led by Major General Stephen Van Rensselaer crossed the Niagara River from Lewiston and engaged British regulars and Canadian militia led by Major Gener</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-queenston-heights-20260705.mp3" type="audio/mpeg" length="1468320"/>
