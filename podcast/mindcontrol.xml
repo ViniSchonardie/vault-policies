@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Evergreen Cemetery (Oakland, California)</title>
+      <description>Evergreen Cemetery is a cemetery, crematorium and mausoleum located in Oakland, California, near the Eastmont Town Center and Mills College. The cemetery was established in 1903 and is located on a small hill, with a large combined mausoleum, crematorium and chapel at the top of the hill. It is the second largest cemetery in Oakland, after the Mountain View Cemetery and Saint Mary Cemetery complex</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/evergreen-cemetery-oakland-california-20260705.mp3" type="audio/mpeg" length="1433280"/>
+      <guid isPermaLink="false">mindcontrol-evergreen-cemetery-oakland-california-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 11:39:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mysteries of Isis</title>
       <description>The mysteries of Isis were religious initiation rites performed in the cult of the Egyptian goddess Isis in the Greco-Roman world. They were modeled on other mystery rites, particularly the Eleusinian mysteries in honor of the Greek goddesses Demeter and Persephone, and originated sometime between the third century BCE and the second century CE. Despite their mainly Hellenistic origins, the myster</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/mysteries-of-isis-20260705.mp3" type="audio/mpeg" length="1443360"/>
