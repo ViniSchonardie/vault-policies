@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aircraft hijacking</title>
+      <description>Aircraft hijacking (also known as airplane hijacking, skyjacking, plane hijacking, plane jacking, air robbery, air piracy, or aircraft piracy, with the last term used within the special aircraft jurisdiction of the United States) is the unlawful seizure of an aircraft by an individual or a group. Dating from the earliest of hijackings, most cases involve the pilot being forced to fly according to </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/aircraft-hijacking-20260705.mp3" type="audio/mpeg" length="1156800"/>
+      <guid isPermaLink="false">heist-aircraft-hijacking-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 07:38:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Private investigator</title>
       <description>A private investigator (often abbreviated to PI; also known as a private detective, an inquiry agent or informally a private eye) is a person who can be hired by individuals or groups to undertake investigatory law services. Private investigators often work for attorneys in civil and criminal cases.
 
