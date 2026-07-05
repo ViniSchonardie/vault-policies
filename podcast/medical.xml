@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Edward Jenner</title>
+      <description>Edward Jenner (17 May 1749 – 26 January 1823) was an English physician and scientist who pioneered the concept of vaccines and created the smallpox vaccine, the world's first vaccine. The terms vaccine and vaccination are derived from Variolae vaccinae ("pustules of the cow"), the term devised by Jenner to denote cowpox. He used it in 1798 in the title of his Inquiry into the Variolae vaccinae kno</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/edward-jenner-20260705.mp3" type="audio/mpeg" length="1686720"/>
+      <guid isPermaLink="false">medical-edward-jenner-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 07:59:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Baudelaire</title>
       <description>Charles-Pierre Baudelaire (UK: ; US: ; French: [ʃaʁl(ə) bodlɛʁ] ; 9 April 1821 – 31 August 1867) was a French poet, essayist, translator and art critic. His poems are described as exhibiting mastery of rhythm and rhyme, containing an exoticism inherited from the Romantics, and are based on observations of real life.
 His most famous work, a book of lyric poetry titled Les Fleurs du mal (The Flowers</description>
