@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Counterfeit</title>
+      <description>A counterfeit is a fake or unauthorized replica of a genuine product, such as money, documents, designer items, or other valuable goods. Counterfeiting generally involves creating an imitation of a genuine item that closely resembles the original to deceive others into believing it is authentic.
+
+Counterfeit products are often made to take advantage of the higher value of the original product, typ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/counterfeit-20260705.mp3" type="audio/mpeg" length="1390080"/>
+      <guid isPermaLink="false">congame-counterfeit-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 10:06:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Smuggling</title>
       <description>Smuggling is the illegal transportation of objects, substances, information or people, such as out of a house or buildings, into a prison, or across an international border, in violation of applicable laws or other regulations. More broadly, social scientists define smuggling as the purposeful movement across a border in contravention to the relevant legal frameworks.
 There are various motivations</description>
