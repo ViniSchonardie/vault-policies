@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ponary Massacre</title>
+      <description>The Ponary massacre (Polish: zbrodnia w Ponarach), or the Paneriai massacre (Lithuanian: Panerių žudynės), was the mass murder of up to 100,000 people, mostly Jews, Poles, and Soviet citizens, by German SD and SS and the Lithuanian Ypatingasis būrys killing squads, during World War II and the Holocaust in the Generalbezirk Litauen of Reichskommissariat Ostland. The murders took place between July </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/ponary-massacre-20260705.mp3" type="audio/mpeg" length="1620960"/>
+      <guid isPermaLink="false">trials-ponary-massacre-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 00:01:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Coastal Road Massacre</title>
       <description>The coastal road massacre occurred on 11 March 1978, when Palestinian militants hijacked a bus on the Coastal Highway of Israel and murdered its occupants; 38 Israeli civilians, including 13 children, were killed as a result of the attack while 76 more were wounded. The attack was planned by the influential Palestinian militant leader Khalil al-Wazir (aka Abu Jihad) and carried out by Fatah, a Pal</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/coastal-road-massacre-20260704.mp3" type="audio/mpeg" length="1678560"/>
