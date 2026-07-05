@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sun Wukong</title>
+      <description>Sun Wukong (Chinese: 孫悟空, Mandarin pronunciation: [swə́n ûkʰʊ́ŋ]), also known as the Monkey King, is a literary and religious figure best known as one of the main characters in the 16th-century Chinese novel Journey to the West. In the novel, Sun Wukong is an intelligent monkey (likely a rhesus macaque or a golden snub-nosed monkey) born from a stone who acquires supernatural powers through Taoist</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/sun-wukong-20260705.mp3" type="audio/mpeg" length="1466400"/>
+      <guid isPermaLink="false">mythology-sun-wukong-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 06:12:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poseidon</title>
       <description>Poseidon (; Ancient Greek: Ποσειδῶν, romanised: Poseidôn) is one of the twelve Olympians in ancient Greek religion and mythology, presiding over the sea, storms, earthquakes and horses. He was the protector of seafarers and the guardian of many Hellenic cities and colonies. In pre-Olympian Bronze Age Greece, Poseidon was venerated as a chief deity at Pylos and Thebes, with the cult title "earth sh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/poseidon-20260704.mp3" type="audio/mpeg" length="1167840"/>
