@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Keresztes</title>
+      <description>The Battle of Keresztes (also known as the Battle of Mezőkeresztes) (Turkish: Haçova Muharebesi) took place on 24–26 October 1596. It was fought between a combined Habsburg-Transylvanian force and the Ottoman Empire near the village of Mezőkeresztes (Turkish: Haçova) in modern-day northern Hungary. The Ottomans routed the Habsburg-led army, but due to their own losses, they were unable to exploit </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-keresztes-20260705.mp3" type="audio/mpeg" length="1646880"/>
+      <guid isPermaLink="false">ancient-battle-of-keresztes-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 22:08:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lobengula</title>
       <description>Lobengula Khumalo (c. 1835 – c. 1894) was the second and last official king of Mthwakazi (historically called Matabeleland in English). Both names in the Ndebele language mean "the men of the long shields", a reference to the Ndebele warriors' use of the Nguni shield.
 
