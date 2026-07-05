@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Salvatore Riina</title>
+      <description>Salvatore Riina (16 November 1930 – 17 November 2017), nicknamed Totò, was an Italian mobster and chief of the Sicilian Mafia, known for a ruthless murder campaign that reached a peak in the early 1990s with the assassinations of Antimafia Commission prosecutors Giovanni Falcone and Paolo Borsellino, resulting in widespread public outcry, legal change and a major crackdown by the authorities. He w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/salvatore-riina-20260705.mp3" type="audio/mpeg" length="1873440"/>
+      <guid isPermaLink="false">drugempire-salvatore-riina-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 06:44:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gaza–Israel conflict</title>
       <description>The Gaza–Israel conflict is a localized part of the Israeli–Palestinian conflict beginning in 1948, when about 200,000 of the more than 700,000 Palestinians who fled or were expelled from their homes settled in the Gaza Strip as refugees. Since then, Israel and Palestinian militant groups have fought 15 wars in the Gaza Strip. The number of Palestinians killed in the Gaza war (ongoing since 2023) </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/gazaisrael-conflict-20260704.mp3" type="audio/mpeg" length="1884960"/>
