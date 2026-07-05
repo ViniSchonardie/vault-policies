@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kermit Gosnell</title>
+      <description>Kermit Barron Gosnell was an American serial killer and abortion doctor. At his clinic in West Philadelphia, Gosnell provided illegal late-term abortions, committed post-labor infanticide after many live births, and ran a prescription pill mill which eventually attracted federal attention. Gosnell was convicted of the murders of three infants who were born alive after using drugs to induce labor, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kermit-gosnell-20260705.mp3" type="audio/mpeg" length="1709280"/>
+      <guid isPermaLink="false">crime-kermit-gosnell-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 05:08:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boston Strangler</title>
       <description>The Boston Strangler is the murderer of 13 women in Greater Boston during the early 1960s. The crimes were attributed to Albert DeSalvo (1931–1973) based on his confession, on details revealed in court during a separate case, and DNA evidence linking him to the final victim.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/boston-strangler-20260704.mp3" type="audio/mpeg" length="1487520"/>
