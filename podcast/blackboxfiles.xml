@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Trans-Air Service Flight 671</title>
+      <description>Trans-Air Service Flight 671 was a cargo flight from Luxembourg Airport to Mallam Aminu Kano International Airport in Kano, Nigeria. While flying over France on 31 March 1992, the Boeing 707 operating the flight experienced an in-flight separation of two engines on its right wing. Despite the damage to the aircraft, the pilots were able to perform an emergency landing on runway 33 at Istres-Le Tub</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/trans-air-service-flight-671-20260705.mp3" type="audio/mpeg" length="1554720"/>
+      <guid isPermaLink="false">aviation-trans-air-service-flight-671-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 08:09:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flying Tiger Line Flight 739</title>
       <description>Flying Tiger Line Flight 739 was a Lockheed L-1049 Super Constellation propliner that disappeared on March 16, 1962, over the western Pacific Ocean. The aircraft, which had been chartered by the United States Army, was transporting ninety-six military passengers from Travis Air Force Base in California to Tan Son Nhut International Airport in Saigon, South Vietnam. After refueling at Andersen Air </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flying-tiger-line-flight-739-20260704.mp3" type="audio/mpeg" length="1637760"/>
