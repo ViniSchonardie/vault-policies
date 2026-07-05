@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dan-Air Flight 1008</title>
+      <description>Dan-Air Flight 1008 was a fatal accident involving a Boeing 727-46 jet aircraft operated by Dan Air Services Limited on a chartered international passenger service from Manchester to Tenerife. The accident occurred on 25 April 1980 in a forest on Tenerife's Mount La Esperanza, when the aircraft's flight crew wrongly executed an unpublished holding pattern in an area of very high terrain; it result</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/dan-air-flight-1008-20260705.mp3" type="audio/mpeg" length="1615680"/>
+      <guid isPermaLink="false">aviation-dan-air-flight-1008-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 21:56:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1965 Carmel mid-air collision</title>
       <description>On December 4, 1965, Trans World Airlines Flight 42, a Boeing 707 en route from San Francisco International Airport to John F. Kennedy International Airport, collided in mid-air with Eastern Air Lines Flight 853, a Lockheed Super Constellation en route from Boston Logan International Airport to Newark International Airport, New Jersey, over Carmel, New York.
 TWA Flight 42 made an emergency landing</description>
