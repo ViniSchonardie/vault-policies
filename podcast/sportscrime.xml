@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>National Rugby League</title>
+      <description>The National Rugby League (also known as the NRL Telstra Premiership for sponsorship reasons) is a professional  rugby league competition in Oceania which is currently contested by 17 teams from New South Wales, Queensland, Victoria, the Australian Capital Territory, and New Zealand. A Perth-based expansion team is set to enter the competition in 2027. A Papua New Guinea-based expansion team is se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/national-rugby-league-20260705.mp3" type="audio/mpeg" length="1850400"/>
+      <guid isPermaLink="false">sportscrime-national-rugby-league-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 20:55:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amir Khan (boxer)</title>
       <description>Amir Iqbal Khan  (born 8 December 1986) is a British former professional boxer who competed from 2005 to 2022. Born and raised in Bolton, Khan began to box competitively at the age of 11. He rose to fame during the 2004 Summer Olympics, where he won a silver medal in the lightweight division and became at the age of 17, Britain's youngest boxing Olympic medalist. He turned professional in 2005. In</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/amir-khan-boxer-20260705.mp3" type="audio/mpeg" length="1691520"/>
