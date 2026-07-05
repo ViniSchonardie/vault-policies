@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eugen Weidmann</title>
+      <description>Eugen Weidmann was a German-born criminal and serial killer who was executed by guillotine in France in June 1939, the last public execution in France, an execution witnessed by the 17-year-old Christopher Lee who was visiting Paris at the time.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/eugen-weidmann-20260705.mp3" type="audio/mpeg" length="1564800"/>
+      <guid isPermaLink="false">crime-eugen-weidmann-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 18:14:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Christopher Wilder</title>
       <description>Christopher Bernard Wilder, also known as the Beauty Queen Killer and the Snapshot Killer, was an Australian-American serial killer who abducted at least twelve young women and girls, killing eight of them during a six-week, cross-country crime spree in the United States in early 1984. Having committed numerous rapes and sexual assaults in Australia and the United States dating back to 1963, Wilde</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/christopher-wilder-20260705.mp3" type="audio/mpeg" length="1617120"/>
