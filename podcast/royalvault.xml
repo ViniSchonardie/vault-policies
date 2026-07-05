@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kilkenny Castle</title>
+      <description>Kilkenny Castle (Irish: Caisleán Chill Chainnigh pronounced [ˈkaʃlʲaːnˠˈçiːl̪ʲˈxan̪ʲiː]) is a castle in Kilkenny, Ireland, built in 1260 to control a fording-point of the River Nore and the junction of several routeways. It was a symbol of Norman occupation, and in its original 13th-century condition, it would have formed an important element of the town's defences with four large circular corner </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kilkenny-castle-20260705.mp3" type="audio/mpeg" length="1897920"/>
+      <guid isPermaLink="false">royal-kilkenny-castle-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 05:05:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eltham Palace</title>
       <description>Eltham Palace is a large house at Eltham ( EL-təm) in southeast London, England, within the Royal Borough of Greenwich. The house consists of the medieval great hall of a former royal residence, to which an Art Deco extension was added in the 1930s. The hammerbeam roof of the great hall is the third-largest of its type in England, and the Art Deco interior of the house has been described as a "mas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/eltham-palace-20260704.mp3" type="audio/mpeg" length="1704960"/>
