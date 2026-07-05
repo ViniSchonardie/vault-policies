@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mediumship</title>
+      <description>Mediumship is the practice of purportedly mediating communication between familiar spirits or spirits of the dead and living human beings. Practitioners are known as "mediums" or "spirit mediums". There are different types of mediumship or spirit channelling, including séance tables, trance, and ouija. The practice is associated with spiritualism and spiritism. A similar New Age practice is known </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/mediumship-20260705.mp3" type="audio/mpeg" length="1809600"/>
+      <guid isPermaLink="false">paranormal-mediumship-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 12:21:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poltergeist</title>
       <description>In German folklore and ghostlore, a poltergeist ( or ; German: [ˈpɔltɐɡaɪ̯st] ; 'rumbling ghost' or 'noisy spirit') is a type of ghost or spirit that is responsible for physical disturbances, such as loud noises and objects being moved or destroyed. Most claims or fictional descriptions of poltergeists show them as being capable of pinching, biting, hitting, and tripping people. They are also depi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/poltergeist-20260705.mp3" type="audio/mpeg" length="1994400"/>
