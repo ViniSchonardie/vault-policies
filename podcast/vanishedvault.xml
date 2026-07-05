@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>David Greenglass</title>
+      <description>David Greenglass (March 2, 1922 – July 1, 2014) was an American machinist who worked on the Manhattan Project and was an atomic spy for the Soviet Union. He was briefly stationed at the Clinton Engineer Works uranium enrichment facility at Oak Ridge, Tennessee, and then worked at the Los Alamos Laboratory in New Mexico from August 1944 until February 1946. 
+He provided testimony that helped convic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/david-greenglass-20260705.mp3" type="audio/mpeg" length="1520160"/>
+      <guid isPermaLink="false">shadow-david-greenglass-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 16:06:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Markus Wolf</title>
       <description>Markus Johannes Wolf (19 January 1923 – 9 November 2006), also known as Mischa, was a German spymaster who served as the head of the Main Directorate for Reconnaissance (Hauptverwaltung Aufklärung), the foreign intelligence division of East Germany's Ministry for State Security (Ministerium für Staatssicherheit, abbr. MfS, commonly known as the Stasi). He was the Stasi's number two for 34 years, w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/markus-wolf-20260705.mp3" type="audio/mpeg" length="1731360"/>
