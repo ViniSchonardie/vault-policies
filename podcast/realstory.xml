@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Graham Hill</title>
+      <description>Norman Graham Hill (15 February 1929 – 29 November 1975) was a British racing driver, rower and motorsport executive, who competed in Formula One from 1958 to 1975. Nicknamed "Mr. Monaco", Hill won two Formula One World Drivers' Championship titles and, at the time of his retirement, held the record for most podium finishes (36); he won 14 Grands Prix across 18 seasons. In American open-wheel raci</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/graham-hill-20260705.mp3" type="audio/mpeg" length="1760640"/>
+      <guid isPermaLink="false">realstory-graham-hill-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 09:41:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carl Benz</title>
       <description>Carl (or Karl) Friedrich Benz (German: [kaʁl ˈfʁiːdʁɪç ˈbɛnts] ; born Karl Friedrich Michael Vaillant; 25 November 1844 – 4 April 1929) was a German engine designer and automotive engineer. His Benz Patent-Motorwagen from 1885 is considered the first practical, modern automobile and the first car to be put into series production. He received a patent for the motorcar in 1886, the same year he firs</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/carl-benz-20260704.mp3" type="audio/mpeg" length="1593600"/>
