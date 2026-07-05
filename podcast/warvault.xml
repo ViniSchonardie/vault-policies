@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Queenston Heights</title>
+      <description>The Battle of Queenston Heights was the first major engagement of the War of 1812. The battle took place on 13 October 1812, at Queenston in Upper Canada (now Ontario) and was a decisive British victory. United States regulars and New York militia led by Major General Stephen Van Rensselaer crossed the Niagara River from Lewiston and engaged British regulars and Canadian militia led by Major Gener</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-queenston-heights-20260705.mp3" type="audio/mpeg" length="1468320"/>
+      <guid isPermaLink="false">warvault-battle-of-queenston-heights-20260705</guid>
+      <pubDate>Sun, 05 Jul 2026 03:50:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Gonzales</title>
       <description>The Battle of Gonzales was the first military engagement of the Texas Revolution. It was fought near Gonzales, Texas, on October 2, 1835, between rebellious Texian settlers and a detachment of Mexican Army soldiers. In 1831, Green DeWitt asked the Mexican authorities to lend the Gonzales colonists a cannon to help protect them from frequent Comanche raids. One was supplied, on the condition that t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gonzales-20260704.mp3" type="audio/mpeg" length="1462080"/>
