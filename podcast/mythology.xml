@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Anubis</title>
+      <description>Anubis ( ; Ancient Greek: Ἄνουβις), also known as Inpu, Inpw, Jnpw, or Anpu in Ancient Egyptian (Coptic: ⲁⲛⲟⲩⲡ, romanized: Anoup), is the god of funerary rites, protector of graves, and guide to the underworld in ancient Egyptian religion, usually depicted as a canine or a man with a canine head.
+Like many ancient Egyptian deities, Anubis assumed different roles in various contexts. Depicted as a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/anubis-20260706.mp3" type="audio/mpeg" length="1451520"/>
+      <guid isPermaLink="false">mythology-anubis-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 13:52:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gilgamesh</title>
       <description>Gilgamesh (, ; Akkadian: 𒀭𒄑𒂆𒈦, romanized: Gilgāmeš; originally Sumerian: 𒀭𒄑𒉋𒂵𒎌, romanized: Bilgames) was a hero in ancient Mesopotamian mythology and the protagonist of the Epic of Gilgamesh, an epic poem written in Akkadian during the late 2nd millennium BC. He was possibly a historical king of the Sumerian city-state of Uruk, who was posthumously deified. His rule probably would have ta</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/gilgamesh-20260706.mp3" type="audio/mpeg" length="1665600"/>
