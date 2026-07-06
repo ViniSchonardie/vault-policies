@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Death Row</title>
+      <description>Death row, also known as condemned row, is a place in a prison that houses inmates awaiting execution after being convicted of a capital crime and sentenced to death. The term is also used figuratively to describe the state of awaiting execution ("being on death row"), even in places where no special facility or separate unit for condemned inmates exists. In the United States, after an individual </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/death-row-20260706.mp3" type="audio/mpeg" length="1161120"/>
+      <guid isPermaLink="false">trials-death-row-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 00:04:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Civil Rights Act Of 1968</title>
       <description>The Civil Rights Act of 1968 (Pub. L. 90–284, 82 Stat. 73, enacted April 11, 1968) is a landmark law in the United States signed into law by President Lyndon B. Johnson during the King assassination riots.
 Titles II through VII comprise the Indian Civil Rights Act, which applies to the Native American tribes of the United States and makes many but not all of the guarantees of the U.S. Bill of Righ</description>
