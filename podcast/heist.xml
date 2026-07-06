@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2006 Richmond spree murders</title>
+      <description>The 2006 Richmond spree murders took place during a seven-day period in January 2006 in and around Richmond, Virginia, United States; seven people—four members of the Harvey family and three members of the Baskerville–Tucker family—were killed.
+The perpetrators were Ricky Javon Gray (March 9, 1977 – January 18, 2017) and his nephew, Ray Joseph Dandridge (born January 24, 1977). Gray's girlfriend A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/2006-richmond-spree-murders-20260706.mp3" type="audio/mpeg" length="1579200"/>
+      <guid isPermaLink="false">heist-2006-richmond-spree-murders-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 21:46:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Quantrill</title>
       <description>William Clarke Quantrill (July 31, 1837 – June 6, 1865) was a Confederate guerrilla leader during the American Civil War.
 Quantrill experienced a turbulent childhood, became a schoolteacher, and joined a group of bandits who roamed the Missouri and Kansas countryside to apprehend escaped slaves. The group became irregular pro-Confederate soldiers called Quantrill's Raiders, a partisan ranger outfi</description>
