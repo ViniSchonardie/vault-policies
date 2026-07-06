@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Peter II of Russia</title>
+      <description>Peter II Alexeyevich (23 October 1715 – 30 January 1730) was Emperor of Russia from 1727 until 1730, when he died at the age of 14. He was the only son of Tsarevich Alexei Petrovich and Charlotte Christine of Brunswick-Lüneburg.  After Catherine I's death, Alexander Menshikov controlled Peter II, but was thwarted by his opponents and exiled by Peter. Peter was also influenced by favorites like Pri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/peter-ii-of-russia-20260706.mp3" type="audio/mpeg" length="1604640"/>
+      <guid isPermaLink="false">medical-peter-ii-of-russia-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 09:00:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Germ theory of disease</title>
       <description>The germ theory of disease is the currently accepted scientific theory explaining the cause of infectious diseases. It states that microorganisms known as pathogens or "germs" can cause disease. These small organisms, which are too small to be seen without magnification, invade animals, plants, and even bacteria. Their growth and reproduction within their hosts can cause disease. "Germ" refers not</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/medical-audio/germ-theory-of-disease-20260705.mp3" type="audio/mpeg" length="1535520"/>
