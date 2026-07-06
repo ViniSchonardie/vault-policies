@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-133</title>
+      <description>STS-133 (ISS assembly flight ULF5) was the 133rd mission in NASA's Space Shuttle program; during the mission, Space Shuttle Discovery docked with the International Space Station. It was Discovery's 39th and final mission. The mission launched on February 24, 2011, and landed on March 9, 2011. The crew consisted of six American astronauts, all of whom had been on prior spaceflights, headed by Comma</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-133-20260706.mp3" type="audio/mpeg" length="1859040"/>
+      <guid isPermaLink="false">space-sts-133-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 16:59:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aqua</title>
       <description>Aqua (EOS PM-1) is a NASA scientific research satellite in orbit around the Earth, studying the precipitation, evaporation, and cycling of water. It is the second major component of the Earth Observing System (EOS) preceded by Terra (launched 1999) and followed by Aura (launched 2004).
 The name "Aqua" comes from the Latin word for water. The satellite was launched from Vandenberg Air Force Base on</description>
