@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Psychic</title>
+      <description>A psychic is a person who claims to use powers rooted in parapsychology, such as extrasensory perception (ESP), to identify information hidden from the normal senses, particularly involving telepathy or clairvoyance; or who performs acts that are apparently inexplicable by natural laws, such as psychokinesis or teleportation. Although many people believe in psychic abilities, the scientific consen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/paranormal-audio/psychic-20260706.mp3" type="audio/mpeg" length="1826400"/>
+      <guid isPermaLink="false">paranormal-psychic-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 21:01:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flannan Isles Lighthouse</title>
       <description>Flannan Isles Lighthouse is a lighthouse near the highest point on Eilean Mòr, one of the Flannan Isles in the Outer Hebrides off the west coast of Scotland. In 1900, its three keepers disappeared in mysterious circumstances.
 
