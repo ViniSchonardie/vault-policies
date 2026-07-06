@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tom Horn</title>
+      <description>Thomas Horn Jr., (November 21, 1861 – November 20, 1903) was an American cowboy, scout, soldier, range detective, rodeo performer, and Pinkerton agent in the 19th-century and early 20th-century American Old West. Believed to have committed 17 killings as a hired gunman throughout the West, Horn was convicted in 1902 of the murder of 14-year-old Willie Nickell near Iron Mountain, Wyoming. Willie wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/tom-horn-20260706.mp3" type="audio/mpeg" length="1765920"/>
+      <guid isPermaLink="false">heist-tom-horn-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 08:32:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Home Office</title>
       <description>The Home Office, also formally referred to as the Home Department, is the United Kingdom's interior ministry. It is responsible for public safety, border security, immigration, passports, and civil registration, as well as policing and criminal justice in England and Wales only (not Scotland or Northern Ireland where it is devolved).
 The department oversees key areas of domestic policy in England </description>
