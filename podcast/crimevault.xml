@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hillside Strangler</title>
+      <description>The Hillside Strangler, later the Hillside Stranglers, is the media epithet for one, later discovered to be two, American serial killers who terrorized Los Angeles, California, between October 1977 and February 1978, with the nicknames originating from the fact that many of the victims' bodies were discovered on the wooded hillsides surrounding the city. The perpetrators were identified as cousins</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/hillside-strangler-20260706.mp3" type="audio/mpeg" length="1883520"/>
+      <guid isPermaLink="false">crime-hillside-strangler-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 19:05:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thomas Silverstein</title>
       <description>Thomas Edward Silverstein was an American criminal who spent the last 42 years of his life in prison after being convicted of three separate murders, with a fourth murder conviction being overturned and Silverstein being implicated in a fifth, while imprisoned for armed robbery. Silverstein spent the last 36 years of his life in solitary confinement for killing corrections officer Merle Clutts at </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-silverstein-20260706.mp3" type="audio/mpeg" length="1700160"/>
