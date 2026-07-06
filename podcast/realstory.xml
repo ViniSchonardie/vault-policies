@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Prince Louis of Battenberg</title>
+      <description>Louis Alexander Mountbatten, 1st Marquess of Milford Haven (24 May 1854 – 11 September 1921), formerly Prince Louis Alexander of Battenberg, was a British naval officer and German prince related by marriage to the British royal family.
+Although born in Austria, and brought up in Italy and Germany, Louis enrolled in the British Royal Navy at the age of fourteen. Queen Victoria and her son the Princ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/prince-louis-of-battenberg-20260706.mp3" type="audio/mpeg" length="1581600"/>
+      <guid isPermaLink="false">realstory-prince-louis-of-battenberg-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 17:42:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of Benazir Bhutto</title>
       <description>Benazir Bhutto was assassinated on 27 December 2007 in Rawalpindi, Pakistan. Bhutto, the former prime minister of Pakistan and then-leader of the opposition Pakistan People's Party, had been campaigning ahead of elections scheduled for January 2008. Shots were fired at her after a political rally at Liaqat National Bagh, and a suicide bomb was detonated immediately following the shooting. She was </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-benazir-bhutto-20260706.mp3" type="audio/mpeg" length="1858560"/>
