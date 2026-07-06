@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Chimpanzee</title>
+      <description>The chimpanzee (; Pan troglodytes), also simply known as the chimp, is a species of medium-sized great ape found along the forested belt of equatorial Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/chimpanzee-20260706.mp3" type="audio/mpeg" length="1922400"/>
+      <guid isPermaLink="false">nature-chimpanzee-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 14:26:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anglerfish</title>
       <description>The anglerfish are ray-finned fish in the order Lophiiformes (). Both the order's common and scientific name comes from the characteristic mode of predation, in which a modified dorsal fin ray acts as a lure for prey (akin to a human angler, and likened to a crest or "lophos"). The modified fin ray, with the very tip being the esca and the length of the structure the illicium, is adapted to attrac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/anglerfish-20260706.mp3" type="audio/mpeg" length="1353600"/>
