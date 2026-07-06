@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Norse mythology</title>
+      <description>Norse, Nordic, or Scandinavian mythology, is the body of myths belonging to the North Germanic peoples, stemming from Old Norse religion and continuing after the Christianization of Scandinavia as the Nordic folklore of the modern period. The northernmost extension of Germanic mythology and stemming from Proto-Germanic folklore, Norse mythology consists of tales of various deities, beings, and her</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/norse-mythology-20260706.mp3" type="audio/mpeg" length="1722240"/>
+      <guid isPermaLink="false">mythology-norse-mythology-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 19:57:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anubis</title>
       <description>Anubis ( ; Ancient Greek: Ἄνουβις), also known as Inpu, Inpw, Jnpw, or Anpu in Ancient Egyptian (Coptic: ⲁⲛⲟⲩⲡ, romanized: Anoup), is the god of funerary rites, protector of graves, and guide to the underworld in ancient Egyptian religion, usually depicted as a canine or a man with a canine head.
 Like many ancient Egyptian deities, Anubis assumed different roles in various contexts. Depicted as a </description>
