@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bonobo</title>
+      <description>The bonobo (; Pan paniscus), also historically called the pygmy chimpanzee (less often the dwarf chimpanzee or gracile chimpanzee), is the smallest species of great ape and one of the two making up the genus Pan (the other being the common chimpanzee, Pan troglodytes). While bonobos are today recognized as a distinct species, they were initially thought to be a subspecies of Pan troglodytes, becau</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bonobo-20260706.mp3" type="audio/mpeg" length="1805280"/>
+      <guid isPermaLink="false">nature-bonobo-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 20:55:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chimpanzee</title>
       <description>The chimpanzee (; Pan troglodytes), also simply known as the chimp, is a species of medium-sized great ape found along the forested belt of equatorial Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/chimpanzee-20260706.mp3" type="audio/mpeg" length="1922400"/>
