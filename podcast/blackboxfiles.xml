@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Trans-Colorado Airlines Flight 2286</title>
+      <description>Trans-Colorado Airlines Flight 2286 was a scheduled domestic passenger flight from Denver, Colorado, United States, to Durango, Colorado, United States, operated for Continental Express by Trans-Colorado Airlines. On January 19, 1988, the Swearingen Metroliner crashed onto terrain near Bayfield, Colorado, while on approach to Durango-La Plata County Airport. Out of the 17 people on board, 9 were k</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/trans-colorado-airlines-flight-2286-20260706.mp3" type="audio/mpeg" length="1772160"/>
+      <guid isPermaLink="false">aviation-trans-colorado-airlines-flight-2286-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 16:30:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bar Harbor Airlines Flight 1808</title>
       <description>Bar Harbor Airlines Flight 1808 was a scheduled flight from Logan International Airport to Bangor International Airport in the United States on August 25, 1985. On final approach to Auburn/Lewiston Municipal Airport, the Bar Harbor Airlines Beechcraft Model 99 crashed short of the runway, killing all six passengers and two crew on board. Among the passengers was Samantha Smith, a 13-year-old Ameri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/bar-harbor-airlines-flight-1808-20260706.mp3" type="audio/mpeg" length="1577760"/>
