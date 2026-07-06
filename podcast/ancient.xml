@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Cerignola</title>
+      <description>The Battle of Cerignola was fought on 28 April 1503 between Spanish and French armies outside the town of Cerignola, Apulia, Kingdom of Naples (now in modern-day Italy), approximately 80 kilometres (50 mi) west of Bari. 
+The Spanish force under the command of Gonzalo Fernández de Córdoba (El Gran Capitán) comprising around 9,000 men, including 2,000 Landsknecht pikemen, 1,000 arquebusiers and 20 c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-cerignola-20260706.mp3" type="audio/mpeg" length="1560480"/>
+      <guid isPermaLink="false">ancient-battle-of-cerignola-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 09:05:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Keresztes</title>
       <description>The Battle of Keresztes (also known as the Battle of Mezőkeresztes) (Turkish: Haçova Muharebesi) took place on 24–26 October 1596. It was fought between a combined Habsburg-Transylvanian force and the Ottoman Empire near the village of Mezőkeresztes (Turkish: Haçova) in modern-day northern Hungary. The Ottomans routed the Habsburg-led army, but due to their own losses, they were unable to exploit </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-keresztes-20260705.mp3" type="audio/mpeg" length="1646880"/>
