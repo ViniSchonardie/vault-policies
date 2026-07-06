@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Malice at the Palace</title>
+      <description>The "Malice at the Palace" was a fight involving players and fans during a National Basketball Association (NBA) game between the Indiana Pacers and the defending champion Detroit Pistons on November 19, 2004, at the Palace in Auburn Hills, Michigan. The Associated Press called it "the most infamous brawl in NBA history".
+Pistons center Ben Wallace attempted a layup shot during the final minute bu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/malice-at-the-palace-20260706.mp3" type="audio/mpeg" length="1619520"/>
+      <guid isPermaLink="false">sportscrime-malice-at-the-palace-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 08:30:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>National Rugby League</title>
       <description>The National Rugby League (also known as the NRL Telstra Premiership for sponsorship reasons) is a professional  rugby league competition in Oceania which is currently contested by 17 teams from New South Wales, Queensland, Victoria, the Australian Capital Territory, and New Zealand. A Perth-based expansion team is set to enter the competition in 2027. A Papua New Guinea-based expansion team is se</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/national-rugby-league-20260705.mp3" type="audio/mpeg" length="1850400"/>
