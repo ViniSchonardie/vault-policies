@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tyrannosauridae</title>
+      <description>Tyrannosauridae (or tyrannosaurids, meaning "tyrant lizards") is a family of coelurosaurian dinosaurs that comprises two subfamilies containing up to fifteen genera, including the eponymous Tyrannosaurus. The exact number of genera is controversial, with some experts recognizing as few as three. All of these animals lived near the end of the Cretaceous period and their fossils have been found only</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/tyrannosauridae-20260706.mp3" type="audio/mpeg" length="1619040"/>
+      <guid isPermaLink="false">prehistoric-tyrannosauridae-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 23:16:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dromaeosauridae</title>
       <description>Dromaeosauridae () is a family of feathered coelurosaurian theropod dinosaurs. They were generally small to medium-sized feathered carnivores that flourished in the Cretaceous period. The name Dromaeosauridae means 'running lizards', from Greek δρομαῖος (dromaîos), meaning 'running at full speed', 'swift', and σαῦρος (saûros), meaning 'lizard'. In informal usage, they are often called raptors (aft</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dromaeosauridae-20260706.mp3" type="audio/mpeg" length="1530720"/>
