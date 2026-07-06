@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2016 Oklahoma earthquake</title>
+      <description>The 2016 Oklahoma earthquake occurred on September 3, 2016, near Pawnee, Oklahoma. Measuring 5.8 on the moment magnitude scale, it is the strongest in state history. At 5.8 magnitude, this ties it with the 2011 Virginia earthquake, which was determined after it struck to be the most powerful quake in the eastern United States in the preceding 70 years.
+
+
+== Events ==
+The initial quake was followed</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2016-oklahoma-earthquake-20260706.mp3" type="audio/mpeg" length="1860960"/>
+      <guid isPermaLink="false">history-2016-oklahoma-earthquake-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 16:57:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1941 Santander fire</title>
       <description>The Santander fire of 1941 was a natural disaster that occurred in the Spanish city of Santander during the early morning hours of 15 February to 16 February 1941. Occurring decades after the explosion of the steamship Cabo Machichaco (1893), it is considered the most devastating fire in the history of the city.
 The fire destroyed a large part of the historic center of the city, including the cath</description>
