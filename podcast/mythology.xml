@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gilgamesh</title>
+      <description>Gilgamesh (, ; Akkadian: 𒀭𒄑𒂆𒈦, romanized: Gilgāmeš; originally Sumerian: 𒀭𒄑𒉋𒂵𒎌, romanized: Bilgames) was a hero in ancient Mesopotamian mythology and the protagonist of the Epic of Gilgamesh, an epic poem written in Akkadian during the late 2nd millennium BC. He was possibly a historical king of the Sumerian city-state of Uruk, who was posthumously deified. His rule probably would have ta</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/gilgamesh-20260706.mp3" type="audio/mpeg" length="1665600"/>
+      <guid isPermaLink="false">mythology-gilgamesh-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 06:44:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hera</title>
       <description>In ancient Greek religion, Hera (; Ancient Greek: Ἥρα, romanized: Hḗrā; Ἥρη, Hḗrē in Ionic and Homeric Greek) is the goddess of marriage, women, and family, and the protector of women during childbirth. In Greek mythology, she is queen among the twelve Olympians on Mount Olympus, sister and wife of Zeus, and daughter of the Titans Cronus and Rhea. One of her defining characteristics in myth is her</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hera-20260705.mp3" type="audio/mpeg" length="1520640"/>
