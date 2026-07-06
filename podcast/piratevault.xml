@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Oyster Wars</title>
+      <description>The Oyster Wars were a series of sometimes violent disputes between oyster pirates and authorities and legal watermen from Maryland and Virginia in the waters of the Chesapeake Bay and the Potomac River from 1865 until about 1959.
+
+
+== Background ==
+In 1830, the Maryland General Assembly passed legislation which authorized only state residents to harvest oysters in its waters. Maryland outlawed dr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/oyster-wars-20260706.mp3" type="audio/mpeg" length="1771200"/>
+      <guid isPermaLink="false">pirates-oyster-wars-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 16:55:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Angelo Emo</title>
       <description>Angelo Emo (3 January 1731 – 1 March 1792) was a Venetian naval officer. He is notable for his reforms of the Venetian navy and his naval campaigns, being regarded as the last great admiral of the Venetian Republic.
 The scion of a distinguished family, Emo received an excellent education, and began his naval career as a cadet in 1752. He was quickly recognized for his ability and given his first c</description>
