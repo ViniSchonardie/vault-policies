@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Steven Wright</title>
+      <description>Steven Gerald James Wright is an English serial killer, also known as the Suffolk Strangler. He is currently serving life imprisonment for the murder of five women who worked in Ipswich, Suffolk, in 2006. Wright was found guilty in February 2008 and given a whole life order. In February 2026, Wright pleaded guilty to the murder of a sixth victim, 17-year-old Victoria Hall in 1999.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/steven-wright-20260706.mp3" type="audio/mpeg" length="1570080"/>
+      <guid isPermaLink="false">crime-steven-wright-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 05:23:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eugen Weidmann</title>
       <description>Eugen Weidmann was a German-born criminal and serial killer who was executed by guillotine in France in June 1939, the last public execution in France, an execution witnessed by the 17-year-old Christopher Lee who was visiting Paris at the time.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/eugen-weidmann-20260705.mp3" type="audio/mpeg" length="1564800"/>
