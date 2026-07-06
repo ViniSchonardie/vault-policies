@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination of Benazir Bhutto</title>
+      <description>Benazir Bhutto was assassinated on 27 December 2007 in Rawalpindi, Pakistan. Bhutto, the former prime minister of Pakistan and then-leader of the opposition Pakistan People's Party, had been campaigning ahead of elections scheduled for January 2008. Shots were fired at her after a political rally at Liaqat National Bagh, and a suicide bomb was detonated immediately following the shooting. She was </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-benazir-bhutto-20260706.mp3" type="audio/mpeg" length="1858560"/>
+      <guid isPermaLink="false">realstory-assassination-of-benazir-bhutto-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 11:29:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lionel Logue</title>
       <description>Lionel George Logue  (26 February 1880 – 12 April 1953) was an Australian speech and language therapist and amateur stage actor who helped King George VI manage his stammer.
 
