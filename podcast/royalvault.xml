@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Habsburg Monarchy</title>
+      <description>The Habsburg monarchy, also known as the Habsburg Empire or Habsburg Realm (), and Danube Monarchy, was the collection of empires, kingdoms, duchies, counties and other polities (composite monarchy) that were ruled by the House of Habsburg. From 1804 it was referred to as the Austrian Empire, and from 1867 as Austria-Hungary.
+The history of the Habsburg monarchy can be traced back to the election </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/habsburg-monarchy-20260706.mp3" type="audio/mpeg" length="1649280"/>
+      <guid isPermaLink="false">royal-habsburg-monarchy-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 18:58:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chapel Royal</title>
       <description>A chapel royal is an establishment in the British and Canadian royal households serving the spiritual needs of the sovereign and the royal family.
 Historically, the chapel royal was a body of priests and singers that travelled with the monarch. The term is now also applied to the chapels within royal palaces, or a title granted to churches by the monarch. In the Church of England, working royal ch</description>
