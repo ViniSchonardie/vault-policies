@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Aqaba</title>
+      <description>The Battle of Aqaba was fought for the Red Sea port of Aqaba (now in Jordan) during the Arab Revolt of World War I. The attacking forces, led by Sherif Nasir and Auda abu Tayi and advised by T. E. Lawrence ("Lawrence of Arabia"), were victorious over the Ottoman Empire defenders.
+
+
+== Background ==
+When the Ottoman Empire entered World War I, British warships bombarded the 100 man Ottoman fort at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-aqaba-20260706.mp3" type="audio/mpeg" length="1501440"/>
+      <guid isPermaLink="false">warvault-battle-of-aqaba-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 03:58:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of the Tenaru</title>
       <description>The Battle of the Tenaru, sometimes called the Battle of the Ilu River or the Battle of Alligator Creek, was a land battle between the Imperial Japanese Army and Allied ground forces that took place on 21 August 1942, on the island of Guadalcanal during the Pacific campaign of World War II. The battle was the first major Japanese land offensive during the Guadalcanal campaign.
 In the battle, U.S. </description>
