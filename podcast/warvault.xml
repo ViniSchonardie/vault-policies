@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Santa Clara</title>
+      <description>The Battle of Santa Clara, nicknamed the "Battle of the Mustard Stalks", was a skirmish during the Mexican–American War, fought on  January 2, 1847, 2+1⁄2 miles west of Mission Santa Clara de Asís in California.
+In late December, the former Californio military commander of Yerba Buena and a rancher from the San Mateo peninsula, Francisco Sanchez, imprisoned the American Mayor of Yerba Buena, Washi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-santa-clara-20260706.mp3" type="audio/mpeg" length="1610400"/>
+      <guid isPermaLink="false">warvault-battle-of-santa-clara-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 12:11:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Aqaba</title>
       <description>The Battle of Aqaba was fought for the Red Sea port of Aqaba (now in Jordan) during the Arab Revolt of World War I. The attacking forces, led by Sherif Nasir and Auda abu Tayi and advised by T. E. Lawrence ("Lawrence of Arabia"), were victorious over the Ottoman Empire defenders.
 
