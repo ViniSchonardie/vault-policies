@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aqua</title>
+      <description>Aqua (EOS PM-1) is a NASA scientific research satellite in orbit around the Earth, studying the precipitation, evaporation, and cycling of water. It is the second major component of the Earth Observing System (EOS) preceded by Terra (launched 1999) and followed by Aura (launched 2004).
+The name "Aqua" comes from the Latin word for water. The satellite was launched from Vandenberg Air Force Base on</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/aqua-20260706.mp3" type="audio/mpeg" length="1744800"/>
+      <guid isPermaLink="false">space-aqua-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 10:09:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-27</title>
       <description>Soyuz MS-27, identified by NASA as Soyuz 73S, was a Russian crewed Soyuz spaceflight that launched on 8 April 2025 from Site 31/6 at the Baikonur Cosmodrome, bound for the International Space Station. The spacecraft was launched aboard a Soyuz-2.1a rocket carrying three crew members, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, along with NASA astronaut Jonny Kim.
 
