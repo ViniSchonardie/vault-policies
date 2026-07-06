@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chapel Royal</title>
+      <description>A chapel royal is an establishment in the British and Canadian royal households serving the spiritual needs of the sovereign and the royal family.
+Historically, the chapel royal was a body of priests and singers that travelled with the monarch. The term is now also applied to the chapels within royal palaces, or a title granted to churches by the monarch. In the Church of England, working royal ch</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/chapel-royal-20260706.mp3" type="audio/mpeg" length="1781760"/>
+      <guid isPermaLink="false">royal-chapel-royal-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 12:48:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Winchester Castle</title>
       <description>Winchester Castle was a royal residence in Winchester, Hampshire, England, founded in 1067 by William the Conqueror. It served as a seat of royal power in the medieval period. Much of the castle has since been lost, but two notable structures survive: the Great Hall, regarded as one of the finest surviving medieval halls in England and now housing a museum of Winchester's history, and the Westgate</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/winchester-castle-20260706.mp3" type="audio/mpeg" length="1748160"/>
