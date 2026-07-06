@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Avianca Flight 011</title>
+      <description>Avianca Flight 011 was a Boeing 747-200BM Combi on an international scheduled passenger flight from Frankfurt to Bogotá via Paris, Madrid, and Caracas that crashed near Madrid on 27 November 1983. It took off from Charles de Gaulle Airport in Paris at 22:25 on 26 November 1983 for Madrid Barajas Airport; take-off was delayed waiting for additional passengers from a Lufthansa flight due to a cancel</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-011-20260706.mp3" type="audio/mpeg" length="1618080"/>
+      <guid isPermaLink="false">aviation-avianca-flight-011-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 22:11:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trans-Colorado Airlines Flight 2286</title>
       <description>Trans-Colorado Airlines Flight 2286 was a scheduled domestic passenger flight from Denver, Colorado, United States, to Durango, Colorado, United States, operated for Continental Express by Trans-Colorado Airlines. On January 19, 1988, the Swearingen Metroliner crashed onto terrain near Bayfield, Colorado, while on approach to Durango-La Plata County Airport. Out of the 17 people on board, 9 were k</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/trans-colorado-airlines-flight-2286-20260706.mp3" type="audio/mpeg" length="1772160"/>
