@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Brainwashing</title>
+      <description>Brainwashing is the systematic effort to get someone to adopt a particular deception, loyalty, instruction, or doctrine. It refers in general to psychological techniques that manipulate action or thought against a person's will, desire, or knowledge. It attempts to damage individual or group attitudes, frames of reference, beliefs, values or loyalties by demonstrating that current thinking pattern</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/brainwashing-20260706.mp3" type="audio/mpeg" length="1567200"/>
+      <guid isPermaLink="false">mindcontrol-brainwashing-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 06:49:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>VX (nerve agent)</title>
       <description>VX is a highly toxic synthetic chemical compound in the organophosphorus class, specifically, a thiophosphonate. In the class of nerve agents, it was developed for military use in chemical warfare after translation of earlier discoveries of organophosphate toxicity in pesticide research. In its pure form, VX is an oily, relatively non-volatile liquid that is amber-like in colour. Because of its lo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mindcontrol-audio/vx-nerve-agent-20260705.mp3" type="audio/mpeg" length="1704480"/>
