@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bear River Massacre</title>
+      <description>The Bear River Massacre was a United States military attack that killed an estimated 250 to 493 children, women, and men at a Shoshone winter encampment on January 29, 1863. Some sources describe it as the largest mass murder of Native Americans by the US military and the largest single episode of genocide in US history. It took place in present-day Franklin County, Idaho near the present-day city</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/bear-river-massacre-20260706.mp3" type="audio/mpeg" length="1931040"/>
+      <guid isPermaLink="false">warvault-bear-river-massacre-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 18:12:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Santa Clara</title>
       <description>The Battle of Santa Clara, nicknamed the "Battle of the Mustard Stalks", was a skirmish during the Mexican–American War, fought on  January 2, 1847, 2+1⁄2 miles west of Mission Santa Clara de Asís in California.
 In late December, the former Californio military commander of Yerba Buena and a rancher from the San Mateo peninsula, Francisco Sanchez, imprisoned the American Mayor of Yerba Buena, Washi</description>
