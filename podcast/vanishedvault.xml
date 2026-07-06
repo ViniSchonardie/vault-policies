@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Laurie Spiegel</title>
+      <description>Laurie Spiegel (born September 20, 1945) is an American composer. She has worked at Bell Laboratories, in computer graphics, and is known primarily for her electronic music compositions and her algorithmic composition software Music Mouse. She is also a guitarist and lutenist.
+Spiegel's musical interpretation of Johannes Kepler's Harmonice Mundi appeared on "Sounds of Earth" section of the Voyager</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/laurie-spiegel-20260706.mp3" type="audio/mpeg" length="1577280"/>
+      <guid isPermaLink="false">shadow-laurie-spiegel-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 11:29:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>James Armistead Lafayette</title>
       <description>James Armistead Lafayette (1748 or 1760 — 1830 or 1832) was an enslaved African American who served the Continental Army during the American Revolutionary War under the Marquis de Lafayette, and later received a legislative emancipation. As a double agent, he reported the activities of Benedict Arnold after he had defected to the British and of Lord Charles Cornwallis during the run-up to the sieg</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/vanishedvault-audio/james-armistead-lafayette-20260706.mp3" type="audio/mpeg" length="1593600"/>
