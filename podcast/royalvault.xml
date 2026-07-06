@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Winchester Castle</title>
+      <description>Winchester Castle was a royal residence in Winchester, Hampshire, England, founded in 1067 by William the Conqueror. It served as a seat of royal power in the medieval period. Much of the castle has since been lost, but two notable structures survive: the Great Hall, regarded as one of the finest surviving medieval halls in England and now housing a museum of Winchester's history, and the Westgate</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/winchester-castle-20260706.mp3" type="audio/mpeg" length="1748160"/>
+      <guid isPermaLink="false">royal-winchester-castle-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 05:21:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Framlingham Castle</title>
       <description>Framlingham Castle is a castle in the market town of Framlingham, Suffolk, England. An early motte and bailey or ringwork Norman castle was built on the Framlingham site by 1148, but this was destroyed (slighted) by Henry II of England in the aftermath of the Revolt of 1173–1174. Its replacement, constructed by Roger Bigod, the Earl of Norfolk, was unusual for the time in having no central keep, b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/framlingham-castle-20260705.mp3" type="audio/mpeg" length="1805280"/>
