@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pendle Witches</title>
+      <description>The trials of the Pendle witches in 1612 are among the most famous witch trials in English history, and some of the best recorded of the 17th century. The twelve accused lived in the area surrounding Pendle Hill in Lancashire, and were charged with the murders of ten people by the use of witchcraft. All but two were tried at Lancaster Assizes on 18–19 August 1612, along with the Samlesbury witches</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/pendle-witches-20260706.mp3" type="audio/mpeg" length="1772160"/>
+      <guid isPermaLink="false">trials-pendle-witches-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 17:49:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Germaine Berton</title>
       <description>Germaine Berton (7 June 1902, in Puteaux – 6 July 1942, in Paris) was a French anarchist and trade unionist. She is known for the murder of Marius Plateau, an editor for the Action Française journal and a leader in the royalist organisation Camelots du Roi, in January 1923. Germaine Berton was defended by Henry Torrès during her trial and surrealists have used her mugshot in a number of art pieces</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/germaine-berton-20260706.mp3" type="audio/mpeg" length="1837920"/>
