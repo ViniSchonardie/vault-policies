@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas Silverstein</title>
+      <description>Thomas Edward Silverstein was an American criminal who spent the last 42 years of his life in prison after being convicted of three separate murders, with a fourth murder conviction being overturned and Silverstein being implicated in a fifth, while imprisoned for armed robbery. Silverstein spent the last 36 years of his life in solitary confinement for killing corrections officer Merle Clutts at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-silverstein-20260706.mp3" type="audio/mpeg" length="1700160"/>
+      <guid isPermaLink="false">crime-thomas-silverstein-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 12:39:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Steven Wright</title>
       <description>Steven Gerald James Wright is an English serial killer, also known as the Suffolk Strangler. He is currently serving life imprisonment for the murder of five women who worked in Ipswich, Suffolk, in 2006. Wright was found guilty in February 2008 and given a whole life order. In February 2026, Wright pleaded guilty to the murder of a sixth victim, 17-year-old Victoria Hall in 1999.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/steven-wright-20260706.mp3" type="audio/mpeg" length="1570080"/>
