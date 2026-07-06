@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Shoplifting</title>
+      <description>Shoplifting (also known as shop theft, shop fraud, retail theft, retail fraud or microlooting) is the theft of goods from a retail establishment during business hours. The terms shoplifting and shoplifter are not usually defined in law, and generally fall under larceny. In the retail industry, the word shrinkage (or shrink) is used to refer to merchandise often lost by shoplifting.  The term five-</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/shoplifting-20260706.mp3" type="audio/mpeg" length="1635360"/>
+      <guid isPermaLink="false">congame-shoplifting-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 01:57:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Huntsville, Texas</title>
       <description>Huntsville is a city in and the county seat of Walker County, Texas, United States and is also part of the Houston-Galveston combined statistical area. Its population was 45,941 as of the 2020 census. It is the center of the Huntsville micropolitan area. Huntsville is in the East Texas Piney Woods on Interstate 45 and home to Sam Houston State University, Texas State Prison, the Texas Department o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/huntsville-texas-20260705.mp3" type="audio/mpeg" length="1394400"/>
