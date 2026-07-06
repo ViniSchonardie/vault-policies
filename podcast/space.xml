@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 20</title>
+      <description>Shenzhou 20 (Chinese: 神舟二十号; pinyin: Shénzhōu èrshí-hào; lit. 'Divine Boat Number 20') was a Chinese spaceflight mission to the Tiangong space station launched on 24 April 2025. It carried three taikonauts on board a Shenzhou spacecraft.
+Shenzhou 20 was expected to return to Earth in early November 2025 after the arrival of the Shenzhou 21 crew. However, due to suspected space debris damage to the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-20-20260706.mp3" type="audio/mpeg" length="1900320"/>
+      <guid isPermaLink="false">space-shenzhou-20-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 23:14:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-133</title>
       <description>STS-133 (ISS assembly flight ULF5) was the 133rd mission in NASA's Space Shuttle program; during the mission, Space Shuttle Discovery docked with the International Space Station. It was Discovery's 39th and final mission. The mission launched on February 24, 2011, and landed on March 9, 2011. The crew consisted of six American astronauts, all of whom had been on prior spaceflights, headed by Comma</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-133-20260706.mp3" type="audio/mpeg" length="1859040"/>
