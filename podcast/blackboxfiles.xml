@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bar Harbor Airlines Flight 1808</title>
+      <description>Bar Harbor Airlines Flight 1808 was a scheduled flight from Logan International Airport to Bangor International Airport in the United States on August 25, 1985. On final approach to Auburn/Lewiston Municipal Airport, the Bar Harbor Airlines Beechcraft Model 99 crashed short of the runway, killing all six passengers and two crew on board. Among the passengers was Samantha Smith, a 13-year-old Ameri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/bar-harbor-airlines-flight-1808-20260706.mp3" type="audio/mpeg" length="1577760"/>
+      <guid isPermaLink="false">aviation-bar-harbor-airlines-flight-1808-20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 09:08:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dan-Air Flight 1008</title>
       <description>Dan-Air Flight 1008 was a fatal accident involving a Boeing 727-46 jet aircraft operated by Dan Air Services Limited on a chartered international passenger service from Manchester to Tenerife. The accident occurred on 25 April 1980 in a forest on Tenerife's Mount La Esperanza, when the aircraft's flight crew wrongly executed an unpublished holding pattern in an area of very high terrain; it result</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/dan-air-flight-1008-20260705.mp3" type="audio/mpeg" length="1615680"/>
