@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Great Lakes Patrol</title>
+      <description>The Great Lakes Patrol was carried out by American naval forces, beginning in 1844, mainly to suppress criminal activity and to protect the maritime border with Canada. A small force of United States Navy, Coast Guard, and Revenue Service ships served in the Great Lakes throughout these operations. Through the decades, they were involved in several incidents with pirates and rebels.
+The patrol was</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/great-lakes-patrol-20260707.mp3" type="audio/mpeg" length="1264320"/>
+      <guid isPermaLink="false">pirates-great-lakes-patrol-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 09:39:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chaloner Ogle</title>
       <description>Admiral of the Fleet Sir Chaloner Ogle KB (1681 – 11 April 1750) was a Royal Navy officer and politician. After serving as a junior officer during the Nine Years' War, a ship he was commanding was captured by three French ships off Ostend in July 1706 in an action during the War of the Spanish Succession. Ogle was given command of the fourth-rate HMS Swallow and saw action against the pirate fleet</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/chaloner-ogle-20260706.mp3" type="audio/mpeg" length="1641120"/>
