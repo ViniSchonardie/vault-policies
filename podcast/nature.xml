@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Grizzly bear</title>
+      <description>The grizzly bear (Ursus arctos horribilis), also known as the North American brown bear or simply grizzly, is a population or subspecies of the brown bear inhabiting North America.
+In addition to the mainland grizzly (Ursus arctos horribilis), other forms of brown bear are sometimes identified as grizzly bears. These include three living populations—the Kodiak bear (U. a. middendorffi), the Kamcha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/grizzly-bear-20260707.mp3" type="audio/mpeg" length="2029920"/>
+      <guid isPermaLink="false">nature-grizzly-bear-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 20:54:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Golden eagle</title>
       <description>The golden eagle (Aquila chrysaetos) is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae. They are one of the best-known birds of prey in the Northern Hemisphere. These birds are dark brown, with lighter golden-brown plumage on their napes. Immature eagles of this species typically have whit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/golden-eagle-20260707.mp3" type="audio/mpeg" length="1577280"/>
