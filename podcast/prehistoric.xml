@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Woolly rhinoceros</title>
+      <description>The woolly rhinoceros (Coelodonta antiquitatis) is an extinct species of rhinoceros that inhabited northern Eurasia during the Pleistocene epoch. The woolly rhinoceros was large, comparable in size to the largest living rhinoceros species, the white rhinoceros (Ceratotherium simum), and covered with long, thick hair that allowed it to survive in the extremely cold, harsh mammoth steppe. It had a m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/woolly-rhinoceros-20260707.mp3" type="audio/mpeg" length="1512000"/>
+      <guid isPermaLink="false">prehistoric-woolly-rhinoceros-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 09:53:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tyrannosauridae</title>
       <description>Tyrannosauridae (or tyrannosaurids, meaning "tyrant lizards") is a family of coelurosaurian dinosaurs that comprises two subfamilies containing up to fifteen genera, including the eponymous Tyrannosaurus. The exact number of genera is controversial, with some experts recognizing as few as three. All of these animals lived near the end of the Cretaceous period and their fossils have been found only</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/tyrannosauridae-20260706.mp3" type="audio/mpeg" length="1619040"/>
