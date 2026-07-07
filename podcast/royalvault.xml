@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carisbrooke Castle</title>
+      <description>Carisbrooke Castle is a historic motte-and-bailey castle located in the village of Carisbrooke (near Newport), Isle of Wight, England. Charles I was imprisoned at the castle in the months prior to his trial.
+
+
+== Early history ==
+The site of Carisbrooke Castle may have been occupied in pre-Roman times. A ruined wall suggests that there was a building there in late Roman times. The Anglo-Saxon Chro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/carisbrooke-castle-20260707.mp3" type="audio/mpeg" length="1321920"/>
+      <guid isPermaLink="false">royal-carisbrooke-castle-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 05:00:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Habsburg Monarchy</title>
       <description>The Habsburg monarchy, also known as the Habsburg Empire or Habsburg Realm (), and Danube Monarchy, was the collection of empires, kingdoms, duchies, counties and other polities (composite monarchy) that were ruled by the House of Habsburg. From 1804 it was referred to as the Austrian Empire, and from 1867 as Austria-Hungary.
 The history of the Habsburg monarchy can be traced back to the election </description>
