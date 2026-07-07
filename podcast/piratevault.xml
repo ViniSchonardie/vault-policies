@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Speronara</title>
+      <description>The speronara (Maltese: xprunara, French: spéronare) was a small merchant ship originating in Malta that was used in the Mediterranean Sea from the 16th to the early 20th centuries. The vessels usually had no deck and only one mast, often with a lateen or spritsail. Some larger vessels had a half deck or up to three masts.
+They were common in the trade between Malta and Sicily, and they also trave</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/speronara-20260707.mp3" type="audio/mpeg" length="1572960"/>
+      <guid isPermaLink="false">pirates-speronara-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 16:32:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Lakes Patrol</title>
       <description>The Great Lakes Patrol was carried out by American naval forces, beginning in 1844, mainly to suppress criminal activity and to protect the maritime border with Canada. A small force of United States Navy, Coast Guard, and Revenue Service ships served in the Great Lakes throughout these operations. Through the decades, they were involved in several incidents with pirates and rebels.
 The patrol was</description>
