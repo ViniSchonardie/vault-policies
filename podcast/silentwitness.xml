@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Euthyphro</title>
+      <description>Euthyphro ( ; Ancient Greek: Εὐθύφρων, romanized: Euthyphrōn), is a philosophical work by Plato written in the form of a Socratic dialogue set during the weeks before the trial of Socrates in 399 BC. In the dialogue, Socrates and Euthyphro attempt to establish a definition of piety. This however leads to the main dilemma of the dialogue when the two cannot come to a satisfactory conclusion. Is som</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/euthyphro-20260707.mp3" type="audio/mpeg" length="1757760"/>
+      <guid isPermaLink="false">trials-euthyphro-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 10:29:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Crimes Against Humanity</title>
       <description>Crimes against humanity are certain crimes committed as part of a large-scale attack against civilians. Unlike war crimes, crimes against humanity can be committed during both peace and war and against a state's own nationals as well as foreign nationals. Together with war crimes, genocide, and the crime of aggression, crimes against humanity are one of the core crimes of international criminal la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/crimes-against-humanity-20260707.mp3" type="audio/mpeg" length="1983840"/>
