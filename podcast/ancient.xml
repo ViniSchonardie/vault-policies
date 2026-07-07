@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Sisak</title>
+      <description>The Battle of Sisak was fought on 22 June 1593 between Ottoman Bosnian forces and a combined Christian army from the Habsburg lands, mainly the Kingdom of Croatia and Inner Austria. The battle took place at Sisak, central Croatia, at the confluence of the Sava and Kupa rivers, on the borderland between Christian Europe and the Ottoman Empire.
+Between 1591 and 1593 the Ottoman military governor of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-sisak-20260707.mp3" type="audio/mpeg" length="1880640"/>
+      <guid isPermaLink="false">ancient-battle-of-sisak-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 15:47:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Mikatagahara</title>
       <description>The Battle of Mikatagahara (三方ヶ原の戦い, Mikatagahara no tatakai) took place during the Sengoku period of Japan between Takeda Shingen and Tokugawa Ieyasu in Tōtōmi Province on January 25, 1573. 
 Shingen attacked Ieyasu on the plain of Mikatagahara north of Hamamatsu during his campaign against Oda Nobunaga while seeking a route from Kōfu to Kyoto. The Tokugawa-Oda force was almost totally annihilated</description>
