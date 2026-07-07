@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Saltwater crocodile</title>
+      <description>The saltwater crocodile (Crocodylus porosus) is a crocodilian native to saltwater habitats, brackish wetlands and freshwater rivers from India's east coast across Southeast Asia and the Sundaland to northern Australia and Micronesia. It has been listed as Least Concern on the IUCN Red List since 1996. It was hunted for its skin throughout its range up to the 1970s, and is threatened by illegal kil</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/saltwater-crocodile-20260707.mp3" type="audio/mpeg" length="1638240"/>
+      <guid isPermaLink="false">nature-saltwater-crocodile-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 06:49:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonobo</title>
       <description>The bonobo (; Pan paniscus), also historically called the pygmy chimpanzee (less often the dwarf chimpanzee or gracile chimpanzee), is the smallest species of great ape and one of the two making up the genus Pan (the other being the common chimpanzee, Pan troglodytes). While bonobos are today recognized as a distinct species, they were initially thought to be a subspecies of Pan troglodytes, becau</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bonobo-20260706.mp3" type="audio/mpeg" length="1805280"/>
