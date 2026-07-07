@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bolingbroke Castle</title>
+      <description>Bolingbroke Castle is a ruined castle in Bolingbroke (now Old Bolingbroke) in Lincolnshire, England.
+
+
+== Construction ==
+
+Most of the castle is built of Spilsby greenstone, as are several nearby churches. The local greenstone is a limestone that proved to be porous, prone to rapid deterioration when exposed to weather and a substandard building material. The castle was constructed as an irregular</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/bolingbroke-castle-20260707.mp3" type="audio/mpeg" length="1578720"/>
+      <guid isPermaLink="false">royal-bolingbroke-castle-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 19:00:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Charter</title>
       <description>A royal charter is a formal grant issued by a monarch under royal prerogative as letters patent. Historically, they have been used to promulgate public laws, the most famous example being the English Magna Carta (great charter) of 1215, but since the 14th century have only been used in place of private acts to grant a right or power to an individual or a body corporate. They were, and are still, u</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-charter-20260707.mp3" type="audio/mpeg" length="2446080"/>
