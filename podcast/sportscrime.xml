@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bob Sapp</title>
+      <description>Robert Malcolm Sapp (born September 22, 1973) is an American former mixed martial artist, kickboxer, professional wrestler, actor, and football player. Sapp has a combined fight record of 24–39–1, mostly fighting in Japan. He is well known in Japan, where he has appeared in numerous commercials, television programs, and various other media, and has released a music CD, Sapp Time. He is known there</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/bob-sapp-20260707.mp3" type="audio/mpeg" length="1371840"/>
+      <guid isPermaLink="false">sportscrime-bob-sapp-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 21:22:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>South Africa national rugby union team</title>
       <description>The South Africa national rugby union team, commonly known as the Springboks (colloquially the Boks, Bokke or Amabhokobhoko), is the country's national team, governed by the South African Rugby Union. The team play in green and gold jerseys with white shorts, and their emblem is the springbok, a native antelope and the national animal of South Africa. Their first test match was on 30 July 1891 aga</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/south-africa-national-rugby-union-team-20260707.mp3" type="audio/mpeg" length="1257600"/>
