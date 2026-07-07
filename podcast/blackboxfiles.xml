@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Midwest Express Airlines Flight 105</title>
+      <description>Midwest Express Airlines Flight 105 was a scheduled domestic passenger flight that crashed into an open field in Oak Creek, Wisconsin shortly after taking off from General Mitchell International Airport on September 6, 1985. The airplane, a McDonnell Douglas DC-9, was carrying 31 passengers and crew. None of them survived the crash.
+Multiple eyewitnesses reported that the plane was on fire shortly</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/midwest-express-airlines-flight-105-20260707.mp3" type="audio/mpeg" length="1842240"/>
+      <guid isPermaLink="false">aviation-midwest-express-airlines-flight-105-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 22:10:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eastern Air Lines Flight 980</title>
       <description>Eastern Air Lines Flight 980 was a scheduled international flight from Asunción, Paraguay, to Miami, Florida, United States. On January 1, 1985, while descending towards La Paz, Bolivia, for a scheduled stopover, the Boeing 727 jetliner struck Mount Illimani at an altitude of 19,600 feet (6,000 m), killing all 29 people on board.
 The wreckage was scattered over a large area of a glacier covered wi</description>
