@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Golden eagle</title>
+      <description>The golden eagle (Aquila chrysaetos) is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae. They are one of the best-known birds of prey in the Northern Hemisphere. These birds are dark brown, with lighter golden-brown plumage on their napes. Immature eagles of this species typically have whit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/golden-eagle-20260707.mp3" type="audio/mpeg" length="1577280"/>
+      <guid isPermaLink="false">nature-golden-eagle-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 13:16:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saltwater crocodile</title>
       <description>The saltwater crocodile (Crocodylus porosus) is a crocodilian native to saltwater habitats, brackish wetlands and freshwater rivers from India's east coast across Southeast Asia and the Sundaland to northern Australia and Micronesia. It has been listed as Least Concern on the IUCN Red List since 1996. It was hunted for its skin throughout its range up to the 1970s, and is threatened by illegal kil</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/saltwater-crocodile-20260707.mp3" type="audio/mpeg" length="1638240"/>
