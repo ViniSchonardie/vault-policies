@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Charter</title>
+      <description>A royal charter is a formal grant issued by a monarch under royal prerogative as letters patent. Historically, they have been used to promulgate public laws, the most famous example being the English Magna Carta (great charter) of 1215, but since the 14th century have only been used in place of private acts to grant a right or power to an individual or a body corporate. They were, and are still, u</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-charter-20260707.mp3" type="audio/mpeg" length="2446080"/>
+      <guid isPermaLink="false">royal-royal-charter-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 11:50:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carisbrooke Castle</title>
       <description>Carisbrooke Castle is a historic motte-and-bailey castle located in the village of Carisbrooke (near Newport), Isle of Wight, England. Charles I was imprisoned at the castle in the months prior to his trial.
 
