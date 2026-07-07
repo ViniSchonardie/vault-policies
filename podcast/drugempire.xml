@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Political corruption</title>
+      <description>Political corruption is the use of powers by government officials or their network contacts for illegitimate private gain. Forms of corruption vary but can include bribery, lobbying, extortion, cronyism, nepotism, parochialism, patronage, influence peddling, graft, and embezzlement. Corruption may facilitate criminal enterprise, such as drug trafficking, money laundering, and human trafficking, al</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/political-corruption-20260707.mp3" type="audio/mpeg" length="1642560"/>
+      <guid isPermaLink="false">drugempire-political-corruption-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 06:50:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iguala mass kidnapping</title>
       <description>On September 26, 2014, forty-three male students from the Ayotzinapa Rural Teachers' College disappeared after being forcibly abducted in Iguala, Guerrero, Mexico, in what has been called one of Mexico's most infamous human rights cases. They were allegedly taken into custody by local policemen from Iguala and Cocula in collusion with organized crime, with later evidence implicating the Mexican Ar</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/iguala-mass-kidnapping-20260706.mp3" type="audio/mpeg" length="1812000"/>
