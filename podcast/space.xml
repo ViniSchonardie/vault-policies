@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Voskhod 1</title>
+      <description>Voskhod 1 (Russian: Восход-1, lit. 'Sunrise-1') was the seventh crewed Soviet space flight. Flown by cosmonauts Vladimir Komarov, Konstantin Feoktistov, and Boris Yegorov, it launched 12 October 1964, and returned on the 13th. Voskhod 1 was the first human spaceflight to carry more than one crewman into orbit, the first flight without the use of spacesuits, and the first to carry either an enginee</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voskhod-1-20260707.mp3" type="audio/mpeg" length="1874880"/>
+      <guid isPermaLink="false">space-voskhod-1-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 09:35:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 20</title>
       <description>Shenzhou 20 (Chinese: 神舟二十号; pinyin: Shénzhōu èrshí-hào; lit. 'Divine Boat Number 20') was a Chinese spaceflight mission to the Tiangong space station launched on 24 April 2025. It carried three taikonauts on board a Shenzhou spacecraft.
 Shenzhou 20 was expected to return to Earth in early November 2025 after the arrival of the Shenzhou 21 crew. However, due to suspected space debris damage to the</description>
