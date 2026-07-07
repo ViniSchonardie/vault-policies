@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2007 Kent earthquake</title>
+      <description>The 2007 Kent earthquake registered 4.3 on the Richter scale and struck south east Kent, South East England on 28 April 2007 at 07:18:12 UTC (08:18:12 local time), at a shallow depth of 5.3 km.
+The worst affected area was the town of Folkestone, although the towns of Deal, Dover and Ashford were also affected. The tremors could be felt across much of Kent and south east England, including as far a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2007-kent-earthquake-20260707.mp3" type="audio/mpeg" length="1503360"/>
+      <guid isPermaLink="false">history-2007-kent-earthquake-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 16:36:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Fire of 1892</title>
       <description>The Great Fire of 8 July 1892 occurred in St. John's, Newfoundland. It is remembered as the worst disaster ever to befall that city.  Previous "Great Fires" had occurred in St. John's, during 1816, 1817, 1819, and 1846.
 
