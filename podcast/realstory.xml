@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George Meade</title>
+      <description>George Gordon Meade (December 31, 1815 – November 6, 1872) was an American military officer who served in the United States Army and the Union army as a major general in command of the Army of the Potomac during the American Civil War from 1863 to 1865. He fought in many of the key battles of the eastern theater and defeated the Confederate Army of Northern Virginia led by General Robert E. Lee at</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/george-meade-20260707.mp3" type="audio/mpeg" length="1643520"/>
+      <guid isPermaLink="false">realstory-george-meade-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 23:51:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anne Hutchinson</title>
       <description>Anne Hutchinson (née Marbury; July 1591 – August 1643) was an English-born religious figure who was an important participant in the Antinomian Controversy which shook the nascent Massachusetts Bay Colony from 1636 to 1638. Her strong religious formal declarations were at odds with the established Puritan clergy in the Boston area and her popularity and charisma helped create a theological schism t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/anne-hutchinson-20260707.mp3" type="audio/mpeg" length="1793280"/>
