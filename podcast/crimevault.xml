@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tommy Lynn Sells</title>
+      <description>Tommy Lynn Sells was an American serial killer who became known as the Coast to Coast Killer. Although he was convicted of only two murders, one of which he was sentenced to death and eventually executed for, Sells claimed to have killed up to 70 victims in various states. Investigators have been able to conclusively implicate Sells in at least 22 cases.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/tommy-lynn-sells-20260707.mp3" type="audio/mpeg" length="1826880"/>
+      <guid isPermaLink="false">crime-tommy-lynn-sells-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 19:10:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peter Tobin</title>
       <description>Peter Britton Tobin was a Scottish serial killer and sex offender who served a whole life order for three murders committed between 1991 and 2006. Police also investigated Tobin over the deaths and disappearances of other young women and girls.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-tobin-20260707.mp3" type="audio/mpeg" length="1670400"/>
