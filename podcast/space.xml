@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-128</title>
+      <description>STS-128 (ISS assembly flight 17A) was a NASA Space Shuttle mission to the International Space Station (ISS) that launched on August 28, 2009. Space Shuttle Discovery carried the Multi-Purpose Logistics Module Leonardo as its primary payload. It was Discovery's 37th flight. Leonardo contained a collection of experiments for studying the physics and chemistry of microgravity. Three spacewalks were c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-128-20260707.mp3" type="audio/mpeg" length="1490400"/>
+      <guid isPermaLink="false">space-sts-128-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 23:08:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-41-G</title>
       <description>STS-41-G (formerly STS-17) was the 13th flight of NASA's Space Shuttle program and the sixth flight of Space Shuttle Challenger. Challenger launched on October 5, 1984, and conducted the second shuttle landing at Kennedy Space Center on October 13, 1984. It was the first shuttle mission to carry a crew of seven, including the first crew with two women (Sally K. Ride and Kathryn D. Sullivan), the f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-g-20260707.mp3" type="audio/mpeg" length="1780320"/>
