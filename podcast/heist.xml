@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Detroit Partnership</title>
+      <description>The Detroit Partnership, also known as the Zerilli crime family (Italian pronunciation: [dzeˈrilli]), the Tocco–Zerilli crime family, the Detroit crime family, the Detroit Mafia, or the Detroit Combination, is an Italian American Mafia crime family based in Detroit, Michigan. The family mainly operates throughout the Greater Detroit area, as well as in other locations, including Windsor, Ontario; </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/detroit-partnership-20260707.mp3" type="audio/mpeg" length="1190400"/>
+      <guid isPermaLink="false">heist-detroit-partnership-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 21:39:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Brocius</title>
       <description>William "Curly Bill" Brocius (circa 1845 – March 24, 1882), was an American gunslinger, cattle rustler and member of the Cowboy outlaw gang in the Cochise County area of what was then Arizona Territory during the late 1870s and early 1880s. Brocius' name is likely an alias or nickname, and some evidence links him to another outlaw named William "Curly Bill" Bresnaham, who was convicted of an 1878 </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/william-brocius-20260707.mp3" type="audio/mpeg" length="1493760"/>
