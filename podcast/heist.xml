@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>William Brocius</title>
+      <description>William "Curly Bill" Brocius (circa 1845 – March 24, 1882), was an American gunslinger, cattle rustler and member of the Cowboy outlaw gang in the Cochise County area of what was then Arizona Territory during the late 1870s and early 1880s. Brocius' name is likely an alias or nickname, and some evidence links him to another outlaw named William "Curly Bill" Bresnaham, who was convicted of an 1878 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/william-brocius-20260707.mp3" type="audio/mpeg" length="1493760"/>
+      <guid isPermaLink="false">heist-william-brocius-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 14:07:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Criminology</title>
       <description>Criminology (from Latin crimen, 'accusation', and Ancient Greek -λογία, -logia, from λόγος logos, 'word, reason') is the interdisciplinary study of crime and deviant behaviour. Criminology is a multidisciplinary field in both the behavioural and social sciences, which draws primarily upon the research of sociologists, political scientists, economists, legal sociologists, psychologists, philosopher</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/criminology-20260707.mp3" type="audio/mpeg" length="1551840"/>
