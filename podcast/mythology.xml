@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Isis</title>
+      <description>Isis was a major goddess in ancient Egyptian religion whose worship spread throughout the Greco-Roman world. Isis was first mentioned in the Old Kingdom (c. 2686 – c. 2181 BCE) as one of the main characters of the Osiris myth, in which she resurrects her slain brother and husband, the divine king Osiris, and produces and protects his heir, Horus. She was believed to help the dead enter the afterli</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/isis-20260707.mp3" type="audio/mpeg" length="1420800"/>
+      <guid isPermaLink="false">mythology-isis-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 06:16:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Norse mythology</title>
       <description>Norse, Nordic, or Scandinavian mythology, is the body of myths belonging to the North Germanic peoples, stemming from Old Norse religion and continuing after the Christianization of Scandinavia as the Nordic folklore of the modern period. The northernmost extension of Germanic mythology and stemming from Proto-Germanic folklore, Norse mythology consists of tales of various deities, beings, and her</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/norse-mythology-20260706.mp3" type="audio/mpeg" length="1722240"/>
