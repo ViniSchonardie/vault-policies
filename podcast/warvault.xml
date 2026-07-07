@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Lake Khasan</title>
+      <description>The Battle of Lake Khasan (Russian: Хасанские бои), also known as the Changkufeng Incident (Chinese and Japanese: 張鼓峰事件; Chinese pinyin: Zhānggǔfēng Shìjiàn; Japanese romaji: Chōkohō Jiken), was an attempted military incursion by Manchukuo, a Japanese puppet state, into territory claimed and controlled by the Soviet Union. The incursion, which occurred from 29 July to 11 August 1938, was founded i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-lake-khasan-20260707.mp3" type="audio/mpeg" length="1984800"/>
+      <guid isPermaLink="false">warvault-battle-of-lake-khasan-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 03:48:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bear River Massacre</title>
       <description>The Bear River Massacre was a United States military attack that killed an estimated 250 to 493 children, women, and men at a Shoshone winter encampment on January 29, 1863. Some sources describe it as the largest mass murder of Native Americans by the US military and the largest single episode of genocide in US history. It took place in present-day Franklin County, Idaho near the present-day city</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/bear-river-massacre-20260706.mp3" type="audio/mpeg" length="1931040"/>
