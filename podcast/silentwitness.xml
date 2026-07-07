@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julius Streicher</title>
+      <description>Julius Sebastian Streicher (12 February 1885 – 16 October 1946) was a German publicist, politician, and convicted war criminal. A member of the Nazi Party, he served as the Gauleiter (regional leader) of Franconia and a member of the Reichstag, the national legislature. He was the founder and publisher of the virulently antisemitic newspaper Der Stürmer, which became a central element of the Nazi </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/julius-streicher-20260707.mp3" type="audio/mpeg" length="1680480"/>
+      <guid isPermaLink="false">trials-julius-streicher-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 17:19:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Euthyphro</title>
       <description>Euthyphro ( ; Ancient Greek: Εὐθύφρων, romanized: Euthyphrōn), is a philosophical work by Plato written in the form of a Socratic dialogue set during the weeks before the trial of Socrates in 399 BC. In the dialogue, Socrates and Euthyphro attempt to establish a definition of piety. This however leads to the main dilemma of the dialogue when the two cannot come to a satisfactory conclusion. Is som</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/euthyphro-20260707.mp3" type="audio/mpeg" length="1757760"/>
