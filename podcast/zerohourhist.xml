@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1980 Eureka earthquake</title>
+      <description>The 1980 Eureka earthquake (also known as the Gorda Basin earthquake) occurred on November 8 at 02:27:34 local time along the northern coastal area of California in the United States. With a moment magnitude of 7.3 and a maximum Mercalli intensity of VII (Very strong), this strike-slip earthquake was the largest to occur in California in 28 years. Although damage was considered light, several loss</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1980-eureka-earthquake-20260707.mp3" type="audio/mpeg" length="1862880"/>
+      <guid isPermaLink="false">history-1980-eureka-earthquake-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 23:12:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2007 Kent earthquake</title>
       <description>The 2007 Kent earthquake registered 4.3 on the Richter scale and struck south east Kent, South East England on 28 April 2007 at 07:18:12 UTC (08:18:12 local time), at a shallow depth of 5.3 km.
 The worst affected area was the town of Folkestone, although the towns of Deal, Dover and Ashford were also affected. The tremors could be felt across much of Kent and south east England, including as far a</description>
