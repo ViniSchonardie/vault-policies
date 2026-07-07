@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1971 Colorado Aviation Aero Commander 680 crash</title>
+      <description>The 1971 Colorado Aviation Aero Commander 680 crash claimed the life of decorated American World War II veteran Audie Murphy and five other people on May 28, 1971. The aircraft's passengers were on a business trip from Atlanta, Georgia, to Martinsville, Virginia, aboard an Aero Commander 680 Super twin-engined aircraft owned and operated by  Colorado Aviation Co, Inc. The aircraft crashed into the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1971-colorado-aviation-aero-commander-680-crash-20260707.mp3" type="audio/mpeg" length="1683360"/>
+      <guid isPermaLink="false">aviation-1971-colorado-aviation-aero-commander-680-crash-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 08:31:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Avianca Flight 011</title>
       <description>Avianca Flight 011 was a Boeing 747-200BM Combi on an international scheduled passenger flight from Frankfurt to Bogotá via Paris, Madrid, and Caracas that crashed near Madrid on 27 November 1983. It took off from Charles de Gaulle Airport in Paris at 22:25 on 26 November 1983 for Madrid Barajas Airport; take-off was delayed waiting for additional passengers from a Lufthansa flight due to a cancel</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-011-20260706.mp3" type="audio/mpeg" length="1618080"/>
