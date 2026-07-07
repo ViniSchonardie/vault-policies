@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eastern Air Lines Flight 980</title>
+      <description>Eastern Air Lines Flight 980 was a scheduled international flight from Asunción, Paraguay, to Miami, Florida, United States. On January 1, 1985, while descending towards La Paz, Bolivia, for a scheduled stopover, the Boeing 727 jetliner struck Mount Illimani at an altitude of 19,600 feet (6,000 m), killing all 29 people on board.
+The wreckage was scattered over a large area of a glacier covered wi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/eastern-air-lines-flight-980-20260707.mp3" type="audio/mpeg" length="1896960"/>
+      <guid isPermaLink="false">aviation-eastern-air-lines-flight-980-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 15:51:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1971 Colorado Aviation Aero Commander 680 crash</title>
       <description>The 1971 Colorado Aviation Aero Commander 680 crash claimed the life of decorated American World War II veteran Audie Murphy and five other people on May 28, 1971. The aircraft's passengers were on a business trip from Atlanta, Georgia, to Martinsville, Virginia, aboard an Aero Commander 680 Super twin-engined aircraft owned and operated by  Colorado Aviation Co, Inc. The aircraft crashed into the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1971-colorado-aviation-aero-commander-680-crash-20260707.mp3" type="audio/mpeg" length="1683360"/>
