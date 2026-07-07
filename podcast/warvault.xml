@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Godesberg</title>
+      <description>The siege of Godesberg, 18 November – 17 December 1583, was the first major siege of the Cologne War (1583–1589). Seeking to wrest control of an important fortification, Bavarian and mercenary soldiers surrounded the Godesberg, and the village then of the same name, now Bad Godesberg, located at its foot. On top of the mountain sat a formidable fortress, similarly named Godesburg, built in the ear</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-godesberg-20260707.mp3" type="audio/mpeg" length="1379040"/>
+      <guid isPermaLink="false">warvault-siege-of-godesberg-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 17:59:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Dutch Harbor</title>
       <description>The Battle of Dutch Harbor took place on 3-4 June 1942, when the Imperial Japanese Navy launched two aircraft carrier raids on the Dutch Harbor Naval Operating Base and U.S. Army Fort Mears at Dutch Harbor on Amaknak Island, opening the Aleutian Islands campaign of World War II. The bombing marked the first aerial attack by an enemy on North America, though Amaknak island is not part of the contin</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-dutch-harbor-20260707.mp3" type="audio/mpeg" length="1534560"/>
