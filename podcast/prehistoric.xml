@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Origin of birds</title>
+      <description>The scientific question of which larger group of animals birds evolved within has traditionally been called the "origin of birds". The present scientific consensus is that birds are a group of maniraptoran theropod dinosaurs that originated during the Mesozoic era.
+A close relationship between birds and dinosaurs was first proposed in the nineteenth century after the discovery of the primitive bir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/origin-of-birds-20260707.mp3" type="audio/mpeg" length="1679040"/>
+      <guid isPermaLink="false">prehistoric-origin-of-birds-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 16:29:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Woolly rhinoceros</title>
       <description>The woolly rhinoceros (Coelodonta antiquitatis) is an extinct species of rhinoceros that inhabited northern Eurasia during the Pleistocene epoch. The woolly rhinoceros was large, comparable in size to the largest living rhinoceros species, the white rhinoceros (Ceratotherium simum), and covered with long, thick hair that allowed it to survive in the extremely cold, harsh mammoth steppe. It had a m</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/woolly-rhinoceros-20260707.mp3" type="audio/mpeg" length="1512000"/>
