@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>List of impostors</title>
+      <description>An impostor (also spelled imposter) is a person who pretends to be somebody else, often through means of disguise, deceiving others by knowingly falsifying one or more aspects of their identity. This is in contrast to someone that honestly believes their false identity due to psychosis (break from reality), mistake (e.g. mistakenly switched at birth, or memory problems), or having been lied to abo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/list-of-impostors-20260707.mp3" type="audio/mpeg" length="1845600"/>
+      <guid isPermaLink="false">congame-list-of-impostors-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 10:48:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alan Bond</title>
       <description>Alan Bond (22 April 1938 – 5 June 2015) was an English-born Australian businessman noted for his high-profile and often corrupt business dealings. These included his central role in the WA Inc scandals of the 1980s; the biggest corporate collapse in Australian history; and also his criminal conviction that saw him serve four years in prison. He is also remembered for bankrolling the successful cha</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/congame-audio/alan-bond-20260707.mp3" type="audio/mpeg" length="1621920"/>
