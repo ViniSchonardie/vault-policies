@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rumbula Massacre</title>
+      <description>The Rumbula massacre is a collective term for incidents on November 30 and December 8, 1941, in which about 25,000 Jews were murdered in or on the way to Rumbula forest near Riga, Latvia, during World War II. Except for the Babi Yar massacre in Ukraine, this was the biggest two-day Holocaust atrocity until the operation of the death camps. About 24,000 of the victims were Latvian Jews from the Rig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rumbula-massacre-20260707.mp3" type="audio/mpeg" length="1775040"/>
+      <guid isPermaLink="false">trials-rumbula-massacre-20260707</guid>
+      <pubDate>Tue, 07 Jul 2026 23:58:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Julius Streicher</title>
       <description>Julius Sebastian Streicher (12 February 1885 – 16 October 1946) was a German publicist, politician, and convicted war criminal. A member of the Nazi Party, he served as the Gauleiter (regional leader) of Franconia and a member of the Reichstag, the national legislature. He was the founder and publisher of the virulently antisemitic newspaper Der Stürmer, which became a central element of the Nazi </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/julius-streicher-20260707.mp3" type="audio/mpeg" length="1680480"/>
