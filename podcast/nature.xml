@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Leopard seal</title>
+      <description>The leopard seal (Hydrurga leptonyx), also referred to as the sea leopard, is the second largest species of seal in the Antarctic (after the southern elephant seal). It is a top order predator, feeding on a wide range of prey including cephalopods, other pinnipeds, krill, fish, and birds, particularly penguins. Its only natural predator is the orca. It is the only species in the genus Hydrurga. It</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/leopard-seal-20260708.mp3" type="audio/mpeg" length="1624320"/>
+      <guid isPermaLink="false">nature-leopard-seal-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 20:23:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Giant squid</title>
       <description>The giant squid (Architeuthis dux) is a species of deep-ocean dwelling squid in the family Architeuthidae. It can grow to a tremendous size, offering an example of abyssal gigantism; recent estimates put the maximum body size at around 5 m (16 ft) for females, with males slightly shorter, from the posterior fins to the tip of its long arms. This makes it longer than the colossal squid at an estima</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/giant-squid-20260708.mp3" type="audio/mpeg" length="1728000"/>
