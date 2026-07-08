@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tarbosaurus</title>
+      <description>Tarbosaurus ( TAR-bə-SOR-əs; meaning "alarming lizard") is a genus of large tyrannosaurid dinosaur that lived in Asia during the Maastrichtian age of the Late Cretaceous epoch. It contains the type and single species Tarbosaurus bataar, which is known from the Nemegt Formation of Mongolia, with more fragmentary remains found further afield in the Subashi Formation of China. Tarbosaurus is represen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/tarbosaurus-20260708.mp3" type="audio/mpeg" length="1356960"/>
+      <guid isPermaLink="false">prehistoric-tarbosaurus-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 08:39:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spinosauridae</title>
       <description>Spinosauridae (or spinosaurids) is a clade or family of tetanuran theropod dinosaurs comprising ten to seventeen known genera. Spinosaurid fossils have been recovered worldwide, including Africa, Europe, South America, and Asia. Their remains have generally been attributed to the Early to Late Cretaceous.
 Spinosaurids were large bipedal carnivores. Their crocodilian-like skulls were long, low, and</description>
