@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Titanosauria</title>
+      <description>Titanosaurs (or titanosaurians; members of the group Titanosauria) were a diverse group of sauropod dinosaurs, including genera from every continent. The titanosaurs were the last surviving group of long-necked sauropods, with taxa still thriving at the time of the extinction event at the end of the Cretaceous. This group includes some of the largest land animals known to have ever existed, such a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/titanosauria-20260708.mp3" type="audio/mpeg" length="1402080"/>
+      <guid isPermaLink="false">prehistoric-titanosauria-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 23:14:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Andrewsarchus</title>
       <description>Andrewsarchus (), meaning "Andrews' ruler", is an extinct genus of artiodactyl that lived during the Middle Eocene in what is now China. The genus was first described by Henry Fairfield Osborn in 1924 with the type species A. mongoliensis based on a largely complete cranium. A second species, A. crassum, was described in 1977 based on teeth. A mandible, formerly described as Paratriisodon, probabl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/andrewsarchus-20260708.mp3" type="audio/mpeg" length="1622400"/>
