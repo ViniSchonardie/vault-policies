@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Houston Stewart Chamberlain</title>
+      <description>Houston Stewart Chamberlain (; 9 September 1855 – 9 January 1927) was a British-German-French philosopher. His writings on political philosophy and natural science influenced Adolf Hitler, among many others, attributing all world accomplishments to the Germanic race. Chamberlain promoted German ethnonationalism, antisemitism, scientific racism, and Nordicism; he has been described as a "racialist </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/houston-stewart-chamberlain-20260708.mp3" type="audio/mpeg" length="1819680"/>
+      <guid isPermaLink="false">realstory-houston-stewart-chamberlain-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 16:32:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sima Qian</title>
       <description>Sima Qian (c. 145 BC – c. 86 BC) was a Chinese historian during the early Han dynasty. He is considered the father of Chinese historiography for the Shiji (sometimes translated into English as Records of the Grand Historian), a general history of China covering more than two thousand years from the rise of the legendary Yellow Emperor and formation of the first Chinese polity to the reign of Emper</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/sima-qian-20260708.mp3" type="audio/mpeg" length="1242720"/>
