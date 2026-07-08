@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1983 Negev mid-air collision</title>
+      <description>In May 1983, two Israeli Air Force aircraft, an F-15 Eagle and an A-4 Skyhawk, collided in mid-air during a training exercise over the Negev region, in Israel. Notably, the F-15 (with a crew of two) managed to land safely at a nearby airbase, despite having its right wing almost completely sheared off in the collision. The lifting body properties of the F-15, together with its overabundant engine </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1983-negev-mid-air-collision-20260708.mp3" type="audio/mpeg" length="1374240"/>
+      <guid isPermaLink="false">aviation-1983-negev-mid-air-collision-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 07:36:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Midwest Express Airlines Flight 105</title>
       <description>Midwest Express Airlines Flight 105 was a scheduled domestic passenger flight that crashed into an open field in Oak Creek, Wisconsin shortly after taking off from General Mitchell International Airport on September 6, 1985. The airplane, a McDonnell Douglas DC-9, was carrying 31 passengers and crew. None of them survived the crash.
 Multiple eyewitnesses reported that the plane was on fire shortly</description>
