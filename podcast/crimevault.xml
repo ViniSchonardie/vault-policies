@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Oakland County Child Killer</title>
+      <description>The Oakland County Child Killer (OCCK) is the name given to the perpetrator(s) responsible for the serial killings of at least four children in Oakland County, Michigan, between 1976 and 1977. The children who were murdered were last seen in the company of a young to middle-aged man with a defined face, sharp nose, and long black hair. The victims were held captive before being killed, and the fou</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/oakland-county-child-killer-20260708.mp3" type="audio/mpeg" length="1614720"/>
+      <guid isPermaLink="false">crime-oakland-county-child-killer-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 10:58:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leonard Lake</title>
       <description>Leonard Thomas Lake, also known as Leonard Hill and a variety of other aliases, was an American survivalist and serial killer. He raped, tortured and murdered at least eleven and perhaps up to twenty-five victims with his accomplice Charles Ng. They held victims at a remote cabin near Wilseyville, California, 150 miles east of San Francisco, between 1983 and 1985. Lake was never convicted of murde</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/leonard-lake-20260708.mp3" type="audio/mpeg" length="1603200"/>
