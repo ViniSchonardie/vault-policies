@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pegasus Airlines Flight 2193</title>
+      <description>Pegasus Airlines Flight 2193 was a scheduled domestic passenger flight from İzmir to Istanbul in Turkey operated by Pegasus Airlines. On 5 February 2020, the Boeing 737-800 operating the route skidded off the runway while landing at Istanbul-Sabiha Gökçen International Airport, Turkey. Three people were killed, 179 people were injured, and the aircraft was destroyed. This was the first fatal accid</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pegasus-airlines-flight-2193-20260708.mp3" type="audio/mpeg" length="1794720"/>
+      <guid isPermaLink="false">aviation-pegasus-airlines-flight-2193-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 15:33:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1983 Negev mid-air collision</title>
       <description>In May 1983, two Israeli Air Force aircraft, an F-15 Eagle and an A-4 Skyhawk, collided in mid-air during a training exercise over the Negev region, in Israel. Notably, the F-15 (with a crew of two) managed to land safely at a nearby airbase, despite having its right wing almost completely sheared off in the collision. The lifting body properties of the F-15, together with its overabundant engine </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1983-negev-mid-air-collision-20260708.mp3" type="audio/mpeg" length="1374240"/>
