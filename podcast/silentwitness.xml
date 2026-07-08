@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fritz Sauckel</title>
+      <description>Ernst Friedrich Christoph Sauckel (27 October 1894 – 16 October 1946) was a German Nazi politician and convicted war criminal. As General Plenipotentiary for Labour Deployment (Arbeitseinsatz) from March 1942 until the end of the Second World War, he oversaw the mobilization of forced labour for the benefit of the German war effort.
+Born in Haßfurt in Bavaria, Sauckel worked as a seaman from a you</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/fritz-sauckel-20260708.mp3" type="audio/mpeg" length="1410720"/>
+      <guid isPermaLink="false">trials-fritz-sauckel-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 16:43:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lynching</title>
       <description>Lynching is an extrajudicial killing by a group. It is most often used to characterize informal public executions by a mob in order to punish an alleged or convicted transgressor or to intimidate others. It can also be an extreme form of informal group social control, and it is often conducted with the display of a public spectacle (often in the form of a hanging) for maximum intimidation. Instanc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/lynching-20260708.mp3" type="audio/mpeg" length="1289280"/>
