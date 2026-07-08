@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Independent Air Flight 1851</title>
+      <description>On 8 February 1989, Independent Air Flight 1851, a Boeing 707 on an American charter flight from Bergamo, Italy, to Punta Cana, Dominican Republic, struck Pico Alto while on approach to Santa Maria Airport in the Azores for a scheduled stopover. The aircraft was destroyed, with the loss of all 144 people on board, resulting in the deadliest plane crash in Portugal's history. All of the passengers </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/independent-air-flight-1851-20260708.mp3" type="audio/mpeg" length="1859520"/>
+      <guid isPermaLink="false">aviation-independent-air-flight-1851-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 22:03:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pegasus Airlines Flight 2193</title>
       <description>Pegasus Airlines Flight 2193 was a scheduled domestic passenger flight from İzmir to Istanbul in Turkey operated by Pegasus Airlines. On 5 February 2020, the Boeing 737-800 operating the route skidded off the runway while landing at Istanbul-Sabiha Gökçen International Airport, Turkey. Three people were killed, 179 people were injured, and the aircraft was destroyed. This was the first fatal accid</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pegasus-airlines-flight-2193-20260708.mp3" type="audio/mpeg" length="1794720"/>
