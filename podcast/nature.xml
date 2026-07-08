@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rhinoceros</title>
+      <description>A rhinoceros ( ry-NOSS-ə-rəss; from Ancient Greek  ῥινόκερως (rhinókerōs) 'nose-horned'; from  ῥίς (rhis) 'nose' and  κέρας (kéras) 'horn'; pl.: rhinoceros or rhinoceroses), commonly abbreviated to rhino, is a member of any of the five extant species (or numerous extinct species) of odd-toed ungulates (perissodactyls) in the family Rhinocerotidae. It is the only living family in the superfamily Rh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/rhinoceros-20260708.mp3" type="audio/mpeg" length="1344480"/>
+      <guid isPermaLink="false">nature-rhinoceros-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 05:52:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Grizzly bear</title>
       <description>The grizzly bear (Ursus arctos horribilis), also known as the North American brown bear or simply grizzly, is a population or subspecies of the brown bear inhabiting North America.
 In addition to the mainland grizzly (Ursus arctos horribilis), other forms of brown bear are sometimes identified as grizzly bears. These include three living populations—the Kodiak bear (U. a. middendorffi), the Kamcha</description>
