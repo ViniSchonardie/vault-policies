@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Oldcastle</title>
+      <description>Sir John Oldcastle (died 14 December 1417) was an English Lollard leader. From 1409 to 1413, he was summoned to parliament as Baron Cobham, in the right of his wife.
+Being a friend of Henry V, he long escaped prosecution for heresy. When convicted, he escaped from the Tower of London and then led a rebellion against the King. Eventually, he was captured and executed in London. He formed the basis </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/john-oldcastle-20260708.mp3" type="audio/mpeg" length="1687680"/>
+      <guid isPermaLink="false">royal-john-oldcastle-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 18:20:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oatlands Palace</title>
       <description>Oatlands Palace  is a former Tudor and Stuart royal palace which took the place of the former manor of the village of Oatlands near Weybridge, Surrey. Little remains of the original building, so excavations of the palace took place in 1964 to rediscover its extent.
 The four-star Oatlands Park Hotel now occupies the site where the post-Commonwealth Oatlands mansion (Oatlands House) once stood. With</description>
