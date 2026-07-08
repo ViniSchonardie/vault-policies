@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Loki</title>
+      <description>Loki is a god in Norse mythology. He is the son of Fárbauti (a jötunn) and Laufey (a goddess), and the brother of Helblindi and Býleistr. Loki is married to the goddess Sigyn and they have two sons, Narfi or Nari and Váli. By the jötunn Angrboða, Loki is the father of Hel, the wolf Fenrir and the world serpent Jörmungandr. In the form of a mare, Loki was impregnated by the stallion Svaðilfari and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/loki-20260708.mp3" type="audio/mpeg" length="1469280"/>
+      <guid isPermaLink="false">mythology-loki-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 19:25:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kartikeya</title>
       <description>Kartikeya (IAST: Kārttikeya), also known as Skanda, Subrahmanya, Shanmukha or Muruga(n), is the Hindu god of war. He is generally described as the son of the deities Shiva and Parvati and the brother of Ganesha. 
 Kartikeya has been an important deity in the Indian subcontinent since ancient times. Mentions of Skanda in the Sanskrit literature dates back to fifth century BCE and the mythology relat</description>
