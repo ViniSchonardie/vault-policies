@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fandango Media</title>
+      <description>Fandango Media, LLC is an American ticketing company that sells movie tickets via its website and its mobile app. It also owns Fandango at Home (formerly owned by Walmart and originally known as Vudu), a streaming digital video store and streaming service, and Rotten Tomatoes, a website that provides television and streaming media information. It is a joint venture between Versant and Warner Bros.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/fandango-media-20260708.mp3" type="audio/mpeg" length="1556160"/>
+      <guid isPermaLink="false">heist-fandango-media-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 13:28:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Extradition</title>
       <description>Extradition is the formal legal process by which one jurisdiction surrenders a person accused or convicted of a crime to another jurisdiction where the crime occurred for the purposes of prosecution or punishment. It is a cooperative law enforcement procedure between the two jurisdictions, and depends on the arrangements made between them. In addition to legal aspects of the process, extradition a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/extradition-20260708.mp3" type="audio/mpeg" length="1784640"/>
