@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Manny Ramirez</title>
+      <description>Manuel Arístides Ramírez Onelcida (born May 30, 1972) is a Dominican-American former professional baseball outfielder. He played in Major League Baseball (MLB) for parts of 19 seasons. He played with the Cleveland Indians, Boston Red Sox, Los Angeles Dodgers, Chicago White Sox, and Tampa Bay Rays before playing one season at the Chinese Professional Baseball League in Taiwan. Ramirez is recognized</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/manny-ramirez-20260708.mp3" type="audio/mpeg" length="1752960"/>
+      <guid isPermaLink="false">sportscrime-manny-ramirez-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 14:36:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Simona Halep</title>
       <description>Simona Halep (Romanian pronunciation: [siˈmona haˈlep]; born 27 September 1991) is a Romanian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 64 weeks, including as the year-end No. 1 in 2017 and 2018. Halep won 25 WTA Tour–level titles, including two majors at the 2018 French Open and the 2019 Wimbledon Championsh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/simona-halep-20260708.mp3" type="audio/mpeg" length="1512000"/>
