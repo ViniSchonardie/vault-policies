@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Andrew Mountbatten Windsor</title>
+      <description>Andrew Albert Christian Edward Mountbatten-Windsor (born 19 February 1960), formerly Prince Andrew, Duke of York, is the third child and second son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh, and a younger brother of King Charles III. Andrew was born second in the line of succession to the British throne and is eighth as of 2026.
+Serving in the Royal Navy from 1979 to 2001, Andrew </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/andrew-mountbatten-windsor-20260708.mp3" type="audio/mpeg" length="1565280"/>
+      <guid isPermaLink="false">royal-andrew-mountbatten-windsor-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 04:22:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bolingbroke Castle</title>
       <description>Bolingbroke Castle is a ruined castle in Bolingbroke (now Old Bolingbroke) in Lincolnshire, England.
 
