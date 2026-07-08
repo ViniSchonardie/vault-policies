@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Extradition</title>
+      <description>Extradition is the formal legal process by which one jurisdiction surrenders a person accused or convicted of a crime to another jurisdiction where the crime occurred for the purposes of prosecution or punishment. It is a cooperative law enforcement procedure between the two jurisdictions, and depends on the arrangements made between them. In addition to legal aspects of the process, extradition a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/extradition-20260708.mp3" type="audio/mpeg" length="1784640"/>
+      <guid isPermaLink="false">heist-extradition-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 06:39:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Detroit Partnership</title>
       <description>The Detroit Partnership, also known as the Zerilli crime family (Italian pronunciation: [dzeˈrilli]), the Tocco–Zerilli crime family, the Detroit crime family, the Detroit Mafia, or the Detroit Combination, is an Italian American Mafia crime family based in Detroit, Michigan. The family mainly operates throughout the Greater Detroit area, as well as in other locations, including Windsor, Ontario; </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/detroit-partnership-20260707.mp3" type="audio/mpeg" length="1190400"/>
