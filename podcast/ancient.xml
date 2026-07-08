@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Orsha</title>
+      <description>The Battle of Orsha (Polish: Bitwa pod Orszą, Lithuanian: Oršos mūšis), was fought on 8 September 1514, between the allied forces of the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland, under the command of Lithuanian Grand Hetman Konstanty Ostrogski; and the army of the Grand Duchy of Moscow under Konyushy Ivan Chelyadnin and Kniaz Mikhail Bulgakov-Golitsa. The Battle of Orsha was</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-orsha-20260708.mp3" type="audio/mpeg" length="1939200"/>
+      <guid isPermaLink="false">ancient-battle-of-orsha-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 22:13:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Maroboduus</title>
       <description>Maroboduus (d. AD 37), also known as Marbod, was a king of the Marcomanni, who were a Germanic Suebian people. He spent part of his youth in Rome, and returning, found his people under pressure from invasions by the Roman Empire between the Rhine and Elbe. He led them into the forests of Bohemia, near to the Quadi who already lived nearby, and established a large alliance.
 
