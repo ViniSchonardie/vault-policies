@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Detroit</title>
+      <description>The siege of Detroit, also known as the surrender of Detroit or the Battle of Fort Detroit, was an early engagement in the War of 1812. A British force under Major General Isaac Brock in cooperation with Indigenous warriors under Shawnee leader Tecumseh used bluff and deception to intimidate American Brigadier General William Hull into surrendering the fort and town of Detroit, the Michigan Territ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-detroit-20260708.mp3" type="audio/mpeg" length="1746240"/>
+      <guid isPermaLink="false">warvault-siege-of-detroit-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 10:24:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Olustee</title>
       <description>The Battle of Olustee or Battle of Ocean Pond, was fought in Baker County, Florida, on February 20, 1864, during the American Civil War. It was the largest battle fought in Florida during the war.
 Union General Truman Seymour had landed troops at Jacksonville and aimed chiefly to disrupt the Confederate food supply. Meeting little resistance, he proceeded towards the state capital, Tallahassee, ag</description>
