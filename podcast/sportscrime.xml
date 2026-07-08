@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Simona Halep</title>
+      <description>Simona Halep (Romanian pronunciation: [siˈmona haˈlep]; born 27 September 1991) is a Romanian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 64 weeks, including as the year-end No. 1 in 2017 and 2018. Halep won 25 WTA Tour–level titles, including two majors at the 2018 French Open and the 2019 Wimbledon Championsh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/simona-halep-20260708.mp3" type="audio/mpeg" length="1512000"/>
+      <guid isPermaLink="false">sportscrime-simona-halep-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 06:36:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bob Sapp</title>
       <description>Robert Malcolm Sapp (born September 22, 1973) is an American former mixed martial artist, kickboxer, professional wrestler, actor, and football player. Sapp has a combined fight record of 24–39–1, mostly fighting in Japan. He is well known in Japan, where he has appeared in numerous commercials, television programs, and various other media, and has released a music CD, Sapp Time. He is known there</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/bob-sapp-20260707.mp3" type="audio/mpeg" length="1371840"/>
