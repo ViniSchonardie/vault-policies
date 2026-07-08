@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Ng</title>
+      <description>Charles Chi-tat Ng is a Hong Kong-born convicted serial killer who committed numerous crimes in the United States. He is believed to have raped, tortured, and murdered between eleven and twenty-five victims with his accomplice Leonard Lake at Lake's cabin in Calaveras County, California, 60 miles (96 km) from Sacramento, between 1983 and 1985. After his arrest and imprisonment in Canada on robbery</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-ng-20260708.mp3" type="audio/mpeg" length="1993920"/>
+      <guid isPermaLink="false">crime-charles-ng-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 18:27:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oakland County Child Killer</title>
       <description>The Oakland County Child Killer (OCCK) is the name given to the perpetrator(s) responsible for the serial killings of at least four children in Oakland County, Michigan, between 1976 and 1977. The children who were murdered were last seen in the company of a young to middle-aged man with a defined face, sharp nose, and long black hair. The victims were held captive before being killed, and the fou</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/oakland-county-child-killer-20260708.mp3" type="audio/mpeg" length="1614720"/>
