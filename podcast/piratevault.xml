@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bajak</title>
+      <description>Bajak is a type of sailing prahu of the Dayak people of Borneo. It is propelled by both sail and oars. The bajak has a sharp but hollow bow, with projection at top. It has large square stern which projects at the sides of the hull and supported by two strong beams. On the side of the vessel are projecting open galleries for oarsmen. Bajak has two mast with lug rig, and a bowsprit which support hea</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/bajak-20260708.mp3" type="audio/mpeg" length="1548960"/>
+      <guid isPermaLink="false">pirates-bajak-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 08:27:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Barbary Slave Trade</title>
       <description>The Barbary slave trade involved the capture of Europeans and selling them at slave markets in the largely independent Ottoman Barbary states of North Africa during the early modern period. European civilians and merchant seamen were captured by Barbary corsairs in slave raids on ships and by raids on coastal towns from Italy to Ireland, coasts of Spain and Portugal, as far north as Iceland and in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/piratevault-audio/barbary-slave-trade-20260707.mp3" type="audio/mpeg" length="1549440"/>
