@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Olustee</title>
+      <description>The Battle of Olustee or Battle of Ocean Pond, was fought in Baker County, Florida, on February 20, 1864, during the American Civil War. It was the largest battle fought in Florida during the war.
+Union General Truman Seymour had landed troops at Jacksonville and aimed chiefly to disrupt the Confederate food supply. Meeting little resistance, he proceeded towards the state capital, Tallahassee, ag</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-olustee-20260708.mp3" type="audio/mpeg" length="1733760"/>
+      <guid isPermaLink="false">warvault-battle-of-olustee-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 03:04:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Godesberg</title>
       <description>The siege of Godesberg, 18 November – 17 December 1583, was the first major siege of the Cologne War (1583–1589). Seeking to wrest control of an important fortification, Bavarian and mercenary soldiers surrounded the Godesberg, and the village then of the same name, now Bad Godesberg, located at its foot. On top of the mountain sat a formidable fortress, similarly named Godesburg, built in the ear</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-godesberg-20260707.mp3" type="audio/mpeg" length="1379040"/>
