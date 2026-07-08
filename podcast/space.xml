@@ -17,6 +17,25 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-29</title>
+      <description>Soyuz MS-29 is a planned Russian crewed Soyuz spaceflight to launch from Baikonur on 14 July 2026 to the International Space Station.
+
+
+== Crew ==
+
+
+== References ==
+
+
+== External links ==
+NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission at NASA</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-29-20260708.mp3" type="audio/mpeg" length="1366560"/>
+      <guid isPermaLink="false">space-soyuz-ms-29-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 16:07:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-31</title>
       <description>STS-31 was the 35th mission of NASA's Space Shuttle program and the tenth flight of the Space Shuttle Discovery.  The primary purpose of this mission was the deployment of the Hubble Space Telescope (HST) into low Earth orbit. Discovery lifted off from Launch Complex 39B on April 24, 1990, from Kennedy Space Center, Florida.
 Following the Challenger accident clarification was required on mission n</description>
