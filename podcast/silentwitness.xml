@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lynching</title>
+      <description>Lynching is an extrajudicial killing by a group. It is most often used to characterize informal public executions by a mob in order to punish an alleged or convicted transgressor or to intimidate others. It can also be an extreme form of informal group social control, and it is often conducted with the display of a public spectacle (often in the form of a hanging) for maximum intimidation. Instanc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/lynching-20260708.mp3" type="audio/mpeg" length="1289280"/>
+      <guid isPermaLink="false">trials-lynching-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 09:27:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rumbula Massacre</title>
       <description>The Rumbula massacre is a collective term for incidents on November 30 and December 8, 1941, in which about 25,000 Jews were murdered in or on the way to Rumbula forest near Riga, Latvia, during World War II. Except for the Babi Yar massacre in Ukraine, this was the biggest two-day Holocaust atrocity until the operation of the death camps. About 24,000 of the victims were Latvian Jews from the Rig</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rumbula-massacre-20260707.mp3" type="audio/mpeg" length="1775040"/>
