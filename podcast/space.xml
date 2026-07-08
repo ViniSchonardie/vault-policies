@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-31</title>
+      <description>STS-31 was the 35th mission of NASA's Space Shuttle program and the tenth flight of the Space Shuttle Discovery.  The primary purpose of this mission was the deployment of the Hubble Space Telescope (HST) into low Earth orbit. Discovery lifted off from Launch Complex 39B on April 24, 1990, from Kennedy Space Center, Florida.
+Following the Challenger accident clarification was required on mission n</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-31-20260708.mp3" type="audio/mpeg" length="1656000"/>
+      <guid isPermaLink="false">space-sts-31-20260708</guid>
+      <pubDate>Wed, 08 Jul 2026 08:21:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-128</title>
       <description>STS-128 (ISS assembly flight 17A) was a NASA Space Shuttle mission to the International Space Station (ISS) that launched on August 28, 2009. Space Shuttle Discovery carried the Multi-Purpose Logistics Module Leonardo as its primary payload. It was Discovery's 37th flight. Leonardo contained a collection of experiments for studying the physics and chemistry of microgravity. Three spacewalks were c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-128-20260707.mp3" type="audio/mpeg" length="1490400"/>
