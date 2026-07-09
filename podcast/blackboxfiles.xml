@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Reeve Aleutian Airways Flight 8</title>
+      <description>Reeve Aleutian Airways Flight 8 was an American domestic flight from Cold Bay, Alaska, to Seattle, Washington, on June 8, 1983. Shortly after takeoff, the Lockheed L-188 Electra of Reeve Aleutian Airways was travelling over the Pacific Ocean when one of the propellers broke away from its engine and struck the fuselage, damaging the flight controls. The pilots were able to make an emergency landing</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/reeve-aleutian-airways-flight-8-20260709.mp3" type="audio/mpeg" length="1572480"/>
+      <guid isPermaLink="false">aviation-reeve-aleutian-airways-flight-8-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 08:35:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Independent Air Flight 1851</title>
       <description>On 8 February 1989, Independent Air Flight 1851, a Boeing 707 on an American charter flight from Bergamo, Italy, to Punta Cana, Dominican Republic, struck Pico Alto while on approach to Santa Maria Airport in the Azores for a scheduled stopover. The aircraft was destroyed, with the loss of all 144 people on board, resulting in the deadliest plane crash in Portugal's history. All of the passengers </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/independent-air-flight-1851-20260708.mp3" type="audio/mpeg" length="1859520"/>
