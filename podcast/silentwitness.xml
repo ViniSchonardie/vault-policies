@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas Mooney</title>
+      <description>Thomas Joseph Mooney (December 8, 1882 – March 6, 1942) was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. It quickly became apparent that Mooney and Billings had been convicted based on falsified evidence and perjured testimony; and the Mooney case and campaigns to free him became an international c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/thomas-mooney-20260709.mp3" type="audio/mpeg" length="1629120"/>
+      <guid isPermaLink="false">trials-thomas-mooney-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 17:27:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Babi Yar</title>
       <description>Babi Yar (Russian: Бабий Яр) or Babyn Yar (Ukrainian: Бабин Яр) is a ravine in the Ukrainian capital Kyiv and a site of massacres carried out by Nazi Germany's forces during its campaign against the Soviet Union in World War II. The first and best documented of the massacres took place on 29–30 September 1941, in which some 33,771 Jews were murdered. Other victims of massacres at the site included</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/babi-yar-20260709.mp3" type="audio/mpeg" length="1829760"/>
