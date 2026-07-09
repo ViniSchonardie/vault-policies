@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bull shark</title>
+      <description>The bull shark (Carcharhinus leucas), also known as the Zambezi shark (informally zambi) in Africa and Lake Nicaragua shark in Nicaragua, is a species of requiem shark commonly found worldwide in warm, shallow waters along coasts and in rivers. It is known for its aggressive nature, and presence mainly in warm, shallow brackish and freshwater systems including estuaries and (usually) lower reaches</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bull-shark-20260709.mp3" type="audio/mpeg" length="1498560"/>
+      <guid isPermaLink="false">nature-bull-shark-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 20:47:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Titanoboa</title>
       <description>Titanoboa (; lit. 'titanic boa') is a genus of extinct giant boid snake (being the biological family of all boas and anacondas) that lived during the middle and late Paleocene epoch. Titanoboa was first discovered in the early 2000s by members of the Smithsonian Tropical Research Institute, which–along with students from the University of Florida–recovered 186 fossils of Titanoboa from the Cerrejó</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/titanoboa-20260709.mp3" type="audio/mpeg" length="1680960"/>
