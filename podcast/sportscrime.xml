@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ray Rice</title>
+      <description>Raynell Mourice Rice (born January 22, 1987) is an American former professional football running back who played in the National Football League (NFL) for six seasons with the Baltimore Ravens. He played college football for the Rutgers Scarlet Knights, earning first-team All-American honors in 2007, and was selected by the Ravens in the second round of the 2008 NFL draft. During his career, Rice </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/ray-rice-20260709.mp3" type="audio/mpeg" length="1365600"/>
+      <guid isPermaLink="false">sportscrime-ray-rice-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 07:49:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cus D'Amato</title>
       <description>Constantine "Cus" D'Amato (January 17, 1908 – November 4, 1985) was an American boxing manager, boxing promoter and boxing trainer who handled the careers of Mike Tyson, Floyd Patterson, and José Torres, all of whom went on to be inducted into the International Boxing Hall of Fame. Several successful boxing trainers, including Teddy Atlas and Kevin Rooney, were among those he tutored.
 He was a pro</description>
