@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1456 Central Italy earthquakes</title>
+      <description>On December 5, 1456, the largest earthquake to occur on the Italian Peninsula in historical times struck the Kingdom of Naples. The earthquake had an estimated moment magnitude of Mw 7.19–7.4, and was centred near the town of Pontelandolfo in the present-day Province of Benevento, southern Italy. Earning a level of XI (Extreme) on the Modified Mercalli intensity scale, the earthquake caused widesp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1456-central-italy-earthquakes-20260709.mp3" type="audio/mpeg" length="1869120"/>
+      <guid isPermaLink="false">history-1456-central-italy-earthquakes-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 23:22:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1980 El Asnam earthquake</title>
       <description>The 1980 El Asnam earthquake occurred on October 10 at 13:25:23 local time with a moment magnitude of 7.1 and a maximum Mercalli intensity of X (Extreme). The shock occurred in the Algerian town of El Asnam (now known as Chlef). The shocks were felt over 550 km (340 mi) away, with the initial earthquake lasting 35 seconds. It was the largest earthquake in Algeria, and was followed three hours late</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1980-el-asnam-earthquake-20260709.mp3" type="audio/mpeg" length="1775520"/>
