@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Orpheus</title>
+      <description>In Greek mythology, Orpheus ( ; Ancient Greek: Ὀρφεύς, classical pronunciation: [or.pʰeú̯s]) was a Thracian bard, legendary musician and prophet. He was also a renowned poet and, according to legend, travelled with Jason and the Argonauts in search of the Golden Fleece, and descended into the underworld to recover his lost wife, Eurydice.
+The major stories about him are centered on his ability to </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/orpheus-20260709.mp3" type="audio/mpeg" length="1187520"/>
+      <guid isPermaLink="false">mythology-orpheus-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 19:43:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gaia</title>
       <description>In Greek mythology, Gaia (; Ancient Greek: Γαῖα, romanized: Gaîa, a poetic form of Γῆ (Gê), meaning 'land' or 'earth'), also spelled Gaea (), is the personification of Earth. She is the mother of Uranus (Sky), with whom she conceived the Titans (themselves parents of many of the Olympian gods), the Cyclopes, and the Giants, as well as of Pontus (Sea), from whose union she bore the primordial sea g</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/gaia-20260709.mp3" type="audio/mpeg" length="1628160"/>
