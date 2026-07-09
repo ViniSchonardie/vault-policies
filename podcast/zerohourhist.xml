@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1994 offshore Sanriku earthquake</title>
+      <description>The 1994 offshore Sanriku earthquake (Japanese: 三陸はるか沖地震 Sanriku Haruka Okijishin) occurred on December 28, 1994, at 12:19 UTC (21:19 JST). This was a magnitude Mw 7.7 earthquake with epicenter located in the Pacific Ocean at about 180 km east of Hachinohe, Aomori (haruka-oki means "far offshore"). The intensity reached shindo 6 in Hachinohe, Aomori, about 187.6 km from epicenter. It could be felt</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1994-offshore-sanriku-earthquake-20260709.mp3" type="audio/mpeg" length="1859040"/>
+      <guid isPermaLink="false">history-1994-offshore-sanriku-earthquake-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 09:25:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1861 Mendoza earthquake</title>
       <description>The 1861 Mendoza earthquake occurred in the province of Mendoza, Argentina on 20 March at 11:30 PM. It had an estimated magnitude of 7.2 on the Ms scale and an intensity of IX–X on the Mercalli scale. Its hypocenter was located at an estimated depth of 30 kilometres (19 mi).
 
