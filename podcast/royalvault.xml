@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Armouries Museum</title>
+      <description>The Royal Armouries Museum in Leeds, West Yorkshire, England, is a national museum that holds the National Collection of Arms and Armour. It is part of the Royal Armouries family of museums, with other sites at the Royal Armouries' traditional home in the Tower of London, and the National Collection of Artillery at Fort Nelson, Hampshire. The Royal Armouries is a non-departmental public body spons</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-armouries-museum-20260709.mp3" type="audio/mpeg" length="1704960"/>
+      <guid isPermaLink="false">royal-royal-armouries-museum-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 18:52:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dunfermline Palace</title>
       <description>Dunfermline Palace is a ruined former Scottish royal palace and important tourist attraction in Dunfermline, Fife, Scotland. It is currently, along with other buildings of the adjacent Dunfermline Abbey, under the care of Historic Environment Scotland as a scheduled monument.
 
