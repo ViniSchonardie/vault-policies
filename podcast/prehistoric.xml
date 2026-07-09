@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cave bear</title>
+      <description>The cave bear (Ursus spelaeus) is a prehistoric species of bear that lived in Europe and Asia during the Pleistocene and became extinct about 24,000 years ago during the Last Glacial Maximum.
+The common and scientific name for the species comes from their remains having been found largely in caves. This reflects the views of experts that cave bears spent more time in caves than the brown bear, fre</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cave-bear-20260709.mp3" type="audio/mpeg" length="1628640"/>
+      <guid isPermaLink="false">prehistoric-cave-bear-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 23:19:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deinocheirus</title>
       <description>Deinocheirus ( DY-no-KY-rəs) is a genus of large ornithomimosaur that lived during the Late Cretaceous around 70 million years ago. In 1965, a pair of large arms, shoulder girdles, and a few other bones of a new dinosaur were first discovered in the Nemegt Formation of Mongolia. In 1970, this specimen became the holotype of the only species within the genus, Deinocheirus mirificus; the genus name </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/deinocheirus-20260709.mp3" type="audio/mpeg" length="1758240"/>
