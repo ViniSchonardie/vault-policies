@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Titanoboa</title>
+      <description>Titanoboa (; lit. 'titanic boa') is a genus of extinct giant boid snake (being the biological family of all boas and anacondas) that lived during the middle and late Paleocene epoch. Titanoboa was first discovered in the early 2000s by members of the Smithsonian Tropical Research Institute, which–along with students from the University of Florida–recovered 186 fossils of Titanoboa from the Cerrejó</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/titanoboa-20260709.mp3" type="audio/mpeg" length="1680960"/>
+      <guid isPermaLink="false">nature-titanoboa-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 13:45:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Archaea</title>
       <description>Archaea (  ar-KEE-ə) is a domain of organisms. Traditionally, Archaea included only its prokaryotic members, but has since been found to be paraphyletic, as eukaryotes are known to have evolved from archaea. Even though the domain Archaea cladistically includes eukaryotes, the term archaea (sing. archaeon  ar-KEE-on; from Ancient Greek  ἀρχαῖον arkhaîon 'ancient') in English still generally refers</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/archaea-20260709.mp3" type="audio/mpeg" length="1721280"/>
