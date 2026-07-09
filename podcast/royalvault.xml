@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dunfermline Palace</title>
+      <description>Dunfermline Palace is a ruined former Scottish royal palace and important tourist attraction in Dunfermline, Fife, Scotland. It is currently, along with other buildings of the adjacent Dunfermline Abbey, under the care of Historic Environment Scotland as a scheduled monument.
+
+
+== Origins ==
+Dunfermline was a favourite residence of many Scottish monarchs. Documented history of royal residence ther</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/dunfermline-palace-20260709.mp3" type="audio/mpeg" length="1761600"/>
+      <guid isPermaLink="false">royal-dunfermline-palace-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 11:59:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Oldcastle</title>
       <description>Sir John Oldcastle (died 14 December 1417) was an English Lollard leader. From 1409 to 1413, he was summoned to parliament as Baron Cobham, in the right of his wife.
 Being a friend of Henry V, he long escaped prosecution for heresy. When convicted, he escaped from the Tower of London and then led a rebellion against the King. Eventually, he was captured and executed in London. He formed the basis </description>
