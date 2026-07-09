@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Luhansk Oblast campaign</title>
+      <description>Since 19 September 2022, a military campaign has taken place along a frontline in western parts of Luhansk Oblast and far-eastern parts of Kharkiv Oblast amid the Russian invasion of Ukraine. The frontline has been referred to as the Svatove–Kreminna line or the Kupiansk–Svatove–Kreminna–Bilohorivka line, after the major settlements that lie along it.
+
+
+== Background ==
+
+The city of Svatove fell o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/luhansk-oblast-campaign-20260709.mp3" type="audio/mpeg" length="1590240"/>
+      <guid isPermaLink="false">warvault-luhansk-oblast-campaign-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 03:40:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Five Forks</title>
       <description>The Battle of Five Forks was fought on April 1, 1865, southwest of Petersburg, Virginia, around the road junction of Five Forks, Dinwiddie County, at the end of the Siege of Petersburg, near the conclusion of the American Civil War.
 The Union Army commanded by Major General Philip Sheridan defeated a Confederate force from the Army of Northern Virginia commanded by Major General George Pickett. Th</description>
