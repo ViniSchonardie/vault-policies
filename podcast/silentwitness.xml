@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Babi Yar</title>
+      <description>Babi Yar (Russian: Бабий Яр) or Babyn Yar (Ukrainian: Бабин Яр) is a ravine in the Ukrainian capital Kyiv and a site of massacres carried out by Nazi Germany's forces during its campaign against the Soviet Union in World War II. The first and best documented of the massacres took place on 29–30 September 1941, in which some 33,771 Jews were murdered. Other victims of massacres at the site included</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/babi-yar-20260709.mp3" type="audio/mpeg" length="1829760"/>
+      <guid isPermaLink="false">trials-babi-yar-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 10:27:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rhineland Massacres</title>
       <description>The Rhineland massacres, also known as the German Crusade of 1096 (Hebrew: גזרות תתנ״ו, romanized: Gezēroṯ-Taṯnu, lit. 'Edicts of 4856'), were a series of mass murders of Jews perpetrated by mobs of French and German Christians of the People's Crusade in 1096 (4856 in the Hebrew calendar). These massacres are often seen as the first in a sequence of antisemitic events in Europe which culminated in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rhineland-massacres-20260709.mp3" type="audio/mpeg" length="2215680"/>
