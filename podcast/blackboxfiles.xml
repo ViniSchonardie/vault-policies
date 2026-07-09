@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Canadian Pacific Air Lines Flight 402</title>
+      <description>On March 4, 1966, Canadian Pacific Air Lines Flight 402 struck the approach lights and a seawall during a night landing attempt in poor visibility at Haneda Airport in Tokyo, Japan. Of the 62 passengers and 10 crew, only 8 passengers survived.
+
+
+== Background ==
+
+
+=== Aircraft ===
+The aircraft involved was a McDonnell Douglas DC-8-43, registration CF-CPK, c/n 45761/237, delivered to the airline on</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/canadian-pacific-air-lines-flight-402-20260709.mp3" type="audio/mpeg" length="1686720"/>
+      <guid isPermaLink="false">aviation-canadian-pacific-air-lines-flight-402-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 22:17:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Japan Air Lines Flight 350</title>
       <description>Japan Air Lines Flight 350 was a domestic scheduled passenger flight from Fukuoka, Fukuoka Prefecture, to Tokyo in Japan. On 9 February 1982, the McDonnell Douglas DC-8-61 operating the flight, registered JA8061, crashed into Tokyo Bay on approach to Haneda Airport, resulting in 24 fatalities. Flight 350 was the first crash for Japan Air Lines in the 1980s. The investigation traced the cause of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/japan-air-lines-flight-350-20260709.mp3" type="audio/mpeg" length="1872000"/>
