@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rhineland Massacres</title>
+      <description>The Rhineland massacres, also known as the German Crusade of 1096 (Hebrew: גזרות תתנ״ו, romanized: Gezēroṯ-Taṯnu, lit. 'Edicts of 4856'), were a series of mass murders of Jews perpetrated by mobs of French and German Christians of the People's Crusade in 1096 (4856 in the Hebrew calendar). These massacres are often seen as the first in a sequence of antisemitic events in Europe which culminated in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rhineland-massacres-20260709.mp3" type="audio/mpeg" length="2215680"/>
+      <guid isPermaLink="false">trials-rhineland-massacres-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 00:09:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fritz Sauckel</title>
       <description>Ernst Friedrich Christoph Sauckel (27 October 1894 – 16 October 1946) was a German Nazi politician and convicted war criminal. As General Plenipotentiary for Labour Deployment (Arbeitseinsatz) from March 1942 until the end of the Second World War, he oversaw the mobilization of forced labour for the benefit of the German war effort.
 Born in Haßfurt in Bavaria, Sauckel worked as a seaman from a you</description>
