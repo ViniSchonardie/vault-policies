@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tom Ketchum</title>
+      <description>Thomas Edward Ketchum (known as Black Jack; October 31, 1863 – April 26, 1901) was an American cowboy who later became an outlaw. He was executed in 1901 for attempted train robbery. The execution by hanging was botched; he was decapitated because the executioner used a rope that was too long.
+
+
+== First train robberies and murders ==
+Tom Ketchum was born in San Saba County, Texas. He left Texas i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/tom-ketchum-20260709.mp3" type="audio/mpeg" length="1605600"/>
+      <guid isPermaLink="false">heist-tom-ketchum-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 14:28:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joaquin Murrieta</title>
       <description>Joaquin Murrieta Carrillo (sometimes misspelled Murieta or Murietta) (c. 1829 – July 25, 1853), also called the Robin Hood of the West or the Robin Hood of El Dorado, was a Mexican figure of disputed historicity. The novel The Life and Adventures of Joaquín Murieta: The Celebrated California Bandit (1854) by John Rollin Ridge is ostensibly his story.
 Legends subsequently arose about a notorious ou</description>
