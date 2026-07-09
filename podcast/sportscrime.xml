@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black Sox Scandal</title>
+      <description>The Black Sox Scandal was a game-fixing scandal in Major League Baseball (MLB) in which eight members of the Chicago White Sox were accused of intentionally losing the 1919 World Series against the Cincinnati Reds in exchange for payment from a gambling syndicate, possibly led by organized crime figure Arnold Rothstein. There is strong evidence both for and against Rothstein's involvement; however</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/black-sox-scandal-20260709.mp3" type="audio/mpeg" length="1716960"/>
+      <guid isPermaLink="false">sportscrime-black-sox-scandal-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 15:30:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ray Rice</title>
       <description>Raynell Mourice Rice (born January 22, 1987) is an American former professional football running back who played in the National Football League (NFL) for six seasons with the Baltimore Ravens. He played college football for the Rutgers Scarlet Knights, earning first-team All-American honors in 2007, and was selected by the Ravens in the second round of the 2008 NFL draft. During his career, Rice </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/ray-rice-20260709.mp3" type="audio/mpeg" length="1365600"/>
