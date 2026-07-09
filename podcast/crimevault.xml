@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Salvatore Riina</title>
+      <description>Salvatore Riina, nicknamed Totò, was an Italian mobster and chief of the Sicilian Mafia, known for a ruthless murder campaign that reached a peak in the early 1990s with the assassinations of Antimafia Commission prosecutors Giovanni Falcone and Paolo Borsellino, resulting in widespread public outcry, legal change and a major crackdown by the authorities. He was also known by the nicknames la belv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/salvatore-riina-20260709.mp3" type="audio/mpeg" length="1836960"/>
+      <guid isPermaLink="false">crime-salvatore-riina-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 18:59:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shawn Grate</title>
       <description>Shawn Michael Grate is an American serial killer and rapist who was sentenced to death for the murders of five young women in and around northern Ohio from 2006 to 2016. Grate was convicted on two counts of aggravated murder on May 7, 2018, in Ashland County, pleaded guilty to two additional murders on March 1, 2019, in Richland County, and pleaded guilty to an additional murder on September 11, 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/shawn-grate-20260709.mp3" type="audio/mpeg" length="1596960"/>
