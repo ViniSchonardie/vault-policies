@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Archaea</title>
+      <description>Archaea (  ar-KEE-ə) is a domain of organisms. Traditionally, Archaea included only its prokaryotic members, but has since been found to be paraphyletic, as eukaryotes are known to have evolved from archaea. Even though the domain Archaea cladistically includes eukaryotes, the term archaea (sing. archaeon  ar-KEE-on; from Ancient Greek  ἀρχαῖον arkhaîon 'ancient') in English still generally refers</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/archaea-20260709.mp3" type="audio/mpeg" length="1721280"/>
+      <guid isPermaLink="false">nature-archaea-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 06:45:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leopard seal</title>
       <description>The leopard seal (Hydrurga leptonyx), also referred to as the sea leopard, is the second largest species of seal in the Antarctic (after the southern elephant seal). It is a top order predator, feeding on a wide range of prey including cephalopods, other pinnipeds, krill, fish, and birds, particularly penguins. Its only natural predator is the orca. It is the only species in the genus Hydrurga. It</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/leopard-seal-20260708.mp3" type="audio/mpeg" length="1624320"/>
