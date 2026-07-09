@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gaia</title>
+      <description>In Greek mythology, Gaia (; Ancient Greek: Γαῖα, romanized: Gaîa, a poetic form of Γῆ (Gê), meaning 'land' or 'earth'), also spelled Gaea (), is the personification of Earth. She is the mother of Uranus (Sky), with whom she conceived the Titans (themselves parents of many of the Olympian gods), the Cyclopes, and the Giants, as well as of Pontus (Sea), from whose union she bore the primordial sea g</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/gaia-20260709.mp3" type="audio/mpeg" length="1628160"/>
+      <guid isPermaLink="false">mythology-gaia-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 06:11:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Loki</title>
       <description>Loki is a god in Norse mythology. He is the son of Fárbauti (a jötunn) and Laufey (a goddess), and the brother of Helblindi and Býleistr. Loki is married to the goddess Sigyn and they have two sons, Narfi or Nari and Váli. By the jötunn Angrboða, Loki is the father of Hel, the wolf Fenrir and the world serpent Jörmungandr. In the form of a mare, Loki was impregnated by the stallion Svaðilfari and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/loki-20260708.mp3" type="audio/mpeg" length="1469280"/>
