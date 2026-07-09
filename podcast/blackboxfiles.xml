@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Japan Air Lines Flight 350</title>
+      <description>Japan Air Lines Flight 350 was a domestic scheduled passenger flight from Fukuoka, Fukuoka Prefecture, to Tokyo in Japan. On 9 February 1982, the McDonnell Douglas DC-8-61 operating the flight, registered JA8061, crashed into Tokyo Bay on approach to Haneda Airport, resulting in 24 fatalities. Flight 350 was the first crash for Japan Air Lines in the 1980s. The investigation traced the cause of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/japan-air-lines-flight-350-20260709.mp3" type="audio/mpeg" length="1872000"/>
+      <guid isPermaLink="false">aviation-japan-air-lines-flight-350-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 16:10:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Reeve Aleutian Airways Flight 8</title>
       <description>Reeve Aleutian Airways Flight 8 was an American domestic flight from Cold Bay, Alaska, to Seattle, Washington, on June 8, 1983. Shortly after takeoff, the Lockheed L-188 Electra of Reeve Aleutian Airways was travelling over the Pacific Ocean when one of the propellers broke away from its engine and struck the fuselage, damaging the flight controls. The pilots were able to make an emergency landing</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/reeve-aleutian-airways-flight-8-20260709.mp3" type="audio/mpeg" length="1572480"/>
