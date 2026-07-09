@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Shawn Grate</title>
+      <description>Shawn Michael Grate is an American serial killer and rapist who was sentenced to death for the murders of five young women in and around northern Ohio from 2006 to 2016. Grate was convicted on two counts of aggravated murder on May 7, 2018, in Ashland County, pleaded guilty to two additional murders on March 1, 2019, in Richland County, and pleaded guilty to an additional murder on September 11, 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/shawn-grate-20260709.mp3" type="audio/mpeg" length="1596960"/>
+      <guid isPermaLink="false">crime-shawn-grate-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 11:58:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Ng</title>
       <description>Charles Chi-tat Ng is a Hong Kong-born convicted serial killer who committed numerous crimes in the United States. He is believed to have raped, tortured, and murdered between eleven and twenty-five victims with his accomplice Leonard Lake at Lake's cabin in Calaveras County, California, 60 miles (96 km) from Sacramento, between 1983 and 1985. After his arrest and imprisonment in Canada on robbery</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-ng-20260708.mp3" type="audio/mpeg" length="1993920"/>
