@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Tirad Pass</title>
+      <description>The Battle of Tirad Pass, sometimes referred to as the Philippine Thermopylae, took place during the Philippine–American War on December 2, 1899, in northern Luzon in the Philippines. A 60-man Filipino rear guard commanded by Brigadier General Gregorio del Pilar succumbed to more than 500 Americans, mostly of the 33rd Volunteer Infantry Regiment under Major Peyton C. March, while delaying the Amer</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-tirad-pass-20260709.mp3" type="audio/mpeg" length="1752000"/>
+      <guid isPermaLink="false">warvault-battle-of-tirad-pass-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 17:56:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assyrian siege of Jerusalem</title>
       <description>The Assyrian siege of Jerusalem (c. 701 BC) was an aborted siege of Jerusalem, then capital of the Kingdom of Judah, carried out by Sennacherib, king of the Neo-Assyrian Empire. The siege concluded Sennacharib's campaign in the Levant, in which he attacked the fortified cities and devastated the countryside of Judah in a campaign of subjugation. Sennacherib besieged Jerusalem, but did not capture </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/assyrian-siege-of-jerusalem-20260709.mp3" type="audio/mpeg" length="1668000"/>
