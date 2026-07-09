@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Deinocheirus</title>
+      <description>Deinocheirus ( DY-no-KY-rəs) is a genus of large ornithomimosaur that lived during the Late Cretaceous around 70 million years ago. In 1965, a pair of large arms, shoulder girdles, and a few other bones of a new dinosaur were first discovered in the Nemegt Formation of Mongolia. In 1970, this specimen became the holotype of the only species within the genus, Deinocheirus mirificus; the genus name </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/deinocheirus-20260709.mp3" type="audio/mpeg" length="1758240"/>
+      <guid isPermaLink="false">prehistoric-deinocheirus-20260709</guid>
+      <pubDate>Thu, 09 Jul 2026 10:01:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Titanosauria</title>
       <description>Titanosaurs (or titanosaurians; members of the group Titanosauria) were a diverse group of sauropod dinosaurs, including genera from every continent. The titanosaurs were the last surviving group of long-necked sauropods, with taxa still thriving at the time of the extinction event at the end of the Cretaceous. This group includes some of the largest land animals known to have ever existed, such a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/titanosauria-20260708.mp3" type="audio/mpeg" length="1402080"/>
