@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-61</title>
+      <description>STS-61 was NASA's first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on December 2, 1993, from Kennedy Space Center (KSC) in Florida. The mission restored the spaceborne observatory's vision (marred by spherical aberration in its mirror) with the installation of a new main camera and a corrective optics package (COSTAR). This c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-20260710.mp3" type="audio/mpeg" length="1795680"/>
+      <guid isPermaLink="false">space-sts-61-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 10:06:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-61-C</title>
       <description>STS-61-C was the 24th mission of NASA's Space Shuttle program, and the seventh mission of Space Shuttle Columbia. It was the first time that Columbia, the first space-rated Space Shuttle orbiter to be constructed, had flown since STS-9. The mission launched from Florida's Kennedy Space Center on January 12, 1986, and landed six days later on January 18, 1986. STS-61-C's seven-person crew included </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-c-20260709.mp3" type="audio/mpeg" length="1995840"/>
