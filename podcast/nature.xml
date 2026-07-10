@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mantis shrimp</title>
+      <description>Mantis shrimp are carnivorous marine crustaceans of the order Stomatopoda (from Ancient Greek  στόμα (stóma) 'mouth' and  πούς (poús) 'foot'). Stomatopods branched off from other members of the class Malacostraca around 400 million years ago, with more than 520 extant species of mantis shrimp known. All living species are in the suborder Unipeltata, which arose around 250 million years ago. They a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/mantis-shrimp-20260710.mp3" type="audio/mpeg" length="1522560"/>
+      <guid isPermaLink="false">nature-mantis-shrimp-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 20:21:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black mamba</title>
       <description>The black mamba (Dendroaspis polylepis) is a species of highly venomous snake belonging to the family Elapidae. It is native to parts of sub-Saharan Africa. First formally described by Albert Günther in 1864, it is the second-longest venomous snake after the king cobra; mature specimens generally exceed 2 m (6 ft 7 in) and commonly grow to 3 m (9.8 ft). Specimens of 4.3 to 4.5 m (14 to 15 ft) have</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/black-mamba-20260710.mp3" type="audio/mpeg" length="1432800"/>
