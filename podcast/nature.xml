@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Colossal squid</title>
+      <description>The colossal squid (Mesonychoteuthis hamiltoni) is a species of very large squid belonging to the family Cranchiidae, that of the cockatoo squids, or glass squids. It is sometimes called the Antarctic cranch squid or giant squid (not to be confused with the giant squid in genus Architeuthis) and is believed to be the largest squid species in terms of mass. It is the only recognized member of the g</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/colossal-squid-20260710.mp3" type="audio/mpeg" length="1792320"/>
+      <guid isPermaLink="false">nature-colossal-squid-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 06:45:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bull shark</title>
       <description>The bull shark (Carcharhinus leucas), also known as the Zambezi shark (informally zambi) in Africa and Lake Nicaragua shark in Nicaragua, is a species of requiem shark commonly found worldwide in warm, shallow waters along coasts and in rivers. It is known for its aggressive nature, and presence mainly in warm, shallow brackish and freshwater systems including estuaries and (usually) lower reaches</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bull-shark-20260709.mp3" type="audio/mpeg" length="1498560"/>
