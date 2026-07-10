@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Penn State child sex abuse scandal</title>
+      <description>The Penn State child sex abuse scandal concerned allegations and subsequent convictions of child sexual abuse committed by Jerry Sandusky, an assistant coach for the Penn State Nittany Lions football team, over a period of at least fifteen years. The scandal began to emerge publicly in March 2011 and broke in early November 2011 when Sandusky was indicted on 52 counts of child molestation, stemmin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/penn-state-child-sex-abuse-scandal-20260710.mp3" type="audio/mpeg" length="1570080"/>
+      <guid isPermaLink="false">sportscrime-penn-state-child-sex-abuse-scandal-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 07:44:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>New Orleans Saints bounty scandal</title>
       <description>The New Orleans Saints bounty scandal, colloquially known as "Bountygate", refers to the illegal program in which the New Orleans Saints of the National Football League (NFL) placed bounties on opposing players. If a targeted player was knocked out of a game, a bonus would be paid to the defensive player that made the hit. A slush fund for paying the bounties was found to have operated from the 20</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/new-orleans-saints-bounty-scandal-20260709.mp3" type="audio/mpeg" length="1624800"/>
