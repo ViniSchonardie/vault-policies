@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1970 Tonghai earthquake</title>
+      <description>An earthquake occurred in Tonghai, Yunnan province, China at 01:00:41 local time on 5 January 1970 with a moment magnitude of 7.1 and a maximum Mercalli intensity of X (Extreme). The strike-slip rupture originated on the Red River Fault, which had not experienced an earthquake above magnitude 7 since 1700. At least 10,000 people were killed, making it one of the deadliest in its decade. The tremor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1970-tonghai-earthquake-20260710.mp3" type="audio/mpeg" length="1898400"/>
+      <guid isPermaLink="false">history-1970-tonghai-earthquake-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 16:31:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>St. Lawrence Island famine</title>
       <description>The St. Lawrence Island famine killed around 1,000 people on St. Lawrence Island in the Bering Sea off the Alaskan mainland during the years 1878–1880. The possible causes may have been overfishing, disease, or the negative aspects of settler contact.
 The island had a population of about 4,000 Central Alaskan Yupik and Siberian Yupik in the late 19th century, which subsisted by hunting walrus and </description>
