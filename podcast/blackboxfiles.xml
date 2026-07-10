@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kenya Airways Flight 431</title>
+      <description>Kenya Airways Flight 431 was an international scheduled Abidjan–Lagos–Nairobi passenger service, operated by Kenyan national airline Kenya Airways. On 30 January 2000, the Airbus A310-300 serving the flight crashed into the sea off the Ivory Coast, shortly after takeoff at night from Félix-Houphouët-Boigny International Airport, Abidjan. There were 179 people on board, of whom 169 were passengers.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kenya-airways-flight-431-20260710.mp3" type="audio/mpeg" length="1806240"/>
+      <guid isPermaLink="false">aviation-kenya-airways-flight-431-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 15:39:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pilgrim Airlines Flight 458</title>
       <description>Pilgrim Airlines Flight 458 was a scheduled United States passenger air commuter flight from LaGuardia Airport in New York City to Logan Airport in Boston, Massachusetts, with stopovers in Bridgeport, New Haven, and Groton, Connecticut. 
 On February 21, 1982, the de Havilland Canada DHC-6-100 operating the flight made a forced landing on the frozen Scituate Reservoir near Providence, Rhode Island,</description>
