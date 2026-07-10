@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Irritator</title>
+      <description>Irritator is a genus of spinosaurid dinosaur that lived in what is now Brazil during the Albian stage of the Early Cretaceous Period, about 113 to 110 million years ago. It is known from a nearly complete skull found in the Romualdo Formation of the Araripe Basin. Fossil dealers had acquired this skull and sold it to the State Museum of Natural History Stuttgart. It was the subject of an ongoing i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/irritator-20260710.mp3" type="audio/mpeg" length="1907040"/>
+      <guid isPermaLink="false">prehistoric-irritator-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 23:07:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Machairodontinae</title>
       <description>Machairodontinae (from Ancient Greek μάχαιρα (mákhaira), a type of ancient sword, and ὀδούς (odoús), meaning "tooth") is an extinct subfamily of carnivoran mammals of the cat family Felidae, representing the earliest diverging major branch of the family.
 Machairodonts varied in size from comparable to lynxes to exceeding that of lions. The Machairodontinae contain many of the extinct predators com</description>
