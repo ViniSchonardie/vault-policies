@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Perseus</title>
+      <description>In Greek mythology, Perseus (  PUR-see-əs, UK also  -⁠shəs, -⁠sews; Ancient Greek: Περσεύς, romanized: Perseús) is the legendary founder of the Perseid dynasty. He was, alongside Cadmus and Bellerophon, the greatest Greek hero and slayer of monsters before the days of Heracles. He beheaded the Gorgon Medusa for Polydectes and saved Andromeda from the sea monster Cetus. He was a demigod, being the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/perseus-20260710.mp3" type="audio/mpeg" length="1502400"/>
+      <guid isPermaLink="false">mythology-perseus-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 06:11:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Orpheus</title>
       <description>In Greek mythology, Orpheus ( ; Ancient Greek: Ὀρφεύς, classical pronunciation: [or.pʰeú̯s]) was a Thracian bard, legendary musician and prophet. He was also a renowned poet and, according to legend, travelled with Jason and the Argonauts in search of the Golden Fleece, and descended into the underworld to recover his lost wife, Eurydice.
 The major stories about him are centered on his ability to </description>
