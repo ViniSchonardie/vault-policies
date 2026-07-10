@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Minotaur</title>
+      <description>In Greek mythology, the Minotaur (Ancient Greek: Μινώταυρος, romanized: Mīnṓtauros), also known as Asterion or Asterius, is a mythical creature portrayed during classical antiquity with the head and tail of a bull and the body of a man or, as described by Roman poet Ovid, a being "part man and part bull". He dwelt at the center of the Labyrinth, which was an elaborate maze-like construction design</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/minotaur-20260710.mp3" type="audio/mpeg" length="1575360"/>
+      <guid isPermaLink="false">mythology-minotaur-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 19:28:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Merlin</title>
       <description>Merlin (Welsh: Myrddin) is a mythical figure prominently featured in the legend of King Arthur and best known as a prophet and a magician, along with several other main roles. The familiar depiction of Merlin, based on an amalgamation of historical and legendary figures, was introduced by the 12th-century Catholic cleric Geoffrey of Monmouth and then built on by the French poet Robert de Boron and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/merlin-20260710.mp3" type="audio/mpeg" length="1302240"/>
