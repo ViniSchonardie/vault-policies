@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pilgrim Airlines Flight 458</title>
+      <description>Pilgrim Airlines Flight 458 was a scheduled United States passenger air commuter flight from LaGuardia Airport in New York City to Logan Airport in Boston, Massachusetts, with stopovers in Bridgeport, New Haven, and Groton, Connecticut. 
+On February 21, 1982, the de Havilland Canada DHC-6-100 operating the flight made a forced landing on the frozen Scituate Reservoir near Providence, Rhode Island,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pilgrim-airlines-flight-458-20260710.mp3" type="audio/mpeg" length="1636320"/>
+      <guid isPermaLink="false">aviation-pilgrim-airlines-flight-458-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 08:31:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Canadian Pacific Air Lines Flight 402</title>
       <description>On March 4, 1966, Canadian Pacific Air Lines Flight 402 struck the approach lights and a seawall during a night landing attempt in poor visibility at Haneda Airport in Tokyo, Japan. Of the 62 passengers and 10 crew, only 8 passengers survived.
 
