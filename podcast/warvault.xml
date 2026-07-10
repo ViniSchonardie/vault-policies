@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Horseshoe Bend</title>
+      <description>The Battle of Horseshoe Bend, also referred to as the Battle of Pecatonica and the Battle of Bloody Lake, was fought on June 16, 1832, in present-day Wisconsin at an oxbow lake known as "Horseshoe Bend", which was formed by a change in course of the Pecatonica River. The battle was a major turning point in the Black Hawk War, despite being of only minor military significance. The small victory won</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-horseshoe-bend-20260710.mp3" type="audio/mpeg" length="1725120"/>
+      <guid isPermaLink="false">warvault-battle-of-horseshoe-bend-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 17:48:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Malvern Hill</title>
       <description>The Battle of Malvern Hill, also known as the Battle of Poindexter's Farm, was fought on July 1, 1862, between the Confederate Army of Northern Virginia, led by Gen. Robert E. Lee, and the Union Army of the Potomac under Maj. Gen. George B. McClellan. It was the final battle of the Seven Days Battles during the American Civil War, taking place on a 130-foot (40 m) elevation of land known as Malver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-malvern-hill-20260710.mp3" type="audio/mpeg" length="1805280"/>
