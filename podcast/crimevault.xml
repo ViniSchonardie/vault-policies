@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Berdella</title>
+      <description>Robert Andrew Berdella Jr. was an American serial killer who kidnapped, raped, tortured, and murdered at least six young men after forcing his victims to endure periods of up to six weeks of captivity. His crimes took place in Kansas City, Missouri, between 1984 and 1987.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-berdella-20260710.mp3" type="audio/mpeg" length="1567200"/>
+      <guid isPermaLink="false">crime-robert-berdella-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 11:45:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Herbert Mullin</title>
       <description>Herbert William Mullin was an American serial killer who killed 13 people in California in the early 1970s. He confessed to the killings, which he claimed prevented earthquakes. In 1973, after a trial to determine whether he was legally insane or culpable, he was convicted of two murders in the first-degree and nine in the second-degree and sentenced to life imprisonment. During his imprisonment, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/herbert-mullin-20260710.mp3" type="audio/mpeg" length="1695840"/>
