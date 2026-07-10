@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Beaumont Palace</title>
+      <description>Beaumont Palace, built outside the north gate of Oxford, was intended by Henry I about 1130 to serve as a royal palace conveniently close to the royal hunting-lodge at Woodstock (now part of the park of Blenheim Palace). Its former presence is recorded in Beaumont Street, Oxford. Set into a pillar on the north side of the street, near Walton Street, is a stone with the inscription: "Near to this s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/beaumont-palace-20260710.mp3" type="audio/mpeg" length="1674720"/>
+      <guid isPermaLink="false">royal-beaumont-palace-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Armouries Museum</title>
       <description>The Royal Armouries Museum in Leeds, West Yorkshire, England, is a national museum that holds the National Collection of Arms and Armour. It is part of the Royal Armouries family of museums, with other sites at the Royal Armouries' traditional home in the Tower of London, and the National Collection of Artillery at Fort Nelson, Hampshire. The Royal Armouries is a non-departmental public body spons</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-armouries-museum-20260709.mp3" type="audio/mpeg" length="1704960"/>
