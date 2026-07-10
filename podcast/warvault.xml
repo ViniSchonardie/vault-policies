@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Malvern Hill</title>
+      <description>The Battle of Malvern Hill, also known as the Battle of Poindexter's Farm, was fought on July 1, 1862, between the Confederate Army of Northern Virginia, led by Gen. Robert E. Lee, and the Union Army of the Potomac under Maj. Gen. George B. McClellan. It was the final battle of the Seven Days Battles during the American Civil War, taking place on a 130-foot (40 m) elevation of land known as Malver</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-malvern-hill-20260710.mp3" type="audio/mpeg" length="1805280"/>
+      <guid isPermaLink="false">warvault-battle-of-malvern-hill-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 11:00:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Sitka</title>
       <description>The Battle of Sitka (Russian: Сражение при Ситке) in 1804 was the last major armed conflict between the Russians and Alaska Natives, and was initiated in response to the destruction of a Russian trading post two years before. The primary combatant groups were the Kiks.ádi ("Ones of Kíks", Frog/Raven) clan of Sheetʼká Xʼáatʼi (Baranof Island) of the Tlingit nation and agents of the Russian-American</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-sitka-20260710.mp3" type="audio/mpeg" length="1657440"/>
