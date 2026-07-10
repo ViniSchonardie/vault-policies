@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Herbert Mullin</title>
+      <description>Herbert William Mullin was an American serial killer who killed 13 people in California in the early 1970s. He confessed to the killings, which he claimed prevented earthquakes. In 1973, after a trial to determine whether he was legally insane or culpable, he was convicted of two murders in the first-degree and nine in the second-degree and sentenced to life imprisonment. During his imprisonment, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/herbert-mullin-20260710.mp3" type="audio/mpeg" length="1695840"/>
+      <guid isPermaLink="false">crime-herbert-mullin-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 05:03:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Salvatore Riina</title>
       <description>Salvatore Riina, nicknamed Totò, was an Italian mobster and chief of the Sicilian Mafia, known for a ruthless murder campaign that reached a peak in the early 1990s with the assassinations of Antimafia Commission prosecutors Giovanni Falcone and Paolo Borsellino, resulting in widespread public outcry, legal change and a major crackdown by the authorities. He was also known by the nicknames la belv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/salvatore-riina-20260709.mp3" type="audio/mpeg" length="1836960"/>
