@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 5</title>
+      <description>Shenzhou 5 (Chinese: 神舟五号; pinyin: Shénzhōu Wǔ Hào, see § Etymology) was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-5-20260710.mp3" type="audio/mpeg" length="1586400"/>
+      <guid isPermaLink="false">space-shenzhou-5-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 23:05:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX Crew-13</title>
       <description>SpaceX Crew-13 is the thirteenth operational NASA Commercial Crew Program flight and the 21st crewed orbital flight of a Crew Dragon spacecraft. The mission will transport four crew members— NASA astronauts Jessica Watkins and Luke Delaney, CSA astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station (ISS).
 
