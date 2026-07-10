@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Manx2 Flight 7100</title>
+      <description>Manx2 Flight 7100 was a scheduled commercial flight from Belfast, Northern Ireland, to Cork, Republic of Ireland. On 10 February 2011, the Fairchild Metro III aircraft flying the route with ten passengers and two crew on board crashed on its third attempt to land at Cork Airport in foggy conditions. Six people, including both pilots, died. Six passengers survived but were injured, four of them ser</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/manx2-flight-7100-20260710.mp3" type="audio/mpeg" length="1585920"/>
+      <guid isPermaLink="false">aviation-manx2-flight-7100-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 21:56:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kenya Airways Flight 431</title>
       <description>Kenya Airways Flight 431 was an international scheduled Abidjan–Lagos–Nairobi passenger service, operated by Kenyan national airline Kenya Airways. On 30 January 2000, the Airbus A310-300 serving the flight crashed into the sea off the Ivory Coast, shortly after takeoff at night from Félix-Houphouët-Boigny International Airport, Abidjan. There were 179 people on board, of whom 169 were passengers.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kenya-airways-flight-431-20260710.mp3" type="audio/mpeg" length="1806240"/>
