@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Michael Swango</title>
+      <description>Michael Joseph Swango is an American serial killer and licensed physician who is estimated to have been involved in as many as 60 fatal poisonings of patients and colleagues in the United States and Zimbabwe; he admitted to causing four deaths. He was sentenced in 2000 to three consecutive life terms without the possibility of parole and is serving his sentence at ADX Florence at his own request.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-swango-20260710.mp3" type="audio/mpeg" length="1781280"/>
+      <guid isPermaLink="false">crime-michael-swango-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 18:30:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Berdella</title>
       <description>Robert Andrew Berdella Jr. was an American serial killer who kidnapped, raped, tortured, and murdered at least six young men after forcing his victims to endure periods of up to six weeks of captivity. His crimes took place in Kansas City, Missouri, between 1984 and 1987.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-berdella-20260710.mp3" type="audio/mpeg" length="1567200"/>
