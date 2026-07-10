@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black mamba</title>
+      <description>The black mamba (Dendroaspis polylepis) is a species of highly venomous snake belonging to the family Elapidae. It is native to parts of sub-Saharan Africa. First formally described by Albert Günther in 1864, it is the second-longest venomous snake after the king cobra; mature specimens generally exceed 2 m (6 ft 7 in) and commonly grow to 3 m (9.8 ft). Specimens of 4.3 to 4.5 m (14 to 15 ft) have</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/black-mamba-20260710.mp3" type="audio/mpeg" length="1432800"/>
+      <guid isPermaLink="false">nature-black-mamba-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 13:07:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Colossal squid</title>
       <description>The colossal squid (Mesonychoteuthis hamiltoni) is a species of very large squid belonging to the family Cranchiidae, that of the cockatoo squids, or glass squids. It is sometimes called the Antarctic cranch squid or giant squid (not to be confused with the giant squid in genus Architeuthis) and is believed to be the largest squid species in terms of mass. It is the only recognized member of the g</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/colossal-squid-20260710.mp3" type="audio/mpeg" length="1792320"/>
