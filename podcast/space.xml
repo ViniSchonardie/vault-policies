@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-13</title>
+      <description>SpaceX Crew-13 is the thirteenth operational NASA Commercial Crew Program flight and the 21st crewed orbital flight of a Crew Dragon spacecraft. The mission will transport four crew members— NASA astronauts Jessica Watkins and Luke Delaney, CSA astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station (ISS).
+
+
+== Crew ==
+
+NASA announced the crew assig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-13-20260710.mp3" type="audio/mpeg" length="1471680"/>
+      <guid isPermaLink="false">space-spacex-crew-13-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 16:29:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-61</title>
       <description>STS-61 was NASA's first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on December 2, 1993, from Kennedy Space Center (KSC) in Florida. The mission restored the spaceborne observatory's vision (marred by spherical aberration in its mirror) with the installation of a new main camera and a corrective optics package (COSTAR). This c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-20260710.mp3" type="audio/mpeg" length="1795680"/>
