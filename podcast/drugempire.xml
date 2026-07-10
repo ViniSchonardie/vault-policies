@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Europol</title>
+      <description>Europol, officially the European Union Agency for Law Enforcement Cooperation, is the law enforcement agency of the European Union (EU). Established in 1998, it is based in The Hague, Netherlands, and serves as the central hub for coordinating criminal intelligence and supporting the EU's member states in their efforts to combat various forms of serious and organized crime, as well as terrorism.
+E</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/europol-20260710.mp3" type="audio/mpeg" length="2000640"/>
+      <guid isPermaLink="false">drugempire-europol-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 20:31:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Naples International Airport</title>
       <description>Naples-Capodichino International Airport (IATA: NAP, ICAO: LIRN) (Italian: Aeroporto internazionale di Napoli-Capodichino "Ugo Niutta") is the international airport serving Naples, its metropolitan city and the Campania region. Located 3.2 NM (5.9 km; 3.7 mi) north-northeast of the city in Naples, within the Capodichino area of the San Pietro a Patierno district, the airport is officially named Ae</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/naples-international-airport-20260710.mp3" type="audio/mpeg" length="1658880"/>
