@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Merlin</title>
+      <description>Merlin (Welsh: Myrddin) is a mythical figure prominently featured in the legend of King Arthur and best known as a prophet and a magician, along with several other main roles. The familiar depiction of Merlin, based on an amalgamation of historical and legendary figures, was introduced by the 12th-century Catholic cleric Geoffrey of Monmouth and then built on by the French poet Robert de Boron and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/merlin-20260710.mp3" type="audio/mpeg" length="1302240"/>
+      <guid isPermaLink="false">mythology-merlin-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 12:32:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Perseus</title>
       <description>In Greek mythology, Perseus (  PUR-see-əs, UK also  -⁠shəs, -⁠sews; Ancient Greek: Περσεύς, romanized: Perseús) is the legendary founder of the Perseid dynasty. He was, alongside Cadmus and Bellerophon, the greatest Greek hero and slayer of monsters before the days of Heracles. He beheaded the Gorgon Medusa for Polydectes and saved Andromeda from the sea monster Cetus. He was a demigod, being the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/perseus-20260710.mp3" type="audio/mpeg" length="1502400"/>
