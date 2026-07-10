@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1968 Inangahua earthquake</title>
+      <description>The 1968 Inangahua earthquake struck 25 kilometres (16 mi) west of Murchison, New Zealand, near the small town of Inangahua Junction at 5:24 am NZDT on 24 May 1968. The earthquake had a moment magnitude of 7.1, a local magnitude of 6.7, a surface-wave magnitude of 7.4 and a maximum Mercalli intensity of X (Exreme). It occurred at a depth of 12 kilometres (7.5 mi), being extremely shallow for an ea</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1968-inangahua-earthquake-20260710.mp3" type="audio/mpeg" length="1621920"/>
+      <guid isPermaLink="false">history-1968-inangahua-earthquake-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 23:08:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1970 Tonghai earthquake</title>
       <description>An earthquake occurred in Tonghai, Yunnan province, China at 01:00:41 local time on 5 January 1970 with a moment magnitude of 7.1 and a maximum Mercalli intensity of X (Extreme). The strike-slip rupture originated on the Red River Fault, which had not experienced an earthquake above magnitude 7 since 1700. At least 10,000 people were killed, making it one of the deadliest in its decade. The tremor</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1970-tonghai-earthquake-20260710.mp3" type="audio/mpeg" length="1898400"/>
