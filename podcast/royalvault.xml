@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Monmouth Castle</title>
+      <description>Monmouth Castle (Welsh: Castell Trefynwy) is a castle close to the centre of the town of Monmouth, the county town of Monmouthshire, on a hill above the River Monnow in south-east Wales.
+Once an important border castle, and birthplace of Henry V of England, it stood until the English Civil War when it was damaged and changed hands three times before being slighted to prevent it being fortified aga</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/monmouth-castle-20260710.mp3" type="audio/mpeg" length="1640640"/>
+      <guid isPermaLink="false">royal-monmouth-castle-20260710</guid>
+      <pubDate>Fri, 10 Jul 2026 18:22:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Geoffrey Boleyn</title>
       <description>Sir Geoffrey Boleyn (1406–1463; also Jeffray Bulleyn, Bullen, etc.) was an English merchant and politician who served as Lord Mayor of London from 1457 to 1458. He purchased the manor of Blickling Hall, near Aylsham, in Norfolk from Sir John Fastolf in 1452, and Hever Castle in Kent in 1462. He was the great-grandfather of Queen Anne Boleyn, the mother of Queen Elizabeth I. Sir Geoffrey built the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/geoffrey-boleyn-20260710.mp3" type="audio/mpeg" length="1391520"/>
