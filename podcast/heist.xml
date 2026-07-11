@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Billy Clanton</title>
+      <description>William Harrison Clanton (1862 – October 26, 1881) was an American outlaw who was a member of the Cochise County Cowboys in the Arizona Territory. He, along with his father Newman Clanton and brother Ike Clanton, worked a ranch near the boomtown of Tombstone and stole livestock from Mexican and American ranchers.
+He was a member of a group of loosely organized outlaws who had ongoing conflicts wit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/billy-clanton-20260711.mp3" type="audio/mpeg" length="1347360"/>
+      <guid isPermaLink="false">heist-billy-clanton-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 21:02:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hi-Fi murders</title>
       <description>The Hi-Fi murders were the torture of five people resulting in three deaths during a robbery at the Hi-Fi Shop, a home audio store in Ogden, Utah, United States, on the evening of April 22, 1974. Several men entered the Hi-Fi Shop shortly before closing time and began taking hostages. They forced their victims to drink corrosive drain cleaner, which the perpetrators believed would fatally poison t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/hi-fi-murders-20260711.mp3" type="audio/mpeg" length="1518720"/>
