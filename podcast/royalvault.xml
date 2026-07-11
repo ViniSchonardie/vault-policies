@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chester Castle</title>
+      <description>Chester Castle is in the city of Chester, Cheshire, England. It is sited at the southwest extremity of the area bounded by the city walls. The castle stands on an eminence overlooking the River Dee. In the castle complex are the remaining parts of the medieval castle together with the neoclassical buildings designed by Thomas Harrison which were built between 1788 and 1813. Parts of the neoclassic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/chester-castle-20260711.mp3" type="audio/mpeg" length="1760640"/>
+      <guid isPermaLink="false">royal-chester-castle-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 10:16:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elizabeth Castle</title>
       <description>Elizabeth Castle (Norman: Lé Châté Lîzabé) is a castle and tourist attraction, on a tidal island within the parish of Saint Helier, Jersey. Construction was started in the 16th century when the power of the cannon meant that the existing stronghold at Mont Orgueil was insufficient to defend the Island and the port of St Helier was vulnerable to attack by ships armed with cannons.
 It is named after</description>
