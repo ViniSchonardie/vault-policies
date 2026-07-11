@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Ridaniya</title>
+      <description>The Battle of Ridaniya or Battle of Ridanieh (Arabic: معركة الريدانية; Turkish: Ridaniye Muharebesi) was fought on January 22, 1517, in Egypt. The Ottoman forces of Selim I defeated the Mamluk forces under Al-Ashraf Tuman bay II. The Turks marched into Cairo, and the severed head of Tuman bay II, Egypt’s last Mamluk Sultan, was hung over an entrance gate in the Al Ghourieh quarter of Cairo. Or, al</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-ridaniya-20260711.mp3" type="audio/mpeg" length="1796640"/>
+      <guid isPermaLink="false">ancient-battle-of-ridaniya-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 14:24:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Anegawa</title>
       <description>The Sengoku period Battle of Anegawa (姉川の戦い, Anegawa no Tatakai) (30 July 1570) occurred near Lake Biwa in Ōmi Province, Japan, between the allied forces of Oda Nobunaga and Tokugawa Ieyasu, against the combined forces of the Azai and Asakura clans. It is notable as the first battle that involved the alliance between Nobunaga and Ieyasu, and it saw Nobunaga's prodigious use of firearms.
 
