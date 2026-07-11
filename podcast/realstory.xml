@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kenji Miyazawa</title>
+      <description>Kenji Miyazawa (宮沢 賢治, Miyazawa Kenji; Japanese: [mʲi.ja.(d)za.wa keꜜɲ.dʑi]; 27 August 1896 – 21 September 1933) was a Japanese novelist, poet, and children's literature writer from Hanamaki, Iwate, in the late Taishō and early Shōwa periods. He was also known as an agricultural science teacher, vegetarian, cellist, devout Buddhist, and utopian social activist.
+Some of his major works include Nigh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/kenji-miyazawa-20260711.mp3" type="audio/mpeg" length="1822560"/>
+      <guid isPermaLink="false">realstory-kenji-miyazawa-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 08:48:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adrien-Marie Legendre</title>
       <description>Adrien-Marie Legendre (; French: [adʁiɛ̃ maʁi ləʒɑ̃dʁ]; 18 September 1752 – 9 January 1833) was a French mathematician who made numerous contributions to mathematics. Well-known and important concepts such as the Legendre polynomials and Legendre transformation are named after him. He is also known for his contributions to the method of least squares, and was the first to officially publish on it,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/adrien-marie-legendre-20260710.mp3" type="audio/mpeg" length="1698720"/>
