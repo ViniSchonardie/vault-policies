@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Elizabeth Castle</title>
+      <description>Elizabeth Castle (Norman: Lé Châté Lîzabé) is a castle and tourist attraction, on a tidal island within the parish of Saint Helier, Jersey. Construction was started in the 16th century when the power of the cannon meant that the existing stronghold at Mont Orgueil was insufficient to defend the Island and the port of St Helier was vulnerable to attack by ships armed with cannons.
+It is named after</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/elizabeth-castle-20260711.mp3" type="audio/mpeg" length="1416960"/>
+      <guid isPermaLink="false">royal-elizabeth-castle-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 04:20:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Monmouth Castle</title>
       <description>Monmouth Castle (Welsh: Castell Trefynwy) is a castle close to the centre of the town of Monmouth, the county town of Monmouthshire, on a hill above the River Monnow in south-east Wales.
 Once an important border castle, and birthplace of Henry V of England, it stood until the English Civil War when it was damaged and changed hands three times before being slighted to prevent it being fortified aga</description>
