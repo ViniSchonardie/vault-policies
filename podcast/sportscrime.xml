@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>WrestleMania XIV</title>
+      <description>WrestleMania XIV, also promoted as WrestleMania dX raided, was a 1998 professional wrestling pay-per-view (PPV) event produced by the World Wrestling Federation (WWF; WWE as of 2002). It was the 14th annual WrestleMania and took place on March 29, 1998, at the FleetCenter in Boston, Massachusetts. A total of eight matches were held at the event.
+This was the first WrestleMania of the Attitude Era </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/wrestlemania-xiv-20260711.mp3" type="audio/mpeg" length="1368000"/>
+      <guid isPermaLink="false">sportscrime-wrestlemania-xiv-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 13:46:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Houston Astros sign stealing scandal</title>
       <description>The Houston Astros sign stealing scandal in Major League Baseball (MLB) broke in November 2019. Several members of the Houston Astros management were disciplined for failing to prevent Astros players from illegally using a video camera system to steal signs from opposing teams during games in 2017 and 2018. 
 Other teams had long suspected the Astros of stealing signs, but there was no public repor</description>
