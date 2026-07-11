@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Nek</title>
+      <description>The Battle of the Nek (Turkish: Kılıçbayır Muharebesi) was a minor battle that took place on 7 August 1915, during the Gallipoli campaign of World War I. "The Nek" was a narrow stretch of ridge on the Gallipoli Peninsula. The name derives from the Afrikaans word for 'mountain pass', but the terrain itself was a perfect bottleneck and easy to defend, as had been proven during an Ottoman attack in J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-nek-20260711.mp3" type="audio/mpeg" length="1882080"/>
+      <guid isPermaLink="false">warvault-battle-of-the-nek-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 09:35:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of San Marino</title>
       <description>The Battle of San Marino was an engagement on 17–20 September 1944 during the Italian Campaign of the Second World War, in which German Army forces occupied the neutral Republic of San Marino and were then attacked by Allied forces. It is also sometimes known as the Battle of Monte Pulito.
 San Marino had declared its neutrality earlier in the war and had remained broadly unaffected by events in Eu</description>
