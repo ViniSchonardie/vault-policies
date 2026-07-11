@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1988 Saguenay earthquake</title>
+      <description>The 1988 Saguenay earthquake struck Quebec, Canada with a moment magnitude of 5.9 on November 25. It is one of the largest recorded earthquakes in eastern Canada and eastern North America during the 20th century. The earthquake was felt by millions, and damaged some buildings. It could be felt as far as Toronto, Halifax, and Boston.
+The earthquake was triggered by faults associated with the Saguen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1988-saguenay-earthquake-20260711.mp3" type="audio/mpeg" length="1191360"/>
+      <guid isPermaLink="false">history-1988-saguenay-earthquake-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 07:43:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1968 Inangahua earthquake</title>
       <description>The 1968 Inangahua earthquake struck 25 kilometres (16 mi) west of Murchison, New Zealand, near the small town of Inangahua Junction at 5:24 am NZDT on 24 May 1968. The earthquake had a moment magnitude of 7.1, a local magnitude of 6.7, a surface-wave magnitude of 7.4 and a maximum Mercalli intensity of X (Exreme). It occurred at a depth of 12 kilometres (7.5 mi), being extremely shallow for an ea</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1968-inangahua-earthquake-20260710.mp3" type="audio/mpeg" length="1621920"/>
