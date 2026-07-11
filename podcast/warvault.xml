@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of San Marino</title>
+      <description>The Battle of San Marino was an engagement on 17–20 September 1944 during the Italian Campaign of the Second World War, in which German Army forces occupied the neutral Republic of San Marino and were then attacked by Allied forces. It is also sometimes known as the Battle of Monte Pulito.
+San Marino had declared its neutrality earlier in the war and had remained broadly unaffected by events in Eu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-san-marino-20260711.mp3" type="audio/mpeg" length="1402080"/>
+      <guid isPermaLink="false">warvault-battle-of-san-marino-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 02:57:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Horseshoe Bend</title>
       <description>The Battle of Horseshoe Bend, also referred to as the Battle of Pecatonica and the Battle of Bloody Lake, was fought on June 16, 1832, in present-day Wisconsin at an oxbow lake known as "Horseshoe Bend", which was formed by a change in course of the Pecatonica River. The battle was a major turning point in the Black Hawk War, despite being of only minor military significance. The small victory won</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-horseshoe-bend-20260710.mp3" type="audio/mpeg" length="1725120"/>
