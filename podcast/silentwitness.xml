@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Murder Of Elizabeth Mccabe</title>
+      <description>The February 1980 murder of Elizabeth McCabe in Dundee, Scotland is one of Scotland's most notorious unsolved murders, and led to one of Scotland's largest manhunts. McCabe had disappeared after a night out at Teazer's Disco in Dundee city centre, and was found strangled to death two weeks later in Templeton Woods on the outskirts of the city. This was only 11 months after another woman, 18-year-o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-of-elizabeth-mccabe-20260711.mp3" type="audio/mpeg" length="1808640"/>
+      <guid isPermaLink="false">trials-murder-of-elizabeth-mccabe-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 16:02:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Executioner</title>
       <description>An executioner, also known as a hangman or headsman, is an official who effects a sentence of capital punishment on a condemned person.
 
