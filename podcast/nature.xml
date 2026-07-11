@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gila monster</title>
+      <description>The Gila monster ( HEE-lə; Heloderma suspectum) is a species of venomous lizard native to the Southwestern United States and the northwestern Mexican state of Sonora. It is a heavy, slow-moving reptile, up to 22 in (56 cm) long, and it is the only venomous lizard native to the United States. Its venomous close relatives, the four beaded lizards (all former subspecies of Heloderma horridum) inhabit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gila-monster-20260711.mp3" type="audio/mpeg" length="1380480"/>
+      <guid isPermaLink="false">nature-gila-monster-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 05:42:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mantis shrimp</title>
       <description>Mantis shrimp are carnivorous marine crustaceans of the order Stomatopoda (from Ancient Greek  στόμα (stóma) 'mouth' and  πούς (poús) 'foot'). Stomatopods branched off from other members of the class Malacostraca around 400 million years ago, with more than 520 extant species of mantis shrimp known. All living species are in the suborder Unipeltata, which arose around 250 million years ago. They a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/mantis-shrimp-20260710.mp3" type="audio/mpeg" length="1522560"/>
