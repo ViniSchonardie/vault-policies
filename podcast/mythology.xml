@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Helios</title>
+      <description>In ancient Greek religion and mythology, Helios (; Ancient Greek: Ἥλιος pronounced [hɛ̌ːlios], lit. 'Sun'; Homeric Greek: Ἠέλιος) is the god who personifies the Sun. His name is also Latinized as Helius, and he is often given the epithets Hyperion ("the one above") and Phaethon ("the shining"). Helios is often depicted in art with a radiant crown and driving a horse-drawn chariot through the sky. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/helios-20260711.mp3" type="audio/mpeg" length="1681440"/>
+      <guid isPermaLink="false">mythology-helios-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 11:13:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Asmodeus</title>
       <description>Asmodeus (; Ancient Greek: Ἀσμοδαῖος, Asmodaios) or Ashmedai (; Hebrew: אַשְמְדּאָי, romanized: ʾAšmədāy; Arabic: آشماداي; see below for other variations) is a king of demons in the legends of Solomon and the constructing of Solomon's Temple.
 He is featured variously in Talmudic stories where he is the king of the shedim. The Quran refers to a "puppet" in the Story of Solomon in Surah Ṣād verses 3</description>
