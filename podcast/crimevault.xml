@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carl Panzram</title>
+      <description>Charles "Carl" Panzram was an American rapist, serial killer, and habitual offender. In prison confessions and in his autobiography, Panzram confessed to having murdered twenty-one boys and men, only five of which could be corroborated. He is suspected of having killed more than a hundred boys and men in the United States alone, and several more in Portuguese Angola.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/carl-panzram-20260711.mp3" type="audio/mpeg" length="1642560"/>
+      <guid isPermaLink="false">crime-carl-panzram-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 10:15:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tom Ripley</title>
       <description>Tom Ripley is a fictional character in the Ripley series of crime novels by American novelist Patricia Highsmith, as well as several film adaptations. He is a charming, amoral career criminal, con artist, and serial killer. The five novels in which he appears—The Talented Mr. Ripley, Ripley Under Ground, Ripley's Game, The Boy Who Followed Ripley, and Ripley Under Water—were published between 1955</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/tom-ripley-20260711.mp3" type="audio/mpeg" length="1682880"/>
