@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1999 South Dakota Learjet crash</title>
+      <description>On October 25, 1999, a chartered Learjet 35 business jet was scheduled to fly from Orlando, Florida, United States to Dallas, Texas, United States. Early in the flight, the aircraft, which was climbing to its assigned altitude on autopilot, lost cabin pressure, and all six on board were incapacitated and killed by hypoxia, a lack of oxygen in the brain and body. The aircraft continued climbing pas</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1999-south-dakota-learjet-crash-20260711.mp3" type="audio/mpeg" length="1522560"/>
+      <guid isPermaLink="false">aviation-1999-south-dakota-learjet-crash-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 07:18:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Manx2 Flight 7100</title>
       <description>Manx2 Flight 7100 was a scheduled commercial flight from Belfast, Northern Ireland, to Cork, Republic of Ireland. On 10 February 2011, the Fairchild Metro III aircraft flying the route with ten passengers and two crew on board crashed on its third attempt to land at Cork Airport in foggy conditions. Six people, including both pilots, died. Six passengers survived but were injured, four of them ser</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/manx2-flight-7100-20260710.mp3" type="audio/mpeg" length="1585920"/>
