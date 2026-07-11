@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Green anaconda</title>
+      <description>The green anaconda (Eunectes murinus), common anaconda, common water boa, akayima, or sucuri, is a boa species found in South America. It is one of the longest and heaviest known extant snake species. Like all boas, it is a non-venomous constrictor. Green anacondas generally have a life expectancy of 10 years in the wild, although some specimens live longer when they are taken care of in captivity</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/green-anaconda-20260711.mp3" type="audio/mpeg" length="1684800"/>
+      <guid isPermaLink="false">nature-green-anaconda-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 11:45:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gila monster</title>
       <description>The Gila monster ( HEE-lə; Heloderma suspectum) is a species of venomous lizard native to the Southwestern United States and the northwestern Mexican state of Sonora. It is a heavy, slow-moving reptile, up to 22 in (56 cm) long, and it is the only venomous lizard native to the United States. Its venomous close relatives, the four beaded lizards (all former subspecies of Heloderma horridum) inhabit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gila-monster-20260711.mp3" type="audio/mpeg" length="1380480"/>
