@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 5</title>
+      <description>Soyuz 5 (Russian: Союз 5, Union 5) was a Soyuz mission using the Soyuz 7K-OK spacecraft launched by the Soviet Union on 15 January 1969, which docked with Soyuz 4 in orbit. It was the first docking of two crewed spacecraft of any nation, and the first transfer of crew from one space vehicle to another of any nation, the only time a transfer was accomplished with a space walk – two months before th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-5-20260711.mp3" type="audio/mpeg" length="1746720"/>
+      <guid isPermaLink="false">space-soyuz-5-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 22:55:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-61-A</title>
       <description>STS-61-A (also known as Spacelab D-1) was the 22nd mission of NASA's Space Shuttle program. It was a scientific Spacelab mission, funded and directed by West Germany – hence the non-NASA designation of D-1 (for Deutschland-1). STS-61-A was the ninth and last successful flight of Space Shuttle Challenger before the STS-51-L disaster. STS-61-A holds the current record for the largest crew—eight peop</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-a-20260711.mp3" type="audio/mpeg" length="1735680"/>
