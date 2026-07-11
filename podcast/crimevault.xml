@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tom Ripley</title>
+      <description>Tom Ripley is a fictional character in the Ripley series of crime novels by American novelist Patricia Highsmith, as well as several film adaptations. He is a charming, amoral career criminal, con artist, and serial killer. The five novels in which he appears—The Talented Mr. Ripley, Ripley Under Ground, Ripley's Game, The Boy Who Followed Ripley, and Ripley Under Water—were published between 1955</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/tom-ripley-20260711.mp3" type="audio/mpeg" length="1682880"/>
+      <guid isPermaLink="false">crime-tom-ripley-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 04:23:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Michael Swango</title>
       <description>Michael Joseph Swango is an American serial killer and licensed physician who is estimated to have been involved in as many as 60 fatal poisonings of patients and colleagues in the United States and Zimbabwe; he admitted to causing four deaths. He was sentenced in 2000 to three consecutive life terms without the possibility of parole and is serving his sentence at ADX Florence at his own request.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-swango-20260710.mp3" type="audio/mpeg" length="1781280"/>
