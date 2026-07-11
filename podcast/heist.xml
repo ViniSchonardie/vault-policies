@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hi-Fi murders</title>
+      <description>The Hi-Fi murders were the torture of five people resulting in three deaths during a robbery at the Hi-Fi Shop, a home audio store in Ogden, Utah, United States, on the evening of April 22, 1974. Several men entered the Hi-Fi Shop shortly before closing time and began taking hostages. They forced their victims to drink corrosive drain cleaner, which the perpetrators believed would fatally poison t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/hi-fi-murders-20260711.mp3" type="audio/mpeg" length="1518720"/>
+      <guid isPermaLink="false">heist-hi-fi-murders-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 12:50:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hopewell tradition</title>
       <description>The Hopewell tradition, also called the Hopewell culture and Hopewellian exchange, describes a network of precontact Native American cultures that flourished in settlements along rivers in the northeastern and midwestern Eastern Woodlands from 100 BCE to 500 CE, in the Middle Woodland period. The Hopewell tradition was not a single culture or society but a widely dispersed set of populations conne</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/hopewell-tradition-20260711.mp3" type="audio/mpeg" length="1427520"/>
