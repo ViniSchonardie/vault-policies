@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Inland taipan</title>
+      <description>The inland taipan (Oxyuranus microlepidotus), also commonly known as the western taipan, small-scaled snake, or fierce snake, is a species of extremely venomous snake in the family Elapidae. It is endemic to semiarid regions of central‑eastern Australia. Aboriginal Australians living in areas where Karnic languages are spoken refer to this species as dandarabilla.
+The species was formally describe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/inland-taipan-20260711.mp3" type="audio/mpeg" length="1755360"/>
+      <guid isPermaLink="false">nature-inland-taipan-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 20:06:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Green anaconda</title>
       <description>The green anaconda (Eunectes murinus), common anaconda, common water boa, akayima, or sucuri, is a boa species found in South America. It is one of the longest and heaviest known extant snake species. Like all boas, it is a non-venomous constrictor. Green anacondas generally have a life expectancy of 10 years in the wild, although some specimens live longer when they are taken care of in captivity</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/green-anaconda-20260711.mp3" type="audio/mpeg" length="1684800"/>
