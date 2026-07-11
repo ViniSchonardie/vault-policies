@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Asmodeus</title>
+      <description>Asmodeus (; Ancient Greek: Ἀσμοδαῖος, Asmodaios) or Ashmedai (; Hebrew: אַשְמְדּאָי, romanized: ʾAšmədāy; Arabic: آشماداي; see below for other variations) is a king of demons in the legends of Solomon and the constructing of Solomon's Temple.
+He is featured variously in Talmudic stories where he is the king of the shedim. The Quran refers to a "puppet" in the Story of Solomon in Surah Ṣād verses 3</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/asmodeus-20260711.mp3" type="audio/mpeg" length="1341600"/>
+      <guid isPermaLink="false">mythology-asmodeus-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 05:18:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Minotaur</title>
       <description>In Greek mythology, the Minotaur (Ancient Greek: Μινώταυρος, romanized: Mīnṓtauros), also known as Asterion or Asterius, is a mythical creature portrayed during classical antiquity with the head and tail of a bull and the body of a man or, as described by Roman poet Ovid, a being "part man and part bull". He dwelt at the center of the Labyrinth, which was an elaborate maze-like construction design</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/minotaur-20260710.mp3" type="audio/mpeg" length="1575360"/>
