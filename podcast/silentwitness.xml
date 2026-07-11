@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Executioner</title>
+      <description>An executioner, also known as a hangman or headsman, is an official who effects a sentence of capital punishment on a condemned person.
+
+
+== Scope and job ==
+The executioner was usually presented with a warrant authorizing or ordering him to execute the sentence. The warrant protects the executioner from the charge of murder. Common terms for executioners derived from forms of capital punishment—t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/executioner-20260711.mp3" type="audio/mpeg" length="1806720"/>
+      <guid isPermaLink="false">trials-executioner-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 08:50:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ben Ferencz</title>
       <description>Benjamin Berell Ferencz (March 11, 1920 – April 7, 2023) was an American lawyer. He was an investigator of Nazi war crimes after World War II and the chief prosecutor for the United States Army at the Einsatzgruppen trial, one of the 12 subsequent Nuremberg trials held by US authorities at Nuremberg, Germany. When the Einsatzgruppen reports were discovered, Ferencz pushed for a trial based on thei</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/ben-ferencz-20260710.mp3" type="audio/mpeg" length="1852320"/>
