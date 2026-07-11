@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Thor</title>
+      <description>Thor (from Old Norse: Þórr) is a prominent god in Germanic paganism. In Norse mythology, he is a hammer-wielding god associated with thunder, storms, strength, protection, fertility, and farmers. Besides Old Norse Þórr, the deity occurs in Old English as Thunor, in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theony</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/thor-20260711.mp3" type="audio/mpeg" length="1775520"/>
+      <guid isPermaLink="false">mythology-thor-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 19:03:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Helios</title>
       <description>In ancient Greek religion and mythology, Helios (; Ancient Greek: Ἥλιος pronounced [hɛ̌ːlios], lit. 'Sun'; Homeric Greek: Ἠέλιος) is the god who personifies the Sun. His name is also Latinized as Helius, and he is often given the epithets Hyperion ("the one above") and Phaethon ("the shining"). Helios is often depicted in art with a radiant crown and driving a horse-drawn chariot through the sky. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/helios-20260711.mp3" type="audio/mpeg" length="1681440"/>
