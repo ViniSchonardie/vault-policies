@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siberia Airlines Flight 1812</title>
+      <description>Siberia Airlines Flight 1812 was a commercial flight shot down by the Ukrainian Air Force over the Black Sea on 4 October 2001, en route from Tel Aviv, Israel, to Novosibirsk, Russia. The aircraft, a Soviet-made Tupolev Tu-154, carried 66 passengers and 12 crew members. There were no survivors. The crash site is about 190 km west-southwest of the Black Sea resort of Sochi, 140 km north of the Turk</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/siberia-airlines-flight-1812-20260711.mp3" type="audio/mpeg" length="1978080"/>
+      <guid isPermaLink="false">aviation-siberia-airlines-flight-1812-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 14:30:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1999 South Dakota Learjet crash</title>
       <description>On October 25, 1999, a chartered Learjet 35 business jet was scheduled to fly from Orlando, Florida, United States to Dallas, Texas, United States. Early in the flight, the aircraft, which was climbing to its assigned altitude on autopilot, lost cabin pressure, and all six on board were incapacitated and killed by hypoxia, a lack of oxygen in the brain and body. The aircraft continued climbing pas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1999-south-dakota-learjet-crash-20260711.mp3" type="audio/mpeg" length="1522560"/>
