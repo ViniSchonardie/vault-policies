@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-5</title>
+      <description>STS-5 was the fifth NASA Space Shuttle mission and the fifth flight of the Space Shuttle Columbia. It launched on November 11, 1982, and landed five days later on November 16, 1982. STS-5 was the first Space Shuttle mission to deploy communications satellites into orbit, and the first officially "operational" Space Shuttle mission.
+
+
+== Crew ==
+
+
+=== Support crew ===
+Roy D. Bridges Jr. (entry CAPC</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-5-20260711.mp3" type="audio/mpeg" length="1724160"/>
+      <guid isPermaLink="false">space-sts-5-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 07:51:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 5</title>
       <description>Shenzhou 5 (Chinese: 神舟五号; pinyin: Shénzhōu Wǔ Hào, see § Etymology) was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-5-20260710.mp3" type="audio/mpeg" length="1586400"/>
