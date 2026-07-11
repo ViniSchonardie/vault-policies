@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-61-A</title>
+      <description>STS-61-A (also known as Spacelab D-1) was the 22nd mission of NASA's Space Shuttle program. It was a scientific Spacelab mission, funded and directed by West Germany – hence the non-NASA designation of D-1 (for Deutschland-1). STS-61-A was the ninth and last successful flight of Space Shuttle Challenger before the STS-51-L disaster. STS-61-A holds the current record for the largest crew—eight peop</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-a-20260711.mp3" type="audio/mpeg" length="1735680"/>
+      <guid isPermaLink="false">space-sts-61-a-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 14:58:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-5</title>
       <description>STS-5 was the fifth NASA Space Shuttle mission and the fifth flight of the Space Shuttle Columbia. It launched on November 11, 1982, and landed five days later on November 16, 1982. STS-5 was the first Space Shuttle mission to deploy communications satellites into orbit, and the first officially "operational" Space Shuttle mission.
 
