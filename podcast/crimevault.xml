@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fritz Honka</title>
+      <description>Friedrich Paul "Fritz" Honka, also known as Peter Jensen, was a German serial killer. Between 1970 and 1975 he killed at least four women from Hamburg's red light district, keeping three of the bodies in his flat.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/fritz-honka-20260711.mp3" type="audio/mpeg" length="1582080"/>
+      <guid isPermaLink="false">crime-fritz-honka-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 18:02:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carl Panzram</title>
       <description>Charles "Carl" Panzram was an American rapist, serial killer, and habitual offender. In prison confessions and in his autobiography, Panzram confessed to having murdered twenty-one boys and men, only five of which could be corroborated. He is suspected of having killed more than a hundred boys and men in the United States alone, and several more in Portuguese Angola.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/carl-panzram-20260711.mp3" type="audio/mpeg" length="1642560"/>
