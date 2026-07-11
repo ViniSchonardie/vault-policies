@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Zara</title>
+      <description>The siege of Zara or siege of Zadar (Croatian: opsada Zadra; Hungarian: Zára ostroma; 10–24 November 1202) was the first major action of the Fourth Crusade and the first attack against a Catholic city by Catholic crusaders. The crusaders had an agreement with Venice for transport across the sea, but the price far exceeded what they were able to pay. Venice set the condition that the crusaders help</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-zara-20260711.mp3" type="audio/mpeg" length="1317600"/>
+      <guid isPermaLink="false">warvault-siege-of-zara-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 16:49:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of the Nek</title>
       <description>The Battle of the Nek (Turkish: Kılıçbayır Muharebesi) was a minor battle that took place on 7 August 1915, during the Gallipoli campaign of World War I. "The Nek" was a narrow stretch of ridge on the Gallipoli Peninsula. The name derives from the Afrikaans word for 'mountain pass', but the terrain itself was a perfect bottleneck and easy to defend, as had been proven during an Ottoman attack in J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-nek-20260711.mp3" type="audio/mpeg" length="1882080"/>
