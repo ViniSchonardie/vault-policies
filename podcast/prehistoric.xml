@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Liopleurodon</title>
+      <description>Liopleurodon (; meaning 'smooth-sided teeth') is an extinct genus of carnivorous pliosaurid plesiosaurs that lived from the Callovian stage of the Middle Jurassic to the  Kimmeridgian stage of the Late Jurassic period (approximately 166 to 155 million years ago). The type species is L. ferox, which is probably the only valid species. Some studies also include the second species L. pachydeirus, but</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/liopleurodon-20260711.mp3" type="audio/mpeg" length="1626240"/>
+      <guid isPermaLink="false">prehistoric-liopleurodon-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 22:56:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Helicoprion</title>
       <description>Helicoprion is an extinct genus of large shark-like cartilaginous fish that lived from the Early to the Middle Permian, about 290-270 million years ago. Helicoprion is a member of the Eugeneodontiformes, an extinct order of cartilaginous fish within the clade Holocephali, a group today represented only by chimaeras. It is also the type genus of the Helicoprionidae, a family of eugeneodonts charact</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/helicoprion-20260711.mp3" type="audio/mpeg" length="1642080"/>
