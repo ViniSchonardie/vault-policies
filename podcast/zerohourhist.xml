@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1751 Port-au-Prince earthquake</title>
+      <description>The 1751 Port-au-Prince earthquake occurred at 12:50 UTC on 21 November in Saint-Domingue, followed by a tsunami. Another earthquake was reported at the same location on 15 September of the same year and it is uncertain whether the two reports refer to the same event.
+
+
+== Seismological analysis ==
+Later seismologists attributed the 1751 earthquake, like that of 1910, to adjustments along the Sout</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1751-port-au-prince-earthquake-20260711.mp3" type="audio/mpeg" length="1245600"/>
+      <guid isPermaLink="false">history-1751-port-au-prince-earthquake-20260711</guid>
+      <pubDate>Sat, 11 Jul 2026 14:58:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1988 Saguenay earthquake</title>
       <description>The 1988 Saguenay earthquake struck Quebec, Canada with a moment magnitude of 5.9 on November 25. It is one of the largest recorded earthquakes in eastern Canada and eastern North America during the 20th century. The earthquake was felt by millions, and damaged some buildings. It could be felt as far as Toronto, Halifax, and Boston.
 The earthquake was triggered by faults associated with the Saguen</description>
