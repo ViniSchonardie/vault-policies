@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Palace Of The Inquisition</title>
+      <description>The Palace of the Inquisition is a building in Mexico City built in the 1730s as the headquarters of the Mexican Inquisition, which now houses the Museum of Mexican Medicine. The building stands at the junction of República de Brasil and República de Venezuela streets, with its entrance at a canted corner facing Santo Domingo Plaza.  When the Inquisition was abolished after the Mexican War of Inde</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/palace-of-the-inquisition-20260712.mp3" type="audio/mpeg" length="1598880"/>
+      <guid isPermaLink="false">trials-palace-of-the-inquisition-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 16:05:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Command Responsibility</title>
       <description>In the practice of international law, command responsibility (also superior responsibility) is the legal doctrine of hierarchical accountability for war crimes, whereby a commanding officer (military) and a superior officer (civil) are legally responsible for the war crimes and the crimes against humanity committed by their subordinates; thus, a commanding officer always is accountable for the act</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/command-responsibility-20260711.mp3" type="audio/mpeg" length="1689120"/>
