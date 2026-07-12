@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Derrick Todd Lee</title>
+      <description>Derrick Todd Lee, also known as The Baton Rouge Serial Killer, was an American serial killer and rapist who murdered at least seven women around Baton Rouge and Lafayette, Louisiana, between 1998 and 2003.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/derrick-todd-lee-20260712.mp3" type="audio/mpeg" length="1704480"/>
+      <guid isPermaLink="false">crime-derrick-todd-lee-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 04:36:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fritz Honka</title>
       <description>Friedrich Paul "Fritz" Honka, also known as Peter Jensen, was a German serial killer. Between 1970 and 1975 he killed at least four women from Hamburg's red light district, keeping three of the bodies in his flat.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/fritz-honka-20260711.mp3" type="audio/mpeg" length="1582080"/>
