@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Agnadello</title>
+      <description>The Battle of Agnadello, also known as Vailà, was fought on 14 May 1509 between the army of King Louis XII of France and the Venetian rear-guard elements commanded by Bartolomeo d'Alviano. After a three hour struggle, and after Bartolomeo found himself abandoned by a part of his army, the Venetians were defeated with losses in excess of 4,000 men. Louis then occupied the rest of Lombardy.
+It was o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-agnadello-20260712.mp3" type="audio/mpeg" length="1793760"/>
+      <guid isPermaLink="false">ancient-battle-of-agnadello-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 21:56:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sahle Selassie</title>
       <description>Sahle Selassie (Amharic: ሣህለ ሥላሴ, 1795 – 22 October 1847) was the King of Shewa from 1813 to 1847. An important Amhara noble of Ethiopia, he was a younger son of Wossen Seged. Sahle Selassie was the father of numerous sons, among them Haile Melekot, Haile Mikael, Seyfe Sahle Selassie, Amarkegne and Darge Sahle Selassie; his daughters included Tenagnework, Ayahilush, Wossenyelesh, Birkinesh, and Ti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/sahle-selassie-20260712.mp3" type="audio/mpeg" length="1786560"/>
