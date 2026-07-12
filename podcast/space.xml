@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-96</title>
+      <description>STS-96 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery, and the first shuttle flight to dock at the International Space Station. It was Discovery's 26th flight. The shuttle carried the Spacehab module in the payload, filled with cargo for station outfitting. STS-96 launched from Kennedy Space Center, Florida, on 27 May 1999 at 06:49:42 AM EDT </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-96-20260712.mp3" type="audio/mpeg" length="1563840"/>
+      <guid isPermaLink="false">space-sts-96-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 15:00:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 5</title>
       <description>Soyuz 5 (Russian: Союз 5, Union 5) was a Soyuz mission using the Soyuz 7K-OK spacecraft launched by the Soviet Union on 15 January 1969, which docked with Soyuz 4 in orbit. It was the first docking of two crewed spacecraft of any nation, and the first transfer of crew from one space vehicle to another of any nation, the only time a transfer was accomplished with a space walk – two months before th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-5-20260711.mp3" type="audio/mpeg" length="1746720"/>
