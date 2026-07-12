@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aircraft registration</title>
+      <description>An aircraft registration is a code unique to a single aircraft, required by international convention to be marked on the exterior of every civil aircraft. The registration indicates the aircraft's country of registration, and functions much like an automobile license plate or a ship registration. This code must also appear in its Certificate of Registration, issued by the relevant civil aviation a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/aircraft-registration-20260712.mp3" type="audio/mpeg" length="1689600"/>
+      <guid isPermaLink="false">heist-aircraft-registration-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 12:52:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Billy Clanton</title>
       <description>William Harrison Clanton (1862 – October 26, 1881) was an American outlaw who was a member of the Cochise County Cowboys in the Arizona Territory. He, along with his father Newman Clanton and brother Ike Clanton, worked a ranch near the boomtown of Tombstone and stole livestock from Mexican and American ranchers.
 He was a member of a group of loosely organized outlaws who had ongoing conflicts wit</description>
