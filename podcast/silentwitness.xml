@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination Of Malcolm X</title>
+      <description>On February 21, 1965, Malcolm X, a Muslim African American minister and Black power activist who was a popular figure during the civil rights movement, was shot multiple times and died from his wounds in Manhattan, New York City, at the age of 39 while preparing to address the Organization of Afro-American Unity at the Audubon Ballroom in the neighborhood of Washington Heights. Three members of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-malcolm-x-20260712.mp3" type="audio/mpeg" length="1671840"/>
+      <guid isPermaLink="false">trials-assassination-of-malcolm-x-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 23:50:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Palace Of The Inquisition</title>
       <description>The Palace of the Inquisition is a building in Mexico City built in the 1730s as the headquarters of the Mexican Inquisition, which now houses the Museum of Mexican Medicine. The building stands at the junction of República de Brasil and República de Venezuela streets, with its entrance at a canted corner facing Santo Domingo Plaza.  When the Inquisition was abolished after the Mexican War of Inde</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/palace-of-the-inquisition-20260712.mp3" type="audio/mpeg" length="1598880"/>
