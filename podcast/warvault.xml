@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Wizna</title>
+      <description>The Battle of Wizna (Polish: Obrona Wizny) was fought between September 7 and September 10, 1939, between the forces of Poland and Germany during the initial stages of the invasion of Poland, which marked the beginning of the Second World War in Europe. According to Polish historian Leszek Moczulski, between 350 and 720 Poles defended a fortified line for three days against more than 40,000 German</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-wizna-20260712.mp3" type="audio/mpeg" length="1788000"/>
+      <guid isPermaLink="false">warvault-battle-of-wizna-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 03:22:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Zara</title>
       <description>The siege of Zara or siege of Zadar (Croatian: opsada Zadra; Hungarian: Zára ostroma; 10–24 November 1202) was the first major action of the Fourth Crusade and the first attack against a Catholic city by Catholic crusaders. The crusaders had an agreement with Venice for transport across the sea, but the price far exceeded what they were able to pay. Venice set the condition that the crusaders help</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-zara-20260711.mp3" type="audio/mpeg" length="1317600"/>
