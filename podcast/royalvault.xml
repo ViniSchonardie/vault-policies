@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Winchester Palace</title>
+      <description>Winchester Palace was a 12th-century bishop's palace that served as the London townhouse of the Bishops of Winchester. It was located in the parish of Southwark in Surrey, on the south bank of the River Thames (opposite the City of London) on what is now Clink Street in the London Borough of Southwark, near Southwark Priory (which later became Southwark Cathedral). Grade II listed remains of the d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/winchester-palace-20260712.mp3" type="audio/mpeg" length="1648320"/>
+      <guid isPermaLink="false">royal-winchester-palace-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 17:58:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sherborne Castle</title>
       <description>Sherborne Castle (sometimes called Sherborne New Castle) is a 16th-century Tudor mansion southeast of Sherborne in Dorset, England, within the parish of Castleton. Originally built by Sir Walter Raleigh as Sherborne Lodge, and extended in the 1620s, it stands in a 1,200-acre (490 ha) park which formed a small part of the 15,000-acre (61 km2) Digby estate. Within the grounds lie the ruins of the 12</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/sherborne-castle-20260712.mp3" type="audio/mpeg" length="1806240"/>
