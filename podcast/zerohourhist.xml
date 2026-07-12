@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1627 Gargano earthquake</title>
+      <description>The 1627 Gargano earthquake struck Gargano and part of Tavoliere, southern Italy, at about mid-day on 30 July 1627. A "very large earthquake" caused a major tsunami, the largest seismic event ever recorded in the Gargano region, which "produced severe damage in the whole promontory", killing about 5,000 people. Four aftershocks were documented. The most extensive damage was noted between San Sever</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1627-gargano-earthquake-20260712.mp3" type="audio/mpeg" length="1452000"/>
+      <guid isPermaLink="false">history-1627-gargano-earthquake-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 15:01:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1986 North Palm Springs earthquake</title>
       <description>The 1986 North Palm Springs earthquake occurred on July 8 at 02:20:44 local time with a moment magnitude of 6.0 and a maximum Mercalli Intensity of VII (Very strong). The shock occurred in a complex setting along the San Andreas Fault Zone where it bisects San Gorgonio Mountain and San Jacinto Peak at the San Gorgonio Pass and was the first in a series of three earthquakes that affected southern C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1986-north-palm-springs-earthquake-20260711.mp3" type="audio/mpeg" length="1622880"/>
