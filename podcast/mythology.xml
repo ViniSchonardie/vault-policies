@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Melchizedek</title>
+      <description>In the Hebrew Bible, Melchizedek was the king of Salem and priest of El Elyon (often translated as "God Most High"). He is mentioned in Genesis 14:18–20, where he brings out bread and wine and blesses Abram (Abraham), following the Battle of the Vale of Siddim and Abram's subsequent rescue of the captives and plunder taken in the battle, and in Psalm 110:4.
+In Christianity, according to the Epistl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/melchizedek-20260712.mp3" type="audio/mpeg" length="1778880"/>
+      <guid isPermaLink="false">mythology-melchizedek-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 19:05:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thor</title>
       <description>Thor (from Old Norse: Þórr) is a prominent god in Germanic paganism. In Norse mythology, he is a hammer-wielding god associated with thunder, storms, strength, protection, fertility, and farmers. Besides Old Norse Þórr, the deity occurs in Old English as Thunor, in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theony</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/thor-20260711.mp3" type="audio/mpeg" length="1775520"/>
