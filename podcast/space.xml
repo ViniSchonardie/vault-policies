@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Vostok 2</title>
+      <description>Vostok 2 (Russian: Восток-2, lit. 'Orient 2'  or 'East 2') was a Soviet space mission which carried cosmonaut Gherman Titov into orbit for a full day on August 6, 1961, to study the effects of a more prolonged period of weightlessness on the human body.  Titov orbited the Earth over 17 times, exceeding the single orbit of Yuri Gagarin on Vostok 1 – as well as the suborbital spaceflights of America</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vostok-2-20260712.mp3" type="audio/mpeg" length="1363680"/>
+      <guid isPermaLink="false">space-vostok-2-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 22:54:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-96</title>
       <description>STS-96 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery, and the first shuttle flight to dock at the International Space Station. It was Discovery's 26th flight. The shuttle carried the Spacehab module in the payload, filled with cargo for station outfitting. STS-96 launched from Kennedy Space Center, Florida, on 27 May 1999 at 06:49:42 AM EDT </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-96-20260712.mp3" type="audio/mpeg" length="1563840"/>
