@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Securitas depot robbery</title>
+      <description>The 2006 Securitas depot robbery in Tonbridge, England, was the UK's largest cash heist. It began with a kidnapping on the evening of 21 February 2006 and ended in the early hours of 22 February, when seven criminals stole almost £53 million (equivalent to £91.59 million in 2025). The gang left behind another £154 million because they did not have the means to transport it. 
+After doing surveillan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/securitas-depot-robbery-20260712.mp3" type="audio/mpeg" length="1770240"/>
+      <guid isPermaLink="false">heist-securitas-depot-robbery-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 21:02:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aircraft registration</title>
       <description>An aircraft registration is a code unique to a single aircraft, required by international convention to be marked on the exterior of every civil aircraft. The registration indicates the aircraft's country of registration, and functions much like an automobile license plate or a ship registration. This code must also appear in its Certificate of Registration, issued by the relevant civil aviation a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/aircraft-registration-20260712.mp3" type="audio/mpeg" length="1689600"/>
