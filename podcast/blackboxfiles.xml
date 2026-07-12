@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>All Nippon Airways Flight 60</title>
+      <description>All Nippon Airways Flight 60 was a Boeing 727-81 aircraft making a domestic commercial flight in Japan from Sapporo Chitose Airport to Tokyo Haneda International Airport. On February 4, 1966, all 133 people on board died when the plane mysteriously crashed into Tokyo Bay about 10.4 km (6.5 mi; 5.6 nmi) from Haneda in clear weather conditions while on a night approach.  The accident was the worst i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/all-nippon-airways-flight-60-20260712.mp3" type="audio/mpeg" length="1478400"/>
+      <guid isPermaLink="false">aviation-all-nippon-airways-flight-60-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 14:40:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Eastern Airlines Flight 5210</title>
       <description>China Eastern Airlines Flight 5210 (CES5210/MU5210), also known as the Baotou Air Disaster, was a scheduled flight from Baotou in Inner Mongolia, China, to Shanghai, with a planned stopover at Beijing. On 21 November 2004, just two minutes after takeoff from Baotou, the Bombardier CRJ200ER fell from the sky and crashed into a lake in Nanhai Park, next to the airport, killing all 53 people on board</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5210-20260711.mp3" type="audio/mpeg" length="1647360"/>
