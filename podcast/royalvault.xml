@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sherborne Castle</title>
+      <description>Sherborne Castle (sometimes called Sherborne New Castle) is a 16th-century Tudor mansion southeast of Sherborne in Dorset, England, within the parish of Castleton. Originally built by Sir Walter Raleigh as Sherborne Lodge, and extended in the 1620s, it stands in a 1,200-acre (490 ha) park which formed a small part of the 15,000-acre (61 km2) Digby estate. Within the grounds lie the ruins of the 12</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/sherborne-castle-20260712.mp3" type="audio/mpeg" length="1806240"/>
+      <guid isPermaLink="false">royal-sherborne-castle-20260712</guid>
+      <pubDate>Sun, 12 Jul 2026 04:31:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Assent</title>
       <description>Royal assent is the method by which a monarch formally approves an act of the legislature, either directly or through an official acting on the monarch's behalf. In some jurisdictions, royal assent is equivalent to promulgation, while in others that is a separate step. Under a modern constitutional monarchy, royal assent is considered little more than a formality. Even in nations such as the Unite</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-assent-20260711.mp3" type="audio/mpeg" length="1419840"/>
