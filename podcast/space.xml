@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Landsat 8</title>
+      <description>Landsat 8 is an American Earth observation satellite launched on 11 February 2013. It is the eighth satellite in the Landsat program and the seventh to reach orbit successfully. Originally called the Landsat Data Continuity Mission (LDCM), it is a collaboration between NASA and the United States Geological Survey (USGS). NASA Goddard Space Flight Center in Greenbelt, Maryland, provided development</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/landsat-8-20260713.mp3" type="audio/mpeg" length="1905600"/>
+      <guid isPermaLink="false">space-landsat-8-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 23:04:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Envisat</title>
       <description>Envisat ("Environmental Satellite") is a large Earth-observing satellite which has been inactive since 2012. It was launched on 1 March 2002 aboard an Ariane 5 from the Guyana Space Centre in Kourou, French Guiana, into a Sun synchronous polar orbit at an altitude of 790 ± 10 km. 
 Operated by the European Space Agency (ESA), it was the world's largest civilian Earth observation satellite. Its obje</description>
