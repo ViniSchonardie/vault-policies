@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Envisat</title>
+      <description>Envisat ("Environmental Satellite") is a large Earth-observing satellite which has been inactive since 2012. It was launched on 1 March 2002 aboard an Ariane 5 from the Guyana Space Centre in Kourou, French Guiana, into a Sun synchronous polar orbit at an altitude of 790 ± 10 km. 
+Operated by the European Space Agency (ESA), it was the world's largest civilian Earth observation satellite. Its obje</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/envisat-20260713.mp3" type="audio/mpeg" length="1540320"/>
+      <guid isPermaLink="false">space-envisat-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 16:37:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-41-C</title>
       <description>STS-41-C (formerly STS-13) was NASA's eleventh Space Shuttle mission, and the fifth mission of Space Shuttle Challenger. The launch, which took place on April 6, 1984, marked the first direct ascent trajectory for a Space Shuttle mission. During the mission, Challenger's crew captured and repaired the malfunctioning Solar Maximum Mission ("Solar Max") satellite, and deployed the Long Duration Expo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-c-20260713.mp3" type="audio/mpeg" length="1705440"/>
