@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Poison dart frog</title>
+      <description>The poison dart frog (also known as the dart-poison frog, the poison frog or formerly known as the poison arrow frog) is the common name of a group of frogs in the family Dendrobatidae which are native to tropical Central and South America. These species are diurnal and often have brightly colored bodies. This bright coloration is correlated with the toxicity of the species, making them aposematic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/poison-dart-frog-20260713.mp3" type="audio/mpeg" length="1791360"/>
+      <guid isPermaLink="false">nature-poison-dart-frog-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 06:17:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Panthera</title>
       <description>Panthera is a genus within the family Felidae, and one of two extant genera in the subfamily Pantherinae. It contains the largest living members of the cat family. There are five living species: the jaguar, leopard, lion, snow leopard and tiger. Numerous extinct species are also named, including the cave lion and American lion.
 
