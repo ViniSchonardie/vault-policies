@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Britannia Airways Flight 226A</title>
+      <description>Britannia Airways Flight 226A was an international passenger flight from Cardiff, Wales to Girona, Spain, operated by charter airline Britannia Airways. On 14 September 1999, the Boeing 757-204 aircraft suffered a crash landing and broke apart during a thunderstorm in Girona-Costa Brava Airport. Of the 236 passengers and nine crew on board, two were seriously injured and 41 sustained minor injurie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/britannia-airways-flight-226a-20260713.mp3" type="audio/mpeg" length="1548960"/>
+      <guid isPermaLink="false">aviation-britannia-airways-flight-226a-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 21:48:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2016 Russian Defence Ministry Tupolev Tu-154 crash</title>
       <description>On 25 December 2016, a Tupolev Tu-154 jetliner of the Russian Defence Ministry crashed into the Black Sea shortly after taking off from Sochi International Airport, Russia, while en route to Khmeimim Air Base, Syria, during the Russian military intervention in the war in Syria. All 92 passengers and crew on board, including 64 members of the Alexandrov Ensemble choir of the Russian Armed Forces, w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2016-russian-defence-ministry-tupolev-tu-154-crash-20260713.mp3" type="audio/mpeg" length="1830240"/>
