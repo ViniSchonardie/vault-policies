@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ransom</title>
+      <description>Ransom refers to the practice of holding a prisoner or item to extort money or property to secure their release. It also refers to the sum of money paid by the other party to secure a captive's freedom. It can also refer to paying such a ransom.
+When ransom means "payment", the word comes via French rançon (from Old French "ranson") from Latin redemptio, 'buying back'; compare "redemption".
+
+
+== R</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/ransom-20260713.mp3" type="audio/mpeg" length="1296480"/>
+      <guid isPermaLink="false">heist-ransom-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 07:32:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Securitas depot robbery</title>
       <description>The 2006 Securitas depot robbery in Tonbridge, England, was the UK's largest cash heist. It began with a kidnapping on the evening of 21 February 2006 and ended in the early hours of 22 February, when seven criminals stole almost £53 million (equivalent to £91.59 million in 2025). The gang left behind another £154 million because they did not have the means to transport it. 
 After doing surveillan</description>
