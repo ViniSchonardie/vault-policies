@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daspletosaurus</title>
+      <description>Daspletosaurus ( das-PLEET-ə-SOR-əs; meaning "frightful lizard") is a genus of tyrannosaurid dinosaur that lived in Laramidia between about 77 and 74.4 million years ago, during the Late Cretaceous Period. The genus Daspletosaurus contains three named species. Fossils of the earlier type species, D. torosus, have been found in Alberta, while fossils of a later species, D. horneri, have been found </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/daspletosaurus-20260713.mp3" type="audio/mpeg" length="1642080"/>
+      <guid isPermaLink="false">prehistoric-daspletosaurus-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:19:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stegosauria</title>
       <description>Stegosauria is a group of herbivorous ornithischian dinosaurs that lived during the Jurassic and early Cretaceous periods. Stegosaurian fossils have been found mostly in the Northern Hemisphere (North America, Europe and Asia), Africa and South America. Although their geographical origins are unclear, the earliest unequivocal stegosaurians are known from the Middle Jurassic (Bajocian-Bathonian sta</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stegosauria-20260712.mp3" type="audio/mpeg" length="1545120"/>
