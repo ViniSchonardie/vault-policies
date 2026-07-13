@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flint Castle</title>
+      <description>Flint Castle (Welsh: Castell y Fflint) in Flint, Flintshire, was the first of a series of castles built during King Edward I's campaign to conquer Wales.
+The site was chosen for its strategic position in North East Wales. The castle was only one day's march from Chester, supplies could be brought along the River Dee and there was a ford nearby across to England that could be used at low tide.
+
+
+==</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/flint-castle-20260713.mp3" type="audio/mpeg" length="1588320"/>
+      <guid isPermaLink="false">royal-flint-castle-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 04:37:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Winchester Palace</title>
       <description>Winchester Palace was a 12th-century bishop's palace that served as the London townhouse of the Bishops of Winchester. It was located in the parish of Southwark in Surrey, on the south bank of the River Thames (opposite the City of London) on what is now Clink Street in the London Borough of Southwark, near Southwark Priory (which later became Southwark Cathedral). Grade II listed remains of the d</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/winchester-palace-20260712.mp3" type="audio/mpeg" length="1648320"/>
