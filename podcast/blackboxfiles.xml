@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Airlines Flight 358</title>
+      <description>China Airlines Flight 358 was a Boeing 747 freighter that crashed on December 29, 1991, shortly after takeoff from Chiang Kai-shek International Airport near Taipei, Taiwan. All five crew members were killed.
+
+
+== Aircraft ==
+The aircraft was a Boeing 747-2R7F/SCD, built in September 1980 for Cargolux as the City of Esch-sur-Alzette, registration LX-ECV, MSN 22390. It was acquired by China Airline</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-358-20260713.mp3" type="audio/mpeg" length="1552800"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-358-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 08:24:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TACA Flight 390</title>
       <description>TACA Flight 390 was a scheduled flight on May 30, 2008, by TACA International from San Salvador, El Salvador, to Miami, Florida, United States, with intermediate stops at Tegucigalpa and San Pedro Sula in Honduras. The aircraft, an Airbus A320-233, overran the runway after landing at Tegucigalpa's Toncontín International Airport and rolled out into a street, crashing into an embankment and smashin</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/taca-flight-390-20260712.mp3" type="audio/mpeg" length="1592640"/>
