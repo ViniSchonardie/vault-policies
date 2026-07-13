@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spire Motorsports</title>
+      <description>Spire Motorsports is an American professional stock car racing team. The organization competes in the NASCAR Cup Series and the NASCAR Craftsman Truck Series.
+The company was founded in 2018 by professional management executives Jeff Dickerson and T. J. Puchyr as a subsidiary of their Spire Sports + Entertainment agency after purchasing an entry "charter" from Furniture Row Racing, beginning compe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/spire-motorsports-20260713.mp3" type="audio/mpeg" length="1490400"/>
+      <guid isPermaLink="false">sportscrime-spire-motorsports-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 20:57:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mark Waugh</title>
       <description>Mark Edward Waugh (born 2 June 1965) is an Australian cricket commentator and former international cricketer, who represented Australia in Test matches from early 1991 to late 2002, after previously making his One Day International (ODI) debut in 1988. Waugh was a part of the Australian team that won the 1999 Cricket World Cup.
 Waugh is younger than his twin brother Steve Waugh by a few minutes. D</description>
