@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wilhelm Grimm</title>
+      <description>Wilhelm Carl Grimm (also Karl; 24 February 1786 – 16 December 1859) was a German writer, philologist and anthropologist. He was the younger brother of Jacob Grimm, of the literary duo the Brothers Grimm.
+
+
+== Life and work ==
+Wilhelm was born in February 1786 in Hanau, in Hesse-Kassel.  In 1803, he started studying law at the University of Marburg, one year after his brother Jacob started there. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/wilhelm-grimm-20260713.mp3" type="audio/mpeg" length="1648800"/>
+      <guid isPermaLink="false">realstory-wilhelm-grimm-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 10:21:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Karl Plagge</title>
       <description>Karl Plagge (pronounced [kaʁl ˈplaɡə] ; 10 July 1897 – 19 June 1957) was a German officer who rescued Jews during the Holocaust in Lithuania by issuing work permits to non-essential workers.  A partially disabled veteran of World War I, Plagge studied engineering and joined the Nazi Party in 1931 in hopes of helping Germany rebuild from the economic collapse following the war. After being dismisse</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/karl-plagge-20260712.mp3" type="audio/mpeg" length="1779360"/>
