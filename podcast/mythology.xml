@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Atlas (mythology)</title>
+      <description>In Greek mythology, Atlas (; Ancient Greek: Ἄτλας, romanized: Átlas) is a Titan condemned to hold up the heavens or sky for eternity after the Titanomachy. Atlas also plays a role in the myths of two of the greatest Greek heroes: Heracles (Hercules in Roman mythology) and Perseus. According to the ancient Greek poet Hesiod, Atlas stood at the ends of the earth in the extreme west. Later, he became</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/atlas-mythology-20260713.mp3" type="audio/mpeg" length="1291200"/>
+      <guid isPermaLink="false">mythology-atlas-mythology-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 19:24:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Osiris</title>
       <description>Osiris (, from Egyptian wsjr) was the god of fertility, agriculture, the afterlife, the dead, resurrection, life, and vegetation in ancient Egyptian religion. He was classically depicted with a pharaoh's beard, partially mummy-wrapped at the legs, wearing a distinctive atef crown and holding a symbolic crook and flail. He was one of the first to be associated with the mummy wrap. When his brother </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/osiris-20260713.mp3" type="audio/mpeg" length="1576800"/>
