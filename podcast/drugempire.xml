@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Opioid overdose</title>
+      <description>An opioid overdose is toxicity due to excessive consumption of opioids, such as morphine, codeine, heroin, fentanyl, tramadol, Oxycodone, and methadone. This preventable pathology can be fatal if it leads to respiratory depression, a lethal condition that can cause hypoxia from slow and shallow breathing. Other symptoms include small pupils and unconsciousness; however, its onset can depend on the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/opioid-overdose-20260713.mp3" type="audio/mpeg" length="1557600"/>
+      <guid isPermaLink="false">drugempire-opioid-overdose-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 13:29:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Calogero Vizzini</title>
       <description>Calogero Vizzini (Italian: [kaˈlɔːdʒero vitˈtsiːni]; 24 July 1877 – 10 July 1954), also commonly known as "Don Calò", was a Sicilian Mafia boss of Villalba in the province of Caltanissetta, Sicily. He was considered to be one of the most influential and legendary Mafia bosses of Sicily after World War II until his death in 1954. In the media, Don Calò was often depicted as the "boss of bosses" – a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/calogero-vizzini-20260713.mp3" type="audio/mpeg" length="1777440"/>
