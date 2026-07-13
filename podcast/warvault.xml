@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Jaffa</title>
+      <description>The siege of Jaffa was a military engagement between the French Army under Napoleon Bonaparte and Ottoman forces under Ahmed al-Jazzar. On March 3, 1799, the French laid siege to the city of Jaffa, which was under Ottoman control. It was fought from March 3 to 7, when French forces managed to capture the city. For the pillaging of the city, the murder of its civilian population and the execution o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-jaffa-20260713.mp3" type="audio/mpeg" length="1824960"/>
+      <guid isPermaLink="false">warvault-siege-of-jaffa-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 17:55:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Port Hudson</title>
       <description>The siege of Port Hudson (May 22 – July 9, 1863) was the final engagement in the Union campaign to recapture the Mississippi River in the American Civil War. While Union General Ulysses Grant was besieging Vicksburg upriver, General Nathaniel Banks was ordered to capture the lower Mississippi Confederate stronghold of Port Hudson, Louisiana, then to go to Grant's aid. When his assault failed, Bank</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-port-hudson-20260713.mp3" type="audio/mpeg" length="1792800"/>
