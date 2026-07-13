@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Marciano</title>
+      <description>The Battle of Marciano (also known as the Battle of Scannagallo) occurred in the countryside of Marciano della Chiana, near Arezzo, Tuscany, on August 2, 1554, during the Italian War of 1551. The battle pitted an army of the Duchy of Florence and the Empire of Charles V, commanded by Gian Giacomo Medici, and an army of the Republic of Siena and France, led by Piero Strozzi. The Imperial-Florentine</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-marciano-20260713.mp3" type="audio/mpeg" length="1991520"/>
+      <guid isPermaLink="false">ancient-battle-of-marciano-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 22:02:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Constantine Bodin</title>
       <description>Constantine Bodin (Bulgarian and Serbian: Константин Бодин, Konstantin Bodin; fl. 1072–1101) was a medieval king and the ruler of Duklja, the most powerful Serbian principality of the time, from 1081 to 1101, succeeding his father, Mihailo Vojislavljević (r.  1046–1081).
 Born in peaceful times, when the South Slavs were subjects of the Byzantine Empire, his father was in 1072 approached by Bulgari</description>
