@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>German Inquisition</title>
+      <description>The German Inquisition was established by Pope Gregory IX in 1231, and the first inquisitor was appointed in the territory of Germany. In the second half of the 14th century, permanent structures of the Inquisition were organized in Germany, which, with the exception of one tribunal, survived only until the time of the Reformation in the first half of the 16th century. In combating heretics in Ger</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/german-inquisition-20260713.mp3" type="audio/mpeg" length="1847040"/>
+      <guid isPermaLink="false">trials-german-inquisition-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 17:18:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hate Crime</title>
       <description>A hate crime in criminal law is a standard offence (such as assault or murder) with an added element of bias against a victim (individual or group of individuals) because of their physical appearance or perceived membership of a certain social group. Examples of such groups can include, and are almost exclusively limited to race/ethnicity, disability, language, nationality, physical appearance, po</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hate-crime-20260713.mp3" type="audio/mpeg" length="884736"/>
