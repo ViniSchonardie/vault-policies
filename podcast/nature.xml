@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apex predator</title>
+      <description>An apex predator, also known as a top predator or superpredator, is a predator at the top of a food chain with few natural predators of their own, if any.
+Apex predators are usually defined in terms of trophic dynamics, meaning that they occupy the highest trophic levels. Food chains are often far shorter on land, usually limited to being secondary consumers – for example, wolves prey mostly upon </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/apex-predator-20260713.mp3" type="audio/mpeg" length="1271520"/>
+      <guid isPermaLink="false">nature-apex-predator-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 13:15:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poison dart frog</title>
       <description>The poison dart frog (also known as the dart-poison frog, the poison frog or formerly known as the poison arrow frog) is the common name of a group of frogs in the family Dendrobatidae which are native to tropical Central and South America. These species are diurnal and often have brightly colored bodies. This bright coloration is correlated with the toxicity of the species, making them aposematic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/poison-dart-frog-20260713.mp3" type="audio/mpeg" length="1791360"/>
