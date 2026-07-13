@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Belle Gunness</title>
+      <description>Belle Gunness, nicknamed Hell's Belle, was a Norwegian-American serial killer who was active in Illinois and Indiana between 1884 and 1908. Gunness is thought to have killed at least fourteen people, while some sources speculate her involvement in as many as forty murders, making her one of the most prolific female serial killers in history. Gunness seemingly died in a fire in 1908, although her a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/belle-gunness-20260713.mp3" type="audio/mpeg" length="1638240"/>
+      <guid isPermaLink="false">crime-belle-gunness-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 18:52:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Edward Robinson</title>
       <description>John Edward Robinson is an American convicted serial killer, kidnapper, rapist, and forger. He was found guilty and received the death penalty in 2003 for three murders committed in Kansas. Two years later, as part of a plea deal, he admitted responsibility in five other murders committed in Missouri, for which he received multiple life sentences without possibility of parole. Robinson, a prolific</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-edward-robinson-20260713.mp3" type="audio/mpeg" length="1786080"/>
