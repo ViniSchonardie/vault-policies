@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Quantrill's Raiders</title>
+      <description>Quantrill's Raiders were the best-known of the pro-Confederate partisan guerrillas (also known as "bushwhackers") who fought in the American Civil War. Their leader was William Quantrill and they included Jesse James and his brother Frank.
+Early in the war Missouri and Kansas were nominally under Union government control and became subject to widespread violence as groups of Confederate bushwhacke</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/quantrills-raiders-20260713.mp3" type="audio/mpeg" length="1675200"/>
+      <guid isPermaLink="false">heist-quantrills-raiders-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 21:08:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bangladesh Bank robbery</title>
       <description>The Bangladesh Bank robbery, also known colloquially as the Bangladesh Bank cyber heist, was a theft that took place in February 2016.  Thirty-five fraudulent instructions were issued by security hackers via the SWIFT network to illegally transfer close to US$1 billion from the Federal Reserve Bank of New York account belonging to Bangladesh Bank, the central bank of Bangladesh. Five of the thirty</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bangladesh-bank-robbery-20260713.mp3" type="audio/mpeg" length="1980000"/>
