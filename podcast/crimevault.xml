@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Edward Robinson</title>
+      <description>John Edward Robinson is an American convicted serial killer, kidnapper, rapist, and forger. He was found guilty and received the death penalty in 2003 for three murders committed in Kansas. Two years later, as part of a plea deal, he admitted responsibility in five other murders committed in Missouri, for which he received multiple life sentences without possibility of parole. Robinson, a prolific</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-edward-robinson-20260713.mp3" type="audio/mpeg" length="1786080"/>
+      <guid isPermaLink="false">crime-john-edward-robinson-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 11:54:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arthur Shawcross</title>
       <description>Arthur John Shawcross, also known as the Genesee River Killer, was an American serial killer active in Rochester, New York, between 1972 and 1989. Shawcross's first known murders took place in his hometown of Watertown, New York, where he killed a young boy and a girl. Under the terms of a plea bargain, he was allowed to plead guilty to one charge of manslaughter, for which he served 14 years of a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/arthur-shawcross-20260713.mp3" type="audio/mpeg" length="1733280"/>
