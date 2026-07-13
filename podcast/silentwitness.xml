@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Show Trial</title>
+      <description>A show trial is a public trial in which the guilt or innocence of the defendant has already been determined. It is a type of political trial. The purpose of holding a show trial is to present both accusation and verdict to the public, serving as an example and a warning to other would-be dissidents or transgressors.
+Show trials tend to be retributive rather than corrective, and they are also condu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/show-trial-20260713.mp3" type="audio/mpeg" length="1708320"/>
+      <guid isPermaLink="false">trials-show-trial-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 23:51:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>German Inquisition</title>
       <description>The German Inquisition was established by Pope Gregory IX in 1231, and the first inquisitor was appointed in the territory of Germany. In the second half of the 14th century, permanent structures of the Inquisition were organized in Germany, which, with the exception of one tribunal, survived only until the time of the Reformation in the first half of the 16th century. In combating heretics in Ger</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/german-inquisition-20260713.mp3" type="audio/mpeg" length="1847040"/>
