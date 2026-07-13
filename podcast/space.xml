@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-41-C</title>
+      <description>STS-41-C (formerly STS-13) was NASA's eleventh Space Shuttle mission, and the fifth mission of Space Shuttle Challenger. The launch, which took place on April 6, 1984, marked the first direct ascent trajectory for a Space Shuttle mission. During the mission, Challenger's crew captured and repaired the malfunctioning Solar Maximum Mission ("Solar Max") satellite, and deployed the Long Duration Expo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-c-20260713.mp3" type="audio/mpeg" length="1705440"/>
+      <guid isPermaLink="false">space-sts-41-c-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 09:02:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vostok 2</title>
       <description>Vostok 2 (Russian: Восток-2, lit. 'Orient 2'  or 'East 2') was a Soviet space mission which carried cosmonaut Gherman Titov into orbit for a full day on August 6, 1961, to study the effects of a more prolonged period of weightlessness on the human body.  Titov orbited the Earth over 17 times, exceeding the single orbit of Yuri Gagarin on Vostok 1 – as well as the suborbital spaceflights of America</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vostok-2-20260712.mp3" type="audio/mpeg" length="1363680"/>
