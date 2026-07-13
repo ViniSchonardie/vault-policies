@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Paul Kelly (criminal)</title>
+      <description>Paul Kelly (born Francesco Paolo Antonio Vaccarelli; December 23, 1876 – April 3, 1936) was an Italian-born American mobster, who founded the Five Points Gang in New York City. He had started some brothels with prize money earned in boxing. Five Points Gang was one of the last dominant street gangs in New York history. Kelly recruited young, poor men from the ethnically diverse immigrant neighborh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/paul-kelly-criminal-20260713.mp3" type="audio/mpeg" length="2012160"/>
+      <guid isPermaLink="false">drugempire-paul-kelly-criminal-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 20:24:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Opioid overdose</title>
       <description>An opioid overdose is toxicity due to excessive consumption of opioids, such as morphine, codeine, heroin, fentanyl, tramadol, Oxycodone, and methadone. This preventable pathology can be fatal if it leads to respiratory depression, a lethal condition that can cause hypoxia from slow and shallow breathing. Other symptoms include small pupils and unconsciousness; however, its onset can depend on the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/opioid-overdose-20260713.mp3" type="audio/mpeg" length="1557600"/>
