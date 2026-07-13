@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hate Crime</title>
+      <description>A hate crime in criminal law is a standard offence (such as assault or murder) with an added element of bias against a victim (individual or group of individuals) because of their physical appearance or perceived membership of a certain social group. Examples of such groups can include, and are almost exclusively limited to race/ethnicity, disability, language, nationality, physical appearance, po</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hate-crime-20260713.mp3" type="audio/mpeg" length="884736"/>
+      <guid isPermaLink="false">trials-hate-crime-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 10:25:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination Of Malcolm X</title>
       <description>On February 21, 1965, Malcolm X, a Muslim African American minister and Black power activist who was a popular figure during the civil rights movement, was shot multiple times and died from his wounds in Manhattan, New York City, at the age of 39 while preparing to address the Organization of Afro-American Unity at the Audubon Ballroom in the neighborhood of Washington Heights. Three members of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-malcolm-x-20260712.mp3" type="audio/mpeg" length="1671840"/>
