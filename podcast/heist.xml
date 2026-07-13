@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bangladesh Bank robbery</title>
+      <description>The Bangladesh Bank robbery, also known colloquially as the Bangladesh Bank cyber heist, was a theft that took place in February 2016.  Thirty-five fraudulent instructions were issued by security hackers via the SWIFT network to illegally transfer close to US$1 billion from the Federal Reserve Bank of New York account belonging to Bangladesh Bank, the central bank of Bangladesh. Five of the thirty</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bangladesh-bank-robbery-20260713.mp3" type="audio/mpeg" length="1980000"/>
+      <guid isPermaLink="false">heist-bangladesh-bank-robbery-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 14:00:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ransom</title>
       <description>Ransom refers to the practice of holding a prisoner or item to extort money or property to secure their release. It also refers to the sum of money paid by the other party to secure a captive's freedom. It can also refer to paying such a ransom.
 When ransom means "payment", the word comes via French rançon (from Old French "ranson") from Latin redemptio, 'buying back'; compare "redemption".
