@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Osiris</title>
+      <description>Osiris (, from Egyptian wsjr) was the god of fertility, agriculture, the afterlife, the dead, resurrection, life, and vegetation in ancient Egyptian religion. He was classically depicted with a pharaoh's beard, partially mummy-wrapped at the legs, wearing a distinctive atef crown and holding a symbolic crook and flail. He was one of the first to be associated with the mummy wrap. When his brother </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/osiris-20260713.mp3" type="audio/mpeg" length="1576800"/>
+      <guid isPermaLink="false">mythology-osiris-20260713</guid>
+      <pubDate>Mon, 13 Jul 2026 12:39:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Demeter</title>
       <description>In ancient Greek religion and mythology, Demeter (; Attic: Δημήτηρ Dēmḗtēr [dɛːmɛ́ːtɛːr]; Doric: Δαμάτηρ Dāmā́tēr) is the Olympian goddess of the harvest and agriculture, presiding over crops, grains, food, and the fertility of the earth. Although Demeter is mostly known as a grain goddess, she also appeared as a goddess of health, birth, and marriage, and had connections to the Underworld. She is</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/demeter-20260713.mp3" type="audio/mpeg" length="1263360"/>
