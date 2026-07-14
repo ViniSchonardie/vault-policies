@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cleveland Torso Murderer</title>
+      <description>The Cleveland Torso Murderer, also known as the Mad Butcher of Kingsbury Run, was an unidentified serial killer who operated in Cleveland, Ohio, United States, in the 1930s. The killings were characterized by the dismemberment of thirteen known victims and the disposal of their remains in the impoverished neighborhood of Kingsbury Run. Most victims came from an area east of Kingsbury Run called "T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/cleveland-torso-murderer-20260714.mp3" type="audio/mpeg" length="1359360"/>
+      <guid isPermaLink="false">crime-cleveland-torso-murderer-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 04:13:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Belle Gunness</title>
       <description>Belle Gunness, nicknamed Hell's Belle, was a Norwegian-American serial killer who was active in Illinois and Indiana between 1884 and 1908. Gunness is thought to have killed at least fourteen people, while some sources speculate her involvement in as many as forty murders, making her one of the most prolific female serial killers in history. Gunness seemingly died in a fire in 1908, although her a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/belle-gunness-20260713.mp3" type="audio/mpeg" length="1638240"/>
