@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Abu Klea</title>
+      <description>The Battle of Abu Klea, also known as the Battle of Abu Tulayh, took place between 16 and 18 January 1885, at Abu Klea, Sudan, between the British Desert Column and Mahdist forces encamped near Abu Klea. The Desert Column, a force of approximately 1,400 soldiers, started from Korti, Sudan on 30 December 1884; the Desert Column's mission, in a joint effort titled the "Gordon Relief Expedition", was</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-abu-klea-20260714.mp3" type="audio/mpeg" length="1379040"/>
+      <guid isPermaLink="false">warvault-battle-of-abu-klea-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 10:04:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Defense of Brest Fortress</title>
       <description>The defense of Brest Fortress was the first battle of Operation Barbarossa, the Axis invasion of the Soviet Union launched on 22 June 1941. The German Army attacked without warning, expecting to take Brest on the first day, using only infantry and artillery, but it took them a week, and only after two bombardments by the Luftwaffe. Many defenders were killed or captured.
 
