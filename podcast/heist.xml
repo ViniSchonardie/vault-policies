@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Public enemy</title>
+      <description>"Public enemy" is a term to denounce a notorious criminal whose activities are seen as extremely damaging to society.
+A notable declared public enemy was Al Capone in the 1930s.
+
+
+== Origin and usage ==
+The expression is a translation of the ancient Roman phrase hostis publicus; for example, the Senate denounced emperor Nero as a hostis publicus in AD 68.
+The phrase is attested in the 17th century</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/public-enemy-20260714.mp3" type="audio/mpeg" length="1482720"/>
+      <guid isPermaLink="false">heist-public-enemy-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 06:22:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Quantrill's Raiders</title>
       <description>Quantrill's Raiders were the best-known of the pro-Confederate partisan guerrillas (also known as "bushwhackers") who fought in the American Civil War. Their leader was William Quantrill and they included Jesse James and his brother Frank.
 Early in the war Missouri and Kansas were nominally under Union government control and became subject to widespread violence as groups of Confederate bushwhacke</description>
