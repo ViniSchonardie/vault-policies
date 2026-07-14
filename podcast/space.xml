@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-G</title>
+      <description>STS-51-G was the 18th flight of NASA's Space Shuttle program, and the fifth flight of Space Shuttle Discovery. The seven-day mission launched from Kennedy Space Center, Florida, on June 17, 1985, and landed at Edwards Air Force Base, California, on June 24, 1985. Sultan bin Salman Al Saud from Saudi Arabia was on board as a payload specialist; Al Saud became the first Arab, the first Muslim, and t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-g-20260714.mp3" type="audio/mpeg" length="1539360"/>
+      <guid isPermaLink="false">space-sts-51-g-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 07:57:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Landsat 8</title>
       <description>Landsat 8 is an American Earth observation satellite launched on 11 February 2013. It is the eighth satellite in the Landsat program and the seventh to reach orbit successfully. Originally called the Landsat Data Continuity Mission (LDCM), it is a collaboration between NASA and the United States Geological Survey (USGS). NASA Goddard Space Flight Center in Greenbelt, Maryland, provided development</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/landsat-8-20260713.mp3" type="audio/mpeg" length="1905600"/>
