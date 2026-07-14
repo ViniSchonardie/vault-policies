@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Magyarosaurus</title>
+      <description>Magyarosaurus ("Hungarian lizard") is a genus of dwarf sauropod dinosaur from late Cretaceous Period (early to late Maastrichtian) in today's Transylvania. It is one of the smallest-known adult sauropods, measuring less than 3 m (9.8 ft) long and weighing less than 1,000 kg (2,200 lb). The type and only species is Magyarosaurus dacus. It has been found to be a close relative of Rapetosaurus in the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/magyarosaurus-20260714.mp3" type="audio/mpeg" length="1725120"/>
+      <guid isPermaLink="false">prehistoric-magyarosaurus-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 23:04:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ankylosauria</title>
       <description>Ankylosauria is a group of herbivorous dinosaurs of the clade Ornithischia. It includes the great majority of dinosaurs with armor in the form of bony osteoderms, similar to turtles. Ankylosaurs were bulky quadrupeds, with short, powerful limbs. They are known to have first appeared in North Africa during the Middle Jurassic, and persisted until the end of the Late Cretaceous. The two main familie</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ankylosauria-20260714.mp3" type="audio/mpeg" length="1582560"/>
