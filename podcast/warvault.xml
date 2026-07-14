@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Defense of Brest Fortress</title>
+      <description>The defense of Brest Fortress was the first battle of Operation Barbarossa, the Axis invasion of the Soviet Union launched on 22 June 1941. The German Army attacked without warning, expecting to take Brest on the first day, using only infantry and artillery, but it took them a week, and only after two bombardments by the Luftwaffe. Many defenders were killed or captured.
+
+
+== Background ==
+
+The ar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/defense-of-brest-fortress-20260714.mp3" type="audio/mpeg" length="1778880"/>
+      <guid isPermaLink="false">warvault-defense-of-brest-fortress-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 02:55:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Jaffa</title>
       <description>The siege of Jaffa was a military engagement between the French Army under Napoleon Bonaparte and Ottoman forces under Ahmed al-Jazzar. On March 3, 1799, the French laid siege to the city of Jaffa, which was under Ottoman control. It was fought from March 3 to 7, when French forces managed to capture the city. For the pillaging of the city, the murder of its civilian population and the execution o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-jaffa-20260713.mp3" type="audio/mpeg" length="1824960"/>
