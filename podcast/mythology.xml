@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hercules</title>
+      <description>Hercules (, US: ) is the Roman equivalent of the Greek divine hero Heracles, son of Jupiter and the mortal Alcmena. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures.
+The Romans adapted the Greek hero's iconography and myths for their literature and art under the name Hercules. In later Western art and literature and in popular culture, Hercule</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hercules-20260714.mp3" type="audio/mpeg" length="1614240"/>
+      <guid isPermaLink="false">mythology-hercules-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 19:19:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Icarus</title>
       <description>In Greek mythology, Icarus ( ; Ancient Greek: Ἴκαρος, romanized: Íkaros, pronounced [ǐːkaros]) was the son of the master craftsman Daedalus, the architect of the labyrinth of Crete, and his wife Naucrate. After Theseus, king of Athens and enemy of King Minos, escaped from the labyrinth, Minos suspected that Icarus and Daedalus had revealed the labyrinth's secrets and thus imprisoned them—either in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/icarus-20260714.mp3" type="audio/mpeg" length="1307040"/>
