@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daniel Morgan</title>
+      <description>John Owen, better known by his alias Daniel Morgan, was an Australian bushranger and outlaw. Active mainly in the Riverina of New South Wales and northern Victoria, he committed numerous raids and robberies and murdered at least four men, including two constables. He also shot several others.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/daniel-morgan-20260714.mp3" type="audio/mpeg" length="1729440"/>
+      <guid isPermaLink="false">crime-daniel-morgan-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 10:35:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cleveland Torso Murderer</title>
       <description>The Cleveland Torso Murderer, also known as the Mad Butcher of Kingsbury Run, was an unidentified serial killer who operated in Cleveland, Ohio, United States, in the 1930s. The killings were characterized by the dismemberment of thirteen known victims and the disposal of their remains in the impoverished neighborhood of Kingsbury Run. Most victims came from an area east of Kingsbury Run called "T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/cleveland-torso-murderer-20260714.mp3" type="audio/mpeg" length="1359360"/>
