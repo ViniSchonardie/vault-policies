@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rock Machine Motorcycle Club</title>
+      <description>The Rock Machine Motorcycle Club (RMMC) or Rock Machine is an international outlaw motorcycle club founded in Montreal, Quebec, Canada in 1986. It has eighteen Canadian chapters spread across seven provinces.  It also has nine chapters in the United States and eleven chapters in Australia, with chapters also located in 24 other countries. It was formed in 1986, by Salvatore Cazzetta and his brothe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/rock-machine-motorcycle-club-20260714.mp3" type="audio/mpeg" length="1460160"/>
+      <guid isPermaLink="false">drugempire-rock-machine-motorcycle-club-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 12:18:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Clandestine chemistry</title>
       <description>Clandestine chemistry is chemistry carried out in secret, and particularly in illegal drug laboratories. Larger labs are usually run by gangs or organized crime intending to produce for distribution on the black market. Smaller labs can be run by individual chemists working clandestinely in order to synthesize smaller amounts of controlled substances or simply out of a hobbyist interest in chemist</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/clandestine-chemistry-20260714.mp3" type="audio/mpeg" length="1796640"/>
