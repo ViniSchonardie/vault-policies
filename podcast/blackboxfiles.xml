@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>World Airways Flight 30</title>
+      <description>World Airways Flight 30 was a McDonnell Douglas DC-10-30CF airliner which suffered a fatal accident upon landing at Logan International Airport in Boston, skidding into Boston Harbor, on January 23, 1982. Two of the passengers were never found, and are presumed to have drowned.
+
+
+== Background ==
+
+
+=== Aircraft ===
+The aircraft involved was a McDonnell Douglas DC-10-30CF, registered N113WA. The ai</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/world-airways-flight-30-20260714.mp3" type="audio/mpeg" length="1321920"/>
+      <guid isPermaLink="false">aviation-world-airways-flight-30-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 07:16:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Britannia Airways Flight 226A</title>
       <description>Britannia Airways Flight 226A was an international passenger flight from Cardiff, Wales to Girona, Spain, operated by charter airline Britannia Airways. On 14 September 1999, the Boeing 757-204 aircraft suffered a crash landing and broke apart during a thunderstorm in Girona-Costa Brava Airport. Of the 236 passengers and nine crew on board, two were seriously injured and 41 sustained minor injurie</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/britannia-airways-flight-226a-20260713.mp3" type="audio/mpeg" length="1548960"/>
