@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kakori conspiracy</title>
+      <description>The Kakori train Action was a train robbery that took place at Kakori, a village near Lucknow, on 9 August 1925, during the Indian independence movement against the British rule in India. It was organized by the Indian revolutionaries of Hindustan Republican Association (HRA).
+
+The action was conceived by Ram Prasad Bismil and Ashfaqullah Khan who were members of HRA, which later became the Hindus</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/kakori-conspiracy-20260714.mp3" type="audio/mpeg" length="1769280"/>
+      <guid isPermaLink="false">heist-kakori-conspiracy-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 21:09:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trafficante crime family</title>
       <description>The Trafficante crime family, also known as the Tampa crime family or the Tampa Mafia, is an Italian American Mafia crime family based in Tampa, Florida. The most notable boss of the family was Santo Trafficante Jr., who ruled Tampa and the crime family with an iron fist. Author Scott Deitche reported that Santo Jr. was involved with the Central Intelligence Agency (CIA) to plot assassination atte</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/trafficante-crime-family-20260714.mp3" type="audio/mpeg" length="1695360"/>
