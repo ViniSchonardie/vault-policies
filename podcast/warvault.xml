@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Basra</title>
+      <description>The siege of Basra, code-named Operation Karbala-5 or The Great Harvest (Arabic: الحصاد الأكبر), was an offensive operation carried out by Iran in an effort to capture the Iraqi port city of Basra in early 1987. This battle, known for its extensive casualties and ferocious conditions, was the biggest battle of the war and proved to be the last major Iranian offensive. The Iranians failed to reach </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-basra-20260714.mp3" type="audio/mpeg" length="1935360"/>
+      <guid isPermaLink="false">warvault-siege-of-basra-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 17:11:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Abu Klea</title>
       <description>The Battle of Abu Klea, also known as the Battle of Abu Tulayh, took place between 16 and 18 January 1885, at Abu Klea, Sudan, between the British Desert Column and Mahdist forces encamped near Abu Klea. The Desert Column, a force of approximately 1,400 soldiers, started from Korti, Sudan on 30 December 1884; the Desert Column's mission, in a joint effort titled the "Gordon Relief Expedition", was</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-abu-klea-20260714.mp3" type="audio/mpeg" length="1379040"/>
