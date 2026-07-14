@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1117 Verona earthquake</title>
+      <description>An earthquake, rated at IX (Violent) on the Mercalli intensity scale, struck northern Italy and Germany on 3 January 1117. The epicentre of the first shock was near Verona, the city which suffered the most damage. The outer wall of the Verona Arena partially collapsed, and the standing portion was damaged in a later earthquake of 1183. After the first shock of 3 January, seismic activity persisted</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1117-verona-earthquake-20260714.mp3" type="audio/mpeg" length="1838880"/>
+      <guid isPermaLink="false">history-1117-verona-earthquake-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 23:07:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1969 Santa Rosa earthquakes</title>
       <description>At 04:56 and 06:19 UTC on October 2, 1969 (21:56 and 23:19 PDT October 1), a pair of earthquakes of magnitude 5.6 and 5.7, respectively, struck the city of Santa Rosa, California, killing one person and damaging buildings. The maximum felt intensity for the two events was VII (Very strong) and VIII (Severe) respectively on the Mercalli intensity scale. The $8.35 million cost of the earthquakes wen</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1969-santa-rosa-earthquakes-20260714.mp3" type="audio/mpeg" length="1391040"/>
