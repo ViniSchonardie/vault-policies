@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Armavia Flight 967</title>
+      <description>Armavia Flight 967 was a scheduled international passenger flight operated by Armavia from Zvartnots International Airport, Zvartnots in Armenia to Sochi, a Black Sea coastal resort city in Russia. On 3 May 2006, the aircraft operating the route, an Airbus A320-200, crashed into the sea while attempting a go-around following its first approach to Sochi airport; all 113 aboard were killed. The acci</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/armavia-flight-967-20260714.mp3" type="audio/mpeg" length="1598880"/>
+      <guid isPermaLink="false">aviation-armavia-flight-967-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 15:05:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>World Airways Flight 30</title>
       <description>World Airways Flight 30 was a McDonnell Douglas DC-10-30CF airliner which suffered a fatal accident upon landing at Logan International Airport in Boston, skidding into Boston Harbor, on January 23, 1982. Two of the passengers were never found, and are presumed to have drowned.
 
