@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Icarus</title>
+      <description>In Greek mythology, Icarus ( ; Ancient Greek: Ἴκαρος, romanized: Íkaros, pronounced [ǐːkaros]) was the son of the master craftsman Daedalus, the architect of the labyrinth of Crete, and his wife Naucrate. After Theseus, king of Athens and enemy of King Minos, escaped from the labyrinth, Minos suspected that Icarus and Daedalus had revealed the labyrinth's secrets and thus imprisoned them—either in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/icarus-20260714.mp3" type="audio/mpeg" length="1307040"/>
+      <guid isPermaLink="false">mythology-icarus-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 11:31:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Zombie</title>
       <description>A zombie (Haitian French: zombi; Haitian Creole: zonbi; Kikongo: zumbi) is a legendary undead being created through the reanimation of a cadaver, a corporeal manifestation of the revenant type. In modern popular culture, zombies often appear in horror genre works. The term comes from Haitian folklore, in which a zombie is a dead body reanimated through magic by a bokor sorcerer. Modern media depic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/zombie-20260714.mp3" type="audio/mpeg" length="1499520"/>
