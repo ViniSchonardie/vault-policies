@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1969 Santa Rosa earthquakes</title>
+      <description>At 04:56 and 06:19 UTC on October 2, 1969 (21:56 and 23:19 PDT October 1), a pair of earthquakes of magnitude 5.6 and 5.7, respectively, struck the city of Santa Rosa, California, killing one person and damaging buildings. The maximum felt intensity for the two events was VII (Very strong) and VIII (Severe) respectively on the Mercalli intensity scale. The $8.35 million cost of the earthquakes wen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1969-santa-rosa-earthquakes-20260714.mp3" type="audio/mpeg" length="1391040"/>
+      <guid isPermaLink="false">history-1969-santa-rosa-earthquakes-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 15:28:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1957 Farsinaj earthquake</title>
       <description>An earthquake struck Hamadan province, Iran on 13 December 1957 at 05:15. The moment magnitude 6.5 earthquake struck at a depth of 15 km (9.3 mi). The epicenter of the earthquake was located in the seismically active Zagros Mountains. The mountain range was also the location for several historic earthquakes. The earthquake occurred near two segments of the active strike-slip Main Recent Fault. At </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1957-farsinaj-earthquake-20260714.mp3" type="audio/mpeg" length="1714560"/>
