@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Leinster Rugby</title>
+      <description>Leinster Rugby (Irish: Rugbaí Laighean) is one of the four professional provincial club rugby union teams from the island of Ireland. They compete in the United Rugby Championship and the European Rugby Champions Cup. The team represents the Leinster Branch, one of the four provincial unions that together make up the Irish Rugby Football Union (IRFU), but is not restricted to players from that pro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/leinster-rugby-20260714.mp3" type="audio/mpeg" length="1738080"/>
+      <guid isPermaLink="false">sportscrime-leinster-rugby-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 06:19:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spire Motorsports</title>
       <description>Spire Motorsports is an American professional stock car racing team. The organization competes in the NASCAR Cup Series and the NASCAR Craftsman Truck Series.
 The company was founded in 2018 by professional management executives Jeff Dickerson and T. J. Puchyr as a subsidiary of their Spire Sports + Entertainment agency after purchasing an entry "charter" from Furniture Row Racing, beginning compe</description>
