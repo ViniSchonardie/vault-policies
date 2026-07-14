@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flagship Airlines Flight 3379</title>
+      <description>On December 13, 1994, Flagship Airlines Flight 3379, a domestic scheduled passenger flight from Greensboro to Raleigh, North Carolina, crashed during a go-around, killing 15 out of the 20 people on board. The aircraft, a British Aerospace Jetstream 32 with 18 passengers and 2 crew members, was approaching Raleigh–Durham International Airport when the flight's captain decided to conduct a go-around</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flagship-airlines-flight-3379-20260714.mp3" type="audio/mpeg" length="1436640"/>
+      <guid isPermaLink="false">aviation-flagship-airlines-flight-3379-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 21:51:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Armavia Flight 967</title>
       <description>Armavia Flight 967 was a scheduled international passenger flight operated by Armavia from Zvartnots International Airport, Zvartnots in Armenia to Sochi, a Black Sea coastal resort city in Russia. On 3 May 2006, the aircraft operating the route, an Airbus A320-200, crashed into the sea while attempting a go-around following its first approach to Sochi airport; all 113 aboard were killed. The acci</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/armavia-flight-967-20260714.mp3" type="audio/mpeg" length="1598880"/>
