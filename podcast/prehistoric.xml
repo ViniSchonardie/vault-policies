@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ankylosauria</title>
+      <description>Ankylosauria is a group of herbivorous dinosaurs of the clade Ornithischia. It includes the great majority of dinosaurs with armor in the form of bony osteoderms, similar to turtles. Ankylosaurs were bulky quadrupeds, with short, powerful limbs. They are known to have first appeared in North Africa during the Middle Jurassic, and persisted until the end of the Late Cretaceous. The two main familie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ankylosauria-20260714.mp3" type="audio/mpeg" length="1582560"/>
+      <guid isPermaLink="false">prehistoric-ankylosauria-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 15:25:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nanuqsaurus</title>
       <description>Nanuqsaurus (meaning "polar bear lizard") is a genus of tyrannosaurine theropod dinosaur known from the Late Cretaceous (Latest Campanian age) Prince Creek Formation of the North Slope of Alaska. It contains a single species, Nanuqsaurus hoglundi, known from a partial skull and multiple undescribed postcranial and teeth elements.
 
