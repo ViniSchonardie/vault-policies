@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Entry</title>
+      <description>The ceremonies and festivities accompanying a formal entry by a ruler or their representative into a city in the Middle Ages and early modern period in Europe were known as the royal entry, triumphal entry, or Joyous Entry. The entry centred on a procession carrying the entering ruler into the city, where they were greeted and paid appropriate homage by the civic authorities, followed by a feast a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-entry-20260714.mp3" type="audio/mpeg" length="1897920"/>
+      <guid isPermaLink="false">royal-royal-entry-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 18:05:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Grand Duke</title>
       <description>Grand duke (feminine: grand duchess) is a European hereditary title, used either by certain monarchs or by members of certain monarchs' families. The title is used in some current and former independent monarchies in Europe, particularly:
 
