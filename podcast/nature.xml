@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cephalopod</title>
+      <description>A cephalopod  is any member of the molluscan class Cephalopoda  (Greek plural κεφαλόποδες, kephalópodes; "head-feet") such as a squid, octopus, cuttlefish, or nautilus. These exclusively marine animals are characterized by bilateral body symmetry, a prominent head, and a set of arms or tentacles (muscular hydrostats) modified from the primitive molluscan foot. Fishers sometimes call cephalopods "i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cephalopod-20260714.mp3" type="audio/mpeg" length="1567200"/>
+      <guid isPermaLink="false">nature-cephalopod-20260714</guid>
+      <pubDate>Tue, 14 Jul 2026 12:10:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Harpy eagle</title>
       <description>The harpy eagle (Harpia harpyja) is a large neotropical species of eagle. It is also called the American harpy eagle to distinguish it from the Papuan eagle, which is sometimes known as the New Guinea harpy eagle or Papuan harpy eagle. It is the largest bird of prey throughout its range, and among the largest extant species of eagles in the world. It usually inhabits tropical lowland rainforests i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/harpy-eagle-20260714.mp3" type="audio/mpeg" length="1688160"/>
