@@ -17,6 +17,21 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-83</title>
+      <description>STS-83 was a NASA Space Shuttle mission flown by  Columbia. It was a science research mission that achieved orbit successfully, but the planned duration was a failure due to a technical problem with a fuel cell that resulted in the abort of the 15 day duration. Columbia returned to Earth just shy of four days. The mission was re-flown as STS-94 with the same crew later that year.
+
+
+== Crew ==
+
+
+==</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-83-20260715.mp3" type="audio/mpeg" length="1350240"/>
+      <guid isPermaLink="false">space-sts-83-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 08:00:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-13</title>
       <description>Soyuz MS-13, also designated ISS flight 59S, was a crewed Soyuz mission launched on 20 July 2019 – the 50th anniversary of the first Moon landing –  carrying three members of the Expedition 60 crew to the International Space Station: a Russian commander, an American flight engineer, and a European flight engineer. Soyuz MS-13 was the 142nd flight of a Soyuz spacecraft. It was at one point the last</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-13-20260714.mp3" type="audio/mpeg" length="1456800"/>
