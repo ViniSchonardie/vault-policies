@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Miscarriage of justice</title>
+      <description>A miscarriage of justice occurs when an unfair outcome occurs in a criminal or civil proceeding. Examples of miscarriage of justice include conviction of an innocent person, error of impunity, sentencing disparity, and delayed justice. 
+Innocent people have sometimes ended up in prison for years before their conviction has eventually been overturned. They may be exonerated if new evidence comes to</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/miscarriage-of-justice-20260715.mp3" type="audio/mpeg" length="1854720"/>
+      <guid isPermaLink="false">heist-miscarriage-of-justice-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 21:10:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>French Crown Jewels</title>
       <description>The French Crown Jewels (French: Joyaux de la Couronne de France) and Regalia comprise the crowns, orb, sceptres, diadems and jewels that were symbols of Royal or Imperial power between 752 and 1870. These were worn by many Kings and Queens of France as well as Emperor Napoleon. The set was finally broken up, with most of it sold off in 1885 by the Third Republic. The surviving French Crown Jewels</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/french-crown-jewels-20260715.mp3" type="audio/mpeg" length="1207680"/>
