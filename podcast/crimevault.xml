@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Futoshi Matsunaga</title>
+      <description>Futoshi Matsunaga  is a Japanese serial killer who both defrauded and tortured his victims in what is collectively known as the Kitakyūshū Serial Murder Incident . Matsunaga was convicted of six counts of murder and one count of manslaughter between 1996 and 1998 and sentenced to death. He murdered his victims with an accomplice, Junko Ogata, who received a life sentence.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/futoshi-matsunaga-20260715.mp3" type="audio/mpeg" length="1912320"/>
+      <guid isPermaLink="false">crime-futoshi-matsunaga-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 18:17:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gilda Dent</title>
       <description>Gilda Dent, occasionally referred to as Grace, is a fictional character who has appeared in Batman comic books since Detective Comics #66. Associated with her fiancé Harvey Dent, who becomes the criminal mastermind Two-Face, she has since been a recurring character throughout various Batman stories involving him. Her largest role is in the Jeph Loeb and Tim Sale collaboration Batman: The Long Hall</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gilda-dent-20260715.mp3" type="audio/mpeg" length="1245120"/>
