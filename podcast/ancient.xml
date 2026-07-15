@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Tenmokuzan</title>
+      <description>The 1582 Battle of Tenmokuzan (天目山の戦い, Tenmokuzan no Tatakai) in Japan, is regarded as the last stand of the Takeda clan. This was the final attempt by Takeda Katsuyori to resist the forces of Oda Nobunaga, who had been campaigning against him for some time. In his bid to hide from his pursuers, Katsuyori burned his fortress at Shinpu Castle and fled into the mountains, to another Takeda stronghol</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-tenmokuzan-20260715.mp3" type="audio/mpeg" length="1833600"/>
+      <guid isPermaLink="false">ancient-battle-of-tenmokuzan-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:19:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Silius Italicus</title>
       <description>Tiberius Catius Asconius Silius Italicus (Latin: [ˈsiːlijʊs ɪˈt̪alɪkʊs]; c. 26 – c. 101 AD) was a Roman senator, orator and epic poet of the Silver Age of Latin literature. His surviving work is the 17-book Punica, an epic poem about the Second Punic War and the longest surviving poem in Classical Latin at over 12,000 lines.
 
