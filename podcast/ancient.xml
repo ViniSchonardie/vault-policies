@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Salt River</title>
+      <description>The Battle of Salt River was a small military engagement between the crew of a Portuguese fleet led by Francisco de Almeida and the indigenous ǃUriǁʼaekua ("Goringhaiqua" in Dutch approximate spelling), notable for being the first military encounter between Europeans and indigenous people in what would later become South Africa. The battle resulted in a massacre of Portuguese forces and a victory </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-salt-river-20260715.mp3" type="audio/mpeg" length="1822560"/>
+      <guid isPermaLink="false">ancient-battle-of-salt-river-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 22:06:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Ollantaytambo</title>
       <description>The Battle of Ollantaytambo (Spanish: Batalla de Ollantaytambo, IPA: [baˈtaʎa ðe oʎantajˈtambo]) took place in January 1537, between the forces of Inca emperor Manco Inca and a Spanish expedition led by Hernando Pizarro during the Spanish conquest of Peru. A former ally of the Spaniards, Manco Inca rebelled in May 1536, and besieged a Spanish garrison in the city of Cusco. To end the stand-off, th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-ollantaytambo-20260715.mp3" type="audio/mpeg" length="1893600"/>
