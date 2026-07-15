@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Northwest Airlines Flight 2303</title>
+      <description>China Northwest Airlines Flight 2303 was a domestic flight from Xi'an to Guangzhou, People's Republic of China. On June 6, 1994, the aircraft operating the flight, a Tupolev Tu-154M, broke up in-flight and crashed as a result of an autopilot malfunction which caused violent shaking and overstressed the airframe. All 160 people on board were killed. As of 2026, it remains the deadliest airplane cra</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-northwest-airlines-flight-2303-20260715.mp3" type="audio/mpeg" length="1845600"/>
+      <guid isPermaLink="false">aviation-china-northwest-airlines-flight-2303-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:21:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flagship Airlines Flight 3379</title>
       <description>On December 13, 1994, Flagship Airlines Flight 3379, a domestic scheduled passenger flight from Greensboro to Raleigh, North Carolina, crashed during a go-around, killing 15 out of the 20 people on board. The aircraft, a British Aerospace Jetstream 32 with 18 passengers and 2 crew members, was approaching Raleigh–Durham International Airport when the flight's captain decided to conduct a go-around</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flagship-airlines-flight-3379-20260714.mp3" type="audio/mpeg" length="1436640"/>
