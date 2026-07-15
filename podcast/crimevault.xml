@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gilda Dent</title>
+      <description>Gilda Dent, occasionally referred to as Grace, is a fictional character who has appeared in Batman comic books since Detective Comics #66. Associated with her fiancé Harvey Dent, who becomes the criminal mastermind Two-Face, she has since been a recurring character throughout various Batman stories involving him. Her largest role is in the Jeph Loeb and Tim Sale collaboration Batman: The Long Hall</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gilda-dent-20260715.mp3" type="audio/mpeg" length="1245120"/>
+      <guid isPermaLink="false">crime-gilda-dent-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 10:44:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kenneth McDuff</title>
       <description>Kenneth Allen McDuff was an American serial killer from Texas. In 1966, McDuff and an accomplice kidnapped and murdered three teenagers who were visiting from California. He was given three death sentences for these crimes but avoided execution after the 1972 U.S. Supreme Court ruling Furman v. Georgia. He was resentenced to life and was paroled in 1989. Between October 1989 and March 1992, McDuff</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kenneth-mcduff-20260715.mp3" type="audio/mpeg" length="1416480"/>
