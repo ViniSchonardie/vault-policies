@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Counter Reformation</title>
+      <description>The Counter-Reformation (Latin: Contrareformatio), also sometimes called the Catholic Revival or the Catholic Reformation, was the period of Catholic resurgence that was initiated in response to and as an alternative to, or from similar insights as, the Protestant Reformation. It was a comprehensive effort arising from the decrees of the Council of Trent.
+As a political-historical period, it is fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/counter-reformation-20260715.mp3" type="audio/mpeg" length="1428480"/>
+      <guid isPermaLink="false">royal-counter-reformation-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 18:07:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tudor Rose</title>
       <description>The Tudor rose (sometimes called the Union rose) is the traditional floral heraldic emblem of England and takes its name and origins from the House of Tudor, which united the House of Lancaster and the House of York. The Tudor rose consists of five white inner petals, representing the House of York, and five red outer petals to represent the House of Lancaster.
 
