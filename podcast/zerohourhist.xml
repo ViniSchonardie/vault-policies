@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1755 Meknes earthquake</title>
+      <description>The 1755 Meknes earthquake affected Morocco on 27 November 1755. The earthquake had a moment magnitude (Mw) estimated at between 6.5 and 7.0. It devastated the cities of Fes and Meknes—killing at least 15,000 people in both cities. The earthquake struck less than a month after another earthquake that devastated Morocco and Lisbon on 1 November. Previously regarded as an aftershock, this earthquake</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1755-meknes-earthquake-20260715.mp3" type="audio/mpeg" length="1416480"/>
+      <guid isPermaLink="false">history-1755-meknes-earthquake-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 15:31:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2021 Mala earthquake</title>
       <description>The 2021 Mala earthquake, with a Richter magnitude of 6.0 and moment magnitude of 5.9, struck on June 22, 2021, at 21:54:18 local time (UTC−5) with an epicenter off the coast of Mala in the department of Lima. Following the main event, there were more than 15 aftershocks, with the largest being a magnitude 4.8 event at 07:03 local time on June 23.
 
