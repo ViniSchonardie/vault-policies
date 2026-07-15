@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kenneth McDuff</title>
+      <description>Kenneth Allen McDuff was an American serial killer from Texas. In 1966, McDuff and an accomplice kidnapped and murdered three teenagers who were visiting from California. He was given three death sentences for these crimes but avoided execution after the 1972 U.S. Supreme Court ruling Furman v. Georgia. He was resentenced to life and was paroled in 1989. Between October 1989 and March 1992, McDuff</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kenneth-mcduff-20260715.mp3" type="audio/mpeg" length="1416480"/>
+      <guid isPermaLink="false">crime-kenneth-mcduff-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 04:15:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Diogo Alves</title>
       <description>Diogo Alves was a Spanish criminal executed in Portugal for his involvement in a robbery-murder case that left five people dead. Though popularly remembered today as the so-called "Aqueduct Murderer", who allegedly killed dozens of victims by throwing them off Lisbon's Águas Livres Aqueduct, this reputation is not supported by contemporary legal evidence. According to the 2025 historical investiga</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/diogo-alves-20260714.mp3" type="audio/mpeg" length="1576320"/>
