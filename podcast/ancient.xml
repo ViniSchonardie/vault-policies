@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Ollantaytambo</title>
+      <description>The Battle of Ollantaytambo (Spanish: Batalla de Ollantaytambo, IPA: [baˈtaʎa ðe oʎantajˈtambo]) took place in January 1537, between the forces of Inca emperor Manco Inca and a Spanish expedition led by Hernando Pizarro during the Spanish conquest of Peru. A former ally of the Spaniards, Manco Inca rebelled in May 1536, and besieged a Spanish garrison in the city of Cusco. To end the stand-off, th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-ollantaytambo-20260715.mp3" type="audio/mpeg" length="1893600"/>
+      <guid isPermaLink="false">ancient-battle-of-ollantaytambo-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 14:48:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Tenmokuzan</title>
       <description>The 1582 Battle of Tenmokuzan (天目山の戦い, Tenmokuzan no Tatakai) in Japan, is regarded as the last stand of the Takeda clan. This was the final attempt by Takeda Katsuyori to resist the forces of Oda Nobunaga, who had been campaigning against him for some time. In his bid to hide from his pursuers, Katsuyori burned his fortress at Shinpu Castle and fled into the mountains, to another Takeda stronghol</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-tenmokuzan-20260715.mp3" type="audio/mpeg" length="1833600"/>
