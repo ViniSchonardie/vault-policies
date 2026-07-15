@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ornithomimosauria</title>
+      <description>Ornithomimosauria ("bird-mimic lizards") are theropod dinosaurs which bore a superficial resemblance to the modern-day ostrich. They were fast, omnivorous or herbivorous dinosaurs from the Cretaceous Period of Laurasia (now Asia, Europe and North America), as well as possibly Africa. The group first appeared in the Early Cretaceous and persisted until the Late Cretaceous. Primitive members of the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ornithomimosauria-20260715.mp3" type="audio/mpeg" length="1552320"/>
+      <guid isPermaLink="false">prehistoric-ornithomimosauria-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 15:27:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Barosaurus</title>
       <description>Barosaurus ( BARR-oh-SOR-əs) is an extinct genus of giant, long-tailed, long-necked, plant-eating sauropod dinosaur closely related to the more familiar Diplodocus. Definitive remains have been found in the Morrison Formation from the Upper Jurassic Period of South Dakota, Utah and Montana, with other possible remains also found in Colorado, eastern Wyoming and Oklahoma. The generic name, Barosaur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/barosaurus-20260715.mp3" type="audio/mpeg" length="1619040"/>
