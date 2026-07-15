@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Murder Of Alison Shaughnessy</title>
+      <description>On 3 June 1991, 21-year-old Alison Shaughnessy (née Blackmore; born 7 November 1969) was stabbed to death in the stairwell of her flat near Clapham Junction station. Shaughnessy was newly married, but her husband was having an affair with a 20-year-old woman, Michelle Taylor. A witness reported seeing two women running from Shaughnessy's building after the murder, and fingerprints found at the sce</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-of-alison-shaughnessy-20260715.mp3" type="audio/mpeg" length="1754400"/>
+      <guid isPermaLink="false">trials-murder-of-alison-shaughnessy-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flick Trial</title>
       <description>The United States of America vs. Friedrich Flick, et al. or Flick trial was the fifth of twelve Nazi war crimes trials held by United States authorities in their occupation zone in Germany (Nuremberg) after World War II. It was the first of three trials of leading industrialists of Nazi Germany; the two others were the IG Farben Trial and the Krupp Trial.
 These trials were all held before American</description>
