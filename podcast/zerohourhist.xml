@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2021 Mala earthquake</title>
+      <description>The 2021 Mala earthquake, with a Richter magnitude of 6.0 and moment magnitude of 5.9, struck on June 22, 2021, at 21:54:18 local time (UTC−5) with an epicenter off the coast of Mala in the department of Lima. Following the main event, there were more than 15 aftershocks, with the largest being a magnitude 4.8 event at 07:03 local time on June 23.
+
+Initially, the earthquake was 5.8 magnitude (ML),</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2021-mala-earthquake-20260715.mp3" type="audio/mpeg" length="1533600"/>
+      <guid isPermaLink="false">history-2021-mala-earthquake-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 07:54:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1117 Verona earthquake</title>
       <description>An earthquake, rated at IX (Violent) on the Mercalli intensity scale, struck northern Italy and Germany on 3 January 1117. The epicentre of the first shock was near Verona, the city which suffered the most damage. The outer wall of the Verona Arena partially collapsed, and the standing portion was damaged in a later earthquake of 1183. After the first shock of 3 January, seismic activity persisted</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1117-verona-earthquake-20260714.mp3" type="audio/mpeg" length="1838880"/>
