@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of San Pasqual</title>
+      <description>The Battle of San Pasqual, also spelled San Pascual, was a military encounter that occurred during the Mexican–American War in what is now the San Pasqual Valley community in the county of San Diego, California. The series of military skirmishes ended with both sides claiming victory, and the victor of the battle is still debated. On December 6 and 7, 1846, General Stephen W. Kearny's US Army of t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-san-pasqual-20260715.mp3" type="audio/mpeg" length="1889280"/>
+      <guid isPermaLink="false">warvault-battle-of-san-pasqual-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 17:15:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sack of Amorium</title>
       <description>The siege of Amorium by the Abbasid Caliphate in mid-August 838 was one of the major events in the long history of the Arab–Byzantine Wars. The Abbasid campaign was led personally by the Caliph al-Mu'tasim (r. 833–842), in retaliation to a virtually unopposed expedition launched by the Byzantine emperor Theophilos (r. 829–842) into the Caliphate's borderlands the previous year. Mu'tasim targeted A</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sack-of-amorium-20260715.mp3" type="audio/mpeg" length="1973760"/>
