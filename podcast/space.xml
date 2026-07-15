@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Skylab Rescue</title>
+      <description>The Skylab Rescue Mission (also SL-R) was an unflown rescue mission, planned as a contingency in the event of astronauts being stranded aboard the American Skylab space station. If flown, it would have used a modified Apollo Command Module that could be launched with a crew of two and return a crew of five.
+Astronauts Vance Brand and Don Lind were assigned as the rescue crew, in the event of the m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-rescue-20260715.mp3" type="audio/mpeg" length="1306080"/>
+      <guid isPermaLink="false">space-skylab-rescue-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 23:04:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-131</title>
       <description>STS-131 (ISS assembly flight 19A) was a NASA Space Shuttle mission to the International Space Station (ISS).  Space Shuttle Discovery launched on April 5, 2010, at 6:21 am from LC-39A, and landed at 9:08 am on April 20, 2010, on runway 33 at the Kennedy Space Center's Shuttle Landing Facility. The mission marked the longest flight for Space Shuttle Discovery and its 38th and penultimate flight.
 Th</description>
