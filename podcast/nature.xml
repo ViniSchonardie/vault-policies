@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sea otter</title>
+      <description>The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean. Adult sea otters typically weigh between 14 and 45 kg (30–100 lb), making them the heaviest members of the weasel family, but among the smallest marine mammals. Unlike most marine mammals, the sea otter's primary form of insulation is an exceptionally thick coat of fur, the dense</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/sea-otter-20260715.mp3" type="audio/mpeg" length="2008320"/>
+      <guid isPermaLink="false">nature-sea-otter-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 05:33:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nile crocodile</title>
       <description>The Nile crocodile (Crocodylus niloticus) is a large crocodilian native to freshwater habitats in Africa, where it is present in 26 countries. It is widely distributed in sub-Saharan Africa, occurring mostly in the eastern, southern, and central regions of the continent, and lives in different types of aquatic environments such as lakes, rivers, swamps and marshlands. It occasionally inhabits delt</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/nile-crocodile-20260714.mp3" type="audio/mpeg" length="1232160"/>
