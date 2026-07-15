@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Anna Boleyn</title>
+      <description>Anna Boleyn (U.S. title: Deception) is a 1920 German historical film in six acts, directed by Ernst Lubitsch. It tells the story of the second marriage of King Henry VIII of England to Anne Boleyn, and stars Emil Jannings as Henry VIII and Henny Porten as Anne.
+The film was produced by Paul Davidson's Union Film, a subsidiary of the giant German company UFA. The film cost an estimated 8 million ma</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/anna-boleyn-20260715.mp3" type="audio/mpeg" length="1541280"/>
+      <guid isPermaLink="false">royal-anna-boleyn-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 04:13:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Entry</title>
       <description>The ceremonies and festivities accompanying a formal entry by a ruler or their representative into a city in the Middle Ages and early modern period in Europe were known as the royal entry, triumphal entry, or Joyous Entry. The entry centred on a procession carrying the entering ruler into the city, where they were greeted and paid appropriate homage by the civic authorities, followed by a feast a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-entry-20260714.mp3" type="audio/mpeg" length="1897920"/>
