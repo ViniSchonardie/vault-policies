@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gas Chamber</title>
+      <description>A gas chamber is an apparatus for killing humans or animals with gas, consisting of a sealed chamber into which a poisonous or asphyxiant gas is introduced. Poisonous agents used include hydrogen cyanide and carbon monoxide. High concentration carbon dioxide is typically used in gas chambers for animals.
+
+
+== History ==
+In America, the utilization of a gas chamber was first proposed by Allan McLan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/gas-chamber-20260715.mp3" type="audio/mpeg" length="1538880"/>
+      <guid isPermaLink="false">trials-gas-chamber-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 09:12:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Australian Embassy Bombing In Jakarta</title>
       <description>A one-tonne car bomb, which was packed into a small Daihatsu delivery van, exploded outside the Australian embassy at Kuningan District, South Jakarta, at about 10:30 local time (03:30 UTC) on 9 September 2004, killing nine people, including the suicide bomber, and wounding over 150 others. The explosion gutted the Greek embassy on the 12th floor of an adjacent building, where three diplomats were</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/australian-embassy-bombing-in-jakarta-20260714.mp3" type="audio/mpeg" length="1701600"/>
