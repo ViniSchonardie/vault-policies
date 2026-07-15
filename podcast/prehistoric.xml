@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Barosaurus</title>
+      <description>Barosaurus ( BARR-oh-SOR-əs) is an extinct genus of giant, long-tailed, long-necked, plant-eating sauropod dinosaur closely related to the more familiar Diplodocus. Definitive remains have been found in the Morrison Formation from the Upper Jurassic Period of South Dakota, Utah and Montana, with other possible remains also found in Colorado, eastern Wyoming and Oklahoma. The generic name, Barosaur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/barosaurus-20260715.mp3" type="audio/mpeg" length="1619040"/>
+      <guid isPermaLink="false">prehistoric-barosaurus-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 08:25:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Magyarosaurus</title>
       <description>Magyarosaurus ("Hungarian lizard") is a genus of dwarf sauropod dinosaur from late Cretaceous Period (early to late Maastrichtian) in today's Transylvania. It is one of the smallest-known adult sauropods, measuring less than 3 m (9.8 ft) long and weighing less than 1,000 kg (2,200 lb). The type and only species is Magyarosaurus dacus. It has been found to be a close relative of Rapetosaurus in the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/magyarosaurus-20260714.mp3" type="audio/mpeg" length="1725120"/>
