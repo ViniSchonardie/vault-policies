@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Monarch butterfly</title>
+      <description>The monarch butterfly or simply monarch (Danaus plexippus) is a milkweed butterfly (subfamily Danainae) in the family Nymphalidae. Other common names, depending on region, include milkweed, common tiger, wanderer, and black-veined brown. It is among the most familiar of North American butterflies and an iconic pollinator, although it is not an especially effective pollinator of milkweeds. Its wing</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/monarch-butterfly-20260715.mp3" type="audio/mpeg" length="1785600"/>
+      <guid isPermaLink="false">nature-monarch-butterfly-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 12:16:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sea otter</title>
       <description>The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean. Adult sea otters typically weigh between 14 and 45 kg (30–100 lb), making them the heaviest members of the weasel family, but among the smallest marine mammals. Unlike most marine mammals, the sea otter's primary form of insulation is an exceptionally thick coat of fur, the dense</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/sea-otter-20260715.mp3" type="audio/mpeg" length="2008320"/>
