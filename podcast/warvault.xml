@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Semaine sanglante</title>
+      <description>The semaine sanglante ("Bloody Week") was a weeklong battle in Paris from 21 to 28 May 1871, during which the French Army recaptured the city from the Communards. This was the final battle of the Paris Commune.
+Following the Treaty of Frankfurt and France's loss in the Franco-Prussian War, on 18 March the new French government under Prime Minister Adolphe Thiers attempted to remove a large number </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/semaine-sanglante-20260715.mp3" type="audio/mpeg" length="1890240"/>
+      <guid isPermaLink="false">warvault-semaine-sanglante-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 02:50:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Basra</title>
       <description>The siege of Basra, code-named Operation Karbala-5 or The Great Harvest (Arabic: الحصاد الأكبر), was an offensive operation carried out by Iran in an effort to capture the Iraqi port city of Basra in early 1987. This battle, known for its extensive casualties and ferocious conditions, was the biggest battle of the war and proved to be the last major Iranian offensive. The Iranians failed to reach </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-basra-20260714.mp3" type="audio/mpeg" length="1935360"/>
