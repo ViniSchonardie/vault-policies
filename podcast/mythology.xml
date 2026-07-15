@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Theseus</title>
+      <description>Theseus (UK: , US:  ; Ancient Greek: Θησεύς [tʰɛːsěu̯s]) was a divine hero in Greek mythology, famous for slaying the Minotaur. The myths surrounding Theseus, his journeys, exploits, and friends, have provided material for storytelling throughout the ages.
+Theseus is sometimes described as the son of Aegeus, king of Athens, and sometimes as the son of the god Poseidon. He is raised by his mother, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/theseus-20260715.mp3" type="audio/mpeg" length="1558080"/>
+      <guid isPermaLink="false">mythology-theseus-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hercules</title>
       <description>Hercules (, US: ) is the Roman equivalent of the Greek divine hero Heracles, son of Jupiter and the mortal Alcmena. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures.
 The Romans adapted the Greek hero's iconography and myths for their literature and art under the name Hercules. In later Western art and literature and in popular culture, Hercule</description>
