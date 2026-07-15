@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sack of Amorium</title>
+      <description>The siege of Amorium by the Abbasid Caliphate in mid-August 838 was one of the major events in the long history of the Arab–Byzantine Wars. The Abbasid campaign was led personally by the Caliph al-Mu'tasim (r. 833–842), in retaliation to a virtually unopposed expedition launched by the Byzantine emperor Theophilos (r. 829–842) into the Caliphate's borderlands the previous year. Mu'tasim targeted A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sack-of-amorium-20260715.mp3" type="audio/mpeg" length="1973760"/>
+      <guid isPermaLink="false">warvault-sack-of-amorium-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 10:07:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Semaine sanglante</title>
       <description>The semaine sanglante ("Bloody Week") was a weeklong battle in Paris from 21 to 28 May 1871, during which the French Army recaptured the city from the Communards. This was the final battle of the Paris Commune.
 Following the Treaty of Frankfurt and France's loss in the Franco-Prussian War, on 18 March the new French government under Prime Minister Adolphe Thiers attempted to remove a large number </description>
