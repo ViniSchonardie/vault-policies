@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Supersaurus</title>
+      <description>Supersaurus (meaning "super lizard") is a genus of diplodocid sauropod dinosaur that lived in North America during the Late Jurassic period. The type species, S. vivianae, was first discovered by Vivian Jones of Delta, Colorado, in the middle Morrison Formation of Colorado in 1972. The fossil remains came from the Brushy Basin Member of the formation, dating between 153 and 145 million years ago. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/supersaurus-20260715.mp3" type="audio/mpeg" length="1375680"/>
+      <guid isPermaLink="false">prehistoric-supersaurus-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 23:04:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ornithomimosauria</title>
       <description>Ornithomimosauria ("bird-mimic lizards") are theropod dinosaurs which bore a superficial resemblance to the modern-day ostrich. They were fast, omnivorous or herbivorous dinosaurs from the Cretaceous Period of Laurasia (now Asia, Europe and North America), as well as possibly Africa. The group first appeared in the Early Cretaceous and persisted until the Late Cretaceous. Primitive members of the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ornithomimosauria-20260715.mp3" type="audio/mpeg" length="1552320"/>
