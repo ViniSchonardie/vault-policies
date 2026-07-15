@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flick Trial</title>
+      <description>The United States of America vs. Friedrich Flick, et al. or Flick trial was the fifth of twelve Nazi war crimes trials held by United States authorities in their occupation zone in Germany (Nuremberg) after World War II. It was the first of three trials of leading industrialists of Nazi Germany; the two others were the IG Farben Trial and the Krupp Trial.
+These trials were all held before American</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/flick-trial-20260715.mp3" type="audio/mpeg" length="1838400"/>
+      <guid isPermaLink="false">trials-flick-trial-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 16:28:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gas Chamber</title>
       <description>A gas chamber is an apparatus for killing humans or animals with gas, consisting of a sealed chamber into which a poisonous or asphyxiant gas is introduced. Poisonous agents used include hydrogen cyanide and carbon monoxide. High concentration carbon dioxide is typically used in gas chambers for animals.
 
