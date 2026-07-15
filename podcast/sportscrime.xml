@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Essendon Football Club</title>
+      <description>The Essendon Football Club, nicknamed the Bombers or colloquially the Dons, is a professional Australian rules football club that plays in the Australian Football League (AFL), the game's premier competition. The club was formed by the McCracken family in their Ascot Vale home "Alisa" adopting the name of the local borough. While the exact date is unknown, it is generally accepted to have been in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/essendon-football-club-20260715.mp3" type="audio/mpeg" length="1390560"/>
+      <guid isPermaLink="false">sportscrime-essendon-football-club-20260715</guid>
+      <pubDate>Wed, 15 Jul 2026 20:56:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>O. J. Mayo</title>
       <description>Ovinton J'Anthony "O.J." Mayo (born November 5, 1987) is an American former professional basketball player who played for eight seasons in the National Basketball Association (NBA), most notably with the Memphis Grizzlies and Milwaukee Bucks. He currently works as an assistant coach for Liaoning Flying Leopards of the Chinese Basketball Association (CBA). Mayo played a single season of college bas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/o-j-mayo-20260715.mp3" type="audio/mpeg" length="1346880"/>
