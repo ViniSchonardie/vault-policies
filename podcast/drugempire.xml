@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Plain Dealer</title>
+      <description>The Plain Dealer is the primary newspaper of Cleveland, Ohio. In the fall of 2019, it ranked 23rd in U.S. newspaper circulation, a significant drop since March 2013, when its circulation ranked 17th daily and 15th on Sunday.
+As of May 2019, The Plain Dealer had 94,838 daily readers and 171,404 readers on Sunday. The Plain Dealer's media market, the Cleveland-Akron Designated Market Area, has a pop</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/the-plain-dealer-20260716.mp3" type="audio/mpeg" length="1844640"/>
+      <guid isPermaLink="false">drugempire-the-plain-dealer-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 05:43:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mexican Movement of 1968</title>
       <description>The Mexican Movement of 1968, also known as the Mexican Student Movement (Movimiento Estudiantil) was a social movement composed of a broad coalition of students from Mexico's leading universities that garnered widespread public support for political change in Mexico. A major factor in its emergence publicly was the Mexican government's lavish spending to build Olympic facilities for the 1968 Olym</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/mexican-movement-of-1968-20260715.mp3" type="audio/mpeg" length="1556160"/>
