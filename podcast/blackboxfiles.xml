@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Northern Airlines Flight 6136</title>
+      <description>China Northern Airlines Flight 6136 (CBF6136/CJ6136) was a Chinese domestic passenger flight from Beijing Capital International Airport to Dalian Zhoushuizi International Airport. On 7 May 2002, the McDonnell Douglas MD-80 operating the flight crashed into the bay near Dalian shortly after the pilot reported fire on board, killing all 103 passengers and 9 crew members. The cause of the fire was la</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-northern-airlines-flight-6136-20260716.mp3" type="audio/mpeg" length="1650240"/>
+      <guid isPermaLink="false">aviation-china-northern-airlines-flight-6136-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 07:28:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mandala Airlines Flight 091</title>
       <description>Mandala Airlines Flight 091 (RI091/MDL091) was a scheduled domestic passenger flight from Medan to Jakarta, operated by Mandala Airlines with a Boeing 737-200Adv. On September 5, 2005 at 10:15 a.m. WIB (UTC+7), the aircraft stalled and crashed into a heavily populated residential area seconds after taking off from Polonia International Airport. Of the 117 passengers and crews on board, only 17 sur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/mandala-airlines-flight-091-20260715.mp3" type="audio/mpeg" length="1788000"/>
