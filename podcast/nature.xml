@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>American alligator</title>
+      <description>The American alligator (Alligator mississippiensis), sometimes referred to as a common alligator or just gator, is a large crocodilian reptile native to the Southeastern United States. It is one of the two extant species in the genus Alligator, and is larger than the only other living alligator species, the Chinese alligator.
+Adult male American alligators measure 3.4 to 4.8 m (11.2 to 15.7 ft) in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/american-alligator-20260716.mp3" type="audio/mpeg" length="1485120"/>
+      <guid isPermaLink="false">nature-american-alligator-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 05:43:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nematode</title>
       <description>The nematodes (  NEM-ə-tohdz or NEEM-; Ancient Greek: Νηματώδη; Latin: Nematoda), roundworms or eelworms constitute the phylum Nematoda. Species in the phylum inhabit a broad range of environments. Most species are free-living, feeding on microorganisms, but many are parasitic. Parasitic worms (helminths) are the cause of soil-transmitted helminthiases.
 They are classified along with arthropods, t</description>
