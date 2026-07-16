@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Amanda Young</title>
+      <description>Amanda Young is a fictional character created by James Wan and Leigh Whannell and is one of the antagonists in the Saw franchise. She first appeared in Saw (2004), portrayed by Shawnee Smith, as a victim of one of serial killer Jigsaw's traps. Amanda's role was expanded in subsequent films, where she served as an apprentice to Jigsaw, with the goal of succeeding him after his death. Amanda has phy</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/amanda-young-20260716.mp3" type="audio/mpeg" length="1402560"/>
+      <guid isPermaLink="false">crime-amanda-young-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 18:14:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Bodkin Adams</title>
       <description>John Bodkin Adams was a British general practitioner, convicted fraudster, and suspected serial killer. Between 1946 and 1956, 163 of his patients died while in comas, which was deemed to be worthy of investigation. In addition, 132 out of 310 patients had left Adams money or items in their wills.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-bodkin-adams-20260716.mp3" type="audio/mpeg" length="1913280"/>
