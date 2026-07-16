@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Braathens SAFE Flight 239</title>
+      <description>Braathen SAFE Flight 239, also known as the Asker Accident (Norwegian: Asker-ulykken), was a controlled flight into terrain of a Fokker F28 Fellowship into Vestmarka in Asker, Norway, on 23 December 1972 at 16:33. The Braathens SAFE aircraft was en route on a scheduled flight from Ålesund Airport, Vigra and crashed during approach to Oslo Airport, Fornebu. Forty of the forty-five people on board t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/braathens-safe-flight-239-20260716.mp3" type="audio/mpeg" length="1802400"/>
+      <guid isPermaLink="false">aviation-braathens-safe-flight-239-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 15:12:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Northern Airlines Flight 6136</title>
       <description>China Northern Airlines Flight 6136 (CBF6136/CJ6136) was a Chinese domestic passenger flight from Beijing Capital International Airport to Dalian Zhoushuizi International Airport. On 7 May 2002, the McDonnell Douglas MD-80 operating the flight crashed into the bay near Dalian shortly after the pilot reported fire on board, killing all 103 passengers and 9 crew members. The cause of the fire was la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-northern-airlines-flight-6136-20260716.mp3" type="audio/mpeg" length="1650240"/>
