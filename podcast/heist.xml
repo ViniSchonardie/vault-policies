@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Soapy Smith</title>
+      <description>Jefferson Randolph "Soapy" Smith II (November 2, 1860 – July 8, 1898) was an American con artist and gangster in the American frontier and the Klondike.
+Smith operated confidence schemes across the Western United States, and had a large hand in organized criminal operations in both Colorado and the District of Alaska. Smith gained notoriety through his "prize soap racket," in which he would sell b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/soapy-smith-20260716.mp3" type="audio/mpeg" length="1647840"/>
+      <guid isPermaLink="false">heist-soapy-smith-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 21:13:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bank robbery</title>
       <description>Bank robbery is the criminal act of stealing from a bank, specifically while bank employees and customers are subjected to force, violence, or a threat of violence. This refers to robbery of a bank branch or teller, as opposed to other bank-owned property, such as a train, armored car, or (historically) stagecoach. It is a federal crime in the United States.
 According to the Federal Bureau of Inve</description>
