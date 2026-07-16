@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Corporate Airlines Flight 5966</title>
+      <description>Corporate Airlines Flight 5966 was a scheduled passenger flight from St. Louis to Kirksville, Missouri, United States. On October 19, 2004, the British Aerospace Jetstream 32 aircraft operating the flight crashed on approach to Kirksville Regional Airport as a result of pilot error, killing 13 of the 15 people aboard.
+
+
+== Flight information ==
+Flight 5966 was a flight route from St. Louis Lambert</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/corporate-airlines-flight-5966-20260716.mp3" type="audio/mpeg" length="1720320"/>
+      <guid isPermaLink="false">aviation-corporate-airlines-flight-5966-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 22:03:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Braathens SAFE Flight 239</title>
       <description>Braathen SAFE Flight 239, also known as the Asker Accident (Norwegian: Asker-ulykken), was a controlled flight into terrain of a Fokker F28 Fellowship into Vestmarka in Asker, Norway, on 23 December 1972 at 16:33. The Braathens SAFE aircraft was en route on a scheduled flight from Ålesund Airport, Vigra and crashed during approach to Oslo Airport, Fornebu. Forty of the forty-five people on board t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/braathens-safe-flight-239-20260716.mp3" type="audio/mpeg" length="1802400"/>
