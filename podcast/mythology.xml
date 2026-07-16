@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Brahma</title>
+      <description>Brahma (Sanskrit: ब्रह्मा, IAST: Brahmā) is a Hindu god, referred to as "the Creator" within the Trimurti, the trinity of supreme divinity that includes Vishnu and Shiva. He is associated with creation of everything, knowledge, and the Vedas. Brahma is prominently mentioned in creation legends. In some Puranas, he created himself in a golden embryo known as the Hiranyagarbha.
+Brahma is frequently </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/brahma-20260716.mp3" type="audio/mpeg" length="1156800"/>
+      <guid isPermaLink="false">mythology-brahma-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 19:08:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thoth</title>
       <description>Thoth (from Koine Greek: Θώθ Thṓth, borrowed from Coptic: Ⲑⲱⲟⲩⲧ Thōout, Ancient Egyptian: Ḏḥwtj, the reflex of ḏḥwtj "[he] is like the ibis") is an ancient Egyptian deity. In art, he was often depicted as a man with the head of an ibis or a baboon, animals sacred to him. His feminine counterpart is Seshat, and his wife is Ma'at. He is the god of the Moon, wisdom, knowledge, writing, hieroglyphs, s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/thoth-20260716.mp3" type="audio/mpeg" length="1597920"/>
