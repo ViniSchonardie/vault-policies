@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Alioramus</title>
+      <description>Alioramus (; meaning 'different branch') is a genus of tyrannosaurid theropod dinosaurs from the Late Cretaceous period of Asia. It currently contains two species. The type species, A. remotus is known from a partial skull and three foot bones recovered from the Mongolian Nemegt Formation, which was deposited in a humid floodplain. These remains were named and described by Soviet paleontologist Se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/alioramus-20260716.mp3" type="audio/mpeg" length="1539840"/>
+      <guid isPermaLink="false">prehistoric-alioramus-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 08:25:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Supersaurus</title>
       <description>Supersaurus (meaning "super lizard") is a genus of diplodocid sauropod dinosaur that lived in North America during the Late Jurassic period. The type species, S. vivianae, was first discovered by Vivian Jones of Delta, Colorado, in the middle Morrison Formation of Colorado in 1972. The fossil remains came from the Brushy Basin Member of the formation, dating between 153 and 145 million years ago. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/supersaurus-20260715.mp3" type="audio/mpeg" length="1375680"/>
