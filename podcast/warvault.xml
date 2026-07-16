@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Chinese Farm</title>
+      <description>The Battle of the Chinese Farm took place during October 15 to October 17, 1973 between the Egyptian Army and the Israel Defense Forces (IDF), as part of the Yom Kippur War. It was fought in the Sinai Peninsula, north of the Great Bitter Lake and just east of the Suez Canal, near an Egyptian agricultural research station. The area was known to the Israeli military as the Chinese Farm – a misnomer </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-chinese-farm-20260716.mp3" type="audio/mpeg" length="1924800"/>
+      <guid isPermaLink="false">warvault-battle-of-the-chinese-farm-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 17:12:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Abensberg</title>
       <description>The Battle of Abensberg took place on 20 April 1809 between a Franco-German force under the command of Emperor Napoleon I of France and a reinforced Austrian corps led by Feldmarschall-Leutnant Archduke Louis of Austria. As the day wore on, Feldmarschall-Leutnant Johann von Hiller arrived with reinforcements to take command of the three corps that formed the Austrian left wing. The action ended in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-abensberg-20260716.mp3" type="audio/mpeg" length="1824000"/>
