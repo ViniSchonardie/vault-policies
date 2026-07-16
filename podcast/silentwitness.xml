@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hilsner Affair</title>
+      <description>The Hilsner affair (also known as the Hilsner trial, Hilsner case or Polná affair) was a series of antisemitic trials following an accusation against Leopold Hilsner, a Jewish inhabitant of the town of Polná in Bohemia, Austria-Hungary in 1899 and 1900. The affair, an instance of blood libel, achieved widespread media publicity at the time, and Tomáš Garrigue Masaryk, then professor at Charles Uni</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hilsner-affair-20260716.mp3" type="audio/mpeg" length="1969920"/>
+      <guid isPermaLink="false">trials-hilsner-affair-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 16:23:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination Of Anwar Sadat</title>
       <description>On 6 October 1981, Anwar Sadat, the president of Egypt, was assassinated during the annual victory parade held in Cairo to celebrate the victory over Israel in the Yom Kippur War, during which the Egyptian Army had crossed the Suez Canal at the beginning of the war. The assassination was undertaken by members of the Egyptian Islamic Jihad. Although the motive has been debated, Sadat's assassinatio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-anwar-sadat-20260716.mp3" type="audio/mpeg" length="1427040"/>
