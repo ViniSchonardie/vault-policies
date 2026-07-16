@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Prairie Grove</title>
+      <description>The Battle of Prairie Grove was a battle of the American Civil War fought on December 7, 1862. While tactically indecisive, the battle secured the Union control of northwestern Arkansas.
+A division of Union troops in the Army of the Frontier, commanded by James G. Blunt, was posted in northwestern Arkansas after winning the Battle of Cane Hill on November 28. The First Corps, Trans-Mississippi Arm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-prairie-grove-20260716.mp3" type="audio/mpeg" length="1785600"/>
+      <guid isPermaLink="false">warvault-battle-of-prairie-grove-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 02:57:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of San Pasqual</title>
       <description>The Battle of San Pasqual, also spelled San Pascual, was a military encounter that occurred during the Mexican–American War in what is now the San Pasqual Valley community in the county of San Diego, California. The series of military skirmishes ended with both sides claiming victory, and the victor of the battle is still debated. On December 6 and 7, 1846, General Stephen W. Kearny's US Army of t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-san-pasqual-20260715.mp3" type="audio/mpeg" length="1889280"/>
