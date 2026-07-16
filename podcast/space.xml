@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-D</title>
+      <description>STS-51-D was the 16th flight of NASA's Space Shuttle program, and the fourth flight of Space Shuttle Discovery. The launch of STS-51-D from Kennedy Space Center (KSC), Florida, on April 12, 1985, was delayed by 55 minutes, after a boat strayed into the restricted Solid Rocket Booster (SRB) recovery zone. STS-51-D was the third shuttle mission to be extended.
+On April 19, 1985, after a week-long fl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-d-20260716.mp3" type="audio/mpeg" length="1572000"/>
+      <guid isPermaLink="false">space-sts-51-d-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 08:07:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Skylab Rescue</title>
       <description>The Skylab Rescue Mission (also SL-R) was an unflown rescue mission, planned as a contingency in the event of astronauts being stranded aboard the American Skylab space station. If flown, it would have used a modified Apollo Command Module that could be launched with a crew of two and return a crew of five.
 Astronauts Vance Brand and Don Lind were assigned as the rescue crew, in the event of the m</description>
