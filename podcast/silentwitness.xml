@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assassination Of Anwar Sadat</title>
+      <description>On 6 October 1981, Anwar Sadat, the president of Egypt, was assassinated during the annual victory parade held in Cairo to celebrate the victory over Israel in the Yom Kippur War, during which the Egyptian Army had crossed the Suez Canal at the beginning of the war. The assassination was undertaken by members of the Egyptian Islamic Jihad. Although the motive has been debated, Sadat's assassinatio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/assassination-of-anwar-sadat-20260716.mp3" type="audio/mpeg" length="1427040"/>
+      <guid isPermaLink="false">trials-assassination-of-anwar-sadat-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 09:15:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Murder Of Alison Shaughnessy</title>
       <description>On 3 June 1991, 21-year-old Alison Shaughnessy (née Blackmore; born 7 November 1969) was stabbed to death in the stairwell of her flat near Clapham Junction station. Shaughnessy was newly married, but her husband was having an affair with a 20-year-old woman, Michelle Taylor. A witness reported seeing two women running from Shaughnessy's building after the murder, and fingerprints found at the sce</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-of-alison-shaughnessy-20260715.mp3" type="audio/mpeg" length="1754400"/>
