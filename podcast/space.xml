@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-49</title>
+      <description>STS-49 was NASA's maiden flight of the Space Shuttle Endeavour, which launched on May 7, 1992. The primary goal of its nine-day mission was to retrieve an Intelsat VI satellite, Intelsat 603, which failed to leave Low Earth orbit two years before, attach it to a new upper stage, and relaunch it to its intended geosynchronous orbit. After several attempts, the capture was completed with the only th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-49-20260716.mp3" type="audio/mpeg" length="1611360"/>
+      <guid isPermaLink="false">space-sts-49-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 15:44:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51-D</title>
       <description>STS-51-D was the 16th flight of NASA's Space Shuttle program, and the fourth flight of Space Shuttle Discovery. The launch of STS-51-D from Kennedy Space Center (KSC), Florida, on April 12, 1985, was delayed by 55 minutes, after a boat strayed into the restricted Solid Rocket Booster (SRB) recovery zone. STS-51-D was the third shuttle mission to be extended.
 On April 19, 1985, after a week-long fl</description>
