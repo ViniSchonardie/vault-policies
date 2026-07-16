@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shawne Merriman</title>
+      <description>Shawne DeAndre Merriman (born May 25, 1984), nicknamed "Lights Out", is an American former professional football player who was a linebacker in the National Football League (NFL). He played college football for the Maryland Terrapins and was selected 12th overall by the San Diego Chargers in the 2005 NFL draft. He earned NFL Defensive Rookie of the Year honors in his first season and recorded 39+1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/shawne-merriman-20260716.mp3" type="audio/mpeg" length="1469760"/>
+      <guid isPermaLink="false">sportscrime-shawne-merriman-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 14:15:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Malik Monk</title>
       <description>Malik Ahmad Monk (born February 4, 1998) is an American professional basketball player for the Sacramento Kings of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, earning consensus second-team All-American honors in 2017. Monk was selected in the first round of the 2017 NBA draft by the Charlotte Hornets with the 11th overall pick. H</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/malik-monk-20260716.mp3" type="audio/mpeg" length="1776960"/>
