@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Queen Consort</title>
+      <description>A queen consort  is the wife of a reigning king, and usually shares her spouse's social rank and status. She holds the feminine equivalent of the king's monarchical titles and may be crowned and anointed, but historically she does not formally share the king's political and military powers, unless on occasion acting as regent.  In polygynous societies, a (male) monarch has a principal or senior wi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/queen-consort-20260716.mp3" type="audio/mpeg" length="1504320"/>
+      <guid isPermaLink="false">royal-queen-consort-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 11:00:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Royal Forest</title>
       <description>A royal forest, occasionally known as a kingswood (Latin: silva regis), is an area of land with different definitions in England, Wales, Scotland and Ireland. The term forest in the ordinary modern understanding refers to an area of wooded land; however, the original medieval sense was closer to the modern idea of a "preserve" – i.e. land legally set aside for specific purposes such as royal hunti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-forest-20260716.mp3" type="audio/mpeg" length="1728960"/>
