@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Abensberg</title>
+      <description>The Battle of Abensberg took place on 20 April 1809 between a Franco-German force under the command of Emperor Napoleon I of France and a reinforced Austrian corps led by Feldmarschall-Leutnant Archduke Louis of Austria. As the day wore on, Feldmarschall-Leutnant Johann von Hiller arrived with reinforcements to take command of the three corps that formed the Austrian left wing. The action ended in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-abensberg-20260716.mp3" type="audio/mpeg" length="1824000"/>
+      <guid isPermaLink="false">warvault-battle-of-abensberg-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 10:15:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Prairie Grove</title>
       <description>The Battle of Prairie Grove was a battle of the American Civil War fought on December 7, 1862. While tactically indecisive, the battle secured the Union control of northwestern Arkansas.
 A division of Union troops in the Army of the Frontier, commanded by James G. Blunt, was posted in northwestern Arkansas after winning the Battle of Cane Hill on November 28. The First Corps, Trans-Mississippi Arm</description>
