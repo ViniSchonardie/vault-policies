@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Harvey Logan</title>
+      <description>Harvey Alexander Logan (1867 – June 17, 1904), also known as Kid Curry, was an American outlaw and gunman who rode with Butch Cassidy and the Sundance Kid's infamous Wild Bunch gang during the late 19th and early 20th centuries. Despite being less well-known than his fellow gang members, he has since been referred to as "the wildest of the Wild Bunch", having reputedly killed at least nine law enf</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/harvey-logan-20260716.mp3" type="audio/mpeg" length="1734720"/>
+      <guid isPermaLink="false">heist-harvey-logan-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 06:29:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Miscarriage of justice</title>
       <description>A miscarriage of justice occurs when an unfair outcome occurs in a criminal or civil proceeding. Examples of miscarriage of justice include conviction of an innocent person, error of impunity, sentencing disparity, and delayed justice. 
 Innocent people have sometimes ended up in prison for years before their conviction has eventually been overturned. They may be exonerated if new evidence comes to</description>
