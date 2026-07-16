@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1872 North Cascades earthquake</title>
+      <description>The 1872 North Cascades earthquake occurred at 9:40 p.m. local time on December 14 in central Washington Territory (now Washington state). A maximum Mercalli intensity of VIII (Severe) was assessed for several locations, though less intense shaking was observed at many other locations in Washington, Oregon, and British Columbia. Some of these intermediate outlying areas reported V (Moderate) to VI</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1872-north-cascades-earthquake-20260716.mp3" type="audio/mpeg" length="1511040"/>
+      <guid isPermaLink="false">history-1872-north-cascades-earthquake-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 15:43:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2000 Tottori earthquake</title>
       <description>The 2000 Tottori earthquake (Japanese: 鳥取県西部地震) occurred on 6 October 2000, at 13:30:20 local time with a moment magnitude of 6.7 and a maximum Mercalli intensity of X (Extreme). The epicenter was located in Nambu, near the border with Yasugi, Shimane. About $150 million in damage was caused, with 109,095 homes damaged or destroyed, and at least 182 people were injured.
 
