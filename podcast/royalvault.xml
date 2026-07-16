@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Royal Forest</title>
+      <description>A royal forest, occasionally known as a kingswood (Latin: silva regis), is an area of land with different definitions in England, Wales, Scotland and Ireland. The term forest in the ordinary modern understanding refers to an area of wooded land; however, the original medieval sense was closer to the modern idea of a "preserve" – i.e. land legally set aside for specific purposes such as royal hunti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-forest-20260716.mp3" type="audio/mpeg" length="1728960"/>
+      <guid isPermaLink="false">royal-royal-forest-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 04:18:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Counter Reformation</title>
       <description>The Counter-Reformation (Latin: Contrareformatio), also sometimes called the Catholic Revival or the Catholic Reformation, was the period of Catholic resurgence that was initiated in response to and as an alternative to, or from similar insights as, the Protestant Reformation. It was a comprehensive effort arising from the decrees of the Council of Trent.
 As a political-historical period, it is fr</description>
