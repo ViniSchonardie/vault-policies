@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ichthyosaurus</title>
+      <description>Ichthyosaurus (derived from Greek ἰχθύς (ichthys) meaning 'fish' and σαῦρος (sauros) meaning 'lizard') is an extinct genus of ichthyosaurs from the Early Jurassic (Hettangian - Pliensbachian) of Europe (Belgium, England, Germany and Portugal). Some specimens of the ichthyosaurid Protoichthyosaurus from England and Switzerland have been erroneously referred to this genus in the past. It is among th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ichthyosaurus-20260716.mp3" type="audio/mpeg" length="1624800"/>
+      <guid isPermaLink="false">prehistoric-ichthyosaurus-20260716</guid>
+      <pubDate>Thu, 16 Jul 2026 15:34:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alioramus</title>
       <description>Alioramus (; meaning 'different branch') is a genus of tyrannosaurid theropod dinosaurs from the Late Cretaceous period of Asia. It currently contains two species. The type species, A. remotus is known from a partial skull and three foot bones recovered from the Mongolian Nemegt Formation, which was deposited in a humid floodplain. These remains were named and described by Soviet paleontologist Se</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/alioramus-20260716.mp3" type="audio/mpeg" length="1539840"/>
