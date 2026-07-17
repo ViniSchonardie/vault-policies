@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Westley Allan Dodd</title>
+      <description>Westley Allan Dodd was an American convicted serial killer and sex offender who sexually assaulted and murdered three young boys in Vancouver, Washington, in 1989. He was arrested later that year after a failed attempt to abduct a six-year-old boy at a movie theatre in Camas, Washington.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/westley-allan-dodd-20260717.mp3" type="audio/mpeg" length="1626720"/>
+      <guid isPermaLink="false">crime-westley-allan-dodd-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 04:19:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amanda Young</title>
       <description>Amanda Young is a fictional character created by James Wan and Leigh Whannell and is one of the antagonists in the Saw franchise. She first appeared in Saw (2004), portrayed by Shawnee Smith, as a victim of one of serial killer Jigsaw's traps. Amanda's role was expanded in subsequent films, where she served as an apprentice to Jigsaw, with the goal of succeeding him after his death. Amanda has phy</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/amanda-young-20260716.mp3" type="audio/mpeg" length="1402560"/>
