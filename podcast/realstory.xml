@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>August Horch</title>
+      <description>August Horch (12 October 1868 – 3 February 1951) was a German engineer and automobile pioneer, the founder of the manufacturing giant that eventually became Audi.
+
+
+== Beginnings ==
+
+Horch was born in Winningen, Rhenish Prussia.  His initial trade was as a blacksmith, and then was educated at Hochschule Mittweida (Mittweida Technical College).  After receiving a degree in engineering, he worked in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/august-horch-20260717.mp3" type="audio/mpeg" length="1474080"/>
+      <guid isPermaLink="false">realstory-august-horch-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 09:10:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hans Geiger</title>
       <description>Johannes "Hans" Wilhelm Geiger (30 September 1882 – 24 September 1945) was a German experimental physicist. He is known  as the inventor of the Geiger counter, a device used to detect ionizing radiation, and for carrying out the Rutherford scattering experiments, which led to the discovery of the atomic nucleus. He also performed the Bothe–Geiger coincidence experiment, which confirmed the conserv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hans-geiger-20260716.mp3" type="audio/mpeg" length="1551360"/>
