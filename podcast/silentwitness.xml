@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Socrates On Trial</title>
+      <description>Socrates on Trial is a play depicting the life and death of the ancient Greek philosopher Socrates. It tells the story of how Socrates was put on trial for corrupting the youth of Athens and for failing to honour the city's gods. The play contains adaptations of several classic Greek works: the slapstick comedy, Clouds, written by Aristophanes and first performed in 423 BCE; the dramatic monologue</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-on-trial-20260717.mp3" type="audio/mpeg" length="1728480"/>
+      <guid isPermaLink="false">trials-socrates-on-trial-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 23:49:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Herodes Atticus</title>
       <description>Herodes Atticus (Ancient Greek: Ἡρώδης; AD 101–177) was an  Athenian rhetorician, as well as a Roman senator. A great philanthropic magnate, he and his wife Appia Annia Regilla, for whose murder he was potentially responsible, commissioned many Athenian public works, several of which stand to the present day. He was one of the best-known figures of the Antonine Period, and taught rhetoric to the R</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/herodes-atticus-20260717.mp3" type="audio/mpeg" length="1598400"/>
