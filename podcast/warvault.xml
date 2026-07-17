@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Tripolitsa</title>
+      <description>The siege of Tripolitsa or fall of Tripolitsa (Greek: Άλωση της Τριπολιτσάς, romanized: Álosi tis Tripolitsás, Greek pronunciation: [ˈalosi tis tripoliˈt͡sas]), also known as the Tripolitsa massacre (Turkish: Tripoliçe katliamı), was an early victory of the revolutionary Greek forces in the summer of 1821 during the Greek War of Independence, which had begun earlier that year, against the Ottoman </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tripolitsa-20260717.mp3" type="audio/mpeg" length="1596480"/>
+      <guid isPermaLink="false">warvault-siege-of-tripolitsa-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 02:58:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of the Chinese Farm</title>
       <description>The Battle of the Chinese Farm took place during October 15 to October 17, 1973 between the Egyptian Army and the Israel Defense Forces (IDF), as part of the Yom Kippur War. It was fought in the Sinai Peninsula, north of the Great Bitter Lake and just east of the Suez Canal, near an Egyptian agricultural research station. The area was known to the Israeli military as the Chinese Farm – a misnomer </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-chinese-farm-20260716.mp3" type="audio/mpeg" length="1924800"/>
