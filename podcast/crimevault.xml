@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bible John</title>
+      <description>Bible John is the moniker given to an unidentified serial killer who is believed to have murdered three young women in Glasgow, Scotland, between 1968 and 1969.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/bible-john-20260717.mp3" type="audio/mpeg" length="1698720"/>
+      <guid isPermaLink="false">crime-bible-john-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 18:13:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stephen Flemmi</title>
       <description>Stephen Joseph Flemmi is an American former mobster and convicted murderer and was a close associate of Winter Hill Gang boss Whitey Bulger. Beginning in 1975, Flemmi was a top echelon informant for the Federal Bureau of Investigation (FBI).</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stephen-flemmi-20260717.mp3" type="audio/mpeg" length="1620000"/>
