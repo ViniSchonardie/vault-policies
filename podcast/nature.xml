@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Stingray</title>
+      <description>Stingrays are a group of rays, a type of cartilaginous fish. They are classified in the suborder Myliobatoidei of the order Myliobatiformes and consist of eleven families:  Hexatrygonidae (sixgill stingrays), Gymnuridae (butterfly rays), Plesiobatidae (deepwater stingrays), Urolophidae (round stingrays), Myliobatidae (eagle rays), Aetobatidae (pelagic eagle rays), Mobulidae (manta and devil rays),</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stingray-20260717.mp3" type="audio/mpeg" length="1550880"/>
+      <guid isPermaLink="false">nature-stingray-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 20:05:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tiger shark</title>
       <description>The tiger shark (Galeocerdo cuvier) is a species of ground shark, and the only extant member of the genus Galeocerdo and family Galeocerdonidae. It is a large predator, with females capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands. Its name derives from the dark stripes down its body, whic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/tiger-shark-20260717.mp3" type="audio/mpeg" length="1632000"/>
