@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gharial</title>
+      <description>The gharial (Gavialis gangeticus), also known as gavial or fish-eating crocodile, is a crocodilian in the family Gavialidae and among the longest of all living crocodilians. Mature females are 2.6 to 4.5 m (8 ft 6 in to 14 ft 9 in) long, and males 3 to 6 m (9 ft 10 in to 19 ft 8 in). Adult males have a distinct boss at the end of the snout, which resembles an earthenware pot known as a ghara, henc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gharial-20260717.mp3" type="audio/mpeg" length="1704480"/>
+      <guid isPermaLink="false">nature-gharial-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 05:45:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cone snail</title>
       <description>Cone snails, or cones, are highly venomous sea snails that constitute the family Conidae. Conidae is a taxonomic family (previously subfamily) of predatory marine gastropod molluscs in the superfamily Conoidea. 
 As of 2014, cone snails are the only member of the superfamily Conoidea. Some previous classifications grouped the cone snails in a subfamily, Coninae. As of March 2015 Conidae contained o</description>
