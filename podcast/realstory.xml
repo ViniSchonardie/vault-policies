@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nicolas Appert</title>
+      <description>Nicolas Appert (17 November 1749 – 1 June 1841) was a French confectioner and inventor who, in the early 19th century, invented airtight food preservation. Appert, known as the "father of food science", described his invention as a way "of conserving all kinds of food substances in containers".
+
+
+== Early life ==
+Appert was born in Châlons-en-Champagne, the ninth of eleven children. His family ran</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/nicolas-appert-20260717.mp3" type="audio/mpeg" length="1715040"/>
+      <guid isPermaLink="false">realstory-nicolas-appert-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 16:14:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>August Horch</title>
       <description>August Horch (12 October 1868 – 3 February 1951) was a German engineer and automobile pioneer, the founder of the manufacturing giant that eventually became Audi.
 
