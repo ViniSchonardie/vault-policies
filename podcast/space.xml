@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-I</title>
+      <description>STS-51-I was the 20th mission of NASA's Space Shuttle program and the sixth flight of Space Shuttle Discovery. During the mission, Discovery deployed three communications satellites into orbit. The mission launched from Kennedy Space Center, Florida, on August 27, 1985, and landed at Edwards Air Force Base, California, on September 3, 1985.
+
+
+== Crew ==
+
+
+=== Spacewalks ===
+EVA 1
+Personnel: Fisher</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-i-20260717.mp3" type="audio/mpeg" length="1608480"/>
+      <guid isPermaLink="false">space-sts-51-i-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 22:55:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-71</title>
       <description>STS-71 was a crewed spaceflight that was the third mission of the US/Russian Shuttle-Mir Program. The mission began on June 27, 1995, with the launch of Space Shuttle Atlantis from launchpad 39A at the Kennedy Space Center in Florida. Atlantis became the first Space Shuttle to dock with the Russian space station Mir, delivering a relief crew of two cosmonauts Anatoly Solovyev and Nikolai Budarin t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-71-20260717.mp3" type="audio/mpeg" length="1784160"/>
