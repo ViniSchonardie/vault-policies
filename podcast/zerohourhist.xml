@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2010 Eureka earthquake</title>
+      <description>The 2010 Eureka earthquake occurred on January 9 at 4:27:38 pm PST offshore of Humboldt County, California, United States. The magnitude was measured 6.5 on the Mw scale, and its epicenter was located offshore in the Pacific Ocean 33 miles (53 km) west of the nearest major city, Eureka, California. Additionally, there was a separate earthquake further offshore of Eureka on February 4 with a slight</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2010-eureka-earthquake-20260717.mp3" type="audio/mpeg" length="1566240"/>
+      <guid isPermaLink="false">history-2010-eureka-earthquake-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 15:17:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1986 Kalamata earthquake</title>
       <description>The 1986 Kalamata earthquake struck the southern Peloponnese Region of Greece on September 13 at 20:24 local time. The 12.5 km (7.8 mi) deep moment magnitude (Mw) 5.9 earthquake had an epicenter near the coastal city of Kalamata and was assigned X (Extreme) on the Mercalli intensity scale. The earthquake was the result of normal faulting along a northwest-dipping fault and produced surface rupture</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1986-kalamata-earthquake-20260717.mp3" type="audio/mpeg" length="1884960"/>
