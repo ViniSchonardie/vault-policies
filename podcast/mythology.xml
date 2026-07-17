@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cerberus</title>
+      <description>In Greek mythology, Cerberus (  or ; Ancient Greek: Κέρβερος Kérberos [ˈkerberos]), often referred to as the hound of Hades, is a multi-headed dog that guards the gates of the underworld to prevent the dead from leaving. He was the offspring of the monsters Echidna and Typhon, and was usually described as having three heads, a serpent for a tail, and snakes protruding from his body. Cerberus is pr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cerberus-20260717.mp3" type="audio/mpeg" length="1652160"/>
+      <guid isPermaLink="false">mythology-cerberus-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 05:23:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brahma</title>
       <description>Brahma (Sanskrit: ब्रह्मा, IAST: Brahmā) is a Hindu god, referred to as "the Creator" within the Trimurti, the trinity of supreme divinity that includes Vishnu and Shiva. He is associated with creation of everything, knowledge, and the Vedas. Brahma is prominently mentioned in creation legends. In some Puranas, he created himself in a golden embryo known as the Hiranyagarbha.
 Brahma is frequently </description>
