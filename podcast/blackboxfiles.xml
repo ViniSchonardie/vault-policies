@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Saudia Flight 162</title>
+      <description>Saudia Flight 162 was a scheduled flight from Jeddah, Saudi Arabia, to Karachi, Pakistan with a stopover in Dhahran, Saudi Arabia. On 23 December 1980, the Lockheed L-1011 TriStar suffered a high-altitude uncontrolled decompression above international waters off Qatar, killing two children who were among the 271 passengers.
+This was the second accident involving a Saudia TriStar in four months aft</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/saudia-flight-162-20260717.mp3" type="audio/mpeg" length="1763040"/>
+      <guid isPermaLink="false">aviation-saudia-flight-162-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 14:52:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bhoja Air Flight 213</title>
       <description>Bhoja Air Flight 213 was a domestic scheduled passenger flight operated by Pakistani private airline Bhoja Air from Karachi to Islamabad. On 20 April 2012, the Boeing 737-236A aircraft serving the route crashed in bad weather during the final approach, killing all 121 passengers and 6 crew on board. It remains the second deadliest air disaster in Pakistan, after the 2010 crash of Airblue Flight 20</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/bhoja-air-flight-213-20260717.mp3" type="audio/mpeg" length="1763040"/>
