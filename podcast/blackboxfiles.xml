@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1979 Dniprodzerzhynsk mid-air collision</title>
+      <description>On 11 August 1979, a mid-air collision occurred over the Ukrainian SSR, near the city of Dniprodzerzhynsk (now Kamianske). The aircraft involved were both Tupolev Tu-134As on scheduled domestic passenger flights, operated by Aeroflot. All 178 people aboard both aircraft died in the accident.
+The official Soviet aviation board investigation of the accident concluded that the crash was caused by "mi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1979-dniprodzerzhynsk-mid-air-collision-20260717.mp3" type="audio/mpeg" length="1888320"/>
+      <guid isPermaLink="false">aviation-1979-dniprodzerzhynsk-mid-air-collision-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 21:45:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saudia Flight 162</title>
       <description>Saudia Flight 162 was a scheduled flight from Jeddah, Saudi Arabia, to Karachi, Pakistan with a stopover in Dhahran, Saudi Arabia. On 23 December 1980, the Lockheed L-1011 TriStar suffered a high-altitude uncontrolled decompression above international waters off Qatar, killing two children who were among the 271 passengers.
 This was the second accident involving a Saudia TriStar in four months aft</description>
