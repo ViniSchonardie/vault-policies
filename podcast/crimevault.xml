@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stephen Flemmi</title>
+      <description>Stephen Joseph Flemmi is an American former mobster and convicted murderer and was a close associate of Winter Hill Gang boss Whitey Bulger. Beginning in 1975, Flemmi was a top echelon informant for the Federal Bureau of Investigation (FBI).</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stephen-flemmi-20260717.mp3" type="audio/mpeg" length="1620000"/>
+      <guid isPermaLink="false">crime-stephen-flemmi-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 10:36:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Westley Allan Dodd</title>
       <description>Westley Allan Dodd was an American convicted serial killer and sex offender who sexually assaulted and murdered three young boys in Vancouver, Washington, in 1989. He was arrested later that year after a failed attempt to abduct a six-year-old boy at a movie theatre in Camas, Washington.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/westley-allan-dodd-20260717.mp3" type="audio/mpeg" length="1626720"/>
