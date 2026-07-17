@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>First Battle of Gaza</title>
+      <description>The First Battle of Gaza was fought on 26 March 1917 during the first attempt by the Egyptian Expeditionary Force (EEF), which was a British Empire military formation, formed on 10 March 1916 under the command of General Archibald Murray from the Mediterranean Expeditionary Force and the Force in Egypt (1914–15), at the beginning of the Sinai and Palestine Campaign of the First World War. Fighting</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-gaza-20260717.mp3" type="audio/mpeg" length="1648800"/>
+      <guid isPermaLink="false">warvault-first-battle-of-gaza-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 10:04:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Tripolitsa</title>
       <description>The siege of Tripolitsa or fall of Tripolitsa (Greek: Άλωση της Τριπολιτσάς, romanized: Álosi tis Tripolitsás, Greek pronunciation: [ˈalosi tis tripoliˈt͡sas]), also known as the Tripolitsa massacre (Turkish: Tripoliçe katliamı), was an early victory of the revolutionary Greek forces in the summer of 1821 during the Greek War of Independence, which had begun earlier that year, against the Ottoman </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tripolitsa-20260717.mp3" type="audio/mpeg" length="1596480"/>
