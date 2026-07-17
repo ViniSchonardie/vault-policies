@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bhoja Air Flight 213</title>
+      <description>Bhoja Air Flight 213 was a domestic scheduled passenger flight operated by Pakistani private airline Bhoja Air from Karachi to Islamabad. On 20 April 2012, the Boeing 737-236A aircraft serving the route crashed in bad weather during the final approach, killing all 121 passengers and 6 crew on board. It remains the second deadliest air disaster in Pakistan, after the 2010 crash of Airblue Flight 20</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/bhoja-air-flight-213-20260717.mp3" type="audio/mpeg" length="1763040"/>
+      <guid isPermaLink="false">aviation-bhoja-air-flight-213-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 07:24:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Corporate Airlines Flight 5966</title>
       <description>Corporate Airlines Flight 5966 was a scheduled passenger flight from St. Louis to Kirksville, Missouri, United States. On October 19, 2004, the British Aerospace Jetstream 32 aircraft operating the flight crashed on approach to Kirksville Regional Airport as a result of pilot error, killing 13 of the 15 people aboard.
 
