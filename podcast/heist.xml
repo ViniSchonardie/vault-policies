@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Brigandage</title>
+      <description>Brigandage is the life and practice of highway robbery and plunder. It is practiced by a brigand, a person who is typically part of a gang and lives by pillage and robbery.
+The word brigand entered English as brigant via French from Italian as early as 1400. Under the laws of war, soldiers acting on their own recognizance without operating in chain of command are brigands, liable to be tried under</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/brigandage-20260717.mp3" type="audio/mpeg" length="1624320"/>
+      <guid isPermaLink="false">heist-brigandage-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 13:01:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Legs Diamond</title>
       <description>Jack "Legs" Diamond (possibly born John Thomas Diamond, though disputed; July 10, 1897 – December 18, 1931), also known as John Nolan and Gentleman Jack, was an Irish-American gangster in Philadelphia and New York City during the Prohibition era. A bootlegger and close associate of gambler Arnold Rothstein, Diamond survived a number of attempts on his life between 1916 and 1931, causing him to be </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/legs-diamond-20260717.mp3" type="audio/mpeg" length="1819680"/>
