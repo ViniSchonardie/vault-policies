@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vegetius</title>
+      <description>Publius (or Flavius) Vegetius Renatus, known as Vegetius (Latin: [u̯ɛˈɡɛtiʊs]), was a writer of the Later Roman Empire (late 4th century). Nothing is known of his life or station beyond what is contained in his two surviving works: Epitoma rei militaris (also referred to as De re militari), and the lesser-known Digesta Artis Mulomedicinae, a guide to veterinary medicine. He identifies himself in t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/vegetius-20260717.mp3" type="audio/mpeg" length="1595520"/>
+      <guid isPermaLink="false">realstory-vegetius-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 23:46:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nicolas Appert</title>
       <description>Nicolas Appert (17 November 1749 – 1 June 1841) was a French confectioner and inventor who, in the early 19th century, invented airtight food preservation. Appert, known as the "father of food science", described his invention as a way "of conserving all kinds of food substances in containers".
 
