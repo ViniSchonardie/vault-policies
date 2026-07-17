@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-60</title>
+      <description>STS-60 was the first mission of the U.S./Russian Shuttle-Mir Program, and the 18th flight of Discovery, in which Sergei K. Krikalev became the first Russian cosmonaut to fly aboard a Space Shuttle. The mission used NASA Space Shuttle Discovery, which lifted off from Launch Pad 39A on February 3, 1994, from Kennedy Space Center, Florida. The mission carried the Wake Shield Facility experiment and a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-60-20260717.mp3" type="audio/mpeg" length="1548960"/>
+      <guid isPermaLink="false">space-sts-60-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 08:05:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-49</title>
       <description>STS-49 was NASA's maiden flight of the Space Shuttle Endeavour, which launched on May 7, 1992. The primary goal of its nine-day mission was to retrieve an Intelsat VI satellite, Intelsat 603, which failed to leave Low Earth orbit two years before, attach it to a new upper stage, and relaunch it to its intended geosynchronous orbit. After several attempts, the capture was completed with the only th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-49-20260716.mp3" type="audio/mpeg" length="1611360"/>
