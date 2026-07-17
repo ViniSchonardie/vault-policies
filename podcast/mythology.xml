@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Romulus and Remus</title>
+      <description>In Roman mythology, Romulus and Remus (Latin: [ˈroːmʊlʊs], [ˈrɛmʊs]) are twin brothers whose story tells of the events that led to the founding of the city of Rome and the Roman Kingdom by Romulus, following his fratricide of Remus. The image of a she-wolf suckling the twins in their infancy has been a symbol of the city of Rome and the ancient Romans since at least the 3rd century BC. Although th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/romulus-and-remus-20260717.mp3" type="audio/mpeg" length="1574880"/>
+      <guid isPermaLink="false">mythology-romulus-and-remus-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 11:30:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cerberus</title>
       <description>In Greek mythology, Cerberus (  or ; Ancient Greek: Κέρβερος Kérberos [ˈkerberos]), often referred to as the hound of Hades, is a multi-headed dog that guards the gates of the underworld to prevent the dead from leaving. He was the offspring of the monsters Echidna and Typhon, and was usually described as having three heads, a serpent for a tail, and snakes protruding from his body. Cerberus is pr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cerberus-20260717.mp3" type="audio/mpeg" length="1652160"/>
