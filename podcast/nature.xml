@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tiger shark</title>
+      <description>The tiger shark (Galeocerdo cuvier) is a species of ground shark, and the only extant member of the genus Galeocerdo and family Galeocerdonidae. It is a large predator, with females capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands. Its name derives from the dark stripes down its body, whic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/tiger-shark-20260717.mp3" type="audio/mpeg" length="1632000"/>
+      <guid isPermaLink="false">nature-tiger-shark-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 12:07:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gharial</title>
       <description>The gharial (Gavialis gangeticus), also known as gavial or fish-eating crocodile, is a crocodilian in the family Gavialidae and among the longest of all living crocodilians. Mature females are 2.6 to 4.5 m (8 ft 6 in to 14 ft 9 in) long, and males 3 to 6 m (9 ft 10 in to 19 ft 8 in). Adult males have a distinct boss at the end of the snout, which resembles an earthenware pot known as a ghara, henc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gharial-20260717.mp3" type="audio/mpeg" length="1704480"/>
