@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-71</title>
+      <description>STS-71 was a crewed spaceflight that was the third mission of the US/Russian Shuttle-Mir Program. The mission began on June 27, 1995, with the launch of Space Shuttle Atlantis from launchpad 39A at the Kennedy Space Center in Florida. Atlantis became the first Space Shuttle to dock with the Russian space station Mir, delivering a relief crew of two cosmonauts Anatoly Solovyev and Nikolai Budarin t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-71-20260717.mp3" type="audio/mpeg" length="1784160"/>
+      <guid isPermaLink="false">space-sts-71-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 15:17:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-60</title>
       <description>STS-60 was the first mission of the U.S./Russian Shuttle-Mir Program, and the 18th flight of Discovery, in which Sergei K. Krikalev became the first Russian cosmonaut to fly aboard a Space Shuttle. The mission used NASA Space Shuttle Discovery, which lifted off from Launch Pad 39A on February 3, 1994, from Kennedy Space Center, Florida. The mission carried the Wake Shield Facility experiment and a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-60-20260717.mp3" type="audio/mpeg" length="1548960"/>
