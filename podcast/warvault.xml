@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Batoche</title>
+      <description>The Battle of Batoche was the decisive battle of the North-West Resistance, which pitted Canadian Militia units against a force of First Nations and Métis people. Fought from May 9 to 12, 1885, at the ad hoc Provisional Government of Saskatchewan capital of Batoche, the greater numbers and superior firepower of General Frederick Middleton's force eventually overwhelmed the Métis fighters.
+The defe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-batoche-20260717.mp3" type="audio/mpeg" length="1744320"/>
+      <guid isPermaLink="false">warvault-battle-of-batoche-20260717</guid>
+      <pubDate>Fri, 17 Jul 2026 17:08:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Battle of Gaza</title>
       <description>The First Battle of Gaza was fought on 26 March 1917 during the first attempt by the Egyptian Expeditionary Force (EEF), which was a British Empire military formation, formed on 10 March 1916 under the command of General Archibald Murray from the Mediterranean Expeditionary Force and the Force in Egypt (1914–15), at the beginning of the Sinai and Palestine Campaign of the First World War. Fighting</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-gaza-20260717.mp3" type="audio/mpeg" length="1648800"/>
