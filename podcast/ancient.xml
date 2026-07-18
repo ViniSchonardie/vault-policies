@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Capture of Brielle</title>
+      <description>The Capture of Brielle by the Watergeuzen, on 1 April 1572 marked a turning point in the uprising of the Low Countries against Spain in the Eighty Years' War. Militarily the success was minor as the port of Brielle was undefended, but it provided the first foothold on land for the rebels at a time when the rebellion was all but crushed, and it offered the sign for a new revolt throughout the Nethe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/capture-of-brielle-20260718.mp3" type="audio/mpeg" length="1540800"/>
+      <guid isPermaLink="false">ancient-capture-of-brielle-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 07:05:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Ivry</title>
       <description>The Battle of Ivry was fought on 14 March 1590, during the French Wars of Religion. The battle was a decisive victory for Henry IV of France, leading French royal and English forces against the Catholic League by the Duc de Mayenne and Spanish forces under the Count of Egmont. Henry's forces were victorious and he went on to lay siege to Paris.
 The battle occurred on the plain of Épieds, Eure near</description>
