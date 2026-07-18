@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Killing Of Jennifer Laude</title>
+      <description>On October 11, 2014, Jennifer Laude (Tagalog pronunciation: [ˈlaʊdɛ]), a Filipina trans woman, was killed by Joseph Scott Pemberton, a Lance Corporal in the United States Marine Corps in Olongapo, Philippines. Pemberton admitted assaulting Laude and deployed a trans panic defense in his 2015 trial. His charge was downgraded from murder to homicide by a judge in 2015, and he was convicted on Decemb</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/killing-of-jennifer-laude-20260718.mp3" type="audio/mpeg" length="1319040"/>
+      <guid isPermaLink="false">trials-killing-of-jennifer-laude-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 08:50:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Socrates On Trial</title>
       <description>Socrates on Trial is a play depicting the life and death of the ancient Greek philosopher Socrates. It tells the story of how Socrates was put on trial for corrupting the youth of Athens and for failing to honour the city's gods. The play contains adaptations of several classic Greek works: the slapstick comedy, Clouds, written by Aristophanes and first performed in 423 BCE; the dramatic monologue</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-on-trial-20260717.mp3" type="audio/mpeg" length="1728480"/>
