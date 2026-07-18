@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-B</title>
+      <description>STS-51-B was the 17th flight of the NASA Space Shuttle program and the seventh flight of Space Shuttle Challenger. The launch of Challenger on April 29, 1985, was delayed by 2 minutes and 18 seconds, due to a launch processing failure. Challenger was initially rolled out to the pad to launch on the STS-51-E mission. The shuttle was rolled back when a timing issue emerged with the TDRS-B satellite.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-b-20260718.mp3" type="audio/mpeg" length="1684320"/>
+      <guid isPermaLink="false">space-sts-51-b-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 07:44:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51-I</title>
       <description>STS-51-I was the 20th mission of NASA's Space Shuttle program and the sixth flight of Space Shuttle Discovery. During the mission, Discovery deployed three communications satellites into orbit. The mission launched from Kennedy Space Center, Florida, on August 27, 1985, and landed at Edwards Air Force Base, California, on September 3, 1985.
 
