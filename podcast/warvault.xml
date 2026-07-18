@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Picacho Pass</title>
+      <description>The Battle at Picacho, also known as the Battle of Picacho Peak, was an engagement of the American Civil War on April 15, 1862. The action occurred around Picacho Peak, 50 miles (80 km) northwest of Tucson, Arizona. It was fought between a Union cavalry patrol from California and a party of Confederate pickets from Tucson, and marks the westernmost battle of the American Civil War involving fatali</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-picacho-pass-20260718.mp3" type="audio/mpeg" length="1880160"/>
+      <guid isPermaLink="false">warvault-battle-of-picacho-pass-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 09:29:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Uzbin Valley ambush</title>
       <description>French International Security Assistance Force (ISAF) troops were ambushed by Afghan Taliban insurgents, with heavy casualties, in the Uzbin Valley outside the village of Spēṟ Kunday in the Surobi District of Kabul province in eastern Afghanistan on 18 August 2008.
 In the ambush and subsequent counter-attack operations involving reinforcements, 10 French soldiers were killed as well as the Afghan </description>
