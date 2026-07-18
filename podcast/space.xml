@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Axiom Mission 3</title>
+      <description>Axiom Mission 3 (or Ax-3) was a private spaceflight to the International Space Station. The flight launched on January 18, 2024, and lasted for 21 days, successfully splashing down in the Atlantic Ocean. It was operated by Axiom Space and used a SpaceX Crew Dragon spacecraft. The booster, B1080, had previously flown Axiom-2, among other high-profile missions.
+
+
+== Muninn ==
+The Swedish component o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/axiom-mission-3-20260718.mp3" type="audio/mpeg" length="1734240"/>
+      <guid isPermaLink="false">space-axiom-mission-3-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 22:56:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-127</title>
       <description>STS-127 (ISS assembly flight 2J/A) was a NASA Space Shuttle mission to the International Space Station (ISS). It was the twenty-third flight of Space Shuttle Endeavour. The primary purpose of the STS-127 mission was to deliver and install the final two components of the Japanese Experiment Module: the Exposed Facility (JEM EF), and the Exposed Section of the Experiment Logistics Module (ELM-ES). W</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-127-20260718.mp3" type="audio/mpeg" length="1671840"/>
