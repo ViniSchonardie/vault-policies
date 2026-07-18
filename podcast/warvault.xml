@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Uzbin Valley ambush</title>
+      <description>French International Security Assistance Force (ISAF) troops were ambushed by Afghan Taliban insurgents, with heavy casualties, in the Uzbin Valley outside the village of Spēṟ Kunday in the Surobi District of Kabul province in eastern Afghanistan on 18 August 2008.
+In the ambush and subsequent counter-attack operations involving reinforcements, 10 French soldiers were killed as well as the Afghan </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/uzbin-valley-ambush-20260718.mp3" type="audio/mpeg" length="1559040"/>
+      <guid isPermaLink="false">warvault-uzbin-valley-ambush-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 02:48:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Batoche</title>
       <description>The Battle of Batoche was the decisive battle of the North-West Resistance, which pitted Canadian Militia units against a force of First Nations and Métis people. Fought from May 9 to 12, 1885, at the ad hoc Provisional Government of Saskatchewan capital of Batoche, the greater numbers and superior firepower of General Frederick Middleton's force eventually overwhelmed the Métis fighters.
 The defe</description>
