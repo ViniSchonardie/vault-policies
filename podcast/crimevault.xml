@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jane Toppan</title>
+      <description>Jane Toppan, nicknamed Jolly Jane, was an American serial killer who murdered 12 people in Massachusetts between 1895 and 1901, although she confessed to killing 31 and is suspected of killing more than 100. The killings were carried out in Toppan's capacity as a nurse, targeting patients and their family members. Toppan, who admitted to having committed the murders to satisfy a sexual fetish, was</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jane-toppan-20260718.mp3" type="audio/mpeg" length="1612800"/>
+      <guid isPermaLink="false">crime-jane-toppan-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 18:02:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Patrick Kearney</title>
       <description>Patrick Wayne Kearney, also called the Trash Bag Killer and the Freeway Killer, is an American serial killer who sexually assaulted and murdered a minimum of twenty-eight young men and boys in southern California between 1962 and 1977. Kearney often engaged in necrophilia with his victims' bodies before disemboweling and dismembering them. He frequently wrapped his victims' severed limbs in trash </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/patrick-kearney-20260718.mp3" type="audio/mpeg" length="1792320"/>
