@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-127</title>
+      <description>STS-127 (ISS assembly flight 2J/A) was a NASA Space Shuttle mission to the International Space Station (ISS). It was the twenty-third flight of Space Shuttle Endeavour. The primary purpose of the STS-127 mission was to deliver and install the final two components of the Japanese Experiment Module: the Exposed Facility (JEM EF), and the Exposed Section of the Experiment Logistics Module (ELM-ES). W</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-127-20260718.mp3" type="audio/mpeg" length="1671840"/>
+      <guid isPermaLink="false">space-sts-127-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 14:56:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51-B</title>
       <description>STS-51-B was the 17th flight of the NASA Space Shuttle program and the seventh flight of Space Shuttle Challenger. The launch of Challenger on April 29, 1985, was delayed by 2 minutes and 18 seconds, due to a launch processing failure. Challenger was initially rolled out to the pad to launch on the STS-51-E mission. The shuttle was rolled back when a timing issue emerged with the TDRS-B satellite.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-b-20260718.mp3" type="audio/mpeg" length="1684320"/>
