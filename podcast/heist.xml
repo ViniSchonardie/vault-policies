@@ -17,6 +17,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tektronix</title>
+      <description>Tektronix, Inc., historically widely known as Tek, is an American company best known for manufacturing electronics test and measurement devices such as oscilloscopes, logic analyzers, and video and mobile test protocol equipment.  Originally an independent company, it is now a subsidiary of Ralliant, a spinoff from Fortive.
+
+
+== History ==
+
+
+=== 1946–1954 ===
+
+The company traces its roots to the e</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/tektronix-20260718.mp3" type="audio/mpeg" length="2117760"/>
+      <guid isPermaLink="false">heist-tektronix-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 06:15:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Detection dog</title>
       <description>A detection dog or sniffer dog is a dog that is trained to use its senses to detect substances such as explosives, illegal drugs, wildlife scat, semen, currency, blood, and contraband electronics, such as illicit mobile phones. The sense most used by detection dogs is smell. Hunting dogs that search for game, and search and rescue dogs that work to find missing humans are generally not considered </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/detection-dog-20260717.mp3" type="audio/mpeg" length="1399680"/>
