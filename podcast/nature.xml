@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Wasp</title>
+      <description>A wasp is any insect of the narrow-waisted suborder Apocrita of the order Hymenoptera which is neither a bee nor an ant; this excludes the broad-waisted sawflies (Symphyta), which look somewhat like wasps, but are in a separate suborder. The wasps do not constitute a clade, a complete natural group with a single ancestor, as  bees and ants are deeply nested within the wasps, having evolved from wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wasp-20260718.mp3" type="audio/mpeg" length="1888320"/>
+      <guid isPermaLink="false">nature-wasp-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 20:04:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kodiak bear</title>
       <description>The Kodiak bear (Ursus arctos middendorffi), also known as the Kodiak brown bear and sometimes the Alaskan brown bear, inhabits the islands of the Kodiak Archipelago in southwest Alaska. It is one of the largest recognized subspecies or population of the brown bear, and one of the two largest bears alive today, the other being the polar bear. Kodiak bears are also considered by some to be a popula</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/kodiak-bear-20260718.mp3" type="audio/mpeg" length="1756800"/>
