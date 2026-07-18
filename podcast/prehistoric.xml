@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pachycephalosauria</title>
+      <description>Pachycephalosauria (; from Greek παχυκεφαλόσαυρος for 'thick headed lizards') is a clade of ornithischian dinosaurs. Along with Ceratopsia, it makes up the clade Marginocephalia. Pachycephalosaurs lived exclusively in the Northern Hemisphere during the Cretaceous period, with all members being found in North America and Asia. They were all bipedal, herbivorous/omnivorous animals with thick skulls.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pachycephalosauria-20260718.mp3" type="audio/mpeg" length="1497120"/>
+      <guid isPermaLink="false">prehistoric-pachycephalosauria-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 22:56:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Europasaurus</title>
       <description>Europasaurus (meaning 'Europe lizard') is a basal macronarian sauropod, a form of quadrupedal herbivorous dinosaur. It lived during the Late Jurassic (middle Kimmeridgian, from about 154 to 151 million years ago) of northern Germany, and has been identified as an example of insular dwarfism resulting from the isolation of a sauropod population on an island within the Lower Saxony basin.
 
