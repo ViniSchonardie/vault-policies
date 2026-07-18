@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Libyan Arab Airlines Flight 1103</title>
+      <description>Libyan Arab Airlines Flight 1103 was a Boeing 727-2L5 with 9 crew members and 150 passengers on board that collided with a LARAF Mikoyan-Gurevich MiG-23UB on 22 December 1992. All 159 people on board Flight 1103 were killed, while the pilot and instructor of the MiG-23 ejected and survived. It is the deadliest aviation disaster to occur in Libya.
+
+
+== Background ==
+
+
+=== Aircraft ===
+The first air</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/libyan-arab-airlines-flight-1103-20260718.mp3" type="audio/mpeg" length="1686240"/>
+      <guid isPermaLink="false">aviation-libyan-arab-airlines-flight-1103-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 14:25:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thai Airways International Flight 114</title>
       <description>On 3 March 2001, Thai Airways International Flight 114 exploded at gate 62 of Don Muang International Airport in Bangkok, Thailand, killing one person and injuring seven other people. Five cabin attendants, two baggage loaders, and a load control supervisor were preparing the Boeing 737-400 for a flight from Bangkok to Chiang Mai before the passengers were boarded. An explosion during this process</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-114-20260718.mp3" type="audio/mpeg" length="1533600"/>
