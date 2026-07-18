@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gustav Landauer</title>
+      <description>Gustav Landauer (German: [ˈlandaʊɐ]; 7 April 1870 – 2 May 1919) was a German anarchist writer and revolutionary. As one of the leading theorists of anarchism in Germany at the turn of the 20th century, he advocated a form of libertarian socialism that rejected both capitalism and Marxist historical materialism. Landauer's philosophy synthesized anarchism with romanticism, mysticism, and a non-raci</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/gustav-landauer-20260718.mp3" type="audio/mpeg" length="1756320"/>
+      <guid isPermaLink="false">realstory-gustav-landauer-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 08:47:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vegetius</title>
       <description>Publius (or Flavius) Vegetius Renatus, known as Vegetius (Latin: [u̯ɛˈɡɛtiʊs]), was a writer of the Later Roman Empire (late 4th century). Nothing is known of his life or station beyond what is contained in his two surviving works: Epitoma rei militaris (also referred to as De re militari), and the lesser-known Digesta Artis Mulomedicinae, a guide to veterinary medicine. He identifies himself in t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/vegetius-20260717.mp3" type="audio/mpeg" length="1595520"/>
