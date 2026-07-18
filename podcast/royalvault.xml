@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine De Medici</title>
+      <description>Catherine de' Medici (13 April 1519 – 5 January 1589) was Queen of France from 1547 to 1559 by marriage to King Henry II. She was the mother of French kings Francis II, Charles IX, and Henry III, and a cousin to Pope Clement VII. The years during which her sons reigned have been called "the age of Catherine de' Medici" since she had extensive, albeit at times varying, influence on the political li</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-de-medici-20260718.mp3" type="audio/mpeg" length="1917600"/>
+      <guid isPermaLink="false">royal-catherine-de-medici-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 17:56:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kings Royal Rifle Corps</title>
       <description>The King's Royal Rifle Corps was an infantry rifle regiment of the British Army that was originally raised in British North America as the Royal American Regiment during the phase of the Seven Years' War in North America known in the United States as 'The French and Indian War.' Subsequently numbered the 60th Regiment of Foot, the regiment served for more than 200 years throughout the British Empi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kings-royal-rifle-corps-20260718.mp3" type="audio/mpeg" length="1852320"/>
