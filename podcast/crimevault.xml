@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Patrick Kearney</title>
+      <description>Patrick Wayne Kearney, also called the Trash Bag Killer and the Freeway Killer, is an American serial killer who sexually assaulted and murdered a minimum of twenty-eight young men and boys in southern California between 1962 and 1977. Kearney often engaged in necrophilia with his victims' bodies before disemboweling and dismembering them. He frequently wrapped his victims' severed limbs in trash </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/patrick-kearney-20260718.mp3" type="audio/mpeg" length="1792320"/>
+      <guid isPermaLink="false">crime-patrick-kearney-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 10:10:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daniel Conahan</title>
       <description>Daniel Owen Conahan Jr. is an American convicted murderer, rapist, and suspected serial killer. Conahan was convicted of one murder, but has been linked to a dozen murders, mostly of transients seeking employment and gay men in the Charlotte County, Florida area in what came to be known as the Hog Trail Murders. Conahan has also been named the prime suspect in the additional murders of eight men, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/daniel-conahan-20260718.mp3" type="audio/mpeg" length="1656000"/>
