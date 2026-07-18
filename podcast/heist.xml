@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Salé</title>
+      <description>Salé is a city in northwestern Morocco, on the right bank of the Bou Regreg river, opposite the national capital Rabat, for which it serves as a commuter town. Along with some smaller nearby towns, Rabat and Salé together form a single metropolitan area.
+Founded in the 11th century, Sale became a medieval merchant port and entrepot. Salé became a haven for pirates in the 17th century as an indepen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/sal-20260718.mp3" type="audio/mpeg" length="1858560"/>
+      <guid isPermaLink="false">heist-sal-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 12:48:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tektronix</title>
       <description>Tektronix, Inc., historically widely known as Tek, is an American company best known for manufacturing electronics test and measurement devices such as oscilloscopes, logic analyzers, and video and mobile test protocol equipment.  Originally an independent company, it is now a subsidiary of Ralliant, a spinoff from Fortive.
 
