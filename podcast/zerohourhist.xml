@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2012 Samar earthquake</title>
+      <description>An earthquake off the coast of Samar occurred on August 31, 2012, at 20:47 local time (12:47 UTC) in the Philippines. The populated islands of Visayas were struck by an earthquake of magnitude Mw 7.6. The earthquake occurred at a depth of 45 km (27.9 miles). A tsunami warning was announced within the Pacific area and was lifted after two hours. The Philippine archipelago is located in the Pacific </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2012-samar-earthquake-20260718.mp3" type="audio/mpeg" length="1488480"/>
+      <guid isPermaLink="false">history-2012-samar-earthquake-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 23:00:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1916 Irondale earthquake</title>
       <description>The 1916 Irondale earthquake struck in the north-central region of the U.S. state of Alabama on October 18. The strongest earthquake in state history, it registered an estimated Richter scale magnitude of 5.1 and resulted in minor damage. Damage was limited to Shelby and Jefferson counties and reached its maximum severity near the epicenter in the city of Irondale, including cracked windows, falle</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1916-irondale-earthquake-20260718.mp3" type="audio/mpeg" length="1558560"/>
