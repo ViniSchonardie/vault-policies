@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2002 Taiwan earthquake</title>
+      <description>At 14:52 local time on 31 March 2002, an earthquake of magnitude 7.1 on the moment magnitude scale hit Taiwan. The epicenter was offshore from Hualien, which was the most severely affected area with a maximum felt intensity of VIII (Severe) on the Mercalli intensity scale. At least 5 deaths have been reported, with a further 213 injured.
+
+
+== Tectonic setting ==
+Taiwan has a history of strong eart</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2002-taiwan-earthquake-20260718.mp3" type="audio/mpeg" length="1835040"/>
+      <guid isPermaLink="false">history-2002-taiwan-earthquake-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 07:30:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2009 West Java earthquake</title>
       <description>An earthquake occurred on September 2, 2009, at 14:55:01 local time in West Java, Indonesia. The magnitude 7.0 earthquake killed at least 81 people, injured over 1,297, and displaced over 210,000 (including more than 140,000 in Tasikmalaya regency). The quake was felt in the capital Jakarta, although damage there was minimal, and it was Indonesia's deadliest earthquake since the 2006 Pangandaran e</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2009-west-java-earthquake-20260717.mp3" type="audio/mpeg" length="1572000"/>
