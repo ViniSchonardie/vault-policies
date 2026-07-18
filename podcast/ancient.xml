@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Garigliano</title>
+      <description>The Battle of Garigliano was fought on 29 December 1503 between a Spanish army under Gonzalo Fernández de Córdoba and a French army commanded by Ludovico II, Marquis of Saluzzo, resulting in a Spanish victory.
+
+
+== Preliminary phase ==
+
+In mid-November 1503, the French and Spanish armies were separated by the Garigliano river, some 60 km north of Naples. Both armies camped in a marshy and unhealth</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-garigliano-20260718.mp3" type="audio/mpeg" length="1641600"/>
+      <guid isPermaLink="false">ancient-battle-of-garigliano-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 21:56:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alberico Gentili</title>
       <description>Alberico Gentili (14 January 1552 – 19 June 1608) was an Italian jurist, a tutor of Queen Elizabeth I, and a standing advocate to the Spanish Embassy in London, who served as the Regius Professor of Civil Law at the University of Oxford for 21 years. He is regarded as the co-founder of the field of international law, and thus is known as the "Father of international law".
 The first medieval writer</description>
