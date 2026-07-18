@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rattlesnake</title>
+      <description>Rattlesnakes are venomous snakes that form the genera Crotalus and Sistrurus of the subfamily Crotalinae (the pit vipers). Rattlesnakes are predators that live in a wide array of habitats, hunting small animals such as birds and rodents.
+Rattlesnakes receive their name from the rattle located at the end of their tails, which makes a loud rattling noise when vibrated that deters predators. Rattlesn</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/rattlesnake-20260718.mp3" type="audio/mpeg" length="1496640"/>
+      <guid isPermaLink="false">nature-rattlesnake-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 05:25:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stingray</title>
       <description>Stingrays are a group of rays, a type of cartilaginous fish. They are classified in the suborder Myliobatoidei of the order Myliobatiformes and consist of eleven families:  Hexatrygonidae (sixgill stingrays), Gymnuridae (butterfly rays), Plesiobatidae (deepwater stingrays), Urolophidae (round stingrays), Myliobatidae (eagle rays), Aetobatidae (pelagic eagle rays), Mobulidae (manta and devil rays),</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stingray-20260717.mp3" type="audio/mpeg" length="1550880"/>
