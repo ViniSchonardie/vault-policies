@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dillinger Gang</title>
+      <description>The Dillinger Gang was a group of American Depression-era bank robbers led by John Dillinger. The gang gained notoriety for a successful string of bank robberies, using modern tools and tactics, in the Midwestern United States from September 1933 to July 1934. During this crime spree, the gang killed 10 and wounded 7. They managed to pull off three jail breaks which wounded two guards and killed a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/dillinger-gang-20260718.mp3" type="audio/mpeg" length="1747680"/>
+      <guid isPermaLink="false">heist-dillinger-gang-20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 21:00:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Salé</title>
       <description>Salé is a city in northwestern Morocco, on the right bank of the Bou Regreg river, opposite the national capital Rabat, for which it serves as a commuter town. Along with some smaller nearby towns, Rabat and Salé together form a single metropolitan area.
 Founded in the 11th century, Sale became a medieval merchant port and entrepot. Salé became a haven for pirates in the 17th century as an indepen</description>
