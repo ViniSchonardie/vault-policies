@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Prison escape</title>
+      <description>A prison escape (also referred to as a bust out, breakout, jailbreak, jail escape, prison break or unlawful departure) is the act of an inmate leaving prison through unofficial or illegal ways. Normally, when this occurs, an effort is made on the part of authorities to recapture them and return them to their original detainers. Escaping from prison is also a criminal offense in some countries, suc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/prison-escape-20260719.mp3" type="audio/mpeg" length="1434720"/>
+      <guid isPermaLink="false">heist-prison-escape-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 06:40:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dillinger Gang</title>
       <description>The Dillinger Gang was a group of American Depression-era bank robbers led by John Dillinger. The gang gained notoriety for a successful string of bank robberies, using modern tools and tactics, in the Midwestern United States from September 1933 to July 1934. During this crime spree, the gang killed 10 and wounded 7. They managed to pull off three jail breaks which wounded two guards and killed a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/dillinger-gang-20260718.mp3" type="audio/mpeg" length="1747680"/>
