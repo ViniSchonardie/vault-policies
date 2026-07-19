@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2008 Peloponnese earthquake</title>
+      <description>The 2008 Peloponnese earthquake killed two people, injured more than 220 and left at least 2,000 people homeless in north western Peloponnese, Greece, on June 8. The earthquake hit the area at 1525 EET (1325 UTC), with a moment magnitude of 6.5, according to the Athens Geodynamic Institute.  It was strongly felt as far away as in Athens and in parts of southern Italy. The US Geological Survey repo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2008-peloponnese-earthquake-20260719.mp3" type="audio/mpeg" length="1684800"/>
+      <guid isPermaLink="false">history-2008-peloponnese-earthquake-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 08:00:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2012 Samar earthquake</title>
       <description>An earthquake off the coast of Samar occurred on August 31, 2012, at 20:47 local time (12:47 UTC) in the Philippines. The populated islands of Visayas were struck by an earthquake of magnitude Mw 7.6. The earthquake occurred at a depth of 45 km (27.9 miles). A tsunami warning was announced within the Pacific area and was lifted after two hours. The Philippine archipelago is located in the Pacific </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2012-samar-earthquake-20260718.mp3" type="audio/mpeg" length="1488480"/>
