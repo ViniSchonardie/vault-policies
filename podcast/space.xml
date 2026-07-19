@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TM-12</title>
+      <description>Soyuz TM-12 was the 12th expedition to Mir, and included the first Briton in space, Helen Sharman.
+
+
+== Crew ==
+
+
+== Mission highlights ==
+The Mir crew welcomed aboard Anatoli Artsebarski, Sergei Krikalev (on his second visit to the station), and British cosmonaut-researcher Helen Sharman, who was aboard as part of Project Juno, a cooperative venture partly sponsored by British private enterprise.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-12-20260719.mp3" type="audio/mpeg" length="1805760"/>
+      <guid isPermaLink="false">space-soyuz-tm-12-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 22:57:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX Crew-3</title>
       <description>SpaceX Crew-3 was the Crew Dragon's third NASA Commercial Crew operational flight, and its fifth overall crewed orbital flight. The mission successfully launched on November 11, 2021, at 02:03:31 UTC to the International Space Station. It was the maiden flight of Crew Dragon Endurance.
 This launch brought the total number of humans who have been to space to more than 600 with Maurer (600) and Barr</description>
