@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wild Bunch</title>
+      <description>The Wild Bunch, also known as the Doolin–Dalton Gang, or the Oklahombres, were a gang of American outlaws based in the Indian Territory in the late 19th and early 20th centuries. They were active in Kansas, Missouri, Arkansas, and Oklahoma Territory during the 1890s—robbing banks and stores, holding up trains, and killing lawmen. They were also known as The Oklahoma Long Riders because of the long</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/wild-bunch-20260719.mp3" type="audio/mpeg" length="1789920"/>
+      <guid isPermaLink="false">heist-wild-bunch-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 12:49:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Prison escape</title>
       <description>A prison escape (also referred to as a bust out, breakout, jailbreak, jail escape, prison break or unlawful departure) is the act of an inmate leaving prison through unofficial or illegal ways. Normally, when this occurs, an effort is made on the part of authorities to recapture them and return them to their original detainers. Escaping from prison is also a criminal offense in some countries, suc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/prison-escape-20260719.mp3" type="audio/mpeg" length="1434720"/>
