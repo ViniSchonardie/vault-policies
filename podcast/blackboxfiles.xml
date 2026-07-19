@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2004 Russian aircraft bombings</title>
+      <description>On the night of 24 August 2004, explosive devices were detonated on board two domestic passenger flights that had taken off from Domodedovo International Airport in Moscow, Russia, causing the destruction of both aircraft and the death of all 90 people on board.
+Subsequent investigations concluded that two Chechen female suicide bombers were responsible for the bombings, which were also later clai</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2004-russian-aircraft-bombings-20260719.mp3" type="audio/mpeg" length="1659840"/>
+      <guid isPermaLink="false">aviation-2004-russian-aircraft-bombings-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 07:32:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1986 British International Helicopters Chinook crash</title>
       <description>On 6 November 1986, a Boeing-Vertol Model 234LR Chinook helicopter returning workers from the Brent oilfield crashed on approach to land at Sumburgh Airport in the Shetland Islands. At 2.5 mi (4.0 km) from the runway the helicopter had a catastrophic forward transmission failure which caused the tandem rotor blades to collide. The helicopter crashed into the sea and sank. Forty-three passengers an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1986-british-international-helicopters-chinook-crash-20260718.mp3" type="audio/mpeg" length="1358880"/>
