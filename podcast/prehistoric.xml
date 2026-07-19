@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Labocania</title>
+      <description>Labocania is an extinct genus of theropod dinosaur of disputed affinities, known from the Late Cretaceous of Mexico. Initially regarded as an indeterminate theropod, later studies have mentioned possible affinities with tyrannosaurids, abelisaurids, or carcharodontosaurids. More recent research based on additional fossil material found support for a position within the tyrannosaurine clade Teratop</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/labocania-20260719.mp3" type="audio/mpeg" length="1509600"/>
+      <guid isPermaLink="false">prehistoric-labocania-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 08:28:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pachycephalosauria</title>
       <description>Pachycephalosauria (; from Greek παχυκεφαλόσαυρος for 'thick headed lizards') is a clade of ornithischian dinosaurs. Along with Ceratopsia, it makes up the clade Marginocephalia. Pachycephalosaurs lived exclusively in the Northern Hemisphere during the Cretaceous period, with all members being found in North America and Asia. They were all bipedal, herbivorous/omnivorous animals with thick skulls.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pachycephalosauria-20260718.mp3" type="audio/mpeg" length="1497120"/>
