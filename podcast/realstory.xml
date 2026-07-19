@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Aubrey</title>
+      <description>John Aubrey  (12 March 1626 – 7 June 1697) was an English antiquary, natural philosopher and writer. He was a pioneer archaeologist, who recorded (often for the first time) numerous megalithic and other field monuments in southern England, and who is particularly noted for his systematic examination of the Avebury henge monument. The Aubrey holes at Stonehenge are named after him, although there i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-aubrey-20260719.mp3" type="audio/mpeg" length="1559040"/>
+      <guid isPermaLink="false">realstory-john-aubrey-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 23:49:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hunayn ibn Ishaq</title>
       <description>Hunayn ibn Ishaq al-Ibadi (808–873; also Hunain or Hunein; Arabic: أبو زيد حنين بن إسحاق العبادي; ʾAbū Zayd Ḥunayn ibn ʾIsḥāq al-ʿIbādī; known in Latin as Johannitius) was an influential Iraqi Arab Church of the East Christian translator, scholar, physician, and scientist. During the apex of the Islamic Abbasid era, he worked with a group of translators, among whom were Abū 'Uthmān al-Dimashqi, Ib</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hunayn-ibn-ishaq-20260719.mp3" type="audio/mpeg" length="1395360"/>
