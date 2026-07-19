@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Minerva</title>
+      <description>Minerva (; Latin: [mɪˈnɛru̯ä]; Etruscan: Menrva) is the Roman goddess of wisdom, justice, law, victory, and the sponsor of arts, trade, and strategy. She is also a goddess of warfare, though with a focus on strategic warfare, rather than the violence of gods such as Mars. Beginning in the second century BC, the Romans equated her with the Greek goddess Athena. Minerva is one of the three Roman dei</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/minerva-20260719.mp3" type="audio/mpeg" length="1510560"/>
+      <guid isPermaLink="false">mythology-minerva-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 05:28:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pan (god)</title>
       <description>In ancient Greek religion and mythology, Pan (; Ancient Greek: Πάν, romanized: Pán) is the god of the wild, shepherds and flocks, rustic music and impromptus, and companion of the nymphs. He has the hindquarters, legs, and horns of a goat, in the same manner as a faun or satyr. With his homeland in rustic Arcadia, he is also recognized as the god of fields, groves, wooded glens, and often affiliat</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/pan-god-20260718.mp3" type="audio/mpeg" length="1726560"/>
