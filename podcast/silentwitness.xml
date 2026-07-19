@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Grace Sherwood</title>
+      <description>Grace White Sherwood (1660–1740), called the Witch of Pungo, is the last person known to have been convicted of witchcraft in Virginia.
+A farmer, healer, and midwife, she was accused by her neighbors of  transforming herself into a cat, damaging crops, and causing the death of livestock. She was charged with witchcraft several times. The court ordered that Sherwood's guilt or innocence be determin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/grace-sherwood-20260719.mp3" type="audio/mpeg" length="1788480"/>
+      <guid isPermaLink="false">trials-grace-sherwood-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 09:07:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Loudun Possessions</title>
       <description>The Loudun possessions, also known as the Loudun possessed affair (French: affaire des possédées de Loudun), was a notorious witchcraft trial that took place in Loudun, Kingdom of France, in 1634. A convent of Ursuline nuns said they had been visited and possessed by demons. Following an investigation by the Catholic Church, a local priest named Urbain Grandier was accused of summoning the evil sp</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/loudun-possessions-20260718.mp3" type="audio/mpeg" length="1593600"/>
