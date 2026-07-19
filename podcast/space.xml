@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 4</title>
+      <description>Soyuz 4 (Russian: Союз 4, Union 4) was launched on 14 January 1969, carrying cosmonaut Vladimir Shatalov on his first flight. The mission successfully docked with Soyuz 5, marking the first docking of two crewed spacecraft. The craft received two crew members from Soyuz 5 via spacewalk, and returned to Earth. 
+Three months prior, Kosmos 186 and Kosmos 188 achieved the first uncrewed docking of two</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-4-20260719.mp3" type="audio/mpeg" length="1668960"/>
+      <guid isPermaLink="false">space-soyuz-4-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 08:09:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Axiom Mission 3</title>
       <description>Axiom Mission 3 (or Ax-3) was a private spaceflight to the International Space Station. The flight launched on January 18, 2024, and lasted for 21 days, successfully splashing down in the Atlantic Ocean. It was operated by Axiom Space and used a SpaceX Crew Dragon spacecraft. The booster, B1080, had previously flown Axiom-2, among other high-profile missions.
 
