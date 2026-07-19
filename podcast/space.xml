@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-3</title>
+      <description>SpaceX Crew-3 was the Crew Dragon's third NASA Commercial Crew operational flight, and its fifth overall crewed orbital flight. The mission successfully launched on November 11, 2021, at 02:03:31 UTC to the International Space Station. It was the maiden flight of Crew Dragon Endurance.
+This launch brought the total number of humans who have been to space to more than 600 with Maurer (600) and Barr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-3-20260719.mp3" type="audio/mpeg" length="1503360"/>
+      <guid isPermaLink="false">space-spacex-crew-3-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 14:59:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 4</title>
       <description>Soyuz 4 (Russian: Союз 4, Union 4) was launched on 14 January 1969, carrying cosmonaut Vladimir Shatalov on his first flight. The mission successfully docked with Soyuz 5, marking the first docking of two crewed spacecraft. The craft received two crew members from Soyuz 5 via spacewalk, and returned to Earth. 
 Three months prior, Kosmos 186 and Kosmos 188 achieved the first uncrewed docking of two</description>
