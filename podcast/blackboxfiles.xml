@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ural Airlines Flight 1383</title>
+      <description>Ural Airlines Flight 1383 was a scheduled flight from Sochi/Adler to Omsk in Russia. On 12 September 2023, the Airbus A320 operating the flight and carrying 159 passengers and 6 crew made an emergency landing in a field. Everyone on board survived and no injuries were reported.
+
+
+== Incident ==
+While on its final approach to Omsk, the crew initiated a go-around and reported a hydraulic failure aff</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ural-airlines-flight-1383-20260719.mp3" type="audio/mpeg" length="1149120"/>
+      <guid isPermaLink="false">aviation-ural-airlines-flight-1383-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 14:28:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2004 Russian aircraft bombings</title>
       <description>On the night of 24 August 2004, explosive devices were detonated on board two domestic passenger flights that had taken off from Domodedovo International Airport in Moscow, Russia, causing the destruction of both aircraft and the death of all 90 people on board.
 Subsequent investigations concluded that two Chechen female suicide bombers were responsible for the bombings, which were also later clai</description>
