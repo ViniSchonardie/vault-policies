@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>S7 Airlines Flight 778</title>
+      <description>S7 Airlines Flight 778 was a scheduled domestic passenger flight from Moscow to Irkutsk, Russia. On 9 July 2006, at 06:44 local time (8 July, 22:44 UTC), the Airbus A310-324 aircraft operating the route overran the runway during its landing in Irkutsk. The aircraft failed to stop and crashed through the airport's concrete perimeter fence, struck rows of private garages and burst into flames, killi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/s7-airlines-flight-778-20260719.mp3" type="audio/mpeg" length="1456320"/>
+      <guid isPermaLink="false">aviation-s7-airlines-flight-778-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 21:44:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ural Airlines Flight 1383</title>
       <description>Ural Airlines Flight 1383 was a scheduled flight from Sochi/Adler to Omsk in Russia. On 12 September 2023, the Airbus A320 operating the flight and carrying 159 passengers and 6 crew made an emergency landing in a field. Everyone on board survived and no injuries were reported.
 
