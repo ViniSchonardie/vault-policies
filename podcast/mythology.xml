@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Muses</title>
+      <description>In ancient Greek religion and mythology, the Muses (Ancient Greek: Μοῦσαι, romanized: Moúsai, [ˈmuː.sai̯]; singular: Μοῦσα, Moúsa, [ˈmuː.sa]; Greek: Μούσες, romanized: Múses, [ˈmuː.ses]) were the inspirational goddesses of literature, science, and the arts. They were considered the source of the knowledge embodied in the poetry, lyric songs, and myths that were related orally for centuries in anci</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/muses-20260719.mp3" type="audio/mpeg" length="1614720"/>
+      <guid isPermaLink="false">mythology-muses-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 11:15:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Minerva</title>
       <description>Minerva (; Latin: [mɪˈnɛru̯ä]; Etruscan: Menrva) is the Roman goddess of wisdom, justice, law, victory, and the sponsor of arts, trade, and strategy. She is also a goddess of warfare, though with a focus on strategic warfare, rather than the violence of gods such as Mars. Beginning in the second century BC, the Romans equated her with the Greek goddess Athena. Minerva is one of the three Roman dei</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/minerva-20260719.mp3" type="audio/mpeg" length="1510560"/>
