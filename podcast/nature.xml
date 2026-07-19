@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sturgeon</title>
+      <description>Sturgeon are the 27 species of fish belonging to the family Acipenseridae. The earliest sturgeon fossils date to the Late Cretaceous, and are descended from other, earlier acipenseriform fish, which date back to the Early Jurassic period, some 174 to 201 million years ago. They are one of two living families of the Acipenseriformes alongside paddlefish (Polyodontidae). The family is grouped into f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/sturgeon-20260719.mp3" type="audio/mpeg" length="1497600"/>
+      <guid isPermaLink="false">nature-sturgeon-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 05:51:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wasp</title>
       <description>A wasp is any insect of the narrow-waisted suborder Apocrita of the order Hymenoptera which is neither a bee nor an ant; this excludes the broad-waisted sawflies (Symphyta), which look somewhat like wasps, but are in a separate suborder. The wasps do not constitute a clade, a complete natural group with a single ancestor, as  bees and ants are deeply nested within the wasps, having evolved from wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wasp-20260718.mp3" type="audio/mpeg" length="1888320"/>
