@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sinosaurus</title>
+      <description>Sinosaurus (meaning "Chinese lizard") is an extinct genus of basal theropod dinosaur which lived during the Early Jurassic (Hettangian-Sinemurian). Fossils of the animal have been found in the Lufeng Formation, in the Yunnan Province of China. The type species, S. triassicus, was named by Chung Chieng Young in 1940. A second species, S. sinensis, was originally assigned to Dilophosaurus, but was l</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/sinosaurus-20260719.mp3" type="audio/mpeg" length="1672320"/>
+      <guid isPermaLink="false">prehistoric-sinosaurus-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 14:54:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Labocania</title>
       <description>Labocania is an extinct genus of theropod dinosaur of disputed affinities, known from the Late Cretaceous of Mexico. Initially regarded as an indeterminate theropod, later studies have mentioned possible affinities with tyrannosaurids, abelisaurids, or carcharodontosaurids. More recent research based on additional fossil material found support for a position within the tyrannosaurine clade Teratop</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/labocania-20260719.mp3" type="audio/mpeg" length="1509600"/>
