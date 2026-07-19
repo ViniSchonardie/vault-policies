@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Zutphen</title>
+      <description>The Battle of Zutphen was fought on 22 September 1586, near the village of Warnsveld and the town of Zutphen, the Netherlands, during the Eighty Years' War and the Anglo-Spanish War (1585–1604). It was fought between the forces of the United Provinces of the Netherlands, aided by the English, against the Spanish. In 1585, England signed the Treaty of Nonsuch with the States-General of the Netherla</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-zutphen-20260719.mp3" type="audio/mpeg" length="1865280"/>
+      <guid isPermaLink="false">ancient-battle-of-zutphen-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 07:30:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Garigliano</title>
       <description>The Battle of Garigliano was fought on 29 December 1503 between a Spanish army under Gonzalo Fernández de Córdoba and a French army commanded by Ludovico II, Marquis of Saluzzo, resulting in a Spanish victory.
 
