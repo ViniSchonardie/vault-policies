@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Saguntum</title>
+      <description>The siege of Saguntum took place in 219 BC between the Carthaginians and the Saguntines at the town of Saguntum, near the modern town of Sagunto in the province of Valencia, Spain. The battle is mainly remembered today because it triggered one of the most important wars of antiquity, the Second Punic War.
+
+
+== Hannibal's plans ==
+After Hannibal was made supreme commander of Iberia (221 BC) at the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-saguntum-20260719.mp3" type="audio/mpeg" length="1514400"/>
+      <guid isPermaLink="false">warvault-siege-of-saguntum-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 03:18:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Hamel</title>
       <description>The Battle of Hamel was an attack by Australian Army and US Army infantry, supported by Royal Tank Regiment tanks, against German positions in and around the town of Le Hamel, in northern France, during World War I. The attack was planned and led by Lieutenant General John Monash, commander of the Australian Corps, and took place on 4 July 1918.
 Many of the tactics employed, such as the use of com</description>
