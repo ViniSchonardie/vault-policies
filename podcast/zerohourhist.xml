@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1915 Pleasant Valley earthquake</title>
+      <description>The 1915 Pleasant Valley earthquake occurred at 22:53:21 on October 2 in north-central Nevada. With a moment magnitude of 6.8, a surface wave magnitude of 7.7, and a maximum Mercalli intensity of X (Extreme), it was the strongest earthquake ever recorded in the state.
+
+
+== Earthquake ==
+The earthquake remains as one of the best examples ever for evidence of creating fault scarps along the west sid</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1915-pleasant-valley-earthquake-20260719.mp3" type="audio/mpeg" length="1607520"/>
+      <guid isPermaLink="false">history-1915-pleasant-valley-earthquake-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 14:59:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2008 Peloponnese earthquake</title>
       <description>The 2008 Peloponnese earthquake killed two people, injured more than 220 and left at least 2,000 people homeless in north western Peloponnese, Greece, on June 8. The earthquake hit the area at 1525 EET (1325 UTC), with a moment magnitude of 6.5, according to the Athens Geodynamic Institute.  It was strongly felt as far away as in Athens and in parts of southern Italy. The US Geological Survey repo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2008-peloponnese-earthquake-20260719.mp3" type="audio/mpeg" length="1684800"/>
