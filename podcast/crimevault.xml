@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Haigh</title>
+      <description>John George Haigh, commonly known as the Acid Bath Murderer, was an English serial killer convicted for the murders of six people, although he claimed to have killed nine. Haigh battered to death or shot his victims and disposed of their bodies using sulphuric acid before forging their signatures so he could sell their possessions and collect large sums of money. His actions were the subject of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-haigh-20260719.mp3" type="audio/mpeg" length="1808640"/>
+      <guid isPermaLink="false">crime-john-haigh-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 10:23:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Max Cady</title>
       <description>Max Cady is a fictional character and the primary antagonist of the John D. MacDonald novel The Executioners. He was portrayed by Robert Mitchum in J. Lee Thompson's Cape Fear, by Robert De Niro in Martin Scorsese's remake, and by Javier Bardem in Nick Antosca's television remake.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/max-cady-20260719.mp3" type="audio/mpeg" length="2300160"/>
