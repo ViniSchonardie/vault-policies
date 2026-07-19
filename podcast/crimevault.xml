@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Joseph Naso</title>
+      <description>Joseph Naso, also known as Crazy Joe or the Double Initial Killer, is an American serial killer and serial rapist sentenced to death for the murders of at least four women.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-naso-20260719.mp3" type="audio/mpeg" length="1616160"/>
+      <guid isPermaLink="false">crime-joseph-naso-20260719</guid>
+      <pubDate>Sun, 19 Jul 2026 18:04:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Haigh</title>
       <description>John George Haigh, commonly known as the Acid Bath Murderer, was an English serial killer convicted for the murders of six people, although he claimed to have killed nine. Haigh battered to death or shot his victims and disposed of their bodies using sulphuric acid before forging their signatures so he could sell their possessions and collect large sums of money. His actions were the subject of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-haigh-20260719.mp3" type="audio/mpeg" length="1808640"/>
