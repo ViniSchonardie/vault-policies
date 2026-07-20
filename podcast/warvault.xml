@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Kambula</title>
+      <description>The Battle of Kambula took place on 29 March 1879, during the Anglo-Zulu War, when a Zulu military force attacked the British camp at Kambula, having routed the mounted element of the British force at the Battle of Hlobane the day before. The battle was a severe Zulu defeat and the warriors lost their belief in victory. The war ended after the Zulu defeat at the Battle of Ulundi on 4 July 1879.
+
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-kambula-20260720.mp3" type="audio/mpeg" length="1721760"/>
+      <guid isPermaLink="false">warvault-battle-of-kambula-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 03:33:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Gravia Inn</title>
       <description>The Battle of Gravia Inn (Greek: Μάχη στο Χάνι της Γραβιάς) was fought between Greek revolutionaries and the Ottoman Empire during the Greek War of Independence. The Greek leaders Odysseas Androutsos, Yannis Gouras and Angelis Govios, with a group of c. 120 men, repulsed an Ottoman army numbering 8,000 to 9,000 men and artillery under the command of Omer Vrioni and Köse Mehmed. The battle ended wi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gravia-inn-20260719.mp3" type="audio/mpeg" length="1643520"/>
