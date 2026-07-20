@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1977 San Juan earthquake</title>
+      <description>The 1977 San Juan earthquake, also known as Caucete earthquake, took place in the province of San Juan, Argentina, on 23 November at 06:26:26 AM. It measured 7.5 on the moment magnitude scale, and had a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale.
+The earthquake caused fatalities and severe damage to buildings throughout the province, especially in the city of Caucet</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1977-san-juan-earthquake-20260720.mp3" type="audio/mpeg" length="1519200"/>
+      <guid isPermaLink="false">history-1977-san-juan-earthquake-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 23:08:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2014 Mae Lao earthquake</title>
       <description>The 2014 Mae Lao earthquake occurred at 18:08:43 Indochina Time on May 5. The epicenter was located at a point 9 km (6 mi) south of Mae Lao District, 27 km (17 mi) southwest of Chiang Rai, Thailand. One person was killed as a result.
 
