@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-126</title>
+      <description>STS-126 was the one hundred and twenty-fourth NASA Space Shuttle mission, and twenty-second orbital flight of the Space Shuttle Endeavour (OV-105) to the International Space Station (ISS). The purpose of the mission, referred to as ULF2 by the ISS program, was to deliver equipment and supplies to the station, to service the Solar Alpha Rotary Joints (SARJ), and repair the problem in the starboard </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-126-20260720.mp3" type="audio/mpeg" length="1473120"/>
+      <guid isPermaLink="false">space-sts-126-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 15:53:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-100</title>
       <description>STS-100 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. STS-100 launched on 19 April 2001, and installed the ISS Canadarm2 robotic arm.
 
