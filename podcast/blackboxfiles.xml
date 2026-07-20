@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Surinam Airways Flight 764</title>
+      <description>Surinam Airways Flight 764 was an international scheduled passenger flight of Surinam Airways from Amsterdam Airport Schiphol in the Netherlands to Paramaribo-Zanderij International Airport in Suriname. On 7 June 1989, the DC-8-62 serving the flight crashed during approach to Paramaribo-Zanderij, killing 178 of the 187 on board. It is the deadliest aviation disaster in Suriname's history.
+Investig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/surinam-airways-flight-764-20260720.mp3" type="audio/mpeg" length="1798560"/>
+      <guid isPermaLink="false">aviation-surinam-airways-flight-764-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 08:15:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S7 Airlines Flight 778</title>
       <description>S7 Airlines Flight 778 was a scheduled domestic passenger flight from Moscow to Irkutsk, Russia. On 9 July 2006, at 06:44 local time (8 July, 22:44 UTC), the Airbus A310-324 aircraft operating the route overran the runway during its landing in Irkutsk. The aircraft failed to stop and crashed through the airport's concrete perimeter fence, struck rows of private garages and burst into flames, killi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/s7-airlines-flight-778-20260719.mp3" type="audio/mpeg" length="1456320"/>
