@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Box jellyfish</title>
+      <description>Box jellyfish (class Cubozoa) are cnidarian animals distinguished by their box-like (i.e., cube-shaped) body. Some species of box jellyfish produce potent venom delivered by contact with their tentacles. Stings from some species, including Chironex fleckeri, Carukia barnesi, Malo kingi, and a few others, are extremely painful and often fatal to humans. Some species like the Carybdea murrayana prod</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/box-jellyfish-20260720.mp3" type="audio/mpeg" length="1924320"/>
+      <guid isPermaLink="false">nature-box-jellyfish-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 06:18:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Reticulated python</title>
       <description>The reticulated python (Malayopython reticulatus) is a python species native to South and Southeast Asia. It is the world's longest snake, and the third heaviest after the green anaconda and Burmese python. It is a non-venomous constrictor and an excellent swimmer that has been reported far out at sea. It has colonized many small islands within its range. Because of its wide distribution, it is li</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/reticulated-python-20260719.mp3" type="audio/mpeg" length="1624800"/>
