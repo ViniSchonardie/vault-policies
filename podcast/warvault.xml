@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Second Battle of the Somme</title>
+      <description>The Second Battle of the Somme of 1918 was fought during the First World War on the Western Front from late August to early September, in the basin of the River Somme. It was part of a series of successful counter-offensives in response to the German Spring Offensive, after a pause for redeployment and supply.
+The most significant feature of the two 1918 Somme battles was that with the failure of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-the-somme-20260720.mp3" type="audio/mpeg" length="1606080"/>
+      <guid isPermaLink="false">warvault-second-battle-of-the-somme-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 10:56:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Kambula</title>
       <description>The Battle of Kambula took place on 29 March 1879, during the Anglo-Zulu War, when a Zulu military force attacked the British camp at Kambula, having routed the mounted element of the British force at the Battle of Hlobane the day before. The battle was a severe Zulu defeat and the warriors lost their belief in victory. The war ended after the Zulu defeat at the Battle of Ulundi on 4 July 1879.
 
