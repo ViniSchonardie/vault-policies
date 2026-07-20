@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>American Airlines Flight 625</title>
+      <description>American Airlines Flight 625, a Boeing 727-100, crashed at St. Thomas, U.S. Virgin Islands on April 27, 1976, while on a domestic scheduled passenger flight originating at T. F. Green Airport in Rhode Island and ending at Saint Thomas, United States Virgin Islands, with an intermediate stop at John F. Kennedy International Airport. Out of the 88 occupants on board, 37 were killed in the accident.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-625-20260720.mp3" type="audio/mpeg" length="1535520"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-625-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 21:58:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Allegheny Airlines Flight 853</title>
       <description>On September 9, 1969, Allegheny Airlines Flight 853, a McDonnell Douglas DC-9 operating a regularly scheduled flight from Boston, Massachusetts, to St. Louis, Missouri, with stops in Baltimore, Maryland; Cincinnati, Ohio; and Indianapolis, Indiana, collided mid-air with a Piper PA-28 light aircraft near Fairland, Indiana.  The left wing of the PA-28 sheared off the DC-9's rear tail assembly, causi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/allegheny-airlines-flight-853-20260720.mp3" type="audio/mpeg" length="1584480"/>
