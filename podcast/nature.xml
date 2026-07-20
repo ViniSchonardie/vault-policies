@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rafflesia</title>
+      <description>Rafflesia (), or stinking corpse lily, is a genus of parasitic flowering plants in the family Rafflesiaceae. The species have enormous flowers, the buds rising from the ground or directly from the lower stems of their host plants; one species has the largest flower in the world. Plants of the World Online lists up to 41 species from this genus; all of them are found in Southeast Asia.
+Western Euro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/rafflesia-20260720.mp3" type="audio/mpeg" length="1513920"/>
+      <guid isPermaLink="false">nature-rafflesia-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 20:21:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Toxoplasma gondii</title>
       <description>Toxoplasma gondii () is a species of parasitic alveolate that causes toxoplasmosis. Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals, but members of the cat family (Felidae) are the only known definitive hosts in which the parasite may undergo sexual reproduction.
 In rodents, T. gondii alters behavior in ways that increase the rodents' chances of being preyed u</description>
