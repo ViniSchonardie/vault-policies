@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chuckwagon</title>
+      <description>A chuckwagon, or chuck wagon, is a horse-drawn wagon operating as a mobile field kitchen and frequently covered with a white tarpaulin, also called a camp wagon or round-up wagon. It was historically used for the storage and transportation of food and cooking equipment on the prairies of the United States and Canada. They were included in wagon trains for settlers and traveling workers such as cow</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/chuckwagon-20260720.mp3" type="audio/mpeg" length="1376640"/>
+      <guid isPermaLink="false">heist-chuckwagon-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 06:57:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1974 White House helicopter incident</title>
       <description>On February 17, 1974, U.S. Army Private First Class Robert Kenneth Preston (1953–2009) took off in a stolen Bell UH-1B Iroquois "Huey" helicopter from Tipton Field, Maryland, and landed it on the South Lawn of the White House in a significant breach of security. Preston had enlisted in the Army to become a helicopter pilot. However, he did not graduate from the helicopter training course and lost </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/1974-white-house-helicopter-incident-20260719.mp3" type="audio/mpeg" length="1733280"/>
