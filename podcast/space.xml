@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-100</title>
+      <description>STS-100 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. STS-100 launched on 19 April 2001, and installed the ISS Canadarm2 robotic arm.
+
+
+== Crew ==
+
+
+== Mission highlights ==
+The highest priority objectives of the flight were the installation, activation and checkout of the Canadarm2 robotic arm on the station. The arm - manufactured by MDA </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-100-20260720.mp3" type="audio/mpeg" length="1850880"/>
+      <guid isPermaLink="false">space-sts-100-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 08:52:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TM-12</title>
       <description>Soyuz TM-12 was the 12th expedition to Mir, and included the first Briton in space, Helen Sharman.
 
