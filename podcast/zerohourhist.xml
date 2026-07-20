@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2014 Mae Lao earthquake</title>
+      <description>The 2014 Mae Lao earthquake occurred at 18:08:43 Indochina Time on May 5. The epicenter was located at a point 9 km (6 mi) south of Mae Lao District, 27 km (17 mi) southwest of Chiang Rai, Thailand. One person was killed as a result.
+
+
+== Effects ==
+
+The earthquake was a recorded as having a maximum intensity of very strong (MMI VIII), shaking both northern Thailand and Myanmar in the evening. Peo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2014-mae-lao-earthquake-20260720.mp3" type="audio/mpeg" length="1302240"/>
+      <guid isPermaLink="false">history-2014-mae-lao-earthquake-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 15:54:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Fire of Hamburg</title>
       <description>The Great fire of Hamburg began early on 5 May 1842, in Deichstraße and burned until the morning of 8 May, destroying about one third of the buildings in the Altstadt. It killed 51 people and destroyed 1,700 residences and several important public buildings, necessitating major civic rebuilding and prompting infrastructure improvements. The heavy demand on insurance companies led to the establishm</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/great-fire-of-hamburg-20260720.mp3" type="audio/mpeg" length="1665600"/>
