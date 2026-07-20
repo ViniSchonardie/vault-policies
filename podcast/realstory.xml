@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julien Offray de La Mettrie</title>
+      <description>Julien Offray de La Mettrie (French: [ɔfʁɛ də la metʁi]; 23 November 1709 – 11 November 1751) was a French physician and philosopher, and one of the earliest of the French materialists of the Enlightenment. He is best known for his 1747 work L'homme machine (Man a Machine).
+La Mettrie is most remembered for taking the position that humans are complex animals and no more have souls than other anima</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/julien-offray-de-la-mettrie-20260720.mp3" type="audio/mpeg" length="1673760"/>
+      <guid isPermaLink="false">realstory-julien-offray-de-la-mettrie-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 16:25:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Warren</title>
       <description>Sir Charles Warren (7 February 1840 – 21 January 1927) was a British Army officer of the Royal Engineers. He was one of the earliest European archaeologists of the Biblical Holy Land, and particularly of the Temple Mount. Much of his military service was spent in British South Africa. Previously he was Commissioner of Police of the Metropolis, the head of the London Metropolitan Police, from 1886 </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-warren-20260720.mp3" type="audio/mpeg" length="1391520"/>
