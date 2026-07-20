@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jury Nullification</title>
+      <description>Jury nullification, also known as jury equity or as a perverse verdict, is a decision by the jury in a criminal trial resulting in a verdict of not guilty even though they believe a defendant has broken the law. The jury's reasons may include the belief that the law itself is unjust, that the prosecutor has misapplied the law in the defendant's case, that the punishment for breaking the law is too</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/jury-nullification-20260720.mp3" type="audio/mpeg" length="1434240"/>
+      <guid isPermaLink="false">trials-jury-nullification-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 16:28:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eichmann Trial</title>
       <description>The Eichmann trial was the 1961 trial of major Holocaust perpetrator Adolf Eichmann, who was captured in Argentina by Israeli agents and taken to Israel to stand trial. Eichmann was a senior Nazi party member and served at the rank of Obersturmbannführer in the SS, and was primarily responsible for the implementation of the Final Solution. He was responsible for shipping Jews and other people from</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/eichmann-trial-20260720.mp3" type="audio/mpeg" length="1829760"/>
