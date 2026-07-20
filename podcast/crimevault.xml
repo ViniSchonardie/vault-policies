@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Victor Zsasz</title>
+      <description>Victor Zsasz, also known as Mr. Zsasz or simply Zsasz, is a supervillain appearing in American comic books published by DC Comics. The character first appeared in Batman: Shadow of the Bat #1. He is a sadomasochistic and psychopathic serial killer who carves a tally mark onto himself for each of his victims. A recurring adversary of the superhero Batman, Zsasz belongs to the collective of enemies </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/victor-zsasz-20260720.mp3" type="audio/mpeg" length="1690080"/>
+      <guid isPermaLink="false">crime-victor-zsasz-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 11:38:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Clayton Fountain</title>
       <description>Clayton Anthony Fountain was an American federal prisoner, member of the Aryan Brotherhood, and a convicted murderer.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/clayton-fountain-20260720.mp3" type="audio/mpeg" length="1634880"/>
