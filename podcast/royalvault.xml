@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Elizabeth Ii</title>
+      <description>Elizabeth II (Elizabeth Alexandra Mary; 21 April 1926 – 8 September 2022) was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovere</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/elizabeth-ii-20260720.mp3" type="audio/mpeg" length="1476000"/>
+      <guid isPermaLink="false">royal-elizabeth-ii-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 11:45:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kings College Cambridge</title>
       <description>King's College, formally The King's College of Our Lady and Saint Nicholas in Cambridge, is a constituent college of the University of Cambridge. The college lies beside the River Cam and faces out onto King's Parade in the centre of the city.
 King's was founded in 1441 by King Henry VI soon after founding its sister institution, Eton College. Initially, King's accepted only students from Eton Col</description>
