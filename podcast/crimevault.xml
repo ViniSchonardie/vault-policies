@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Clayton Fountain</title>
+      <description>Clayton Anthony Fountain was an American federal prisoner, member of the Aryan Brotherhood, and a convicted murderer.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/clayton-fountain-20260720.mp3" type="audio/mpeg" length="1634880"/>
+      <guid isPermaLink="false">crime-clayton-fountain-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 04:44:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph Naso</title>
       <description>Joseph Naso, also known as Crazy Joe or the Double Initial Killer, is an American serial killer and serial rapist sentenced to death for the murders of at least four women.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-naso-20260719.mp3" type="audio/mpeg" length="1616160"/>
