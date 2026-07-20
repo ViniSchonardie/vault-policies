@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Soledar</title>
+      <description>The Battle of Soledar was a series of military engagements in and around the urban-type settlement of Soledar during the Battle of Donbas in the Russo-Ukrainian war.
+Russian forces began an offensive on 3 August 2022, shelling Soledar, Bakhmut, and surrounding villages to the south and east. Repeated local Russian assaults on or near Soledar continued into October, with many repelled by the Ukrain</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-soledar-20260720.mp3" type="audio/mpeg" length="1777920"/>
+      <guid isPermaLink="false">warvault-battle-of-soledar-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 17:30:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Second Battle of the Somme</title>
       <description>The Second Battle of the Somme of 1918 was fought during the First World War on the Western Front from late August to early September, in the basin of the River Somme. It was part of a series of successful counter-offensives in response to the German Spring Offensive, after a pause for redeployment and supply.
 The most significant feature of the two 1918 Somme battles was that with the failure of </description>
