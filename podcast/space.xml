@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-122</title>
+      <description>STS-122 was a NASA Space Shuttle mission to the International Space Station (ISS), flown by the Space Shuttle Atlantis. STS-122 marked the 24th shuttle mission to the ISS, and the 121st Space Shuttle flight overall.
+The mission was also referred to as ISS-1E by the ISS program. The primary objective of STS-122 was to deliver the European Columbus science laboratory, built by the European Space Age</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-122-20260720.mp3" type="audio/mpeg" length="1831200"/>
+      <guid isPermaLink="false">space-sts-122-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 23:06:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-126</title>
       <description>STS-126 was the one hundred and twenty-fourth NASA Space Shuttle mission, and twenty-second orbital flight of the Space Shuttle Endeavour (OV-105) to the International Space Station (ISS). The purpose of the mission, referred to as ULF2 by the ISS program, was to deliver equipment and supplies to the station, to service the Solar Alpha Rotary Joints (SARJ), and repair the problem in the starboard </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-126-20260720.mp3" type="audio/mpeg" length="1473120"/>
