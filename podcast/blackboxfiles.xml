@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Allegheny Airlines Flight 853</title>
+      <description>On September 9, 1969, Allegheny Airlines Flight 853, a McDonnell Douglas DC-9 operating a regularly scheduled flight from Boston, Massachusetts, to St. Louis, Missouri, with stops in Baltimore, Maryland; Cincinnati, Ohio; and Indianapolis, Indiana, collided mid-air with a Piper PA-28 light aircraft near Fairland, Indiana.  The left wing of the PA-28 sheared off the DC-9's rear tail assembly, causi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/allegheny-airlines-flight-853-20260720.mp3" type="audio/mpeg" length="1584480"/>
+      <guid isPermaLink="false">aviation-allegheny-airlines-flight-853-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 15:19:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Surinam Airways Flight 764</title>
       <description>Surinam Airways Flight 764 was an international scheduled passenger flight of Surinam Airways from Amsterdam Airport Schiphol in the Netherlands to Paramaribo-Zanderij International Airport in Suriname. On 7 June 1989, the DC-8-62 serving the flight crashed during approach to Paramaribo-Zanderij, killing 178 of the 187 on board. It is the deadliest aviation disaster in Suriname's history.
 Investig</description>
