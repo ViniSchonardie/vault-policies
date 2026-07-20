@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Warren</title>
+      <description>Sir Charles Warren (7 February 1840 – 21 January 1927) was a British Army officer of the Royal Engineers. He was one of the earliest European archaeologists of the Biblical Holy Land, and particularly of the Temple Mount. Much of his military service was spent in British South Africa. Previously he was Commissioner of Police of the Metropolis, the head of the London Metropolitan Police, from 1886 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-warren-20260720.mp3" type="audio/mpeg" length="1391520"/>
+      <guid isPermaLink="false">realstory-charles-warren-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 09:54:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Aubrey</title>
       <description>John Aubrey  (12 March 1626 – 7 June 1697) was an English antiquary, natural philosopher and writer. He was a pioneer archaeologist, who recorded (often for the first time) numerous megalithic and other field monuments in southern England, and who is particularly noted for his systematic examination of the Avebury henge monument. The Aubrey holes at Stonehenge are named after him, although there i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-aubrey-20260719.mp3" type="audio/mpeg" length="1559040"/>
