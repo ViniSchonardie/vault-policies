@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Long Island University</title>
+      <description>Long Island University (LIU) is a private research university  in Brooklyn and Brookville, New York, United States. LIU is classified among "R2: Doctoral Universities – High research activity" according to the Carnegie Classification of Institutions of Higher Education.  The university enrolls over 16,000 students and offers over 500 academic programs at its main campuses, LIU Brooklyn and LIU Pos</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/long-island-university-20260720.mp3" type="audio/mpeg" length="1413600"/>
+      <guid isPermaLink="false">sportscrime-long-island-university-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 21:06:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sara Errani</title>
       <description>Sara Errani (Italian: [ˈsaːra erˈraːni]; born 29 April 1987) is an Italian professional tennis player. Errani is one of only seven women who have completed a Career Golden Slam in doubles. She is an Olympic Games gold medalist, a former doubles world No. 1, ten-time major champion in doubles and mixed doubles and a finalist in singles. With 9 singles, 36 doubles and 4 mixed doubles titles, she is </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/sara-errani-20260720.mp3" type="audio/mpeg" length="1479360"/>
