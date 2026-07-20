@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Great Fire of Hamburg</title>
+      <description>The Great fire of Hamburg began early on 5 May 1842, in Deichstraße and burned until the morning of 8 May, destroying about one third of the buildings in the Altstadt. It killed 51 people and destroyed 1,700 residences and several important public buildings, necessitating major civic rebuilding and prompting infrastructure improvements. The heavy demand on insurance companies led to the establishm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/great-fire-of-hamburg-20260720.mp3" type="audio/mpeg" length="1665600"/>
+      <guid isPermaLink="false">history-great-fire-of-hamburg-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 08:44:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1982 North Yemen earthquake</title>
       <description>The 1982 North Yemen earthquake hit near the city of Dhamar, North Yemen (now part of Yemen) on December 13. Measuring 6.2 on the moment magnitude scale, with a maximum perceived intensity of VIII (Severe) on the Mercalli intensity scale, as many as 2,800 people were killed and another 1,500 injured. The shock occurred within several hundred kilometers of a plate boundary in a geologically complex</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1982-north-yemen-earthquake-20260719.mp3" type="audio/mpeg" length="1654560"/>
