@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sphinx</title>
+      <description>A sphinx ( SFINKS; Ancient Greek: σφίγξ, pronounced [spʰíŋks]; pl. sphinxes or sphinges ) is a mythical creature with the head of a human, the body of a lion, and the wings of an eagle.
+In Greek tradition, the sphinx is a treacherous and merciless being with the head of a woman, the haunches of a lion, and the wings of a bird.
+According to Greek myth, she challenges those who encounter her to answ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/sphinx-20260720.mp3" type="audio/mpeg" length="1306560"/>
+      <guid isPermaLink="false">mythology-sphinx-20260720</guid>
+      <pubDate>Mon, 20 Jul 2026 12:22:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Enki</title>
       <description>Enki (Sumerian: 𒀭𒂗𒆠 dEN-KI), also known as Ea (Akkadian: 𒀭𒂍𒀀 dE₂-A), was the Mesopotamian god of wisdom, crafts, fresh subterranean waters, magic, and incantations. He was believed to rule the Abzû. In Mesopotamian astronomy, he was associated with the stars of the southern band of the sky. Enki's wife was Damgalnuna, and their children included Nanshe, Asalluhi, Marduk and Enbilulu. His suk</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/enki-20260720.mp3" type="audio/mpeg" length="1376160"/>
