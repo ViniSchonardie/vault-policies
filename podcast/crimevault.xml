@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Larry Eyler</title>
+      <description>Larry William Eyler, also called the Interstate Killer and the Highway Killer, was an American serial killer who murdered a minimum of twenty-one teenage boys and young men across the Midwestern United States between 1982 and 1984. His victims were all discovered in locations close to or accessible via the Interstate Highway System in the states of Indiana and Illinois.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/larry-eyler-20260721.mp3" type="audio/mpeg" length="1871520"/>
+      <guid isPermaLink="false">crime-larry-eyler-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 04:24:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Victor Zsasz</title>
       <description>Victor Zsasz, also known as Mr. Zsasz or simply Zsasz, is a supervillain appearing in American comic books published by DC Comics. The character first appeared in Batman: Shadow of the Bat #1. He is a sadomasochistic and psychopathic serial killer who carves a tally mark onto himself for each of his victims. A recurring adversary of the superhero Batman, Zsasz belongs to the collective of enemies </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/victor-zsasz-20260720.mp3" type="audio/mpeg" length="1690080"/>
