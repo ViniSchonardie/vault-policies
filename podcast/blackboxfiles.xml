@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>South African Airways Flight 228</title>
+      <description>South African Airways Flight 228 was a scheduled flight from Johannesburg, South Africa, to London, England. The Boeing 707-300C operating the flight, which was only six weeks old, flew into the ground soon after take-off after a scheduled stopover in Windhoek, South West Africa (present day Namibia) on 20 April 1968. Five passengers survived, while 123 people died. The subsequent investigation de</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-228-20260721.mp3" type="audio/mpeg" length="1761600"/>
+      <guid isPermaLink="false">aviation-south-african-airways-flight-228-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 21:58:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adam Air Flight 172</title>
       <description>Adam Air Flight 172 was a scheduled domestic passenger flight from Soekarno–Hatta International Airport to Juanda Airport, Surabaya, Indonesia. On 21 February 2007, the Boeing 737-300 operating the flight made a hard landing at Surabaya and suffered cracking of the fuselage in the middle of the passenger section. All six of Adam Air's remaining 737s were immediately grounded, though five of them w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/adam-air-flight-172-20260721.mp3" type="audio/mpeg" length="1562400"/>
