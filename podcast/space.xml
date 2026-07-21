@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-6</title>
+      <description>SpaceX Crew-6 was the sixth crewed operational NASA Commercial Crew flight of a Crew Dragon spacecraft, and the ninth overall crewed orbital flight. The mission launched on 2 March 2023 at 05:34:14 UTC, and it successfully docked to the International Space Station (ISS) on 3 March 2023 at 06:40 UTC. The Crew-6 mission transported four crew members to the International Space Station (ISS). Two NASA</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-6-20260721.mp3" type="audio/mpeg" length="1882560"/>
+      <guid isPermaLink="false">space-spacex-crew-6-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 15:48:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX Crew-5</title>
       <description>SpaceX Crew-5 was the fifth operational NASA Commercial Crew Program flight of a Crew Dragon spacecraft, and the eighth overall crewed orbital flight. The mission was successfully launched on October 5, 2022, with the aim of transporting four crew members to the International Space Station (ISS). The Crew Dragon spacecraft docked at the ISS on October 6, 2022, at 21:01 UTC. 
 The crew for this miss</description>
