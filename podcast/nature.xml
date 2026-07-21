@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Piranha</title>
+      <description>A piranha (, or ; Portuguese: [piˈɾɐ̃ɲɐ]) is any of a number of freshwater fish species in the subfamily Serrasalminae, of the family Serrasalmidae, in the order Characiformes. These fish inhabit South American rivers, floodplains, lakes and reservoirs. Although often described as extremely predatory and mainly feeding on fish, their dietary habits vary extensively, and they will also take plant m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/piranha-20260721.mp3" type="audio/mpeg" length="1323840"/>
+      <guid isPermaLink="false">nature-piranha-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lionfish</title>
       <description>Lionfish (genus Pterois) are venomous marine fish native to the Indo-Pacific. They are characterized by conspicuous warning coloration with red or black bands and ostentatious dorsal fins tipped with venomous spines. Pterois radiata, Pterois volitans, and Pterois miles are the most commonly studied species in the genus. Pterois species are popular aquarium fish. P. volitans and P. miles are recent</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lionfish-20260721.mp3" type="audio/mpeg" length="1901760"/>
