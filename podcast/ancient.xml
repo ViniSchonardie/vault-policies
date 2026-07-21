@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Dreux</title>
+      <description>The Battle of Dreux was fought on 19 December 1562 between Catholics and Huguenots. The Catholics were led by Anne de Montmorency while Louis I, Prince of Condé, led the Huguenots. Though commanders from both sides were captured, the French Catholics won the battle which would constitute the first major engagement of the French Wars of Religion and the only major engagement of the first French War</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-dreux-20260721.mp3" type="audio/mpeg" length="1669920"/>
+      <guid isPermaLink="false">ancient-battle-of-dreux-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 15:01:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Carberry Hill</title>
       <description>The Battle of Carberry Hill took place on 15 June 1567, near Carberry Tower in East Lothian, a few miles east of Edinburgh, Scotland.
 A number of Scottish lords objected to the rule of Mary, Queen of Scots, after she married Earl of Bothwell, who was widely believed to have murdered her previous husband Lord Darnley. The Lords were intent to avenge Darnley's death. However, Bothwell escaped from t</description>
