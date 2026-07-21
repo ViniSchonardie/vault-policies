@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Inquisition In France</title>
+      <description>France was one of the first countries where the papal inquisition was established in the 13th century. This ecclesiastical judicial institution was created to combat heresies. The southern region of France, Languedoc, was the primary center of inquisition activity in Europe until the mid-14th century. Most of the preserved sources concerning the inquisition (including trial materials) originate fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/inquisition-in-france-20260721.mp3" type="audio/mpeg" length="1950240"/>
+      <guid isPermaLink="false">trials-inquisition-in-france-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 16:29:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trial Of Anders Behring Breivik</title>
       <description>The trial of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, took place between 16 April and 22 June 2012 in Oslo District Court. Breivik was sentenced to 21 years of preventive detention on 24 August 2012. 170 media organisations were accredited to cover the proceedings, involving some 800 individual journalists.
 The main question during the trial became the extent of the defe</description>
