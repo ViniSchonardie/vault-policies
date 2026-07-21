@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lionfish</title>
+      <description>Lionfish (genus Pterois) are venomous marine fish native to the Indo-Pacific. They are characterized by conspicuous warning coloration with red or black bands and ostentatious dorsal fins tipped with venomous spines. Pterois radiata, Pterois volitans, and Pterois miles are the most commonly studied species in the genus. Pterois species are popular aquarium fish. P. volitans and P. miles are recent</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lionfish-20260721.mp3" type="audio/mpeg" length="1901760"/>
+      <guid isPermaLink="false">nature-lionfish-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 12:21:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dhole</title>
       <description>The dhole ( dohl; Cuon alpinus) is a canid native to South, East and Southeast Asia. The sole member of the genus Cuon, it is anatomically distinguished from members of the genus Canis in several aspects: its skull is convex rather than concave in profile, it lacks a third lower molar, and the upper molars possess only a single cusp as opposed to between two and four. During the Pleistocene, the d</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dhole-20260721.mp3" type="audio/mpeg" length="1854240"/>
