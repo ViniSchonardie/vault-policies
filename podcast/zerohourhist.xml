@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1925 Dali earthquake</title>
+      <description>The 1925 Dali earthquake occurred at 14:42 UTC on 16 March. It had an estimated magnitude of 7.0 on the surface-wave magnitude scale and a maximum perceived intensity of at least IX (Violent) on the Mercalli intensity scale. It had an epicenter in the province of Yunnan in southern China and killed an estimated 5,000 people.
+
+
+== Tectonic setting ==
+Yunnan lies in a tectonically complex zone affec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1925-dali-earthquake-20260721.mp3" type="audio/mpeg" length="1779840"/>
+      <guid isPermaLink="false">history-1925-dali-earthquake-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 23:08:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1881 Chios earthquake</title>
       <description>The 1881 Chios earthquake occurred at 13:40 local time (11:30 UTC) on 3 April. It caused severe damage on the island of Chios and also affected Çeşme and Alaçatı on the coast of Turkey. The earthquake had an estimated magnitude of 7.3 and there were an estimated 7,866 casualties. The devastation from the earthquake was the last of the three 'catastrophes' that affected the island of Chios in the 1</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1881-chios-earthquake-20260721.mp3" type="audio/mpeg" length="1529280"/>
