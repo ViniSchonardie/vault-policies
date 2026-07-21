@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wild West shows</title>
+      <description>Wild West shows were traveling vaudeville performances in the United States and Europe that existed around 1870–1920. The shows began as theatrical stage productions and evolved into open-air shows that depicted romanticized stereotypes of cowboys, Plains Indians, army scouts, outlaws, and wild animals that existed in the American West. While some of the storylines and characters were based on his</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/wild-west-shows-20260721.mp3" type="audio/mpeg" length="1931040"/>
+      <guid isPermaLink="false">heist-wild-west-shows-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 13:15:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1907 Tiflis bank robbery</title>
       <description>An armed bank robbery took place on 26 June 1907[a] in the city of Tiflis (present-day Tbilisi, the capital of Georgia) in the Tiflis Governorate in the Caucasus Viceroyalty of the Russian Empire. A Bolshevik group stole a bank cash shipment to fund their revolutionary activities. The robbers attacked a bank stagecoach, and the surrounding police and soldiers, using bombs and guns while the stagec</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/1907-tiflis-bank-robbery-20260721.mp3" type="audio/mpeg" length="1785600"/>
