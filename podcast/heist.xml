@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1907 Tiflis bank robbery</title>
+      <description>An armed bank robbery took place on 26 June 1907[a] in the city of Tiflis (present-day Tbilisi, the capital of Georgia) in the Tiflis Governorate in the Caucasus Viceroyalty of the Russian Empire. A Bolshevik group stole a bank cash shipment to fund their revolutionary activities. The robbers attacked a bank stagecoach, and the surrounding police and soldiers, using bombs and guns while the stagec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/1907-tiflis-bank-robbery-20260721.mp3" type="audio/mpeg" length="1785600"/>
+      <guid isPermaLink="false">heist-1907-tiflis-bank-robbery-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 06:39:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Ruffo</title>
       <description>John Ruffo (born November 26, 1954) is an American former business executive, white-collar criminal and con man, who in 1998 was convicted in a scheme to defraud many US and foreign banking institutions of over 350 million US dollars. The swindle is considered one of the most significant cases of bank fraud in US history. He has been a fugitive from justice ever since, and is on the U.S. Marshals </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/john-ruffo-20260720.mp3" type="audio/mpeg" length="1843680"/>
