@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Maysalun</title>
+      <description>The Battle of Maysalun (Arabic: معركة ميسلون), also known as the Battle of Maysalun Pass or the Battle of Khan Maysalun (French: Bataille de Khan Mayssaloun), was a four-hour battle fought between the forces of the Arab Kingdom of Syria and the French Army of the Levant on 24 July 1920 near Maysalun in the Anti-Lebanon Mountains, about 25 kilometres (16 mi) west of Damascus.
+In October 1918, Arab </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-maysalun-20260721.mp3" type="audio/mpeg" length="1386720"/>
+      <guid isPermaLink="false">warvault-battle-of-maysalun-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 17:11:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Chillianwala</title>
       <description>The Battle of Chillianwala (also spelled Chillianwallah) was fought in January 1849 during the Second Anglo-Sikh War in the Chillianwala region (Mandi Bahauddin) of Punjab, now part of Pakistan. The battle was one of the bloodiest fought by the British East India Company. Both armies held their positions at the end of the battle and both sides claimed victory. The battle was a strategic check to i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chillianwala-20260721.mp3" type="audio/mpeg" length="1744320"/>
