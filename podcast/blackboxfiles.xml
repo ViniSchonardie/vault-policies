@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest Airlines Flight 345</title>
+      <description>Southwest Airlines Flight 345 was a scheduled flight from Nashville International Airport, Tennessee to New York City's LaGuardia Airport. On July 22, 2013, the Boeing 737 operating the route suffered a front landing-gear collapse while landing at LaGuardia Airport, injuring 9 people on board. The aircraft, which was worth an estimated $15.5 million at the time, was written off and scrapped as a r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-345-20260721.mp3" type="audio/mpeg" length="1411680"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-345-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:38:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Airlines Flight 625</title>
       <description>American Airlines Flight 625, a Boeing 727-100, crashed at St. Thomas, U.S. Virgin Islands on April 27, 1976, while on a domestic scheduled passenger flight originating at T. F. Green Airport in Rhode Island and ending at Saint Thomas, United States Virgin Islands, with an intermediate stop at John F. Kennedy International Airport. Out of the 88 occupants on board, 37 were killed in the accident.
 </description>
