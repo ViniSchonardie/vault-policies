@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-5</title>
+      <description>SpaceX Crew-5 was the fifth operational NASA Commercial Crew Program flight of a Crew Dragon spacecraft, and the eighth overall crewed orbital flight. The mission was successfully launched on October 5, 2022, with the aim of transporting four crew members to the International Space Station (ISS). The Crew Dragon spacecraft docked at the ISS on October 6, 2022, at 21:01 UTC. 
+The crew for this miss</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-5-20260721.mp3" type="audio/mpeg" length="1510080"/>
+      <guid isPermaLink="false">space-spacex-crew-5-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 08:18:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-122</title>
       <description>STS-122 was a NASA Space Shuttle mission to the International Space Station (ISS), flown by the Space Shuttle Atlantis. STS-122 marked the 24th shuttle mission to the ISS, and the 121st Space Shuttle flight overall.
 The mission was also referred to as ISS-1E by the ISS program. The primary objective of STS-122 was to deliver the European Columbus science laboratory, built by the European Space Age</description>
