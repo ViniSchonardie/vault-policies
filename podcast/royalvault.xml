@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Iii</title>
+      <description>Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and the 14 other Commonwealth realms.
+Charles is the eldest son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He was born during the reign of his maternal grandfather, King George VI, and became heir apparent following his mother's accession in 1952. He was created Prince of Wales in 1958 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/charles-iii-20260721.mp3" type="audio/mpeg" length="1566720"/>
+      <guid isPermaLink="false">royal-charles-iii-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 18:16:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John The Fearless</title>
       <description>John I (French: Jean sans Peur ; Dutch: Jan zonder Vrees; 28 May 1371 – 10 September 1419) was a scion of the French royal family who ruled the Burgundian State as the Duke of Burgundy from 1404 until his assassination in 1419. He played a key role in French national affairs during the early 15th century, particularly in his struggle to remove the mentally ill King Charles VI and during the Hundre</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/john-the-fearless-20260721.mp3" type="audio/mpeg" length="1607520"/>
