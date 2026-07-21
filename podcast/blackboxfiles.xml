@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Adam Air Flight 172</title>
+      <description>Adam Air Flight 172 was a scheduled domestic passenger flight from Soekarno–Hatta International Airport to Juanda Airport, Surabaya, Indonesia. On 21 February 2007, the Boeing 737-300 operating the flight made a hard landing at Surabaya and suffered cracking of the fuselage in the middle of the passenger section. All six of Adam Air's remaining 737s were immediately grounded, though five of them w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/adam-air-flight-172-20260721.mp3" type="audio/mpeg" length="1562400"/>
+      <guid isPermaLink="false">aviation-adam-air-flight-172-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 15:12:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest Airlines Flight 345</title>
       <description>Southwest Airlines Flight 345 was a scheduled flight from Nashville International Airport, Tennessee to New York City's LaGuardia Airport. On July 22, 2013, the Boeing 737 operating the route suffered a front landing-gear collapse while landing at LaGuardia Airport, injuring 9 people on board. The aircraft, which was worth an estimated $15.5 million at the time, was written off and scrapped as a r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-345-20260721.mp3" type="audio/mpeg" length="1411680"/>
