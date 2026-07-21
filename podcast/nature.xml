@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dhole</title>
+      <description>The dhole ( dohl; Cuon alpinus) is a canid native to South, East and Southeast Asia. The sole member of the genus Cuon, it is anatomically distinguished from members of the genus Canis in several aspects: its skull is convex rather than concave in profile, it lacks a third lower molar, and the upper molars possess only a single cusp as opposed to between two and four. During the Pleistocene, the d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dhole-20260721.mp3" type="audio/mpeg" length="1854240"/>
+      <guid isPermaLink="false">nature-dhole-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 05:50:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rafflesia</title>
       <description>Rafflesia (), or stinking corpse lily, is a genus of parasitic flowering plants in the family Rafflesiaceae. The species have enormous flowers, the buds rising from the ground or directly from the lower stems of their host plants; one species has the largest flower in the world. Plants of the World Online lists up to 41 species from this genus; all of them are found in Southeast Asia.
 Western Euro</description>
