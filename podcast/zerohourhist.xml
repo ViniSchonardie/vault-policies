@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Ischia earthquake</title>
+      <description>The 2017 Ischia earthquake occurred in the island of Ischia, Campania, in southern Italy. The main shock occurred at 20:57 CEST (18:57 UTC) on 21 August 2017, and was rated 3.9 Mw or 4.2 mb on the moment magnitude scale.
+Despite the moderate magnitude, several buildings and a church collapsed. One woman died in Casamicciola Terme after being hit by rubble that fell from a church. Another woman die</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2017-ischia-earthquake-20260721.mp3" type="audio/mpeg" length="1743360"/>
+      <guid isPermaLink="false">history-2017-ischia-earthquake-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 08:12:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1977 San Juan earthquake</title>
       <description>The 1977 San Juan earthquake, also known as Caucete earthquake, took place in the province of San Juan, Argentina, on 23 November at 06:26:26 AM. It measured 7.5 on the moment magnitude scale, and had a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale.
 The earthquake caused fatalities and severe damage to buildings throughout the province, especially in the city of Caucet</description>
