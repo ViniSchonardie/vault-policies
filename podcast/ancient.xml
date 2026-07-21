@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Battle of Carberry Hill</title>
+      <description>The Battle of Carberry Hill took place on 15 June 1567, near Carberry Tower in East Lothian, a few miles east of Edinburgh, Scotland.
+A number of Scottish lords objected to the rule of Mary, Queen of Scots, after she married Earl of Bothwell, who was widely believed to have murdered her previous husband Lord Darnley. The Lords were intent to avenge Darnley's death. However, Bothwell escaped from t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/battle-of-carberry-hill-20260721.mp3" type="audio/mpeg" length="1785600"/>
+      <guid isPermaLink="false">ancient-battle-of-carberry-hill-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 07:36:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Valerian II</title>
       <description>Publius Licinius Cornelius Valerianus (died 258), also known as Valerian II (), was the eldest son of Roman Emperor Gallienus and Augusta Cornelia Salonina who was of Greek origin and grandson of the Emperor Valerian who was of a noble and traditional senatorial family.
 
