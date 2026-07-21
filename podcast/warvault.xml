@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>First Battle of the Aisne</title>
+      <description>The First Battle of the Aisne (French: 1ère Bataille de l'Aisne) was the Allied follow-up offensive against the right wing of the German First Army (led by Alexander von Kluck) and the Second Army (led by Karl von Bülow) as they retreated after the First Battle of the Marne earlier in September 1914. The Advance to the Aisne (6 September – 1 October) consisted of the Battle of the Marne (7–10 Sept</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-the-aisne-20260721.mp3" type="audio/mpeg" length="1681440"/>
+      <guid isPermaLink="false">warvault-first-battle-of-the-aisne-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 03:00:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Soledar</title>
       <description>The Battle of Soledar was a series of military engagements in and around the urban-type settlement of Soledar during the Battle of Donbas in the Russo-Ukrainian war.
 Russian forces began an offensive on 3 August 2022, shelling Soledar, Bakhmut, and surrounding villages to the south and east. Repeated local Russian assaults on or near Soledar continued into October, with many repelled by the Ukrain</description>
