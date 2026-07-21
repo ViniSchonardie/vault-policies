@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John The Fearless</title>
+      <description>John I (French: Jean sans Peur ; Dutch: Jan zonder Vrees; 28 May 1371 – 10 September 1419) was a scion of the French royal family who ruled the Burgundian State as the Duke of Burgundy from 1404 until his assassination in 1419. He played a key role in French national affairs during the early 15th century, particularly in his struggle to remove the mentally ill King Charles VI and during the Hundre</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/john-the-fearless-20260721.mp3" type="audio/mpeg" length="1607520"/>
+      <guid isPermaLink="false">royal-john-the-fearless-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 11:08:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Edward The Black Prince</title>
       <description>Edward of Woodstock (15 June 1330 – 8 June 1376), known as the Black Prince, was the eldest son and heir apparent of King Edward III of England. He died before his father, and his son Richard II therefore succeeded to the throne instead. Edward was one of the most successful English commanders of the Hundred Years' War (1337–1453). He was regarded by English contemporaries as a model of chivalry a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/edward-the-black-prince-20260721.mp3" type="audio/mpeg" length="1640640"/>
