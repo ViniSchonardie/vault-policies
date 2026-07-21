@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tantalus</title>
+      <description>Tantalus (Ancient Greek: Τάνταλος, romanized: Tántalos), also called Atys, was a Greek mythological figure, most famous for his punishment in Tartarus: for either revealing many secrets of the gods, for stealing ambrosia from them, or for trying to trick them into eating his son, he was made to stand in a pool of water beneath a fruit tree with low branches, with the fruit ever eluding his grasp, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/tantalus-20260721.mp3" type="audio/mpeg" length="1596480"/>
+      <guid isPermaLink="false">mythology-tantalus-20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 19:18:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jörmungandr</title>
       <description>In Norse mythology, Jörmungandr (Old Norse: Jǫrmungandr, lit. 'the Vast 'gand'', see Etymology), also known as the Midgard Serpent or World Serpent (Old Norse: Miðgarðsormr, "worm of Midgard"), is an unfathomably large and monstrous sea serpent or worm who dwells in the world sea, encircling the Earth (Midgard) and biting his own tail, an example of an ouroboros. As a result of him surrounding Mid</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/jrmungandr-20260721.mp3" type="audio/mpeg" length="1514400"/>
