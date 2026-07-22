@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bank vault</title>
+      <description>A bank vault is a secure room used by banks to store and protect valuables, cash, and important documents. Modern bank vaults are typically made of reinforced concrete and steel, with complex locking mechanisms and security systems. This article covers the design, construction, and security features of bank vaults.
+
+Unlike safes, vaults are an integral part of the building within which they are bu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/heist-audio/bank-vault-20260722.mp3" type="audio/mpeg" length="1802400"/>
+      <guid isPermaLink="false">heist-bank-vault-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 06:39:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Frederick Russell Burnham</title>
       <description>Frederick Russell Burnham (May 11, 1861 – September 1, 1947) was an American scout and world-traveling adventurer. He is known for his service to the British South Africa Company and to the British Army in colonial Africa, and for teaching woodcraft to Robert Baden-Powell in Rhodesia. Burnham helped inspire the founding of the international Scouting Movement.
 Burnham was born on a Dakota Sioux Ind</description>
