@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Central Mexico earthquake</title>
+      <description>The 2017 Puebla earthquake, also known as 19S, struck at 13:14 CDT (18:14 UTC) on 19 September 2017 with an estimated magnitude of 7.1 Mw and strong shaking for about 20 seconds. Its epicenter was about 55 km (34 mi) south of the city of Puebla, Mexico. The earthquake caused damage in the Mexican states of Puebla and Morelos and in the Greater Mexico City area, including the collapse of more than </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2017-central-mexico-earthquake-20260722.mp3" type="audio/mpeg" length="1865760"/>
+      <guid isPermaLink="false">history-2017-central-mexico-earthquake-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 23:16:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1990 Carlentini earthquake</title>
       <description>The 1990 Carlentini earthquake (Italian: Terremoto di Carlentini del 1990) occurred off the Sicilian coast, 20 km east northeast from the town of Augusta, Sicily on 13 December at 01:24 local time. The moderately-sized earthquake measuring 5.6 on the moment magnitude scale (Mw) resulted in the deaths of 19 people and caused at least 200 injuries. It also inflicted significant damage in the region,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1990-carlentini-earthquake-20260722.mp3" type="audio/mpeg" length="1657440"/>
