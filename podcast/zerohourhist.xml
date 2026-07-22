@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1990 Carlentini earthquake</title>
+      <description>The 1990 Carlentini earthquake (Italian: Terremoto di Carlentini del 1990) occurred off the Sicilian coast, 20 km east northeast from the town of Augusta, Sicily on 13 December at 01:24 local time. The moderately-sized earthquake measuring 5.6 on the moment magnitude scale (Mw) resulted in the deaths of 19 people and caused at least 200 injuries. It also inflicted significant damage in the region,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/1990-carlentini-earthquake-20260722.mp3" type="audio/mpeg" length="1657440"/>
+      <guid isPermaLink="false">history-1990-carlentini-earthquake-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 15:46:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2014 Orkney earthquake</title>
       <description>The 2014 Orkney earthquake occurred at 12:22:33 SAST on 5 August, with the epicentre near Orkney, a gold mining town in the Klerksdorp district in the North West province of South Africa. The shock was assigned a magnitude of 5.5 on the Richter scale by the Council for Geoscience (CGS) in South Africa, making it the biggest earthquake in South Africa since the 1969 Tulbagh earthquake, which had a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2014-orkney-earthquake-20260722.mp3" type="audio/mpeg" length="1877760"/>
