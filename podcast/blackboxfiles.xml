@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>FedEx Express Flight 647</title>
+      <description>FedEx Express Flight 647 was a scheduled domestic cargo flight between Metropolitan Oakland International Airport, Oakland, California and Memphis International Airport, Memphis, Tennessee in the United States, that crashed during landing on December 18, 2003.  Everybody on board survived the accident, and the aircraft was written off.
+
+
+== Background ==
+
+
+=== Aircraft ===
+The aircraft involved wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/fedex-express-flight-647-20260722.mp3" type="audio/mpeg" length="1462560"/>
+      <guid isPermaLink="false">aviation-fedex-express-flight-647-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 22:00:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2017 Irish Coast Guard Rescue 116 crash</title>
       <description>In the early hours of 14 March 2017, a Sikorsky S-92 helicopter operated by CHC Helicopter under contract to the Irish Coast Guard (call sign Rescue 116) crashed into Blackrock, an offshore lighthouse, while supporting a rescue operation off County Mayo, on Ireland's west coast. All four crew members on board, Captain Dara Fitzpatrick, Chief Pilot Mark Duffy, winch operator Paul Ormsby, and winch </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2017-irish-coast-guard-rescue-116-crash-20260722.mp3" type="audio/mpeg" length="1742880"/>
