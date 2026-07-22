@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-36</title>
+      <description>STS-36 was a NASA Space Shuttle mission, during which Space Shuttle Atlantis carried a classified payload for the U.S. Department of Defense (DoD) (believed to have been a Misty reconnaissance satellite) into orbit. STS-36 was the 34th shuttle mission overall, the sixth flight for Atlantis, and the fourth night launch of the shuttle program. It launched from Kennedy Space Center, Florida, on Febru</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-36-20260722.mp3" type="audio/mpeg" length="1685760"/>
+      <guid isPermaLink="false">space-sts-36-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 23:08:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-74</title>
       <description>STS-74 was the fourth mission of the US/Russian Shuttle–Mir program, and the second docking of the Space Shuttle with Mir. Space Shuttle Atlantis lifted off from Kennedy Space Center launch pad 39A on 12 November 1995. The mission ended 8 days later with the landing of Atlantis back at Kennedy. It was the second in a series of seven straight missions to the station flown by Atlantis.
 The shuttle d</description>
