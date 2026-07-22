@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Irish Coast Guard Rescue 116 crash</title>
+      <description>In the early hours of 14 March 2017, a Sikorsky S-92 helicopter operated by CHC Helicopter under contract to the Irish Coast Guard (call sign Rescue 116) crashed into Blackrock, an offshore lighthouse, while supporting a rescue operation off County Mayo, on Ireland's west coast. All four crew members on board, Captain Dara Fitzpatrick, Chief Pilot Mark Duffy, winch operator Paul Ormsby, and winch </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2017-irish-coast-guard-rescue-116-crash-20260722.mp3" type="audio/mpeg" length="1742880"/>
+      <guid isPermaLink="false">aviation-2017-irish-coast-guard-rescue-116-crash-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 15:17:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest Airlines Flight 812</title>
       <description>Southwest Airlines Flight 812 was a domestic flight from Phoenix Sky Harbor International Airport in Phoenix, Arizona to Sacramento International Airport in Sacramento, California operated by a Boeing 737-300 passenger jet. On April 1, 2011, the flight suffered rapid depressurization while cruising at 34,000 ft (10,000 m) near Yuma, Arizona, leading to an emergency landing at Yuma International Ai</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-812-20260722.mp3" type="audio/mpeg" length="1476480"/>
