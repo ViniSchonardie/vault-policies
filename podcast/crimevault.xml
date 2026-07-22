@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peter Manuel</title>
+      <description>Peter Thomas Anthony Manuel was a Scottish serial killer known as the Beast of Birkenshaw and the Bedroom Killer who committed the murders of seven people across Lanarkshire, Scotland, between 1956 and 1958. He is also suspected of murdering two further victims—one in East Kilbride, Scotland and one in Edmundbyers, England—in 1956 and 1957 respectively.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-manuel-20260722.mp3" type="audio/mpeg" length="1308960"/>
+      <guid isPermaLink="false">crime-peter-manuel-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 04:25:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peter Stumpp</title>
       <description>Peter Stumpp was a German farmer and alleged serial killer, accused of werewolfery, witchcraft, and cannibalism. He was known as "the Werewolf of Bedburg".</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-stumpp-20260721.mp3" type="audio/mpeg" length="1616640"/>
