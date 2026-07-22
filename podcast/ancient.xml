@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Richard Bellingham</title>
+      <description>Richard Bellingham (c. 1592 – 7 December 1672) was a colonial magistrate, lawyer, and several-time governor of the Massachusetts Bay Colony, and the last surviving signatory of the colonial charter at his death. A wealthy lawyer in Lincolnshire prior to his departure for the New World in 1634, he was a liberal political opponent of the moderate John Winthrop, arguing for expansive views on suffrag</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/richard-bellingham-20260722.mp3" type="audio/mpeg" length="1671840"/>
+      <guid isPermaLink="false">ancient-richard-bellingham-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 15:00:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jan Rubens</title>
       <description>Jan Rubens (; Dutch: [ˈrybəns]; 1530–1587) was a Flemish lawyer and city administrator of Antwerp, then located in the Spanish Netherlands. A convert to Calvinism, he fled Antwerp with his family because of the suppression of Protestantism in the Spanish Netherlands and settled in Cologne. He was imprisoned in 1571 because of an affair with his client Anna of Saxony, the second wife of William I o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/ancient-audio/jan-rubens-20260722.mp3" type="audio/mpeg" length="1433760"/>
