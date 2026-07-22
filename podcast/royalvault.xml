@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Prince Of Wales</title>
+      <description>Prince of Wales is a title traditionally given to the male heir apparent to the English, and later, the British throne. The title originated with the Welsh rulers of Gwynedd who, from the late 12th century, used it (albeit inconsistently) to assert their supremacy over the other Welsh rulers. However, to mark the finalisation of his conquest of Wales, in 1301, Edward I of England invested his son </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/prince-of-wales-20260722.mp3" type="audio/mpeg" length="1340160"/>
+      <guid isPermaLink="false">royal-prince-of-wales-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 04:25:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Iii</title>
       <description>Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and the 14 other Commonwealth realms.
 Charles is the eldest son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He was born during the reign of his maternal grandfather, King George VI, and became heir apparent following his mother's accession in 1952. He was created Prince of Wales in 1958 </description>
