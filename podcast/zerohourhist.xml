@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2014 Orkney earthquake</title>
+      <description>The 2014 Orkney earthquake occurred at 12:22:33 SAST on 5 August, with the epicentre near Orkney, a gold mining town in the Klerksdorp district in the North West province of South Africa. The shock was assigned a magnitude of 5.5 on the Richter scale by the Council for Geoscience (CGS) in South Africa, making it the biggest earthquake in South Africa since the 1969 Tulbagh earthquake, which had a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/zerohourhist-audio/2014-orkney-earthquake-20260722.mp3" type="audio/mpeg" length="1877760"/>
+      <guid isPermaLink="false">history-2014-orkney-earthquake-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 08:11:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1925 Dali earthquake</title>
       <description>The 1925 Dali earthquake occurred at 14:42 UTC on 16 March. It had an estimated magnitude of 7.0 on the surface-wave magnitude scale and a maximum perceived intensity of at least IX (Violent) on the Mercalli intensity scale. It had an epicenter in the province of Yunnan in southern China and killed an estimated 5,000 people.
 
