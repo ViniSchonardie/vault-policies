@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Great horned owl</title>
+      <description>The great horned owl (Bubo virginianus), also known as the tiger owl (originally derived from early naturalists' description as the "winged tiger" or "tiger of the air") or the hoot owl, is a large owl native to the Americas. It is an extremely adaptable bird with a vast range and is the most widely distributed true owl in the Americas. Its diet consists primarily of rabbits and hares, rats and mi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-horned-owl-20260722.mp3" type="audio/mpeg" length="1413120"/>
+      <guid isPermaLink="false">nature-great-horned-owl-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 20:13:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Canada lynx</title>
       <description>The Canada lynx (Lynx canadensis) or Canadian lynx is one of the four living species in the genus Lynx. It is a medium-sized wild cat characterized by long, dense fur, triangular ears with black tufts at the tips, and broad, snowshoe-like paws. Its hindlimbs are longer than the forelimbs, so its back slopes downward to the front. The Canada lynx stands 48–56 cm (19–22 in) tall at the shoulder and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/canada-lynx-20260722.mp3" type="audio/mpeg" length="1468320"/>
