@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Debrecen</title>
+      <description>The Battle of Debrecen was fought on August 2, 1849, between the Hungarian Revolutionary Army and forces of the Russian Empire, which intervened on behalf of the Austrian Empire to suppress the Hungarian revolution. On 30 July 1849, the commander of the Hungarian Army of the Northern Danube, General Artúr Görgei split his army in two, while he and the main part of his army marched towards Arad, he</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-debrecen-20260722.mp3" type="audio/mpeg" length="1868640"/>
+      <guid isPermaLink="false">warvault-battle-of-debrecen-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 02:57:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Maysalun</title>
       <description>The Battle of Maysalun (Arabic: معركة ميسلون), also known as the Battle of Maysalun Pass or the Battle of Khan Maysalun (French: Bataille de Khan Mayssaloun), was a four-hour battle fought between the forces of the Arab Kingdom of Syria and the French Army of the Levant on 24 July 1920 near Maysalun in the Anti-Lebanon Mountains, about 25 kilometres (16 mi) west of Damascus.
 In October 1918, Arab </description>
