@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest Airlines Flight 812</title>
+      <description>Southwest Airlines Flight 812 was a domestic flight from Phoenix Sky Harbor International Airport in Phoenix, Arizona to Sacramento International Airport in Sacramento, California operated by a Boeing 737-300 passenger jet. On April 1, 2011, the flight suffered rapid depressurization while cruising at 34,000 ft (10,000 m) near Yuma, Arizona, leading to an emergency landing at Yuma International Ai</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-812-20260722.mp3" type="audio/mpeg" length="1476480"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-812-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 07:41:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>South African Airways Flight 228</title>
       <description>South African Airways Flight 228 was a scheduled flight from Johannesburg, South Africa, to London, England. The Boeing 707-300C operating the flight, which was only six weeks old, flew into the ground soon after take-off after a scheduled stopover in Windhoek, South West Africa (present day Namibia) on 20 April 1968. Five passengers survived, while 123 people died. The subsequent investigation de</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-228-20260721.mp3" type="audio/mpeg" length="1761600"/>
