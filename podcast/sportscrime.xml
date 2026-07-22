@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Robert Helenius</title>
+      <description>Robert Gabriel Helenius (born 2 January 1984) is a Finnish former professional boxer who competed from 2008 to 2023. At regional level, he held multiple heavyweight championships, including the European title twice between 2011 and 2016. As an amateur, he won a silver medal at the 2006 European Championships. He holds notable wins over former world heavyweight champions Lamon Brewster, Samuel Pete</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/robert-helenius-20260722.mp3" type="audio/mpeg" length="1869600"/>
+      <guid isPermaLink="false">sportscrime-robert-helenius-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 06:36:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marco Pantani</title>
       <description>Marco Pantani (Italian: [ˈmarko panˈtaːni]; 13 January 1970 – 14 February 2004) was an Italian road racing cyclist, widely regarded as one of the greatest climbing specialists in the history of the sport by measures of his legacy, credits from other riders, and records. He recorded the fastest ever climbs up the Tour's iconic venues of Mont Ventoux (46:00) and Alpe d'Huez (36:50), and other cyclis</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/marco-pantani-20260721.mp3" type="audio/mpeg" length="1231200"/>
