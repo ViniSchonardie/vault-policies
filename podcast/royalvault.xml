@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Duke Of York</title>
+      <description>Duke of York is a title of nobility in the Peerage of the United Kingdom. Since the 15th century, it has, when granted, usually been given to the second son of English (later British) monarchs. The analogous title in the Scottish peerage was Duke of Albany.
+Initially granted in the 14th century in the Peerage of England, the title Duke of York has been created eight times. The title Duke of York a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/duke-of-york-20260722.mp3" type="audio/mpeg" length="1742400"/>
+      <guid isPermaLink="false">royal-duke-of-york-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 18:09:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Prince Of Wales</title>
       <description>Prince of Wales is a title traditionally given to the male heir apparent to the English, and later, the British throne. The title originated with the Welsh rulers of Gwynedd who, from the late 12th century, used it (albeit inconsistently) to assert their supremacy over the other Welsh rulers. However, to mark the finalisation of his conquest of Wales, in 1301, Edward I of England invested his son </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/prince-of-wales-20260722.mp3" type="audio/mpeg" length="1340160"/>
