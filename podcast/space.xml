@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-74</title>
+      <description>STS-74 was the fourth mission of the US/Russian Shuttle–Mir program, and the second docking of the Space Shuttle with Mir. Space Shuttle Atlantis lifted off from Kennedy Space Center launch pad 39A on 12 November 1995. The mission ended 8 days later with the landing of Atlantis back at Kennedy. It was the second in a series of seven straight missions to the station flown by Atlantis.
+The shuttle d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-74-20260722.mp3" type="audio/mpeg" length="2132160"/>
+      <guid isPermaLink="false">space-sts-74-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 15:47:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-119</title>
       <description>STS-119 (ISS assembly flight 15A) was a Space Shuttle mission to the International Space Station (ISS) which was flown by Space Shuttle Discovery during March 2009. It was Discovery's 36th flight. It delivered and assembled the fourth starboard Integrated Truss Segment (S6), and the fourth set of solar arrays and batteries to the station. The launch took place on March 15, 2009, at 19:43 EDT. Disc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-119-20260721.mp3" type="audio/mpeg" length="1344960"/>
