@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leonarda Cianciulli</title>
+      <description>Leonarda Cianciulli was an Italian serial killer. Better known as the Soap-Maker of Correggio, she murdered three women in the town of Correggio, Reggio Emilia, in 1939 and 1940, and turned their bodies into soap and teacakes.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/leonarda-cianciulli-20260722.mp3" type="audio/mpeg" length="1731840"/>
+      <guid isPermaLink="false">crime-leonarda-cianciulli-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 18:14:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peter Manuel</title>
       <description>Peter Thomas Anthony Manuel was a Scottish serial killer known as the Beast of Birkenshaw and the Bedroom Killer who committed the murders of seven people across Lanarkshire, Scotland, between 1956 and 1958. He is also suspected of murdering two further victims—one in East Kilbride, Scotland and one in Edmundbyers, England—in 1956 and 1957 respectively.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-manuel-20260722.mp3" type="audio/mpeg" length="1308960"/>
