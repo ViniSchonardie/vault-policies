@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ankh</title>
+      <description>The ankh or key of life is an ancient Egyptian hieroglyphic symbol used to represent the word for "life" and, by extension, as a symbol of life itself.
+The ankh has a T-shape topped by a droplet-shaped loop. It was used in writing as a triliteral sign, representing a sequence of three consonants, Ꜥ-n-ḫ. This sequence was found in several Egyptian words, including the terms for "mirror", "floral bo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ankh-20260722.mp3" type="audio/mpeg" length="1708320"/>
+      <guid isPermaLink="false">mythology-ankh-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 05:26:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tantalus</title>
       <description>Tantalus (Ancient Greek: Τάνταλος, romanized: Tántalos), also called Atys, was a Greek mythological figure, most famous for his punishment in Tartarus: for either revealing many secrets of the gods, for stealing ambrosia from them, or for trying to trick them into eating his son, he was made to stand in a pool of water beneath a fruit tree with low branches, with the fruit ever eluding his grasp, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/tantalus-20260721.mp3" type="audio/mpeg" length="1596480"/>
