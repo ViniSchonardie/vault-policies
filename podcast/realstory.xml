@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Quintus Curtius Rufus</title>
+      <description>Quintus Curtius Rufus () was a Roman historian, likely active in the 1st century AD. He is known solely for his surviving work, Historiae Alexandri Magni ("Histories of Alexander the Great"), more fully titled Historiarum Alexandri Magni Macedonis Libri Qui Supersunt ("The Surviving Books of the Histories of Alexander the Great of Macedon"). Significant portions of the original work are missing.
+A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/quintus-curtius-rufus-20260722.mp3" type="audio/mpeg" length="1529760"/>
+      <guid isPermaLink="false">realstory-quintus-curtius-rufus-20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 23:58:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Bartram</title>
       <description>William Bartram (April 20, 1739 – July 22, 1823) was an American naturalist, writer and explorer. Bartram was the author of an acclaimed book, now known by the shortened title Bartram's Travels, which chronicled his explorations of the Southern Colonies of North America from 1773 to 1777. Bartram has been described as "the first naturalist who penetrated the dense tropical forests of Florida".
 Bar</description>
