@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mary Queen Of Scots</title>
+      <description>Mary, Queen of Scots (8 December 1542 – 8 February 1587), also known as Mary Stuart or Mary I of Scotland, was Queen of Scotland from 14 December 1542 until her forced abdication on 24 July 1567.
+The only surviving legitimate child of King James V of Scotland, Mary was six days old when her father died, and she inherited the throne. During her childhood, Scotland was governed by regents, first by </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/mary-queen-of-scots-20260723.mp3" type="audio/mpeg" length="1879680"/>
+      <guid isPermaLink="false">royal-mary-queen-of-scots-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 04:23:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Duke Of York</title>
       <description>Duke of York is a title of nobility in the Peerage of the United Kingdom. Since the 15th century, it has, when granted, usually been given to the second son of English (later British) monarchs. The analogous title in the Scottish peerage was Duke of Albany.
 Initially granted in the 14th century in the Peerage of England, the title Duke of York has been created eight times. The title Duke of York a</description>
