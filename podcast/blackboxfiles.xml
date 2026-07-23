@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Precision Air Flight 494</title>
+      <description>Precision Air Flight 494 was a scheduled domestic passenger flight within Tanzania, from Julius Nyerere International Airport to Bukoba Airport via Mwanza Airport. On 6 November 2022, the ATR 42-500 plane crashed in Lake Victoria while attempting to land at Bukoba during bad weather and low visibility. Nineteen people were killed, including both pilots who drowned before rescue workers could reach</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/precision-air-flight-494-20260723.mp3" type="audio/mpeg" length="1874880"/>
+      <guid isPermaLink="false">aviation-precision-air-flight-494-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 16:06:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Garuda Indonesia Flight 865</title>
       <description>Garuda Indonesia Flight 865 was a scheduled international flight from Fukuoka, Japan, to Jakarta, Indonesia via Bali, Indonesia. On 13 June 1996, Flight 865 crashed on takeoff from runway 16 at Fukuoka Airport. Out of the 275 occupants on board, 3 were killed.
 
