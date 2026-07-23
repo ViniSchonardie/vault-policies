@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Troll</title>
+      <description>A troll is a being in Nordic folklore, including Norse mythology. In Old Norse sources, beings described as trolls dwell in isolated areas of rocks, mountains, or caves, live together in small family units, and are rarely helpful to human beings.
+In later Scandinavian folklore, trolls became beings in their own right, where they live far from human habitation, are not Christianized, and are consid</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/troll-20260723.mp3" type="audio/mpeg" length="1685280"/>
+      <guid isPermaLink="false">mythology-troll-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 17:12:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aeneas</title>
       <description>Aeneas ( in-EE-əs; Classical Latin: [ae̯ˈneːaːs]; from Ancient Greek: Αἰνείας, romanized: Aineías) was a Trojan hero in Greco-Roman mythology, the son of the Trojan prince Anchises and the Greek goddess Aphrodite (equivalent to the Roman Venus). His father was a second cousin of King Priam of Troy (both being great-grandsons of Tros, founder of Troy), making Aeneas a third cousin to Priam's childr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/aeneas-20260723.mp3" type="audio/mpeg" length="1405920"/>
