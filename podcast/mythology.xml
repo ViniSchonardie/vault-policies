@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Erinyes</title>
+      <description>The Erinyes (  ih-RI-nee-eez; Ancient Greek: Ἐρινύες, sing. Ἐρινύς Erinys), also known as the Eumenides (Εὐμενίδες, the "Gracious ones"), are chthonic goddesses of vengeance in ancient Greek religion and mythology. A formulaic oath in the Iliad invokes them as "the Erinyes, that under earth take vengeance on men, whosoever hath sworn a false oath". Walter Burkert suggests that they are "an embodim</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/erinyes-20260723.mp3" type="audio/mpeg" length="1508160"/>
+      <guid isPermaLink="false">mythology-erinyes-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 21:02:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Troll</title>
       <description>A troll is a being in Nordic folklore, including Norse mythology. In Old Norse sources, beings described as trolls dwell in isolated areas of rocks, mountains, or caves, live together in small family units, and are rarely helpful to human beings.
 In later Scandinavian folklore, trolls became beings in their own right, where they live far from human habitation, are not Christianized, and are consid</description>
