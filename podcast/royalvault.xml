@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nicholas Ii</title>
+      <description>Nicholas II (Nikolai Alexandrovich Romanov; 18 May [O.S. 6 May] 1868 – 17 July 1918) was Emperor of Russia from 1 November 1894 until his abdication in 1917. He was the last Russian monarch before the Russian Revolution and oversaw the Russian Empire's participation in World War I. In 1918, the Romanovs were murdered, putting an end to the Romanov dynasty.
+Born in Tsarskoye Selo, Nicholas was the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/nicholas-ii-20260723.mp3" type="audio/mpeg" length="1686240"/>
+      <guid isPermaLink="false">royal-nicholas-ii-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 16:03:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>War Of The Spanish Succession</title>
       <description>The War of the Spanish Succession was a European great power conflict fought between 1701 and 1714. The death of Charles II of Spain in November 1700 without children led to a contest for the succession between two candidates. These were Philip of Anjou, backed by his grandfather Louis XIV of France, and Archduke Charles of Austria, supported by the Grand Alliance. Significant related conflicts in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/war-of-the-spanish-succession-20260723.mp3" type="audio/mpeg" length="1823520"/>
