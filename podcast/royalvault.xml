@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lord Of The Manor</title>
+      <description>A lord of the manor, in Anglo-Saxon England and Norman England, is the landholder of a  rural estate. The titles date to the English feudal (specifically baronial) system. The lord enjoyed manorial rights (the rights to establish and occupy a residence, known as the manor house and demesne) as well as seignory, the right to grant or draw benefit from the estate (for example, as a landlord). The ti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/lord-of-the-manor-20260723.mp3" type="audio/mpeg" length="1566240"/>
+      <guid isPermaLink="false">royal-lord-of-the-manor-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 19:22:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nicholas Ii</title>
       <description>Nicholas II (Nikolai Alexandrovich Romanov; 18 May [O.S. 6 May] 1868 – 17 July 1918) was Emperor of Russia from 1 November 1894 until his abdication in 1917. He was the last Russian monarch before the Russian Revolution and oversaw the Russian Empire's participation in World War I. In 1918, the Romanovs were murdered, putting an end to the Romanov dynasty.
 Born in Tsarskoye Selo, Nicholas was the </description>
