@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Turkish Airlines Flight 452</title>
+      <description>Turkish Airlines Flight 452 was a scheduled domestic passenger flight operated by a Boeing 727-2F2 of Turkish Airlines that crashed near Isparta on 19 September 1976 while en route from Milan, Italy, to Antalya Airport, via Atatürk Airport, Istanbul, Turkey, killing all 154 occupants on board. The crash is the deadliest aviation accident in Turkey's history.
+The aircraft arrived in Istanbul from M</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-452-20260723.mp3" type="audio/mpeg" length="1640160"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-452-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 18:17:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Precision Air Flight 494</title>
       <description>Precision Air Flight 494 was a scheduled domestic passenger flight within Tanzania, from Julius Nyerere International Airport to Bukoba Airport via Mwanza Airport. On 6 November 2022, the ATR 42-500 plane crashed in Lake Victoria while attempting to land at Bukoba during bad weather and low visibility. Nineteen people were killed, including both pilots who drowned before rescue workers could reach</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/precision-air-flight-494-20260723.mp3" type="audio/mpeg" length="1874880"/>
