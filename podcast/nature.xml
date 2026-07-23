@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Secretarybird</title>
+      <description>The secretarybird or secretary bird (Sagittarius serpentarius) is a large bird of prey that is endemic to Africa. It is mostly terrestrial, spending most of its time on the ground, and is usually found in the open grasslands and savanna of the sub-Saharan region. John Frederick Miller described the species in 1779. A member of the order Accipitriformes, which also includes many other diurnal birds</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/secretarybird-20260723.mp3" type="audio/mpeg" length="1730400"/>
+      <guid isPermaLink="false">nature-secretarybird-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 17:15:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Electric eel</title>
       <description>The electric eels are a genus, Electrophorus, of neotropical freshwater fish from South America in the family Gymnotidae, of which they are the only members of the subfamily Electrophorinae. They are known for their ability to stun their prey by generating electricity, delivering shocks at up to 860 volts. Their electrical capabilities were first studied in 1775, contributing to the invention of t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/electric-eel-20260723.mp3" type="audio/mpeg" length="1647360"/>
