@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spotted hyena</title>
+      <description>The spotted hyena (Crocuta crocuta), also known as the laughing hyena, is a hyena species, currently classed as the sole extant member of the genus Crocuta, native to sub-Saharan Africa. It is listed as being of least concern by the IUCN due to its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is, however, experiencing declines outside of protected</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/spotted-hyena-20260723.mp3" type="audio/mpeg" length="1681440"/>
+      <guid isPermaLink="false">nature-spotted-hyena-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 21:15:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Secretarybird</title>
       <description>The secretarybird or secretary bird (Sagittarius serpentarius) is a large bird of prey that is endemic to Africa. It is mostly terrestrial, spending most of its time on the ground, and is usually found in the open grasslands and savanna of the sub-Saharan region. John Frederick Miller described the species in 1779. A member of the order Accipitriformes, which also includes many other diurnal birds</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/secretarybird-20260723.mp3" type="audio/mpeg" length="1730400"/>
