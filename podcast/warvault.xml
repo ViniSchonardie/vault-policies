@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Fort Dearborn</title>
+      <description>The Battle of Fort Dearborn (sometimes called the Fort Dearborn Massacre) was an engagement between United States troops, militia and Miami native auxiliaries, against Potawatomi Native Americans that took place on August 15, 1812, near Fort Dearborn, then part of Illinois Territory in the Chicago area. The battle, part of the War of 1812, followed the evacuation of the fort ordered by the command</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-fort-dearborn-20260723.mp3" type="audio/mpeg" length="1696320"/>
+      <guid isPermaLink="false">warvault-battle-of-fort-dearborn-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 18:23:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Ridgeway</title>
       <description>The Battle of Ridgeway (sometimes the Battle of Lime Ridge or Limestone Ridge) was fought in the vicinity of the town of Fort Erie across the Niagara River from Buffalo, New York, near the village of Ridgeway, Canada West, currently Ontario, Canada, on June 2, 1866, between Canadian troops and an irregular army of Irish-American invaders, the Fenians. It was the largest engagement of the Fenian Ra</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-ridgeway-20260723.mp3" type="audio/mpeg" length="1872960"/>
