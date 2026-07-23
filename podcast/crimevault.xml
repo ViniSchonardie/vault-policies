@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kent State shootings</title>
+      <description>The Kent State shootings were the killing of four and wounding of nine unarmed college students by the Ohio National Guard on the Kent State University campus in Kent, Ohio, United States. The shootings took place on May 4, 1970, during a rally opposing the expanding involvement of the Vietnam War into Cambodia by United States military forces, as well as protesting the National Guard presence on </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kent-state-shootings-20260723.mp3" type="audio/mpeg" length="1833600"/>
+      <guid isPermaLink="false">crime-kent-state-shootings-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 04:26:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leonarda Cianciulli</title>
       <description>Leonarda Cianciulli was an Italian serial killer. Better known as the Soap-Maker of Correggio, she murdered three women in the town of Correggio, Reggio Emilia, in 1939 and 1940, and turned their bodies into soap and teacakes.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/leonarda-cianciulli-20260722.mp3" type="audio/mpeg" length="1731840"/>
