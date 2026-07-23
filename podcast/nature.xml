@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lamprey</title>
+      <description>Lampreys  (sometimes inaccurately called lamprey eels) are a group of jawless fish composing the order Petromyzontiformes , sole order in the class Petromyzontida. The adult lamprey is characterized by a toothed, funnel-like, sucking mouth. The common name "lamprey" is probably derived from Latin lampetra, which may mean "stone licker" (lambere "to lick" + petra "stone"), though the etymology is u</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lamprey-20260723.mp3" type="audio/mpeg" length="1581600"/>
+      <guid isPermaLink="false">nature-lamprey-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 05:54:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great horned owl</title>
       <description>The great horned owl (Bubo virginianus), also known as the tiger owl (originally derived from early naturalists' description as the "winged tiger" or "tiger of the air") or the hoot owl, is a large owl native to the Americas. It is an extremely adaptable bird with a vast range and is the most widely distributed true owl in the Americas. Its diet consists primarily of rabbits and hares, rats and mi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-horned-owl-20260722.mp3" type="audio/mpeg" length="1413120"/>
