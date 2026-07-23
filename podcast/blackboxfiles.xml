@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Garuda Indonesia Flight 865</title>
+      <description>Garuda Indonesia Flight 865 was a scheduled international flight from Fukuoka, Japan, to Jakarta, Indonesia via Bali, Indonesia. On 13 June 1996, Flight 865 crashed on takeoff from runway 16 at Fukuoka Airport. Out of the 275 occupants on board, 3 were killed.
+
+
+== Accident ==
+Flight 865 was cleared for takeoff from Runway 16. Suddenly, the crew of the McDonnell Douglas DC-10-30, Captain Ronald Lo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/garuda-indonesia-flight-865-20260723.mp3" type="audio/mpeg" length="1482720"/>
+      <guid isPermaLink="false">aviation-garuda-indonesia-flight-865-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 07:38:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>FedEx Express Flight 647</title>
       <description>FedEx Express Flight 647 was a scheduled domestic cargo flight between Metropolitan Oakland International Airport, Oakland, California and Memphis International Airport, Memphis, Tennessee in the United States, that crashed during landing on December 18, 2003.  Everybody on board survived the accident, and the aircraft was written off.
 
