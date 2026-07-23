@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-33</title>
+      <description>STS-33 was a NASA Space Shuttle mission and the 9th flight of Discovery, during which Space Shuttle Discovery deployed a payload for the United States Department of Defense (DoD). It was the 32nd shuttle mission overall, the ninth flight of Discovery, the fifth shuttle mission in support of the DoD, the seventh post-Space Shuttle Challenger disaster mission and the last Shuttle mission of the 1980</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-33-20260723.mp3" type="audio/mpeg" length="1790880"/>
+      <guid isPermaLink="false">space-sts-33-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 21:00:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-130</title>
       <description>STS-130 (ISS assembly flight 20A) was a NASA Space Shuttle mission to the International Space Station (ISS). Space Shuttle Endeavour's primary payloads were the Tranquility module and the Cupola, a robotic control station with six windows around its sides and another in the center, providing a 360-degree view around the station. Endeavour launched at 04:14 EST (09:14 UTC) on February 8, 2010, and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-130-20260723.mp3" type="audio/mpeg" length="1851360"/>
