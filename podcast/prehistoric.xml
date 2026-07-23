@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spicomellus</title>
+      <description>Spicomellus is an extinct genus of unusual early ankylosaurian dinosaur from the El Mers III Formation (Bathonian age) of Morocco. The genus contains a single species, Spicomellus afer, representing the oldest named definitive ankylosaur. The species was initially described in 2021 based on a single rib with fused osteoderms, rendering its life appearance and relationships uncertain. In 2025, seve</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/spicomellus-20260723.mp3" type="audio/mpeg" length="1816320"/>
+      <guid isPermaLink="false">prehistoric-spicomellus-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 18:23:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brachiosauridae</title>
       <description>The Brachiosauridae ("arm lizards", from Greek brachion (βραχίων) = "arm" and sauros = "lizard") are a family or clade of herbivorous, quadrupedal sauropod dinosaurs. Brachiosaurids had long necks that enabled them to access the leaves of tall trees that other sauropods would have been unable to reach. In addition, they possessed thick spoon-shaped teeth which helped them to consume tough plants m</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/brachiosauridae-20260723.mp3" type="audio/mpeg" length="2000640"/>
