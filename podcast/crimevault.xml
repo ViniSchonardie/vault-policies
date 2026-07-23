@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Crocus City Hall attack</title>
+      <description>On 22 March 2024, a coordinated terrorist attack against civilians occurred at the Crocus City Hall music venue in Crocus City, Krasnogorsk, Moscow Oblast, Russia. The attack began at around 20:00 MSK (UTC+3), shortly before the Russian band Picnic was scheduled to play a sold-out show at the venue. Four terrorists associated with Islamic State – Khorasan Province carried out a mass shooting, as w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/crocus-city-hall-attack-20260723.mp3" type="audio/mpeg" length="1562880"/>
+      <guid isPermaLink="false">crime-crocus-city-hall-attack-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 15:31:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2022 Buffalo shooting</title>
       <description>On May 14, 2022, a mass shooting occurred in Buffalo, New York, United States, at a Tops Friendly Markets supermarket in the East Side neighborhood. Ten people, all of whom were black, were murdered, and three people were injured. The shooter, 18-year-old Payton Gendron, livestreamed part of the attack on Twitch until the livestream was shut down by the service in under two minutes.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-buffalo-shooting-20260723.mp3" type="audio/mpeg" length="1831200"/>
