@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Second Battle of Fort Fisher</title>
+      <description>The Second Battle of Fort Fisher was a successful assault by the Union Army, Navy and Marine Corps against Fort Fisher, south of Wilmington, North Carolina, near the end of the American Civil War in January 1865. Sometimes referred to as the "Gibraltar of the South" and the last major coastal stronghold of the Confederacy, Fort Fisher had tremendous strategic value during the war, providing a port</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-fort-fisher-20260723.mp3" type="audio/mpeg" length="1761600"/>
+      <guid isPermaLink="false">warvault-second-battle-of-fort-fisher-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 10:28:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Landing at Cape Helles</title>
       <description>The landing at Cape Helles (Turkish: Seddülbahir Çıkarması) was part of the Gallipoli campaign, the amphibious landings on the Gallipoli peninsula by British and French forces on 25 April 1915 during the First World War. Helles, at the foot of the peninsula, was the main landing area. With gunfire support from the Royal Navy, the 29th Division was to advance six mi (9.7 km) along the peninsula on </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/landing-at-cape-helles-20260723.mp3" type="audio/mpeg" length="1394880"/>
