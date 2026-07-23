@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Porepunkah police shootings</title>
+      <description>On the morning of 26 August 2025, police officers Neal Thompson and Vadim De Waart-Hottart were killed in a shooting at a property near the regional Victorian town of Porepunkah, Australia, while attempting to execute a warrant. A third officer was injured. The alleged shooter, Dezi Bird Freeman, a self-proclaimed sovereign citizen known to police, fled into the dense bushland of Mount Buffalo Nat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/porepunkah-police-shootings-20260723.mp3" type="audio/mpeg" length="2058240"/>
+      <guid isPermaLink="false">crime-porepunkah-police-shootings-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 19:12:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Crocus City Hall attack</title>
       <description>On 22 March 2024, a coordinated terrorist attack against civilians occurred at the Crocus City Hall music venue in Crocus City, Krasnogorsk, Moscow Oblast, Russia. The attack began at around 20:00 MSK (UTC+3), shortly before the Russian band Picnic was scheduled to play a sold-out show at the venue. Four terrorists associated with Islamic State – Khorasan Province carried out a mass shooting, as w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/crocus-city-hall-attack-20260723.mp3" type="audio/mpeg" length="1562880"/>
