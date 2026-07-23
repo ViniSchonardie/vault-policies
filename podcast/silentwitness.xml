@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Grand Inquisitor</title>
+      <description>Grand Inquisitor (Latin: Inquisitor Generalis, literally Inquisitor General or General Inquisitor) was the highest-ranked official of the Inquisition. The title usually refers to the inquisitor of the Spanish Inquisition, in charge of appeals and cases of aristocratic importance, even after the reunification of the inquisitions. Secretaries-general of the Roman Inquisition were often styled as Gra</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/grand-inquisitor-20260723.mp3" type="audio/mpeg" length="1659840"/>
+      <guid isPermaLink="false">trials-grand-inquisitor-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 00:01:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mexican Inquisition</title>
       <description>The Mexican Inquisition was an extension of the Spanish Inquisition into New Spain. The Spanish conquest of the Aztec Empire was not only a political event for the Spanish, but a religious event as well. In the early 16th century, the Reformation, the Counter-Reformation, and the Inquisition were in full force in most of Europe. The Catholic Monarchs of Castile and Aragon had just conquered the la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/mexican-inquisition-20260722.mp3" type="audio/mpeg" length="1654560"/>
