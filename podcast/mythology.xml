@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aeneas</title>
+      <description>Aeneas ( in-EE-əs; Classical Latin: [ae̯ˈneːaːs]; from Ancient Greek: Αἰνείας, romanized: Aineías) was a Trojan hero in Greco-Roman mythology, the son of the Trojan prince Anchises and the Greek goddess Aphrodite (equivalent to the Roman Venus). His father was a second cousin of King Priam of Troy (both being great-grandsons of Tros, founder of Troy), making Aeneas a third cousin to Priam's childr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/aeneas-20260723.mp3" type="audio/mpeg" length="1405920"/>
+      <guid isPermaLink="false">mythology-aeneas-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 11:56:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venus (mythology)</title>
       <description>Venus (; Classical Latin: [ˈwɛnʊs]) is a Roman goddess whose functions encompass love, beauty, desire, sex, fertility, prosperity, and victory. In Roman mythology, she was the ancestor of the Roman people through her son, Aeneas, who survived the fall of Troy and fled to Italy. Julius Caesar claimed her as his ancestor. Venus was central to many religious festivals, and was revered in Roman religi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/venus-mythology-20260723.mp3" type="audio/mpeg" length="1303680"/>
