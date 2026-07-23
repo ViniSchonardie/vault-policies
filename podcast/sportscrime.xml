@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dion Waiters</title>
+      <description>Dion Waiters Jr. (born December 10, 1991) is an American former professional basketball player who played 8 seasons in the National Basketball Association (NBA) from 2012 to 2020. He played college basketball for the Syracuse Orange and was selected with the fourth overall pick in the 2012 NBA draft by the Cleveland Cavaliers. Waiters also played for the Oklahoma City Thunder, Miami Heat, and the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/dion-waiters-20260723.mp3" type="audio/mpeg" length="1681920"/>
+      <guid isPermaLink="false">sportscrime-dion-waiters-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 20:13:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brandon Spikes</title>
       <description>Brandon Spikes (born September 3, 1987) is an American former professional football player who was a linebacker in the National Football League (NFL). He played college football for the Florida Gators, was recognized as a consensus All-American twice and was a member of two BCS National Championship teams. He was selected by the New England Patriots in the second round of the 2010 NFL draft. He al</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/brandon-spikes-20260723.mp3" type="audio/mpeg" length="1256160"/>
