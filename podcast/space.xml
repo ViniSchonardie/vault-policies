@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-42</title>
+      <description>STS-42 was a NASA Space Shuttle Discovery mission with the Spacelab module. Liftoff was originally scheduled for 8:45 EST (13:45 UTC) on January 22, 1992, but the launch was delayed due to weather constraints. Discovery successfully lifted off an hour later at 9:52:33 EST (14:52:33 UTC) on her 14th flight. The main goal of the mission was to study the effects of microgravity on a variety of organi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-42-20260723.mp3" type="audio/mpeg" length="1730400"/>
+      <guid isPermaLink="false">space-sts-42-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 15:16:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-115</title>
       <description>STS-115 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. It was the first assembly mission to the ISS after the Columbia disaster, following the two successful Return to Flight missions, STS-114 and STS-121. STS-115 launched from LC-39B at the Kennedy Space Center on September 9, 2006, at 11:14:55 EDT (15:14:55 UTC).
 The mission is also referred</description>
