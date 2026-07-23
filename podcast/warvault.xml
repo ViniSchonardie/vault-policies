@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Landing at Cape Helles</title>
+      <description>The landing at Cape Helles (Turkish: Seddülbahir Çıkarması) was part of the Gallipoli campaign, the amphibious landings on the Gallipoli peninsula by British and French forces on 25 April 1915 during the First World War. Helles, at the foot of the peninsula, was the main landing area. With gunfire support from the Royal Navy, the 29th Division was to advance six mi (9.7 km) along the peninsula on </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/landing-at-cape-helles-20260723.mp3" type="audio/mpeg" length="1394880"/>
+      <guid isPermaLink="false">warvault-landing-at-cape-helles-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 03:19:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Kinsale</title>
       <description>The siege of Kinsale (Irish: Léigear Chionn tSáile), also known as the battle of Kinsale, was the ultimate battle in England's conquest of Gaelic Ireland, commencing in October 1601, near the end of the reign of Queen Elizabeth I, and at the climax of the Nine Years' War—a campaign by Hugh O'Neill, Hugh Roe O'Donnell and other Irish lords against English rule.
 Owing to Spanish involvement and the </description>
