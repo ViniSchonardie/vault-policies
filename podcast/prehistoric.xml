@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Brachiosauridae</title>
+      <description>The Brachiosauridae ("arm lizards", from Greek brachion (βραχίων) = "arm" and sauros = "lizard") are a family or clade of herbivorous, quadrupedal sauropod dinosaurs. Brachiosaurids had long necks that enabled them to access the leaves of tall trees that other sauropods would have been unable to reach. In addition, they possessed thick spoon-shaped teeth which helped them to consume tough plants m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/brachiosauridae-20260723.mp3" type="audio/mpeg" length="2000640"/>
+      <guid isPermaLink="false">prehistoric-brachiosauridae-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 08:39:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ampelosaurus</title>
       <description>Ampelosaurus ( AM-pi-loh-SOR-əs; meaning "vine lizard") is a titanosaurian sauropod dinosaur from the Late Cretaceous Period of what is now France. Its type species is A. atacis, named by Le Loeuff in 1995. Its remains were found in a level dating from 71.5 million years ago, representing the early Maastrichtian.
 Ampelosaurus would have had a long neck and tail — like most sauropods — but it also </description>
