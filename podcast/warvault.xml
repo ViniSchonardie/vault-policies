@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Mang Yang Pass</title>
+      <description>The Battle of Mang Yang Pass (also known as the Battle of An Khê or the Battle of Đắk Pơ) was one of the last battles of the First Indochina War between the French Union and Việt Minh which took place from 24 to 29 June 1954. The battle was one of the bloodiest defeats of the French Union forces, along with the battle of Dien Bien Phu shortly beforehand.
+
+
+== Background ==
+Groupement Mobile No. 10</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-mang-yang-pass-20260723.mp3" type="audio/mpeg" length="1767840"/>
+      <guid isPermaLink="false">warvault-battle-of-mang-yang-pass-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 22:15:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Fort Dearborn</title>
       <description>The Battle of Fort Dearborn (sometimes called the Fort Dearborn Massacre) was an engagement between United States troops, militia and Miami native auxiliaries, against Potawatomi Native Americans that took place on August 15, 1812, near Fort Dearborn, then part of Illinois Territory in the Chicago area. The battle, part of the War of 1812, followed the evacuation of the fort ordered by the command</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-fort-dearborn-20260723.mp3" type="audio/mpeg" length="1696320"/>
