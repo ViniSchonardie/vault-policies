@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Far Eastern Air Transport Flight 103</title>
+      <description>Far Eastern Air Transport Flight 103 was a scheduled flight from Taiwan Taipei Songshan Airport to Kaohsiung International Airport that crashed on 22 August 1981, killing all 110 people on board. The Boeing 737-222 aircraft disintegrated in midair and crashed in the township of Sanyi, Miaoli. It is also called the Sanyi Air Disaster. The crash is the third-deadliest aviation accident on the Taiwan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/far-eastern-air-transport-flight-103-20260723.mp3" type="audio/mpeg" length="1324320"/>
+      <guid isPermaLink="false">aviation-far-eastern-air-transport-flight-103-20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 21:59:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Turkish Airlines Flight 452</title>
       <description>Turkish Airlines Flight 452 was a scheduled domestic passenger flight operated by a Boeing 727-2F2 of Turkish Airlines that crashed near Isparta on 19 September 1976 while en route from Milan, Italy, to Antalya Airport, via Atatürk Airport, Istanbul, Turkey, killing all 154 occupants on board. The crash is the deadliest aviation accident in Turkey's history.
 The aircraft arrived in Istanbul from M</description>
