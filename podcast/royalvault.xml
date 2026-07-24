@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine Of Valois</title>
+      <description>Catherine of Valois or Catherine of France (27 October 1401 – 3 January 1437) was Queen of England from 1420 until 1422. A daughter of King Charles VI of France, she married King Henry V of England and was the mother of King Henry VI. Catherine's marriage was part of a plan to eventually place Henry V on the throne of France, and perhaps end what is now known as the Hundred Years' War. But, althou</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-of-valois-20260724.mp3" type="audio/mpeg" length="1486080"/>
+      <guid isPermaLink="false">royal-catherine-of-valois-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 22:58:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>House Of Plantagenet</title>
       <description>The House of Plantagenet was a royal house which originated in the French county of Anjou. The name Plantagenet is used by modern historians to identify four distinct royal houses: the Angevins, who were also counts of Anjou; the main line of the Plantagenets following the loss of Anjou; and the Houses of Lancaster and York, two of the Plantagenets' cadet branches. The family held the English thro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/house-of-plantagenet-20260724.mp3" type="audio/mpeg" length="1517760"/>
