@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wrzburg Witch Trials</title>
+      <description>The Würzburg witch trials of 1625–1631, which took place in the self-governing Catholic Prince-Bishopric of Würzburg in the Holy Roman Empire in present-day Germany, formed one of the biggest mass trials and mass executions ever seen in Europe, and one of the largest witch trials in history.
+The trials resulted in the execution of hundreds of people of all ages, sexes and classes, all of whom were</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/wrzburg-witch-trials-20260724.mp3" type="audio/mpeg" length="1800960"/>
+      <guid isPermaLink="false">trials-wrzburg-witch-trials-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 21:09:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kaunas Pogrom</title>
       <description>The Kaunas pogrom was a massacre of Jews living in Kaunas, Lithuania, that took place on 25–29 June 1941; the first days of Operation Barbarossa and the Nazi occupation of Lithuania. The most infamous incident occurred at the garage of NKVD Kaunas section, a nationalized garage of Lietūkis, an event known as the  Lietūkis Garage Massacre. There several dozen Jewish men, allegedly associates of NKV</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/kaunas-pogrom-20260724.mp3" type="audio/mpeg" length="1910880"/>
