@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Philippine Airlines Flight 137</title>
+      <description>Philippine Airlines Flight 137 was a scheduled passenger flight from Ninoy Aquino International Airport in Metro Manila to Bacolod City Domestic Airport in Bacolod. The aircraft overran the runway on landing which resulted in the deaths of three people on the ground whereas none out of the 124 passengers and 6 crew were killed.
+
+
+== Background ==
+
+
+=== Aircraft ===
+The aircraft involved was an Air</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/philippine-airlines-flight-137-20260724.mp3" type="audio/mpeg" length="1532160"/>
+      <guid isPermaLink="false">aviation-philippine-airlines-flight-137-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 21:58:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1991 Merion mid-air collision</title>
       <description>On April 4, 1991, a Piper Aerostar propeller-driven aircraft collided in mid-air with a Bell 412 helicopter over Merion Elementary School in Lower Merion Township, a suburb west of Philadelphia, in southeast Pennsylvania. All five people in both aircraft were killed, including United States Senator John Heinz, the sole passenger of the Piper. On the ground, two schoolchildren were killed by fallin</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1991-merion-mid-air-collision-20260724.mp3" type="audio/mpeg" length="1868160"/>
