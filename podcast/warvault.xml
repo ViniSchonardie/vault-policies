@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Asiago</title>
+      <description>The Battle of Asiago, also known as Südtirol Offensive or Battle of the Plateaux (in Italian: Battaglia degli Altipiani), wrongly nicknamed Strafexpedition " (German for "punitive expedition"; this name has no reference in official Austrian documentation of the time and it is considered to be of popular origin), began with a major offensive launched on 15 May 1916 by the Austro-Hungarians on the t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-asiago-20260724.mp3" type="audio/mpeg" length="1758720"/>
+      <guid isPermaLink="false">warvault-battle-of-asiago-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 14:55:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Mang Yang Pass</title>
       <description>The Battle of Mang Yang Pass (also known as the Battle of An Khê or the Battle of Đắk Pơ) was one of the last battles of the First Indochina War between the French Union and Việt Minh which took place from 24 to 29 June 1954. The battle was one of the bloodiest defeats of the French Union forces, along with the battle of Dien Bien Phu shortly beforehand.
 
