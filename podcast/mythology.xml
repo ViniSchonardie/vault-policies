@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Adonis</title>
+      <description>In Greek mythology, Adonis (Ancient Greek: Ἄδωνις, romanized: Adōnis; Phoenician: 𐤀𐤃𐤍, romanized: ʾAdón, ['a.dɔː.nis]) was the mortal lover of the goddesses Aphrodite and Persephone. He was considered to be the ideal of male beauty in classical antiquity.
+The myth goes that Adonis was gored by a wild boar during a hunting trip and died in Aphrodite's arms as she wept; his blood mingled with her</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/adonis-20260724.mp3" type="audio/mpeg" length="1678560"/>
+      <guid isPermaLink="false">mythology-adonis-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 21:03:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ariadne</title>
       <description>In Greek mythology, Ariadne ( ; Ancient Greek: Ἀριάδνη, romanized: Ariádnē) was a Cretan princess, the daughter of King Minos of Crete. There are variations of Ariadne's myth, but she is known for helping Theseus escape from the Minotaur and being abandoned by him (or herself dying) on the island of Naxos. There, Dionysus saw Ariadne sleeping, fell in love with her, and later married her. Many ver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ariadne-20260724.mp3" type="audio/mpeg" length="1589760"/>
