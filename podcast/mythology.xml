@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ariadne</title>
+      <description>In Greek mythology, Ariadne ( ; Ancient Greek: Ἀριάδνη, romanized: Ariádnē) was a Cretan princess, the daughter of King Minos of Crete. There are variations of Ariadne's myth, but she is known for helping Theseus escape from the Minotaur and being abandoned by him (or herself dying) on the island of Naxos. There, Dionysus saw Ariadne sleeping, fell in love with her, and later married her. Many ver</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ariadne-20260724.mp3" type="audio/mpeg" length="1589760"/>
+      <guid isPermaLink="false">mythology-ariadne-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 17:24:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pandora</title>
       <description>In Greek mythology, Pandora was the first human woman, created by Hephaestus on the instructions of Zeus. As Hesiod related it, each deity cooperated by giving her unique gifts. Her other name—inscribed against her figure on a white-ground kylix in the British Museum—is Anesidora.
 The Pandora myth is a kind of theodicy, addressing the question of why there is evil in the world, according to which,</description>
