@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2016 shooting of Dallas police officers</title>
+      <description>On July 7, 2016, Micah Xavier Johnson ambushed and shot police officers in Dallas, Texas, killing five, injuring nine others, and wounding two civilians. Johnson, a 25-year-old Army Reserve Afghan War veteran, was angry over white police shootings of black men. He shot the officers at the end of a protest against the recent killings by police of Alton Sterling in Baton Rouge, Louisiana, and Philan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2016-shooting-of-dallas-police-officers-20260724.mp3" type="audio/mpeg" length="1793280"/>
+      <guid isPermaLink="false">crime-2016-shooting-of-dallas-police-officers-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 22:58:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sutherland Springs church shooting</title>
       <description>On November 5, 2017, Devin Kelley shot and killed 26 people and wounded 22 others at the First Baptist Church in Sutherland Springs, Texas, United States. Kelley was subsequently shot and wounded, then killed himself. It is the deadliest mass shooting in Texas history and the deadliest at an American place of worship, surpassing the Charleston church shooting of 2015 and the Waddell Buddhist templ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sutherland-springs-church-shooting-20260724.mp3" type="audio/mpeg" length="1764000"/>
