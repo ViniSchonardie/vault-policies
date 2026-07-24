@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Zupaysaurus</title>
+      <description>Zupaysaurus (; "ZOO-pay-SAWR-us") is an extinct genus of early theropod dinosaur which lived during the Norian stage of the Late Triassic in what is now Argentina. Fossils of the dinosaur were found in the Los Colorados Formation of the Ischigualasto-Villa Unión Basin in northwestern Argentina.
+Although a full skeleton has not yet been discovered, Zupaysaurus can be considered a bipedal predator, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/zupaysaurus-20260724.mp3" type="audio/mpeg" length="1811520"/>
+      <guid isPermaLink="false">prehistoric-zupaysaurus-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 18:18:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daspletosaurini</title>
       <description>Daspletosaurini is an extinct clade (tribe) of tyrannosaurine dinosaurs that lived in Laramidia during the Late Cretaceous (Middle Campanian) period. It consists of two genera: Daspletosaurus and Thanatotheristes. Four species have been described in the two genera, namely Daspletosaurus torosus, Daspletosaurus horneri, Daspletosaurus wilsoni, and Thanatotheristes degrootorum. At one point all of t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/daspletosaurini-20260724.mp3" type="audio/mpeg" length="1329600"/>
