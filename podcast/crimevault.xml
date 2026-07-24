@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sutherland Springs church shooting</title>
+      <description>On November 5, 2017, Devin Kelley shot and killed 26 people and wounded 22 others at the First Baptist Church in Sutherland Springs, Texas, United States. Kelley was subsequently shot and wounded, then killed himself. It is the deadliest mass shooting in Texas history and the deadliest at an American place of worship, surpassing the Charleston church shooting of 2015 and the Waddell Buddhist templ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sutherland-springs-church-shooting-20260724.mp3" type="audio/mpeg" length="1764000"/>
+      <guid isPermaLink="false">crime-sutherland-springs-church-shooting-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 19:22:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Port Arthur massacre</title>
       <description>The Port Arthur massacre was a mass shooting that occurred on 28 April 1996 at Port Arthur, a tourist town in the Australian state of Tasmania. The perpetrator, Martin Bryant, murdered 35 people and wounded 23 others, in the deadliest massacre in modern Australian history. The attack led to fundamental changes in Australia's gun laws.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/port-arthur-massacre-20260724.mp3" type="audio/mpeg" length="1764000"/>
