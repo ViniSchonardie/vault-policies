@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kaunas Pogrom</title>
+      <description>The Kaunas pogrom was a massacre of Jews living in Kaunas, Lithuania, that took place on 25–29 June 1941; the first days of Operation Barbarossa and the Nazi occupation of Lithuania. The most infamous incident occurred at the garage of NKVD Kaunas section, a nationalized garage of Lietūkis, an event known as the  Lietūkis Garage Massacre. There several dozen Jewish men, allegedly associates of NKV</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/kaunas-pogrom-20260724.mp3" type="audio/mpeg" length="1910880"/>
+      <guid isPermaLink="false">trials-kaunas-pogrom-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 17:34:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rachel Dyer</title>
       <description>Rachel Dyer: A North American Story is a Gothic historical novel by American writer John Neal. Published in 1828 in Portland, Maine, it is the first bound novel about the Salem witch trials. Though it garnered little critical notice in its day, it influenced works by Nathaniel Hawthorne, Henry Wadsworth Longfellow, John Greenleaf Whittier, and Walt Whitman. It is best remembered for the American l</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rachel-dyer-20260723.mp3" type="audio/mpeg" length="1719360"/>
