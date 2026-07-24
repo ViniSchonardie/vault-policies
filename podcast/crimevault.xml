@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Port Arthur massacre</title>
+      <description>The Port Arthur massacre was a mass shooting that occurred on 28 April 1996 at Port Arthur, a tourist town in the Australian state of Tasmania. The perpetrator, Martin Bryant, murdered 35 people and wounded 23 others, in the deadliest massacre in modern Australian history. The attack led to fundamental changes in Australia's gun laws.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/port-arthur-massacre-20260724.mp3" type="audio/mpeg" length="1764000"/>
+      <guid isPermaLink="false">crime-port-arthur-massacre-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 15:06:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2011 Tucson shooting</title>
       <description>On January 8, 2011, United States representative Gabby Giffords and 18 others were shot during a constituent meeting held in a supermarket parking lot in Casas Adobes, Arizona, in the Tucson metropolitan area. Six people were killed, including federal District Court chief judge John Roll; Gabe Zimmerman, one of Giffords's staffers; and a nine-year-old girl, Christina Taylor Green. Giffords was hol</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2011-tucson-shooting-20260723.mp3" type="audio/mpeg" length="1815360"/>
