@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Horace Wells</title>
+      <description>Horace Wells (January 21, 1815 – January 24, 1848) was an American dentist who pioneered the use of anesthesia in medicine, specifically the use of nitrous oxide (or laughing gas). Although he was urged to patent his discovery, he never did, believing that freedom from pain should be "as free as the air we breathe." 
+Wells's groundbreaking discovery revolutionized pain management in both medical a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/horace-wells-20260724.mp3" type="audio/mpeg" length="1732800"/>
+      <guid isPermaLink="false">realstory-horace-wells-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 19:41:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hans Berger</title>
       <description>Hans Berger (21 May 1873 – 1 June 1941) was a German psychiatrist. He is best known as the inventor of electroencephalography (EEG) in 1924, which is a method used for recording the electrical activity of the brain, commonly described in terms of brainwaves, and as the discoverer of the alpha wave rhythm which is a type of brainwave. Alpha waves have been eponymously referred to as the "Berger wav</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hans-berger-20260723.mp3" type="audio/mpeg" length="1688160"/>
