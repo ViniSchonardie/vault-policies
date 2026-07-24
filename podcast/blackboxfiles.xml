@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>LANSA Flight 502</title>
+      <description>LANSA Flight 502 was a Lockheed L-188A Electra operated by Líneas Aéreas Nacionales Sociedad Anónima (LANSA) which crashed shortly after takeoff from Quispiquilla Airport near Cusco, Peru, on August 9, 1970, after losing all power from one of its four engines. The turboprop airliner, registered OB-R-939, was bound from Cusco to Lima, carrying 8 crew and 92 passengers. All but one of the occupants </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lansa-flight-502-20260724.mp3" type="audio/mpeg" length="1559040"/>
+      <guid isPermaLink="false">aviation-lansa-flight-502-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 15:27:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Far Eastern Air Transport Flight 103</title>
       <description>Far Eastern Air Transport Flight 103 was a scheduled flight from Taiwan Taipei Songshan Airport to Kaohsiung International Airport that crashed on 22 August 1981, killing all 110 people on board. The Boeing 737-222 aircraft disintegrated in midair and crashed in the township of Sanyi, Miaoli. It is also called the Sanyi Air Disaster. The crash is the third-deadliest aviation accident on the Taiwan</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/far-eastern-air-transport-flight-103-20260723.mp3" type="audio/mpeg" length="1324320"/>
