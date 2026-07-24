@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1991 Merion mid-air collision</title>
+      <description>On April 4, 1991, a Piper Aerostar propeller-driven aircraft collided in mid-air with a Bell 412 helicopter over Merion Elementary School in Lower Merion Township, a suburb west of Philadelphia, in southeast Pennsylvania. All five people in both aircraft were killed, including United States Senator John Heinz, the sole passenger of the Piper. On the ground, two schoolchildren were killed by fallin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1991-merion-mid-air-collision-20260724.mp3" type="audio/mpeg" length="1868160"/>
+      <guid isPermaLink="false">aviation-1991-merion-mid-air-collision-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 18:16:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LANSA Flight 502</title>
       <description>LANSA Flight 502 was a Lockheed L-188A Electra operated by Líneas Aéreas Nacionales Sociedad Anónima (LANSA) which crashed shortly after takeoff from Quispiquilla Airport near Cusco, Peru, on August 9, 1970, after losing all power from one of its four engines. The turboprop airliner, registered OB-R-939, was bound from Cusco to Lima, carrying 8 crew and 92 passengers. All but one of the occupants </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lansa-flight-502-20260724.mp3" type="audio/mpeg" length="1559040"/>
