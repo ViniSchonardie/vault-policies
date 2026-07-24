@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Goliath birdeater</title>
+      <description>The Goliath birdeater (Theraphosa blondi) is a large spider that belongs to the tarantula family Theraphosidae. Found in northern South America, it is the largest spider in the world by mass (175 g (6.2 oz)) and body length (up to 13 cm (5.1 in)), and second to the giant huntsman spider by leg span. It is also considerably longer than the largest known prehistoric spider, Mongolarachne, that had a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/goliath-birdeater-20260724.mp3" type="audio/mpeg" length="1497120"/>
+      <guid isPermaLink="false">nature-goliath-birdeater-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 13:55:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spotted hyena</title>
       <description>The spotted hyena (Crocuta crocuta), also known as the laughing hyena, is a hyena species, currently classed as the sole extant member of the genus Crocuta, native to sub-Saharan Africa. It is listed as being of least concern by the IUCN due to its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is, however, experiencing declines outside of protected</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/spotted-hyena-20260723.mp3" type="audio/mpeg" length="1681440"/>
