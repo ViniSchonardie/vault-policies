@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Al-Juwayni</title>
+      <description>Dhia' ul-Dīn 'Abd al-Malik ibn Yūsuf al-Juwaynī al-Shafi'ī (Arabic إمام الحرمين ضياء الدين عبدالملك بن يوسف الجويني, 17 February 1028 – 20 August 1085; 419–478 AH) was an Iranian Sunni scholar famous for being the foremost leading jurisconsult, legal theoretician and Islamic theologian of his time. His name is commonly abbreviated as al-Juwayni; he is also commonly referred to as Imam al-Haramayn </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/al-juwayni-20260724.mp3" type="audio/mpeg" length="1600320"/>
+      <guid isPermaLink="false">realstory-al-juwayni-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 21:58:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Horace Wells</title>
       <description>Horace Wells (January 21, 1815 – January 24, 1848) was an American dentist who pioneered the use of anesthesia in medicine, specifically the use of nitrous oxide (or laughing gas). Although he was urged to patent his discovery, he never did, believing that freedom from pain should be "as free as the air we breathe." 
 Wells's groundbreaking discovery revolutionized pain management in both medical a</description>
