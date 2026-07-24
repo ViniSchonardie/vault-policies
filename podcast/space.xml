@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-102</title>
+      <description>STS-102 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery and launched from Kennedy Space Center, Florida. STS-102 flew in March 2001; its primary objectives were resupplying the ISS and rotating the Expedition 1 and Expedition 2 crews. It was Discovery's 29th flight. The first EVA performed on the mission, at eight hours and 56 minutes, held th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-102-20260724.mp3" type="audio/mpeg" length="1328160"/>
+      <guid isPermaLink="false">space-sts-102-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 15:02:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-33</title>
       <description>STS-33 was a NASA Space Shuttle mission and the 9th flight of Discovery, during which Space Shuttle Discovery deployed a payload for the United States Department of Defense (DoD). It was the 32nd shuttle mission overall, the ninth flight of Discovery, the fifth shuttle mission in support of the DoD, the seventh post-Space Shuttle Challenger disaster mission and the last Shuttle mission of the 1980</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-33-20260723.mp3" type="audio/mpeg" length="1790880"/>
