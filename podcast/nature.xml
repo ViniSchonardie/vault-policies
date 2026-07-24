@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>American crocodile</title>
+      <description>The American crocodile (Crocodylus acutus) is a species of crocodilian found in the Neotropics. It is the most widespread of the four extant species of crocodiles from the Americas, with populations present from South Florida, the Caribbean islands of Cuba, Jamaica, and Hispaniola, and the coasts of Mexico to as far south as Peru, Ecuador, Colombia, and Venezuela.
+The habitat of the American croco</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/american-crocodile-20260724.mp3" type="audio/mpeg" length="1718880"/>
+      <guid isPermaLink="false">nature-american-crocodile-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 17:27:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Goliath birdeater</title>
       <description>The Goliath birdeater (Theraphosa blondi) is a large spider that belongs to the tarantula family Theraphosidae. Found in northern South America, it is the largest spider in the world by mass (175 g (6.2 oz)) and body length (up to 13 cm (5.1 in)), and second to the giant huntsman spider by leg span. It is also considerably longer than the largest known prehistoric spider, Mongolarachne, that had a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/goliath-birdeater-20260724.mp3" type="audio/mpeg" length="1497120"/>
