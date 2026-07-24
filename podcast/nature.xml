@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Boomslang</title>
+      <description>The boomslang ( or ; Dispholidus typus) is a highly venomous snake in the family Colubridae. The species is native to Sub-Saharan Africa.
+
+
+== Etymology ==
+Its common name means "tree snake" in Dutch  and Afrikaans – boom meaning "tree", and slang meaning "snake". In Afrikaans, the name is pronounced [ˈbuəmslaŋ]. 
+
+
+== Taxonomy ==
+The boomslang is a colubrid snake within the subfamily Colubrinae. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/boomslang-20260724.mp3" type="audio/mpeg" length="1508640"/>
+      <guid isPermaLink="false">nature-boomslang-20260724</guid>
+      <pubDate>Fri, 24 Jul 2026 21:13:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American crocodile</title>
       <description>The American crocodile (Crocodylus acutus) is a species of crocodilian found in the Neotropics. It is the most widespread of the four extant species of crocodiles from the Americas, with populations present from South Florida, the Caribbean islands of Cuba, Jamaica, and Hispaniola, and the coasts of Mexico to as far south as Peru, Ecuador, Colombia, and Venezuela.
 The habitat of the American croco</description>
