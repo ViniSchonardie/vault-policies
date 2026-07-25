@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wace</title>
+      <description>Wace (c. 1110 – after 1174), sometimes referred to as Robert Wace, was a Medieval Norman poet, who was born in Jersey and brought up in mainland Normandy (he tells us in the Roman de Rou that he was taken as a child to Caen), ending his career as Canon of Bayeux.
+
+
+== Life ==
+All that is known of Wace's life comes from autobiographical references in his poems. He neglected to mention his birthdate</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/wace-20260725.mp3" type="audio/mpeg" length="1470720"/>
+      <guid isPermaLink="false">realstory-wace-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 19:18:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sergey Ilyushin</title>
       <description>Sergey Vladimirovich Ilyushin (Russian: Сергей Владимирович Ильюшин; 30 March [O.S. 18 March] 1894 – 9 February 1977) was a Soviet aircraft designer who founded the Ilyushin aircraft design bureau. He designed the Il-2 Shturmovik, which made its maiden flight in 1939. It is the most produced warplane, and remains the second most-produced aircraft in history, with some 36,000+ built, behind the US </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/sergey-ilyushin-20260725.mp3" type="audio/mpeg" length="1810560"/>
