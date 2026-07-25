@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ichthyovenator</title>
+      <description>Ichthyovenator is a genus of spinosaurid dinosaur that lived in what is now Laos, sometime between 120 and 113 million years ago, during the Aptian stage of the Early Cretaceous period. It is known from fossils collected from the Grès supérieurs Formation of the Savannakhet Basin, the first of which were found in 2010, consisting of a partial skeleton without the skull or limbs. This specimen beca</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ichthyovenator-20260725.mp3" type="audio/mpeg" length="1256160"/>
+      <guid isPermaLink="false">prehistoric-ichthyovenator-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 13:48:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jainosaurus</title>
       <description>Jainosaurus  is a genus of titanosaurian sauropod dinosaur of India and wider Asia, which lived in the Maastrichtian (approximately 68 million years ago). It is thought to have been about the same size as its contemporary relative Isisaurus, measuring 18 metres (59 ft) long and weighing 15 metric tons (17 short tons). The humerus of the type specimen is 134 centimetres long.
 
