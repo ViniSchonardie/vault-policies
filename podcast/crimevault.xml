@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>YouTube headquarters shooting</title>
+      <description>On April 3, 2018, at approximately 12:46 p.m. PDT, a shooting occurred at the headquarters of the American video-sharing website YouTube in San Bruno, California. The shooter was identified as 38-year-old Nasim Najafi Aghdam, an Iranian-American woman, who entered through an exterior parking garage, approached an outdoor patio, and opened fire with a Smith &amp; Wesson 9 mm semi-automatic pistol. Aghd</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/youtube-headquarters-shooting-20260725.mp3" type="audio/mpeg" length="1651680"/>
+      <guid isPermaLink="false">crime-youtube-headquarters-shooting-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 19:05:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stockton schoolyard shooting</title>
       <description>The Stockton schoolyard shooting occurred at Cleveland Elementary School in Stockton, California, on January 17, 1989. The perpetrator, 24-year-old Patrick Purdy, shot and killed five children and wounded thirty-one others—all but one of them children—before committing suicide approximately three minutes after first opening fire.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stockton-schoolyard-shooting-20260725.mp3" type="audio/mpeg" length="1836960"/>
