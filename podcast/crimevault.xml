@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stockton schoolyard shooting</title>
+      <description>The Stockton schoolyard shooting occurred at Cleveland Elementary School in Stockton, California, on January 17, 1989. The perpetrator, 24-year-old Patrick Purdy, shot and killed five children and wounded thirty-one others—all but one of them children—before committing suicide approximately three minutes after first opening fire.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stockton-schoolyard-shooting-20260725.mp3" type="audio/mpeg" length="1836960"/>
+      <guid isPermaLink="false">crime-stockton-schoolyard-shooting-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 14:46:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2016 shooting of Dallas police officers</title>
       <description>On July 7, 2016, Micah Xavier Johnson ambushed and shot police officers in Dallas, Texas, killing five, injuring nine others, and wounding two civilians. Johnson, a 25-year-old Army Reserve Afghan War veteran, was angry over white police shootings of black men. He shot the officers at the end of a protest against the recent killings by police of Alton Sterling in Baton Rouge, Louisiana, and Philan</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2016-shooting-of-dallas-police-officers-20260724.mp3" type="audio/mpeg" length="1793280"/>
