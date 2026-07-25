@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Poway synagogue shooting</title>
+      <description>On April 27, 2019, a mass shooting occurred at the Chabad of Poway synagogue in Poway, California, United States, a city which borders the north inland side of San Diego, on the last day of the Jewish Passover holiday, which fell on a Shabbat. Armed with an AR-15–style rifle, the gunman, John Earnest, fatally shot one woman and injured three other people, including the synagogue's rabbi. After fle</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/poway-synagogue-shooting-20260725.mp3" type="audio/mpeg" length="1576320"/>
+      <guid isPermaLink="false">crime-poway-synagogue-shooting-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 22:47:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>YouTube headquarters shooting</title>
       <description>On April 3, 2018, at approximately 12:46 p.m. PDT, a shooting occurred at the headquarters of the American video-sharing website YouTube in San Bruno, California. The shooter was identified as 38-year-old Nasim Najafi Aghdam, an Iranian-American woman, who entered through an exterior parking garage, approached an outdoor patio, and opened fire with a Smith &amp; Wesson 9 mm semi-automatic pistol. Aghd</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/youtube-headquarters-shooting-20260725.mp3" type="audio/mpeg" length="1651680"/>
