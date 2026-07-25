@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Passion Of Joan Of Arc</title>
+      <description>The Passion of Joan of Arc (French: La Passion de Jeanne d'Arc) is a 1928 French silent historical film based on the actual record of the trial of Joan of Arc. The film was directed by Carl Theodor Dreyer and stars Renée Jeanne Falconetti as Joan. It is widely regarded as a landmark of cinema, especially for its production, Dreyer's direction and Falconetti's performance, which is often listed as </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/the-passion-of-joan-of-arc-20260725.mp3" type="audio/mpeg" length="1848480"/>
+      <guid isPermaLink="false">trials-the-passion-of-joan-of-arc-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 16:59:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kawakita V United States</title>
       <description>Kawakita v. United States, 343 U.S. 717 (1952), is a United States Supreme Court case in which the Court ruled that a dual U.S./Japanese citizen could be convicted of treason against the United States for acts performed in Japan during World War II. Tomoya Kawakita, born in California to Japanese parents, was in Japan when the war broke out and stayed in Japan until the war was over. After returni</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/kawakita-v-united-states-20260725.mp3" type="audio/mpeg" length="1862880"/>
