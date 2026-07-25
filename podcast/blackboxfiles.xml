@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ryan International Airlines Flight 590</title>
+      <description>Ryan International Airlines Flight 590 was a cargo flight carrying mail for the United States Postal Service from Greater Buffalo International Airport (BUF) in Buffalo, New York, to Indianapolis International Airport (IND) in Indiana, with a stopover at Cleveland Hopkins International Airport (CLE) in Cleveland, Ohio. On February 17, 1991, the McDonnell Douglas DC-9-15RC operating the flight cras</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ryan-international-airlines-flight-590-20260725.mp3" type="audio/mpeg" length="1846080"/>
+      <guid isPermaLink="false">aviation-ryan-international-airlines-flight-590-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 21:47:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aviateca Flight 901</title>
       <description>Aviateca Flight 901 was a scheduled international passenger flight which crashed into the 7,159-foot (2,182 m) San Vicente volcano in El Salvador of a Boeing 737-2H6 on approach to the Comalapa International Airport on 9 August 1995. The accident killed all 65 passengers and crew on board and is the deadliest aviation disaster to occur in El Salvador. An investigation by the Civil Aviation Authori</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviateca-flight-901-20260725.mp3" type="audio/mpeg" length="1990080"/>
