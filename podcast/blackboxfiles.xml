@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aviateca Flight 901</title>
+      <description>Aviateca Flight 901 was a scheduled international passenger flight which crashed into the 7,159-foot (2,182 m) San Vicente volcano in El Salvador of a Boeing 737-2H6 on approach to the Comalapa International Airport on 9 August 1995. The accident killed all 65 passengers and crew on board and is the deadliest aviation disaster to occur in El Salvador. An investigation by the Civil Aviation Authori</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviateca-flight-901-20260725.mp3" type="audio/mpeg" length="1990080"/>
+      <guid isPermaLink="false">aviation-aviateca-flight-901-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 17:56:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>FedEx Express Flight 1478</title>
       <description>FedEx Express Flight 1478 was a scheduled domestic cargo flight from Memphis International Airport, Tennessee, to Tallahassee International Airport, Florida. On July 26, 2002, the Boeing 727-232F aircraft flying this route crashed during landing at Tallahassee. All three flight crew members survived the accident with serious injuries, but the aircraft was destroyed.
 
