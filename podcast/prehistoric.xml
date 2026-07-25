@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Machairodus</title>
+      <description>Machairodus (from Ancient Greek μάχαιρα (mákhaira), a type of ancient sword, and ὀδούς (odoús), meaning "tooth") is a genus of large machairodont or ''saber-toothed cat'' that lived in Africa and Eurasia during the Middle to Late Miocene, from 12.5 million to 8.7 million years ago. It is the animal from which the subfamily Machairodontinae gets its name. The genus currently consists of four named </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/machairodus-20260725.mp3" type="audio/mpeg" length="1859520"/>
+      <guid isPermaLink="false">prehistoric-machairodus-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 22:05:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cetiosaurus</title>
       <description>Cetiosaurus ( meaning 'whale lizard', from the Greek keteios/κήτειος meaning 'sea monster' (later, 'whale') and sauros/σαυρος meaning 'lizard'), is a genus of herbivorous sauropod dinosaur from the Middle Jurassic Period, living about 171 to 165 million years ago during the Bajocian and Bathonian ages in what is now Britain and probably France.
 Cetiosaurus was named in 1842, making it the first sa</description>
