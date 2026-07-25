@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eurasian lynx</title>
+      <description>The Eurasian lynx (Lynx lynx) is one of the four extant species within the medium-sized wild cat genus Lynx. It is widely distributed from Northern, Central and Eastern Europe to Central Asia and Siberia, the Tibetan Plateau and the Himalayas. It inhabits temperate and boreal forests up to an elevation of 5,500 m (18,000 ft). Despite its wide distribution, it is threatened by habitat loss and frag</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/eurasian-lynx-20260725.mp3" type="audio/mpeg" length="1992960"/>
+      <guid isPermaLink="false">nature-eurasian-lynx-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 16:51:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Red-tailed hawk</title>
       <description>The red-tailed hawk (Buteo jamaicensis) is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the "chickenhawk". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the West Indies. The red-tailed hawk occupies a wide range of habitats</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/red-tailed-hawk-20260725.mp3" type="audio/mpeg" length="1932480"/>
