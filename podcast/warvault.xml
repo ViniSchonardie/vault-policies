@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Seven Oaks</title>
+      <description>The Battle of Seven Oaks—also known as the Seven Oaks Massacre and the Seven Oaks Incident—was a violent confrontation of the Pemmican War between the Hudson's Bay Company (HBC) and the North West Company (NWC) which occurred on 19 June 1816 near modern-day Winnipeg, Manitoba.
+Resulting in a decisive victory for the NWC over their rivals in the North American fur trade, the confrontation was the c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-seven-oaks-20260725.mp3" type="audio/mpeg" length="1542720"/>
+      <guid isPermaLink="false">warvault-battle-of-seven-oaks-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 18:03:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Boonesborough</title>
       <description>The siege of Boonesborough was a military engagement which took place in September 1778 during the American Revolutionary War. On September 7, Shawnee chief Blackfish, who was allied to the British, led an attack on the Kentucky settlement of Boonesborough. Months before the battle, Blackfish had captured and adopted Daniel Boone, the founder of Boonesborough. Boone escaped the Shawnees in time to</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-boonesborough-20260725.mp3" type="audio/mpeg" length="1516320"/>
