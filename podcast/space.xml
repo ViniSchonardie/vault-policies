@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-113</title>
+      <description>STS-113 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. During the 14-day mission in late 2002, Endeavour and its crew extended the ISS backbone with the P1 truss and exchanged the Expedition 5 and Expedition 6 crews aboard the station. With commander Jim Wetherbee and pilot Paul Lockhart at the controls, Endeavour docked with the station on </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-113-20260725.mp3" type="audio/mpeg" length="1484640"/>
+      <guid isPermaLink="false">space-sts-113-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 20:48:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51</title>
       <description>STS-51 was a NASA Space Shuttle Discovery mission that launched the Advanced Communications Technology Satellite (ACTS) in September 1993. Discovery's 17th flight also featured the deployment and retrieval of the SPAS-ORFEUS satellite and its IMAX camera, which captured spectacular footage of Discovery in space. A spacewalk was also performed during the mission to evaluate tools and techniques for</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-20260725.mp3" type="audio/mpeg" length="1263360"/>
