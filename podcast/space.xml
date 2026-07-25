@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-35</title>
+      <description>STS-35 was the tenth flight of Space Shuttle Columbia, in the 38th shuttle mission.  It was devoted to astronomical observations with ASTRO-1, a Spacelab observatory consisting of four telescopes. The mission launched from Kennedy Space Center in Florida on December 2, 1990. It was also the first shuttle mission since the Challenger disaster with a crew of seven astronauts.
+
+
+== Crew ==
+
+Prior to </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-35-20260725.mp3" type="audio/mpeg" length="1716000"/>
+      <guid isPermaLink="false">space-sts-35-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 14:44:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-48</title>
       <description>STS-48 was a Space Shuttle mission that launched on September 12, 1991, from Kennedy Space Center, Florida. The orbiter was Space Shuttle Discovery on her 13th flight. The primary payload was the Upper Atmosphere Research Satellite (UARS). The mission landed on September 18 at 12:38 a.m. EDT at Edwards Air Force Base on runway 22. The mission was completed in 81 revolutions of the Earth and travel</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-48-20260724.mp3" type="audio/mpeg" length="1459680"/>
