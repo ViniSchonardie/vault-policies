@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Chateauguay</title>
+      <description>The Battle of the Chateauguay was an engagement of the War of 1812. On 26 October 1813, a Canadian and Native force consisting of 1,530 militia and Mohawk warriors from Lower Canada, commanded by Charles de Salaberry, repelled an American force of about 2,600 regulars which was attempting to invade Lower Canada and ultimately attack Montreal. The battle was one of the two battles (the other being </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-chateauguay-20260725.mp3" type="audio/mpeg" length="1543680"/>
+      <guid isPermaLink="false">warvault-battle-of-the-chateauguay-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 22:06:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Seven Oaks</title>
       <description>The Battle of Seven Oaks—also known as the Seven Oaks Massacre and the Seven Oaks Incident—was a violent confrontation of the Pemmican War between the Hudson's Bay Company (HBC) and the North West Company (NWC) which occurred on 19 June 1816 near modern-day Winnipeg, Manitoba.
 Resulting in a decisive victory for the NWC over their rivals in the North American fur trade, the confrontation was the c</description>
