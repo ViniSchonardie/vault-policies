@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Boonesborough</title>
+      <description>The siege of Boonesborough was a military engagement which took place in September 1778 during the American Revolutionary War. On September 7, Shawnee chief Blackfish, who was allied to the British, led an attack on the Kentucky settlement of Boonesborough. Months before the battle, Blackfish had captured and adopted Daniel Boone, the founder of Boonesborough. Boone escaped the Shawnees in time to</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-boonesborough-20260725.mp3" type="audio/mpeg" length="1516320"/>
+      <guid isPermaLink="false">warvault-siege-of-boonesborough-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 14:33:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Galveston</title>
       <description>The Battle of Galveston was a naval and land battle of the American Civil War, when Confederate forces under Major Gen. John B. Magruder expelled occupying Union troops from the city of Galveston, Texas on January 1, 1863.
 After the loss of the cutter Harriet Lane, the Union Fleet Commander William B. Renshaw blew up the stranded vessel USS Westfield to save it from falling into enemy hands. Union</description>
