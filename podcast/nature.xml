@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Red-tailed hawk</title>
+      <description>The red-tailed hawk (Buteo jamaicensis) is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the "chickenhawk". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the West Indies. The red-tailed hawk occupies a wide range of habitats</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/red-tailed-hawk-20260725.mp3" type="audio/mpeg" length="1932480"/>
+      <guid isPermaLink="false">nature-red-tailed-hawk-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 13:46:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boomslang</title>
       <description>The boomslang ( or ; Dispholidus typus) is a highly venomous snake in the family Colubridae. The species is native to Sub-Saharan Africa.
 
