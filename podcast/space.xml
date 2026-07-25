@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51</title>
+      <description>STS-51 was a NASA Space Shuttle Discovery mission that launched the Advanced Communications Technology Satellite (ACTS) in September 1993. Discovery's 17th flight also featured the deployment and retrieval of the SPAS-ORFEUS satellite and its IMAX camera, which captured spectacular footage of Discovery in space. A spacewalk was also performed during the mission to evaluate tools and techniques for</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-20260725.mp3" type="audio/mpeg" length="1263360"/>
+      <guid isPermaLink="false">space-sts-51-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 17:06:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-35</title>
       <description>STS-35 was the tenth flight of Space Shuttle Columbia, in the 38th shuttle mission.  It was devoted to astronomical observations with ASTRO-1, a Spacelab observatory consisting of four telescopes. The mission launched from Kennedy Space Center in Florida on December 2, 1990. It was also the first shuttle mission since the Challenger disaster with a crew of seven astronauts.
 
