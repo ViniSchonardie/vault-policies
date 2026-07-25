@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kawakita V United States</title>
+      <description>Kawakita v. United States, 343 U.S. 717 (1952), is a United States Supreme Court case in which the Court ruled that a dual U.S./Japanese citizen could be convicted of treason against the United States for acts performed in Japan during World War II. Tomoya Kawakita, born in California to Japanese parents, was in Japan when the war broke out and stayed in Japan until the war was over. After returni</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/kawakita-v-united-states-20260725.mp3" type="audio/mpeg" length="1862880"/>
+      <guid isPermaLink="false">trials-kawakita-v-united-states-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 00:02:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wrzburg Witch Trials</title>
       <description>The Würzburg witch trials of 1625–1631, which took place in the self-governing Catholic Prince-Bishopric of Würzburg in the Holy Roman Empire in present-day Germany, formed one of the biggest mass trials and mass executions ever seen in Europe, and one of the largest witch trials in history.
 The trials resulted in the execution of hundreds of people of all ages, sexes and classes, all of whom were</description>
