@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Snowy owl</title>
+      <description>The snowy owl (Bubo scandiacus), also known as the polar owl, the white owl and the Arctic owl, is a large, white owl of the true owl family. Snowy owls are native to the Arctic regions of both North America and the Palearctic, breeding mostly on the tundra. It has a number of unique adaptations to its habitat and lifestyle, which are quite distinct from other extant owls. One of the largest speci</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snowy-owl-20260725.mp3" type="audio/mpeg" length="1610400"/>
+      <guid isPermaLink="false">nature-snowy-owl-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 21:03:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eurasian lynx</title>
       <description>The Eurasian lynx (Lynx lynx) is one of the four extant species within the medium-sized wild cat genus Lynx. It is widely distributed from Northern, Central and Eastern Europe to Central Asia and Siberia, the Tibetan Plateau and the Himalayas. It inhabits temperate and boreal forests up to an elevation of 5,500 m (18,000 ft). Despite its wide distribution, it is threatened by habitat loss and frag</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/eurasian-lynx-20260725.mp3" type="audio/mpeg" length="1992960"/>
