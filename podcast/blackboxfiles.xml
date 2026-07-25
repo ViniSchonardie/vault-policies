@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>FedEx Express Flight 1478</title>
+      <description>FedEx Express Flight 1478 was a scheduled domestic cargo flight from Memphis International Airport, Tennessee, to Tallahassee International Airport, Florida. On July 26, 2002, the Boeing 727-232F aircraft flying this route crashed during landing at Tallahassee. All three flight crew members survived the accident with serious injuries, but the aircraft was destroyed.
+
+
+== Aircraft and crew ==
+The a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/fedex-express-flight-1478-20260725.mp3" type="audio/mpeg" length="1395360"/>
+      <guid isPermaLink="false">aviation-fedex-express-flight-1478-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 15:02:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Philippine Airlines Flight 137</title>
       <description>Philippine Airlines Flight 137 was a scheduled passenger flight from Ninoy Aquino International Airport in Metro Manila to Bacolod City Domestic Airport in Bacolod. The aircraft overran the runway on landing which resulted in the deaths of three people on the ground whereas none out of the 124 passengers and 6 crew were killed.
 
