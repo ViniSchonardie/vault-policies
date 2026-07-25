@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cetiosaurus</title>
+      <description>Cetiosaurus ( meaning 'whale lizard', from the Greek keteios/κήτειος meaning 'sea monster' (later, 'whale') and sauros/σαυρος meaning 'lizard'), is a genus of herbivorous sauropod dinosaur from the Middle Jurassic Period, living about 171 to 165 million years ago during the Bajocian and Bathonian ages in what is now Britain and probably France.
+Cetiosaurus was named in 1842, making it the first sa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cetiosaurus-20260725.mp3" type="audio/mpeg" length="1533600"/>
+      <guid isPermaLink="false">prehistoric-cetiosaurus-20260725</guid>
+      <pubDate>Sat, 25 Jul 2026 18:00:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ichthyovenator</title>
       <description>Ichthyovenator is a genus of spinosaurid dinosaur that lived in what is now Laos, sometime between 120 and 113 million years ago, during the Aptian stage of the Early Cretaceous period. It is known from fossils collected from the Grès supérieurs Formation of the Savannakhet Basin, the first of which were found in 2010, consisting of a partial skeleton without the skull or limbs. This specimen beca</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ichthyovenator-20260725.mp3" type="audio/mpeg" length="1256160"/>
