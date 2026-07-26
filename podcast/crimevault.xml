@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2021 Kabul airport attack</title>
+      <description>A suicide bombing took place at Hamid Karzai International Airport in Kabul, Afghanistan, on 26 August 2021, at 17:50 local time, during the evacuation from Afghanistan. At least 182 people were killed, including 169 Afghan civilians and 13 members of the United States military, the first American military casualties in the war in Afghanistan since February 2020. The Islamic State – Khorasan Provi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-kabul-airport-attack-20260726.mp3" type="audio/mpeg" length="1644960"/>
+      <guid isPermaLink="false">crime-2021-kabul-airport-attack-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 19:08:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2021 Atlanta spa shootings</title>
       <description>On March 16, 2021, a shooting spree occurred at two spas and a massage parlor in the metropolitan area of Atlanta, Georgia, United States. Eight people were killed and a ninth was wounded. The shooter, 21-year-old Robert Aaron Long, was taken into custody later that day.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-atlanta-spa-shootings-20260726.mp3" type="audio/mpeg" length="2122560"/>
