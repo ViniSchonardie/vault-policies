@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Russian Olympic Committee</title>
+      <description>The Russian Olympic Committee (ROC; IOC Code: RUS) is the National Olympic Committee representing Russia. The membership of ROC has been suspended by the International Olympic Committee (IOC) since 12 October 2023. Its president during IOC suspension is Mikhail Degtyarev.
+
+
+== History ==
+Russia's Olympic Committee was founded in 1911 by representatives of Russian Sports Societies at a meeting in S</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/russian-olympic-committee-20260726.mp3" type="audio/mpeg" length="1563840"/>
+      <guid isPermaLink="false">sportscrime-russian-olympic-committee-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 20:09:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2007 Formula One espionage controversy</title>
       <description>The 2007 Formula One espionage controversy, also known as Spygate and Stepneygate, was a set of accusations among Formula One racing teams that confidential technical information had been passed between them. It involved the McLaren, Ferrari and Renault F1 teams.
 The original case involved allegations made by the Ferrari Formula One team against a former employee (Nigel Stepney), a senior McLaren </description>
