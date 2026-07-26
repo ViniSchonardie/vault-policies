@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dan-Air Flight 1903</title>
+      <description>Dan-Air Flight 1903 was an unscheduled international passenger service from Manchester to Barcelona, operated by Dan Air Services Limited under contract with British tour operator Clarksons Holidays, which arranged for the flight to carry a group of holidaymakers who had booked an all-inclusive package holiday with the operator.  
+On 3 July 1970, the de Havilland Comet 4 aircraft serving the fligh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/dan-air-flight-1903-20260726.mp3" type="audio/mpeg" length="1612320"/>
+      <guid isPermaLink="false">aviation-dan-air-flight-1903-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 15:05:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ryan International Airlines Flight 590</title>
       <description>Ryan International Airlines Flight 590 was a cargo flight carrying mail for the United States Postal Service from Greater Buffalo International Airport (BUF) in Buffalo, New York, to Indianapolis International Airport (IND) in Indiana, with a stopover at Cleveland Hopkins International Airport (CLE) in Cleveland, Ohio. On February 17, 1991, the McDonnell Douglas DC-9-15RC operating the flight cras</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ryan-international-airlines-flight-590-20260725.mp3" type="audio/mpeg" length="1846080"/>
