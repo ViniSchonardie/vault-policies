@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air Transat Flight 961</title>
+      <description>Air Transat Flight 961 was an Air Transat flight from Varadero, Cuba to Quebec City, Canada on March 6, 2005.  The aircraft experienced a structural failure in which the rudder detached in flight.  The flight crew were able to regain enough control of the aircraft to return safely to Varadero. As of March 2020, the Airbus A310-308 is no longer in service.
+The investigation that followed determined</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-transat-flight-961-20260726.mp3" type="audio/mpeg" length="1513920"/>
+      <guid isPermaLink="false">aviation-air-transat-flight-961-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 21:52:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Caspian Airlines Flight 7908</title>
       <description>Caspian Airlines Flight 7908 was a scheduled commercial flight from Tehran, Iran, to Yerevan, Armenia, that crashed near the village of Jannatabad, outside the city of Qazvin in north-western Iran, on 15 July 2009. All 153 passengers and 15 crew members on board died.
 The subsequent crash investigation found that the incident had been caused by fatigue failure and consequent disintegration of a ro</description>
