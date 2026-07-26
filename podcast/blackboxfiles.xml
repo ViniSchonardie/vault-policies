@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Caspian Airlines Flight 7908</title>
+      <description>Caspian Airlines Flight 7908 was a scheduled commercial flight from Tehran, Iran, to Yerevan, Armenia, that crashed near the village of Jannatabad, outside the city of Qazvin in north-western Iran, on 15 July 2009. All 153 passengers and 15 crew members on board died.
+The subsequent crash investigation found that the incident had been caused by fatigue failure and consequent disintegration of a ro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/caspian-airlines-flight-7908-20260726.mp3" type="audio/mpeg" length="1815840"/>
+      <guid isPermaLink="false">aviation-caspian-airlines-flight-7908-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 17:59:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dan-Air Flight 1903</title>
       <description>Dan-Air Flight 1903 was an unscheduled international passenger service from Manchester to Barcelona, operated by Dan Air Services Limited under contract with British tour operator Clarksons Holidays, which arranged for the flight to carry a group of holidaymakers who had booked an all-inclusive package holiday with the operator.  
 On 3 July 1970, the de Havilland Comet 4 aircraft serving the fligh</description>
