@@ -17,6 +17,28 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-89</title>
+      <description>STS-89 was a Space Shuttle mission to the Mir space station flown by Space Shuttle Endeavour, and launched from Kennedy Space Center, Florida on 22 January 1998.
+
+
+== Crew ==
+
+
+=== Crew notes ===
+STS-89 was originally scheduled to return Wendy B. Lawrence but returned David A. Wolf (Mir 24–25/STS-86) and left Andrew Thomas on Mir. Thomas returned on STS-91.
+
+
+=== Crew seat assignments ===
+
+
+== Mis</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-89-20260726.mp3" type="audio/mpeg" length="1944000"/>
+      <guid isPermaLink="false">space-sts-89-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 14:43:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-113</title>
       <description>STS-113 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. During the 14-day mission in late 2002, Endeavour and its crew extended the ISS backbone with the P1 truss and exchanged the Expedition 5 and Expedition 6 crews aboard the station. With commander Jim Wetherbee and pilot Paul Lockhart at the controls, Endeavour docked with the station on </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-113-20260725.mp3" type="audio/mpeg" length="1484640"/>
