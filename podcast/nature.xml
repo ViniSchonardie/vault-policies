@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>African elephant</title>
+      <description>African elephants are members of the genus Loxodonta comprising two living elephant species, the African bush elephant (L. africana) and the smaller African forest elephant (L. cyclotis). Both are social herbivores with grey skin. However, they differ in the size and colour of their tusks as well as the shape and size of their ears and skulls.
+Both species are at risk of extinction according to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/african-elephant-20260726.mp3" type="audio/mpeg" length="1921920"/>
+      <guid isPermaLink="false">nature-african-elephant-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 21:08:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Agkistrodon piscivorus</title>
       <description>Agkistrodon piscivorus is a species of venomous snake, a pit viper in the subfamily Crotalinae of the family Viperidae. It is one of the world's few semiaquatic vipers (along with the Florida cottonmouth), and is native to the Southeastern United States. As an adult, it is large and capable of delivering a painful and potentially fatal bite. When threatened, it may respond by coiling its body and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/agkistrodon-piscivorus-20260726.mp3" type="audio/mpeg" length="1500960"/>
