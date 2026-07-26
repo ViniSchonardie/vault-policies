@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Fenrir</title>
+      <description>Fenrir (Old Norse 'fen-dweller') or Fenrisúlfr (Old Norse "Fenrir's wolf", often translated "Fenris-wolf"), also referred to as Hróðvitnir (Old Norse "fame-wolf") and Vánagandr (Old Norse 'monster of the [River] Ván'), is a monstrous wolf in Norse mythology. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök, where he is foretold to assist in setting the world aflame, result</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/fenrir-20260726.mp3" type="audio/mpeg" length="1332960"/>
+      <guid isPermaLink="false">mythology-fenrir-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 23:58:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nezha</title>
       <description>Nezha (哪吒, Nézhā) or sometimes Nezha the Crown Prince (哪吒太子, Nézhā Tàizǐ), is a protection deity in Taoism, Buddhism, Confucianism, and Chinese folk religion. His official Taoist name is "Marshal of the Central Altar" (中壇元帥). He was then given the title "Third Lotus Prince" (蓮花三太子) after he became a deity.
 
