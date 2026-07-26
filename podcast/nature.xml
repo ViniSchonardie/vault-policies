@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Burmese python</title>
+      <description>The Burmese python (Python bivittatus) is one of the largest species of snakes. It is native to a large area of Southeast Asia and is listed as Vulnerable on the IUCN Red List. Until 2009, it was considered a subspecies of the Indian python, but is now recognized as a distinct species. It is an invasive species in the US state of Florida as a result of the pet trade.
+
+
+== Description ==
+The Burmes</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/burmese-python-20260726.mp3" type="audio/mpeg" length="1991040"/>
+      <guid isPermaLink="false">nature-burmese-python-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 13:41:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snowy owl</title>
       <description>The snowy owl (Bubo scandiacus), also known as the polar owl, the white owl and the Arctic owl, is a large, white owl of the true owl family. Snowy owls are native to the Arctic regions of both North America and the Palearctic, breeding mostly on the tundra. It has a number of unique adaptations to its habitat and lifestyle, which are quite distinct from other extant owls. One of the largest speci</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snowy-owl-20260725.mp3" type="audio/mpeg" length="1610400"/>
