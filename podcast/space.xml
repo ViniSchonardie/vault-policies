@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-82</title>
+      <description>STS-82 was the 22nd flight of the Space Shuttle Discovery and the 82nd mission of the Space Shuttle program. It was NASA's second mission to service the Hubble Space Telescope, during which Discovery's crew repaired and upgraded the telescope's scientific instruments, increasing its research capabilities. Discovery launched from Kennedy Space Center, Florida, on February 11, 1997, returning to Ear</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-82-20260726.mp3" type="audio/mpeg" length="1955520"/>
+      <guid isPermaLink="false">space-sts-82-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 20:55:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-99</title>
       <description>STS-99 was a Space Shuttle mission using Endeavour, that launched on 11 February 2000 from Kennedy Space Center, Florida. The primary objective of the mission was the Shuttle Radar Topography Mission (SRTM) project. This was also the last solo flight of Endeavour; all future flights for Endeavour became devoted to the International Space Station. STS-99 was also the first Shuttle mission of the 20</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-99-20260726.mp3" type="audio/mpeg" length="1781280"/>
