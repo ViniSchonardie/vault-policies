@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lythronax</title>
+      <description>Lythronax (LYE-thro-nax) is a genus of tyrannosaurid dinosaur that lived in North America around 81.9-81.5 million years ago during the Late Cretaceous period. The only known specimen was discovered in Utah in the Wahweap Formation of the Grand Staircase–Escalante National Monument in 2009, and it consists of a partial skull and skeleton. In 2013, it became the basis of the new genus and species L</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/lythronax-20260726.mp3" type="audio/mpeg" length="1898400"/>
+      <guid isPermaLink="false">prehistoric-lythronax-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 13:44:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Machairodus</title>
       <description>Machairodus (from Ancient Greek μάχαιρα (mákhaira), a type of ancient sword, and ὀδούς (odoús), meaning "tooth") is a genus of large machairodont or ''saber-toothed cat'' that lived in Africa and Eurasia during the Middle to Late Miocene, from 12.5 million to 8.7 million years ago. It is the animal from which the subfamily Machairodontinae gets its name. The genus currently consists of four named </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/machairodus-20260725.mp3" type="audio/mpeg" length="1859520"/>
