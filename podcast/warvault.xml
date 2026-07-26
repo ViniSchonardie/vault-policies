@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>St. Albans Raid</title>
+      <description>The St. Albans Raid was the northernmost land action of the American Civil War. Taking place in St. Albans, Vermont, on October 19, 1864, it was a raid conducted out of the Province of Canada by 21 Confederate soldiers who had recently failed in engagements with the Union Army and evaded subsequent capture in the United States. The mission of the raid was to rob banks to raise money, and to trick </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/st-albans-raid-20260726.mp3" type="audio/mpeg" length="1657440"/>
+      <guid isPermaLink="false">warvault-st-albans-raid-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 14:30:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of the Chateauguay</title>
       <description>The Battle of the Chateauguay was an engagement of the War of 1812. On 26 October 1813, a Canadian and Native force consisting of 1,530 militia and Mohawk warriors from Lower Canada, commanded by Charles de Salaberry, repelled an American force of about 2,600 regulars which was attempting to invade Lower Canada and ultimately attack Montreal. The battle was one of the two battles (the other being </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-chateauguay-20260725.mp3" type="audio/mpeg" length="1543680"/>
