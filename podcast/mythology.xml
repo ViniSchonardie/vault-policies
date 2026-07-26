@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Narcissus (mythology)</title>
+      <description>In Greek mythology, Narcissus (; Ancient Greek: Νάρκισσος, romanized: Nárkissos) is a hunter from Thespiae in Boeotia (alternatively Mimas or modern-day Karaburun, İzmir), known for his beauty which was noticed by all. According to the best-known version of the story in Ovid's Metamorphoses, Narcissus rejected the advances of all women and men who approached him, instead falling in love with his o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/narcissus-mythology-20260726.mp3" type="audio/mpeg" length="1268160"/>
+      <guid isPermaLink="false">mythology-narcissus-mythology-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 16:48:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Castor and Pollux</title>
       <description>Castor and Pollux (or Polydeuces) are twin half-brothers in Greek and Roman mythology, known together as the Dioscuri or Dioskouroi.
 Their mother was Leda, but they had different fathers; Castor was the mortal son of Tyndareus, the king of Sparta, while Pollux was the divine son of Zeus, who seduced Leda in the guise of a swan. The pair are thus an example of heteropaternal superfecundation. Thoug</description>
