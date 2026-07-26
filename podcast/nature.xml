@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Agkistrodon piscivorus</title>
+      <description>Agkistrodon piscivorus is a species of venomous snake, a pit viper in the subfamily Crotalinae of the family Viperidae. It is one of the world's few semiaquatic vipers (along with the Florida cottonmouth), and is native to the Southeastern United States. As an adult, it is large and capable of delivering a painful and potentially fatal bite. When threatened, it may respond by coiling its body and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/agkistrodon-piscivorus-20260726.mp3" type="audio/mpeg" length="1500960"/>
+      <guid isPermaLink="false">nature-agkistrodon-piscivorus-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 16:53:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Burmese python</title>
       <description>The Burmese python (Python bivittatus) is one of the largest species of snakes. It is native to a large area of Southeast Asia and is listed as Vulnerable on the IUCN Red List. Until 2009, it was considered a subspecies of the Indian python, but is now recognized as a distinct species. It is an invasive species in the US state of Florida as a result of the pet trade.
 
