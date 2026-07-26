@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Henry The Young King</title>
+      <description>Henry the Young King (28 February 1155 – 11 June 1183) was the eldest son of Henry II of England and Eleanor of Aquitaine to survive childhood. In 1170, he became titular King of England, Duke of Normandy, Count of Anjou and of Maine. Henry the Young King was the only English king since the Norman Conquest to be crowned during his father's reign, but he was frustrated by his father's refusal to gr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/henry-the-young-king-20260726.mp3" type="audio/mpeg" length="1620480"/>
+      <guid isPermaLink="false">royal-henry-the-young-king-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 15:14:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1553 Succession Crisis</title>
       <description>A succession crisis arose in England in 1553 from an intractable personal and religious conflict between the Protestant King Edward VI and his older half-sister and heiress-presumptive, Mary, a Catholic.
 The plan to remove Mary from the succession and replace her with a Protestant heir-presumptive from the younger Tudor branch had been in Edward's mind since December 1552. In June 1553, the termin</description>
