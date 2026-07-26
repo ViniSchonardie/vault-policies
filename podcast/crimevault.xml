@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2021 Atlanta spa shootings</title>
+      <description>On March 16, 2021, a shooting spree occurred at two spas and a massage parlor in the metropolitan area of Atlanta, Georgia, United States. Eight people were killed and a ninth was wounded. The shooter, 21-year-old Robert Aaron Long, was taken into custody later that day.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-atlanta-spa-shootings-20260726.mp3" type="audio/mpeg" length="2122560"/>
+      <guid isPermaLink="false">crime-2021-atlanta-spa-shootings-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 14:47:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poway synagogue shooting</title>
       <description>On April 27, 2019, a mass shooting occurred at the Chabad of Poway synagogue in Poway, California, United States, a city which borders the north inland side of San Diego, on the last day of the Jewish Passover holiday, which fell on a Shabbat. Armed with an AR-15–style rifle, the gunman, John Earnest, fatally shot one woman and injured three other people, including the synagogue's rabbi. After fle</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/poway-synagogue-shooting-20260725.mp3" type="audio/mpeg" length="1576320"/>
