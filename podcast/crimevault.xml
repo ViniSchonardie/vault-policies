@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Orlando nightclub shooting</title>
+      <description>On June 12, 2016, 29-year-old Omar Mateen shot and killed 49 people and wounded 58 in a mass shooting at Pulse, a gay nightclub in Orlando, Florida, United States. Pulse was hosting a "Latin Night", and most of the victims were of Latino descent.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/orlando-nightclub-shooting-20260726.mp3" type="audio/mpeg" length="1640160"/>
+      <guid isPermaLink="false">crime-orlando-nightclub-shooting-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 22:56:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2021 Kabul airport attack</title>
       <description>A suicide bombing took place at Hamid Karzai International Airport in Kabul, Afghanistan, on 26 August 2021, at 17:50 local time, during the evacuation from Afghanistan. At least 182 people were killed, including 169 Afghan civilians and 13 members of the United States military, the first American military casualties in the war in Afghanistan since February 2020. The Islamic State – Khorasan Provi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-kabul-airport-attack-20260726.mp3" type="audio/mpeg" length="1644960"/>
