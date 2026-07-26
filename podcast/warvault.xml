@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Operation Flash</title>
+      <description>Operation Flash (Croatian: Операција Бљесак, romanized: Operacija Bljesak) was a brief Croatian Army (HV) offensive conducted against the forces of the self-declared proto-state Republic of Serbian Krajina (RSK) from 1–3 May 1995. The offensive occurred in the later stages of the Croatian War of Independence and was the first major confrontation after ceasefire and economic cooperation agreements </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/operation-flash-20260726.mp3" type="audio/mpeg" length="1765920"/>
+      <guid isPermaLink="false">warvault-operation-flash-20260726</guid>
+      <pubDate>Sun, 26 Jul 2026 22:10:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Turkish capture of Smyrna</title>
       <description>The Turkish capture of Smyrna or the Liberation of İzmir (Turkish: İzmir'in Kurtuluşu) marked the end of the 1919–1922 Greco-Turkish War, and the culmination of the Turkish War of Independence. On 9 September 1922, following the headlong retreat of the Greek army after its defeat at the Battle of Dumlupınar and its evacuation from western Anatolia, the Turkish 5th Cavalry Corps under the command o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/turkish-capture-of-smyrna-20260726.mp3" type="audio/mpeg" length="1804320"/>
