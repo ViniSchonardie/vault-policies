@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Chippawa</title>
+      <description>The Battle of Chippawa (sometimes spelled Chippewa) was a War of 1812 battle fought on July 5, 1814, in which the United States Army defeated British forces during the American invasion of Upper Canada along the Niagara River. This battle and the subsequent Battle of Lundy's Lane demonstrated that trained American troops could hold their own against British regulars. The battlefield is preserved a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chippawa-20260727.mp3" type="audio/mpeg" length="1992960"/>
+      <guid isPermaLink="false">warvault-battle-of-chippawa-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 15:51:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Operation Flash</title>
       <description>Operation Flash (Croatian: Операција Бљесак, romanized: Operacija Bljesak) was a brief Croatian Army (HV) offensive conducted against the forces of the self-declared proto-state Republic of Serbian Krajina (RSK) from 1–3 May 1995. The offensive occurred in the later stages of the Croatian War of Independence and was the first major confrontation after ceasefire and economic cooperation agreements </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/operation-flash-20260726.mp3" type="audio/mpeg" length="1765920"/>
