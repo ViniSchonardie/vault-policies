@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Isanosaurus</title>
+      <description>Isanosaurus ("North-eastern Thailand lizard") is an extinct genus of sauropod dinosaur from Thailand. It was originally dated to approximately 219-199  million years ago during the Late Triassic (late Norian to Rhaetian stages), which would make it one of the oldest known sauropods. Its age was later considered uncertain, and may be Early Jurassic or even as young as Late Jurassic. The only specie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/isanosaurus-20260727.mp3" type="audio/mpeg" length="1724160"/>
+      <guid isPermaLink="false">prehistoric-isanosaurus-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 14:51:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Barapasaurus</title>
       <description>Barapasaurus ( bə-RAH-pə-SOR-əs) is a genus of basal sauropod dinosaur from Jurassic rocks of India. The only species is B. tagorei. Barapasaurus comes from the lower part of the Kota Formation, which is of Early to Middle Jurassic in age. It is therefore one of the earliest known sauropods. Barapasaurus is known from approximately 300 bones from at least six individuals, so that the skeleton is a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/barapasaurus-20260726.mp3" type="audio/mpeg" length="1832640"/>
