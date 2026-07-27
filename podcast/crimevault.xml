@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2023 Michigan State University shooting</title>
+      <description>On Monday, February 13, 2023, a school shooting occurred in two buildings on the campus of Michigan State University (MSU) in East Lansing, Michigan, United States. Three students were killed and five others injured. The gunman, 43-year-old Anthony Dwayne McRae, died from a self-inflicted gunshot wound when he was confronted by police off campus three hours later.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2023-michigan-state-university-shooting-20260727.mp3" type="audio/mpeg" length="1581600"/>
+      <guid isPermaLink="false">crime-2023-michigan-state-university-shooting-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 22:58:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2019 Dayton shooting</title>
       <description>On August 4, 2019, 24-year-old Connor Betts shot and killed nine people, including his brother, and wounded 17 others near the entrance of the Ned Peppers Bar in the Oregon Historic District of Dayton, Ohio, United States. Betts was fatally shot by responding police officers 32 seconds after the first shots were fired. A total of 27 people were taken to area hospitals. It is the deadliest mass sho</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2019-dayton-shooting-20260727.mp3" type="audio/mpeg" length="1551840"/>
