@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-41</title>
+      <description>STS-41 was the 36th Space Shuttle mission and the eleventh mission of the Space Shuttle Discovery. The four-day mission had a primary objective of launching the Ulysses probe as part of the "International Solar Polar Mission" (ISPM).
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+Discovery lifted off on October 6 1990 at 7:47:16 a.m. EDT. Liftoff occurred 12 minutes after</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-20260727.mp3" type="audio/mpeg" length="1937280"/>
+      <guid isPermaLink="false">space-sts-41-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 15:49:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-82</title>
       <description>STS-82 was the 22nd flight of the Space Shuttle Discovery and the 82nd mission of the Space Shuttle program. It was NASA's second mission to service the Hubble Space Telescope, during which Discovery's crew repaired and upgraded the telescope's scientific instruments, increasing its research capabilities. Discovery launched from Kennedy Space Center, Florida, on February 11, 1997, returning to Ear</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-82-20260726.mp3" type="audio/mpeg" length="1955520"/>
