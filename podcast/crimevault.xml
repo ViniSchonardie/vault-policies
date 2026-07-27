@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robb Elementary School shooting</title>
+      <description>On May 24, 2022, a mass shooting occurred at Robb Elementary School in Uvalde, Texas, United States. Salvador Ramos, an 18-year-old former student of the school, fatally shot 19 students and 2 teachers, while injuring 18 others. Ramos was killed 77 minutes after entering the classroom by law enforcement officers.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robb-elementary-school-shooting-20260727.mp3" type="audio/mpeg" length="1639200"/>
+      <guid isPermaLink="false">crime-robb-elementary-school-shooting-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 15:54:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Orlando nightclub shooting</title>
       <description>On June 12, 2016, 29-year-old Omar Mateen shot and killed 49 people and wounded 58 in a mass shooting at Pulse, a gay nightclub in Orlando, Florida, United States. Pulse was hosting a "Latin Night", and most of the victims were of Latino descent.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/orlando-nightclub-shooting-20260726.mp3" type="audio/mpeg" length="1640160"/>
