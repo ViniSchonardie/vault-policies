@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Atlasjet Flight 4203</title>
+      <description>Atlasjet Flight 4203 was a scheduled domestic passenger flight from Istanbul Atatürk Airport in Istanbul to Isparta Süleyman Demirel Airport in Isparta Province, Turkey. On 30 November 2007, the aircraft operating the flight – a McDonnell Douglas MD-83 which Atlasjet had leased from World Focus Airlines just five months before – crashed in the vicinity of Keçiborlu between the villages of Yenitepe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/atlasjet-flight-4203-20260727.mp3" type="audio/mpeg" length="1970880"/>
+      <guid isPermaLink="false">aviation-atlasjet-flight-4203-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 16:18:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air Transat Flight 961</title>
       <description>Air Transat Flight 961 was an Air Transat flight from Varadero, Cuba to Quebec City, Canada on March 6, 2005.  The aircraft experienced a structural failure in which the rudder detached in flight.  The flight crew were able to regain enough control of the aircraft to return safely to Varadero. As of March 2020, the Airbus A310-308 is no longer in service.
 The investigation that followed determined</description>
