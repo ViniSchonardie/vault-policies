@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Baikal Airlines Flight 130</title>
+      <description>Baikal Airlines Flight 130 was a scheduled domestic passenger flight from Irkutsk to Moscow operated by a Baikal Airlines Tupolev Tu-154 that crashed onto a dairy farm on 3 January 1994 in Mamony whilst the pilots were trying to return to the airport following a mid-air emergency. All 124 people on board were killed. Another person was killed on the ground.
+With 125 deaths, it remains as the deadl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/baikal-airlines-flight-130-20260727.mp3" type="audio/mpeg" length="1479360"/>
+      <guid isPermaLink="false">aviation-baikal-airlines-flight-130-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 22:00:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1976 Sabah Air GAF Nomad crash</title>
       <description>The Double Six Tragedy (Malay: Tragedi Double Six, referring to 6 June, the date of the accident) was an air crash involving a GAF N-22B Nomad of Sabah Air, which took place on 6 June 1976 at Kota Kinabalu, Malaysia, killing several local political leaders, including two top leaders - Tun Fuad Stephens and Datuk Peter Mojuntin.
 
