@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Nemesis</title>
+      <description>In ancient Greek religion and myth, Nemesis ( ; Ancient Greek: Νέμεσις, romanized: Némesis, lit. 'Distribution'), also called Rhamnousia (or Rhamnusia; Ancient Greek: Ῥαμνουσία, romanized: Rhamnousía, lit. 'the goddess of Rhamnous'), was the goddess who personified retribution for the sin of hubris: arrogance before the gods.
+
+
+== Etymology ==
+The name Nemesis is derived from the Greek word νέμειν</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/nemesis-20260727.mp3" type="audio/mpeg" length="1355520"/>
+      <guid isPermaLink="false">mythology-nemesis-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 17:31:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fenrir</title>
       <description>Fenrir (Old Norse 'fen-dweller') or Fenrisúlfr (Old Norse "Fenrir's wolf", often translated "Fenris-wolf"), also referred to as Hróðvitnir (Old Norse "fame-wolf") and Vánagandr (Old Norse 'monster of the [River] Ván'), is a monstrous wolf in Norse mythology. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök, where he is foretold to assist in setting the world aflame, result</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/fenrir-20260726.mp3" type="audio/mpeg" length="1332960"/>
