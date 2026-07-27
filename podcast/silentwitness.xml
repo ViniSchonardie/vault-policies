@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Trial Of Louis Riel</title>
+      <description>The trial of Louis Riel took place in Regina, Canada, in 1885. Louis Riel had been a leader of a resistance movement by the Métis and First Nations people of western Canada against the Government of Canada in what is now the province of Saskatchewan. Known as the North-West Rebellion, this resistance was suppressed by the Canadian military, which led to Riel's surrender and trial for treason. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/trial-of-louis-riel-20260727.mp3" type="audio/mpeg" length="1746240"/>
+      <guid isPermaLink="false">trials-trial-of-louis-riel-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 17:45:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Appellate Court</title>
       <description>An appellate court, commonly called a court of appeal(s), appeal court, court of second instance or second instance court, is any court of law that is empowered to hear a case upon appeal from a trial court or other lower tribunal. An appellate court other than a supreme court is sometimes referred to as an intermediate appellate court.
 In much of the world, court systems are divided into at least</description>
