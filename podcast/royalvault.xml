@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Baynards Castle</title>
+      <description>Baynard's Castle refers to buildings on two neighbouring sites in the City of London, between where Blackfriars station and St. Paul's Cathedral now stand. The first was a Norman fortification constructed by Ralph Baynard (fl. 1086), 1st feudal baron of Little Dunmow in Essex, and was demolished by King John in 1213. The second was a medieval palace built a short distance to the south-east and lat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/baynards-castle-20260727.mp3" type="audio/mpeg" length="1696320"/>
+      <guid isPermaLink="false">royal-baynards-castle-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 19:31:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kingdom Of France</title>
       <description>The Kingdom of France is the historiographical name or umbrella term given to various political entities of France in the medieval and early modern period. It was one of the most powerful states in Europe from the High Middle Ages to 1848 during its dissolution. It was also an early colonial power, with colonies in Asia and Africa, and the largest being New France in North America geographically c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kingdom-of-france-20260727.mp3" type="audio/mpeg" length="1793280"/>
