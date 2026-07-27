@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Johannes Tauler</title>
+      <description>Johannes Tauler OP (c. 1300 – 16 June 1361) was a German mystic, a Catholic priest and a theologian. He belonged to the Dominican order. Tauler was known as one of the most important Rhineland mystics. He promoted a certain neo-platonist dimension in the Dominican spirituality of his time.
+
+
+== Life ==
+He was born about the year 1300 in Strasbourg, and seems to have been the son of Nikolus Tauler </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/johannes-tauler-20260727.mp3" type="audio/mpeg" length="1645920"/>
+      <guid isPermaLink="false">realstory-johannes-tauler-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 22:00:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nicolai Hartmann</title>
       <description>Paul Nicolai Hartmann (German: [ˈhaʁtman]; 20 February 1882 – 9 October 1950) was a German philosopher. He is regarded as a key representative of critical realism and as one of the most important twentieth-century metaphysicians. His early work in the philosophy of biology has been cited in modern discussions of genomics and cloning.
 
