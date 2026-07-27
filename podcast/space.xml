@@ -17,6 +17,25 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-91</title>
+      <description>STS-91 was the 24th flight of Discovery, and the final Space Shuttle mission to the Mir space station. It was flown by Space Shuttle Discovery, and launched from Kennedy Space Center, Florida, on 2 June 1998.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+STS-91 marked the final Shuttle/Mir Docking Mission, as well as the only such docking for Discovery. This Phase 1 Progr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-91-20260727.mp3" type="audio/mpeg" length="1655040"/>
+      <guid isPermaLink="false">space-sts-91-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 21:10:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 7K-T No.39</title>
       <description>Soyuz 7K-T No.39 (also named Soyuz 18a or Soyuz 18-1 by some sources and also known as the April 5 Anomaly) was an unsuccessful launch of a crewed Soyuz spacecraft by the Soviet Union in 1975. The mission was expected to dock with the orbiting Salyut 4 space station, but due to a failure of the Soyuz launch vehicle the crew failed to make orbit. The crew consisted of commander Vasily Lazarev, and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-7k-t-no39-20260727.mp3" type="audio/mpeg" length="1550400"/>
