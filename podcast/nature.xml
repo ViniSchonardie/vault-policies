@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bird-of-paradise</title>
+      <description>The birds-of-paradise are members of the family Paradisaeidae of the order Passeriformes. They are found mainly in New Guinea, as well as eastern Australia and the Moluccas. The family has 44 species in 17 genera. The members of this family are perhaps best known for the plumage of the males of the species, the majority of which are sexually dimorphic. The males of these species tend to have very </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bird-of-paradise-20260727.mp3" type="audio/mpeg" length="1332960"/>
+      <guid isPermaLink="false">nature-bird-of-paradise-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 21:19:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amazon river dolphin</title>
       <description>The Amazon river dolphin (Inia geoffrensis), also known as the boto, bufeo or pink river dolphin, is a species of toothed whale endemic to South America and is classified in the family Iniidae. Three subspecies are currently recognized: I. g. geoffrensis (Amazon river dolphin), I. g. boliviensis (Bolivian river dolphin) and I. g. humboldtiana (Orinoco river dolphin). The position of the Araguaian </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/amazon-river-dolphin-20260727.mp3" type="audio/mpeg" length="1872000"/>
