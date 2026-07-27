@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2019 Dayton shooting</title>
+      <description>On August 4, 2019, 24-year-old Connor Betts shot and killed nine people, including his brother, and wounded 17 others near the entrance of the Ned Peppers Bar in the Oregon Historic District of Dayton, Ohio, United States. Betts was fatally shot by responding police officers 32 seconds after the first shots were fired. A total of 27 people were taken to area hospitals. It is the deadliest mass sho</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2019-dayton-shooting-20260727.mp3" type="audio/mpeg" length="1551840"/>
+      <guid isPermaLink="false">crime-2019-dayton-shooting-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 19:24:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robb Elementary School shooting</title>
       <description>On May 24, 2022, a mass shooting occurred at Robb Elementary School in Uvalde, Texas, United States. Salvador Ramos, an 18-year-old former student of the school, fatally shot 19 students and 2 teachers, while injuring 18 others. Ramos was killed 77 minutes after entering the classroom by law enforcement officers.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robb-elementary-school-shooting-20260727.mp3" type="audio/mpeg" length="1639200"/>
