@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kingdom Of France</title>
+      <description>The Kingdom of France is the historiographical name or umbrella term given to various political entities of France in the medieval and early modern period. It was one of the most powerful states in Europe from the High Middle Ages to 1848 during its dissolution. It was also an early colonial power, with colonies in Asia and Africa, and the largest being New France in North America geographically c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kingdom-of-france-20260727.mp3" type="audio/mpeg" length="1793280"/>
+      <guid isPermaLink="false">royal-kingdom-of-france-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 16:38:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Louis Xvii</title>
       <description>Louis XVII (born Louis Charles, Duke of Normandy; 27 March 1785 – 8 June 1795) was the younger son of King Louis XVI of France and Queen Marie Antoinette. His older brother, Louis Joseph, Dauphin of France, died in June 1789, a little over a month before the start of the French Revolution. At his brother's death he became the new Dauphin (heir apparent to the throne), a title he held until 1791, w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/louis-xvii-20260726.mp3" type="audio/mpeg" length="1525920"/>
