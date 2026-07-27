@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Innocence Project</title>
+      <description>Innocence Project, Inc. is a 501(c)(3) nonprofit legal organization that uses DNA testing and other forms of post-conviction relief to exonerate and free prisoners who they believe have been wrongly convicted. The organization also advocates for criminal justice reform to prevent future injustice. The group cites various studies estimating that in the United States between 1% and 10% of all prison</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/innocence-project-20260727.mp3" type="audio/mpeg" length="1470240"/>
+      <guid isPermaLink="false">trials-innocence-project-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 21:14:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trial Of Louis Riel</title>
       <description>The trial of Louis Riel took place in Regina, Canada, in 1885. Louis Riel had been a leader of a resistance movement by the Métis and First Nations people of western Canada against the Government of Canada in what is now the province of Saskatchewan. Known as the North-West Rebellion, this resistance was suppressed by the Canadian military, which led to Riel's surrender and trial for treason. The </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/trial-of-louis-riel-20260727.mp3" type="audio/mpeg" length="1746240"/>
