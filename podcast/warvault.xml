@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Le Cateau</title>
+      <description>The Battle of Le Cateau was fought on the Western Front during the First World War on 26 August 1914. The British Expeditionary Force (BEF) and the French Fifth Army had retreated after their defeats at the Battle of Charleroi (21–23 August) and the Battle of Mons (23 August). The British II Corps fought a delaying action at Le Cateau to slow the German pursuit. Most of the BEF was able to continu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-le-cateau-20260727.mp3" type="audio/mpeg" length="1815840"/>
+      <guid isPermaLink="false">warvault-battle-of-le-cateau-20260727</guid>
+      <pubDate>Mon, 27 Jul 2026 22:19:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Bayonne</title>
       <description>The Battle of Bayonne (14 April 1814), the last major battle of the Peninsular War, ensued when the French garrison of Bayonne led by General of Division Pierre Thouvenot launched a sortie against a besieging force of British, Portuguese, and Spanish troops commanded by Lieutenant General John Hope. It was fought after unofficial news of the abdication of French emperor Napoleon on 4 April had rea</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-bayonne-20260727.mp3" type="audio/mpeg" length="1425600"/>
