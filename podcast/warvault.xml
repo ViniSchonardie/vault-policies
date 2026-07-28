@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Ong Thanh</title>
+      <description>The Battle of Ong Thanh was fought at the stream of that name (Ông Thành) on the morning of 17 October 1967, in Chơn Thành District, at the time part of Bình Dương Province, South Vietnam, today in Bình Phước Province.
+During the first few months of 1967 the Viet Cong (VC) absorbed heavy losses as a result of large-scale search and destroy missions conducted by the United States Army. This prompte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-ong-thanh-20260728.mp3" type="audio/mpeg" length="1176960"/>
+      <guid isPermaLink="false">warvault-battle-of-ong-thanh-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 22:16:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Second Battle of Swat</title>
       <description>The Second Battle of Swat, also known as Operation Rah-e-Rast, was a sub-operation of Operation Black Thunderstorm which began in May 2009 and involved the Pakistan Army and Tehrik-i-Taliban Pakistan militants in a fight for control of the Swat district of Pakistan. The First Battle of Swat had ended with a peace agreement, that the government had signed with the Tehrik-i-Taliban Pakistan in Febru</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-swat-20260728.mp3" type="audio/mpeg" length="1711200"/>
