@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cupid</title>
+      <description>In classical mythology, Cupid  (Latin: Cupīdō [kʊˈpiːdoː], meaning "passionate desire") is the god of desire, erotic love, attraction and affection. He is often portrayed as the son of the love goddess Venus and the god of war Mars. He is also known as Amor  (Latin: Amor, "love"). His Greek counterpart is Eros.
+Although Eros is generally portrayed as a slender winged youth in Classical Greek art, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cupid-20260728.mp3" type="audio/mpeg" length="1635840"/>
+      <guid isPermaLink="false">mythology-cupid-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 00:03:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tristan and Iseult</title>
       <description>Tristan and Iseult, also known as Tristan and Isolde and other names, is a medieval legend told in numerous variations since the 12th century. Of disputed source, usually assumed to be primarily Celtic, the tale is a tragedy about the illicit love between the Cornish knight Tristan and the Irish princess Iseult in the days of King Arthur. During Tristan's mission to escort Iseult from Ireland to m</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/tristan-and-iseult-20260727.mp3" type="audio/mpeg" length="1309440"/>
