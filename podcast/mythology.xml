@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Juno (mythology)</title>
+      <description>Juno (English:  JOO-noh; Latin: Iūnō [ˈjuːnoː]) is a goddess in the ancient Roman religion, the protector and special counsellor of the state. She equates to Hera, queen of the gods in Greek mythology and a goddess of marriage. A daughter of Saturn and Ops, she is the sister and wife of Jupiter and the mother of Mars, Vulcan, Bellona, Lucina and Juventas. Like Hera, her sacred animal is the peacoc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/juno-mythology-20260728.mp3" type="audio/mpeg" length="1221888"/>
+      <guid isPermaLink="false">mythology-juno-mythology-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 23:58:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Memphis, Egypt</title>
       <description>Memphis (Egyptian Arabic: منف, romanized: Manf, pronounced [mænf]; Bohairic Coptic: ⲙⲉⲙϥⲓ; Greek: Μέμφις), or Men-nefer, was the ancient capital of Inebu-hedj, the first nome of Lower Egypt that was known as mḥw ("North"). Its ruins are located in the vicinity of the present-day village of Mit Rahina (Arabic: ميت رهينة), in Badrashin markaz (county), Giza Governorate, Egypt.
 Along with the pyramid</description>
