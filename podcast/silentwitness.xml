@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Krupp Trial</title>
+      <description>The United States of America vs. Alfried Krupp, et al., commonly known as the Krupp trial, was the tenth of twelve trials for war crimes that U.S. authorities held in their occupation zone at Nuremberg, Germany, after the end of World War II. It concerned the forced labour enterprises of the Krupp Group and other crimes committed by the company.
+These twelve trials were all held before U.S. milita</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/krupp-trial-20260728.mp3" type="audio/mpeg" length="1662720"/>
+      <guid isPermaLink="false">trials-krupp-trial-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 23:58:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rebecca Nurse</title>
       <description>Rebecca Nurse (née Towne; February 13, 1621 – July 19, 1692) was a woman who was accused of witchcraft and executed by hanging in New England during the Salem Witch Trials of 1692. She was fully exonerated less than twenty years later.
 She was the wife of Francis Nurse, and had several children. Rebecca was a well-respected member of the community. She was tried and convicted in the spring and sum</description>
