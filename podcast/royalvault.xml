@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Schnbrunn Palace</title>
+      <description>Schönbrunn Palace (German: Schloss Schönbrunn [ˈʃlɔs ʃøːnˈbʁʊn] ) was the main summer residence of the Habsburg rulers, located in Hietzing, the 13th district of Vienna. The name Schönbrunn (meaning "beautiful spring") has its roots in an artesian well from which water was consumed by the court.
+The 1,441-room Baroque palace is one of the most important architectural, cultural, and historic monume</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/schnbrunn-palace-20260728.mp3" type="audio/mpeg" length="1797600"/>
+      <guid isPermaLink="false">royal-schnbrunn-palace-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 19:29:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Archduchess Auguste Ferdinande Of Austria</title>
       <description>Archduchess Auguste Ferdinande of Austria (1 April 1825 – 26 April 1864) was the only daughter of Leopold II, Grand Duke of Tuscany, and his first wife, Princess Maria Anna of Saxony, to survive to adulthood. She married Prince Luitpold of Bavaria, who later became the Prince Regent of Bavaria after her death.
 
