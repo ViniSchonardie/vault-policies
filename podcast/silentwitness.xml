@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Majdanek Trials</title>
+      <description>The Majdanek trials were a series of consecutive war-crime trials held in Poland and in Germany during and after World War II, constituting the overall longest Nazi war crimes trial in history spanning over 30 years. The first judicial trial of Majdanek extermination camp officials took place from November 27, 1944, to December 2, 1944, in Lublin, Poland. The last one, held at the District Court o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/majdanek-trials-20260728.mp3" type="audio/mpeg" length="1546080"/>
+      <guid isPermaLink="false">trials-majdanek-trials-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 00:01:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Innocence Project</title>
       <description>Innocence Project, Inc. is a 501(c)(3) nonprofit legal organization that uses DNA testing and other forms of post-conviction relief to exonerate and free prisoners who they believe have been wrongly convicted. The organization also advocates for criminal justice reform to prevent future injustice. The group cites various studies estimating that in the United States between 1% and 10% of all prison</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/innocence-project-20260727.mp3" type="audio/mpeg" length="1470240"/>
