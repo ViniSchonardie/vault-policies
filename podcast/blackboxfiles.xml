@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest Airlines Flight 2294</title>
+      <description>Southwest Airlines Flight 2294 was a scheduled US passenger aircraft flight which suffered a rapid depressurization of the passenger cabin on July 13, 2009. The aircraft made an emergency landing at Yeager Airport in Charleston, West Virginia, with no fatalities or major injuries to passengers and crew. Investigation performed by the National Transportation Safety Board concluded that the incident</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-2294-20260728.mp3" type="audio/mpeg" length="1779840"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-2294-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 18:14:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1963 Elephant Mountain B-52 crash</title>
       <description>On 24 January 1963 a United States Air Force Boeing B-52C Stratofortress with nine crew members on board lost its vertical stabilizer due to buffeting stresses during turbulence at low altitude and crashed on Elephant Mountain in Piscataquis County, Maine, United States, six miles (9.7 km) from Greenville. The pilot and the navigator survived the accident.
 
