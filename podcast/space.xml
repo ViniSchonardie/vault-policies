@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 7K-ST No.16L</title>
+      <description>Soyuz 7K-ST No.16L, sometimes known as Soyuz T-10a or Soyuz T-10-1, was an unsuccessful Soyuz mission intended to visit the Salyut 7 space station, which was occupied by the Soyuz T-9 crew. However, it never finished its launch countdown; the launch vehicle was destroyed on the launch pad by fire on 26 September 1983. The launch escape system of the Soyuz spacecraft fired six seconds before the la</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-7k-st-no16l-20260728.mp3" type="audio/mpeg" length="1660320"/>
+      <guid isPermaLink="false">space-soyuz-7k-st-no16l-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 17:42:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-91</title>
       <description>STS-91 was the 24th flight of Discovery, and the final Space Shuttle mission to the Mir space station. It was flown by Space Shuttle Discovery, and launched from Kennedy Space Center, Florida, on 2 June 1998.
 
