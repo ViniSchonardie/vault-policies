@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Swissair Flight 316</title>
+      <description>On 7 October 1979, a Swissair DC-8 crashed while landing at Athens-Ellinikon International Airport in Athens, Greece. Of the 154 passengers and crew on board, 14 were killed in the accident.
+
+
+== Accident ==
+Swissair Flight 316 was an international scheduled passenger service from Zurich, Switzerland to Peking, China (now Beijing) via Geneva, Athens, and Bombay (now Mumbai). The aircraft, named Ur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-316-20260728.mp3" type="audio/mpeg" length="1355904"/>
+      <guid isPermaLink="false">aviation-swissair-flight-316-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 21:59:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest Airlines Flight 2294</title>
       <description>Southwest Airlines Flight 2294 was a scheduled US passenger aircraft flight which suffered a rapid depressurization of the passenger cabin on July 13, 2009. The aircraft made an emergency landing at Yeager Airport in Charleston, West Virginia, with no fatalities or major injuries to passengers and crew. Investigation performed by the National Transportation Safety Board concluded that the incident</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-2294-20260728.mp3" type="audio/mpeg" length="1779840"/>
