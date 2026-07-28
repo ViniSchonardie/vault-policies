@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kendall Francois</title>
+      <description>Kendall L. Francois was an American serial killer convicted of killing eight women in Poughkeepsie, New York, between 1996 and 1998.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kendall-francois-20260728.mp3" type="audio/mpeg" length="1218048"/>
+      <guid isPermaLink="false">crime-kendall-francois-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 19:19:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2023 Michigan State University shooting</title>
       <description>On Monday, February 13, 2023, a school shooting occurred in two buildings on the campus of Michigan State University (MSU) in East Lansing, Michigan, United States. Three students were killed and five others injured. The gunman, 43-year-old Anthony Dwayne McRae, died from a self-inflicted gunshot wound when he was confronted by police off campus three hours later.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2023-michigan-state-university-shooting-20260727.mp3" type="audio/mpeg" length="1581600"/>
