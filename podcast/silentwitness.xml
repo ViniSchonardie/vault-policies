@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Elizabeth Howe</title>
+      <description>Elizabeth Howe (née Jackson; c. 1637 – July 19, 1692) was one of the accused in the Salem witch trials. She was found guilty and executed on July 19, 1692.
+
+
+== Early life ==
+Elizabeth Jackson was born around 1637 near Rowley, Yorkshire, the daughter of William and Joanne Jackson. Elizabeth married James Howe II in 1658 in Ipswich, Massachusetts. The couple lived in Topsfield, Massachusetts and ha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/elizabeth-howe-20260728.mp3" type="audio/mpeg" length="1605120"/>
+      <guid isPermaLink="false">trials-elizabeth-howe-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 17:29:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Majdanek Trials</title>
       <description>The Majdanek trials were a series of consecutive war-crime trials held in Poland and in Germany during and after World War II, constituting the overall longest Nazi war crimes trial in history spanning over 30 years. The first judicial trial of Majdanek extermination camp officials took place from November 27, 1944, to December 2, 1944, in Lublin, Poland. The last one, held at the District Court o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/majdanek-trials-20260728.mp3" type="audio/mpeg" length="1546080"/>
