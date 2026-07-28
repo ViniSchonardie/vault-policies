@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fritz von Opel</title>
+      <description>Fritz Adam Hermann von Opel (4 May 1899 – 8 April 1971), known as Fritz Adam Hermann Opel until his father was ennobled in 1917, was the only son of Wilhelm von Opel and a grandson of Adam Opel, founder of the Opel company. He is remembered mostly for his Opel RAK demonstrations of the world's first crewed rocket-powered ground and air vehicles that earned him the nickname "Rocket Fritz" and which</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/fritz-von-opel-20260728.mp3" type="audio/mpeg" length="1343616"/>
+      <guid isPermaLink="false">realstory-fritz-von-opel-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 21:58:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rudolf Lipschitz</title>
       <description>Rudolf Otto Sigismund Lipschitz (14 May 1832 – 7 October 1903) was a German mathematician who made contributions to mathematical analysis (where he gave his name to the Lipschitz continuity condition) and differential geometry, as well as number theory, algebras with involution and classical mechanics.
 
