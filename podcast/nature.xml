@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Goblin shark</title>
+      <description>The goblin shark (Mitsukurina owstoni) is a rare species of deep-sea shark. Sometimes called a "living fossil", it is the only extant representative of the family Mitsukurinidae, a lineage some 125 million years old. This pink-skinned animal has a distinctive profile with an elongated, flat snout, and highly protrusible jaws containing prominent nail-like teeth. It typically reaches a length of 3 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/goblin-shark-20260728.mp3" type="audio/mpeg" length="1583040"/>
+      <guid isPermaLink="false">nature-goblin-shark-20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 17:23:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bird-of-paradise</title>
       <description>The birds-of-paradise are members of the family Paradisaeidae of the order Passeriformes. They are found mainly in New Guinea, as well as eastern Australia and the Moluccas. The family has 44 species in 17 genera. The members of this family are perhaps best known for the plumage of the males of the species, the majority of which are sexually dimorphic. The males of these species tend to have very </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bird-of-paradise-20260727.mp3" type="audio/mpeg" length="1332960"/>
