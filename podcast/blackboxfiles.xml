@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1964 T-39 shootdown incident</title>
+      <description>On 28 January 1964, an unarmed T-39 Sabreliner aircraft of the United States Air Force (USAF) was shot down while on a training mission over Erfurt, East Germany, by a MiG-19 jet fighter of the Soviet Air Force. The occupants of the aircraft were Lieutenant Colonel Gerald K. Hannaford, Captain Donald Grant Millard, and Captain John F. Lorraine. All three died, becoming direct casualties of the Col</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1964-t-39-shootdown-incident-20260729.mp3" type="audio/mpeg" length="1666080"/>
+      <guid isPermaLink="false">aviation-1964-t-39-shootdown-incident-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 18:06:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Centurion Air Cargo Flight 164</title>
       <description>Centurion Air Cargo Flight 164 was a chartered international cargo flight, flying from Bogotá's El Dorado International Airport while en route to Miami International Airport. The flight was operated by Kalitta Air and the aircraft was wet leased by Centurion Air Cargo. On July 7, 2008, the aircraft, a Boeing 747-209BSF registered as N714CK, crashed shortly after takeoff. All aboard suffered injuri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/centurion-air-cargo-flight-164-20260729.mp3" type="audio/mpeg" length="1247616"/>
