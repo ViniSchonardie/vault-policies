@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eastern copperhead</title>
+      <description>The eastern copperhead (Agkistrodon contortrix), also known simply as the copperhead, is a widespread species of venomous snake, a pit viper, endemic to eastern United States of America; it is a member of the subfamily Crotalinae in the family Viperidae.
+The eastern copperhead has distinctive, dark brown, hourglass-shaped markings, overlaid on a light reddish brown or brown/gray background. The bo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/eastern-copperhead-20260729.mp3" type="audio/mpeg" length="1428000"/>
+      <guid isPermaLink="false">nature-eastern-copperhead-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 17:10:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great blue heron</title>
       <description>The great blue heron (Ardea herodias) is a large wading bird in the heron family (Ardeidae), common near shores of open water and wetlands over most of North and Central America, as well as Northwestern South America, the Caribbean, and the Galápagos Islands. It is occasionally found in the Azores and is a rare vagrant to Europe. An all-white population found in South Florida and the Florida Keys </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-blue-heron-20260729.mp3" type="audio/mpeg" length="1398912"/>
