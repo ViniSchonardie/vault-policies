@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hermann Lotze</title>
+      <description>Rudolf Hermann Lotze (; German: [ˈlɔtsə]; 21 May 1817 – 1 July 1881) was a German philosopher and logician. He also had a medical degree and was well versed in biology. He argued that if the physical world is governed by mechanical laws and relations, then developments in the universe could be explained as the functioning of a world mind. His medical studies were pioneering works in scientific psy</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hermann-lotze-20260729.mp3" type="audio/mpeg" length="1704000"/>
+      <guid isPermaLink="false">realstory-hermann-lotze-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 21:50:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ludwig Tieck</title>
       <description>Johann Ludwig Tieck (; German: [tiːk]; 31 May 1773 – 28 April 1853) was a German poet, fiction writer, translator, and critic. He was one of the founding fathers of the Romantic movement in the late 18th and early 19th centuries.
 
