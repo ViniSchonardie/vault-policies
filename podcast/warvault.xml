@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Changchun</title>
+      <description>The siege of Changchun was a military blockade undertaken by the People's Liberation Army against Changchun between May and October 1948, the largest city in Manchuria at the time, and one of the headquarters of the Republic of China Army in Northeast China. It was one of the longest campaigns in the Liaoshen Campaign of the Chinese Civil War.
+
+
+== Background ==
+Immediately after the end of the Se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-changchun-20260729.mp3" type="audio/mpeg" length="1370112"/>
+      <guid isPermaLink="false">warvault-siege-of-changchun-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 15:10:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Ong Thanh</title>
       <description>The Battle of Ong Thanh was fought at the stream of that name (Ông Thành) on the morning of 17 October 1967, in Chơn Thành District, at the time part of Bình Dương Province, South Vietnam, today in Bình Phước Province.
 During the first few months of 1967 the Viet Cong (VC) absorbed heavy losses as a result of large-scale search and destroy missions conducted by the United States Army. This prompte</description>
