@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-112</title>
+      <description>STS-112 (ISS assembly flight 9A) was an 11-day Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. Space Shuttle Atlantis was launched on 7 October 2002 at 19:45 UTC from the Kennedy Space Center's launch pad 39B to deliver the 28,000 pound Starboard 1 (S1) truss segment to the Space Station. Ending a 4.5-million-mile journey, Atlantis landed at 15:44 UT</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-112-20260729.mp3" type="audio/mpeg" length="1658880"/>
+      <guid isPermaLink="false">space-sts-112-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 15:15:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 3</title>
       <description>Soyuz 3 (Russian: Союз 3, Union 3) was a spaceflight mission launched by the Soviet Union on 26 October 1968. Flown by Georgy Beregovoy, the Soyuz 7K-OK spacecraft completed 81 orbits over four days. The 47-year-old Beregovoy was a decorated World War II flying ace and the oldest person to go into orbit up to that time. The mission achieved the first Russian space rendezvous with the uncrewed Soyu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-3-20260728.mp3" type="audio/mpeg" length="1440000"/>
