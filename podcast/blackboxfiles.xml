@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air France Flight 422</title>
+      <description>Air France Flight 422 was a scheduled flight on 20 April 1998 by Air France from Bogotá, Colombia, to Quito, Ecuador, covering the final leg of a flight from Paris to Quito. The Boeing 727 was destroyed, killing all 53 people on board, when it crashed into the Eastern Hills of Bogotá because of foggy weather and low visibility after taking off from Bogotá's El Dorado International Airport. The pla</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-422-20260729.mp3" type="audio/mpeg" length="1652160"/>
+      <guid isPermaLink="false">aviation-air-france-flight-422-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 21:51:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1964 T-39 shootdown incident</title>
       <description>On 28 January 1964, an unarmed T-39 Sabreliner aircraft of the United States Air Force (USAF) was shot down while on a training mission over Erfurt, East Germany, by a MiG-19 jet fighter of the Soviet Air Force. The occupants of the aircraft were Lieutenant Colonel Gerald K. Hannaford, Captain Donald Grant Millard, and Captain John F. Lorraine. All three died, becoming direct casualties of the Col</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1964-t-39-shootdown-incident-20260729.mp3" type="audio/mpeg" length="1666080"/>
