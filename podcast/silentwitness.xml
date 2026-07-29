@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Poppet</title>
+      <description>In folk magic and witchcraft, a poppet (also known as poppit, moppet, mommet or pippy) is a doll made to represent a person, for casting spells on them, or aiding that person through magic. They are occasionally found lodged in chimneys. These dolls may be fashioned from materials such as carved root, grain, corn shafts, fruit, paper, wax, a potato, clay, branches, or cloth stuffed with herbs, wit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/poppet-20260729.mp3" type="audio/mpeg" length="1752480"/>
+      <guid isPermaLink="false">trials-poppet-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 17:18:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Krupp Trial</title>
       <description>The United States of America vs. Alfried Krupp, et al., commonly known as the Krupp trial, was the tenth of twelve trials for war crimes that U.S. authorities held in their occupation zone at Nuremberg, Germany, after the end of World War II. It concerned the forced labour enterprises of the Krupp Group and other crimes committed by the company.
 These twelve trials were all held before U.S. milita</description>
