@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hagfish</title>
+      <description>Hagfish, of the class Myxini  (also known as Hyperotreti) and order Myxiniformes , are eel-shaped jawless fish (occasionally called slime eels). Hagfish are the only known living animals that have a skull but no vertebral column, however they do have rudimentary vertebrae. Hagfish are marine predators and scavengers that can defend themselves against other larger predators by releasing copious amo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/hagfish-20260729.mp3" type="audio/mpeg" length="1555200"/>
+      <guid isPermaLink="false">nature-hagfish-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 21:06:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eastern copperhead</title>
       <description>The eastern copperhead (Agkistrodon contortrix), also known simply as the copperhead, is a widespread species of venomous snake, a pit viper, endemic to eastern United States of America; it is a member of the subfamily Crotalinae in the family Viperidae.
 The eastern copperhead has distinctive, dark brown, hourglass-shaped markings, overlaid on a light reddish brown or brown/gray background. The bo</description>
