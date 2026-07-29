@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Congressional baseball shooting</title>
+      <description>On June 14, 2017, a mass shooting occurred during a practice session for the annual Congressional Baseball Game in Alexandria, Virginia, US. 66-year-old James T. Hodgkinson shot four people, including then U.S. House Majority Whip Steve Scalise, U.S. Capitol Police officer Crystal Griner, congressional aide Zack Barth, and lobbyist Matt Mika. A ten-minute shootout took place between Hodgkinson and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/congressional-baseball-shooting-20260729.mp3" type="audio/mpeg" length="1641600"/>
+      <guid isPermaLink="false">crime-congressional-baseball-shooting-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 15:18:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gordon Cummins</title>
       <description>Gordon Frederick Cummins was a British serial killer known as the Blackout Killer, the Blackout Ripper and the Wartime Ripper, who murdered four women and attempted to murder two others over a five-day period in Central London in February 1942. He is also suspected of committing two earlier murders in October 1941.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gordon-cummins-20260728.mp3" type="audio/mpeg" length="1402368"/>
