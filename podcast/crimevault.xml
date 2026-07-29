@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Michel Fourniret</title>
+      <description>Michel Paul Fourniret was a French serial killer who confessed to killing 12 people in France and Belgium between 1987 and 2003. After he was arrested in June 2003 for the attempted kidnapping of a teenage girl in Ciney, Fourniret confessed in 2004 to killing nine people, eight females and one male, having been informed on by his then-wife, Monique Pierrette Olivier. Fourniret was convicted of sev</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michel-fourniret-20260729.mp3" type="audio/mpeg" length="1259136"/>
+      <guid isPermaLink="false">crime-michel-fourniret-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 22:55:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dawson College shooting</title>
       <description>The Dawson College shooting occurred on September 13, 2006, at Dawson College, a CEGEP located in downtown Montreal, Quebec, Canada. The perpetrator, Kimveer Singh Gill, began shooting outside the de Maisonneuve Boulevard entrance to the school, moving towards the atrium by the cafeteria on the main floor. One victim died at the scene, while another 19 were injured, eight of whom were listed in cr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dawson-college-shooting-20260729.mp3" type="audio/mpeg" length="1259040"/>
