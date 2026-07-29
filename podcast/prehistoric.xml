@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Miragaia longicollum</title>
+      <description>Miragaia is a genus of long-necked stegosaurid dinosaur. Its fossils have been found in Upper Jurassic rocks in Portugal (Lourinhã Formation, Sobral Unit) and possibly also Wyoming and Utah, United States (Morrison Formation). Miragaia has the longest neck known for any stegosaurian, which included at least seventeen vertebrae. Some researchers consider this taxon to be a junior synonym of Dacentr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/miragaia-longicollum-20260729.mp3" type="audio/mpeg" length="1269120"/>
+      <guid isPermaLink="false">prehistoric-miragaia-longicollum-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 22:09:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Albertosaurinae</title>
       <description>Albertosaurines, or dinosaurs of the subfamily Albertosaurinae, lived in the Late Cretaceous of United States and Canada. The subfamily was first used by Philip J. Currie, Jørn H. Hurum, and Karol Sabath as a group of tyrannosaurid dinosaurs. It was originally defined as "(Albertosaurus + Gorgosaurus)", including only the two genera. The group is the sister clade to Tyrannosaurinae. In 2007, it wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/albertosaurinae-20260729.mp3" type="audio/mpeg" length="1469760"/>
