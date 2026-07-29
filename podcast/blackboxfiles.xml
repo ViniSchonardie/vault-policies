@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Centurion Air Cargo Flight 164</title>
+      <description>Centurion Air Cargo Flight 164 was a chartered international cargo flight, flying from Bogotá's El Dorado International Airport while en route to Miami International Airport. The flight was operated by Kalitta Air and the aircraft was wet leased by Centurion Air Cargo. On July 7, 2008, the aircraft, a Boeing 747-209BSF registered as N714CK, crashed shortly after takeoff. All aboard suffered injuri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/centurion-air-cargo-flight-164-20260729.mp3" type="audio/mpeg" length="1247616"/>
+      <guid isPermaLink="false">aviation-centurion-air-cargo-flight-164-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 15:51:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Swissair Flight 316</title>
       <description>On 7 October 1979, a Swissair DC-8 crashed while landing at Athens-Ellinikon International Airport in Athens, Greece. Of the 154 passengers and crew on board, 14 were killed in the accident.
 
