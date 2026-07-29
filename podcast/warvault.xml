@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Belmont</title>
+      <description>The Battle of Belmont was an engagement of the Second Boer War on 23 November 1899, where the British under Lord Methuen assaulted a Boer position on Belmont kopje.
+Methuen's three brigades were on their way to raise the Boer siege of Kimberley. A Boer force of about 2,000 men had entrenched on the range of Belmont kopje to delay their advance. Methuen sent the Guards Brigade on a night march to o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-belmont-20260729.mp3" type="audio/mpeg" length="1642560"/>
+      <guid isPermaLink="false">warvault-battle-of-belmont-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 18:16:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Changchun</title>
       <description>The siege of Changchun was a military blockade undertaken by the People's Liberation Army against Changchun between May and October 1948, the largest city in Manchuria at the time, and one of the headquarters of the Republic of China Army in Northeast China. It was one of the longest campaigns in the Liaoshen Campaign of the Chinese Civil War.
 
