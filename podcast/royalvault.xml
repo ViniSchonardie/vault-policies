@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Madeleine Of Valois</title>
+      <description>Madeleine of Valois (10 August 1520 – 7 July 1537) was a French princess who briefly became Queen of Scotland in 1537 as the first wife of King James V. The marriage was arranged in accordance with the Treaty of Rouen, and they were married at Notre-Dame de Paris in January 1537, despite French reservations over her failing health. Madeleine died in July 1537, only six months after the wedding and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/madeleine-of-valois-20260729.mp3" type="audio/mpeg" length="1363200"/>
+      <guid isPermaLink="false">royal-madeleine-of-valois-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 15:57:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ksem Sultan</title>
       <description>Kösem Sultan (Ottoman Turkish: كسم سلطان; 1589 – 2 September 1651), also known as Mahpeyker Sultan (Ottoman Turkish: ماه پیكر;), was the favorite consort and possibly legal wife of Ottoman sultan Ahmed I, mother of Murad IV and Ibrahim, and grandmother of Mehmed IV. She ruled as regent of the Ottoman Empire during the minority of Murad IV from 1623 to 1632, from 1640 to 1648 during the unstable ru</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/ksem-sultan-20260728.mp3" type="audio/mpeg" length="1733760"/>
