@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Death of Pablo Escobar</title>
+      <description>Pablo Escobar, the notorious leader of the Medellín Cartel, was killed on December 2, 1993, in Medellín, Colombia, by members of Search Bloc, the Colombian Special Forces. After months of evading capture, Escobar was finally located through a phone call to his family. He was shot while attempting to escape from a roof, with bullets striking his torso, feet, and head. The nature of the shooting spa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/death-of-pablo-escobar-20260729.mp3" type="audio/mpeg" length="1439520"/>
+      <guid isPermaLink="false">drugempire-death-of-pablo-escobar-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 22:50:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026 Jalisco operation</title>
       <description>On 22 February 2026, the Mexican Armed Forces conducted an operation which killed El Mencho, the leader of the Jalisco New Generation Cartel (CJNG), and six others in Tapalpa, Jalisco, Mexico. The operation sparked clashes in the area, resulting in shootouts, explosions and multiple vehicles and stores being set on fire throughout the state and much of the rest of the country. The clashes have res</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/2026-jalisco-operation-20260729.mp3" type="audio/mpeg" length="2189280"/>
