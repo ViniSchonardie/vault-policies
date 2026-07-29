@@ -17,6 +17,21 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TMA-12</title>
+      <description>Soyuz TMA-12 was a Soyuz mission to the International Space Station (ISS) which was launched by a Soyuz FG rocket at 11:16 UTC on 8 April 2008. It docked to the Pirs module of the station on 10 April 2008. Landing occurred at 03:37 on 24 October. It was the first nominal landing in three missions, following separation failures on the Soyuz TMA-10 and 11 spacecraft.
+
+
+== Crew ==
+
+
+=== Backup crew =</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tma-12-20260729.mp3" type="audio/mpeg" length="1551840"/>
+      <guid isPermaLink="false">space-soyuz-tma-12-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 20:51:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 23</title>
       <description>Soyuz 23 (Russian: Союз 23, Union 23) was an October 1976, Soviet crewed space flight, the second to the Salyut 5 space station. Cosmonauts Vyacheslav Zudov and Valery Rozhdestvensky arrived at the station, but an equipment malfunction did not allow docking and the mission had to be aborted.
 The crew returned to Earth, but landed on partially frozen Lake Tengiz, the first crewed splashdown in the </description>
