@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Vimeiro</title>
+      <description>In the Battle of Vimeiro (sometimes shown as "Vimiera" or "Vimeira" in contemporary British texts) on 21 August 1808, the British under General Arthur Wellesley (who later became the Duke of Wellington) defeated the French under Major-General Jean-Andoche Junot near the village of Vimeiro (Portuguese pronunciation: [viˈmɐjɾu]), near Lisbon, Portugal, during the Peninsular War.  This battle put an </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-vimeiro-20260729.mp3" type="audio/mpeg" length="1713120"/>
+      <guid isPermaLink="false">warvault-battle-of-vimeiro-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 22:12:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Belmont</title>
       <description>The Battle of Belmont was an engagement of the Second Boer War on 23 November 1899, where the British under Lord Methuen assaulted a Boer position on Belmont kopje.
 Methuen's three brigades were on their way to raise the Boer siege of Kimberley. A Boer force of about 2,000 men had entrenched on the range of Belmont kopje to delay their advance. Methuen sent the Guards Brigade on a night march to o</description>
