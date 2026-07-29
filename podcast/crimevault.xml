@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dawson College shooting</title>
+      <description>The Dawson College shooting occurred on September 13, 2006, at Dawson College, a CEGEP located in downtown Montreal, Quebec, Canada. The perpetrator, Kimveer Singh Gill, began shooting outside the de Maisonneuve Boulevard entrance to the school, moving towards the atrium by the cafeteria on the main floor. One victim died at the scene, while another 19 were injured, eight of whom were listed in cr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dawson-college-shooting-20260729.mp3" type="audio/mpeg" length="1259040"/>
+      <guid isPermaLink="false">crime-dawson-college-shooting-20260729</guid>
+      <pubDate>Wed, 29 Jul 2026 19:09:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Congressional baseball shooting</title>
       <description>On June 14, 2017, a mass shooting occurred during a practice session for the annual Congressional Baseball Game in Alexandria, Virginia, US. 66-year-old James T. Hodgkinson shot four people, including then U.S. House Majority Whip Steve Scalise, U.S. Capitol Police officer Crystal Griner, congressional aide Zack Barth, and lobbyist Matt Mika. A ten-minute shootout took place between Hodgkinson and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/congressional-baseball-shooting-20260729.mp3" type="audio/mpeg" length="1641600"/>
