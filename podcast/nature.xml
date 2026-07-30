@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Grey parrot</title>
+      <description>The grey parrot (Psittacus erithacus), also known as the Congo grey parrot, is an African parrot in the family  Psittacidae. Psittacus erithacus was previously also known as the African grey parrot until the Timneh parrot (Psittacus timneh), previously treated as a subspecies, was elevated to a full species.
+
+
+== Taxonomy ==
+The grey parrot was formally described in 1758 by Swedish naturalist Carl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/grey-parrot-20260730.mp3" type="audio/mpeg" length="1170816"/>
+      <guid isPermaLink="false">nature-grey-parrot-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 21:20:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Giant otter</title>
       <description>The giant otter or giant river otter (Pteronura brasiliensis) is a South American carnivorous mammal. It is the longest member of the weasel family, Mustelidae, reaching up to 1.8 m (5 ft 11 in). Atypical of mustelids, the giant otter is a social species, with family groups typically supporting three to eight members. The groups are centered on a dominant breeding pair and are extremely cohesive a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/giant-otter-20260730.mp3" type="audio/mpeg" length="1068288"/>
