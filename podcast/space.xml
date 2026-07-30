@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-28</title>
+      <description>STS-28 was the 30th NASA Space Shuttle mission, the fourth shuttle mission dedicated to United States Department of Defense (DoD) purposes, and the eighth flight of Space Shuttle Columbia. The mission launched on August 8, 1989, and traveled 3,400,000 km (2,100,000 mi) during 81 orbits of the Earth, before landing on runway 17 of Edwards Air Force Base, California, on August 13, 1989. STS-28 was a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-28-20260730.mp3" type="audio/mpeg" length="1384704"/>
+      <guid isPermaLink="false">space-sts-28-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 21:05:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TMA-11</title>
       <description>Soyuz TMA-11 was a human spaceflight mission using a Soyuz-TMA spacecraft to transport personnel to and from the International Space Station (ISS). The mission began at 13:22 UTC on October 10, 2007, when the spacecraft was launched  from the Baikonur Cosmodrome by a Soyuz FG launch vehicle. It brought to the station two members of the ISS Expedition 16 crew, as well as Sheikh Muszaphar, the first</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tma-11-20260730.mp3" type="audio/mpeg" length="1464192"/>
