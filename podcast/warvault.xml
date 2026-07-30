@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Bussaco</title>
+      <description>The Battle of Buçaco (pronounced [buˈsaku]) or Bussaco was fought on 27 September 1810 during the Peninsular War in the Portuguese mountain range of Serra do Buçaco, resulting in the defeat of French forces by Lord Wellington's Anglo-Portuguese Army. Having occupied the heights of Bussaco with a total of 26,843 British and 25,429 Portuguese troops, Wellington was attacked five times successively b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-bussaco-20260730.mp3" type="audio/mpeg" length="1206912"/>
+      <guid isPermaLink="false">warvault-battle-of-bussaco-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 22:19:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Ostend</title>
       <description>The siege of Ostend was a three-year siege of the city of Ostend during the Eighty Years' War and the Anglo–Spanish War. A Spanish force under Archduke Albrecht besieged the fortress being held initially by a Dutch force which was reinforced by English troops under Francis Vere, who became the town's governor.  It was said "the Spanish assailed the unassailable; the Dutch defended the indefensible</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-ostend-20260730.mp3" type="audio/mpeg" length="1452288"/>
