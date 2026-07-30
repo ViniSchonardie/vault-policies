@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Giant otter</title>
+      <description>The giant otter or giant river otter (Pteronura brasiliensis) is a South American carnivorous mammal. It is the longest member of the weasel family, Mustelidae, reaching up to 1.8 m (5 ft 11 in). Atypical of mustelids, the giant otter is a social species, with family groups typically supporting three to eight members. The groups are centered on a dominant breeding pair and are extremely cohesive a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/giant-otter-20260730.mp3" type="audio/mpeg" length="1068288"/>
+      <guid isPermaLink="false">nature-giant-otter-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 17:20:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Moray eel</title>
       <description>Moray eels, or Muraenidae (), are a family of eels whose members are found worldwide. There are approximately 200 species in 16 genera which are almost exclusively marine, but several species are regularly seen in brackish water, and a few are found in fresh water.
 The English name, moray, dates back to the early 17th century, and is believed to be a derivative from Portuguese moreia, which itself</description>
