@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>El Mencho</title>
+      <description>Nemesio Rubén Oseguera Cervantes (born Rubén Oseguera Cervantes; 17 July 1966 – 22 February 2026), commonly referred to by his alias "El Mencho", was a Mexican drug lord and head of the Jalisco New Generation Cartel (CJNG), an organized crime group based in Jalisco. He was the most wanted person in Mexico and one of the most wanted in the United States at the time of his death. The U.S. government</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/el-mencho-20260730.mp3" type="audio/mpeg" length="1487616"/>
+      <guid isPermaLink="false">drugempire-el-mencho-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 16:42:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Death of Pablo Escobar</title>
       <description>Pablo Escobar, the notorious leader of the Medellín Cartel, was killed on December 2, 1993, in Medellín, Colombia, by members of Search Bloc, the Colombian Special Forces. After months of evading capture, Escobar was finally located through a phone call to his family. He was shot while attempting to escape from a roof, with bullets striking his torso, feet, and head. The nature of the shooting spa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/death-of-pablo-escobar-20260729.mp3" type="audio/mpeg" length="1439520"/>
