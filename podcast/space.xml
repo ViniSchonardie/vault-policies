@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz T-11</title>
+      <description>Soyuz T-11 was the sixth expedition to the Soviet Salyut 7 space station, which in 1984 carried the first Indian cosmonaut, Rakesh Sharma along with Soviet crew members.
+Salyut 7 was uncrewed after the undocking of Soyuz T-11 in October 1984 until Soyuz T-13 docked with the station in June 1985. Salyut 7 developed problems during the time it was uncrewed, which meant that the crew of Soyuz T-13 ha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-t-11-20260730.mp3" type="audio/mpeg" length="1384320"/>
+      <guid isPermaLink="false">space-soyuz-t-11-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 15:17:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TMA-12</title>
       <description>Soyuz TMA-12 was a Soyuz mission to the International Space Station (ISS) which was launched by a Soyuz FG rocket at 11:16 UTC on 8 April 2008. It docked to the Pirs module of the station on 10 April 2008. Landing occurred at 03:37 on 24 October. It was the first nominal landing in three missions, following separation failures on the Soyuz TMA-10 and 11 spacecraft.
 
