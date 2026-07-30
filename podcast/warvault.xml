@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Ostend</title>
+      <description>The siege of Ostend was a three-year siege of the city of Ostend during the Eighty Years' War and the Anglo–Spanish War. A Spanish force under Archduke Albrecht besieged the fortress being held initially by a Dutch force which was reinforced by English troops under Francis Vere, who became the town's governor.  It was said "the Spanish assailed the unassailable; the Dutch defended the indefensible</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-ostend-20260730.mp3" type="audio/mpeg" length="1452288"/>
+      <guid isPermaLink="false">warvault-siege-of-ostend-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 18:23:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Monocacy</title>
       <description>The Battle of Monocacy (also known as Monocacy Junction) was fought on July 9, 1864, about 6 miles (9.7 km) from Frederick, Maryland, as part of the Valley Campaigns of 1864 during the American Civil War. Confederate forces under Lt. Gen. Jubal A. Early defeated Union forces under Maj. Gen. Lew Wallace. The battle was part of Early's raid through the Shenandoah Valley and into Maryland in an attem</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-monocacy-20260730.mp3" type="audio/mpeg" length="1380096"/>
