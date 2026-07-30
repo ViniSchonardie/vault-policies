@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TMA-11</title>
+      <description>Soyuz TMA-11 was a human spaceflight mission using a Soyuz-TMA spacecraft to transport personnel to and from the International Space Station (ISS). The mission began at 13:22 UTC on October 10, 2007, when the spacecraft was launched  from the Baikonur Cosmodrome by a Soyuz FG launch vehicle. It brought to the station two members of the ISS Expedition 16 crew, as well as Sheikh Muszaphar, the first</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tma-11-20260730.mp3" type="audio/mpeg" length="1464192"/>
+      <guid isPermaLink="false">space-soyuz-tma-11-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 17:44:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz T-11</title>
       <description>Soyuz T-11 was the sixth expedition to the Soviet Salyut 7 space station, which in 1984 carried the first Indian cosmonaut, Rakesh Sharma along with Soviet crew members.
 Salyut 7 was uncrewed after the undocking of Soyuz T-11 in October 1984 until Soyuz T-13 docked with the station in June 1985. Salyut 7 developed problems during the time it was uncrewed, which meant that the crew of Soyuz T-13 ha</description>
