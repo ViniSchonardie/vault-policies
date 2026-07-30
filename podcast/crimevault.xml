@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rod Ferrell</title>
+      <description>Roderick Justin "Rod" Ferrell is an American murderer and cult leader. He was a member of a loose-knit gang of teenagers from Murray, Kentucky, known as the "Vampire Clan". Ferrell claimed to be a 500-year-old vampire named Vesago, a character he created for himself after becoming obsessed with the role playing game Vampire: The Masquerade. It was his mother, Sondra Gibson, who first introduced th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/rod-ferrell-20260730.mp3" type="audio/mpeg" length="1433856"/>
+      <guid isPermaLink="false">crime-rod-ferrell-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 15:22:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Michel Fourniret</title>
       <description>Michel Paul Fourniret was a French serial killer who confessed to killing 12 people in France and Belgium between 1987 and 2003. After he was arrested in June 2003 for the attempted kidnapping of a teenage girl in Ciney, Fourniret confessed in 2004 to killing nine people, eight females and one male, having been informed on by his then-wife, Monique Pierrette Olivier. Fourniret was convicted of sev</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michel-fourniret-20260729.mp3" type="audio/mpeg" length="1259136"/>
