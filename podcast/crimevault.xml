@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Earle Nelson</title>
+      <description>Earle Leonard Nelson, also known as the Gorilla Man, the Gorilla Killer, and the Dark Strangler, was an American serial killer, rapist, and necrophile who killed at least twenty women in various U.S. states and two in Canada between 1926 and 1927. He is perhaps the first known serial sex murderer of the twentieth century.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/earle-nelson-20260730.mp3" type="audio/mpeg" length="1314048"/>
+      <guid isPermaLink="false">crime-earle-nelson-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 23:01:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gerald Stano</title>
       <description>Gerald Eugene Stano was an American convicted serial killer. Stano murdered at least 23 young women and girls, confessed to 41 murders, and the police say the number of his victims may be closer to 88.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gerald-stano-20260730.mp3" type="audio/mpeg" length="1510272"/>
