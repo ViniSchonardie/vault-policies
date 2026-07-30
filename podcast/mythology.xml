@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lady Justice</title>
+      <description>Lady Justice (Latin: Iustitia) is an allegorical personification of the moral force in judicial systems. Her attributes are scales, a sword and sometimes a blindfold. She often appears as a pair with Prudentia.
+Lady Justice originates from the personification of Justice in ancient Roman art known as Iustitia or Justitia, who is equivalent to the Greek goddess Themis.
+
+
+== The goddess Justitia ==
+T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/lady-justice-20260730.mp3" type="audio/mpeg" length="1309056"/>
+      <guid isPermaLink="false">mythology-lady-justice-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 17:19:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leto</title>
       <description>In ancient Greek mythology and religion, Leto (; Ancient Greek: Λητώ, romanized: Lêtố, pronounced [lεːˈtɔː]) is the mother of Apollo and Artemis. She is the daughter of the Titans Coeus and Phoebe, and the sister of Asteria.
 In the Olympian scheme, the king of gods Zeus is the father of her twins, Apollo and Artemis, whom Leto conceived after her hidden beauty accidentally caught the eye of Zeus. </description>
