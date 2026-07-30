@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1972 Lake Winnebago mid-air collision</title>
+      <description>On June 29, 1972, North Central Airlines Flight 290 collided in mid-air with Air Wisconsin Flight 671 over Lake Winnebago near Fox Crossing, Wisconsin, in the United States. Both aircraft crashed into the lake, killing all 13 people on board both aircraft.
+
+
+== Flight history ==
+
+
+=== North Central Airlines Flight 290 ===
+North Central Airlines Flight 290 was a regularly scheduled flight which usu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1972-lake-winnebago-mid-air-collision-20260730.mp3" type="audio/mpeg" length="1317888"/>
+      <guid isPermaLink="false">aviation-1972-lake-winnebago-mid-air-collision-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 22:02:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2008 Guam B-52 crash</title>
       <description>On 21 July 2008, a United States Air Force (USAF) B-52H Stratofortress operating out of Andersen Air Force Base, crashed into the Pacific Ocean during a training flight approximately 30 nautical miles (56 km) northwest of Apra Harbor, Guam. The training flight was to include participation in a local municipal celebration of Liberation Day (the day in 1944 that Guman was Liberated from Japan) in Ha</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2008-guam-b-52-crash-20260730.mp3" type="audio/mpeg" length="1408512"/>
