@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Turkish Airlines Flight 1476</title>
+      <description>Turkish Airlines Flight 1476 (TK1476) was a Turkish Airlines Boeing 737-4Y0 flying from Tirana to Istanbul that was hijacked by Hakan Ekinci in Greek airspace on 3 October 2006. Ekinci demanded to go to Rome to speak with the Pope, but Greek and Italian F-16 Fighting Falcon jets intercepted and escorted the aircraft until it landed in Brindisi, Italy. Nobody was harmed, and Ekinci was jailed in It</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-1476-20260730.mp3" type="audio/mpeg" length="1269120"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-1476-20260730</guid>
+      <pubDate>Thu, 30 Jul 2026 15:52:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air France Flight 422</title>
       <description>Air France Flight 422 was a scheduled flight on 20 April 1998 by Air France from Bogotá, Colombia, to Quito, Ecuador, covering the final leg of a flight from Paris to Quito. The Boeing 727 was destroyed, killing all 53 people on board, when it crashed into the Eastern Hills of Bogotá because of foggy weather and low visibility after taking off from Bogotá's El Dorado International Airport. The pla</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-422-20260729.mp3" type="audio/mpeg" length="1652160"/>
