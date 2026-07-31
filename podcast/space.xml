@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-30</title>
+      <description>STS-30 was the 29th NASA Space Shuttle mission and the fourth mission for Space Shuttle Atlantis. It was the fourth shuttle launch since the Challenger disaster and the first shuttle mission since the disaster to have a female astronaut on board. The mission launched from Kennedy Space Center, Florida, on May 4, 1989, and landed four days later on May 8, 1989. During the mission, Atlantis deployed</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-30-20260731.mp3" type="audio/mpeg" length="1271808"/>
+      <guid isPermaLink="false">space-sts-30-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 17:47:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-53</title>
       <description>STS-53 was a NASA Space Shuttle Discovery mission in support of the United States Department of Defense (DoD). It was Discovery's 15th flight. The mission was launched on December 2, 1992, from Kennedy Space Center, Florida. This was also the last mission to have been operated via MCR-2 in JSC. Afterwards the room was restored entirely to its Apollo era appearance.
 
