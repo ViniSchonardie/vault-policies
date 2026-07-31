@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Washita River</title>
+      <description>The Battle of the Washita River (also called Battle of the Washita or the Washita Massacre) occurred on November 27, 1868, when Lt. Col. George Armstrong Custer's 7th U.S. Cavalry attacked Black Kettle's Southern Cheyenne camp on the Washita River (the present-day Washita Battlefield National Historic Site near Cheyenne, Oklahoma).
+The Cheyenne camp was the most isolated band of a major winter enc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-washita-river-20260731.mp3" type="audio/mpeg" length="1271808"/>
+      <guid isPermaLink="false">warvault-battle-of-washita-river-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 15:22:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Bussaco</title>
       <description>The Battle of Buçaco (pronounced [buˈsaku]) or Bussaco was fought on 27 September 1810 during the Peninsular War in the Portuguese mountain range of Serra do Buçaco, resulting in the defeat of French forces by Lord Wellington's Anglo-Portuguese Army. Having occupied the heights of Bussaco with a total of 26,843 British and 25,429 Portuguese troops, Wellington was attacked five times successively b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-bussaco-20260730.mp3" type="audio/mpeg" length="1206912"/>
