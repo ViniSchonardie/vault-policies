@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Freeway Phantom</title>
+      <description>The Freeway Phantom is the pseudonym of an unidentified serial killer who murdered five girls and a woman in Washington, D.C., between April 1971 and September 1972.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/freeway-phantom-20260731.mp3" type="audio/mpeg" length="1046400"/>
+      <guid isPermaLink="false">crime-freeway-phantom-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 15:28:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Earle Nelson</title>
       <description>Earle Leonard Nelson, also known as the Gorilla Man, the Gorilla Killer, and the Dark Strangler, was an American serial killer, rapist, and necrophile who killed at least twenty women in various U.S. states and two in Canada between 1926 and 1927. He is perhaps the first known serial sex murderer of the twentieth century.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/earle-nelson-20260730.mp3" type="audio/mpeg" length="1314048"/>
