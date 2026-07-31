@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Philippine Airlines Flight 206</title>
+      <description>Philippine Airlines Flight 206 was the route designator of a domestic flight from Manila Domestic Airport, Metro Manila, Philippines, to Loakan Airport, Baguio. On June 26, 1987, the Hawker Siddeley HS 748 crashed onto a mountain en route to Baguio, killing all 50 people on board.
+
+
+== Accident ==
+On the morning of June 26, 1987, Flight 206 departed the Manila Domestic Airport for Loakan Airport i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/philippine-airlines-flight-206-20260731.mp3" type="audio/mpeg" length="1253376"/>
+      <guid isPermaLink="false">aviation-philippine-airlines-flight-206-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 16:03:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1972 Lake Winnebago mid-air collision</title>
       <description>On June 29, 1972, North Central Airlines Flight 290 collided in mid-air with Air Wisconsin Flight 671 over Lake Winnebago near Fox Crossing, Wisconsin, in the United States. Both aircraft crashed into the lake, killing all 13 people on board both aircraft.
 
