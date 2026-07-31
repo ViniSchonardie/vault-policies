@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of North Point</title>
+      <description>The Battle of North Point was fought on September 12, 1814, between General John Stricker's Maryland Militia and a British force led by Major-general Robert Ross. Although the Americans were driven from the field, they were able to do so in good order having inflicted significant casualties on the British, killing Ross and demoralizing the troops under his command. Some of Ross's units became lost</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-north-point-20260731.mp3" type="audio/mpeg" length="1296384"/>
+      <guid isPermaLink="false">warvault-battle-of-north-point-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 18:26:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Washita River</title>
       <description>The Battle of the Washita River (also called Battle of the Washita or the Washita Massacre) occurred on November 27, 1868, when Lt. Col. George Armstrong Custer's 7th U.S. Cavalry attacked Black Kettle's Southern Cheyenne camp on the Washita River (the present-day Washita Battlefield National Historic Site near Cheyenne, Oklahoma).
 The Cheyenne camp was the most isolated band of a major winter enc</description>
