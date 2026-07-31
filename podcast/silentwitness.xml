@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Polish Inquisition</title>
+      <description>The Polish Inquisition was an ecclesiastical institution established in the 13th century to combat heretics. Permanent structures of the inquisition in Polish territories were established in the first half of the 14th century and always played a subordinate role to episcopal tribunals, which were already combating heretics in Poland in the mid-13th century. The final end of the existence of inquis</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/polish-inquisition-20260731.mp3" type="audio/mpeg" length="1468032"/>
+      <guid isPermaLink="false">trials-polish-inquisition-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 17:32:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venetian Holy Inquisition</title>
       <description>The Venetian Inquisition, formally the Holy Office (Latin: Sanctum Officium), was the tribunal established jointly by the Venetian government and the Catholic Church to repress heresy throughout the Republic of Venice. The inquisition also intervened in cases of sacrilege, apostasy, prohibited books, superstition, and witchcraft. It was established in the 16th-century and was abolished in 1797.
 
