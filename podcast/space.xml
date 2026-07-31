@@ -17,6 +17,21 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-53</title>
+      <description>STS-53 was a NASA Space Shuttle Discovery mission in support of the United States Department of Defense (DoD). It was Discovery's 15th flight. The mission was launched on December 2, 1992, from Kennedy Space Center, Florida. This was also the last mission to have been operated via MCR-2 in JSC. Afterwards the room was restored entirely to its Apollo era appearance.
+
+
+== Crew ==
+
+
+=== Crew seat ass</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-53-20260731.mp3" type="audio/mpeg" length="1309440"/>
+      <guid isPermaLink="false">space-sts-53-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 15:26:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-28</title>
       <description>STS-28 was the 30th NASA Space Shuttle mission, the fourth shuttle mission dedicated to United States Department of Defense (DoD) purposes, and the eighth flight of Space Shuttle Columbia. The mission launched on August 8, 1989, and traveled 3,400,000 km (2,100,000 mi) during 81 orbits of the Earth, before landing on runway 17 of Edwards Air Force Base, California, on August 13, 1989. STS-28 was a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-28-20260730.mp3" type="audio/mpeg" length="1384704"/>
