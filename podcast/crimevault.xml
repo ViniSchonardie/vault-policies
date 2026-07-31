@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Yuno Gasai</title>
+      <description>Yuno Gasai  is a fictional character and the main female protagonist and antagonist of the manga series Future Diary, created by Sakae Esuno. In the series, she pretends to be a perfect model student on the surface, but is actually a yandere who is obsessed with the main male protagonist Yukiteru Amano, and kills unhesitatingly to protect him.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yuno-gasai-20260731.mp3" type="audio/mpeg" length="1178112"/>
+      <guid isPermaLink="false">crime-yuno-gasai-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 19:19:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Freeway Phantom</title>
       <description>The Freeway Phantom is the pseudonym of an unidentified serial killer who murdered five girls and a woman in Washington, D.C., between April 1971 and September 1972.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/freeway-phantom-20260731.mp3" type="audio/mpeg" length="1046400"/>
