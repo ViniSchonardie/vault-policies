@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hartmann von Aue</title>
+      <description>Hartmann von Aue, also known as Hartmann von Ouwe, (born c. 1160–70, died c. 1210–20) was a German knight and poet. With his works including Erec, Iwein, Gregorius, and Der arme Heinrich, he introduced the Arthurian romance into German literature and, with Wolfram von Eschenbach and Gottfried von Strassburg, was one of the three great epic poets of Middle High German literature.
+
+
+== Life ==
+Hartm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hartmann-von-aue-20260731.mp3" type="audio/mpeg" length="1449600"/>
+      <guid isPermaLink="false">realstory-hartmann-von-aue-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 16:45:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Theophilus Desaguliers</title>
       <description>John Theophilus Desaguliers  (12 March 1683 – 29 February 1744) was a French-born British natural philosopher, clergyman, engineer and freemason who was elected to the Royal Society in 1714 as experimental assistant to Isaac Newton. He had studied at Oxford and later popularized Newtonian theories and their practical applications in public lectures. Desaguliers's most important patron was James Br</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-theophilus-desaguliers-20260730.mp3" type="audio/mpeg" length="1344000"/>
