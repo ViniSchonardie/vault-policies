@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Camarillasaurus</title>
+      <description>Camarillasaurus (meaning "Camarillas lizard") is an extinct genus of spinosaurid theropod dinosaurs from the Early Cretaceous period (Barremian) of Camarillas, Teruel Province, in what is now northeastern Spain. Described in 2014, it was originally identified as a ceratosaurian theropod, but later studies suggested affinities to the Spinosauridae. Camarillasaurus is one of several spinosaurid taxa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/camarillasaurus-20260731.mp3" type="audio/mpeg" length="1237248"/>
+      <guid isPermaLink="false">prehistoric-camarillasaurus-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 18:20:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pterodactyloidea</title>
       <description>Pterodactyloidea (/ˌtɛrəˈdæktl̩ɔɪdɪːə/; derived from the Greek words πτερόν (pterón, for usual ptéryx) "wing", and δάκτυλος (dáktylos) "finger") is one of the two traditional  suborders of pterosaurs ("wing lizards"), and contains the most derived members of this group of flying reptiles. They appeared during the middle Jurassic Period, and differ from the basal (though paraphyletic) rhamphorhynch</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pterodactyloidea-20260731.mp3" type="audio/mpeg" length="1277184"/>
