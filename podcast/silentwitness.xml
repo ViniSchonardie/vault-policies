@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Banting Murders</title>
+      <description>On 30 August 2010, in Banting, Selangor, Malaysia, 47-year-old cosmetics millionaire Datuk Sosilawati Lawiya and her three companions – bank officer Noorhisham Mohamad, lawyer Ahmad Kamil Abdul Karim, and her driver Kamaruddin Shamsuddin – all went missing. The four missing people were later found to have been murdered and had their bodies burnt by a lawyer named N. Pathmanabhan and another three </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/banting-murders-20260731.mp3" type="audio/mpeg" length="1457664"/>
+      <guid isPermaLink="false">trials-banting-murders-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 21:09:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Polish Inquisition</title>
       <description>The Polish Inquisition was an ecclesiastical institution established in the 13th century to combat heretics. Permanent structures of the inquisition in Polish territories were established in the first half of the 14th century and always played a subordinate role to episcopal tribunals, which were already combating heretics in Poland in the mid-13th century. The final end of the existence of inquis</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/polish-inquisition-20260731.mp3" type="audio/mpeg" length="1468032"/>
