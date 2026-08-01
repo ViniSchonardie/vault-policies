@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Alligator gar</title>
+      <description>The alligator gar (Atractosteus spatula) is a euryhaline ray-finned fish in the clade Ginglymodi of the infraclass Holostei , being most closely related to the bowfins. It is the largest species in the gar family (Lepisosteidae), and is among the largest freshwater fishes in North America. The fossil record traces its group's existence back to the Early Cretaceous over 100 million years ago. Gars </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/alligator-gar-20260801.mp3" type="audio/mpeg" length="1384704"/>
+      <guid isPermaLink="false">nature-alligator-gar-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 13:32:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iberian lynx</title>
       <description>The Iberian lynx (Lynx pardinus) is one of four extant species of Lynx, a genus of medium-sized wild cats. It is endemic to the Iberian Peninsula. Fossils suggest that it has been present in Iberia since the end of the Early Pleistocene around 1 million years ago. It is a monotypic species and is thought to have evolved from Lynx issiodorensis.
 The Iberian lynx population declined in the 20th cent</description>
