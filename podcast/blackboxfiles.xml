@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thai Airways International Flight 601</title>
+      <description>On 30 June 1967, Thai Airways International Flight 601, a Sud Aviation Caravelle III crashed into the sea on landing at the former Kai Tak Airport, Hong Kong, in a typhoon. The aircraft was on a flight from Haneda Airport in Japan to Don Mueang Airport in Thailand. The two stopovers were at Songshan Airport in Taiwan and Kai Tak Airport in British Hong Kong.
+
+
+== Background ==
+
+
+=== Aircraft ===
+T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-601-20260801.mp3" type="audio/mpeg" length="1123968"/>
+      <guid isPermaLink="false">aviation-thai-airways-international-flight-601-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 21:47:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAME Flight 120</title>
       <description>TAME Flight 120 was a Boeing 727-134 airliner, registration HC-BLF, named El Oro, operating as a scheduled international passenger flight between Quito, Ecuador and Cali, Colombia, with a scheduled stopover at the Ecuadorian border town of Tulcán. The aircraft crashed while on approach to Tulcán's Teniente Coronel Luis A. Mantilla International Airport on January 28, 2002. The pilot flew the appro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tame-flight-120-20260801.mp3" type="audio/mpeg" length="1295232"/>
