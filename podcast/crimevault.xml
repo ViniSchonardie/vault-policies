@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Schmid</title>
+      <description>Charles Howard Schmid Jr., also known as the Pied Piper of Tucson, was an American serial killer whose crimes were detailed by journalist Don Moser in an article featured in the March 4, 1966, issue of Life magazine. Schmid's criminal career later formed the basis for "Where Are You Going, Where Have You Been?", a short story by Joyce Carol Oates. In 2008, The Library of America selected Moser's a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-schmid-20260801.mp3" type="audio/mpeg" length="1344384"/>
+      <guid isPermaLink="false">crime-charles-schmid-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 14:42:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Izhevsk school shooting</title>
       <description>On 26 September 2022, a mass shooting occurred at a school in Izhevsk, Udmurtia, Russia. Eighteen people were killed and twenty-three others were wounded before the gunman, identified as Artyom Kazantsev committed suicide.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/izhevsk-school-shooting-20260731.mp3" type="audio/mpeg" length="1493376"/>
