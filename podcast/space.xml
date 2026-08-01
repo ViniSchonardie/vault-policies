@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-101</title>
+      <description>STS-101 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Atlantis. The mission was a 10-day mission conducted between 19 May 2000 and 29 May 2000. The mission was designated 2A.2a and was a resupply mission to the International Space Station. STS-101 was delayed 3 times in April due to high winds. STS-101 traveled 4.1 million miles and completed 155 revo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-101-20260801.mp3" type="audio/mpeg" length="1289088"/>
+      <guid isPermaLink="false">space-sts-101-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 14:33:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-111</title>
       <description>STS-111 was a space shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. STS-111 resupplied the station and replaced the Expedition 4 crew with the Expedition 5 crew. It was launched on 5 June 2002, from Kennedy Space Center, Florida.
 
