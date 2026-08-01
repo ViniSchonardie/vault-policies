@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-45</title>
+      <description>STS-45 was a 1992 NASA Space Shuttle mission using the Space Shuttle Atlantis. Its almost nine-day scientific mission was with a non-deployable payload of instruments. It was the 46th Space Shuttle mission and the 11th for Atlantis.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+Atlantis was launched on March 24, 1992, at 8:13 a.m. EST. The launch was originally scheduled</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-45-20260801.mp3" type="audio/mpeg" length="1100544"/>
+      <guid isPermaLink="false">space-sts-45-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 17:08:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-101</title>
       <description>STS-101 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Atlantis. The mission was a 10-day mission conducted between 19 May 2000 and 29 May 2000. The mission was designated 2A.2a and was a resupply mission to the International Space Station. STS-101 was delayed 3 times in April due to high winds. STS-101 traveled 4.1 million miles and completed 155 revo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-101-20260801.mp3" type="audio/mpeg" length="1289088"/>
