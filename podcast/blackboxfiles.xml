@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TAME Flight 120</title>
+      <description>TAME Flight 120 was a Boeing 727-134 airliner, registration HC-BLF, named El Oro, operating as a scheduled international passenger flight between Quito, Ecuador and Cali, Colombia, with a scheduled stopover at the Ecuadorian border town of Tulcán. The aircraft crashed while on approach to Tulcán's Teniente Coronel Luis A. Mantilla International Airport on January 28, 2002. The pilot flew the appro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tame-flight-120-20260801.mp3" type="audio/mpeg" length="1295232"/>
+      <guid isPermaLink="false">aviation-tame-flight-120-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 17:57:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vladivostok Air Flight 352</title>
       <description>Vladivostok Air Flight 352 was a scheduled passenger flight from Yekaterinburg, Russia to Vladivostok via Irkutsk. On 4 July 2001, the aircraft operating the flight, a Tupolev Tu-154M with tail number RA-85845, lost control, stalled, and crashed while approaching Irkutsk Airport. All 136 passengers and 9 flight crew members aboard perished, making it the third deadliest aircraft crash over Russian</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/vladivostok-air-flight-352-20260801.mp3" type="audio/mpeg" length="1485696"/>
