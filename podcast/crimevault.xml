@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Doodler</title>
+      <description>The Doodler is an unidentified serial killer believed responsible for between six and sixteen murders and three assaults of men in San Francisco, California, United States, between January 1974 and September 1975. The nickname was given due to the perpetrator's habit of sketching his victims prior to stabbing them to death. The perpetrator met his victims at gay nightclubs, bars and restaurants.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/doodler-20260801.mp3" type="audio/mpeg" length="1382016"/>
+      <guid isPermaLink="false">crime-doodler-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 22:48:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Linda Hazzard</title>
       <description>Linda Laura Hazzard, nicknamed the "Starvation Doctor", was an American quack, swindler, and convicted serial killer noted for her promotion of fasting, pummeling and hours-long enemas as treatments. In 1911, Hazzard was found guilty of manslaughter in the state of Washington and was sentenced to 2 to 20 years of hard labor for killing at least 15 people for financial gain at a sanitarium she oper</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/linda-hazzard-20260801.mp3" type="audio/mpeg" length="1440768"/>
