@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Isfahan</title>
+      <description>The Siege of Isfahan (1387) was part of Timur’s Persian campaigns. Timur captured the city from the Muzaffarid dynasty, resulting in heavy casualties and its incorporation into the Timurid Empire.
+
+
+== Background ==
+To annex the Muzaffarid kingdom, Timur would have to capture its two main cities: Isfahan and Shiraz. In 1387, when Timur arrived with his army at Isfahan, it immediately surrendered, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-isfahan-20260801.mp3" type="audio/mpeg" length="1132032"/>
+      <guid isPermaLink="false">warvault-siege-of-isfahan-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 14:30:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Tolentino</title>
       <description>The Battle of Tolentino was fought from 2–3 May 1815 near Tolentino, Kingdom of Naples in what is now Marche, Italy: it was the decisive battle in the Neapolitan War, fought by the Napoleonic King of Naples Joachim Murat to keep the throne after the Congress of Vienna. The battle occurred during the Hundred Days following Napoleon's return from exile and, like the Battle of Waterloo, resulted in a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-tolentino-20260731.mp3" type="audio/mpeg" length="1027968"/>
