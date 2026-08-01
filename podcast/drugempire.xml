@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>L'Ora</title>
+      <description>L'Ora (English: "The Hour") was a Sicilian daily newspaper published in Palermo. The paper was founded in 1900 and stopped being published in 1992. In the 1950s–1980s the evening paper was known for its investigative reporting about political corruption in Palermo and into the Sicilian Mafia, when the Italian Communist Party took ownership. The Mafia made it a target: a bomb exploded in the press </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/lora-20260801.mp3" type="audio/mpeg" length="1504128"/>
+      <guid isPermaLink="false">drugempire-lora-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 16:07:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joey Merlino</title>
       <description>Joseph Salvatore "Skinny Joey" Merlino (born March 13, 1962) is an American businessman, restaurant owner and former mobster who was the reputed boss of the Philadelphia crime family from the 1990s until 2024. He rose to power and seized control of the organization in the mid-nineties after he fought against the John Stanfa faction of the family. He has led the crime family in gambling, loan shark</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/joey-merlino-20260731.mp3" type="audio/mpeg" length="1359744"/>
