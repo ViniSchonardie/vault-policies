@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Samhain</title>
+      <description>Samhain ( SAH-win,  SOW-in; Irish: [ˈsˠəunʲ]; Scottish Gaelic: [ˈs̪ãũ.ɪɲ]) or Sauin (Manx: [ˈsoːɪnʲ]) is a Gaelic festival on 1 November marking the end of the harvest season in autumn and beginning of winter or the "darker half" of the year. It is also the Irish and Scottish Gaelic name for November. Celebrations begin on the evening of 31 October, since the Celtic day began and ended at sunset. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/samhain-20260801.mp3" type="audio/mpeg" length="1399680"/>
+      <guid isPermaLink="false">mythology-samhain-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hindu deities</title>
       <description>Hindu deities are the gods and goddesses in Hinduism. Deities in Hinduism are as diverse as its traditions, and a Hindu can choose to be polytheistic, pantheistic, monotheistic, monistic, or even agnostic, atheistic or humanistic. The terms and epithets for deities within the diverse traditions of  Hinduism vary, and include Deva, Devi, Ishvara, Ishvari, Bhagavān and Bhagavati.
 The deities of Hind</description>
