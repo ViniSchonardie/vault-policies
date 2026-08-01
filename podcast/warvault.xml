@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Middle Creek</title>
+      <description>The Battle of Middle Creek was an engagement fought January 10, 1862, in Eastern Kentucky during the American Civil War.  It was the only battle personally commanded by future president James A. Garfield, then a colonel in the Union Army.
+
+
+== Background ==
+More than 1 month after Confederate Colonel John S. Williams left Kentucky, following the fight at Ivy Mountain, Brig. Gen. Humphrey Marshall </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-middle-creek-20260801.mp3" type="audio/mpeg" length="1511424"/>
+      <guid isPermaLink="false">warvault-battle-of-middle-creek-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 18:06:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Isfahan</title>
       <description>The Siege of Isfahan (1387) was part of Timur’s Persian campaigns. Timur captured the city from the Muzaffarid dynasty, resulting in heavy casualties and its incorporation into the Timurid Empire.
 
