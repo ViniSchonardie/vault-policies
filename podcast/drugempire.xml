@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Peter F. Paul</title>
+      <description>Peter Franklin Paul (born September 2, 1948) is an American former lawyer and entrepreneur who was convicted for conspiracy and drug dealing, and later for securities fraud in connection with his business dealings with Spider-Man co-creator Stan Lee.
+He has repeatedly brought suit against Hillary Clinton, accusing her of lying about donations he solicited on behalf of her 2000 senatorial campaign.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/peter-f-paul-20260801.mp3" type="audio/mpeg" length="1327104"/>
+      <guid isPermaLink="false">drugempire-peter-f-paul-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 20:15:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>L'Ora</title>
       <description>L'Ora (English: "The Hour") was a Sicilian daily newspaper published in Palermo. The paper was founded in 1900 and stopped being published in 1992. In the 1950s–1980s the evening paper was known for its investigative reporting about political corruption in Palermo and into the Sicilian Mafia, when the Italian Communist Party took ownership. The Mafia made it a target: a bomb exploded in the press </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/lora-20260801.mp3" type="audio/mpeg" length="1504128"/>
