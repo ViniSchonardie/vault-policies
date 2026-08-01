@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eris (mythology)</title>
+      <description>In Greek mythology, Eris (Ancient Greek: Ἔρις, romanized: Eris, lit. 'Strife') is the goddess and personification of strife and discord, particularly in war, and in the Iliad (where she is the "sister" of Ares the god of war). According to Hesiod she was the daughter of primordial Nyx (Night), and the mother of a long list of undesirable personified abstractions, such as Ponos (Toil), Limos (Famin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/eris-mythology-20260801.mp3" type="audio/mpeg" length="1142016"/>
+      <guid isPermaLink="false">mythology-eris-mythology-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 16:48:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Samhain</title>
       <description>Samhain ( SAH-win,  SOW-in; Irish: [ˈsˠəunʲ]; Scottish Gaelic: [ˈs̪ãũ.ɪɲ]) or Sauin (Manx: [ˈsoːɪnʲ]) is a Gaelic festival on 1 November marking the end of the harvest season in autumn and beginning of winter or the "darker half" of the year. It is also the Irish and Scottish Gaelic name for November. Celebrations begin on the evening of 31 October, since the Celtic day began and ended at sunset. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/samhain-20260801.mp3" type="audio/mpeg" length="1399680"/>
