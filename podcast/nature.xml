@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>White-tailed eagle</title>
+      <description>The white-tailed eagle (Haliaeetus albicilla), sometimes known as the "sea eagle", is a large bird of prey, widely distributed across temperate Eurasia. Like all eagles, it is a member of the family Accipitridae (or accipitrids) which also includes other diurnal raptors such as hawks, kites, and harriers. One of up to eleven members in the genus Haliaeetus, which are commonly called sea eagles, it</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/white-tailed-eagle-20260801.mp3" type="audio/mpeg" length="1267200"/>
+      <guid isPermaLink="false">nature-white-tailed-eagle-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 16:54:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alligator gar</title>
       <description>The alligator gar (Atractosteus spatula) is a euryhaline ray-finned fish in the clade Ginglymodi of the infraclass Holostei , being most closely related to the bowfins. It is the largest species in the gar family (Lepisosteidae), and is among the largest freshwater fishes in North America. The fossil record traces its group's existence back to the Early Cretaceous over 100 million years ago. Gars </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/alligator-gar-20260801.mp3" type="audio/mpeg" length="1384704"/>
