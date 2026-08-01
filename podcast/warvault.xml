@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Numantia</title>
+      <description>The Celtiberian oppidum of Numantia was attacked more than once by Roman forces, but the siege of Numantia refers to the culminating and pacifying action of the long-running Numantine War between the forces of the Roman Republic and those of the native  population of Hispania Citerior. The Numantine War was the third of the Celtiberian Wars and it broke out in 143 BC. A decade later, in 133 BC, th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-numantia-20260801.mp3" type="audio/mpeg" length="1320576"/>
+      <guid isPermaLink="false">warvault-siege-of-numantia-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 22:07:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Middle Creek</title>
       <description>The Battle of Middle Creek was an engagement fought January 10, 1862, in Eastern Kentucky during the American Civil War.  It was the only battle personally commanded by future president James A. Garfield, then a colonel in the Union Army.
 
