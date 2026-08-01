@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-56</title>
+      <description>STS-56 was a NASA Space Shuttle Discovery mission to perform special experiments. It was Discovery's 16th flight. The mission was launched from Kennedy Space Center, Florida, on April 8, 1993.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+The primary payload of the flight was the Atmospheric Laboratory for Applications and Science-2 (ATLAS-2), designed to collect data on</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-56-20260801.mp3" type="audio/mpeg" length="1352832"/>
+      <guid isPermaLink="false">space-sts-56-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 20:46:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-45</title>
       <description>STS-45 was a 1992 NASA Space Shuttle mission using the Space Shuttle Atlantis. Its almost nine-day scientific mission was with a non-deployable payload of instruments. It was the 46th Space Shuttle mission and the 11th for Atlantis.
 
