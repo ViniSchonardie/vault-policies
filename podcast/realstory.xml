@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ivan Cankar</title>
+      <description>Ivan Cankar (pronounced [ˈíːʋan ˈtsàːŋkaɾ], ) (10 May 1876 – 11 December 1918) was a Slovene writer, playwright, essayist, poet, and political activist. Together with Oton Župančič, Dragotin Kette, and Josip Murn, he is considered as the beginner of modernism in Slovene literature. He is regarded as the greatest writer in Slovene, and has sometimes been compared to Franz Kafka and James Joyce.
+
+
+=</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ivan-cankar-20260801.mp3" type="audio/mpeg" length="1471488"/>
+      <guid isPermaLink="false">realstory-ivan-cankar-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 19:20:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Lloyd Stephens</title>
       <description>John Lloyd Stephens (November 28, 1805 – October 13, 1852) was an American explorer, writer, and diplomat. He was a pivotal figure in the rediscovery of Maya civilization throughout Middle America. He was also a driving force behind the building of the Panama Canal Railway in the 1850s, which in turn was instrumental to the construction of the Panama Canal.
 
