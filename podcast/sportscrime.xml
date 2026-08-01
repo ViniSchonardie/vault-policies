@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lochtegate</title>
+      <description>Lochtegate is the colloquial name of the scandal involving United States swim team members Ryan Lochte, Jimmy Feigen, Gunnar Bentz, and Jack Conger during the 2016 Summer Olympics held in Rio de Janeiro, Brazil. While initial news stories reported that Lochte and three other US swimmers had been robbed at gunpoint after a night out in Rio, later details emerged that the "armed robbers posing as po</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/lochtegate-20260801.mp3" type="audio/mpeg" length="1274880"/>
+      <guid isPermaLink="false">sportscrime-lochtegate-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 20:10:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Therese Johaug</title>
       <description>Therese Johaug (born 25 June 1988) is a Norwegian former cross-country skier from the village of Dalsbygda in Os Municipality. In World Ski Championships she won ten individual gold medals along with four gold medals in relays, and she is a four-time Olympic gold medallist.
 
