@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gongxianosaurus</title>
+      <description>Gongxianosaurus is a genus of basal sauropod dinosaur from the early Jurassic Period (Sinemurian-Pliensbachian stage). The only species is Gongxianosaurus shibeiensis. Based on four fragmentary to complete specimens found in the Ziliujing Formation, China (Sichuan Province), it is one of the most completely known early sauropods. The skeleton is known in large part, missing both the hand and the m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/gongxianosaurus-20260801.mp3" type="audio/mpeg" length="1474944"/>
+      <guid isPermaLink="false">prehistoric-gongxianosaurus-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 13:42:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ostafrikasaurus</title>
       <description>Ostafrikasaurus is a potentially dubious genus of theropod dinosaur from the Late Jurassic period of what is now Lindi Region, Tanzania. It is known only from fossil teeth discovered sometime between 1909 and 1912, during an expedition to the Tendaguru Formation by the Natural History Museum of Berlin. Eight teeth were originally attributed to the dubious dinosaur genus Labrosaurus, and later to C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ostafrikasaurus-20260731.mp3" type="audio/mpeg" length="1354368"/>
