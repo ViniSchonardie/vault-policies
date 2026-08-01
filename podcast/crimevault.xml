@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Linda Hazzard</title>
+      <description>Linda Laura Hazzard, nicknamed the "Starvation Doctor", was an American quack, swindler, and convicted serial killer noted for her promotion of fasting, pummeling and hours-long enemas as treatments. In 1911, Hazzard was found guilty of manslaughter in the state of Washington and was sentenced to 2 to 20 years of hard labor for killing at least 15 people for financial gain at a sanitarium she oper</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/linda-hazzard-20260801.mp3" type="audio/mpeg" length="1440768"/>
+      <guid isPermaLink="false">crime-linda-hazzard-20260801</guid>
+      <pubDate>Sat, 01 Aug 2026 19:04:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Schmid</title>
       <description>Charles Howard Schmid Jr., also known as the Pied Piper of Tucson, was an American serial killer whose crimes were detailed by journalist Don Moser in an article featured in the March 4, 1966, issue of Life magazine. Schmid's criminal career later formed the basis for "Where Are You Going, Where Have You Been?", a short story by Joyce Carol Oates. In 2008, The Library of America selected Moser's a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-schmid-20260801.mp3" type="audio/mpeg" length="1344384"/>
