@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Karl Denke</title>
+      <description>Karl Denke  was a German serial killer and cannibal who killed and cannibalized dozens of homeless vagrants and travellers from 1903 to 1924. He has been nicknamed the Cannibal of Münsterberg and the Forgotten Cannibal.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/karl-denke-20260802.mp3" type="audio/mpeg" length="1247616"/>
+      <guid isPermaLink="false">crime-karl-denke-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 19:06:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eric Edgar Cooke</title>
       <description>Eric Edgar Cooke, nicknamed the Night Caller and later the Nedlands Monster, was an Australian serial killer who terrorised the city of Perth, Western Australia, from September 1958 to August 1963. Cooke committed at least 20 violent crimes, eight of which resulted in deaths.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/eric-edgar-cooke-20260802.mp3" type="audio/mpeg" length="1530240"/>
