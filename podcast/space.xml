@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-44</title>
+      <description>STS-44 was a NASA Space Shuttle mission using Atlantis that launched on November 24, 1991. It was a U.S. Department of Defense (DoD) space mission.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+The launch was on November 24, 1991, at 23:44:00 UTC. A launch set for November 19, 1991, was delayed due to replacement and testing of a malfunctioning redundant inertial measure</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-44-20260802.mp3" type="audio/mpeg" length="1406592"/>
+      <guid isPermaLink="false">space-sts-44-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 17:07:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-97</title>
       <description>STS-97 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. The mission launched from Kennedy Space Center, Florida on 1 December 2000, and was the 15th flight of Endeavour and the 101st Space Shuttle mission. The crew installed the first set of solar arrays to the ISS, prepared a docking port for arrival of the Destiny Laboratory Module, and deli</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-97-20260802.mp3" type="audio/mpeg" length="1472640"/>
