@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2005 Iranian Air Force C-130 crash</title>
+      <description>On 6 December 2005 at 14:10 local time (10:40 UTC), a Lockheed C-130 Hercules four-engine military transport aircraft of the  Islamic Republic of Iran Air Force, tail number 5-8519, crashed into a ten-storey apartment building in a residential area of Tehran, the capital city of Iran.
+
+
+== Accident ==
+The aircraft, bound for Bandar Abbas on the Persian Gulf, was carrying 10 crew and 84 passengers,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2005-iranian-air-force-c-130-crash-20260802.mp3" type="audio/mpeg" length="1501440"/>
+      <guid isPermaLink="false">aviation-2005-iranian-air-force-c-130-crash-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 18:00:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kolavia Flight 348</title>
       <description>On 1 January 2011, Kolavia Flight 348, a Tupolev Tu-154 on a domestic scheduled passenger flight from Surgut to Moscow, Russia, caught fire while taxiing out for take-off. Passengers were evacuated, but three were killed and 43 injured. A subsequent investigation concluded that the fire had started in an electric panel for which maintenance was never prescribed.
 
