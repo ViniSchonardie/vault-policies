@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Crooked River</title>
+      <description>The Battle of Crooked River was a skirmish that occurred on October 25, 1838, and was a major escalator of the 1838 Mormon War. A Mormon rescue party, led by David W. Patten, formed to free three Mormon captives taken from Caldwell County the day prior, clashed with a Ray County militia company commanded by Samuel Bogart southeast of Elmira, Missouri. Exaggerated reports of the battle led Missouri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-crooked-river-20260802.mp3" type="audio/mpeg" length="1531776"/>
+      <guid isPermaLink="false">warvault-battle-of-crooked-river-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 18:06:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Ascalon</title>
       <description>The siege of Ascalon took place from 25 January to 22 August 1153, in the time period between the Second and Third Crusades, and resulted in the capture of the Fatimid Egyptian fortress by the Kingdom of Jerusalem. Ascalon was an important castle that was used by the Fatimids to launch raids into the Crusader kingdom's territory, and by 1153 it was the last coastal city in Palestine that was not c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-ascalon-20260802.mp3" type="audio/mpeg" length="1289088"/>
