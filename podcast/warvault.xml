@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Smerwick</title>
+      <description>The siege of Smerwick took place at Ard na Caithne (the Hill of the Arbutus Tree, known in English as Smerwick) in November 1580, during the Second Desmond Rebellion in Ireland. A force of between 400 and 700 Papal freelance soldiers, mostly of Spanish and Italian origin, landed at Smerwick to support the Catholic rebels. They were forced to retreat to the nearby promontory fort of Dún an Óir, whe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-smerwick-20260802.mp3" type="audio/mpeg" length="1277184"/>
+      <guid isPermaLink="false">warvault-siege-of-smerwick-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 22:06:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Crooked River</title>
       <description>The Battle of Crooked River was a skirmish that occurred on October 25, 1838, and was a major escalator of the 1838 Mormon War. A Mormon rescue party, led by David W. Patten, formed to free three Mormon captives taken from Caldwell County the day prior, clashed with a Ray County militia company commanded by Samuel Bogart southeast of Elmira, Missouri. Exaggerated reports of the battle led Missouri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-crooked-river-20260802.mp3" type="audio/mpeg" length="1531776"/>
