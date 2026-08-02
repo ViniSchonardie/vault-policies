@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-97</title>
+      <description>STS-97 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. The mission launched from Kennedy Space Center, Florida on 1 December 2000, and was the 15th flight of Endeavour and the 101st Space Shuttle mission. The crew installed the first set of solar arrays to the ISS, prepared a docking port for arrival of the Destiny Laboratory Module, and deli</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-97-20260802.mp3" type="audio/mpeg" length="1472640"/>
+      <guid isPermaLink="false">space-sts-97-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 14:42:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-56</title>
       <description>STS-56 was a NASA Space Shuttle Discovery mission to perform special experiments. It was Discovery's 16th flight. The mission was launched from Kennedy Space Center, Florida, on April 8, 1993.
 
