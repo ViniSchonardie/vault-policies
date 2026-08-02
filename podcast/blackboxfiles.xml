@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kolavia Flight 348</title>
+      <description>On 1 January 2011, Kolavia Flight 348, a Tupolev Tu-154 on a domestic scheduled passenger flight from Surgut to Moscow, Russia, caught fire while taxiing out for take-off. Passengers were evacuated, but three were killed and 43 injured. A subsequent investigation concluded that the fire had started in an electric panel for which maintenance was never prescribed.
+
+
+== Accident ==
+On the morning of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kolavia-flight-348-20260802.mp3" type="audio/mpeg" length="1367040"/>
+      <guid isPermaLink="false">aviation-kolavia-flight-348-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 15:02:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thai Airways International Flight 601</title>
       <description>On 30 June 1967, Thai Airways International Flight 601, a Sud Aviation Caravelle III crashed into the sea on landing at the former Kai Tak Airport, Hong Kong, in a typhoon. The aircraft was on a flight from Haneda Airport in Japan to Don Mueang Airport in Thailand. The two stopovers were at Songshan Airport in Taiwan and Kai Tak Airport in British Hong Kong.
 
