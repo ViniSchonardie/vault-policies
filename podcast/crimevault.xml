@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eric Edgar Cooke</title>
+      <description>Eric Edgar Cooke, nicknamed the Night Caller and later the Nedlands Monster, was an Australian serial killer who terrorised the city of Perth, Western Australia, from September 1958 to August 1963. Cooke committed at least 20 violent crimes, eight of which resulted in deaths.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/eric-edgar-cooke-20260802.mp3" type="audio/mpeg" length="1530240"/>
+      <guid isPermaLink="false">crime-eric-edgar-cooke-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 14:46:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Doodler</title>
       <description>The Doodler is an unidentified serial killer believed responsible for between six and sixteen murders and three assaults of men in San Francisco, California, United States, between January 1974 and September 1975. The nickname was given due to the perpetrator's habit of sketching his victims prior to stabbing them to death. The perpetrator met his victims at gay nightclubs, bars and restaurants.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/doodler-20260801.mp3" type="audio/mpeg" length="1382016"/>
