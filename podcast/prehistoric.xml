@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Futabasaurus</title>
+      <description>Futabasaurus is a genus of plesiosaur from the Late Cretaceous of Fukushima, Japan. It was described and named in 2006, and was assigned to the family Elasmosauridae. The genus contains one species, F. suzukii.
+
+
+== Description ==
+ 
+Futabasaurus has been estimated over 6 metres (20 ft) in length, possibly within the range of 6.4–9.2 metres (21–30 ft). It can be distinguished from other elasmosauri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/futabasaurus-20260802.mp3" type="audio/mpeg" length="1092480"/>
+      <guid isPermaLink="false">prehistoric-futabasaurus-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 18:00:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tuojiangosaurus</title>
       <description>Tuojiangosaurus (meaning "Tuo River lizard") is a genus of herbivorous stegosaurian dinosaur from the Late Jurassic Period, recovered from the Upper Shaximiao Formation of what is now Sichuan Province in China.
 
