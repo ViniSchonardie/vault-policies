@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Baiji</title>
+      <description>The baiji (Lipotes vexillifer) is a possibly extinct species of river dolphin native to the Yangtze river system in China. It is thought to possibly be the first dolphin species driven to extinction due to the impact of humans. This dolphin is listed as "critically endangered: possibly extinct" by the IUCN, has not been definitively seen in over 20 years, and several surveys of the Yangtze have fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/baiji-20260802.mp3" type="audio/mpeg" length="1057536"/>
+      <guid isPermaLink="false">nature-baiji-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 16:51:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vampire bat</title>
       <description>Vampire bats, members of the subfamily Desmodontinae, are leaf-nosed bats currently found in Central and South America. Their food source is the blood of other animals, a dietary trait called hematophagy. Three extant bat species feed solely on blood: the common vampire bat (Desmodus rotundus), the hairy-legged vampire bat (Diphylla ecaudata), and the white-winged vampire bat (Diaemus youngi). Two</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/vampire-bat-20260802.mp3" type="audio/mpeg" length="1328640"/>
