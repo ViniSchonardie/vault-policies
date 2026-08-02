@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-110</title>
+      <description>STS-110 was a Space Shuttle mission to the International Space Station (ISS) on 8–19 April 2002 flown by Space Shuttle Atlantis. The main purpose was to install the S0 Truss segment, which forms the backbone of the truss structure on the station.
+
+
+== Crew ==
+
+
+== Mission highlights ==
+
+The main purpose of STS-110 was to attach the stainless steel S0 Truss segment to the International Space Statio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-110-20260802.mp3" type="audio/mpeg" length="1335936"/>
+      <guid isPermaLink="false">space-sts-110-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 20:50:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-44</title>
       <description>STS-44 was a NASA Space Shuttle mission using Atlantis that launched on November 24, 1991. It was a U.S. Department of Defense (DoD) space mission.
 
