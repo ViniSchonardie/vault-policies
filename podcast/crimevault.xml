@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wisconsin Sikh temple shooting</title>
+      <description>The Wisconsin Sikh temple shooting was a mass shooting that took place at the gurdwara in Oak Creek, Wisconsin, on August 5, 2012, when 40-year-old Wade Michael Page fatally shot six people and wounded four others. A seventh victim died of his wounds in 2020. Page committed suicide by shooting himself in the head.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wisconsin-sikh-temple-shooting-20260802.mp3" type="audio/mpeg" length="1203840"/>
+      <guid isPermaLink="false">crime-wisconsin-sikh-temple-shooting-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 22:50:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Karl Denke</title>
       <description>Karl Denke  was a German serial killer and cannibal who killed and cannibalized dozens of homeless vagrants and travellers from 1903 to 1924. He has been nicknamed the Cannibal of Münsterberg and the Forgotten Cannibal.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/karl-denke-20260802.mp3" type="audio/mpeg" length="1247616"/>
