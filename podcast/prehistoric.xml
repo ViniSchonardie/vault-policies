@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tuojiangosaurus</title>
+      <description>Tuojiangosaurus (meaning "Tuo River lizard") is a genus of herbivorous stegosaurian dinosaur from the Late Jurassic Period, recovered from the Upper Shaximiao Formation of what is now Sichuan Province in China.
+
+
+== Description ==
+
+Tuojiangosaurus was a large stegosaur, reaching 6.5 metres (21 ft) in length and 2.8 metric tons (3.1 short tons) in body mass. Physically similar to the North American</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/tuojiangosaurus-20260802.mp3" type="audio/mpeg" length="1333632"/>
+      <guid isPermaLink="false">prehistoric-tuojiangosaurus-20260802</guid>
+      <pubDate>Sun, 02 Aug 2026 13:42:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ceratosuchops</title>
       <description>Ceratosuchops (meaning "horned crocodile face") is a genus of spinosaurid from the Early Cretaceous (Barremian) Wessex Formation of Britain. The type species is C. inferodios, known from skull fragments (a snout tip and a partial braincase) recovered between 2013–2017 from Chilton Chine on the Isle of Wight, and housed at the Dinosaur Isle Museum in Sandown. It was named in 2021 by a team consisti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ceratosuchops-20260801.mp3" type="audio/mpeg" length="1357056"/>
