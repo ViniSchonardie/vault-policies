@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aviastar-TU Flight 1906</title>
+      <description>Aviastar-TU Flight 1906 was a Tupolev Tu-204 that crashed while attempting to land at Domodedovo International Airport, Moscow, Russia, in heavy fog on 22 March 2010. The aircraft was on a ferry flight from Hurghada International Airport, Egypt to Moscow, and had no passengers on board; all eight crew survived the accident, four with serious injuries requiring hospitalization and four with minor i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviastar-tu-flight-1906-20260803.mp3" type="audio/mpeg" length="1439616"/>
+      <guid isPermaLink="false">aviation-aviastar-tu-flight-1906-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 16:22:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2017 Myanmar Air Force Shaanxi Y-8 crash</title>
       <description>On 7 June 2017, a Shaanxi Y-8 aircraft of the Myanmar Air Force crashed on a flight from Myeik to Yangon, killing all 122 people on board. Debris from the aircraft was found in the Andaman Sea, 118 nautical miles (218 km) off Dawei by Myanmar Navy ships. It is the deadliest aviation accident in Myanmar's history.
 
