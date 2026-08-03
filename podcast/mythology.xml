@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Baldr</title>
+      <description>Baldr in Old Norse (later Balder in Mainland Nordic, Baldur in Insular Nordic), Bældæġ in Old English, Balder or Palter in Old High German, is a god in Germanic mythology. In Norse mythology, he is a son of the god Odin and the goddess Frigg, and has numerous brothers, such as Thor and Váli.
+During the 12th century, Danish accounts by Saxo Grammaticus and other Danish Latin chroniclers recorded a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/baldr-20260803.mp3" type="audio/mpeg" length="1041408"/>
+      <guid isPermaLink="false">mythology-baldr-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 17:47:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guan Yu</title>
       <description>Guan Yu ([kwán ỳ] ; d. January or February 220), courtesy name Yunchang, was a Chinese military general serving under the warlord Liu Bei during the late Eastern Han dynasty of China. Along with Zhang Fei, he shared a brotherly relationship with Liu Bei and accompanied him on most of his early exploits. Guan Yu played a significant role in the events leading up to the end of the Han dynasty and th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/guan-yu-20260802.mp3" type="audio/mpeg" length="1300608"/>
