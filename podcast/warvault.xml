@@ -17,6 +17,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Lachish</title>
+      <description>The siege of Lachish was the Neo-Assyrian Empire's siege and conquest of the town of Lachish in 701 BC. The siege is documented in several sources including the Hebrew Bible, Assyrian documents and in the Lachish relief, a well-preserved series of reliefs which once decorated the Assyrian king Sennacherib's palace at Nineveh.
+
+
+== Background ==
+
+Several kingdoms in the Levant ceased to pay taxes t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-lachish-20260803.mp3" type="audio/mpeg" length="1339392"/>
+      <guid isPermaLink="false">warvault-siege-of-lachish-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 15:46:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Smerwick</title>
       <description>The siege of Smerwick took place at Ard na Caithne (the Hill of the Arbutus Tree, known in English as Smerwick) in November 1580, during the Second Desmond Rebellion in Ireland. A force of between 400 and 700 Papal freelance soldiers, mostly of Spanish and Italian origin, landed at Smerwick to support the Catholic rebels. They were forced to retreat to the nearby promontory fort of Dún an Óir, whe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-smerwick-20260802.mp3" type="audio/mpeg" length="1277184"/>
