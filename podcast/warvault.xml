@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Nice</title>
+      <description>The siege of Nice occurred in 1543 and was part of the Italian War of 1542–46 in which Francis I and Suleiman the Magnificent collaborated as part of the Franco-Ottoman alliance against the Holy Roman Emperor Charles V, and Henry VIII of England. At that time, Nice was under the control of Charles III, Duke of Savoy, an ally of Charles V.
+The siege was part of the 1543–1544 Mediterranean campaign </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-nice-20260803.mp3" type="audio/mpeg" length="1265280"/>
+      <guid isPermaLink="false">warvault-siege-of-nice-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 18:56:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Lachish</title>
       <description>The siege of Lachish was the Neo-Assyrian Empire's siege and conquest of the town of Lachish in 701 BC. The siege is documented in several sources including the Hebrew Bible, Assyrian documents and in the Lachish relief, a well-preserved series of reliefs which once decorated the Assyrian king Sennacherib's palace at Nineveh.
 
