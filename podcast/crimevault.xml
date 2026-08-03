@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Faryion Wardrip</title>
+      <description>Faryion Edward Wardrip is an American serial killer who sexually assaulted and murdered five women. Four of the women were killed in Wichita Falls, Texas, and the surrounding counties, and one woman was murdered in Fort Worth. Wardrip's killing spree began at the end of 1984 and lasted until the middle of 1986. All of his victims were white, were between the ages of 20 and 25, weighed less than 12</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/faryion-wardrip-20260803.mp3" type="audio/mpeg" length="1261056"/>
+      <guid isPermaLink="false">crime-faryion-wardrip-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 19:28:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Straffen</title>
       <description>John Thomas Straffen was an English serial killer who committed the murder of three prepubescent girls between the ages of five and nine in the counties of Somerset and Berkshire, England, between 1951 and 1952.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-straffen-20260803.mp3" type="audio/mpeg" length="1275648"/>
