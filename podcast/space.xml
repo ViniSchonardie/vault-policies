@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-98</title>
+      <description>STS-98 was a 2001 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Atlantis. It was the first human spaceflight launch of the 21st century. STS-98 delivered to the station the Destiny Laboratory Module. All mission objectives were completed and the shuttle reentered and landed safely at Edwards Air Force Base on 20 February 2001, after twelve days in space, si</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-98-20260803.mp3" type="audio/mpeg" length="1419264"/>
+      <guid isPermaLink="false">space-sts-98-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 21:03:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-85</title>
       <description>STS-85 was the 23rd flight of Space Shuttle Discovery that performed multiple space science packages. It was launched from Kennedy Space Center, Florida, on 7 August 1997. The main STS-85 payloads included the satellite known as Cryogenic Infrared Spectrometers and Telescopes for the Atmosphere-Shuttle Pallet Satellite-2 CRISTA-SPAS-02. 
 
