@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-26</title>
+      <description>Soyuz MS-26, Russian production No. 757 and identified by NASA as Soyuz 72S, was a Russian crewed Soyuz spaceflight launched from Site 31/6 at the Baikonur Cosmodrome on 11 September 2024 to the International Space Station. The mission transported three crew members, Roscosmos cosmonauts Aleksey Ovchinin and Ivan Vagner, along with NASA astronaut Donald Pettit.
+When the spacecraft crossed the Karm</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-26-20260803.mp3" type="audio/mpeg" length="1291776"/>
+      <guid isPermaLink="false">space-soyuz-ms-26-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 15:50:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-110</title>
       <description>STS-110 was a Space Shuttle mission to the International Space Station (ISS) on 8–19 April 2002 flown by Space Shuttle Atlantis. The main purpose was to install the S0 Truss segment, which forms the backbone of the truss structure on the station.
 
