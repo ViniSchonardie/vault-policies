@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bacillus subtilis</title>
+      <description>Bacillus subtilis, known also as the hay bacillus or grass bacillus, is a Gram-positive, catalase-positive bacterium, found in soil and the gastrointestinal tract of ruminants, humans, and marine sponges. 
+Bacillus subtilis is motile and amylase-positive.  It forms biofilms through the formation of extracellular polymeric matrix containing sugars and proteins.
+As a member of the genus Bacillus, B.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bacillus-subtilis-20260803.mp3" type="audio/mpeg" length="1323264"/>
+      <guid isPermaLink="false">nature-bacillus-subtilis-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 14:49:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Yutyrannus</title>
       <description>Yutyrannus (meaning "feathered tyrant") is a genus of proceratosaurid tyrannosauroid dinosaur which contains a single known species, Yutyrannus huali. This species lived during the early Cretaceous period in what is now northeastern China. Three fossils of Yutyrannus huali — all found in the rock beds of Liaoning Province — are the largest-known dinosaur specimens that preserve direct evidence of </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/yutyrannus-20260802.mp3" type="audio/mpeg" length="1298688"/>
