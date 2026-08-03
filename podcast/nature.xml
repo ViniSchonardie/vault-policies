@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Alligator snapping turtle</title>
+      <description>The alligator snapping turtle (Macrochelys temminckii) is a large species of turtle in the family Chelydridae. They are the largest freshwater turtle in North America. The species is endemic to freshwater habitats in the United States. M. temminckii is one of the heaviest living freshwater turtles in the world. It is often associated with, but not closely related to, the common snapping turtle, wh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/alligator-snapping-turtle-20260803.mp3" type="audio/mpeg" length="1399680"/>
+      <guid isPermaLink="false">nature-alligator-snapping-turtle-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bacillus subtilis</title>
       <description>Bacillus subtilis, known also as the hay bacillus or grass bacillus, is a Gram-positive, catalase-positive bacterium, found in soil and the gastrointestinal tract of ruminants, humans, and marine sponges. 
 Bacillus subtilis is motile and amylase-positive.  It forms biofilms through the formation of extracellular polymeric matrix containing sugars and proteins.
