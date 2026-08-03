@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Snakehead (fish)</title>
+      <description>The snakeheads are members of the freshwater perciform fish family Channidae, native to parts of Africa and Asia. These elongated, predatory fish are distinguished by their long dorsal fins, large mouths, and shiny teeth. They breathe air with gills, which allows them to migrate short distances over land. They have suprabranchial organs, which are primitive forms of labyrinth organs, that develop </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snakehead-fish-20260803.mp3" type="audio/mpeg" length="1180032"/>
+      <guid isPermaLink="false">nature-snakehead-fish-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 21:13:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alligator snapping turtle</title>
       <description>The alligator snapping turtle (Macrochelys temminckii) is a large species of turtle in the family Chelydridae. They are the largest freshwater turtle in North America. The species is endemic to freshwater habitats in the United States. M. temminckii is one of the heaviest living freshwater turtles in the world. It is often associated with, but not closely related to, the common snapping turtle, wh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/alligator-snapping-turtle-20260803.mp3" type="audio/mpeg" length="1399680"/>
