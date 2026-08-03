@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Belavia Flight 1834</title>
+      <description>Belavia  Flight 1834 was a scheduled international passenger flight from Yerevan, Armenia, to Minsk, Belarus, operated by Belavia. On the morning of 14 February 2008, the Bombardier Canadair Regional Jet carrying 18 passengers and three crew crashed and burst into flames shortly after takeoff from Zvartnots International Airport near Yerevan, the capital of Armenia. All on board survived, with at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/belavia-flight-1834-20260803.mp3" type="audio/mpeg" length="954240"/>
+      <guid isPermaLink="false">aviation-belavia-flight-1834-20260803</guid>
+      <pubDate>Mon, 03 Aug 2026 18:46:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aviastar-TU Flight 1906</title>
       <description>Aviastar-TU Flight 1906 was a Tupolev Tu-204 that crashed while attempting to land at Domodedovo International Airport, Moscow, Russia, in heavy fog on 22 March 2010. The aircraft was on a ferry flight from Hurghada International Airport, Egypt to Moscow, and had no passengers on board; all eight crew survived the accident, four with serious injuries requiring hospitalization and four with minor i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviastar-tu-flight-1906-20260803.mp3" type="audio/mpeg" length="1439616"/>
