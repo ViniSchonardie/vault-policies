@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Spinophorosaurus</title>
+      <description>Spinophorosaurus is a genus of sauropod dinosaur that lived in what is now Niger during the Middle Jurassic period. The first two specimens were excavated in the 2000s by German and Spanish teams under difficult conditions. The skeletons were brought to Europe and digitally replicated, making Spinophorosaurus the first sauropod to have its skeleton 3D printed, and were to be returned to Niger in t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/spinophorosaurus-20260804.mp3" type="audio/mpeg" length="1424640"/>
+      <guid isPermaLink="false">prehistoric-spinophorosaurus-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 18:29:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vouivria</title>
       <description>Vouivria is a genus of herbivorous sauropod dinosaur, belonging to the Brachiosauridae, that lived in the area of present France during the Late Jurassic. The type and only known species is Vouivria damparisensis. It is based on a specimen once commonly referred to as the "French Bothriospondylus" in the scientific literature, as the specimen was once identified as Bothriospondylus madagascariensi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/vouivria-20260804.mp3" type="audio/mpeg" length="1303296"/>
