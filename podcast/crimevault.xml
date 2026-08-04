@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peter Dupas</title>
+      <description>Peter Norris Dupas is an Australian convicted serial killer, currently serving three life sentences without parole for murder and primarily for being a serious habitual offender. He has a very significant criminal history involving serious sexual and violent offences, with his violent criminal history spanning more than three decades, and with every release from prison has been known to commit fur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-dupas-20260804.mp3" type="audio/mpeg" length="1346688"/>
+      <guid isPermaLink="false">crime-peter-dupas-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 22:57:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George Joseph Smith</title>
       <description>George Joseph Smith was an English serial killer and bigamist who was convicted and subsequently hanged for the murders of three women in 1915. The case became known as the Brides in the Bath Murders. As well as being widely reported in the media, it was significant in the history of forensic pathology and detection. It was also one of the first cases in which striking similarities between connect</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/george-joseph-smith-20260804.mp3" type="audio/mpeg" length="1312896"/>
