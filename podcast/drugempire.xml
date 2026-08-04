@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eastman Gang</title>
+      <description>The Eastman Gang was a predominantly Jewish-American street gang that dominated parts of the underworld in New York City during the late 1890s until the early 1910s. Along with the increasingly Italian-American and Italian immigrant Five Points Gang under Italian-American Paolo Antonio Vaccarelli, best known by his pseudonym Paul Kelly, the Eastman gang succeeded the long dominant Whyos as the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/eastman-gang-20260804.mp3" type="audio/mpeg" length="1198080"/>
+      <guid isPermaLink="false">drugempire-eastman-gang-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 16:58:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dead Rabbits</title>
       <description>The Dead Rabbits were an Irish American criminal street gang active in Lower Manhattan in the 1830s to 1850s. The Dead Rabbits were so named after a dead rabbit was thrown into the center of the room during a gang meeting, prompting some members to treat this as an omen, withdraw, and form an independent gang. Their battle symbol was a dead rabbit on a pike. They often clashed with Nativist politi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/dead-rabbits-20260803.mp3" type="audio/mpeg" length="1479936"/>
