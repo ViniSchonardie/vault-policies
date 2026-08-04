@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Palikao</title>
+      <description>The Battle of Palikao (French: La bataille de Palikao; simplified Chinese: 八里桥之战; traditional Chinese: 八里橋之戰; pinyin: Bālǐqiáo zhī zhàn; lit. 'Battle of the Eight-Mile Bridge') was fought at the bridge of Baliqiao by Anglo-French forces against the Qing dynasty of China during the Second Opium War on the morning of 21 September 1860. It allowed Western forces to take the capital Beijing and eventu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-palikao-20260804.mp3" type="audio/mpeg" length="1355136"/>
+      <guid isPermaLink="false">warvault-battle-of-palikao-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 15:26:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Halicarnassus</title>
       <description>The siege of Halicarnassus was fought between Alexander the Great and the Achaemenid Persian Empire in 334 BC. Alexander, who had no navy, was constantly being threatened by the Persian navy. It continuously attempted to provoke an engagement with Alexander, who would not oblige them. Eventually, the Persian fleet sailed to Halicarnassus, in order to establish a new defense. Ada of Caria, the form</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-halicarnassus-20260803.mp3" type="audio/mpeg" length="987264"/>
