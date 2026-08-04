@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hewa Bora Airways Flight 952</title>
+      <description>On 8 July 2011, Hewa Bora Airways Flight 952, a Boeing 727 passenger jet on a domestic flight from Kinshasa, to Kisangani, Democratic Republic of the Congo (DRC), crashed on final approach at Kisangani, killing 77 of the 115 people on board.
+
+
+== Accident ==
+Hewa Bora Airways Flight 952 had taken off on 8 July from Kinshasa's N'djili Airport with 112 passengers and 6 crew on board bound for Kisang</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/hewa-bora-airways-flight-952-20260804.mp3" type="audio/mpeg" length="1195008"/>
+      <guid isPermaLink="false">aviation-hewa-bora-airways-flight-952-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 22:06:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1961 F-84 Thunderstreak incident</title>
       <description>The 1961 F-84 Thunderstreak incident, occurring on 14 September 1961, was an incident during the Cold War, in which two Republic F-84F Thunderstreak fighter-bombers of JaBoG 32 of the German Air Force (Luftwaffe) crossed into East German airspace because of a navigational error, before landing at Berlin Tegel Airport. The two planes successfully evaded a large number of Soviet fighter planes by fi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1961-f-84-thunderstreak-incident-20260804.mp3" type="audio/mpeg" length="1382016"/>
