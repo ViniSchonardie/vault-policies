@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bombardier beetle</title>
+      <description>Bombardier beetles are adephagan ground beetles (Carabidae) in the Brachininae or Paussinae subfamilies—more than 500 species altogether—which are most notable for the defense mechanism that gives them their name: when disturbed, they eject a hot, noxious chemical spray from their pygidial glands with a popping sound.
+The spray is produced from a catalyzed reaction between hydroquinone and hydroge</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bombardier-beetle-20260804.mp3" type="audio/mpeg" length="1377792"/>
+      <guid isPermaLink="false">nature-bombardier-beetle-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 14:25:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snakehead (fish)</title>
       <description>The snakeheads are members of the freshwater perciform fish family Channidae, native to parts of Africa and Asia. These elongated, predatory fish are distinguished by their long dorsal fins, large mouths, and shiny teeth. They breathe air with gills, which allows them to migrate short distances over land. They have suprabranchial organs, which are primitive forms of labyrinth organs, that develop </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snakehead-fish-20260803.mp3" type="audio/mpeg" length="1180032"/>
