@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1961 F-84 Thunderstreak incident</title>
+      <description>The 1961 F-84 Thunderstreak incident, occurring on 14 September 1961, was an incident during the Cold War, in which two Republic F-84F Thunderstreak fighter-bombers of JaBoG 32 of the German Air Force (Luftwaffe) crossed into East German airspace because of a navigational error, before landing at Berlin Tegel Airport. The two planes successfully evaded a large number of Soviet fighter planes by fi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1961-f-84-thunderstreak-incident-20260804.mp3" type="audio/mpeg" length="1382016"/>
+      <guid isPermaLink="false">aviation-1961-f-84-thunderstreak-incident-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 18:27:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aviogenex Flight 130</title>
       <description>Aviogenex Flight 130 was an international charter passenger flight from Gatwick Airport, London to Rijeka Airport, Yugoslavia (modern-day Croatia). On 23 May 1971, the Tupolev Tu-134A servicing the flight suffered structural failure during landing. The aircraft flipped over and caught fire, killing 78 out of 83 people. There were 5 survivors. The crash became the first fatal accident of the Tupole</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviogenex-flight-130-20260804.mp3" type="audio/mpeg" length="1427328"/>
