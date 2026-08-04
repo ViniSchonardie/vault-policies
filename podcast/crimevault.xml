@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>David Alan Gore</title>
+      <description>David Alan Gore was an American serial killer who committed six murders in Vero Beach and Indian River County, Florida, from 1981 to 1983. He was accompanied in several of the murders by his cousin, Fred Waterfield, and both have collectively been dubbed the Killing Cousins. Gore was sentenced to death and executed by lethal injection in 2012, having been on Florida's death row for twenty-eight ye</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-alan-gore-20260804.mp3" type="audio/mpeg" length="1310976"/>
+      <guid isPermaLink="false">crime-david-alan-gore-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 15:34:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rosemary West</title>
       <description>Rosemary Pauline West is an English serial killer who collaborated with her husband, Fred West, in the torture and murder of at least ten young women between 1973 and 1987; she also murdered her eight-year-old stepdaughter, Charmaine, in 1971. The majority of these murders took place at the West residence at 25 Cromwell Street in Gloucester.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/rosemary-west-20260803.mp3" type="audio/mpeg" length="1433856"/>
