@@ -17,6 +17,29 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-90</title>
+      <description>STS-90 was a 1998 Space Shuttle mission flown by the Space Shuttle Columbia. The 16-day mission marked the last flight of the European Space Agency's Spacelab laboratory module, which had first flown on Columbia on STS-9, and was also the last daytime landing for Columbia.
+
+
+== Crew ==
+
+
+=== Backup crew ===
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+Neurolab was a Spacelab module </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-90-20260804.mp3" type="audio/mpeg" length="1455744"/>
+      <guid isPermaLink="false">space-sts-90-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 21:11:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-94</title>
       <description>STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.
 
