@@ -17,6 +17,28 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-67</title>
+      <description>STS-67 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on March 2, 1995.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+
+=== Ultraviolet Imaging Experiments ===
+Astro-2 was the second dedicated Spacelab mission to conduct astronomical observations in the ultraviolet spectral regions (the first was the Astro-1 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-67-20260804.mp3" type="audio/mpeg" length="1469184"/>
+      <guid isPermaLink="false">space-sts-67-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 15:31:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-98</title>
       <description>STS-98 was a 2001 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Atlantis. It was the first human spaceflight launch of the 21st century. STS-98 delivered to the station the Destiny Laboratory Module. All mission objectives were completed and the shuttle reentered and landed safely at Edwards Air Force Base on 20 February 2001, after twelve days in space, si</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-98-20260803.mp3" type="audio/mpeg" length="1419264"/>
