@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aviogenex Flight 130</title>
+      <description>Aviogenex Flight 130 was an international charter passenger flight from Gatwick Airport, London to Rijeka Airport, Yugoslavia (modern-day Croatia). On 23 May 1971, the Tupolev Tu-134A servicing the flight suffered structural failure during landing. The aircraft flipped over and caught fire, killing 78 out of 83 people. There were 5 survivors. The crash became the first fatal accident of the Tupole</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aviogenex-flight-130-20260804.mp3" type="audio/mpeg" length="1427328"/>
+      <guid isPermaLink="false">aviation-aviogenex-flight-130-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 16:14:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Avioimpex Flight 110</title>
       <description>Avioimpex Flight 110 was a scheduled international passenger flight operated by Avioimpex that crashed on 20 November 1993 while flying from Geneva to Skopje. Before the disaster, Flight 110 had deviated from Skopje International Airport to Ohrid Airport due to a blizzard in the Macedonian capital. The plane, a Yakovlev Yak-42, was carrying 108 passengers and eight crew, and crashed about 7 kilome</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avioimpex-flight-110-20260803.mp3" type="audio/mpeg" length="1362048"/>
