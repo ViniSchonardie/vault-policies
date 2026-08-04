@@ -17,6 +17,28 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-94</title>
+      <description>STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.
+
+
+== Crew ==
+
+STS-94 was flown by the same crew that flew STS-83, the only time in the history of human spaceflight that two missions with more than one crewmember had exactly the same crew.
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+This was a reflight of the STS-83 Microgravity Science Lab</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-94-20260804.mp3" type="audio/mpeg" length="1027968"/>
+      <guid isPermaLink="false">space-sts-94-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 17:54:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-67</title>
       <description>STS-67 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on March 2, 1995.
 
