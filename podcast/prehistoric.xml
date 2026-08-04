@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Huayangosaurus</title>
+      <description>Huayangosaurus is a genus of stegosaurian dinosaur from the Middle Jurassic of China. The name derives from "Huayang" (華陽), an alternate name for Sichuan (the province where it was discovered), and "saurus", meaning "lizard". It lived during the Bathonian to Callovian stages, around 165 million years ago, some 20 million years before its famous relative, Stegosaurus appeared in North America. At o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/huayangosaurus-20260804.mp3" type="audio/mpeg" length="1447296"/>
+      <guid isPermaLink="false">prehistoric-huayangosaurus-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 22:22:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spinophorosaurus</title>
       <description>Spinophorosaurus is a genus of sauropod dinosaur that lived in what is now Niger during the Middle Jurassic period. The first two specimens were excavated in the 2000s by German and Spanish teams under difficult conditions. The skeletons were brought to Europe and digitally replicated, making Spinophorosaurus the first sauropod to have its skeleton 3D printed, and were to be returned to Niger in t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/spinophorosaurus-20260804.mp3" type="audio/mpeg" length="1424640"/>
