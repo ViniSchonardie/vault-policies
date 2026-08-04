@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Massacre Canyon</title>
+      <description>The Massacre Canyon battle took place in Nebraska on August 5, 1873, near the Republican River. It was one of the last hostilities between the Pawnee (Pawnee: Chaticks si Chaticks) and the Sioux (or Lakota) and the last battle/massacre between Great Plains Indians in North America. The massacre occurred when a large Sioux war party of over 1,500 Oglala, Brulé, and Sihasapa warriors, led by Two Str</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/massacre-canyon-20260804.mp3" type="audio/mpeg" length="1296384"/>
+      <guid isPermaLink="false">warvault-massacre-canyon-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 18:33:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Palikao</title>
       <description>The Battle of Palikao (French: La bataille de Palikao; simplified Chinese: 八里桥之战; traditional Chinese: 八里橋之戰; pinyin: Bālǐqiáo zhī zhàn; lit. 'Battle of the Eight-Mile Bridge') was fought at the bridge of Baliqiao by Anglo-French forces against the Qing dynasty of China during the Second Opium War on the morning of 21 September 1860. It allowed Western forces to take the capital Beijing and eventu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-palikao-20260804.mp3" type="audio/mpeg" length="1355136"/>
