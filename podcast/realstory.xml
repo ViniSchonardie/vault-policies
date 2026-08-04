@@ -17,6 +17,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Innocenzo Manzetti</title>
+      <description>Innocenzo Vincenzo Bartolomeo Luigi Carlo Manzetti (Italian pronunciation: [innoˈtʃɛntso manˈdzetti]; 17 March 1826 – 15 March 1877) was an Italian inventor born in Aosta. Following his primary school studies he went to the Jesuit-run Saint Bénin Boarding School and then on to Turin where he was awarded a diploma in land surveying before returning to Aosta.
+
+
+== Inventions ==
+
+
+=== Automaton ===
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/innocenzo-manzetti-20260804.mp3" type="audio/mpeg" length="1284864"/>
+      <guid isPermaLink="false">realstory-innocenzo-manzetti-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 22:06:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aleksei Gastev</title>
       <description>Aleksei Kapitonovich Gastev (Russian: Алексей Капитонович Гастев) (8 October 1882, Suzdal,  Vladimir  Governorate – 15 April 1939, Kommunarka, Moscow) was a Russian revolutionary, a pioneering theorist of the scientific management of labour in Soviet Russia, a trade-union activist, and an avant-garde writer and poet. His idea on labor management is one of the prototypes that Russian writer Yevgeny</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/aleksei-gastev-20260804.mp3" type="audio/mpeg" length="1259904"/>
