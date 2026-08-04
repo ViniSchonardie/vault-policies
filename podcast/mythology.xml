@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Týr</title>
+      <description>Týr (; Old Norse: Týr, pronounced [tyːr]) is a god in Germanic mythology and member of the Æsir. In Norse mythology, which provides most of the surviving narratives about gods among the Germanic peoples, Týr sacrifices his right hand to the monstrous wolf Fenrir, who bites it off when he realizes the gods have bound him. Týr is foretold of being consumed by the similarly monstrous dog Garmr during</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/tr-20260804.mp3" type="audio/mpeg" length="542208"/>
+      <guid isPermaLink="false">mythology-tr-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 21:10:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eos</title>
       <description>In ancient Greek mythology and religion, Eos (; Ionic and Homeric Greek Ἠώς Ēṓs, Attic Ἕως Héōs, "dawn", pronounced [ɛːɔ̌ːs] or [héɔːs]; Aeolic Αὔως Aúōs, Doric Ἀώς Āṓs) is the goddess and personification of the dawn, who rose each morning from her home at the edge of the river Oceanus to deliver light and disperse the night. In Greek tradition and poetry, she is characterized as a goddess with a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/eos-20260804.mp3" type="audio/mpeg" length="1298688"/>
