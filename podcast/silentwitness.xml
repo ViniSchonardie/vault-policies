@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Maxi Trial</title>
+      <description>The Maxi Trial (Italian: Maxiprocesso) was a criminal trial against the Sicilian Mafia that took place in Palermo, Sicily. The trial lasted from 10 February 1986 (the first day of the Corte d'Assise) to 30 January 1992 (the final day of the Supreme Court of Cassation), and was held in a bunker-style courthouse specially constructed for this purpose inside the walls of the Ucciardone prison.
+Sicili</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/maxi-trial-20260804.mp3" type="audio/mpeg" length="1348608"/>
+      <guid isPermaLink="false">trials-maxi-trial-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 17:54:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lucie Dreyfus</title>
       <description>Lucie Dreyfus-Hadamard (23 August 1869 – 14 December 1945) was the wife of Alfred Dreyfus, a Jewish French Army officer who due to antisemitism was wrongfully accused and convicted of being a German spy and imprisoned on Devil's Island in French Guiana before being exonerated and released.
 
