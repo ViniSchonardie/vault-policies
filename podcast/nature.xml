@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Slow loris</title>
+      <description>Slow lorises are a group of several species of nocturnal strepsirrhine primates that make up the genus Nycticebus. Found in Southeast Asia and nearby areas, they range from Bangladesh and Northeast India in the west to the Sulu Archipelago in the Philippines in the east, and from Yunnan province in China in the north to the island of Java in the south. 
+Although many previous classifications recog</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/slow-loris-20260804.mp3" type="audio/mpeg" length="1033728"/>
+      <guid isPermaLink="false">nature-slow-loris-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 17:34:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bombardier beetle</title>
       <description>Bombardier beetles are adephagan ground beetles (Carabidae) in the Brachininae or Paussinae subfamilies—more than 500 species altogether—which are most notable for the defense mechanism that gives them their name: when disturbed, they eject a hot, noxious chemical spray from their pygidial glands with a popping sound.
 The spray is produced from a catalyzed reaction between hydroquinone and hydroge</description>
