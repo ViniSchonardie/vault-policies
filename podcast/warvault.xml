@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Dobro Pole</title>
+      <description>The Battle of Dobro Pole (Serbian: Битка код Доброг Поља, romanized: Bitka kod Dobrog Polja; Greek: Μάχη του Ντόμπρο Πόλε, romanized: Máchi tou Dóbro Póle), also known as the Breakthrough at Dobro Pole (Bulgarian: Пробив при Добро Поле, romanized: Probiv pri Dobro Pole), was a World War I battle fought between 15 and 18 September 1918. The battle was fought in the initial stage of the Vardar Offen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-dobro-pole-20260805.mp3" type="audio/mpeg" length="1269888"/>
+      <guid isPermaLink="false">warvault-battle-of-dobro-pole-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 15:15:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Second Battle of the Java Sea</title>
       <description>The Second Battle of the Java Sea was the last naval action of the Netherlands East Indies campaign, of 1941–42. It occurred on 1 March 1942, two days after the first Battle of the Java Sea. It saw the end of the last Allied warships operating in the waters around Java, allowing Japanese forces to complete their conquest of the Dutch East Indies unhindered.
 
