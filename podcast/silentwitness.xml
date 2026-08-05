@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Superior Orders</title>
+      <description>Superior orders, also known as just following orders or the Nuremberg defense, is a plea in a court of law that a person, whether civilian, military or police, should not be considered guilty of committing crimes ordered by a superior officer or official. It is regarded as a complement to command responsibility.
+One noted use of this plea or defense was by the accused in the 1945–1946 Nuremberg tr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/superior-orders-20260805.mp3" type="audio/mpeg" length="1180416"/>
+      <guid isPermaLink="false">trials-superior-orders-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 17:32:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chemno Trials</title>
       <description>The Chełmno trials were a series of consecutive war-crime trials of the Chełmno extermination camp personnel, held in Poland and in Germany following World War II. The cases were decided almost twenty years apart. The first judicial trial of the former SS men – members of the SS-Sonderkommando Kulmhof – took place in 1945 at the District Court in Łódź, Poland. The subsequent four trials, held in B</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/chemno-trials-20260805.mp3" type="audio/mpeg" length="1479936"/>
