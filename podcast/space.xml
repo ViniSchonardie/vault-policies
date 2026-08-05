@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-65</title>
+      <description>STS-65 was a Space Shuttle program mission of Columbia launched from Kennedy Space Center, Florida, 8 July 1994. The flight carried a crew of 7 and was commanded by Robert D. Cabana who would go on later to lead the Kennedy Space Center. STS-65 was an international science mission that carried the International Microgravity Laboratory (IML-2) on a 15-day mission which featured the first animals (J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-65-20260805.mp3" type="audio/mpeg" length="1484928"/>
+      <guid isPermaLink="false">space-sts-65-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 15:20:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-90</title>
       <description>STS-90 was a 1998 Space Shuttle mission flown by the Space Shuttle Columbia. The 16-day mission marked the last flight of the European Space Agency's Spacelab laboratory module, which had first flown on Columbia on STS-9, and was also the last daytime landing for Columbia.
 
