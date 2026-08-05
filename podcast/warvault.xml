@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Oxford</title>
+      <description>The siege of Oxford took place during the Anarchy, a period of civil war following the death of Henry I of England without a male heir, in 1142. Fought between his nephew, Stephen of Blois, and his daughter, the Empress Matilda (or Maud), who had recently been expelled from her base in Westminster and chosen the City of Oxford as her new headquarters. Oxford by now was effectively a regional capit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-oxford-20260805.mp3" type="audio/mpeg" length="1414272"/>
+      <guid isPermaLink="false">warvault-siege-of-oxford-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 18:28:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Dobro Pole</title>
       <description>The Battle of Dobro Pole (Serbian: Битка код Доброг Поља, romanized: Bitka kod Dobrog Polja; Greek: Μάχη του Ντόμπρο Πόλε, romanized: Máchi tou Dóbro Póle), also known as the Breakthrough at Dobro Pole (Bulgarian: Пробив при Добро Поле, romanized: Probiv pri Dobro Pole), was a World War I battle fought between 15 and 18 September 1918. The battle was fought in the initial stage of the Vardar Offen</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-dobro-pole-20260805.mp3" type="audio/mpeg" length="1269888"/>
