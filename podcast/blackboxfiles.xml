@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Avianca Flight 671</title>
+      <description>Avianca Flight 671, registration HK-177, was a Lockheed Constellation that crashed and burned on landing at Montego Bay Airport, Montego Bay, Jamaica, on 21 January 1960. The flight had originated at Miami International Airport, Florida. The aircraft operating the flight was a Lockheed L-1049E Super Constellation used by Avianca for its Bogotá-Montego Bay routes. Thirty-seven of the 46 passengers </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-671-20260805.mp3" type="audio/mpeg" length="1347456"/>
+      <guid isPermaLink="false">aviation-avianca-flight-671-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 16:03:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hewa Bora Airways Flight 952</title>
       <description>On 8 July 2011, Hewa Bora Airways Flight 952, a Boeing 727 passenger jet on a domestic flight from Kinshasa, to Kisangani, Democratic Republic of the Congo (DRC), crashed on final approach at Kisangani, killing 77 of the 115 people on board.
 
