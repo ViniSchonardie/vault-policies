@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas Neill Cream</title>
+      <description>Thomas Neill Cream, also known as the Lambeth Poisoner, was a Scottish-Canadian medical doctor and serial killer who poisoned his victims with strychnine. Cream murdered up to ten people in three countries, targeting mostly lower-class women, sex workers and pregnant women seeking abortions. He was convicted and sentenced to death, and was hanged on 15 November 1892.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-neill-cream-20260805.mp3" type="audio/mpeg" length="1411968"/>
+      <guid isPermaLink="false">crime-thomas-neill-cream-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 19:27:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>David Meirhofer</title>
       <description>David Gail Meirhofer was an American serial killer who confessed to four murders in rural Montana between 1967 and 1974 — three of which were of children. Meirhofer killed himself shortly after confessing, and was never tried in court.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-meirhofer-20260805.mp3" type="audio/mpeg" length="1222272"/>
