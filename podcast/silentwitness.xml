@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Summary Execution</title>
+      <description>In civil and military jurisprudence, summary execution (also called field execution) is the putting to death of a person accused of a crime without the benefit of a free and fair trial. The term results from the legal concept of summary justice to punish a summary offense, as in the case of a drumhead court-martial, but the term usually denotes the summary execution of a sentence of death. Under i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/summary-execution-20260805.mp3" type="audio/mpeg" length="1300224"/>
+      <guid isPermaLink="false">trials-summary-execution-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 21:13:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Superior Orders</title>
       <description>Superior orders, also known as just following orders or the Nuremberg defense, is a plea in a court of law that a person, whether civilian, military or police, should not be considered guilty of committing crimes ordered by a superior officer or official. It is regarded as a complement to command responsibility.
 One noted use of this plea or defense was by the accused in the 1945–1946 Nuremberg tr</description>
