@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 10</title>
+      <description>Soyuz 10 (Russian: 'Союз 10', Union 10) was launched on 22 April 1971 as the world's first mission to the world's first space station, the Soviet Salyut 1. The docking was not successful and the crew, Vladimir Shatalov, Aleksei Yeliseyev, and Nikolai Rukavishnikov, returned to Earth without having entered the station. Following difficulties in docking pairs of Soyuz capsules, this would be the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-10-20260805.mp3" type="audio/mpeg" length="1492992"/>
+      <guid isPermaLink="false">space-soyuz-10-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 21:04:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gaofen</title>
       <description>Gaofen (Chinese: 高分; pinyin: Gāofēn; lit. 'high resolution') is a series of Chinese high-resolution Earth imaging satellites launched as part of the China High-resolution Earth Observation System (CHEOS) program.  CHEOS is a state-sponsored, civilian Earth-observation program used for agricultural, disaster, resource, and environmental monitoring. Proposed in 2006 and approved in 2010, the CHEOS p</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gaofen-20260805.mp3" type="audio/mpeg" length="1579392"/>
