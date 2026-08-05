@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gaofen</title>
+      <description>Gaofen (Chinese: 高分; pinyin: Gāofēn; lit. 'high resolution') is a series of Chinese high-resolution Earth imaging satellites launched as part of the China High-resolution Earth Observation System (CHEOS) program.  CHEOS is a state-sponsored, civilian Earth-observation program used for agricultural, disaster, resource, and environmental monitoring. Proposed in 2006 and approved in 2010, the CHEOS p</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gaofen-20260805.mp3" type="audio/mpeg" length="1579392"/>
+      <guid isPermaLink="false">space-gaofen-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 17:47:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-65</title>
       <description>STS-65 was a Space Shuttle program mission of Columbia launched from Kennedy Space Center, Florida, 8 July 1994. The flight carried a crew of 7 and was commanded by Robert D. Cabana who would go on later to lead the Kennedy Space Center. STS-65 was an international science mission that carried the International Microgravity Laboratory (IML-2) on a 15-day mission which featured the first animals (J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-65-20260805.mp3" type="audio/mpeg" length="1484928"/>
