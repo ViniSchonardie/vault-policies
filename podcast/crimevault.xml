@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>David Meirhofer</title>
+      <description>David Gail Meirhofer was an American serial killer who confessed to four murders in rural Montana between 1967 and 1974 — three of which were of children. Meirhofer killed himself shortly after confessing, and was never tried in court.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-meirhofer-20260805.mp3" type="audio/mpeg" length="1222272"/>
+      <guid isPermaLink="false">crime-david-meirhofer-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 15:26:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peter Dupas</title>
       <description>Peter Norris Dupas is an Australian convicted serial killer, currently serving three life sentences without parole for murder and primarily for being a serious habitual offender. He has a very significant criminal history involving serious sexual and violent offences, with his violent criminal history spanning more than three decades, and with every release from prison has been known to commit fur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-dupas-20260804.mp3" type="audio/mpeg" length="1346688"/>
