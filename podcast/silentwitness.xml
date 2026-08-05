@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Giles Corey</title>
+      <description>Giles Corey (bapt.Tooltip baptized 16 August 1611 – 19 September 1692) was an English-born farmer who was accused of witchcraft along with his wife Martha Corey during the Salem witch trials in the Province of Massachusetts Bay. After being arrested, Corey refused to enter a guilty or not guilty plea. He was subjected to torture in the form of peine forte et dure, dying after three days of being c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/giles-corey-20260805.mp3" type="audio/mpeg" length="1262592"/>
+      <guid isPermaLink="false">trials-giles-corey-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 23:56:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Summary Execution</title>
       <description>In civil and military jurisprudence, summary execution (also called field execution) is the putting to death of a person accused of a crime without the benefit of a free and fair trial. The term results from the legal concept of summary justice to punish a summary offense, as in the case of a drumhead court-martial, but the term usually denotes the summary execution of a sentence of death. Under i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/summary-execution-20260805.mp3" type="audio/mpeg" length="1300224"/>
