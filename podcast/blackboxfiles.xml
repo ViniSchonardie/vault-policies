@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1981 Armenia mid-air collision</title>
+      <description>The 1981 Armenia mid-air collision occurred on 18 July 1981 when a Soviet Air Defense Forces Sukhoi Su-15 crashed into the tail of a Transporte Aéreo Rioplatense Canadair CL-44 commercial transport which had strayed into Soviet airspace over the Armenian Soviet Socialist Republic. The three crew and one passenger on the Argentine aircraft died; the Soviet pilot was able to eject to safety.
+
+
+== Ba</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1981-armenia-mid-air-collision-20260805.mp3" type="audio/mpeg" length="1357056"/>
+      <guid isPermaLink="false">aviation-1981-armenia-mid-air-collision-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 18:19:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Avianca Flight 671</title>
       <description>Avianca Flight 671, registration HK-177, was a Lockheed Constellation that crashed and burned on landing at Montego Bay Airport, Montego Bay, Jamaica, on 21 January 1960. The flight had originated at Miami International Airport, Florida. The aircraft operating the flight was a Lockheed L-1049E Super Constellation used by Avianca for its Bogotá-Montego Bay routes. Thirty-seven of the 46 passengers </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-671-20260805.mp3" type="audio/mpeg" length="1347456"/>
