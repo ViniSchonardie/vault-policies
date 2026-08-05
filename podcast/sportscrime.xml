@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>El Maracanazo</title>
+      <description>The Maracanazo of the Chilean team (Spanish: Maracanazo de la selección chilena, also known as Condorazo or Bengalazo) was an incident that happened during the football match between Brazil and Chile at the Maracanã Stadium in Rio de Janeiro on 3 September 1989, in which Chilean goalkeeper Roberto Rojas pretended to be injured by a flare thrown by Brazilian fans. The incident is considered by hist</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/el-maracanazo-20260805.mp3" type="audio/mpeg" length="1082496"/>
+      <guid isPermaLink="false">sportscrime-el-maracanazo-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 23:55:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marcelo Melo</title>
       <description>Marcelo Pinheiro Davi de Melo (Portuguese pronunciation: [maʁˈsɛlu ˈmɛlu]; born September 23, 1983) is a Brazilian professional tennis player who specializes in doubles. He is a former world No. 1, which he achieved on 2 November 2015. Melo is the only Brazilian player who has reached number one in the ATP doubles rankings.
 Melo is a two-time Grand Slam champion in doubles, having won the 2015 Fre</description>
