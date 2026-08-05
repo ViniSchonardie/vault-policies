@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gaboon viper</title>
+      <description>The Gaboon viper (Bitis gabonica), also called the Gaboon adder, is a large and highly venomous species of viper found in the rainforests and savannas of sub-Saharan Africa. It is the largest member of the genus Bitis. Like all other vipers, it is  venomous, and it has the longest fangs of any venomous snake – up to 2 inches (5.1 cm) in length – and the highest venom yield of any snake. No subspec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gaboon-viper-20260805.mp3" type="audio/mpeg" length="1341696"/>
+      <guid isPermaLink="false">nature-gaboon-viper-20260805</guid>
+      <pubDate>Wed, 05 Aug 2026 14:19:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bottlenose dolphin</title>
       <description>The bottlenose dolphin is a toothed whale in the genus Tursiops. They are common, cosmopolitan members of the family Delphinidae, the family of oceanic dolphins. Molecular studies show the genus contains three species: the common bottlenose dolphin (Tursiops truncatus), the Indo-Pacific bottlenose dolphin (Tursiops aduncus), and Tamanend's bottlenose dolphin (Tursiops erebennus). Others, like the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bottlenose-dolphin-20260804.mp3" type="audio/mpeg" length="1503360"/>
