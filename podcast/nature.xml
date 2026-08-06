@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Megamouth shark</title>
+      <description>The megamouth shark (Megachasma pelagios) is a species of deepwater shark. Rarely seen by humans, it measures around 13–18 ft (4–5.5 m) long and is the smallest of the three extant filter-feeding sharks alongside the much larger whale shark and basking shark. According to Sharkman's World Organization, a total of 296 specimens have been observed or caught since its discovery in 1976. Like the othe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/megamouth-shark-20260806.mp3" type="audio/mpeg" length="1108608"/>
+      <guid isPermaLink="false">nature-megamouth-shark-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 14:22:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tiger snake</title>
       <description>The tiger snake (Notechis scutatus) is a large and highly venomous snake of southern Australia, including its coastal islands and Tasmania. These snakes are often observed and locally well known by their banding, black and yellow like a tiger, although the species can be highly variable in colouration and patterning.  All populations are classified within the genus Notechis (Elapidae). Their diver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/tiger-snake-20260805.mp3" type="audio/mpeg" length="1424256"/>
