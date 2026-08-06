@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Anatoly Slivko</title>
+      <description>Anatoly Yemelianovich Slivko was a Soviet serial killer and necrophile who sexually assaulted, murdered, and mutilated seven boys in and around Nevinnomyssk, Stavropol Krai, Russian SFSR, between 1964 and 1985. He is also known to have sexually assaulted at least 36 other victims.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anatoly-slivko-20260806.mp3" type="audio/mpeg" length="1343616"/>
+      <guid isPermaLink="false">crime-anatoly-slivko-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 23:57:29 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Rozier</title>
       <description>Robert Earnest Rozier Jr. is an American murderer and former professional defensive end in gridiron football.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-rozier-20260806.mp3" type="audio/mpeg" length="1263360"/>
