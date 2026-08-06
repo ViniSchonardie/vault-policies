@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Rozier</title>
+      <description>Robert Earnest Rozier Jr. is an American murderer and former professional defensive end in gridiron football.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-rozier-20260806.mp3" type="audio/mpeg" length="1263360"/>
+      <guid isPermaLink="false">crime-robert-rozier-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 15:32:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026 Tumbler Ridge shootings</title>
       <description>On February 10, 2026, a mass shooting occurred in Tumbler Ridge, British Columbia, Canada. On that afternoon, Jessie Van Rootselaar killed her mother and half-brother at their home before going to Tumbler Ridge Secondary School, where she killed six people and injured twenty-seven others before killing herself. Van Rootselaar was a former student of the school.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2026-tumbler-ridge-shootings-20260805.mp3" type="audio/mpeg" length="1098624"/>
