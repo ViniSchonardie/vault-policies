@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-40</title>
+      <description>STS-40, the eleventh launch of Space Shuttle Columbia, was a nine-day mission in June 1991. It carried the Spacelab module for Spacelab Life Sciences 1 (SLS-1), the fifth Spacelab mission and the first dedicated solely to biology. STS-40 was the first spaceflight that included three women crew members.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+The launch was original</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-40-20260806.mp3" type="audio/mpeg" length="1488768"/>
+      <guid isPermaLink="false">space-sts-40-20260806</guid>
+      <pubDate>Thu, 06 Aug 2026 15:21:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 10</title>
       <description>Soyuz 10 (Russian: 'Союз 10', Union 10) was launched on 22 April 1971 as the world's first mission to the world's first space station, the Soviet Salyut 1. The docking was not successful and the crew, Vladimir Shatalov, Aleksei Yeliseyev, and Nikolai Rukavishnikov, returned to Earth without having entered the station. Following difficulties in docking pairs of Soyuz capsules, this would be the fir</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-10-20260805.mp3" type="audio/mpeg" length="1492992"/>
