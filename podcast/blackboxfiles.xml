@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1963 Ankara mid-air collision</title>
+      <description>A mid-air collision occurred on Friday, 1 February 1963, over Ankara, Turkey, when Middle East Airlines Flight 265, a Vickers 754D Viscount completing a flight from Cyprus, came in for landing and collided in the air with a Turkish Air Force Douglas C-47A. After the collision both planes fell directly onto the city below them. All 17 people on board both aircraft died, along with 87 people on the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1963-ankara-mid-air-collision-20260807.mp3" type="audio/mpeg" length="1253376"/>
+      <guid isPermaLink="false">aviation-1963-ankara-mid-air-collision-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 21:31:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Whyalla Airlines Flight 904</title>
       <description>Whyalla Airlines Flight 904 was a scheduled commuter flight, operated by a Piper PA-31 Navajo which crashed while attempting to ditch in the Spencer Gulf, South Australia after suffering failures of both engines on the evening of 31 May 2000. All 8 people on board the aircraft were killed as a result of the accident. The findings of a subsequent investigation by the Australian Transport Safety Bur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/whyalla-airlines-flight-904-20260807.mp3" type="audio/mpeg" length="1313280"/>
