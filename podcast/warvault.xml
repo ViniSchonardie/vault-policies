@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Lewisham</title>
+      <description>The Battle of Lewisham took place on 13 August 1977, when 500 members of the far-right National Front (NF) attempted to march from New Cross to Lewisham in southeast London but were met by various counter-demonstrations of approximately 4,000 people that led to violent clashes between the two groups and between the anti-NF demonstrators and police. 5,000 police officers were present, and 56 office</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-lewisham-20260807.mp3" type="audio/mpeg" length="1378176"/>
+      <guid isPermaLink="false">warvault-battle-of-lewisham-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 21:54:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Quifangondo</title>
       <description>The Battle of Quifangondo (popularly known as Nshila wa Lufu, or Battle of Death Road in Kikongo) was fought on 10 November 1975, near the strategic settlement of Quifangondo, Luanda Province, between the People's Armed Forces of Liberation of Angola (FAPLA), armed wing of the People's Movement for the Liberation of Angola (MPLA), and the National Liberation Army of Angola (ELNA), armed wing of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-quifangondo-20260807.mp3" type="audio/mpeg" length="1327104"/>
