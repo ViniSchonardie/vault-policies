@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flour Massacre</title>
+      <description>The Flour Massacre occurred in the Gaza Strip on 29 February 2024, when at least 118 Palestinians were killed and 760 injured after Israeli forces opened fire while the Palestinians were seeking food from aid trucks on the coastal al-Rashid Street in Gaza City.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/flour-massacre-20260807.mp3" type="audio/mpeg" length="1472256"/>
+      <guid isPermaLink="false">crime-flour-massacre-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 22:29:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2016 Munich shooting</title>
       <description>On 22 July 2016, a mass shooting classified as a right-wing extremist attack occurred in the vicinity of the Olympia shopping mall in the Moosach district of Munich, Germany. The perpetrator, 18-year-old Iranian-German David Sonboly, opened fire on teenagers with migrant background at a McDonald's restaurant before shooting at bystanders in the street outside and then in the mall itself. Nine peop</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2016-munich-shooting-20260807.mp3" type="audio/mpeg" length="1223424"/>
