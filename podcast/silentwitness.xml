@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sanbenito</title>
+      <description>The sanbenito (Spanish: sambenito; Catalan: gramalleta, sambenet, Portuguese: sambenito) was a penitential garment that was used especially during the Portuguese and Spanish Inquisitions. It was similar to a scapular, either yellow with red saltires for penitent heretics or black and decorated with devils and flames for impenitent heretics to wear at an auto-da-fé (meaning 'act of faith').
+
+
+== Et</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/sanbenito-20260807.mp3" type="audio/mpeg" length="1411200"/>
+      <guid isPermaLink="false">trials-sanbenito-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 01:45:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Socrates Voltaire</title>
       <description>Socrates (French: Socrate) is a 1759 French play in three acts written by Voltaire. It is set in Ancient Greece during the events just before the trial and death of Greek philosopher Socrates.  It is heavy with satire specifically at government authority and organized religion. The main characters besides the title role is that of the priest Anitus, his entourage, Socrates' wife Xantippe, several </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-voltaire-20260807.mp3" type="audio/mpeg" length="1462272"/>
