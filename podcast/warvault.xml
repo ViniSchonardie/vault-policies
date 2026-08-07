@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Abbeville</title>
+      <description>The Battle of Abbeville took place from 27 May to 4 June 1940, near Abbeville during the Battle of France in the Second World War. On 20 May, the 2nd Panzer Division advanced 56 mi (90 km) to Abbeville on the English Channel, overran the 25th Infantry Brigade of the 50th (Northumbrian) Infantry Division and captured the town at 8:30 p.m. Only a few British survivors managed to retreat to the south</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-abbeville-20260807.mp3" type="audio/mpeg" length="1461120"/>
+      <guid isPermaLink="false">warvault-battle-of-abbeville-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 14:16:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Hlobane</title>
       <description>The Battle of Hlobane (28 March 1879) took place at Hlobane, near the modern town of Vryheid in KwaZulu-Natal, South Africa during the Anglo-Zulu War.
 
