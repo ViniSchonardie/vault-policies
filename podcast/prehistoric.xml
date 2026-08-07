@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Kinnareemimus</title>
+      <description>Kinnareemimus (, meaning "Kinnaree mimic", after a figure from Thai folklore) is an extinct genus of ornithomimosaurian theropod dinosaur that was discovered in the Early Cretaceous Sao Khua Formation in what is now Thailand.  The genus contains only the type species, K. khonkaenensis.  The specific epithet is after Khon Kaen Province, which is in northeastern Thailand, where the remains of the an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/kinnareemimus-20260807.mp3" type="audio/mpeg" length="1424256"/>
+      <guid isPermaLink="false">prehistoric-kinnareemimus-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 01:07:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cedarosaurus</title>
       <description>Cedarosaurus (meaning "Cedar lizard" - named after the Cedar Mountain Formation, in which it was discovered) is a genus of nasal-crested macronarian sauropod dinosaur from the Early Cretaceous Period (Valanginian). The fossils were discovered in 1996 in eastern Utah within the rocks of the Yellow Cat Member of the Cedar Mountain Formation. It was officially named and described by Tidwell, Carpente</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cedarosaurus-20260806.mp3" type="audio/mpeg" length="1629696"/>
