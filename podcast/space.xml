@@ -17,6 +17,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-104</title>
+      <description>STS-104 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. Its primary objectives were to install the Quest Joint Airlock and help perform maintenance on the International Space Station. It launched on 12 July 2001 at 09:04 UTC, and returned to Earth without incident after successful docking, equipment installation, and three spacewalks.
+
+
+== Crew</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-104-20260807.mp3" type="audio/mpeg" length="1473408"/>
+      <guid isPermaLink="false">space-sts-104-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 00:56:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-40</title>
       <description>STS-40, the eleventh launch of Space Shuttle Columbia, was a nine-day mission in June 1991. It carried the Spacelab module for Spacelab Life Sciences 1 (SLS-1), the fifth Spacelab mission and the first dedicated solely to biology. STS-40 was the first spaceflight that included three women crew members.
 
