@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Socrates Voltaire</title>
+      <description>Socrates (French: Socrate) is a 1759 French play in three acts written by Voltaire. It is set in Ancient Greece during the events just before the trial and death of Greek philosopher Socrates.  It is heavy with satire specifically at government authority and organized religion. The main characters besides the title role is that of the priest Anitus, his entourage, Socrates' wife Xantippe, several </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-voltaire-20260807.mp3" type="audio/mpeg" length="1462272"/>
+      <guid isPermaLink="false">trials-socrates-voltaire-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 00:57:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Giles Corey</title>
       <description>Giles Corey (bapt.Tooltip baptized 16 August 1611 – 19 September 1692) was an English-born farmer who was accused of witchcraft along with his wife Martha Corey during the Salem witch trials in the Province of Massachusetts Bay. After being arrested, Corey refused to enter a guilty or not guilty plea. He was subjected to torture in the form of peine forte et dure, dying after three days of being c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/giles-corey-20260805.mp3" type="audio/mpeg" length="1262592"/>
