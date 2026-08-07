@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2016 Munich shooting</title>
+      <description>On 22 July 2016, a mass shooting classified as a right-wing extremist attack occurred in the vicinity of the Olympia shopping mall in the Moosach district of Munich, Germany. The perpetrator, 18-year-old Iranian-German David Sonboly, opened fire on teenagers with migrant background at a McDonald's restaurant before shooting at bystanders in the street outside and then in the mall itself. Nine peop</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2016-munich-shooting-20260807.mp3" type="audio/mpeg" length="1223424"/>
+      <guid isPermaLink="false">crime-2016-munich-shooting-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 18:53:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Martin Scripps</title>
       <description>John Martin Scripps, also known as the Garden City Butcher, and "Tourist From Hell" was an English serial killer who murdered three tourists—Gerard Lowe in Singapore, and Sheila and Darin Damude in Thailand—with another three potential victims. He posed as a tourist himself when committing the murders. He cut up all his victims' bodies, using butchery skills he had acquired in prison, before dispo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-martin-scripps-20260807.mp3" type="audio/mpeg" length="1424256"/>
