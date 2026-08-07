@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Northern Airlines Flight 6901</title>
+      <description>China Northern Airlines Flight 6901 (CJ6901) was a McDonnell Douglas MD-82 airliner from Beijing's Capital International Airport to Ürümqi Diwopu International Airport in Xinjiang, China. On November 13, 1993, it crashed on approach to Ürümqi Airport. Twelve of the 102 passengers and crew on board were killed. The accident has been attributed to pilot error.
+
+
+== Accident ==
+While on final approac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-northern-airlines-flight-6901-20260807.mp3" type="audio/mpeg" length="1224960"/>
+      <guid isPermaLink="false">aviation-china-northern-airlines-flight-6901-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 14:52:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aloha IslandAir Flight 1712</title>
       <description>Aloha IslandAir Flight 1712 was a scheduled domestic passenger flight that took place on October 28, 1989. The flight originated in Hana Airport, Maui, Hawaiʻi and stopped over in Kahului Airport, Maui. It was scheduled to continue to Molokaʻi Airport, Molokaʻi and then to Honolulu International Airport; however, it crashed while enroute from Kahului to Molokaʻi. The leg in which the aircraft cras</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-islandair-flight-1712-20260807.mp3" type="audio/mpeg" length="1398912"/>
