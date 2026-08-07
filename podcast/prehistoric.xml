@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Iberospinus</title>
+      <description>Iberospinus (meaning "Iberian spine") is an extinct genus of spinosaurid dinosaur from the Early Cretaceous (Barremian) Papo Seco Formation of Portugal. The genus contains a single species, I. natarioi, known from several assorted bones belonging to one individual. Iberospinus represents one of five known spinosaurid taxa from the Iberian Peninsula, the others being Camarillasaurus, Protathlitis, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/iberospinus-20260807.mp3" type="audio/mpeg" length="1095936"/>
+      <guid isPermaLink="false">prehistoric-iberospinus-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 21:47:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lexovisaurus</title>
       <description>Lexovisaurus is a genus of stegosaurian dinosaur known from limb bones and armor fragments from Middle to Late Jurassic-aged strata of Europe.
 
