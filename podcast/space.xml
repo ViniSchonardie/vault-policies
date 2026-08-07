@@ -17,6 +17,25 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-84</title>
+      <description>STS-84 was a crewed spaceflight mission by Space Shuttle Atlantis to the Mir space station.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+The STS-84 mission was the sixth Shuttle/Mir docking mission and is part of the NASA/Mir program which consisted of nine Shuttle-Mir dockings and seven long duration flights of U.S. astronauts aboard the Russian space station. The prior</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-84-20260807.mp3" type="audio/mpeg" length="1277184"/>
+      <guid isPermaLink="false">space-sts-84-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 14:17:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-104</title>
       <description>STS-104 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. Its primary objectives were to install the Quest Joint Airlock and help perform maintenance on the International Space Station. It launched on 12 July 2001 at 09:04 UTC, and returned to Earth without incident after successful docking, equipment installation, and three spacewalks.
 
