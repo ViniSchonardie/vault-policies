@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>TerraSAR-X</title>
+      <description>TerraSAR-X is an imaging radar Earth observation satellite, a joint venture being carried out under a public-private-partnership between the German Aerospace Center (DLR) and EADS Astrium. The exclusive commercial exploitation rights are held by the geo-information service provider Astrium. TerraSAR-X was launched on 15 June 2007 and has been in operational service since January 2008. With its twi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/terrasar-x-20260807.mp3" type="audio/mpeg" length="1347840"/>
+      <guid isPermaLink="false">space-terrasar-x-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 17:02:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-84</title>
       <description>STS-84 was a crewed spaceflight mission by Space Shuttle Atlantis to the Mir space station.
 
