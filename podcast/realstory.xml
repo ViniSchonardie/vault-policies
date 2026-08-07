@@ -17,6 +17,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Emil Lenz</title>
+      <description>Heinrich Friedrich Emil Lenz (German: [ˈeːmɪl ˈlɛnts]; also Emil Khristianovich Lenz; Russian: Эми́лий Христиа́нович Ленц; 24 February [O.S. 12 February] 1804 – 10 February [O.S. 29 January] 1865),  usually cited as Emil Lenz or Heinrich Lenz in some countries, was a Russian physicist of Baltic German descent who is most noted for formulating Lenz's law in electrodynamics in 1834.
+
+
+== Biography =</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/emil-lenz-20260807.mp3" type="audio/mpeg" length="1218432"/>
+      <guid isPermaLink="false">realstory-emil-lenz-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 01:03:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Felice Casorati</title>
       <description>Felice Casorati (17 December 1835 – 11 September 1890) was an Italian mathematician who studied at the University of Pavia. He was born in Pavia and died in Casteggio.
 He is best known for the Casorati–Weierstrass theorem in complex analysis. The theorem, named for Casorati and Karl Theodor Wilhelm Weierstrass, describes the remarkable behaviour of holomorphic functions near essential singularitie</description>
