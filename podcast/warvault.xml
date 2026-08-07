@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Hlobane</title>
+      <description>The Battle of Hlobane (28 March 1879) took place at Hlobane, near the modern town of Vryheid in KwaZulu-Natal, South Africa during the Anglo-Zulu War.
+
+
+== Background ==
+The British commander Frederic Thesiger (Lord Chelmsford) intended to invade Zululand with three columns and converge on the Zulu capital of Ulundi (Ondini). No. 1 Column (Colonel Charles Pearson) on the coast was to begin its adv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-hlobane-20260807.mp3" type="audio/mpeg" length="1499136"/>
+      <guid isPermaLink="false">warvault-battle-of-hlobane-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 01:07:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Mokra</title>
       <description>The Battle of Mokra took place on 1 September 1939 near the village of Mokra, 5 km north of Kłobuck and 23 km north-west of Częstochowa, Poland. It was one of the first battles of the Invasion of Poland, during the Second World War, and was one of the few Polish victories of that campaign and the first German defeat of the conflict.
 
