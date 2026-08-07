@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-25</title>
+      <description>Soyuz MS-25, Russian production No. 756 and identified by NASA as Soyuz 71S, was a 2024 Russian crewed Soyuz spaceflight from Baikonur Cosmodrome to the International Space Station.
+
+
+== Crew ==
+MS-25 saw was the first launch of two women, Tracy Caldwell-Dyson from the United States and Maryna Vasileuskaya from Belarus, aboard a Soyuz spacecraft. MS-25 also saw the launch of two people from Belaru</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-25-20260807.mp3" type="audio/mpeg" length="1395456"/>
+      <guid isPermaLink="false">space-soyuz-ms-25-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 20:39:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TerraSAR-X</title>
       <description>TerraSAR-X is an imaging radar Earth observation satellite, a joint venture being carried out under a public-private-partnership between the German Aerospace Center (DLR) and EADS Astrium. The exclusive commercial exploitation rights are held by the geo-information service provider Astrium. TerraSAR-X was launched on 15 June 2007 and has been in operational service since January 2008. With its twi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/terrasar-x-20260807.mp3" type="audio/mpeg" length="1347840"/>
