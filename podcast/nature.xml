@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Steller's sea eagle</title>
+      <description>Steller's sea eagle (Haliaeetus pelagicus), also known as the Pacific sea eagle or white-shouldered eagle, is a very large diurnal bird of prey in the family Accipitridae. It was described first by Peter Simon Pallas in 1811. No subspecies are recognised. A sturdy eagle, it has dark brown plumage with white wings and tail, a yellow beak, and yellow talons. Typically, it is the heaviest eagle in th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stellers-sea-eagle-20260807.mp3" type="audio/mpeg" length="1126272"/>
+      <guid isPermaLink="false">nature-stellers-sea-eagle-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 00:59:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Megamouth shark</title>
       <description>The megamouth shark (Megachasma pelagios) is a species of deepwater shark. Rarely seen by humans, it measures around 13–18 ft (4–5.5 m) long and is the smallest of the three extant filter-feeding sharks alongside the much larger whale shark and basking shark. According to Sharkman's World Organization, a total of 296 specimens have been observed or caught since its discovery in 1976. Like the othe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/megamouth-shark-20260806.mp3" type="audio/mpeg" length="1108608"/>
