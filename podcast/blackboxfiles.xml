@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Whyalla Airlines Flight 904</title>
+      <description>Whyalla Airlines Flight 904 was a scheduled commuter flight, operated by a Piper PA-31 Navajo which crashed while attempting to ditch in the Spencer Gulf, South Australia after suffering failures of both engines on the evening of 31 May 2000. All 8 people on board the aircraft were killed as a result of the accident. The findings of a subsequent investigation by the Australian Transport Safety Bur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/whyalla-airlines-flight-904-20260807.mp3" type="audio/mpeg" length="1313280"/>
+      <guid isPermaLink="false">aviation-whyalla-airlines-flight-904-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 17:44:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Northern Airlines Flight 6901</title>
       <description>China Northern Airlines Flight 6901 (CJ6901) was a McDonnell Douglas MD-82 airliner from Beijing's Capital International Airport to Ürümqi Diwopu International Airport in Xinjiang, China. On November 13, 1993, it crashed on approach to Ürümqi Airport. Twelve of the 102 passengers and crew on board were killed. The accident has been attributed to pilot error.
 
