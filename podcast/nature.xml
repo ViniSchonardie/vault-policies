@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Wedge-tailed eagle</title>
+      <description>The wedge-tailed eagle (Aquila audax) is the largest bird of prey in the continent of Australia. It is also found in southern New Guinea to the north and is distributed as far south as the state of Tasmania. Adults of the species have long, broad wings, fully feathered legs, an unmistakable wedge-shaped tail, an elongated upper mandible, a strong beak and powerful feet. The wedge-tailed eagle is o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wedge-tailed-eagle-20260807.mp3" type="audio/mpeg" length="1332480"/>
+      <guid isPermaLink="false">nature-wedge-tailed-eagle-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 13:15:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Steller's sea eagle</title>
       <description>Steller's sea eagle (Haliaeetus pelagicus), also known as the Pacific sea eagle or white-shouldered eagle, is a very large diurnal bird of prey in the family Accipitridae. It was described first by Peter Simon Pallas in 1811. No subspecies are recognised. A sturdy eagle, it has dark brown plumage with white wings and tail, a yellow beak, and yellow talons. Typically, it is the heaviest eagle in th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stellers-sea-eagle-20260807.mp3" type="audio/mpeg" length="1126272"/>
