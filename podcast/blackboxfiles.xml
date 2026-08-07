@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aloha IslandAir Flight 1712</title>
+      <description>Aloha IslandAir Flight 1712 was a scheduled domestic passenger flight that took place on October 28, 1989. The flight originated in Hana Airport, Maui, Hawaiʻi and stopped over in Kahului Airport, Maui. It was scheduled to continue to Molokaʻi Airport, Molokaʻi and then to Honolulu International Airport; however, it crashed while enroute from Kahului to Molokaʻi. The leg in which the aircraft cras</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-islandair-flight-1712-20260807.mp3" type="audio/mpeg" length="1398912"/>
+      <guid isPermaLink="false">aviation-aloha-islandair-flight-1712-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 01:03:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air France Flight 212 (1968)</title>
       <description>Air France Flight 212 was a scheduled passenger flight from Santiago, Chile to Paris with scheduled stops at Lima, Quito, Bogotá, Caracas, Pointe-à-Pitre, Vila do Porto, and Lisbon.  On March 6, 1968, the Boeing 707 operating the flight, named "Chateau de Lavoute Polignac", crashed while approaching Le Raizet Airport in Pointe-à-Pitre, Guadeloupe, killing all 63 occupants of the plane.
 
