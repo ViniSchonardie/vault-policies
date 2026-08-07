@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Oceanic whitetip shark</title>
+      <description>The oceanic whitetip shark (Carcharhinus longimanus) is a large requiem shark inhabiting the pelagic zone of tropical and warm temperate seas. It has a stocky body and iconic elongated rounded fins, with white tips. The species is typically solitary, though they may gather in large numbers at food concentrations. Bony fish and cephalopods are the main components of its diet and females give live b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/oceanic-whitetip-shark-20260807.mp3" type="audio/mpeg" length="1374336"/>
+      <guid isPermaLink="false">nature-oceanic-whitetip-shark-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 20:50:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venomous snake</title>
       <description>Venomous snakes are species of the suborder Serpentes that are capable of producing venom, which they use for killing prey, for defense, and to assist with digestion of their prey. The venom is typically delivered by injection using hollow or grooved fangs, although some venomous snakes lack well-developed fangs. Common venomous snakes include the families Elapidae, Viperidae, Atractaspididae, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venomous-snake-20260807.mp3" type="audio/mpeg" length="1179264"/>
