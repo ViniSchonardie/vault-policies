@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Martin Scripps</title>
+      <description>John Martin Scripps, also known as the Garden City Butcher, and "Tourist From Hell" was an English serial killer who murdered three tourists—Gerard Lowe in Singapore, and Sheila and Darin Damude in Thailand—with another three potential victims. He posed as a tourist himself when committing the murders. He cut up all his victims' bodies, using butchery skills he had acquired in prison, before dispo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-martin-scripps-20260807.mp3" type="audio/mpeg" length="1424256"/>
+      <guid isPermaLink="false">crime-john-martin-scripps-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 14:21:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Connecticut River Valley Killer</title>
       <description>The Connecticut River Valley Killer, also known as the Valley Killer, is the moniker for an unidentified American serial killer believed to be responsible for at least seven murders of young women in the Connecticut River Valley region of New England between 1978 and 1988.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/connecticut-river-valley-killer-20260807.mp3" type="audio/mpeg" length="1324800"/>
