@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Narcos: Mexico</title>
+      <description>Narcos: Mexico is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro that premiered on Netflix on November 16, 2018. It was originally intended to be the fourth season of the Netflix series Narcos, but it was ultimately developed as a companion series. It focuses on the development of Mexico's illegal drug trade, whereas the parent series</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/narcos-mexico-20260807.mp3" type="audio/mpeg" length="1099392"/>
+      <guid isPermaLink="false">drugempire-narcos-mexico-20260807</guid>
+      <pubDate>Fri, 07 Aug 2026 22:27:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lucchese crime family Brooklyn faction</title>
       <description>The Lucchese crime family's Brooklyn faction is a group of Italian-American mobsters within the Lucchese crime family that control organized crime activities in the New York metropolitan area but are predominantly based in Brooklyn and Staten Island. The Brooklyn faction was created after two separate crews in the Lucchese family were merged together. The merger occurred during the early 2000s, wh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/lucchese-crime-family-brooklyn-faction-20260807.mp3" type="audio/mpeg" length="1096704"/>
