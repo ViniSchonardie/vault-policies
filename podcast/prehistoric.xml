@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cro-Magnon</title>
+      <description>Cro-Magnons or European early modern humans (EEMH) were the first early modern humans (Homo sapiens) found in Europe and  Siberia, continuously occupying the continent possibly from as early as 56,800 years ago. They interacted and interbred with the indigenous Neanderthals (H. neanderthalensis) of Europe and Western Asia, who went extinct 35,000 to 40,000 years ago. Ancient DNA research indicates</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cro-magnon-20260808.mp3" type="audio/mpeg" length="1427328"/>
+      <guid isPermaLink="false">prehistoric-cro-magnon-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 21:39:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carnotaurus</title>
       <description>Carnotaurus  is a genus of theropod dinosaur that lived in South America during the Late Cretaceous period, between 69 and 66 million years ago. The only species is Carnotaurus sastrei. Known from a single well-preserved skeleton, it is one of the best-understood theropods from the Southern Hemisphere. The skeleton, found in 1984, was uncovered in the Chubut Province of Argentina from rocks of the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/carnotaurus-20260808.mp3" type="audio/mpeg" length="1322112"/>
