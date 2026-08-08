@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Miyuki Ishikawa</title>
+      <description>Miyuki Ishikawa  was a Japanese midwife, real estate agent and serial killer. During the US occupation of Japan, she and several accomplices are believed to have murdered dozens of infants, a crime spree known as the Kotobuki San'in incident.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/miyuki-ishikawa-20260808.mp3" type="audio/mpeg" length="1220736"/>
+      <guid isPermaLink="false">crime-miyuki-ishikawa-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 18:34:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cayetano Santos Godino</title>
       <description>Cayetano Santos Godino, also known as El Petiso Orejudo, was an Argentine serial killer and arsonist who murdered four children, attempted to kill seven others, and set fire to seven buildings, psychologically enjoying fires.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/cayetano-santos-godino-20260808.mp3" type="audio/mpeg" length="1347456"/>
