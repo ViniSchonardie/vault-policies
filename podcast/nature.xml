@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bateleur</title>
+      <description>The bateleur (; Terathopius ecaudatus), also known as the bateleur eagle, is a medium-sized eagle in the family Accipitridae. It is often considered a relative of the snake eagles and, like them, it is classified within the subfamily Circaetinae. It is the only member of the genus Terathopius and may be the origin of the "Zimbabwe Bird", the national emblem of Zimbabwe. Adult bateleurs are general</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bateleur-20260808.mp3" type="audio/mpeg" length="1327488"/>
+      <guid isPermaLink="false">nature-bateleur-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 20:40:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hydrothermal vent</title>
       <description>Hydrothermal vents are fissures on the seabed from which geothermally heated water discharges. They are commonly found near volcanically active places, areas where tectonic plates are moving apart at mid-ocean ridges, ocean basins, and hotspots. The dispersal of hydrothermal fluids throughout the global ocean at active vent sites creates hydrothermal plumes. Hydrothermal deposits are rocks and min</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/hydrothermal-vent-20260808.mp3" type="audio/mpeg" length="1479552"/>
