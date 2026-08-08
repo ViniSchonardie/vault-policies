@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>King Arthur</title>
+      <description>King Arthur (Welsh: Brenin Arthur; Cornish: Arthur Gernow; Breton: Roue Arzhur; French: Roi Arthur) was a legendary king of Britain. He is a folk hero and a central figure in the medieval literary tradition known as the Matter of Britain.
+In Welsh sources, Arthur is portrayed as a leader of the post-Roman Britons in battles against the Anglo-Saxons in the late 5th and early 6th centuries. He first</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/king-arthur-20260808.mp3" type="audio/mpeg" length="1480320"/>
+      <guid isPermaLink="false">mythology-king-arthur-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 20:29:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cernunnos</title>
       <description>Cernunnos is a Celtic god whose name is only clearly attested once, on the 1st-century CE Pillar of the Boatmen from Paris, where it is identified with an image of an aged, antlered figure with torcs around his horns. 
 Through this artefact, the name "Cernunnos" has been applied to the members of an iconographic cluster, consisting of depictions of an antlered god (often aged and with crossed legs</description>
