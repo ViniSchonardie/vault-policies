@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Robin Hood</title>
+      <description>Robin Hood is a legendary heroic outlaw originally depicted in English folklore and subsequently featured in literature, theatre, and cinema. According to legend, he was a highly skilled archer and swordsman. In some versions of the legend, he is depicted as being of noble birth, and in modern retellings he is sometimes depicted as having fought in the Crusades before returning to England to find </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/robin-hood-20260808.mp3" type="audio/mpeg" length="1323264"/>
+      <guid isPermaLink="false">mythology-robin-hood-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 23:25:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>King Arthur</title>
       <description>King Arthur (Welsh: Brenin Arthur; Cornish: Arthur Gernow; Breton: Roue Arzhur; French: Roi Arthur) was a legendary king of Britain. He is a folk hero and a central figure in the medieval literary tradition known as the Matter of Britain.
 In Welsh sources, Arthur is portrayed as a leader of the post-Roman Britons in battles against the Anglo-Saxons in the late 5th and early 6th centuries. He first</description>
