@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Petersburg</title>
+      <description>The Richmond–Petersburg campaign was a series of battles around Petersburg, Virginia, fought from June 9, 1864, to March 25, 1865, during the American Civil War. Although it is more popularly known as the siege of Petersburg, it was not a classic military siege, in which a city is encircled with fortifications blocking all routes of ingress and egress, nor was it strictly limited to actions agains</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-petersburg-20260808.mp3" type="audio/mpeg" length="1373184"/>
+      <guid isPermaLink="false">warvault-siege-of-petersburg-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 21:44:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Breslau</title>
       <description>The siege of Breslau was an 80-day-long combat for Breslau; it formed part of the Lower Silesian offensive during final stages of World War Two in Europe. The German garrison, composed of one infantry division and various autonomous units, fought having been fully encircled. The advancing Soviets relied on 6. Army and various delegated units. 
 The battle was divided into a few assaults, punctuated</description>
