@@ -17,6 +17,28 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-72</title>
+      <description>STS-72 was a Space Shuttle Endeavour mission to capture and return to Earth a Japanese microgravity research spacecraft known as Space Flyer Unit (SFU). The mission launched from Kennedy Space Center, Florida on 11 January 1996.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+=== Spacewalks ===
+Chiao and Barry  – EVA 1
+EVA 1 Start: 15 January 1996 – 05:35 UTC
+EVA 1 End: 15 January – 11:44 UTC
+Durat</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-72-20260808.mp3" type="audio/mpeg" length="1549056"/>
+      <guid isPermaLink="false">space-sts-72-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 16:43:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-68</title>
       <description>STS-68 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on September 30, 1994.
 
