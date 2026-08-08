@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Elephant</title>
+      <description>Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). They are the only surviving members of the family Elephantidae and the order Proboscidea; extinct relatives include mammoths and mastodons. Distinctive features of elephants</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/elephant-20260808.mp3" type="audio/mpeg" length="1282560"/>
+      <guid isPermaLink="false">drugempire-elephant-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 19:39:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pittsburgh crime family</title>
       <description>The Pittsburgh crime family, also known as the LaRocca crime family or the Pittsburgh Mafia, was an Italian American Mafia crime family based in Pittsburgh, Pennsylvania, and throughout the Greater Pittsburgh area. The organization formed during the late 1880s under Salvatore "Banana King" Catanzaro and was named after Sebastian "Big John" LaRocca, the family's longest-serving boss, from 1956 unti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/pittsburgh-crime-family-20260808.mp3" type="audio/mpeg" length="1568256"/>
