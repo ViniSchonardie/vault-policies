@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Willson Peale</title>
+      <description>Charles Willson Peale (April 15, 1741 – February 22, 1827) was an American painter, military officer, scientist, and naturalist.
+In 1775, inspired by the American Revolution, Peale moved from his native Maryland to Philadelphia, where he set up a painting studio and joined the Sons of Liberty. During the American Revolutionary War, Peale served in the Pennsylvania Militia and the Continental Army,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-willson-peale-20260808.mp3" type="audio/mpeg" length="1519104"/>
+      <guid isPermaLink="false">realstory-charles-willson-peale-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 18:47:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bian Que</title>
       <description>Bian Que (Chinese: 扁鵲; 407 – 310 BC) was an ancient Chinese figure traditionally said to be the earliest known Chinese physician during the Warring States period. His real name is said to be Qin Yueren (秦越人), but his medical skills were so amazing that people gave him the same name as the (original) legendary doctor Bian Que, from the time of the Yellow Emperor. He was a native of the State of Qi.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/bian-que-20260808.mp3" type="audio/mpeg" length="1266432"/>
