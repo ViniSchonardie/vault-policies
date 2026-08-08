@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Breslau</title>
+      <description>The siege of Breslau was an 80-day-long combat for Breslau; it formed part of the Lower Silesian offensive during final stages of World War Two in Europe. The German garrison, composed of one infantry division and various autonomous units, fought having been fully encircled. The advancing Soviets relied on 6. Army and various delegated units. 
+The battle was divided into a few assaults, punctuated</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-breslau-20260808.mp3" type="audio/mpeg" length="1491840"/>
+      <guid isPermaLink="false">warvault-siege-of-breslau-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 17:38:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Greek landing at Smyrna</title>
       <description>The Greek landing at Smyrna (Greek: Ελληνική απόβαση στη Σμύρνη; Turkish: Yunanların İzmir'e çıkışı) was a military operation by Greek forces starting on May 15, 1919 which involved landing troops in the city of Smyrna and surrounding areas.  
 The landing was sanctioned by British Prime Minister David Lloyd George, who argued that: "[a] massacre is taking place over there and there is nobody to pr</description>
