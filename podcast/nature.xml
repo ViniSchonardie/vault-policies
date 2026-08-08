@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black caiman</title>
+      <description>The black caiman (Melanosuchus niger) is a crocodilian reptile endemic to South America. With a maximum length of around 5 to 6.5 m (16 to 21 ft) and a mass of over 450 kg (1,000 lb), it is the largest living species of the family Alligatoridae, and the third-largest crocodilian in the Neotropical realm. True to its common and scientific names, the black caiman has a dark greenish-black coloration</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/black-caiman-20260808.mp3" type="audio/mpeg" length="1386624"/>
+      <guid isPermaLink="false">nature-black-caiman-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 12:58:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oceanic whitetip shark</title>
       <description>The oceanic whitetip shark (Carcharhinus longimanus) is a large requiem shark inhabiting the pelagic zone of tropical and warm temperate seas. It has a stocky body and iconic elongated rounded fins, with white tips. The species is typically solitary, though they may gather in large numbers at food concentrations. Bony fish and cephalopods are the main components of its diet and females give live b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/oceanic-whitetip-shark-20260807.mp3" type="audio/mpeg" length="1374336"/>
