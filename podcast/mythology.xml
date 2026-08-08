@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cernunnos</title>
+      <description>Cernunnos is a Celtic god whose name is only clearly attested once, on the 1st-century CE Pillar of the Boatmen from Paris, where it is identified with an image of an aged, antlered figure with torcs around his horns. 
+Through this artefact, the name "Cernunnos" has been applied to the members of an iconographic cluster, consisting of depictions of an antlered god (often aged and with crossed legs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cernunnos-20260808.mp3" type="audio/mpeg" length="1153536"/>
+      <guid isPermaLink="false">mythology-cernunnos-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 16:23:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Enkidu</title>
       <description>Enkidu (Sumerian: 𒂗𒆠𒄭 EN.KI.DU10) was a legendary figure in ancient Mesopotamian mythology, wartime comrade and friend of Gilgamesh, king of Uruk. Their exploits were composed in Sumerian poems and in the Akkadian Epic of Gilgamesh, written during the 2nd millennium BC. He is the oldest literary representation of the wild man, a recurrent motif in artistic representations in Mesopotamia and in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/enkidu-20260807.mp3" type="audio/mpeg" length="1249920"/>
