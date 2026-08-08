@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cayetano Santos Godino</title>
+      <description>Cayetano Santos Godino, also known as El Petiso Orejudo, was an Argentine serial killer and arsonist who murdered four children, attempted to kill seven others, and set fire to seven buildings, psychologically enjoying fires.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/cayetano-santos-godino-20260808.mp3" type="audio/mpeg" length="1347456"/>
+      <guid isPermaLink="false">crime-cayetano-santos-godino-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 13:56:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flour Massacre</title>
       <description>The Flour Massacre occurred in the Gaza Strip on 29 February 2024, when at least 118 Palestinians were killed and 760 injured after Israeli forces opened fire while the Palestinians were seeking food from aid trucks on the coastal al-Rashid Street in Gaza City.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/flour-massacre-20260807.mp3" type="audio/mpeg" length="1472256"/>
