@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sacco and Vanzetti</title>
+      <description>Nicola Sacco (Italian: [niˈkɔːla ˈsakko]; April 22, 1891 – August 23, 1927) and Bartolomeo Vanzetti (Italian: [bartoloˈmɛːo vanˈtsetti, -ˈdzet-]; June 11, 1888 – August 23, 1927) were Italian immigrants and anarchists, controversially accused of murdering Alessandro Berardelli and Frederick Parmenter, a guard and a paymaster, during the April 15, 1920, armed robbery of the Slater and Morrill Shoe </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/sacco-and-vanzetti-20260808.mp3" type="audio/mpeg" length="1320576"/>
+      <guid isPermaLink="false">trials-sacco-and-vanzetti-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 20:36:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Murder Of Tham Weng Kuen</title>
       <description>On 6 May 2005, 69-year-old Tham Weng Kuen (Chinese: 谭颖娟; Jyutping: Taam4 Wing6 Gyun1; pinyin: Tán Yǐngjuān) was stabbed more than 110 times by a robber in her flat in Boon Lay and she died as a result. The police managed to arrest two suspects, who were brothers and also the neighbours of the victim.
 The younger of the two brothers, Muhammad bin Kadar, initially accused his older brother as the on</description>
