@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Livestrong Foundation</title>
+      <description>The Livestrong Foundation is a United States nonprofit organization that provides support for people affected by cancer. The foundation, based in Austin, Texas, was established in 1997 by cancer survivor and former professional road racing cyclist Lance Armstrong, as the Lance Armstrong Foundation. The Livestrong brand was launched by the foundation in 2003. Armstrong resigned from the foundation </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/livestrong-foundation-20260808.mp3" type="audio/mpeg" length="1274880"/>
+      <guid isPermaLink="false">sportscrime-livestrong-foundation-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 15:31:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1951 college basketball point-shaving scandal</title>
       <description>In 1951, allegations of point-shaving and match fixing in college basketball revealed widespread bribery and corruption involving major colleges and universities in and around New York City, particularly at Madison Square Garden. While the public scandal officially involved at least seven American colleges and universities (with one university having a player retroactively participating in the eve</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/1951-college-basketball-point-shaving-scandal-20260807.mp3" type="audio/mpeg" length="1448064"/>
