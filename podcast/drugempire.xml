@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Black market</title>
+      <description>A black market is a clandestine market or series of transactions that has some aspect of illegality, or is not compliant with an institutional set of rules. If the rule defines the set of goods and services whose production and distribution are prohibited or restricted by law, non-compliance with the rule constitutes a black-market trade since the transaction itself is illegal. Such transactions i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/black-market-20260808.mp3" type="audio/mpeg" length="1094016"/>
+      <guid isPermaLink="false">drugempire-black-market-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 22:20:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elephant</title>
       <description>Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). They are the only surviving members of the family Elephantidae and the order Proboscidea; extinct relatives include mammoths and mastodons. Distinctive features of elephants</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/elephant-20260808.mp3" type="audio/mpeg" length="1282560"/>
