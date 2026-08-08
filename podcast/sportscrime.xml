@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cam Newton</title>
+      <description>Cameron Jerrell  Newton (born May 11, 1989) is an American former professional football quarterback who played in the National Football League (NFL) for 11 seasons, primarily with the  Carolina Panthers. Nicknamed "Super Cam", he is second in career quarterback rushing touchdowns and third in career quarterback rushing yards. Following a stint with the Florida Gators, Newton played college footbal</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/cam-newton-20260808.mp3" type="audio/mpeg" length="1312512"/>
+      <guid isPermaLink="false">sportscrime-cam-newton-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 23:24:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bowling</title>
       <description>Bowling is a target sport and recreational activity in which a player rolls a ball toward pins (in pin bowling) or another target (in target bowling). Most references to bowling are to pin bowling, specifically tenpin bowling (played in the United Kingdom, Commonwealth countries and elsewhere). Bowling can also refer to target bowling, such as lawn bowls. Bowling is played by 120 million people in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/bowling-20260808.mp3" type="audio/mpeg" length="1185408"/>
