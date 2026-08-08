@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pittsburgh crime family</title>
+      <description>The Pittsburgh crime family, also known as the LaRocca crime family or the Pittsburgh Mafia, was an Italian American Mafia crime family based in Pittsburgh, Pennsylvania, and throughout the Greater Pittsburgh area. The organization formed during the late 1880s under Salvatore "Banana King" Catanzaro and was named after Sebastian "Big John" LaRocca, the family's longest-serving boss, from 1956 unti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/pittsburgh-crime-family-20260808.mp3" type="audio/mpeg" length="1568256"/>
+      <guid isPermaLink="false">drugempire-pittsburgh-crime-family-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 15:38:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Narcos: Mexico</title>
       <description>Narcos: Mexico is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro that premiered on Netflix on November 16, 2018. It was originally intended to be the fourth season of the Netflix series Narcos, but it was ultimately developed as a companion series. It focuses on the development of Mexico's illegal drug trade, whereas the parent series</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/narcos-mexico-20260807.mp3" type="audio/mpeg" length="1099392"/>
