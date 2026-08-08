@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-68</title>
+      <description>STS-68 was a human spaceflight mission using Space Shuttle Endeavour that launched from Kennedy Space Center, Florida on September 30, 1994.
+
+
+== Crew ==
+
+
+== Launch ==
+
+Launch September 30, 1994, at 7:16:00.068 am EDT from Kennedy Space Center Launch Pad 39-A. The Launch window opened at 7:16 am EDT with a 2-hour-30-minute window. Orbiter mass at liftoff was 247,129 pounds (112,096 kg) including </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-68-20260808.mp3" type="audio/mpeg" length="1352064"/>
+      <guid isPermaLink="false">space-sts-68-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 13:53:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-25</title>
       <description>Soyuz MS-25, Russian production No. 756 and identified by NASA as Soyuz 71S, was a 2024 Russian crewed Soyuz spaceflight from Baikonur Cosmodrome to the International Space Station.
 
