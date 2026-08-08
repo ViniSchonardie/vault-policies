@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Buddha</title>
+      <description>Siddhartha Gautama, most commonly referred to as the Buddha (lit. 'the awakened one'), was a wandering ascetic and religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism. According to Buddhist legends, he was born in Lumbini, in what is now Nepal, to royal parents of the Shakya clan, but renounced his home life to live as a wandering </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/the-buddha-20260808.mp3" type="audio/mpeg" length="1408896"/>
+      <guid isPermaLink="false">realstory-the-buddha-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 21:23:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Willson Peale</title>
       <description>Charles Willson Peale (April 15, 1741 – February 22, 1827) was an American painter, military officer, scientist, and naturalist.
 In 1775, inspired by the American Revolution, Peale moved from his native Maryland to Philadelphia, where he set up a painting studio and joined the Sons of Liberty. During the American Revolutionary War, Peale served in the Pennsylvania Militia and the Continental Army,</description>
