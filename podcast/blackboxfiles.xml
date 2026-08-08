@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Airlines Flight 1307</title>
+      <description>UPS Airlines Flight 1307 was a scheduled cargo flight from Hartsfield–Jackson Atlanta International Airport near Atlanta, Georgia to Philadelphia International Airport in Philadelphia, Pennsylvania.  On the night of 7-8 February 2006, the McDonnell Douglas DC-8-71F operating the flight experienced a cargo fire while descending towards Philadelphia; the fire destroyed the aircraft after landing, bu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-1307-20260808.mp3" type="audio/mpeg" length="1504128"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-1307-20260808</guid>
+      <pubDate>Sat, 08 Aug 2026 14:32:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1963 Ankara mid-air collision</title>
       <description>A mid-air collision occurred on Friday, 1 February 1963, over Ankara, Turkey, when Middle East Airlines Flight 265, a Vickers 754D Viscount completing a flight from Cyprus, came in for landing and collided in the air with a Turkish Air Force Douglas C-47A. After the collision both planes fell directly onto the city below them. All 17 people on board both aircraft died, along with 87 people on the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1963-ankara-mid-air-collision-20260807.mp3" type="audio/mpeg" length="1253376"/>
