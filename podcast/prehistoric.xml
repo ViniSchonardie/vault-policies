@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Denisovan</title>
+      <description>The Denisovans or Denisova hominins ( də-NIS-ə-və(nz)) are an extinct species or subspecies of archaic human that ranged across Asia during the Middle to Late Pleistocene, approximately 200,000–32,000 years ago. Most of what is known about Denisovans comes from DNA evidence. While many recent fossils have been found and tentatively identified as Denisovan, the first Denisovans discovered were know</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/denisovan-20260809.mp3" type="audio/mpeg" length="1264128"/>
+      <guid isPermaLink="false">prehistoric-denisovan-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 13:04:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cro-Magnon</title>
       <description>Cro-Magnons or European early modern humans (EEMH) were the first early modern humans (Homo sapiens) found in Europe and  Siberia, continuously occupying the continent possibly from as early as 56,800 years ago. They interacted and interbred with the indigenous Neanderthals (H. neanderthalensis) of Europe and Western Asia, who went extinct 35,000 to 40,000 years ago. Ancient DNA research indicates</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cro-magnon-20260808.mp3" type="audio/mpeg" length="1427328"/>
