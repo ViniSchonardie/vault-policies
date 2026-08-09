@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>International Criminal Court</title>
+      <description>The International Criminal Court (ICC) is an intergovernmental organisation and international tribunal seated in The Hague, Netherlands. Established in 2002 under the multilateral Rome Statute, the ICC is the first and only permanent international court with jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, war crimes, and the crime of aggress</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/international-criminal-court-20260809.mp3" type="audio/mpeg" length="1208064"/>
+      <guid isPermaLink="false">trials-international-criminal-court-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 16:36:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Purge</title>
       <description>The Great Purge or Great Terror (Russian: Большой террор, romanized: Bol'shoy terror), also known as the Year of '37 (37-й год, Tridtsat' sed'moy god) and the Yezhovshchina (ежовщина [(j)ɪˈʐofɕːɪnə], lit. 'period of Yezhov'), was a political purge in the Soviet Union from 1936 to 1938. After the assassination of Sergei Kirov by Leonid Nikolaev in 1934, Joseph Stalin launched a series of show trial</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/great-purge-20260808.mp3" type="audio/mpeg" length="1322112"/>
