@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rudolf Hess</title>
+      <description>Rudolf Walter Richard Hess (Heß in German; 26 April 1894 – 17 August 1987) was a German politician, convicted war criminal, and a leading member of the Nazi Party in Germany. Appointed Deputy to the Führer (Stellvertreter des Führers) in 1933, Hess held that position until 1941, when he flew solo to Scotland in an attempt to negotiate the United Kingdom's exit from the Second World War. He was tak</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rudolf-hess-20260809.mp3" type="audio/mpeg" length="1311744"/>
+      <guid isPermaLink="false">trials-rudolf-hess-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 20:37:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>International Criminal Court</title>
       <description>The International Criminal Court (ICC) is an intergovernmental organisation and international tribunal seated in The Hague, Netherlands. Established in 2002 under the multilateral Rome Statute, the ICC is the first and only permanent international court with jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, war crimes, and the crime of aggress</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/international-criminal-court-20260809.mp3" type="audio/mpeg" length="1208064"/>
