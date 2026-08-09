@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hallucigenia</title>
+      <description>Hallucigenia is a genus of lobopodian known from Cambrian-aged fossils in Burgess Shale-type deposits in Canada (Burgess Shale) and China, and from isolated  spines around the world. The generic name reflects the type species' unusual appearance and eccentric history of study; when it was erected as a genus, H. sparsa was reconstructed as an enigmatic animal upside down and back to front. Lobopodi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/hallucigenia-20260809.mp3" type="audio/mpeg" length="1369728"/>
+      <guid isPermaLink="false">prehistoric-hallucigenia-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 21:42:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dire wolf</title>
       <description>The dire wolf (Aenocyon dirus  ) is an extinct species of canine which was native to the Americas during the Late Pleistocene and Early Holocene epochs (125,000–10,000 years ago). The species was named in 1858, four years after the first specimen had been found. Two subspecies are proposed, Aenocyon dirus guildayi and Aenocyon dirus dirus, but this assignment has been recently considered questiona</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dire-wolf-20260809.mp3" type="audio/mpeg" length="1055232"/>
