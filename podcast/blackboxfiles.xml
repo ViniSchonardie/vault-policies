@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Malaysia Airlines Flight 17</title>
+      <description>Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-17-20260809.mp3" type="audio/mpeg" length="1492992"/>
+      <guid isPermaLink="false">aviation-malaysia-airlines-flight-17-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 14:35:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Space Shuttle Columbia disaster</title>
       <description>On February 1, 2003, Space Shuttle Columbia disintegrated as it re-entered the atmosphere over Texas and Louisiana, killing all seven astronauts on board. It was the second of two Space Shuttle missions to end in disaster, after the loss of Challenger and crew in 1986.
 The mission, designated STS-107, was the twenty-eighth flight for the orbiter and the 113th flight of the Space Shuttle fleet. It </description>
