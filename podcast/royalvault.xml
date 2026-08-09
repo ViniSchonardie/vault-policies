@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles I of England</title>
+      <description>Charles I (19 November 1600 – 30 January 1649) was King of England, Scotland, and Ireland from 27 March 1625 until his execution in 1649.
+Charles was born into the House of Stuart as the second son of King James VI of Scotland. After his father inherited the English throne in 1603, he moved to England, where he spent much of the rest of his life. He became heir apparent to the kingdoms of England,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/charles-i-of-england-20260809.mp3" type="audio/mpeg" length="1311360"/>
+      <guid isPermaLink="false">royal-charles-i-of-england-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 14:45:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Catherine the Great</title>
       <description>Catherine II (born Princess Sophia Augusta Frederica of Anhalt-Zerbst; 2 May 1729 – 17 November 1796), commonly known as Catherine the Great, was the Empress of Russia from 1762 to 1796. She came to power after a coup d'etat against her husband, Peter III. Her long reign helped Russia thrive under a golden age during the Enlightenment. This renaissance led to the founding of many new cities, unive</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-the-great-20260808.mp3" type="audio/mpeg" length="1337856"/>
