@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>US Airways Flight 1549</title>
+      <description>US Airways Flight 1549 was a regularly scheduled US Airways flight from New York City's LaGuardia Airport to Charlotte and Seattle, in the United States, that ditched onto the Hudson River shortly after takeoff on January 15, 2009, due to a double engine failure caused by a bird strike. The Airbus A320 operating the flight, registered N106US, struck a flock of Canada geese shortly after takeoff fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/us-airways-flight-1549-20260809.mp3" type="audio/mpeg" length="1410816"/>
+      <guid isPermaLink="false">aviation-us-airways-flight-1549-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 21:27:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Moorgate tube crash</title>
       <description>The Moorgate tube crash occurred on 28 February 1975 at 8:46 am on the London Underground's Northern City Line; 43 people died and 74 were injured after a train failed to stop at the line's southern terminus, Moorgate station, and crashed into its end wall. It is considered the worst peacetime accident on the London Underground. No fault was found with the train, and the inquiry by the Department </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/moorgate-tube-crash-20260809.mp3" type="audio/mpeg" length="1226112"/>
