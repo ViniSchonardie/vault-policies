@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Paul the Apostle</title>
+      <description>Paul (born Saul of Tarsus; c. 5 – c. 64/65 AD), commonly known as Paul the Apostle or Saint Paul, was a Christian apostle who spread the teachings of Jesus in the first-century AD. For his contributions towards the New Testament, he is generally regarded as one of the most important figures of the Apostolic Age, and he also founded several Christian communities in Asia Minor and Europe from the mi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/paul-the-apostle-20260809.mp3" type="audio/mpeg" length="1168512"/>
+      <guid isPermaLink="false">realstory-paul-the-apostle-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 21:24:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Martin Luther</title>
       <description>Martin Luther ( LOO-thər; German: [ˈmaʁtiːn ˈlʊtɐ] ; 10 November 1483 – 18 February 1546) was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history.
 Born in E</description>
