@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Second Battle of Bull Run</title>
+      <description>The Second Battle of Bull Run or Battle of Second Manassas was fought August 28–30, 1862, in Prince William County, Virginia, as part of the American Civil War. It was the culmination of the Northern Virginia campaign waged by Confederate Gen. Robert E. Lee's Army of Northern Virginia against Union Maj. Gen. John Pope's Army of Virginia, and a battle of much larger scale and numbers than the First</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-bull-run-20260809.mp3" type="audio/mpeg" length="1495296"/>
+      <guid isPermaLink="false">warvault-second-battle-of-bull-run-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 21:46:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Waterloo</title>
       <description>The Battle of Waterloo was fought on Sunday 18 June 1815, near Waterloo (then in the United Kingdom of the Netherlands, now in Belgium), being the last engagement with Napoleon I. The French Imperial Army under the command of Napoleon I was defeated by two armies of the Seventh Coalition. One was a British-led force with units from the United Kingdom, the Netherlands, Hanover, Brunswick, and Nassa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-waterloo-20260809.mp3" type="audio/mpeg" length="1053312"/>
