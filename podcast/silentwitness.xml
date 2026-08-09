@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Capital punishment</title>
+      <description>Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits executio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/capital-punishment-20260809.mp3" type="audio/mpeg" length="1400064"/>
+      <guid isPermaLink="false">trials-capital-punishment-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 23:28:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rudolf Hess</title>
       <description>Rudolf Walter Richard Hess (Heß in German; 26 April 1894 – 17 August 1987) was a German politician, convicted war criminal, and a leading member of the Nazi Party in Germany. Appointed Deputy to the Führer (Stellvertreter des Führers) in 1933, Hess held that position until 1941, when he flew solo to Scotland in an attempt to negotiate the United Kingdom's exit from the Second World War. He was tak</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/rudolf-hess-20260809.mp3" type="audio/mpeg" length="1311744"/>
