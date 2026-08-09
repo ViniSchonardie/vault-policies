@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leonardo da Vinci</title>
+      <description>Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, ast</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leonardo-da-vinci-20260809.mp3" type="audio/mpeg" length="1430016"/>
+      <guid isPermaLink="false">realstory-leonardo-da-vinci-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 15:28:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Buddha</title>
       <description>Siddhartha Gautama, most commonly referred to as the Buddha (lit. 'the awakened one'), was a wandering ascetic and religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism. According to Buddhist legends, he was born in Lumbini, in what is now Nepal, to royal parents of the Shakya clan, but renounced his home life to live as a wandering </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/the-buddha-20260808.mp3" type="audio/mpeg" length="1408896"/>
