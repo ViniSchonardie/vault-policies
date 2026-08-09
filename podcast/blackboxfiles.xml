@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Moorgate tube crash</title>
+      <description>The Moorgate tube crash occurred on 28 February 1975 at 8:46 am on the London Underground's Northern City Line; 43 people died and 74 were injured after a train failed to stop at the line's southern terminus, Moorgate station, and crashed into its end wall. It is considered the worst peacetime accident on the London Underground. No fault was found with the train, and the inquiry by the Department </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/moorgate-tube-crash-20260809.mp3" type="audio/mpeg" length="1226112"/>
+      <guid isPermaLink="false">aviation-moorgate-tube-crash-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 17:27:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Malaysia Airlines Flight 17</title>
       <description>Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-17-20260809.mp3" type="audio/mpeg" length="1492992"/>
