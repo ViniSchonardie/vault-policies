@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mark Sanchez</title>
+      <description>Mark Travis John Sanchez (born November 11, 1986) is an American former professional football player who was a quarterback in the National Football League (NFL) for 10 seasons. He played college football for the USC Trojans and was selected by the New York Jets in the first round (fifth overall) of the 2009 NFL draft.
+A backup quarterback during his first three years at the University of Southern </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/mark-sanchez-20260809.mp3" type="audio/mpeg" length="1398528"/>
+      <guid isPermaLink="false">sportscrime-mark-sanchez-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 23:27:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Portland Trail Blazers</title>
       <description>The Portland Trail Blazers (colloquially known as the Blazers) are an American professional basketball team based in Portland, Oregon. The Trail Blazers compete in the National Basketball Association (NBA) as a member of the Northwest Division of the Western Conference. The team played its home games in the Memorial Coliseum before moving to Moda Center in 1995 (called the Rose Garden until 2013).</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/portland-trail-blazers-20260809.mp3" type="audio/mpeg" length="1153152"/>
