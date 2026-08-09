@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Franklin D. Roosevelt</title>
+      <description>Franklin Delano Roosevelt (January 30, 1882 – April 12, 1945), also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. He is the longest-serving US president and the only one to have served more than two terms. His first two terms were centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/franklin-d-roosevelt-20260809.mp3" type="audio/mpeg" length="1523328"/>
+      <guid isPermaLink="false">drugempire-franklin-d-roosevelt-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 15:41:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black market</title>
       <description>A black market is a clandestine market or series of transactions that has some aspect of illegality, or is not compliant with an institutional set of rules. If the rule defines the set of goods and services whose production and distribution are prohibited or restricted by law, non-compliance with the rule constitutes a black-market trade since the transaction itself is illegal. Such transactions i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/black-market-20260808.mp3" type="audio/mpeg" length="1094016"/>
