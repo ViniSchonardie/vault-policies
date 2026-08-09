@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2017 Tehran attacks</title>
+      <description>A series of two simultaneous terrorist attacks were carried out on 7 June 2017 by five terrorists belonging to the Islamic State of Iraq and the Levant (ISIL) against the Iranian Parliament building and the Mausoleum of Ruhollah Khomeini, both in Tehran, Iran, leaving 17 civilians dead and 43 wounded. The shootings were the first terrorist attacks in Tehran in more than a decade, and the first maj</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2017-tehran-attacks-20260809.mp3" type="audio/mpeg" length="1347072"/>
+      <guid isPermaLink="false">crime-2017-tehran-attacks-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 13:58:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2021 San Jose shooting</title>
       <description>On May 26, 2021, a mass shooting occurred at a Santa Clara Valley Transportation Authority (VTA) rail yard in San Jose, California, United States. A 57-year-old VTA employee, Samuel James Cassidy, shot and killed nine VTA employees before killing himself. It is the deadliest mass shooting in the history of the San Francisco Bay Area.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2021-san-jose-shooting-20260808.mp3" type="audio/mpeg" length="1622400"/>
