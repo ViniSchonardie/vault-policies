@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Locusta</title>
+      <description>Locusta or Lucusta, was a notorious maker of poisons in the 1st-century Roman Empire, active in the final two reigns of the Julio-Claudian dynasty. She supposedly took part in the assassinations of Claudius and Britannicus. She was a favourite of emperor Nero for several years, and Nero had her provide training to other poisoners in his service. Following Nero's death, Locusta was executed by his </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/locusta-20260809.mp3" type="audio/mpeg" length="1119744"/>
+      <guid isPermaLink="false">crime-locusta-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 18:36:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2017 Tehran attacks</title>
       <description>A series of two simultaneous terrorist attacks were carried out on 7 June 2017 by five terrorists belonging to the Islamic State of Iraq and the Levant (ISIL) against the Iranian Parliament building and the Mausoleum of Ruhollah Khomeini, both in Tehran, Iran, leaving 17 civilians dead and 43 wounded. The shootings were the first terrorist attacks in Tehran in more than a decade, and the first maj</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2017-tehran-attacks-20260809.mp3" type="audio/mpeg" length="1347072"/>
