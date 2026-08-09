@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Waterloo</title>
+      <description>The Battle of Waterloo was fought on Sunday 18 June 1815, near Waterloo (then in the United Kingdom of the Netherlands, now in Belgium), being the last engagement with Napoleon I. The French Imperial Army under the command of Napoleon I was defeated by two armies of the Seventh Coalition. One was a British-led force with units from the United Kingdom, the Netherlands, Hanover, Brunswick, and Nassa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-waterloo-20260809.mp3" type="audio/mpeg" length="1053312"/>
+      <guid isPermaLink="false">warvault-battle-of-waterloo-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 17:38:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of the Little Bighorn</title>
       <description>The 1876 Battle of the Little Bighorn, commonly referred to as Custer's Last Stand, and known to the Lakota and other Plains Indians as the Battle of the Greasy Grass, was an armed engagement between combined forces of the Lakota Sioux, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. It took place on June 25–26, 1876, along the Little Bighorn River in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-little-bighorn-20260809.mp3" type="audio/mpeg" length="1331328"/>
