@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Valkyrie</title>
+      <description>In Norse mythology, a valkyrie ( VAL-kirr-ee or  val-KEER-ee; from Old Norse: valkyrja, lit. 'chooser of the slain') is one of a host of female figures who guide souls of the dead to the god Odin's hall Valhalla. There, the deceased warriors become einherjar ('single fighters' or 'once fighters'). When the einherjar are not preparing for the cataclysmic events of Ragnarök, the valkyries bear them </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/valkyrie-20260809.mp3" type="audio/mpeg" length="1271424"/>
+      <guid isPermaLink="false">mythology-valkyrie-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 20:32:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sigurd</title>
       <description>In Nordic tradition, Sigurd or Sigvard, in German tradition, Siegfried, is a legendary hero of Germanic heroic legend, who killed a dragon — known in Nordic tradition as Fafnir (Old Norse: Fáfnir) — and who was later murdered. He has several epithets, such as "Fáfnir's bane" (Old Norse: Fáfnisbani) in the Icelandic sagas, "the horn-skinned" (der hürnîn) in medieval German texts, "Swift lad" (Snare</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/sigurd-20260809.mp3" type="audio/mpeg" length="1097856"/>
