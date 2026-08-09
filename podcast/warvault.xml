@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of the Little Bighorn</title>
+      <description>The 1876 Battle of the Little Bighorn, commonly referred to as Custer's Last Stand, and known to the Lakota and other Plains Indians as the Battle of the Greasy Grass, was an armed engagement between combined forces of the Lakota Sioux, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. It took place on June 25–26, 1876, along the Little Bighorn River in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-little-bighorn-20260809.mp3" type="audio/mpeg" length="1331328"/>
+      <guid isPermaLink="false">warvault-battle-of-the-little-bighorn-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 13:50:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Petersburg</title>
       <description>The Richmond–Petersburg campaign was a series of battles around Petersburg, Virginia, fought from June 9, 1864, to March 25, 1865, during the American Civil War. Although it is more popularly known as the siege of Petersburg, it was not a classic military siege, in which a city is encircled with fortifications blocking all routes of ingress and egress, nor was it strictly limited to actions agains</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-petersburg-20260808.mp3" type="audio/mpeg" length="1373184"/>
