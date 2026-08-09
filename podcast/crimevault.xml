@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2022 Oslo shooting</title>
+      <description>The 2022 Oslo shooting, commonly known in Norway as the Pride Shooting in Oslo, occurred on 25 June 2022, when two people were killed and twenty-one people were wounded in a mass shooting in Oslo, Norway. Police declared the incident as an "act of Islamist terrorism". The target may have been the Oslo LGBTQ pride event, which was hosted by the local branch of the Norwegian Organisation for Sexual </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-oslo-shooting-20260809.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">crime-2022-oslo-shooting-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 22:25:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Locusta</title>
       <description>Locusta or Lucusta, was a notorious maker of poisons in the 1st-century Roman Empire, active in the final two reigns of the Julio-Claudian dynasty. She supposedly took part in the assassinations of Claudius and Britannicus. She was a favourite of emperor Nero for several years, and Nero had her provide training to other poisoners in his service. Following Nero's death, Locusta was executed by his </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/locusta-20260809.mp3" type="audio/mpeg" length="1119744"/>
