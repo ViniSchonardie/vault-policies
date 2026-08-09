@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheetah</title>
+      <description>The cheetah (Acinonyx jubatus) is a species of large feline and the only living member of the genus Acinonyx. The cheetah is a pursuit predator and the fastest land animal, capable of running at 93–104 km/h (58–65 mph); it has evolved for speed, having powerful hindlimb muscles, long limbs and a flexible spine. The cheetah has a tawny to creamy white or pale buff fur that is marked with evenly spa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cheetah-20260809.mp3" type="audio/mpeg" length="1408512"/>
+      <guid isPermaLink="false">nature-cheetah-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 16:28:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carcharodontosaurus</title>
       <description>Carcharodontosaurus (; "shark-toothed lizard") is a genus of large theropod dinosaur that lived in Northwest Africa from about 100 to 94 million years ago during the Cenomanian age of the Cretaceous. The genus was first described in 1925 by French paleontologists Charles Depéret and Justin Savornin as Megalosaurus saharicus, based on two fossil teeth discovered in Algeria, which are now lost. A pa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/carcharodontosaurus-20260809.mp3" type="audio/mpeg" length="1240704"/>
