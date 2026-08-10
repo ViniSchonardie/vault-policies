@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eleanor of Aquitaine</title>
+      <description>Eleanor of Aquitaine (French: Aliénor d'Aquitaine or Éléonore d'Aquitaine; Occitan: Alienòr d'Aquitània [aljeˈnɔɾ dakiˈtanjɔ]; Latin: Helienordis, Alienorde or Alianor; c. 1124 – 1 April 1204) was Duchess of Aquitaine from 1137 to 1204, Queen of France from 1137 to 1152 as the wife of King Louis VII, and queen of England from 1154 to 1189 as the wife of King Henry II. As the reigning duchess of Aq</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/eleanor-of-aquitaine-20260810.mp3" type="audio/mpeg" length="1241088"/>
+      <guid isPermaLink="false">royal-eleanor-of-aquitaine-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 22:33:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thomas More</title>
       <description>Sir Thomas More (7 February 1478 – 6 July 1535), venerated in the Catholic Church as a martyr and saint, was an English lawyer, judge, social philosopher, author, statesman, theologian and Renaissance humanist. He also served Henry VIII as Lord Chancellor from October 1529 to May 1532. He wrote Utopia, published in 1516, which describes the political system of an imaginary island state.
 More oppos</description>
