@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Joseph Vacher</title>
+      <description>Joseph Vacher was a French serial killer, rapist, and necrophile who killed between 11 and 50 people, many of them adolescent farm workers, between 1894 and 1897. He was contemporarily called "le tueur de bergers", but upon his capture became more commonly known as "The French Ripper" or "L'éventreur du Sud-Est", owing to comparisons to the more famous Jack the Ripper murderer of London, England, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-vacher-20260810.mp3" type="audio/mpeg" length="1382016"/>
+      <guid isPermaLink="false">crime-joseph-vacher-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 14:29:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2022 Oslo shooting</title>
       <description>The 2022 Oslo shooting, commonly known in Norway as the Pride Shooting in Oslo, occurred on 25 June 2022, when two people were killed and twenty-one people were wounded in a mass shooting in Oslo, Norway. Police declared the incident as an "act of Islamist terrorism". The target may have been the Oslo LGBTQ pride event, which was hosted by the local branch of the Norwegian Organisation for Sexual </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-oslo-shooting-20260809.mp3" type="audio/mpeg" length="1289472"/>
