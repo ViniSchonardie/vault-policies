@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Opabinia</title>
+      <description>Opabinia regalis is an extinct stem group marine arthropod found in the Lagerstätte of the Burgess Shale (Middle Cambrian, 505 million years ago) of British Columbia. Opabinia was a soft-bodied animal, measuring up to 7 cm in body length, and had a segmented trunk with flaps along its sides and a fan-shaped tail. The head showed unusual features: 5 eyes, a mouth under the head and facing backwards</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/opabinia-20260810.mp3" type="audio/mpeg" length="1255296"/>
+      <guid isPermaLink="false">prehistoric-opabinia-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 17:45:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Homo naledi</title>
       <description>Homo naledi is an extinct species of archaic human discovered in 2013 in the Rising Star Cave system, Gauteng province, South Africa, part of the Cradle of Humankind, dating back to the Middle Pleistocene 335,000–236,000 years ago. The excavation comprises 1,550 specimens of bone, representing 737 different skeletal elements, and at least 15 different individuals. Despite this exceptionally high n</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-naledi-20260810.mp3" type="audio/mpeg" length="1286784"/>
