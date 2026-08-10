@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 13</title>
+      <description>Apollo 13 (April 11–17, 1970) was the seventh crewed mission in the Apollo space program and would have been the third Moon landing. The craft was launched from Kennedy Space Center on April 11, 1970, but the landing was aborted after an oxygen tank in the service module (SM) exploded two days into the mission, disabling its electrical and life-support system. The crew, supported by backup systems</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-13-20260810.mp3" type="audio/mpeg" length="1341696"/>
+      <guid isPermaLink="false">space-apollo-13-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 17:02:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 11</title>
       <description>Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. The mission was crewed by Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin "Buzz" Aldrin, all of whom were on their second and final spaceflight.
 Launched atop a Saturn V rocket from Kennedy Space Center i</description>
