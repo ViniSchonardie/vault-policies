@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas More</title>
+      <description>Sir Thomas More (7 February 1478 – 6 July 1535), venerated in the Catholic Church as a martyr and saint, was an English lawyer, judge, social philosopher, author, statesman, theologian and Renaissance humanist. He also served Henry VIII as Lord Chancellor from October 1529 to May 1532. He wrote Utopia, published in 1516, which describes the political system of an imaginary island state.
+More oppos</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/thomas-more-20260810.mp3" type="audio/mpeg" length="1161216"/>
+      <guid isPermaLink="false">royal-thomas-more-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 19:02:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marie Antoinette</title>
       <description>Marie Antoinette (Marie Antoinette Josèphe Jeanne; born Maria Antonia Josefa Johanna; 2 November 1755 – 16 October 1793) was Queen consort of France as the wife of Louis XVI from 10 May 1774 until the abolition of the French monarchy in 1792 during the French Revolution.
 Born in November 1755 at the Hofburg in Vienna, Marie was the fifteenth child and youngest daughter of Emperor Francis I and Emp</description>
