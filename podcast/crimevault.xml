@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2015 Chattanooga shootings</title>
+      <description>On July 16, 2015, Muhammad Youssef Abdulazeez opened fire on two military installations in Chattanooga, Tennessee, United States. He first committed a drive-by shooting at a recruiting center, then traveled to a U.S. Navy Reserve center and continued firing, where he was killed by police in a gunfight. Four Marines died on the spot. A Navy sailor, a Marine recruiter, and a police officer were woun</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2015-chattanooga-shootings-20260810.mp3" type="audio/mpeg" length="1356288"/>
+      <guid isPermaLink="false">crime-2015-chattanooga-shootings-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 18:54:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph Vacher</title>
       <description>Joseph Vacher was a French serial killer, rapist, and necrophile who killed between 11 and 50 people, many of them adolescent farm workers, between 1894 and 1897. He was contemporarily called "le tueur de bergers", but upon his capture became more commonly known as "The French Ripper" or "L'éventreur du Sud-Est", owing to comparisons to the more famous Jack the Ripper murderer of London, England, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-vacher-20260810.mp3" type="audio/mpeg" length="1382016"/>
