@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 11</title>
+      <description>Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. The mission was crewed by Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin "Buzz" Aldrin, all of whom were on their second and final spaceflight.
+Launched atop a Saturn V rocket from Kennedy Space Center i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-11-20260810.mp3" type="audio/mpeg" length="1257984"/>
+      <guid isPermaLink="false">space-apollo-11-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 14:26:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-72</title>
       <description>STS-72 was a Space Shuttle Endeavour mission to capture and return to Earth a Japanese microgravity research spacecraft known as Space Flyer Unit (SFU). The mission launched from Kennedy Space Center, Florida on 11 January 1996.
 
