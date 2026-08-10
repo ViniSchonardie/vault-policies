@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Therizinosaurus</title>
+      <description>Therizinosaurus ( ; meaning 'scythe lizard') is a genus of very large therizinosaurid dinosaurs that lived during the Late Cretaceous period in what is now Asia. It contains a single species, Therizinosaurus cheloniformis, known from the fossiliferous Nemegt Formation. The first remains of Therizinosaurus were found in 1948 by a Mongolian field expedition in the Gobi Desert and later described by </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/therizinosaurus-20260810.mp3" type="audio/mpeg" length="1388544"/>
+      <guid isPermaLink="false">prehistoric-therizinosaurus-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 21:46:10 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Opabinia</title>
       <description>Opabinia regalis is an extinct stem group marine arthropod found in the Lagerstätte of the Burgess Shale (Middle Cambrian, 505 million years ago) of British Columbia. Opabinia was a soft-bodied animal, measuring up to 7 cm in body length, and had a segmented trunk with flaps along its sides and a fan-shaped tail. The head showed unusual features: 5 eyes, a mouth under the head and facing backwards</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/opabinia-20260810.mp3" type="audio/mpeg" length="1255296"/>
