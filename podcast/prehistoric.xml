@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Homo naledi</title>
+      <description>Homo naledi is an extinct species of archaic human discovered in 2013 in the Rising Star Cave system, Gauteng province, South Africa, part of the Cradle of Humankind, dating back to the Middle Pleistocene 335,000–236,000 years ago. The excavation comprises 1,550 specimens of bone, representing 737 different skeletal elements, and at least 15 different individuals. Despite this exceptionally high n</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-naledi-20260810.mp3" type="audio/mpeg" length="1286784"/>
+      <guid isPermaLink="false">prehistoric-homo-naledi-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 13:06:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hallucigenia</title>
       <description>Hallucigenia is a genus of lobopodian known from Cambrian-aged fossils in Burgess Shale-type deposits in Canada (Burgess Shale) and China, and from isolated  spines around the world. The generic name reflects the type species' unusual appearance and eccentric history of study; when it was erected as a genus, H. sparsa was reconstructed as an enigmatic animal upside down and back to front. Lobopodi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/hallucigenia-20260809.mp3" type="audio/mpeg" length="1369728"/>
