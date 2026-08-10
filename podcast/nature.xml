@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>List of dangerous snakes</title>
+      <description>As of 2025, there are 3,971 known snake species worldwide, with around 600 venomous species. This is an overview of the snakes that pose a significant health risk to humans, through snakebites or other physical trauma.
+The varieties of snakes that most often cause serious snakebites depend on the region of the world. In Africa, the most dangerous species include black mambas, puff adders, and carp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/list-of-dangerous-snakes-20260810.mp3" type="audio/mpeg" length="1432320"/>
+      <guid isPermaLink="false">nature-list-of-dangerous-snakes-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 20:55:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>List of animals by number of neurons</title>
       <description>The following are two lists of animals ordered by the size of their nervous system. The first list shows number of neurons in their entire nervous system.  The second list shows the number of neurons in the structure that has been found to be representative of animal intelligence. The human brain contains 86 billion neurons, with 16 billion neurons in the cerebral cortex.
 Neuron counts constitute </description>
