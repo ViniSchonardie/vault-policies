@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pacific Southwest Airlines Flight 182</title>
+      <description>Pacific Southwest Airlines Flight 182 was a scheduled flight on September 25, 1978 by Pacific Southwest Airlines (PSA), from Sacramento (SMF) to San Diego (SAN), with a stopover at Los Angeles (LAX). The aircraft involved were a Boeing 727-214 (registration: N533PS) and a private Cessna 172 (light aircraft; N7711G) which collided mid-air  over San Diego. It was Pacific Southwest Airlines' first fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-southwest-airlines-flight-182-20260810.mp3" type="audio/mpeg" length="1419648"/>
+      <guid isPermaLink="false">aviation-pacific-southwest-airlines-flight-182-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 14:59:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>US Airways Flight 1549</title>
       <description>US Airways Flight 1549 was a regularly scheduled US Airways flight from New York City's LaGuardia Airport to Charlotte and Seattle, in the United States, that ditched onto the Hudson River shortly after takeoff on January 15, 2009, due to a double engine failure caused by a bird strike. The Airbus A320 operating the flight, registered N106US, struck a flock of Canada geese shortly after takeoff fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/us-airways-flight-1549-20260809.mp3" type="audio/mpeg" length="1410816"/>
