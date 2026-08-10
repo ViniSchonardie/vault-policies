@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Droop Mountain</title>
+      <description>The Battle of Droop Mountain occurred in Pocahontas County, West Virginia, on November 6, 1863, during the American Civil War. A Union brigade commanded by Brigadier General William W. Averell defeated a smaller Confederate force commanded by Brigadier General John Echols and Colonel William L. "Mudwall" Jackson. Confederate forces were driven from their breastworks on Droop Mountain, losing weapo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-droop-mountain-20260810.mp3" type="audio/mpeg" length="1359744"/>
+      <guid isPermaLink="false">warvault-battle-of-droop-mountain-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 14:29:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Second Battle of Bull Run</title>
       <description>The Second Battle of Bull Run or Battle of Second Manassas was fought August 28–30, 1862, in Prince William County, Virginia, as part of the American Civil War. It was the culmination of the Northern Virginia campaign waged by Confederate Gen. Robert E. Lee's Army of Northern Virginia against Union Maj. Gen. John Pope's Army of Virginia, and a battle of much larger scale and numbers than the First</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-bull-run-20260809.mp3" type="audio/mpeg" length="1495296"/>
