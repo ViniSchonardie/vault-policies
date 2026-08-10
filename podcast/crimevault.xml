@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Madame de Brinvilliers</title>
+      <description>Marie-Madeleine d'Aubray, Marquise de Brinvilliers was a French aristocrat who was convicted of murdering her father and two of her brothers in order to inherit their estates. After her death, there was speculation that she tested her poisons on upwards of 30 sick people in hospitals and street dogs, but these rumours were never confirmed. Her crimes were discovered after the death of her lover an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/madame-de-brinvilliers-20260810.mp3" type="audio/mpeg" length="1363968"/>
+      <guid isPermaLink="false">crime-madame-de-brinvilliers-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 22:33:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2015 Chattanooga shootings</title>
       <description>On July 16, 2015, Muhammad Youssef Abdulazeez opened fire on two military installations in Chattanooga, Tennessee, United States. He first committed a drive-by shooting at a recruiting center, then traveled to a U.S. Navy Reserve center and continued firing, where he was killed by police in a gunfight. Four Marines died on the spot. A Navy sailor, a Marine recruiter, and a police officer were woun</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2015-chattanooga-shootings-20260810.mp3" type="audio/mpeg" length="1356288"/>
