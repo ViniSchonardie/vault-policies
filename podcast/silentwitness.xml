@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Baudelaire</title>
+      <description>Charles-Pierre Baudelaire (UK: ; US: ; French: [ʃaʁl(ə) bodlɛʁ] ; 9 April 1821 – 31 August 1867) was a French poet, essayist, translator and art critic. His poems are described as exhibiting mastery of rhythm and rhyme, containing an exoticism inherited from the Romantics, and are based on observations of real life.
+His most famous work, a book of lyric poetry titled Les Fleurs du mal (The Flowers</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/charles-baudelaire-20260810.mp3" type="audio/mpeg" length="1403520"/>
+      <guid isPermaLink="false">trials-charles-baudelaire-20260810</guid>
+      <pubDate>Mon, 10 Aug 2026 16:49:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Capital punishment</title>
       <description>Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits executio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/capital-punishment-20260809.mp3" type="audio/mpeg" length="1400064"/>
