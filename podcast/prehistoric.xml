@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Camarillasaurus</title>
+      <description>Camarillasaurus (meaning "Camarillas lizard") is an extinct genus of spinosaurid theropod dinosaurs from the Early Cretaceous period (Barremian) of Camarillas, Teruel Province, in what is now northeastern Spain. Described in 2014, it was originally identified as a ceratosaurian theropod, but later studies suggested affinities to the Spinosauridae. Camarillasaurus is one of several spinosaurid taxa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/camarillasaurus-20260811.mp3" type="audio/mpeg" length="1176192"/>
+      <guid isPermaLink="false">prehistoric-camarillasaurus-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 17:49:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Homo heidelbergensis</title>
       <description>Homo heidelbergensis () is a controversial and somewhat poorly defined species of archaic human from the Middle Pleistocene of Europe and Africa, as well as potentially Asia depending on the taxonomic convention used. The species-level classification of Homo during the Middle Pleistocene is controversial, called the "muddle in the middle", owing to the wide anatomical range of variation that popul</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-heidelbergensis-20260811.mp3" type="audio/mpeg" length="1329792"/>
