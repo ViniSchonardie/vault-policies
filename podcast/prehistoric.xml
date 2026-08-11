@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Homo heidelbergensis</title>
+      <description>Homo heidelbergensis () is a controversial and somewhat poorly defined species of archaic human from the Middle Pleistocene of Europe and Africa, as well as potentially Asia depending on the taxonomic convention used. The species-level classification of Homo during the Middle Pleistocene is controversial, called the "muddle in the middle", owing to the wide anatomical range of variation that popul</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-heidelbergensis-20260811.mp3" type="audio/mpeg" length="1329792"/>
+      <guid isPermaLink="false">prehistoric-homo-heidelbergensis-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 13:02:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Therizinosaurus</title>
       <description>Therizinosaurus ( ; meaning 'scythe lizard') is a genus of very large therizinosaurid dinosaurs that lived during the Late Cretaceous period in what is now Asia. It contains a single species, Therizinosaurus cheloniformis, known from the fossiliferous Nemegt Formation. The first remains of Therizinosaurus were found in 1948 by a Mongolian field expedition in the Gobi Desert and later described by </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/therizinosaurus-20260810.mp3" type="audio/mpeg" length="1388544"/>
