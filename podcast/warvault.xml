@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Siege of Tobruk</title>
+      <description>The siege of Tobruk () took place between 10 April and 27 November 1941, during the Western Desert campaign (1940–1943) of the Second World War. An  Allied force, consisting mostly of the 9th Australian Division, commanded by Lieutenant-General Leslie Morshead, was besieged in the North African port of Tobruk by German and Italian forces. The tenacious defenders quickly became known as the Rats of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tobruk-20260811.mp3" type="audio/mpeg" length="1435776"/>
+      <guid isPermaLink="false">warvault-siege-of-tobruk-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 14:29:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Fredericksburg</title>
       <description>The Battle of Fredericksburg was fought December 11–15, 1862, in and around Fredericksburg, Virginia, in the Eastern Theater of the American Civil War. The combat between the Union Army of the Potomac commanded by Maj. Gen. Ambrose Burnside and the Confederate Army of Northern Virginia under Gen. Robert E. Lee included futile frontal attacks by the Union army on December 13 against entrenched Conf</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-fredericksburg-20260810.mp3" type="audio/mpeg" length="1441536"/>
