@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Katyn massacre</title>
+      <description>The Katyn massacre was a series of mass executions of Poles carried out by the Soviet Union between April and May 1940. Though the killings also occurred in the NKVD prisons in Kalinin, Kharkiv and elsewhere, the massacre is named after the Katyn forest, where some of the mass graves were first discovered by Nazi German forces in 1943. Nearly 22,000 Polish military and police officers, border guar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/katyn-massacre-20260811.mp3" type="audio/mpeg" length="1544832"/>
+      <guid isPermaLink="false">trials-katyn-massacre-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 21:02:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hannah Arendt</title>
       <description>Hannah Arendt (born Johanna Arendt; 14 October 1906 – 4 December 1975) was a German and American historian and philosopher. She was one of the most influential political theorists of the twentieth century.
 Her works cover a broad range of topics, but she is best known for those dealing with the nature of wealth, power, fame, and evil, as well as politics, direct democracy, authority, tradition, an</description>
