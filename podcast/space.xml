@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Neil Armstrong</title>
+      <description>Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon. He was also a naval aviator, test pilot and university professor.
+Armstrong was born and raised near Wapakoneta, Ohio. He entered Purdue University, studying aeronautical engineering, with the U</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/neil-armstrong-20260811.mp3" type="audio/mpeg" length="1153536"/>
+      <guid isPermaLink="false">space-neil-armstrong-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 14:26:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 13</title>
       <description>Apollo 13 (April 11–17, 1970) was the seventh crewed mission in the Apollo space program and would have been the third Moon landing. The craft was launched from Kennedy Space Center on April 11, 1970, but the landing was aborted after an oxygen tank in the service module (SM) exploded two days into the mission, disabling its electrical and life-support system. The crew, supported by backup systems</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-13-20260810.mp3" type="audio/mpeg" length="1341696"/>
