@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hannah Arendt</title>
+      <description>Hannah Arendt (born Johanna Arendt; 14 October 1906 – 4 December 1975) was a German and American historian and philosopher. She was one of the most influential political theorists of the twentieth century.
+Her works cover a broad range of topics, but she is best known for those dealing with the nature of wealth, power, fame, and evil, as well as politics, direct democracy, authority, tradition, an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hannah-arendt-20260811.mp3" type="audio/mpeg" length="1453056"/>
+      <guid isPermaLink="false">trials-hannah-arendt-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 16:55:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>German Empire</title>
       <description>The German Empire (German: Deutsches Reich), also referred to as Imperial Germany or the Second Reich, was the period of the German Reich from the unification of Germany in 1871 until the November Revolution in 1918, when Germany changed its form of government to a republic. The German Empire consisted of 25 states, each with its own nobility: four constituent kingdoms, six grand duchies, five duc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/german-empire-20260810.mp3" type="audio/mpeg" length="1567488"/>
