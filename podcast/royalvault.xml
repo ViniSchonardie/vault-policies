@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Isabella I of Castile</title>
+      <description>Isabella I (Spanish: Isabel I; 22 April 1451 – 26 November 1504), also known as Isabella the Catholic (Spanish: Isabel la Católica), was Queen of Castile and León from 1474 until her death in 1504. She was also Queen of Aragon from 1479 until her death as the wife of King Ferdinand II. Reigning together over a dynastically unified Spain, Isabella and Ferdinand are known as the Catholic Monarchs. H</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/isabella-i-of-castile-20260811.mp3" type="audio/mpeg" length="1388544"/>
+      <guid isPermaLink="false">royal-isabella-i-of-castile-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 19:07:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Louis XVI</title>
       <description>Louis XVI (Louis-Auguste; French: [lwi sɛːz]; 23 August 1754 – 21 January 1793) was the last king of France before the fall of the monarchy during the French Revolution. The son of Louis, Dauphin of France (son and heir apparent of King Louis XV), and Maria Josepha of Saxony, Louis became the new Dauphin when his father died in 1765. In 1770, he married Marie Antoinette. He became King of France a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/louis-xvi-20260811.mp3" type="audio/mpeg" length="1321728"/>
