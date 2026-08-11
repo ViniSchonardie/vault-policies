@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Skrillex</title>
+      <description>Sonny John Moore (born January 15, 1988), known professionally as Skrillex, is an American DJ, record producer, singer, and musician. Raised in Northeast Los Angeles and Northern California, he began his career in 2004 as the lead vocalist of the post-hardcore band From First to Last. He recorded their first two studio albums with the band, Dear Diary, My Teen Angst Has a Bodycount (2004) and Hero</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/skrillex-20260811.mp3" type="audio/mpeg" length="1173120"/>
+      <guid isPermaLink="false">drugempire-skrillex-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 15:56:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Opium den</title>
       <description>An opium den was an establishment in which opium was sold and smoked. Opium dens were prevalent in many parts of the world in the 19th century, most notably China, Southeast Asia, North America, and France. Throughout the West, opium dens were frequented by and associated with the Chinese because the establishments were usually run by Chinese mobsters, who supplied the opium and prepared it for vi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/opium-den-20260810.mp3" type="audio/mpeg" length="1542144"/>
