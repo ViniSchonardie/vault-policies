@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Otto von Bismarck</title>
+      <description>Otto Eduard Leopold, Prince of Bismarck, Count of Bismarck-Schönhausen, Duke of Lauenburg (1 April 1815 – 30 July 1898) was a German statesman and diplomat who oversaw the unification of Germany and served as its first chancellor from 1871 to 1890. Bismarck's Realpolitik and firm governance earned him the nickname Iron Chancellor (Eiserner Kanzler).
+From Junker landowner origins, Bismarck rose rap</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/otto-von-bismarck-20260811.mp3" type="audio/mpeg" length="1219200"/>
+      <guid isPermaLink="false">realstory-otto-von-bismarck-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 19:12:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander von Humboldt</title>
       <description>Friedrich Wilhelm Heinrich Alexander von Humboldt (14 September 1769 – 6 May 1859) was a German polymath, geographer, naturalist, explorer, and proponent of Romantic philosophy and science. He was the younger brother of the Prussian minister, philosopher, and linguist Wilhelm von Humboldt (1767–1835). Humboldt's quantitative work on botanical geography laid the foundation for the field of biogeogr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/alexander-von-humboldt-20260811.mp3" type="audio/mpeg" length="1333632"/>
