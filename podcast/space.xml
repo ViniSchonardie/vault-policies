@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-2</title>
+      <description>SpaceX Crew-2 was the second operational flight of a Crew Dragon spacecraft, and the third overall crewed orbital flight of the Commercial Crew Program. The mission was launched on April 23, 2021, at 09:49:02 UTC, and docked to the International Space Station on April 24 at 09:08 UTC.
+SpaceX Crew-2 used the same capsule as Crew Dragon Demo-2 (Endeavour) and launched on the same Falcon 9 booster as</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-2-20260811.mp3" type="audio/mpeg" length="1351680"/>
+      <guid isPermaLink="false">space-spacex-crew-2-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 20:42:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-134</title>
       <description>STS-134 (ISS assembly flight ULF6) was the penultimate mission of NASA's Space Shuttle program and the 25th and last spaceflight of Space Shuttle Endeavour. This flight delivered the Alpha Magnetic Spectrometer and an ExPRESS Logistics Carrier to the International Space Station. Mark Kelly served as the mission commander. The European segment of the mission was called "DAMA".
 STS-134 was expected </description>
