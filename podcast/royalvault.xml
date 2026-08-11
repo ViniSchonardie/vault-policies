@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine Howard</title>
+      <description>Catherine Howard (c. 1523 – 13 February 1542) was Queen of England from July 1540 until November 1541 as the fifth wife of King Henry VIII. She was the daughter of Lord Edmund Howard and Joyce Culpeper, a first cousin to Anne Boleyn (the second wife of Henry VIII), and the niece of Thomas Howard, 3rd Duke of Norfolk. Thomas Howard was a prominent politician at Henry's court. He secured her a place</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-howard-20260811.mp3" type="audio/mpeg" length="1245312"/>
+      <guid isPermaLink="false">royal-catherine-howard-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 22:38:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Isabella I of Castile</title>
       <description>Isabella I (Spanish: Isabel I; 22 April 1451 – 26 November 1504), also known as Isabella the Catholic (Spanish: Isabel la Católica), was Queen of Castile and León from 1474 until her death in 1504. She was also Queen of Aragon from 1479 until her death as the wife of King Ferdinand II. Reigning together over a dynastically unified Spain, Isabella and Ferdinand are known as the Catholic Monarchs. H</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/isabella-i-of-castile-20260811.mp3" type="audio/mpeg" length="1388544"/>
