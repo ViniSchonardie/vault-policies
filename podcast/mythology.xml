@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daikokuten</title>
+      <description>Daikokuten (大黒天; Japanese pronunciation: [dai.ko.kɯ̥ꜜ.teɴ, dai.koꜜ.kɯ̥.teɴ]) is a syncretic Japanese deity of fortune, luck and wealth. Daikokuten originated from Mahākāla, the Buddhist Deva (天, Ten) conflated with the native Shinto god Ōkuninushi. He is a patron of farmers, cooks and jobs related to money such as bankers.
+
+
+== Overview ==
+
+
+=== Mahākāla in East Asian Buddhism ===
+
+The Sanskrit te</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/daikokuten-20260811.mp3" type="audio/mpeg" length="1292544"/>
+      <guid isPermaLink="false">mythology-daikokuten-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 20:43:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Beowulf</title>
       <description>Beowulf ( ; Old English: Bēowulf [ˈbeːowuɫf]) is an Old English poem, an epic in the tradition of Germanic heroic legend consisting of 3,182 alliterative lines, contained in the Nowell Codex. It is one of the most important and most often translated works of Old English literature. The date of composition is a matter of contention among scholars; the only certain dating is for the manuscript, whic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/beowulf-20260811.mp3" type="audio/mpeg" length="1246080"/>
