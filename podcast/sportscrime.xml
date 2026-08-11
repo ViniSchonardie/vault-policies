@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Al Capone</title>
+      <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
+Capone was born in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/al-capone-20260811.mp3" type="audio/mpeg" length="1297152"/>
+      <guid isPermaLink="false">sportscrime-al-capone-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 20:06:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Boston Globe</title>
       <description>The Boston Globe, also known locally as the Globe, is an American daily newspaper founded and based in Boston, Massachusetts. The Boston Globe is the oldest and largest daily newspaper in Boston and tenth-largest newspaper by print circulation in the United States of America as of 2023.
 Founded in 1872 by six area businessmen before being sold to the Globe's early business manager and publisher, C</description>
