@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ondrej Rigo</title>
+      <description>Ondrej Rigo was a Slovak serial killer and necrophile who targeted women in Bratislava, Munich and Amsterdam from 1990 to 1992. He served a life sentence until his death for nine murders and one attempted murder in Leopoldov Prison in Slovakia. Rigo was diagnosed with a schizoid personality disorder and an antisocial personality disorder as well as necrophilia, finding pleasure in having intercour</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ondrej-rigo-20260811.mp3" type="audio/mpeg" length="1441920"/>
+      <guid isPermaLink="false">crime-ondrej-rigo-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 18:59:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2015 Copenhagen shootings</title>
       <description>On 14–15 February 2015, three shootings occurred in Copenhagen, Denmark. The first shooting took place on 14 February at a small public afternoon event called "Art, Blasphemy and Freedom of Expression" at the Krudttønden cultural centre, where a gunman killed one civilian who tried to stop him and wounded three police officers. 30 to 40 people attended the event, amongst whom were the Swedish arti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2015-copenhagen-shootings-20260811.mp3" type="audio/mpeg" length="1107072"/>
