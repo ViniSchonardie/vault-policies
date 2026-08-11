@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Adolf Hitler</title>
+      <description>Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born  German politician who was the dictator of Germany during the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/adolf-hitler-20260811.mp3" type="audio/mpeg" length="1613952"/>
+      <guid isPermaLink="false">warvault-adolf-hitler-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 18:02:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Siege of Tobruk</title>
       <description>The siege of Tobruk () took place between 10 April and 27 November 1941, during the Western Desert campaign (1940–1943) of the Second World War. An  Allied force, consisting mostly of the 9th Australian Division, commanded by Lieutenant-General Leslie Morshead, was besieged in the North African port of Tobruk by German and Italian forces. The tenacious defenders quickly became known as the Rats of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tobruk-20260811.mp3" type="audio/mpeg" length="1435776"/>
