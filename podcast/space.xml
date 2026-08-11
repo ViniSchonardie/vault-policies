@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-134</title>
+      <description>STS-134 (ISS assembly flight ULF6) was the penultimate mission of NASA's Space Shuttle program and the 25th and last spaceflight of Space Shuttle Endeavour. This flight delivered the Alpha Magnetic Spectrometer and an ExPRESS Logistics Carrier to the International Space Station. Mark Kelly served as the mission commander. The European segment of the mission was called "DAMA".
+STS-134 was expected </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-134-20260811.mp3" type="audio/mpeg" length="1411584"/>
+      <guid isPermaLink="false">space-sts-134-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 17:05:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Neil Armstrong</title>
       <description>Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon. He was also a naval aviator, test pilot and university professor.
 Armstrong was born and raised near Wapakoneta, Ohio. He entered Purdue University, studying aeronautical engineering, with the U</description>
