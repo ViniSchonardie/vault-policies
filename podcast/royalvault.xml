@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Louis XVI</title>
+      <description>Louis XVI (Louis-Auguste; French: [lwi sɛːz]; 23 August 1754 – 21 January 1793) was the last king of France before the fall of the monarchy during the French Revolution. The son of Louis, Dauphin of France (son and heir apparent of King Louis XV), and Maria Josepha of Saxony, Louis became the new Dauphin when his father died in 1765. In 1770, he married Marie Antoinette. He became King of France a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/louis-xvi-20260811.mp3" type="audio/mpeg" length="1321728"/>
+      <guid isPermaLink="false">royal-louis-xvi-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 15:09:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eleanor of Aquitaine</title>
       <description>Eleanor of Aquitaine (French: Aliénor d'Aquitaine or Éléonore d'Aquitaine; Occitan: Alienòr d'Aquitània [aljeˈnɔɾ dakiˈtanjɔ]; Latin: Helienordis, Alienorde or Alianor; c. 1124 – 1 April 1204) was Duchess of Aquitaine from 1137 to 1204, Queen of France from 1137 to 1152 as the wife of King Louis VII, and queen of England from 1154 to 1189 as the wife of King Henry II. As the reigning duchess of Aq</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/eleanor-of-aquitaine-20260810.mp3" type="audio/mpeg" length="1241088"/>
