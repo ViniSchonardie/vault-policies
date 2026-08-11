@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Boston Globe</title>
+      <description>The Boston Globe, also known locally as the Globe, is an American daily newspaper founded and based in Boston, Massachusetts. The Boston Globe is the oldest and largest daily newspaper in Boston and tenth-largest newspaper by print circulation in the United States of America as of 2023.
+Founded in 1872 by six area businessmen before being sold to the Globe's early business manager and publisher, C</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/the-boston-globe-20260811.mp3" type="audio/mpeg" length="1218816"/>
+      <guid isPermaLink="false">sportscrime-the-boston-globe-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 16:02:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Denver Broncos</title>
       <description>The Denver Broncos are a professional American football team based in Denver. The Broncos compete in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. The team is headquartered in Englewood, Colorado.
 The team began play in 1960 as a charter member of the American Football League (AFL) and joined the NFL as part of the merger in 1970. The Bronc</description>
