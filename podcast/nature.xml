@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Poisonous amphibian</title>
+      <description>Poisonous amphibians are amphibians that produce toxins to defend themselves from predators.
+
+
+== Amphibians ==
+Most toxic amphibians are poisonous to touch or eat. These amphibians usually sequester toxins from animals and plants on which they feed, commonly from poisonous insects or poisonous plants. Except certain salamandrid salamanders that can extrude sharp venom-tipped ribs, and two species</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/poisonous-amphibian-20260811.mp3" type="audio/mpeg" length="891648"/>
+      <guid isPermaLink="false">nature-poisonous-amphibian-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 13:15:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>List of dangerous snakes</title>
       <description>As of 2025, there are 3,971 known snake species worldwide, with around 600 venomous species. This is an overview of the snakes that pose a significant health risk to humans, through snakebites or other physical trauma.
 The varieties of snakes that most often cause serious snakebites depend on the region of the world. In Africa, the most dangerous species include black mambas, puff adders, and carp</description>
