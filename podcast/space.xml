@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eileen Collins</title>
+      <description>Eileen Marie Collins (born 19 November 1956) is an American retired NASA astronaut and Air Force colonel. A flight instructor and test pilot, Collins was the first woman to pilot the Space Shuttle and the first to command a Space Shuttle mission.
+A graduate of Corning Community College, where she earned an associate degree in mathematics in 1976, and Syracuse University, where she graduated with a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/eileen-collins-20260812.mp3" type="audio/mpeg" length="1192704"/>
+      <guid isPermaLink="false">space-eileen-collins-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 17:04:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marsha Ivins</title>
       <description>Marsha Sue Ivins (born April 15, 1951) is an American retired astronaut and a veteran of five Space Shuttle missions.
 
