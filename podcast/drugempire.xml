@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pablo Escobar</title>
+      <description>Pablo Emilio Escobar Gaviria (; Spanish: [ˈpaβlo eskoˈβaɾ]; 1 December 1949 – 2 December 1993) was a Colombian drug lord, narcoterrorist, and politician who was the founder and leader of the Medellín Cartel. Dubbed the "King of Cocaine", Escobar was one of the wealthiest conventional criminals in history, having amassed an estimated net worth of US$30 billion by his death,
+while his drug cartel mo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/pablo-escobar-20260812.mp3" type="audio/mpeg" length="1449600"/>
+      <guid isPermaLink="false">drugempire-pablo-escobar-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 20:06:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Age of Enlightenment</title>
       <description>The Age of Enlightenment, also known as the Age of Reason or simply the Enlightenment, was a period of intellectual and cultural flourishing in Europe and Western civilization, emerging in the late 17th century in Western Europe. It reached its peak in the 18th century as its ideas spread more widely across Europe and into the European colonies in the Americas and Oceania. Characterized by an emph</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/age-of-enlightenment-20260812.mp3" type="audio/mpeg" length="1292928"/>
