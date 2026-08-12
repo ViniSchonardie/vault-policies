@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Oliver Cromwell</title>
+      <description>Oliver Cromwell (25 April 1599 – 3 September 1658) was an English statesman, farmer and soldier, widely regarded as one of the most important figures in British history. He came to prominence during the Wars of the Three Kingdoms, initially as a senior commander in the Parliamentarian army and later as a politician. A leading advocate of the execution of Charles I in January 1649, which led to the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/oliver-cromwell-20260812.mp3" type="audio/mpeg" length="1207680"/>
+      <guid isPermaLink="false">trials-oliver-cromwell-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 16:54:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>March to Reims</title>
       <description>After the French lifted the siege of Orléans and won a decisive victory at the Battle of Patay, the English and Burgundians no longer posed a threat. Joan of Arc convinced the Dauphin Charles to go to Reims for his coronation. Successfully marching their army though the heart of territory held by the hostile Burgundians solidified the Dauphin’s regrasp of the throne of France. He had been disinher</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/march-to-reims-20260811.mp3" type="audio/mpeg" length="1306752"/>
