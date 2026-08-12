@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am Flight 103</title>
+      <description>Pan Am Flight 103 was a regularly scheduled Pan Am transatlantic flight from Frankfurt to Detroit via a stopover in London and another in New York City. Shortly after 19:00 on 21 December 1988, the Boeing 747 Clipper Maid of the Seas was destroyed by a bomb while flying over the Scottish town of Lockerbie, killing all 243 passengers and 16 crew aboard. Large sections of the aircraft crashed in a r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-103-20260812.mp3" type="audio/mpeg" length="1576320"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-103-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 21:40:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Malaysia Airlines Flight 370</title>
       <description>Malaysia Airlines Flight 370 (MH370 / MAS370) was an international passenger flight operated by Malaysia Airlines that disappeared from radar on 8 March 2014 while flying from Kuala Lumpur International Airport in Malaysia to its planned destination, Beijing Capital International Airport in China, killing 239 passengers and crew members. The cause of its disappearance has not been determined. It i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-370-20260812.mp3" type="audio/mpeg" length="1303296"/>
