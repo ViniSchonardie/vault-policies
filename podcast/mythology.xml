@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hercules</title>
+      <description>Hercules (, US: ) is the Roman equivalent of the Greek divine hero Heracles, son of Jupiter and the mortal Alcmena. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures.
+The Romans adapted the Greek hero's iconography and myths for their literature and art under the name Hercules. In later Western art and literature and in popular culture, Hercule</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hercules-20260812.mp3" type="audio/mpeg" length="1102080"/>
+      <guid isPermaLink="false">mythology-hercules-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 16:49:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dionysus</title>
       <description>In ancient Greek religion and myth, Dionysus ( ; Ancient Greek: Διόνυσος Diónysos) is the god of wine-making, orchards, fruit, vegetation, fertility, festivity, insanity, ritual madness, religious ecstasy, and theatre. He was also known as Bacchus ( or ; Ancient Greek: Βάκχος Bacchos) by the Greeks (a name later adopted by the Romans) for a frenzy he is said to induce called baccheia. His wine, mu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/dionysus-20260811.mp3" type="audio/mpeg" length="1344768"/>
