@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Stonehenge</title>
+      <description>Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique amon</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stonehenge-20260812.mp3" type="audio/mpeg" length="1426176"/>
+      <guid isPermaLink="false">prehistoric-stonehenge-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 17:53:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Suchomimus</title>
       <description>Suchomimus is a genus of large theropod dinosaur that lived in what is now Niger during the Aptian to Albian stages of the Early Cretaceous period, 112 million years ago. The only known species is S. tenerensis, originally described in 1998 by paleontologist Paul Sereno and colleagues from several fossils discovered one year earlier in the Elrhaz Formation. Although these fossils come from multipl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/suchomimus-20260812.mp3" type="audio/mpeg" length="1402368"/>
