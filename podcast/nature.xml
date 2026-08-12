@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Human</title>
+      <description>Humans (Homo sapiens, meaning 'thinking man' or 'wise man') are the most abundant and widespread species of primates, characterized by bipedalism, minimal body hair, and large, complex brains enabling the development of advanced technology, culture, and language. Humans are highly social beings and tend to live in complex social structures composed of many cooperating and competing groups, from fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/human-20260812.mp3" type="audio/mpeg" length="1275264"/>
+      <guid isPermaLink="false">nature-human-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 20:57:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gorilla</title>
       <description>Gorillas are large, primarily herbivorous, great apes that live in the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 96 to 99% depending on what is included, and they are the next closest living relatives to humans af</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gorilla-20260812.mp3" type="audio/mpeg" length="1168512"/>
