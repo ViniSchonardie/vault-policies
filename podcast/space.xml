@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Marsha Ivins</title>
+      <description>Marsha Sue Ivins (born April 15, 1951) is an American retired astronaut and a veteran of five Space Shuttle missions.
+
+
+== Career ==
+Born on April 15, 1951 in Baltimore, Maryland, Ivins graduated from Nether Providence High School in Wallingford, Pennsylvania in 1969, and earned a Bachelor of Science degree in aerospace engineering from the University of Colorado Boulder in 1973. She is Jewish-Ame</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/marsha-ivins-20260812.mp3" type="audio/mpeg" length="1302144"/>
+      <guid isPermaLink="false">space-marsha-ivins-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 14:26:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX Crew-2</title>
       <description>SpaceX Crew-2 was the second operational flight of a Crew Dragon spacecraft, and the third overall crewed orbital flight of the Commercial Crew Program. The mission was launched on April 23, 2021, at 09:49:02 UTC, and docked to the International Space Station on April 24 at 09:08 UTC.
 SpaceX Crew-2 used the same capsule as Crew Dragon Demo-2 (Endeavour) and launched on the same Falcon 9 booster as</description>
