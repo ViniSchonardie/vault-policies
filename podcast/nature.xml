@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dhole</title>
+      <description>The dhole ( dohl; Cuon alpinus) is a canid native to South, East and Southeast Asia. The sole member of the genus Cuon, it is anatomically distinguished from members of the genus Canis in several aspects: its skull is convex rather than concave in profile, it lacks a third lower molar, and the upper molars possess only a single cusp as opposed to between two and four. During the Pleistocene, the d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dhole-20260812.mp3" type="audio/mpeg" length="1208064"/>
+      <guid isPermaLink="false">nature-dhole-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 13:20:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deep-sea fish</title>
       <description>Deep-sea fish are fish that live in the darkness below the sunlit surface waters, that is below the epipelagic or photic zone of the sea. The lanternfish is, by far, the most common deep-sea fish. Other deep-sea fishes include the flashlight fish, cookiecutter shark, bristlemouths, anglerfish, viperfish, and some species of eelpout.
 Only about 2% of known marine species inhabit the pelagic environ</description>
