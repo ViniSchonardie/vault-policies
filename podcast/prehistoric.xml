@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dodo</title>
+      <description>The dodo (Raphus cucullatus) is an extinct flightless bird that was endemic to Mauritius,  an island east of Madagascar in the Indian Ocean. The dodo's closest relative was the also-extinct and flightless Rodrigues solitaire. The two formed the subtribe Raphina, a clade of extinct flightless birds that are a part of the group that includes pigeons and doves (the family Columbidae). The closest liv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dodo-20260812.mp3" type="audio/mpeg" length="1246848"/>
+      <guid isPermaLink="false">prehistoric-dodo-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 21:49:46 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stonehenge</title>
       <description>Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique amon</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stonehenge-20260812.mp3" type="audio/mpeg" length="1426176"/>
