@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Battle of Iwo Jima</title>
+      <description>The Battle of Iwo Jima (硫黄島の戦い, Iōtō no Tatakai,or Iōjima no Tatakai; 19 February – 26 March 1945) was a major battle in which the United States Marine Corps (USMC), United States Navy (USN), and United States Army (USA) landed on and eventually captured the island of Iwo Jima from the Imperial Japanese Army (IJA) during World War II. The American invasion, designated Operation Detachment, had the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-iwo-jima-20260812.mp3" type="audio/mpeg" length="1295232"/>
+      <guid isPermaLink="false">warvault-battle-of-iwo-jima-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 14:28:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Battle of Chickamauga</title>
       <description>The Battle of Chickamauga, fought on September 18–20, 1863, between the United States Army, or Union Army, and Confederate forces in the American Civil War, marked the end of a U.S. Army offensive, the Chickamauga Campaign, in southeastern Tennessee and northwestern Georgia. It was the first major battle of the war fought in Georgia and the most significant Union defeat in the Western Theater, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chickamauga-20260811.mp3" type="audio/mpeg" length="1393920"/>
