@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX</title>
+      <description>Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. The company operates three divisions: "Space", which conducts more orbital launches annually than any other launch provider, including national programs; "Connectivity", which operates </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-20260812.mp3" type="audio/mpeg" length="1238784"/>
+      <guid isPermaLink="false">space-spacex-20260812</guid>
+      <pubDate>Wed, 12 Aug 2026 20:41:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eileen Collins</title>
       <description>Eileen Marie Collins (born 19 November 1956) is an American retired NASA astronaut and Air Force colonel. A flight instructor and test pilot, Collins was the first woman to pilot the Space Shuttle and the first to command a Space Shuttle mission.
 A graduate of Corning Community College, where she earned an associate degree in mathematics in 1976, and Syracuse University, where she graduated with a</description>
