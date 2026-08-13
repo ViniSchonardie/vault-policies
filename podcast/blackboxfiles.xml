@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Airlines Flight 2976</title>
+      <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20260813.mp3" type="audio/mpeg" length="1457664"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-2976-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 17:57:48 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air India Flight 171</title>
       <description>Air India Flight 171 was a scheduled international passenger flight from Ahmedabad Airport, Gujarat, India, to London Gatwick Airport in Crawley, West Sussex, England. On 12 June 2025, at 13:39 IST (08:09 UTC), the Boeing 787-8 Dreamliner operating the flight crashed 32 seconds after takeoff into the student hostels of the Byramjee Jeejeebhoy Medical College, 1.7 kilometres (1 mi; 0.9 nmi) from th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-171-20260813.mp3" type="audio/mpeg" length="1416192"/>
