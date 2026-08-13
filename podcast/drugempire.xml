@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Al Capone</title>
+      <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
+Capone was born in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/al-capone-20260813.mp3" type="audio/mpeg" length="1352064"/>
+      <guid isPermaLink="false">drugempire-al-capone-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 15:55:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jalisco New Generation Cartel</title>
       <description>The Jalisco New Generation Cartel (Spanish: Cártel de Jalisco Nueva Generación, pronounced [ˈkaɾtel ðe xaˈlisko ˈnweβa xeneɾaˈsjon]), also known as CJNG, is a Mexican criminal syndicate based in Jalisco founded and headed by Nemesio Oseguera Cervantes, commonly known as El Mencho, until he was killed by the Mexican Army in 2026. The cartel has been characterized by extreme violence and public rela</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/jalisco-new-generation-cartel-20260812.mp3" type="audio/mpeg" length="1506816"/>
