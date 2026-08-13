@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Homer</title>
+      <description>Homer (; Ancient Greek: Ὅμηρος [hómɛːros], Hómēros; possibly born c. the 8th century BC) was an ancient Greek poet who is widely credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature. Although his life and authorship remain obscure, Homer was highly revered in ancient Greek society and is considered one of the most influential a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/homer-20260813.mp3" type="audio/mpeg" length="1444224"/>
+      <guid isPermaLink="false">mythology-homer-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 16:47:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Odysseus</title>
       <description>In Greek and Roman mythology, Odysseus ( ; Ancient Greek: Ὀδυσσεύς, Ὀδυσεύς, romanized: Odysseús, Odyseús, IPA: [o.dy(s).sěu̯s]), also known by the Latin variant Ulysses (, UK also ; Latin: Ulysses, Ulixes), is a legendary Greek king of Ithaca and the hero of Homer's epic poem, the Odyssey. Odysseus also plays a key role in Homer's Iliad and other works in that same epic cycle.
 As the son of Laërt</description>
