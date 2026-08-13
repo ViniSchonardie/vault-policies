@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hermann Göring</title>
+      <description>Hermann Wilhelm Göring (or Goering; German: [ˈhɛʁman ˈvɪlhɛlm ˈɡøːʁɪŋ] ; 12 January 1893 – 15 October 1946) was a German politician, aviator, military commander, and convicted war criminal. He was one of the most powerful figures in the Nazi Party, which controlled Germany from 1933 to 1945. He also served as Oberbefehlshaber der Luftwaffe (Supreme Commander of the Air Force), a position he held u</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hermann-gring-20260813.mp3" type="audio/mpeg" length="1262976"/>
+      <guid isPermaLink="false">trials-hermann-gring-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 16:51:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adolf Hitler</title>
       <description>Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born  German politician who was the dictator of Germany during the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/adolf-hitler-20260812.mp3" type="audio/mpeg" length="1171968"/>
