@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vietnam War</title>
+      <description>The Vietnam War (c. 1955 – 30 April 1975) was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam (Democratic Republic of Vietnam) and South Vietnam (Republic of Vietnam) and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the In</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/vietnam-war-20260813.mp3" type="audio/mpeg" length="1337856"/>
+      <guid isPermaLink="false">warvault-vietnam-war-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 14:31:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>September 11 attacks</title>
       <description>The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 terrorists planned and subsequently hijacked four airliners, then flew one into each of the Twin Towers at the World Trade Center in New York City. The third plane crashed into the Pentagon, th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/september-11-attacks-20260812.mp3" type="audio/mpeg" length="1564800"/>
