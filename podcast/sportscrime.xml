@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>1994 FIFA World Cup</title>
+      <description>The 1994 FIFA World Cup was the 15th FIFA World Cup, the world championship for men's national soccer teams. It was hosted by the United States and took place from June 17 to July 17, 1994, at nine venues across the country. The United States was chosen as the host by FIFA on July 4, 1988. Despite soccer's relative lack of popularity in the host nation, the tournament was the most financially succ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/1994-fifa-world-cup-20260813.mp3" type="audio/mpeg" length="1290240"/>
+      <guid isPermaLink="false">sportscrime-1994-fifa-world-cup-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 23:44:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tyson Fury</title>
       <description>Tyson Luke Fury (born 12 August 1988) is a British professional boxer. He held multiple world heavyweight championships, including unified titles from 2015 to 2016, the Ring magazine title twice between 2015 and 2022, and the World Boxing Council (WBC) title from 2020 to 2024. He also held the International Boxing Organization (IBO) title during his first reign as champion.
 At regional level, he h</description>
