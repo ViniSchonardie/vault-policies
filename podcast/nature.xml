@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lion</title>
+      <description>The lion (Panthera leo) is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a dark, hairy tuft at the tip of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane that extends from the head to the shoulders and chest.
+The lion inha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lion-20260813.mp3" type="audio/mpeg" length="1388544"/>
+      <guid isPermaLink="false">nature-lion-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 13:23:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Human</title>
       <description>Humans (Homo sapiens, meaning 'thinking man' or 'wise man') are the most abundant and widespread species of primates, characterized by bipedalism, minimal body hair, and large, complex brains enabling the development of advanced technology, culture, and language. Humans are highly social beings and tend to live in complex social structures composed of many cooperating and competing groups, from fa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/human-20260812.mp3" type="audio/mpeg" length="1275264"/>
