@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Johnny Depp</title>
+      <description>John Christopher Depp II (born June 9, 1963) is an American actor, musician, and filmmaker. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award as well as nominations for three Academy Awards and two British Academy Film Awards. His films, in which he has often played eccentric characters, have grossed over $10.8 billion worldwide.
+Depp began h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/johnny-depp-20260813.mp3" type="audio/mpeg" length="1370496"/>
+      <guid isPermaLink="false">trials-johnny-depp-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 23:46:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Holocaust</title>
       <description>The Holocaust, known in Hebrew as the Shoah, was the genocide of European Jews during World War II. From 1941 to 1945, Nazi Germany and its collaborators systematically murdered around six million Jews across German-occupied Europe, approximately two-thirds of Europe's Jewish population. The murders were committed primarily through mass shootings across Eastern Europe and poison gas chambers in ex</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/the-holocaust-20260813.mp3" type="audio/mpeg" length="1710720"/>
