@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Circe</title>
+      <description>In Greek mythology, Circe (; Ancient Greek: [[wikt:Κίρκη|Κίρκη]], romanized: Kírkē, pronounced [kírkɛː]) is a witch, sometimes considered a goddess or a nymph. In most accounts, Circe is described as the daughter of the sun god Helios and the Oceanid Perse. Circe was renowned for her vast knowledge of potions and herbs. Through the use of these and a magic wand or staff, she would transform her en</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/circe-20260813.mp3" type="audio/mpeg" length="1168512"/>
+      <guid isPermaLink="false">mythology-circe-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 20:40:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Homer</title>
       <description>Homer (; Ancient Greek: Ὅμηρος [hómɛːros], Hómēros; possibly born c. the 8th century BC) was an ancient Greek poet who is widely credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature. Although his life and authorship remain obscure, Homer was highly revered in ancient Greek society and is considered one of the most influential a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/homer-20260813.mp3" type="audio/mpeg" length="1444224"/>
