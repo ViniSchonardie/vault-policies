@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shiva</title>
+      <description>Shiva (; Sanskrit: शिव, IAST: Śiva, lit. 'The Auspicious One'), also known as Mahadeva (; Sanskrit: महादेव, IAST: Mahādevaḥ, [mɐɦaːd̪eːʋɐh], lit. 'The Great God') and Hara (Sanskrit: हर, lit. 'The Remover'), is one of the principal deities of Hinduism. He is the Supreme Being in Shaivism, one of the major traditions within Hinduism.
+In the Shaivite tradition, Shiva is the Supreme Lord who creates,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/shiva-20260813.mp3" type="audio/mpeg" length="1416192"/>
+      <guid isPermaLink="false">mythology-shiva-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 23:39:07 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Circe</title>
       <description>In Greek mythology, Circe (; Ancient Greek: [[wikt:Κίρκη|Κίρκη]], romanized: Kírkē, pronounced [kírkɛː]) is a witch, sometimes considered a goddess or a nymph. In most accounts, Circe is described as the daughter of the sun god Helios and the Oceanid Perse. Circe was renowned for her vast knowledge of potions and herbs. Through the use of these and a magic wand or staff, she would transform her en</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/circe-20260813.mp3" type="audio/mpeg" length="1168512"/>
