@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sally Ride</title>
+      <description>Sally Kristen Ride (May 26, 1951 – July 23, 2012) was an American astronaut and physicist. Born in Southern California, she joined NASA in 1978, and in 1983, became the first American woman and the third woman to fly in space. She was the youngest American astronaut to have flown in space, having done so at the age of 32.
+Ride was a graduate of Stanford University, where she earned a Bachelor of S</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sally-ride-20260813.mp3" type="audio/mpeg" length="1538688"/>
+      <guid isPermaLink="false">space-sally-ride-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 20:39:28 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>International Space Station</title>
       <description>The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA (United States), Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human space</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/international-space-station-20260813.mp3" type="audio/mpeg" length="1320576"/>
