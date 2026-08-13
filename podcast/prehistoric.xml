@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Human evolution</title>
+      <description>Homo sapiens is a distinct species of the hominid family of primates, which includes all the great apes. Over their evolutionary history, humans gradually developed traits such as bipedalism, dexterity, and complex language. Modern humans interbred with archaic humans, indicating that their evolution was not linear but weblike. The study of the origins of humans involves several scientific discipl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/human-evolution-20260813.mp3" type="audio/mpeg" length="1191552"/>
+      <guid isPermaLink="false">prehistoric-human-evolution-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 13:08:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dodo</title>
       <description>The dodo (Raphus cucullatus) is an extinct flightless bird that was endemic to Mauritius,  an island east of Madagascar in the Indian Ocean. The dodo's closest relative was the also-extinct and flightless Rodrigues solitaire. The two formed the subtribe Raphina, a clade of extinct flightless birds that are a part of the group that includes pigeons and doves (the family Columbidae). The closest liv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/dodo-20260812.mp3" type="audio/mpeg" length="1246848"/>
