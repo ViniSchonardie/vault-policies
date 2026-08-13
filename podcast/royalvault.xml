@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Diana, Princess of Wales</title>
+      <description>Diana, Princess of Wales (born Diana Frances Spencer; 1 July 1961 – 31 August 1997), was a member of the British royal family. She was the first wife of Charles III (then Prince of Wales) and mother of Princes William and Harry. Her activism and glamour made her an international icon and earned her enduring popularity.
+Diana was born into the British nobility and grew up close to the royal family,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/diana-princess-of-wales-20260813.mp3" type="audio/mpeg" length="1425408"/>
+      <guid isPermaLink="false">royal-diana-princess-of-wales-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 19:08:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George V</title>
       <description>George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.
 George was born during the reign of his paternal grandmother, Queen Victoria, as the second son of the Prince and Princess of Wales (later King Edward VII and Queen Alexandra). He was third in the line of s</description>
