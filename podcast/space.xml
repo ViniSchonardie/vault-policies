@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Space Shuttle Columbia disaster</title>
+      <description>On February 1, 2003, Space Shuttle Columbia disintegrated as it re-entered the atmosphere over Texas and Louisiana, killing all seven astronauts on board. It was the second of two Space Shuttle missions to end in disaster, after the loss of Challenger and crew in 1986.
+The mission, designated STS-107, was the twenty-eighth flight for the orbiter and the 113th flight of the Space Shuttle fleet. It </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/space-shuttle-columbia-disaster-20260813.mp3" type="audio/mpeg" length="1244928"/>
+      <guid isPermaLink="false">space-space-shuttle-columbia-disaster-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 14:28:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SpaceX</title>
       <description>Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. The company operates three divisions: "Space", which conducts more orbital launches annually than any other launch provider, including national programs; "Connectivity", which operates </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-20260812.mp3" type="audio/mpeg" length="1238784"/>
