@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Che Guevara</title>
+      <description>Ernesto "Che" Guevara de la Serna (14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, author, guerrilla leader, diplomat, politician, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a countercultural symbol of rebellion and global insignia in popular culture.
+As a medical student, Guevara travelled throughout South America and was a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/che-guevara-20260813.mp3" type="audio/mpeg" length="1460352"/>
+      <guid isPermaLink="false">realstory-che-guevara-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 15:57:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George Washington</title>
       <description>George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/george-washington-20260812.mp3" type="audio/mpeg" length="1203072"/>
