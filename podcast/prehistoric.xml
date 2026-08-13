@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ötzi</title>
+      <description>Ötzi (German: [œtsi]; c. 3275 BC - c. 3230 BC), also called The Iceman, Similaun man, or Tyrolean Iceman, is the natural mummy of a man who lived between 3350 and 3105 BC. Ötzi's remains were discovered on 19 September 1991, in the Ötztal Alps (hence the nickname "Ötzi") at the Austria–Italy border. He is Europe's oldest known natural human mummy, showing an unprecedented view of Chalcolithic (Cop</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/tzi-20260813.mp3" type="audio/mpeg" length="1440000"/>
+      <guid isPermaLink="false">prehistoric-tzi-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 21:48:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cretaceous–Paleogene extinction event</title>
       <description>The Cretaceous–Paleogene (K–Pg) extinction event, formerly known as the Cretaceous-Tertiary (K–T) extinction event, was a major mass extinction of three-quarters of the plant and animal species on Earth  which occurred around 66 million years ago. The event caused the extinction of all of the non-avian dinosaurs and most other tetrapods weighing more than 25 kg (55 lb), with the exception of some </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cretaceouspaleogene-extinction-event-20260813.mp3" type="audio/mpeg" length="1282176"/>
