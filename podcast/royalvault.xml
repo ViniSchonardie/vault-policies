@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George V</title>
+      <description>George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.
+George was born during the reign of his paternal grandmother, Queen Victoria, as the second son of the Prince and Princess of Wales (later King Edward VII and Queen Alexandra). He was third in the line of s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/george-v-20260813.mp3" type="audio/mpeg" length="1180032"/>
+      <guid isPermaLink="false">royal-george-v-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 15:07:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Napoleon</title>
       <description>Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 May 1821), later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East dur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/napoleon-20260812.mp3" type="audio/mpeg" length="1549056"/>
