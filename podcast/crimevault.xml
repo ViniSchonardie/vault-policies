@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Timothy McVeigh</title>
+      <description>Timothy James McVeigh (April 23, 1968 – June 11, 2001) was an American domestic terrorist who masterminded and perpetrated the Oklahoma City bombing on April 19, 1995. The bombing itself killed 167 people (including 19 children), injured 684 people, and destroyed one-third of the Alfred P. Murrah Federal Building. A rescue worker was killed after the bombing when debris struck her head, bringing t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/timothy-mcveigh-20260813.mp3" type="audio/mpeg" length="1326336"/>
+      <guid isPermaLink="false">crime-timothy-mcveigh-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 19:00:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Disappearance of Madeleine McCann</title>
       <description>On 3 May 2007, Madeleine Beth McCann, a 3‑year‑old British girl, disappeared from her bed in a holiday apartment in Praia da Luz, Lagos, Portugal. The Daily Telegraph described her disappearance as "the most heavily reported missing-person case in modern history". Madeleine's whereabouts remain unknown, although German prosecutors believe she is dead.
 Madeleine was on holiday from the United Kingd</description>
