@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mexican drug war</title>
+      <description>The Mexican drug war is an ongoing asymmetric armed conflict between the Mexican government and various drug trafficking syndicates. When the Mexican military intervened in 2006, the government's main objective was to reduce drug-related violence. The Mexican government has asserted that its primary focus is on dismantling the cartels and preventing drug trafficking. The conflict has been describe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/mexican-drug-war-20260813.mp3" type="audio/mpeg" length="1628160"/>
+      <guid isPermaLink="false">drugempire-mexican-drug-war-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 22:40:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El Chapo</title>
       <description>Joaquín Archivaldo Guzmán Loera (Spanish: [xoaˈkin aɾtʃiˈβaldo ɣusˈman loˈeɾa]; born 4 April 1957), commonly known as "El Chapo", is a Mexican former drug lord and the former top leader of the Sinaloa Cartel. Guzmán is believed to be responsible for the deaths of over 34,000 people, and was considered to be the most powerful drug trafficker in the world until he was extradited to the United States</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/el-chapo-20260813.mp3" type="audio/mpeg" length="1106688"/>
