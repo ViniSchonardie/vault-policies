@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Diego Maradona</title>
+      <description>Diego Armando Maradona (30 October 1960 – 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the Century award, alongside Pelé.
+An advanced playmaker who operated in the classic number 10 position, Maradona's vision, passing, ball control, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/diego-maradona-20260813.mp3" type="audio/mpeg" length="1092480"/>
+      <guid isPermaLink="false">sportscrime-diego-maradona-20260813</guid>
+      <pubDate>Thu, 13 Aug 2026 16:01:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jannik Sinner</title>
       <description>Jannik Sinner (born 16 August 2001) is an Italian professional tennis player. He is currently ranked world No.1 by Association of Tennis Professionals (ATP), and was the year-end No. 1 in 2024. Sinner has won 29 ATP Tour-level singles titles, including four majors, ten Masters 1000 events, and two ATP Finals titles. He also led Italy to back-to-back Davis Cup crowns in 2023 and 2024. Sinner is one</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/jannik-sinner-20260812.mp3" type="audio/mpeg" length="1162752"/>
