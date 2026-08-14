@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Prince Harry, Duke of Sussex</title>
+      <description>Prince Harry, Duke of Sussex (Henry Charles Albert David; born 15 September 1984), is a member of the British royal family. He is the younger son of King Charles III and Diana, Princess of Wales, and is fifth in the line of succession to the British throne.
+Harry was born during the reign of his paternal grandmother, Queen Elizabeth II. He was educated at Wetherby School, Ludgrove School, and Eton</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/prince-harry-duke-of-sussex-20260814.mp3" type="audio/mpeg" length="1476480"/>
+      <guid isPermaLink="false">royal-prince-harry-duke-of-sussex-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 18:59:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Grigori Rasputin</title>
       <description>Grigori Yefimovich Rasputin (21 January [O.S. 9 January] 1869 – 30 December [O.S. 17 December] 1916) was a Russian mystic and faith healer. He is best known for having befriended the imperial family of Nicholas II, the last Emperor of Russia, through whom he gained considerable influence in the final years of the Russian Empire.
 Rasputin was born to a family of peasants in the Siberian village of </description>
