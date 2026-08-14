@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dwight D. Eisenhower</title>
+      <description>Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 – March 28, 1969), also known as Ike, was the 34th president of the United States from 1953 to 1961. In his previous military career, he led the Allied Expeditionary Force during the Second World War, launched decisive campaigns in North Africa and Normandy and became a General of the Army.
+Eisenhower graduated from West Point</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/dwight-d-eisenhower-20260814.mp3" type="audio/mpeg" length="1004544"/>
+      <guid isPermaLink="false">warvault-dwight-d-eisenhower-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 17:54:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph Stalin</title>
       <description>Joseph Vissarionovich Stalin (né Dzhugashvili; 18 December [O.S. 6 December] 1878 – 5 March 1953) was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as the General Secretary of the Communist Party from 1922 to 1952 and as the premier from 1941 until his death. Despite initially governing the country as part of a collective leadershi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/joseph-stalin-20260814.mp3" type="audio/mpeg" length="1370496"/>
