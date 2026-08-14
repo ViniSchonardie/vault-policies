@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1972 Andes flight disaster</title>
+      <description>Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster (Tragedia de los Andes, literally Tragedy of the Andes) and the Miracle of the Andes (Milagro de los Andes).
+The inexperie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1972-andes-flight-disaster-20260814.mp3" type="audio/mpeg" length="1410816"/>
+      <guid isPermaLink="false">aviation-1972-andes-flight-disaster-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 21:19:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tenerife airport disaster</title>
       <description>On 27 March 1977, two Boeing 747 passenger jets collided on a runway at Los Rodeos Airport (now Tenerife North–Ciudad de La Laguna Airport) on the Spanish island of Tenerife, killing 583 people and injuring 61 others in the deadliest accident in aviation history. The incident occurred at 17:06 GMT (UTC +0) in dense fog, when KLM Flight 4805 initiated its takeoff run, colliding with the starboard s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tenerife-airport-disaster-20260814.mp3" type="audio/mpeg" length="1220352"/>
