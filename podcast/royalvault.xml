@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Augustus</title>
+      <description>Augustus (born Gaius Octavius; 23 September 63 BC – 19 August AD 14), also known as Octavian (Latin: Octavianus), was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14. The reign of Augustus initiated an imperial cult and an era of imperial peace (the Pax Romana or Pax Augusta) when the Roman world was largely free of armed conflict. The principate, a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/augustus-20260814.mp3" type="audio/mpeg" length="1418112"/>
+      <guid isPermaLink="false">royal-augustus-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 22:19:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Prince Harry, Duke of Sussex</title>
       <description>Prince Harry, Duke of Sussex (Henry Charles Albert David; born 15 September 1984), is a member of the British royal family. He is the younger son of King Charles III and Diana, Princess of Wales, and is fifth in the line of succession to the British throne.
 Harry was born during the reign of his paternal grandmother, Queen Elizabeth II. He was educated at Wetherby School, Ludgrove School, and Eton</description>
