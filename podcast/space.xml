@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sputnik 1</title>
+      <description>Sputnik 1  (, Russian: Спутник-1, Satellite 1), often referred to as simply Sputnik, was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957 as part of the Soviet space program. It sent a radio signal back to Earth for three weeks before its three silver-zinc batteries became depleted. Aerodynamic drag caused it to fall bac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sputnik-1-20260814.mp3" type="audio/mpeg" length="1464576"/>
+      <guid isPermaLink="false">space-sputnik-1-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 20:29:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Moon landing conspiracy theories</title>
       <description>Conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA, possibly with the aid of other organizations. Such views are considered fringe. The most notable claim of these conspiracy theories is that the six crewed landings (1969–1972) were faked and that twelve Apollo astronauts did not actually land on the Moon. Since the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/moon-landing-conspiracy-theories-20260814.mp3" type="audio/mpeg" length="1378176"/>
