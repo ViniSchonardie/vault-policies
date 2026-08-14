@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Roman Polanski</title>
+      <description>Raymond Roman Thierry Polański (né Liebling; born 18 August 1933) is a Polish and French filmmaker and actor. He is the recipient of numerous accolades, including an Academy Award, three British Academy Film Awards, ten César Awards, and two Golden Globe Awards as well as a Golden Bear and a Palme d'Or.
+In 1977, Polanski was arrested in the United States for drugging and raping a 13-year-old girl.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/roman-polanski-20260814.mp3" type="audio/mpeg" length="1159680"/>
+      <guid isPermaLink="false">trials-roman-polanski-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 20:42:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nazi Germany</title>
       <description>Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. The Third Reich, meaning "Third Realm" or "Third Empire", referred to the Nazi claim that Nazi Germany was the successor to the Holy Roman Empire (800–1806) and the Ge</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/nazi-germany-20260814.mp3" type="audio/mpeg" length="1435008"/>
