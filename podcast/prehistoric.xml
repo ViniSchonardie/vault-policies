@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Homo erectus</title>
+      <description>Homo erectus ( lit. 'upright man') is an extinct species of archaic human from the Pleistocene, spanning nearly 2 million years. It is the first human species to evolve a humanlike body plan and gait, to leave Africa and colonize Asia and Europe, and to wield fire. Some populations of H. erectus were ancestors of later human species, including H. heidelbergensis—the last common ancestor of modern </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-erectus-20260814.mp3" type="audio/mpeg" length="1430016"/>
+      <guid isPermaLink="false">prehistoric-homo-erectus-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 21:28:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Permian–Triassic extinction event</title>
       <description>The Permian–Triassic extinction event, colloquially known as the Great Dying, was an extinction event that occurred around the boundary between the Permian and Triassic geologic periods, and with them the Paleozoic and Mesozoic eras. It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 62% of genera, 81% of marine species,  and 70% of terrestrial ver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/permiantriassic-extinction-event-20260814.mp3" type="audio/mpeg" length="1386240"/>
