@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Yakuza</title>
+      <description>Yakuza (Japanese: ヤクザ; IPA: [jaꜜkɯ(d)za]; English: ), also known as gokudō (極道; "the extreme path", IPA: [gokɯꜜdoː]), or simply the Japanese Mafia, are members of transnational organized crime syndicates originating in Japan. The Japanese police and media (by request of the police) call them bōryokudan (暴力団; "violent groups", IPA: [boːɾʲokɯꜜdaɴ]), while the yakuza call themselves ninkyō dantai (任侠</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/yakuza-20260814.mp3" type="audio/mpeg" length="1193088"/>
+      <guid isPermaLink="false">drugempire-yakuza-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 15:46:25 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mexican drug war</title>
       <description>The Mexican drug war is an ongoing asymmetric armed conflict between the Mexican government and various drug trafficking syndicates. When the Mexican military intervened in 2006, the government's main objective was to reduce drug-related violence. The Mexican government has asserted that its primary focus is on dismantling the cartels and preventing drug trafficking. The conflict has been describe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/mexican-drug-war-20260813.mp3" type="audio/mpeg" length="1628160"/>
