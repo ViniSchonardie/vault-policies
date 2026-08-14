@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Genghis Khan</title>
+      <description>Genghis Khan (born Temüjin; c. 1162 – 18 or 25 August 1227), also known as Chinggis Khan, was the founder and first khan of the Mongol Empire. After spending most of his life uniting the Mongol tribes, he launched a series of military campaigns, conquering large parts of China and Central Asia.
+Genghis Khan was born Temüjin between 1155 and 1167 as the eldest child of Yesugei, a Mongol chieftain o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/genghis-khan-20260814.mp3" type="audio/mpeg" length="1266432"/>
+      <guid isPermaLink="false">warvault-genghis-khan-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 21:38:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dwight D. Eisenhower</title>
       <description>Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 – March 28, 1969), also known as Ike, was the 34th president of the United States from 1953 to 1961. In his previous military career, he led the Allied Expeditionary Force during the Second World War, launched decisive campaigns in North Africa and Normandy and became a General of the Army.
 Eisenhower graduated from West Point</description>
