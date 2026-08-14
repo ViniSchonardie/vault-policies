@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>United Airlines Flight 232</title>
+      <description>United Airlines Flight 232 was a regularly scheduled United Airlines flight from Stapleton International Airport in Denver to O'Hare International Airport in Chicago, continuing to Philadelphia International Airport in Philadelphia, United States. On July 19, 1989, the McDonnell Douglas DC-10 serving the flight crash-landed at Sioux Gateway Airport in Sioux City, Iowa, after suffering a catastroph</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-232-20260814.mp3" type="audio/mpeg" length="1201152"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-232-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 14:51:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 1</title>
       <description>Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/apollo-1-20260813.mp3" type="audio/mpeg" length="1353600"/>
