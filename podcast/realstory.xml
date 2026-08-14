@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Oppenheimer</title>
+      <description>J. Robert Oppenheimer (born Julius Robert Oppenheimer   OP-ən-hy-mər; April 22, 1904 – February 18, 1967) was an American theoretical physicist who served as the director of the Manhattan Project's Los Alamos Laboratory during World War II. He is often called the "father of the atomic bomb" for his role in overseeing the development of the first nuclear weapons.
+Born in New York City, Oppenheimer </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/robert-oppenheimer-20260814.mp3" type="audio/mpeg" length="1213056"/>
+      <guid isPermaLink="false">realstory-robert-oppenheimer-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 19:04:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nikola Tesla</title>
       <description>Nikola Tesla (10 July 1856 – 7 January 1943) was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.
 Born and raised in the Austro-Hungarian Empire, Tesla first studied engineering and physics in the 1870s without receiving a degree. He then gained practical experience in the early 18</description>
