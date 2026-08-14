@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Grigori Rasputin</title>
+      <description>Grigori Yefimovich Rasputin (21 January [O.S. 9 January] 1869 – 30 December [O.S. 17 December] 1916) was a Russian mystic and faith healer. He is best known for having befriended the imperial family of Nicholas II, the last Emperor of Russia, through whom he gained considerable influence in the final years of the Russian Empire.
+Rasputin was born to a family of peasants in the Siberian village of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/grigori-rasputin-20260814.mp3" type="audio/mpeg" length="1440000"/>
+      <guid isPermaLink="false">royal-grigori-rasputin-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 15:01:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Elizabeth I</title>
       <description>Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.
 Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two y</description>
