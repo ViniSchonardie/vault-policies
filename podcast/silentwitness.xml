@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Heinrich Himmler</title>
+      <description>Heinrich Luitpold Himmler (German: [ˈhaɪnʁɪç ˈluːɪtpɔlt ˈhɪmlɐ] ; 7 October 1900 – 23 May 1945) was a German Nazi politician and military leader. He was the 4th Reichsführer of the Schutzstaffel (Protection Squadron; SS) from 1929 to 1945. He was a leading member of the Nazi Party, and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the ge</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/heinrich-himmler-20260814.mp3" type="audio/mpeg" length="1294080"/>
+      <guid isPermaLink="false">trials-heinrich-himmler-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 23:26:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Roman Polanski</title>
       <description>Raymond Roman Thierry Polański (né Liebling; born 18 August 1933) is a Polish and French filmmaker and actor. He is the recipient of numerous accolades, including an Academy Award, three British Academy Film Awards, ten César Awards, and two Golden Globe Awards as well as a Golden Bear and a Palme d'Or.
 In 1977, Polanski was arrested in the United States for drugging and raping a 13-year-old girl.</description>
