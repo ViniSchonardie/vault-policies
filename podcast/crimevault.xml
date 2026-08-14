@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>D. B. Cooper</title>
+      <description>On November 24, 1971, an unidentified man using the alias Dan Cooper, later and better known as D. B. Cooper, hijacked Northwest Orient Airlines Flight 305, a Boeing 727 aircraft flying from Portland, Oregon, to Seattle, Washington. Cooper told the flight crew he had a bomb and demanded $200,000 in ransom (equivalent to $1,600,000 in 2025) and four parachutes upon landing in Seattle.
+After releasi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/d-b-cooper-20260814.mp3" type="audio/mpeg" length="1434240"/>
+      <guid isPermaLink="false">crime-d-b-cooper-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 18:51:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph James Dengelo</title>
       <description>Joseph James DeAngelo Jr. is an American serial killer, serial rapist, and former police officer known as the Golden State Killer, the Original Night Stalker, the East Area Rapist and the Visalia Ransacker, who committed thirteen murders and numerous rapes and burglaries across California between 1974 and 1986. DeAngelo's crimes began in Northern California, where he committed a minimum of 120 bur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-james-dengelo-20260814.mp3" type="audio/mpeg" length="1331328"/>
