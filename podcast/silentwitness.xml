@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nazi Germany</title>
+      <description>Nazi Germany, officially the German Reich and later the Greater German Reich, was the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. The Third Reich, meaning "Third Realm" or "Third Empire", referred to the Nazi claim that Nazi Germany was the successor to the Holy Roman Empire (800–1806) and the Ge</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/nazi-germany-20260814.mp3" type="audio/mpeg" length="1435008"/>
+      <guid isPermaLink="false">trials-nazi-germany-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 16:47:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Johnny Depp</title>
       <description>John Christopher Depp II (born June 9, 1963) is an American actor, musician, and filmmaker. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award as well as nominations for three Academy Awards and two British Academy Film Awards. His films, in which he has often played eccentric characters, have grossed over $10.8 billion worldwide.
 Depp began h</description>
