@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>John Glenn</title>
+      <description>John Herschel Glenn Jr. (July 18, 1921 – December 8, 2016) was an American Marine Corps aviator, astronaut, businessman, and politician. He was the third American in space and the first to orbit the Earth, circling it three times in 1962. Following his retirement from NASA, he served from 1974 to 1999 as a U.S. senator from Ohio. In 1998, he flew into space again at the age of 77.
+Before joining N</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/john-glenn-20260814.mp3" type="audio/mpeg" length="1235328"/>
+      <guid isPermaLink="false">space-john-glenn-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 14:21:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sally Ride</title>
       <description>Sally Kristen Ride (May 26, 1951 – July 23, 2012) was an American astronaut and physicist. Born in Southern California, she joined NASA in 1978, and in 1983, became the first American woman and the third woman to fly in space. She was the youngest American astronaut to have flown in space, having done so at the age of 32.
 Ride was a graduate of Stanford University, where she earned a Bachelor of S</description>
