@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tenerife airport disaster</title>
+      <description>On 27 March 1977, two Boeing 747 passenger jets collided on a runway at Los Rodeos Airport (now Tenerife North–Ciudad de La Laguna Airport) on the Spanish island of Tenerife, killing 583 people and injuring 61 others in the deadliest accident in aviation history. The incident occurred at 17:06 GMT (UTC +0) in dense fog, when KLM Flight 4805 initiated its takeoff run, colliding with the starboard s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tenerife-airport-disaster-20260814.mp3" type="audio/mpeg" length="1220352"/>
+      <guid isPermaLink="false">aviation-tenerife-airport-disaster-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 17:51:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>United Airlines Flight 232</title>
       <description>United Airlines Flight 232 was a regularly scheduled United Airlines flight from Stapleton International Airport in Denver to O'Hare International Airport in Chicago, continuing to Philadelphia International Airport in Philadelphia, United States. On July 19, 1989, the McDonnell Douglas DC-10 serving the flight crash-landed at Sioux Gateway Airport in Sioux City, Iowa, after suffering a catastroph</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-232-20260814.mp3" type="audio/mpeg" length="1201152"/>
