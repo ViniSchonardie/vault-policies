@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Zeus</title>
+      <description>Zeus (, Ancient Greek: Ζεύς) is the supreme deity of the Greek pantheon. He is a sky and thunder god in ancient Greek religion and mythology, who rules as king of the gods on Mount Olympus.
+Zeus is the child of Cronus and Rhea. In most traditions, he is married to Hera, by whom he is usually said to have fathered Ares, Eileithyia, Hebe, and Hephaestus. At the oracle of Dodona, his consort was said</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/zeus-20260814.mp3" type="audio/mpeg" length="1264896"/>
+      <guid isPermaLink="false">mythology-zeus-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 20:32:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Athena</title>
       <description>Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva. Athena was regarded as the patron and protectress of various cities across Greece, particularly the city of Athens, from which she most likely received her name. Her major symbols include owls, olive trees, snakes, a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/athena-20260814.mp3" type="audio/mpeg" length="897792"/>
