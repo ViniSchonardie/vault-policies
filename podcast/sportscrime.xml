@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Muhammad Ali</title>
+      <description>Muhammad Ali ( ah-LEE; born Cassius Marcellus Clay Jr.; January 17, 1942 – June 3, 2016) was an American professional boxer and activist. A global cultural icon, widely known by the nickname "the Greatest", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine heavyweight title from 1964 to 1970, was the undisputed champion from 1974 to 1978, and was the WBA</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/muhammad-ali-20260814.mp3" type="audio/mpeg" length="1195392"/>
+      <guid isPermaLink="false">sportscrime-muhammad-ali-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 15:52:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1994 FIFA World Cup</title>
       <description>The 1994 FIFA World Cup was the 15th FIFA World Cup, the world championship for men's national soccer teams. It was hosted by the United States and took place from June 17 to July 17, 1994, at nine venues across the country. The United States was chosen as the host by FIFA on July 4, 1988. Despite soccer's relative lack of popularity in the host nation, the tournament was the most financially succ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/1994-fifa-world-cup-20260813.mp3" type="audio/mpeg" length="1290240"/>
