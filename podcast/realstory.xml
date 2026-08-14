@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Christopher Columbus</title>
+      <description>Christopher Columbus (; between 25 August and 31 October 1451 – 20 May 1506) was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. His expeditions were the first known European contact with the Caribbean and Cent</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/christopher-columbus-20260814.mp3" type="audio/mpeg" length="1430784"/>
+      <guid isPermaLink="false">realstory-christopher-columbus-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 21:20:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Oppenheimer</title>
       <description>J. Robert Oppenheimer (born Julius Robert Oppenheimer   OP-ən-hy-mər; April 22, 1904 – February 18, 1967) was an American theoretical physicist who served as the director of the Manhattan Project's Los Alamos Laboratory during World War II. He is often called the "father of the atomic bomb" for his role in overseeing the development of the first nuclear weapons.
 Born in New York City, Oppenheimer </description>
