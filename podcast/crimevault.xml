@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>El Chapo</title>
+      <description>Joaquín Archivaldo Guzmán Loera (Spanish: [xoaˈkin aɾtʃiˈβaldo ɣusˈman loˈeɾa]; born 4 April 1957), commonly known as "El Chapo", is a Mexican former drug lord and the former top leader of the Sinaloa Cartel. Guzmán is believed to be responsible for the deaths of over 34,000 people, and was considered to be the most powerful drug trafficker in the world until he was extradited to the United States</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/el-chapo-20260815.mp3" type="audio/mpeg" length="1448064"/>
+      <guid isPermaLink="false">crime-el-chapo-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 13:42:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Dahlia</title>
       <description>Elizabeth Short (July 29, 1924 – c. January 14–15, 1947), posthumously known as the Black Dahlia, was an American woman found murdered in the Leimert Park neighborhood of Los Angeles, California, on January 15, 1947. Her case became highly publicized owing to the gruesome nature of the crime, which included the mutilation and bisection of her corpse.
 A native of Boston, Short spent her early life </description>
