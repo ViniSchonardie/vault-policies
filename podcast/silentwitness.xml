@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aileen Wuornos</title>
+      <description>Aileen Carol Wuornos (; née Pittman; February 29, 1956 – October 9, 2002) was an American serial killer. Between 1989 and 1990, while engaging in street prostitution along highways in Florida, Wuornos shot, killed, and robbed seven of her male clients. She initially claimed that her victims had either raped or attempted to rape her, and that the homicides were committed in self-defense, but later </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/aileen-wuornos-20260815.mp3" type="audio/mpeg" length="1378944"/>
+      <guid isPermaLink="false">trials-aileen-wuornos-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 16:19:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Heinrich Himmler</title>
       <description>Heinrich Luitpold Himmler (German: [ˈhaɪnʁɪç ˈluːɪtpɔlt ˈhɪmlɐ] ; 7 October 1900 – 23 May 1945) was a German Nazi politician and military leader. He was the 4th Reichsführer of the Schutzstaffel (Protection Squadron; SS) from 1929 to 1945. He was a leading member of the Nazi Party, and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the ge</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/heinrich-himmler-20260814.mp3" type="audio/mpeg" length="1294080"/>
