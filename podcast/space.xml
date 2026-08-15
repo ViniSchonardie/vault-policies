@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Falcon 9</title>
+      <description>Falcon 9 is a partially reusable, two-stage-to-orbit, medium-lift launch vehicle designed and manufactured in the United States by SpaceX. The first Falcon 9 launch was on June 4, 2010, and the first Commercial Resupply mission to the International Space Station (ISS) launched on October 8, 2012. In 2020, it became the first commercial rocket to launch humans to orbit. With 672 successful flights,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/falcon-9-20260815.mp3" type="audio/mpeg" length="1368576"/>
+      <guid isPermaLink="false">space-falcon-9-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 16:33:42 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Voyager 2</title>
       <description>Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants (Jupiter and Saturn) and enabled further encounters with the ice giants (Uranus and Neptune). The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voyager-2-20260815.mp3" type="audio/mpeg" length="1578624"/>
