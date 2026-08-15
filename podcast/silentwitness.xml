@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Socrates</title>
+      <description>Socrates (; Ancient Greek: Σωκράτης, romanized: Sōkrátēs; c. 470 – 399 BC) was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy. An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-20260815.mp3" type="audio/mpeg" length="1115904"/>
+      <guid isPermaLink="false">trials-socrates-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 23:25:13 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joseph Goebbels</title>
       <description>Paul Joseph Goebbels (29 October 1897 – 1 May 1945) was a German politician and philologist who was the Gauleiter (district leader) of Berlin, chief propagandist for the Nazi Party, and then Reich Minister of Propaganda from 1933 until his suicide in 1945. He was one of Adolf Hitler's closest and most devoted followers and was known for his skills in public speaking and his extreme antisemitism wh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/joseph-goebbels-20260815.mp3" type="audio/mpeg" length="1317120"/>
