@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hermes</title>
+      <description>Hermes (; Ancient Greek: Ἑρμῆς) is an Olympian deity in ancient Greek religion and mythology considered the herald of the gods. He is also widely considered the protector of human heralds, travelers, thieves, merchants, and orators. He is able to move quickly and freely between the worlds of the mortal and the divine aided by his winged sandals. Hermes plays the role of the psychopomp or "soul gui</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hermes-20260815.mp3" type="audio/mpeg" length="1107840"/>
+      <guid isPermaLink="false">mythology-hermes-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 20:22:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aphrodite</title>
       <description>Aphrodite ( , AF-rə-DY-tee) is an ancient Greek goddess associated with love, lust, beauty, pleasure, passion, procreation, and as her syncretised Roman counterpart Venus, desire, sex, fertility, prosperity, and victory. Aphrodite's major symbols include seashells, myrtles, roses, doves, sparrows, and swans. The cult of Aphrodite may have been derived from the Phoenician goddess Astarte, a cognate</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/aphrodite-20260815.mp3" type="audio/mpeg" length="1431936"/>
