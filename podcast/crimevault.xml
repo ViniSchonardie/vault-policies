@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lizzie Borden</title>
+      <description>Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, nine days before the death of her older sister Emma.
+The Borden murders a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lizzie-borden-20260815.mp3" type="audio/mpeg" length="1018368"/>
+      <guid isPermaLink="false">crime-lizzie-borden-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 22:15:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Waco siege</title>
       <description>The Waco siege, also known as the Waco massacre, was the siege by US federal government and Texas state law enforcement officials of a compound belonging to the religious cult known as the Branch Davidians, between February 28 and April 19 of 1993, which culminated in the massacre of 76 civilians, including 28 children. The Branch Davidians, led by David Koresh, were headquartered at Mount Carmel </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/waco-siege-20260815.mp3" type="audio/mpeg" length="1248000"/>
