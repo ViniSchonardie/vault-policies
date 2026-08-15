@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Platypus</title>
+      <description>The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record. Together with the four species of echidna, it is one</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/platypus-20260815.mp3" type="audio/mpeg" length="1344384"/>
+      <guid isPermaLink="false">nature-platypus-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 20:32:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jaguar</title>
       <description>The jaguar (Panthera onca) is a large cat species and the only living member of the genus Panthera that is native to the Americas. Its distinctively marked coat features pale yellow to tan colored fur covered by spots that transition to rosettes on the sides, although a melanistic black coat appears in some individuals. With a body length of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (3</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/jaguar-20260815.mp3" type="audio/mpeg" length="1177728"/>
