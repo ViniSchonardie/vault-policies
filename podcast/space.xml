@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Space Race</title>
+      <description>The Space Race (Russian: космическая гонка, romanized: kosmicheskaya gonka, IPA: [kɐsˈmʲitɕɪskəjə ˈɡonkə]) was a 20th-century competition between the Cold War rivals, the United States and the Soviet Union, to achieve superior spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War II and the onset of the Cold War. The</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/space-race-20260815.mp3" type="audio/mpeg" length="1530240"/>
+      <guid isPermaLink="false">space-space-race-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 20:19:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Falcon 9</title>
       <description>Falcon 9 is a partially reusable, two-stage-to-orbit, medium-lift launch vehicle designed and manufactured in the United States by SpaceX. The first Falcon 9 launch was on June 4, 2010, and the first Commercial Resupply mission to the International Space Station (ISS) launched on October 8, 2012. In 2020, it became the first commercial rocket to launch humans to orbit. With 672 successful flights,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/falcon-9-20260815.mp3" type="audio/mpeg" length="1368576"/>
