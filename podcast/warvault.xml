@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Benito Mussolini</title>
+      <description>Benito Amilcare Andrea Mussolini (29 July 1883 – 28 April 1945) was an Italian politician, journalist, and dictator who led Italy as Il Duce from 1922 until his overthrow in 1943. He founded fascism in 1919 with the creation of the Fasci Italiani di Combattimento, which became the National Fascist Party (PNF) in 1921. Mussolini was appointed Prime Minister of Italy after the March on Rome in 1922,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/benito-mussolini-20260815.mp3" type="audio/mpeg" length="1542144"/>
+      <guid isPermaLink="false">warvault-benito-mussolini-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 21:35:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Julius Caesar</title>
       <description>Gaius Julius Caesar (12 or 13 July 100 BC – 15 March 44 BC) was a Roman general, statesman, and author who was the dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC. A member of the First Triumvirate, he led the Roman armies through the Gallic Wars and defeated his political rival Pompey in Caesar's civil war. He consolidated power and proclaimed himsel</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/julius-caesar-20260815.mp3" type="audio/mpeg" length="1214592"/>
