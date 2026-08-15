@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mohammed bin Salman</title>
+      <description>Mohammed bin Salman Al Saud (born 31 August 1985), also known as MbS, is the de facto ruler of the Kingdom of Saudi Arabia, formally serving as  Crown Prince and Prime Minister. He is the heir apparent to the Saudi throne, the son of King Salman, and the grandson of the nation's founder, Ibn Saud.
+Mohammed is the first child of King Salman bin Abdulaziz and his third wife, Fahda bint Falah Al Hith</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/mohammed-bin-salman-20260815.mp3" type="audio/mpeg" length="1329408"/>
+      <guid isPermaLink="false">royal-mohammed-bin-salman-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 18:34:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Holy Roman Empire</title>
       <description>The Holy Roman Empire, also known as the Holy Roman Empire of the German Nation after 1512, was a polity comprising and controlling much of Central Europe and Western Europe, headed by the Holy Roman Emperor and characterized by a decentralized political structure. It developed in the Early Middle Ages (beginning in either 800 or 962), and lasted for a millennium until its dissolution in 1806 duri</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/holy-roman-empire-20260815.mp3" type="audio/mpeg" length="1360128"/>
