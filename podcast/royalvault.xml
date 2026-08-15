@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Idi Amin</title>
+      <description>Awon'go Idi Amin Dada Oumee (30 May 1928 – 16 August 2003) was a Ugandan military officer and dictator who served as the third president of Uganda from 1971 until his overthrow in 1979. He gained power after the 1971 Ugandan coup d'état. International observers and human rights groups estimate that between 100,000 and 500,000 people were killed under his regime.
+Amin was born to a Kakwa father and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/idi-amin-20260815.mp3" type="audio/mpeg" length="1252992"/>
+      <guid isPermaLink="false">royal-idi-amin-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 22:17:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mohammed bin Salman</title>
       <description>Mohammed bin Salman Al Saud (born 31 August 1985), also known as MbS, is the de facto ruler of the Kingdom of Saudi Arabia, formally serving as  Crown Prince and Prime Minister. He is the heir apparent to the Saudi throne, the son of King Salman, and the grandson of the nation's founder, Ibn Saud.
 Mohammed is the first child of King Salman bin Abdulaziz and his third wife, Fahda bint Falah Al Hith</description>
