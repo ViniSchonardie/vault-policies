@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>New England Patriots</title>
+      <description>The New England Patriots (colloquially known as the Pats) are a professional American football team based in the Greater Boston area. The Patriots compete in the National Football League (NFL) as a member of the American Football Conference (AFC) East division. The Patriots play home games at Gillette Stadium in Foxborough, Massachusetts, which is 22 miles (35 km) southwest of Boston. The franchis</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/new-england-patriots-20260815.mp3" type="audio/mpeg" length="1155840"/>
+      <guid isPermaLink="false">sportscrime-new-england-patriots-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 23:24:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UEFA</title>
       <description>The Union of European Football Associations (UEFA) is the governing body of football in Europe and one of FIFA's six continental confederations for association football consisting of 55 national associations. It runs national and club competitions for men and women, such as the Champions League, the Women's Champions League, the European Championship and the Women's European Championship as well a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/uefa-20260815.mp3" type="audio/mpeg" length="989568"/>
