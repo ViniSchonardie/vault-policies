@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Holy Roman Empire</title>
+      <description>The Holy Roman Empire, also known as the Holy Roman Empire of the German Nation after 1512, was a polity comprising and controlling much of Central Europe and Western Europe, headed by the Holy Roman Emperor and characterized by a decentralized political structure. It developed in the Early Middle Ages (beginning in either 800 or 962), and lasted for a millennium until its dissolution in 1806 duri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/holy-roman-empire-20260815.mp3" type="audio/mpeg" length="1360128"/>
+      <guid isPermaLink="false">royal-holy-roman-empire-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 14:33:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Augustus</title>
       <description>Augustus (born Gaius Octavius; 23 September 63 BC – 19 August AD 14), also known as Octavian (Latin: Octavianus), was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14. The reign of Augustus initiated an imperial cult and an era of imperial peace (the Pax Romana or Pax Augusta) when the Roman world was largely free of armed conflict. The principate, a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/augustus-20260814.mp3" type="audio/mpeg" length="1418112"/>
