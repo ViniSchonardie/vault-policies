@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Whitey Bulger</title>
+      <description>James Joseph "Whitey" Bulger Jr. ( ; September 3, 1929 – October 30, 2018) was an American organized crime boss who led the Winter Hill Gang, an Irish mob group based in the Winter Hill neighborhood of Somerville, Massachusetts, northwest of Boston. On December 23, 1994, Bulger went into hiding after his former FBI handler, John Connolly, tipped him off about a pending RICO indictment against him.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/whitey-bulger-20260815.mp3" type="audio/mpeg" length="1438080"/>
+      <guid isPermaLink="false">drugempire-whitey-bulger-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 19:29:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hells Angels</title>
       <description>The Hells Angels Motorcycle Club (HAMC) is an international outlaw motorcycle club founded in California whose members typically ride Harley-Davidson motorcycles. In the United States and Canada, the Hells Angels are incorporated as the Hells Angels Motorcycle Corporation. Common nicknames for the club are the "H.A.", "Red &amp; White", and "81". With a membership of over 6,000, and 592 charters in 66</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/hells-angels-20260815.mp3" type="audio/mpeg" length="1468416"/>
