@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air France Flight 447</title>
+      <description>Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France, that crashed into the mid-Atlantic Ocean on 1 June 2009 killing all 228 passengers and crew on board. The incident, which occurred on an Airbus A330, happened because inconsistent airspeed indications and resulting miscommunication between the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-447-20260815.mp3" type="audio/mpeg" length="1452288"/>
+      <guid isPermaLink="false">aviation-air-france-flight-447-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 14:23:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1972 Andes flight disaster</title>
       <description>Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster (Tragedia de los Andes, literally Tragedy of the Andes) and the Miracle of the Andes (Milagro de los Andes).
 The inexperie</description>
