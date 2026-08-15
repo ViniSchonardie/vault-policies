@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dragon</title>
+      <description>A dragon is a mythical creature found in the folklore of cultures throughout the world. It is roughly serpentine in form, and often possesses features drawn from different animals, such as wings and claws. In nearly all cultures, it is conceived of as a powerful and awe-inspiring creature.
+Dragon-like creatures appear in ancient Mesopotamian art, where they could be hostile or benevolent. In East </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/dragon-20260815.mp3" type="audio/mpeg" length="1301376"/>
+      <guid isPermaLink="false">mythology-dragon-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 23:18:30 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hermes</title>
       <description>Hermes (; Ancient Greek: Ἑρμῆς) is an Olympian deity in ancient Greek religion and mythology considered the herald of the gods. He is also widely considered the protector of human heralds, travelers, thieves, merchants, and orators. He is able to move quickly and freely between the worlds of the mortal and the divine aided by his winged sandals. Hermes plays the role of the psychopomp or "soul gui</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hermes-20260815.mp3" type="audio/mpeg" length="1107840"/>
