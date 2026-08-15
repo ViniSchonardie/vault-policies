@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Voyager 2</title>
+      <description>Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants (Jupiter and Saturn) and enabled further encounters with the ice giants (Uranus and Neptune). The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voyager-2-20260815.mp3" type="audio/mpeg" length="1578624"/>
+      <guid isPermaLink="false">space-voyager-2-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 13:37:01 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sputnik 1</title>
       <description>Sputnik 1  (, Russian: Спутник-1, Satellite 1), often referred to as simply Sputnik, was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957 as part of the Soviet space program. It sent a radio signal back to Earth for three weeks before its three silver-zinc batteries became depleted. Aerodynamic drag caused it to fall bac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sputnik-1-20260814.mp3" type="audio/mpeg" length="1464576"/>
