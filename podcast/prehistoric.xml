@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aurochs</title>
+      <description>The aurochs (Bos primigenius;  or ; pl.: aurochs or aurochsen; also ure or urus) is an extinct species of bovine, considered to be the wild ancestor of modern domestic cattle. With a shoulder height of up to 1.8 m (5 ft 11 in) in bulls and 1.55 m (5 ft 1 in) in cows, it was one of the largest herbivores in the Holocene; it had massive elongated and broad horns that reached 80 cm (31 in) in length.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/aurochs-20260815.mp3" type="audio/mpeg" length="1365120"/>
+      <guid isPermaLink="false">prehistoric-aurochs-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 17:16:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Coelacanth</title>
       <description>Coelacanths (  SEE-lə-kanth) are an ancient group of lobe-finned fish (Sarcopterygii) in the class Actinistia. As sarcopterygians, they are more closely related to lungfish and tetrapods (the terrestrial vertebrates including living amphibians, reptiles, birds and mammals) than to ray-finned fish. There is only a single living genus, Latimeria, with two described species.
 The name coelacanth origi</description>
