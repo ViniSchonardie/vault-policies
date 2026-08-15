@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Coelacanth</title>
+      <description>Coelacanths (  SEE-lə-kanth) are an ancient group of lobe-finned fish (Sarcopterygii) in the class Actinistia. As sarcopterygians, they are more closely related to lungfish and tetrapods (the terrestrial vertebrates including living amphibians, reptiles, birds and mammals) than to ray-finned fish. There is only a single living genus, Latimeria, with two described species.
+The name coelacanth origi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/coelacanth-20260815.mp3" type="audio/mpeg" length="1560576"/>
+      <guid isPermaLink="false">prehistoric-coelacanth-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 12:36:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Homo erectus</title>
       <description>Homo erectus ( lit. 'upright man') is an extinct species of archaic human from the Pleistocene, spanning nearly 2 million years. It is the first human species to evolve a humanlike body plan and gait, to leave Africa and colonize Asia and Europe, and to wield fire. Some populations of H. erectus were ancestors of later human species, including H. heidelbergensis—the last common ancestor of modern </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-erectus-20260814.mp3" type="audio/mpeg" length="1430016"/>
