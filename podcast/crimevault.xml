@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Waco siege</title>
+      <description>The Waco siege, also known as the Waco massacre, was the siege by US federal government and Texas state law enforcement officials of a compound belonging to the religious cult known as the Branch Davidians, between February 28 and April 19 of 1993, which culminated in the massacre of 76 civilians, including 28 children. The Branch Davidians, led by David Koresh, were headquartered at Mount Carmel </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/waco-siege-20260815.mp3" type="audio/mpeg" length="1248000"/>
+      <guid isPermaLink="false">crime-waco-siege-20260815</guid>
+      <pubDate>Sat, 15 Aug 2026 18:26:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El Chapo</title>
       <description>Joaquín Archivaldo Guzmán Loera (Spanish: [xoaˈkin aɾtʃiˈβaldo ɣusˈman loˈeɾa]; born 4 April 1957), commonly known as "El Chapo", is a Mexican former drug lord and the former top leader of the Sinaloa Cartel. Guzmán is believed to be responsible for the deaths of over 34,000 people, and was considered to be the most powerful drug trafficker in the world until he was extradited to the United States</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/el-chapo-20260815.mp3" type="audio/mpeg" length="1448064"/>
