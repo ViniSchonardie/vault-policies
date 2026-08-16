@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Greenland shark</title>
+      <description>The Greenland shark (Somniosus microcephalus), also known as the grey shark or gurry shark, is a large shark of the family Somniosidae ("sleeper sharks"), closely related to the Pacific and southern sleeper sharks. Inhabiting the North Atlantic and Arctic Oceans, they are notable for their exceptional longevity, although they are poorly studied because of the depth and remoteness of their natural </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/greenland-shark-20260816.mp3" type="audio/mpeg" length="1386624"/>
+      <guid isPermaLink="false">nature-greenland-shark-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 20:32:16 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cougar</title>
       <description>The cougar ( KOO-gər; Puma concolor), also called puma, mountain lion, catamount, and panther, is a large feline native to the Americas. It inhabits North, Central and South America, making it the most widely distributed wild, terrestrial mammal in the Western Hemisphere, and one of the most widespread in the world. Its range spans Yukon, British Columbia and Alberta in Canada, the Rocky Mountains</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cougar-20260816.mp3" type="audio/mpeg" length="1274880"/>
