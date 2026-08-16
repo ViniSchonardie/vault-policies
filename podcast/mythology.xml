@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Prometheus</title>
+      <description>In Greek mythology, Prometheus (; Ancient Greek: Προμηθεύς [promɛːtʰěu̯s]) is a Titan responsible for creating or aiding humanity in its earliest days. He defied the Olympian gods by taking fire from them and giving it to humanity in the form of technology, knowledge and, more generally, civilization.
+In some versions of the myth, Prometheus is also credited with the creation of humanity from clay</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/prometheus-20260816.mp3" type="audio/mpeg" length="1084032"/>
+      <guid isPermaLink="false">mythology-prometheus-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 16:16:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dragon</title>
       <description>A dragon is a mythical creature found in the folklore of cultures throughout the world. It is roughly serpentine in form, and often possesses features drawn from different animals, such as wings and claws. In nearly all cultures, it is conceived of as a powerful and awe-inspiring creature.
 Dragon-like creatures appear in ancient Mesopotamian art, where they could be hostile or benevolent. In East </description>
