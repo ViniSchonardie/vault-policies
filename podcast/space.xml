@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Curiosity (rover)</title>
+      <description>Curiosity is a Mars rover that is exploring Gale crater and Mount Sharp on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.
+Curiosity was launched from Cape Canaveral, Florida, on November 26, 2011, at 15:02:00 UTC and landed on Aeolis Palus </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/curiosity-rover-20260816.mp3" type="audio/mpeg" length="1049088"/>
+      <guid isPermaLink="false">space-curiosity-rover-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 13:37:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Space Race</title>
       <description>The Space Race (Russian: космическая гонка, romanized: kosmicheskaya gonka, IPA: [kɐsˈmʲitɕɪskəjə ˈɡonkə]) was a 20th-century competition between the Cold War rivals, the United States and the Soviet Union, to achieve superior spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War II and the onset of the Cold War. The</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/space-race-20260815.mp3" type="audio/mpeg" length="1530240"/>
