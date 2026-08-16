@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cougar</title>
+      <description>The cougar ( KOO-gər; Puma concolor), also called puma, mountain lion, catamount, and panther, is a large feline native to the Americas. It inhabits North, Central and South America, making it the most widely distributed wild, terrestrial mammal in the Western Hemisphere, and one of the most widespread in the world. Its range spans Yukon, British Columbia and Alberta in Canada, the Rocky Mountains</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cougar-20260816.mp3" type="audio/mpeg" length="1274880"/>
+      <guid isPermaLink="false">nature-cougar-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 16:17:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Octopus</title>
       <description>An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the centre point of the eight limbs. An octopus can radically</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/octopus-20260816.mp3" type="audio/mpeg" length="1335168"/>
