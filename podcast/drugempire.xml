@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bugsy Siegel</title>
+      <description>Benjamin "Bugsy" Siegel (; February 28, 1906 – June 20, 1947) was an American mobster who was a driving force behind the development of the Las Vegas Strip. Along with his childhood friend and fellow gangster Meyer Lansky, Siegel was influential within the Jewish-American mob, the Italian-American Mafia, and the largely Italian-Jewish coalition known as the National Crime Syndicate. Described as "</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/bugsy-siegel-20260816.mp3" type="audio/mpeg" length="1354368"/>
+      <guid isPermaLink="false">drugempire-bugsy-siegel-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 19:27:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Mafia</title>
       <description>The American Mafia, commonly referred to in North America as the Italian-American Mafia, the Mafia, or the Mob, is a highly organized Italian American criminal society and organized crime group. The terms Italian Mafia and Italian Mob apply to these American-based organizations, as well as the separate yet related Sicilian Mafia or other organized crime groups in Italy, or ethnic Italian crime gro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/american-mafia-20260816.mp3" type="audio/mpeg" length="1395072"/>
