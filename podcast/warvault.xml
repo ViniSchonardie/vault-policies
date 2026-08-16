@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean War</title>
+      <description>The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/korean-war-20260816.mp3" type="audio/mpeg" length="1451520"/>
+      <guid isPermaLink="false">warvault-korean-war-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 21:33:22 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Attack on Pearl Harbor</title>
       <description>On December 7, 1941, the Empire of Japan launched a surprise military strike on the United States Pacific Fleet at its naval base at Pearl Harbor on Oahu, Hawaii Territory. At the time, the US was a neutral country in World War II. The air raid on Pearl Harbor, which was launched from aircraft carriers, prompted the US to declare war on Japan the next day. The Japanese military leadership referred</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/attack-on-pearl-harbor-20260816.mp3" type="audio/mpeg" length="1429248"/>
