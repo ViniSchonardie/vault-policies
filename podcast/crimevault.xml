@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>West Memphis Three</title>
+      <description>The West Memphis Three are three freed men convicted as teenagers of the 1993 murders of three boys in West Memphis, Arkansas, United States. Damien Echols was sentenced to death, Jessie Misskelley Jr. to life imprisonment plus two 20-year sentences, and Jason Baldwin to life imprisonment. During the trial, the prosecution asserted that the juveniles killed the children as part of a Satanic ritual</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/west-memphis-three-20260816.mp3" type="audio/mpeg" length="1253760"/>
+      <guid isPermaLink="false">crime-west-memphis-three-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 13:42:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lizzie Borden</title>
       <description>Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, nine days before the death of her older sister Emma.
 The Borden murders a</description>
