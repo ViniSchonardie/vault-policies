@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine, Princess of Wales</title>
+      <description>Catherine, Princess of Wales (born Catherine Elizabeth Middleton; 9 January 1982) is a member of the British royal family. She is married to William, Prince of Wales, the heir apparent to the British throne.
+Born in Reading, Catherine grew up in Bucklebury, Berkshire. She was educated at St Andrew's School and Marlborough College before earning a degree in art history at the University of St Andre</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-princess-of-wales-20260816.mp3" type="audio/mpeg" length="1391232"/>
+      <guid isPermaLink="false">royal-catherine-princess-of-wales-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 22:17:11 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Meghan, Duchess of Sussex</title>
       <description>Meghan, Duchess of Sussex (; born Rachel Meghan Markle, August 4, 1981), is an American member of the British royal family, media personality, entrepreneur, and actress. She is married to Prince Harry, Duke of Sussex, the younger son of King Charles III.
 Meghan was born and raised in Los Angeles, California. Her acting career began at Northwestern University. She played the part of Rachel Zane for</description>
