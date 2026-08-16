@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Perseverance (rover)</title>
+      <description>Perseverance is a NASA rover that has been exploring Mars since February 18, 2021, as part of the Mars 2020 mission. Built and managed by the Jet Propulsion Laboratory, the car-sized rover was launched on July 30, 2020, from Cape Canaveral aboard an Atlas V rocket and landed in Jezero Crater, a site chosen for its ancient river delta that may preserve evidence of past microbial life.
+The rover's m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/perseverance-rover-20260816.mp3" type="audio/mpeg" length="1563648"/>
+      <guid isPermaLink="false">space-perseverance-rover-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 16:35:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Curiosity (rover)</title>
       <description>Curiosity is a Mars rover that is exploring Gale crater and Mount Sharp on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.
 Curiosity was launched from Cape Canaveral, Florida, on November 26, 2011, at 15:02:00 UTC and landed on Aeolis Palus </description>
