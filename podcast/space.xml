@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Falcon Heavy</title>
+      <description>Falcon Heavy is a super heavy-lift launch vehicle with partial reusability that can carry cargo into Earth orbit and beyond. It is designed, manufactured and launched by American aerospace company SpaceX.
+The rocket consists of a center core on which two Falcon 9 boosters are attached, and a second stage on top of the center core. Falcon Heavy has the second highest payload capacity of any current</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/falcon-heavy-20260816.mp3" type="audio/mpeg" length="1314048"/>
+      <guid isPermaLink="false">space-falcon-heavy-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 20:19:24 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Perseverance (rover)</title>
       <description>Perseverance is a NASA rover that has been exploring Mars since February 18, 2021, as part of the Mars 2020 mission. Built and managed by the Jet Propulsion Laboratory, the car-sized rover was launched on July 30, 2020, from Cape Canaveral aboard an Atlas V rocket and landed in Jezero Crater, a site chosen for its ancient river delta that may preserve evidence of past microbial life.
 The rover's m</description>
