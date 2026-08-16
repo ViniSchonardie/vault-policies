@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Persephone</title>
+      <description>In ancient Greek mythology and religion, Persephone (  per-SEF-a-nee; Greek: Περσεφόνη, romanized: Persephónē, classical pronunciation: [per.se.pʰó.nɛː]), also called Kore (Greek: Κόρη, romanized: Kórē, lit. 'the maiden') or Cora, is the daughter of Zeus and Demeter. She became the queen of the underworld after her abduction by her uncle Hades, the king of the underworld, who later took her into m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/persephone-20260816.mp3" type="audio/mpeg" length="1258368"/>
+      <guid isPermaLink="false">mythology-persephone-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 23:18:33 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ramayana</title>
       <description>The Ramayana (; Sanskrit: रामायणम्, romanized: Rāmāyaṇam), also known as the Valmiki Ramayana, as traditionally attributed to Valmiki, is a Hindu smriti epic poem (also described as a Sanskrit epic) from ancient India. It is one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata, narratives of past events (purāvṛtta), interspersed with teachings on the go</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ramayana-20260816.mp3" type="audio/mpeg" length="1164672"/>
