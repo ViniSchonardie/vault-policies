@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dean Corll</title>
+      <description>Dean Arnold Corll (December 24, 1939 – August 8, 1973) was an American serial killer and sex offender who abducted, raped, tortured and murdered at least 29 teenage boys and young men between 1970 and 1973 in Houston and Pasadena, Texas. He was aided by two teenaged accomplices, David Owen Brooks and Elmer Wayne Henley. The crimes, which became known as the Houston Mass Murders, came to light afte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dean-corll-20260816.mp3" type="audio/mpeg" length="1231872"/>
+      <guid isPermaLink="false">crime-dean-corll-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 18:26:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>West Memphis Three</title>
       <description>The West Memphis Three are three freed men convicted as teenagers of the 1993 murders of three boys in West Memphis, Arkansas, United States. Damien Echols was sentenced to death, Jessie Misskelley Jr. to life imprisonment plus two 20-year sentences, and Jason Baldwin to life imprisonment. During the trial, the prosecution asserted that the juveniles killed the children as part of a Satanic ritual</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/west-memphis-three-20260816.mp3" type="audio/mpeg" length="1253760"/>
