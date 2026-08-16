@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Iran Air Flight 655 shootdown</title>
+      <description>Iran Air Flight 655 was an international scheduled passenger flight from Tehran to Dubai via Bandar Abbas that was shot down on 3 July 1988 by two surface-to-air missiles fired by USS Vincennes, a United States Navy warship. The missiles hit the Iran Air aircraft, an Airbus A300, while it was flying its usual route over Iran's territorial waters in the Persian Gulf, shortly after the flight depart</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/iran-air-flight-655-shootdown-20260816.mp3" type="audio/mpeg" length="1535616"/>
+      <guid isPermaLink="false">aviation-iran-air-flight-655-shootdown-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 14:22:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Germanwings Flight 9525</title>
       <description>Germanwings Flight 9525 was a scheduled international passenger flight from Barcelona–El Prat Airport in Spain to Düsseldorf Airport in Germany. The flight was operated by Germanwings, a low-cost carrier owned by the German airline Lufthansa. On 24 March 2015, the Airbus A320 operating the flight crashed 100 km (62 mi; 54 nmi) north-west of Nice in the French Alps, killing all 150 people on board.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/germanwings-flight-9525-20260815.mp3" type="audio/mpeg" length="1521024"/>
