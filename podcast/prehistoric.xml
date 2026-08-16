@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Theropoda</title>
+      <description>Theropoda (; from ancient Greek θηρίο- ποδός [θηρίον, (therion) "wild beast"; πούς, ποδός (pous, podos) "foot"]) is one of the three major clades of dinosaur, alongside Ornithischia and Sauropodomorpha. Theropods, both extant and extinct, are characterized by hollow bones and three toes and claws on each limb. They are generally classed as a group of saurischian dinosaurs, placing them closer to s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/theropoda-20260816.mp3" type="audio/mpeg" length="1388928"/>
+      <guid isPermaLink="false">prehistoric-theropoda-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 21:24:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stegosaurus</title>
       <description>Stegosaurus (; lit. 'roof-lizard') is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails. Fossils of the genus have been found in the western United States and in Portugal, where they are found in Kimmeridgian- to Tithonian-aged strata, dating to between 155 and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stegosaurus-20260816.mp3" type="audio/mpeg" length="1532544"/>
