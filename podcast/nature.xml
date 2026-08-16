@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Octopus</title>
+      <description>An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the centre point of the eight limbs. An octopus can radically</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/octopus-20260816.mp3" type="audio/mpeg" length="1335168"/>
+      <guid isPermaLink="false">nature-octopus-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 12:48:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Platypus</title>
       <description>The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record. Together with the four species of echidna, it is one</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/platypus-20260815.mp3" type="audio/mpeg" length="1344384"/>
