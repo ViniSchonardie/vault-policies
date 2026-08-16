@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Andréi Chikatilo</title>
+      <description>Andrei Romanovich Chikatilo was a Ukrainian-born Soviet serial killer nicknamed "the Butcher of Rostov", "the Rostov Ripper", and "the Red Ripper" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andri-chikatilo-20260816.mp3" type="audio/mpeg" length="1410816"/>
+      <guid isPermaLink="false">crime-andri-chikatilo-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 22:17:23 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dean Corll</title>
       <description>Dean Arnold Corll (December 24, 1939 – August 8, 1973) was an American serial killer and sex offender who abducted, raped, tortured and murdered at least 29 teenage boys and young men between 1970 and 1973 in Houston and Pasadena, Texas. He was aided by two teenaged accomplices, David Owen Brooks and Elmer Wayne Henley. The crimes, which became known as the Houston Mass Murders, came to light afte</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dean-corll-20260816.mp3" type="audio/mpeg" length="1231872"/>
