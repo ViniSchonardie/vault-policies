@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Triceratops</title>
+      <description>Triceratops ( try-SERR-ə-tops; lit. 'three-horned face') is a genus of chasmosaurine ceratopsian dinosaur that lived during the late Maastrichtian age of the Late Cretaceous period, about 68 to 66 million years ago on the island continent of Laramidia, now forming western North America. It was one of the last-known non-avian dinosaurs and lived until the Cretaceous–Paleogene extinction event 66 mi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/triceratops-20260816.mp3" type="audio/mpeg" length="1436928"/>
+      <guid isPermaLink="false">prehistoric-triceratops-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 12:37:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Velociraptor</title>
       <description>Velociraptor (; lit. 'swift thief') is a genus of small dromaeosaurid dinosaurs that lived in Asia during the Late Cretaceous epoch, about 75 million to 71 million years ago (Mya). Two species are currently recognized, although others have been assigned in the past. The type species is V. mongoliensis, named and described in 1924. Fossils of this species have been discovered in the Djadochta Forma</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/velociraptor-20260815.mp3" type="audio/mpeg" length="1245696"/>
