@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Reinhard Heydrich</title>
+      <description>Reinhard Tristan Eugen Heydrich (; German: [ˈʁaɪnhaʁt ˈtʁɪstan ˈʔɔʏɡn̩ ˈhaɪdʁɪç] ; 7 March 1904 – 4 June 1942) was a high-ranking SS and police official in Nazi Germany as well as one of the principal architects of the Holocaust. He held the rank of SS-Obergruppenführer und General der Polizei. Many historians regard Heydrich as one of the most sinister figures within the Nazi regime.  Adolf Hitle</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/reinhard-heydrich-20260816.mp3" type="audio/mpeg" length="1572864"/>
+      <guid isPermaLink="false">trials-reinhard-heydrich-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 16:20:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Socrates</title>
       <description>Socrates (; Ancient Greek: Σωκράτης, romanized: Sōkrátēs; c. 470 – 399 BC) was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy. An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/socrates-20260815.mp3" type="audio/mpeg" length="1115904"/>
