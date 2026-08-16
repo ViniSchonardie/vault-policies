@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alaska Airlines Flight 261</title>
+      <description>Alaska Airlines Flight 261 was a scheduled international passenger flight from Licenciado Gustavo Díaz Ordaz International Airport in Puerto Vallarta, Jalisco, Mexico, to Seattle–Tacoma International Airport near Seattle, Washington, United States, with an intermediate stop at San Francisco International Airport in San Francisco, California. On January 31, 2000, the McDonnell Douglas MD-83 operati</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-261-20260816.mp3" type="audio/mpeg" length="1593216"/>
+      <guid isPermaLink="false">aviation-alaska-airlines-flight-261-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 21:16:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air Canada Express Flight 8646</title>
       <description>Air Canada Express Flight 8646 was a regularly scheduled international passenger flight from Montréal–Trudeau International Airport in Quebec, Canada, to LaGuardia Airport in New York, United States. The flight was operated by Jazz Aviation, an airline operating regional flights on behalf of Air Canada under the brand Air Canada Express.
 On the night of March 22, 2026, the Bombardier CRJ900 servin</description>
