@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air Canada Express Flight 8646</title>
+      <description>Air Canada Express Flight 8646 was a regularly scheduled international passenger flight from Montréal–Trudeau International Airport in Quebec, Canada, to LaGuardia Airport in New York, United States. The flight was operated by Jazz Aviation, an airline operating regional flights on behalf of Air Canada under the brand Air Canada Express.
+On the night of March 22, 2026, the Bombardier CRJ900 servin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-canada-express-flight-8646-20260816.mp3" type="audio/mpeg" length="1438464"/>
+      <guid isPermaLink="false">aviation-air-canada-express-flight-8646-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 17:17:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iran Air Flight 655 shootdown</title>
       <description>Iran Air Flight 655 was an international scheduled passenger flight from Tehran to Dubai via Bandar Abbas that was shot down on 3 July 1988 by two surface-to-air missiles fired by USS Vincennes, a United States Navy warship. The missiles hit the Iran Air aircraft, an Airbus A300, while it was flying its usual route over Iran's territorial waters in the Persian Gulf, shortly after the flight depart</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/iran-air-flight-655-shootdown-20260816.mp3" type="audio/mpeg" length="1535616"/>
