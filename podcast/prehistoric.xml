@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Stegosaurus</title>
+      <description>Stegosaurus (; lit. 'roof-lizard') is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails. Fossils of the genus have been found in the western United States and in Portugal, where they are found in Kimmeridgian- to Tithonian-aged strata, dating to between 155 and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/stegosaurus-20260816.mp3" type="audio/mpeg" length="1532544"/>
+      <guid isPermaLink="false">prehistoric-stegosaurus-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 17:15:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Triceratops</title>
       <description>Triceratops ( try-SERR-ə-tops; lit. 'three-horned face') is a genus of chasmosaurine ceratopsian dinosaur that lived during the late Maastrichtian age of the Late Cretaceous period, about 68 to 66 million years ago on the island continent of Laramidia, now forming western North America. It was one of the last-known non-avian dinosaurs and lived until the Cretaceous–Paleogene extinction event 66 mi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/triceratops-20260816.mp3" type="audio/mpeg" length="1436928"/>
