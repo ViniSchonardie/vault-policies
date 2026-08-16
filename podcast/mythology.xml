@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ramayana</title>
+      <description>The Ramayana (; Sanskrit: रामायणम्, romanized: Rāmāyaṇam), also known as the Valmiki Ramayana, as traditionally attributed to Valmiki, is a Hindu smriti epic poem (also described as a Sanskrit epic) from ancient India. It is one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata, narratives of past events (purāvṛtta), interspersed with teachings on the go</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/ramayana-20260816.mp3" type="audio/mpeg" length="1164672"/>
+      <guid isPermaLink="false">mythology-ramayana-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 20:22:09 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Prometheus</title>
       <description>In Greek mythology, Prometheus (; Ancient Greek: Προμηθεύς [promɛːtʰěu̯s]) is a Titan responsible for creating or aiding humanity in its earliest days. He defied the Olympian gods by taking fire from them and giving it to humanity in the form of technology, knowledge and, more generally, civilization.
 In some versions of the myth, Prometheus is also credited with the creation of humanity from clay</description>
