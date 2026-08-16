@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Operation Barbarossa</title>
+      <description>Operation Barbarossa was the invasion of the Soviet Union by Nazi Germany and several of its European Axis allies starting on Sunday, 22 June 1941, during World War II. More than 3.8 million Axis troops invaded the western Soviet Union along a 2,900-kilometer (1,800 mi) front, with the main goal of capturing territory up to a line between Arkhangelsk and Astrakhan, known as the A–A line. The attac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/operation-barbarossa-20260816.mp3" type="audio/mpeg" length="1360896"/>
+      <guid isPermaLink="false">trials-operation-barbarossa-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 23:25:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Schutzstaffel</title>
       <description>The Schutzstaffel (German: [ˈʃʊtsˌʃtafl̩] ; lit. 'Protection Squadron'; SS; also stylised with SS runes as ᛋᛋ) was a major paramilitary organisation under Adolf Hitler and the Nazi Party in Nazi Germany, and later throughout German-occupied Europe during World War II.
 It began with a small guard unit known as the Saal-Schutz ("Hall Security") made up of party volunteers to provide security for par</description>
