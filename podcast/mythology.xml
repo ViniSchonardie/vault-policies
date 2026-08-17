@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Vampire</title>
+      <description>A vampire is a mythical creature with a human-like appearance that subsists by feeding on the vital essence (generally, the blood) of humans. In European folklore, vampires are undead humanoid creatures that often visited loved ones and caused mischief or deaths in the neighbourhoods which they inhabited while they were alive. They wore shrouds and were often described as bloated and of ruddy or d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/vampire-20260817.mp3" type="audio/mpeg" length="1027200"/>
+      <guid isPermaLink="false">mythology-vampire-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 23:20:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Medusa</title>
       <description>In Greek mythology, Medusa (; Ancient Greek: Μέδουσα, romanized: Médousa, lit. 'guardian, protectress'), also called Gorgo (Ancient Greek: Γοργώ) or the Gorgon, was one of the three Gorgons. Medusa is generally described as a woman with living snakes in place of hair; her appearance was so hideous that anyone who looked upon her was turned to stone. Medusa and her Gorgon sisters Euryale and Stheno</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/medusa-20260817.mp3" type="audio/mpeg" length="1156992"/>
