@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Whitman</title>
+      <description>Charles Joseph Whitman (June 24, 1941 – August 1, 1966) was an American mass murderer who committed the 1966 University of Texas tower shooting, one of the first mass shootings in modern American history to receive widespread national media coverage.
+A former Marine and architectural engineering student at the University of Texas at Austin, Whitman killed 17 people and wounded 31 others on August </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-whitman-20260817.mp3" type="audio/mpeg" length="1148928"/>
+      <guid isPermaLink="false">crime-charles-whitman-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 18:35:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marc Dutroux</title>
       <description>Marc Paul Alain Dutroux (French: [maʁk pɔl alɛ̃ dytʁu]; born 6 November 1956) is a Belgian convicted serial killer, serial rapist, and serial child molester. Initially convicted for the abduction and rape of five young girls in 1989, Dutroux was released on parole after just three years' imprisonment. He was arrested again in 1996 on suspicion of having abducted, tortured, and sexually abused six </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/marc-dutroux-20260817.mp3" type="audio/mpeg" length="1190784"/>
