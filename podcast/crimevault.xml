@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marc Dutroux</title>
+      <description>Marc Paul Alain Dutroux (French: [maʁk pɔl alɛ̃ dytʁu]; born 6 November 1956) is a Belgian convicted serial killer, serial rapist, and serial child molester. Initially convicted for the abduction and rape of five young girls in 1989, Dutroux was released on parole after just three years' imprisonment. He was arrested again in 1996 on suspicion of having abducted, tortured, and sexually abused six </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/marc-dutroux-20260817.mp3" type="audio/mpeg" length="1190784"/>
+      <guid isPermaLink="false">crime-marc-dutroux-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 13:49:35 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Andréi Chikatilo</title>
       <description>Andrei Romanovich Chikatilo was a Ukrainian-born Soviet serial killer nicknamed "the Butcher of Rostov", "the Rostov Ripper", and "the Red Ripper" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andri-chikatilo-20260816.mp3" type="audio/mpeg" length="1410816"/>
