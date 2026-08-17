@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Los Angeles Lakers</title>
+      <description>The Los Angeles Lakers are an American professional basketball team based in Los Angeles. The Lakers compete in the National Basketball Association (NBA) as a member of the Pacific Division of the Western Conference. The Lakers play their home games at Crypto.com Arena, an arena they share with the Los Angeles Sparks of the Women's National Basketball Association (WNBA) and the Los Angeles Kings o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/los-angeles-lakers-20260817.mp3" type="audio/mpeg" length="1484928"/>
+      <guid isPermaLink="false">sportscrime-los-angeles-lakers-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 19:35:36 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tonya Harding</title>
       <description>Tonya Maxene Price (née Harding; born November 12, 1970) is an American former figure skater and boxer, and reality television personality.
 Born in Portland, Oregon, Harding was raised by her mother, who enrolled her in ice skating lessons when Tonya was three years old. Harding spent much of her early life training, eventually dropping out of high school to devote her time to the sport. After cli</description>
