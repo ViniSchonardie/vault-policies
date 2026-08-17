@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Randy Kraft</title>
+      <description>Randy Steven Kraft (born March 19, 1945) is an American serial killer and rapist known as the Scorecard Killer, the Southern California Strangler, and the Freeway Killer, who committed the rape, torture, and murder of a minimum of sixteen young men between 1972 and 1983, the majority of whom he killed in California. Kraft is also believed to have committed the rape and murder of up to fifty-one ot</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/randy-kraft-20260817.mp3" type="audio/mpeg" length="1223424"/>
+      <guid isPermaLink="false">crime-randy-kraft-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 22:19:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Whitman</title>
       <description>Charles Joseph Whitman (June 24, 1941 – August 1, 1966) was an American mass murderer who committed the 1966 University of Texas tower shooting, one of the first mass shootings in modern American history to receive widespread national media coverage.
 A former Marine and architectural engineering student at the University of Texas at Austin, Whitman killed 17 people and wounded 31 others on August </description>
