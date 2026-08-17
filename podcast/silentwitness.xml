@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sparta</title>
+      <description>Sparta was a prominent city-state in Laconia in ancient Greece. In antiquity (pre-800 BC), the state was known as Lacedaemon (Λακεδαίμων, Lakedaímōn), while Sparta referred to its capital, a group of villages in the valley of the Evrotas River in Laconia, in southeastern Peloponnese. Around 650 BC, it rose to become one of the major military powers in Greece, a status it retained until 371 BC.
+Spa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/sparta-20260817.mp3" type="audio/mpeg" length="1422720"/>
+      <guid isPermaLink="false">trials-sparta-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 16:23:20 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Operation Barbarossa</title>
       <description>Operation Barbarossa was the invasion of the Soviet Union by Nazi Germany and several of its European Axis allies starting on Sunday, 22 June 1941, during World War II. More than 3.8 million Axis troops invaded the western Soviet Union along a 2,900-kilometer (1,800 mi) front, with the main goal of capturing territory up to a line between Arkhangelsk and Astrakhan, known as the A–A line. The attac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/operation-barbarossa-20260816.mp3" type="audio/mpeg" length="1360896"/>
