@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Laozi</title>
+      <description>Laozi (variously spelled, , low-TSUH; Chinese: 老子; pinyin: Lǎozǐ) was a legendary Chinese philosopher considered to be the author of the Tao Te Ching (Pinyin: Dào Dé Jīng), one of the foundational texts of Taoism. Modern scholarship generally regards his biographical details as later inventions and his opus a collaboration of various writers, with the name Laozi, literally meaning 'Old Master', li</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/laozi-20260817.mp3" type="audio/mpeg" length="1121280"/>
+      <guid isPermaLink="false">realstory-laozi-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 21:20:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Watergate scandal</title>
       <description>The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal h</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/watergate-scandal-20260817.mp3" type="audio/mpeg" length="1313664"/>
