@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Iran–Iraq War</title>
+      <description>The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths (excluding numbers from the related Anfal campaign), making it the deadliest conventional war ever fo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraniraq-war-20260817.mp3" type="audio/mpeg" length="1219968"/>
+      <guid isPermaLink="false">warvault-iraniraq-war-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 21:37:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nuremberg trials</title>
       <description>The Nuremberg trials were international criminal trials held by France, the Soviet Union, the United Kingdom, and the United States against leaders of defeated Nazi Germany for plotting and carrying out invasions of several countries across Europe and committing atrocities against their citizens in the Second World War. 
 Between 1939 and 1945, Nazi Germany invaded many countries across Europe, inf</description>
