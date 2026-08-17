@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Watergate scandal</title>
+      <description>The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/watergate-scandal-20260817.mp3" type="audio/mpeg" length="1313664"/>
+      <guid isPermaLink="false">realstory-watergate-scandal-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 18:51:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Assassination of John F. Kennedy</title>
       <description>John F. Kennedy, the 35th president of the United States, was assassinated while riding in a presidential motorcade through Dealey Plaza in Dallas, Texas, on Friday, November 22, 1963. Kennedy was in the vehicle with his wife Jacqueline, Texas governor John Connally, and Connally's wife Nellie, when he was fatally shot from the nearby Texas School Book Depository by Lee Harvey Oswald, a former U.S</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-john-f-kennedy-20260817.mp3" type="audio/mpeg" length="1143936"/>
