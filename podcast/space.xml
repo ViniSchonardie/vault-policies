@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Alexei Leonov</title>
+      <description>Alexei Arkhipovich Leonov (30 May 1934 – 11 October 2019) was a Soviet and Russian cosmonaut and aviator, Air Force major general, writer, and artist. On 18 March 1965, he became the first person to conduct a spacewalk, exiting the capsule during the Voskhod 2 mission for 12 minutes and 9 seconds. He was also selected to be the first Soviet person to land on the Moon although the project was event</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/alexei-leonov-20260817.mp3" type="audio/mpeg" length="1333632"/>
+      <guid isPermaLink="false">space-alexei-leonov-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 16:35:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Satellite</title>
       <description>A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/satellite-20260817.mp3" type="audio/mpeg" length="1140480"/>
