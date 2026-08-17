@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Satellite</title>
+      <description>A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/satellite-20260817.mp3" type="audio/mpeg" length="1140480"/>
+      <guid isPermaLink="false">space-satellite-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 13:44:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Falcon Heavy</title>
       <description>Falcon Heavy is a super heavy-lift launch vehicle with partial reusability that can carry cargo into Earth orbit and beyond. It is designed, manufactured and launched by American aerospace company SpaceX.
 The rocket consists of a center core on which two Falcon 9 boosters are attached, and a second stage on top of the center core. Falcon Heavy has the second highest payload capacity of any current</description>
