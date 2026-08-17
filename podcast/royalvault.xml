@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nero</title>
+      <description>Nero (Nero Claudius Caesar Augustus Germanicus, born Lucius Domitius Ahenobarbus; 15 December AD 37 – 9 June AD 68) was Roman emperor from AD 54 until his suicide in AD 68, as the final emperor of the Julio-Claudian dynasty.
+Nero was born at Antium in AD 37, the son of Gnaeus Domitius Ahenobarbus and Agrippina the Younger (great-granddaughter of the emperor Augustus). Nero was three when his fathe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/nero-20260817.mp3" type="audio/mpeg" length="1267200"/>
+      <guid isPermaLink="false">royal-nero-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 22:20:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hirohito</title>
       <description>Emperor Shōwa (29 April 1901 – 7 January 1989), personal name Hirohito, was Emperor of Japan from 25 December 1926 until his death on 7 January 1989. He reigned during a period of increasing Japanese nationalism and militarism, culminating in the entry of the Empire of Japan into World War II as an Axis power. The atomic bombing of Hiroshima and Nagasaki led Hirohito to announce the surrender of J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hirohito-20260817.mp3" type="audio/mpeg" length="1288704"/>
