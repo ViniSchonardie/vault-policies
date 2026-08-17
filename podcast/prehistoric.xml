@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Passenger pigeon</title>
+      <description>The passenger pigeon or wild pigeon (Ectopistes migratorius) is an extinct species of pigeon that was endemic to North America. Its common name is derived from the French word passager, meaning "passing by", due to the migratory habits of the species. The scientific name also refers to its migratory characteristics. The morphologically similar mourning dove (Zenaida macroura) was long thought to b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/passenger-pigeon-20260817.mp3" type="audio/mpeg" length="1109376"/>
+      <guid isPermaLink="false">prehistoric-passenger-pigeon-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 22:22:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Archaeopteryx</title>
       <description>Archaeopteryx ( ; lit. 'ancient wing'), sometimes referred to by its German name, "Urvogel " (lit. 'Primeval Bird') is an extinct genus of bird-like dinosaurs. The genus name derives from the Ancient Greek ἀρχαῖος (archaîos), meaning 'ancient', and πτέρυξ (ptérux), meaning 'feather, wing'. Between the late 19th century and the early 21st century, Archaeopteryx was generally accepted by palaeontolo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/archaeopteryx-20260817.mp3" type="audio/mpeg" length="1207680"/>
