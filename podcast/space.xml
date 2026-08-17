@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 1</title>
+      <description>Soyuz 1 (Russian: Союз 1, lit. 'Union 1') was a crewed spaceflight of the Soviet space program. Launched into orbit on 23 April 1967 carrying cosmonaut colonel Vladimir Komarov, Soyuz 1 was the first crewed flight of the Soyuz spacecraft. The flight was plagued with technical issues, and Komarov was killed when the descent module crashed into the ground due to a parachute failure. This was the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-1-20260817.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">space-soyuz-1-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 20:22:41 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexei Leonov</title>
       <description>Alexei Arkhipovich Leonov (30 May 1934 – 11 October 2019) was a Soviet and Russian cosmonaut and aviator, Air Force major general, writer, and artist. On 18 March 1965, he became the first person to conduct a spacewalk, exiting the capsule during the Voskhod 2 mission for 12 minutes and 9 seconds. He was also selected to be the first Soviet person to land on the Moon although the project was event</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/alexei-leonov-20260817.mp3" type="audio/mpeg" length="1333632"/>
