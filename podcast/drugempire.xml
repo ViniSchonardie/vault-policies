@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>MS-13</title>
+      <description>Mara Salvatrucha (Spanish: [ˈmaɾa salβaˈtɾut͡ʃa]; lit. 'Cunning Salvadoran gang'), commonly known as MS-13, is an international criminal gang that originated in Los Angeles, California, in the 1980s. Originally, the gang was set up to protect Salvadoran immigrants from other gangs in the Los Angeles area. Over time, the gang grew into a more traditional criminal organization. MS-13 has a longtime </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/ms-13-20260817.mp3" type="audio/mpeg" length="1516416"/>
+      <guid isPermaLink="false">drugempire-ms-13-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 15:20:37 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sicilian Mafia</title>
       <description>The Sicilian Mafia or Cosa Nostra (Italian: [ˈkɔːza ˈnɔstra, ˈkɔːsa -]; Sicilian: [ˈkɔːsa ˈnɔʂː(ɽ)a]; lit. 'Our Thing'), also simply referred to as the Mafia, is an Italian criminal society and criminal organization originating on the island of Sicily and dating back to the mid-19th century. Emerging as a form of local protection and control over land and agriculture, the Mafia gradually evolved i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/sicilian-mafia-20260816.mp3" type="audio/mpeg" length="1307904"/>
