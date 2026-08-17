@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tonya Harding</title>
+      <description>Tonya Maxene Price (née Harding; born November 12, 1970) is an American former figure skater and boxer, and reality television personality.
+Born in Portland, Oregon, Harding was raised by her mother, who enrolled her in ice skating lessons when Tonya was three years old. Harding spent much of her early life training, eventually dropping out of high school to devote her time to the sport. After cli</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/tonya-harding-20260817.mp3" type="audio/mpeg" length="1259904"/>
+      <guid isPermaLink="false">sportscrime-tonya-harding-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 15:26:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tadej Pogačar</title>
       <description>Tadej Pogačar (Slovene: [taˈdɛ́ːj pɔˈɡáːtʃaɾ] ; born 21 September 1998), nicknamed "Pogi", is a Slovenian  professional cyclist who rides for UCI WorldTeam UAE Team Emirates XRG. His victories include five Tours de France (2020, 2021, 2024, 2025 and 2026), the 2024 Giro d'Italia, and thirteen one-day Monuments (Milan–San Remo once, Tour of Flanders three times, Liège–Bastogne–Liège four times and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/tadej-pogaar-20260816.mp3" type="audio/mpeg" length="1360896"/>
