@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shark</title>
+      <description>Sharks are a group of elasmobranch cartilaginous fishes characterized by a ribless endoskeleton, dermal denticles, five to seven gill slits on each side, and pectoral fins that are not fused to the head. Modern sharks are classified within the division Selachii and are the sister group to the Batomorphi (rays and skates). Some sources extend the term "shark" as an informal category including extin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/shark-20260817.mp3" type="audio/mpeg" length="1532544"/>
+      <guid isPermaLink="false">nature-shark-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 16:21:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great white shark</title>
       <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale sha</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-white-shark-20260817.mp3" type="audio/mpeg" length="1323648"/>
