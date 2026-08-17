@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air India Flight 182</title>
+      <description>Air India Flight 182 was a scheduled international flight from Toronto Pearson International Airport (as Air India Flight 181) to Mumbai’s Sahar International Airport with regular Mirabel-London-Delhi stops. On the morning of June 23, 1985, the Boeing 747-237B serving the Montreal-London segment exploded near the coast of Ireland from a bomb planted by Sikh terrorists from the Babbar Khalsa. All 3</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-182-20260817.mp3" type="audio/mpeg" length="1315200"/>
+      <guid isPermaLink="false">aviation-air-india-flight-182-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 14:26:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alaska Airlines Flight 261</title>
       <description>Alaska Airlines Flight 261 was a scheduled international passenger flight from Licenciado Gustavo Díaz Ordaz International Airport in Puerto Vallarta, Jalisco, Mexico, to Seattle–Tacoma International Airport near Seattle, Washington, United States, with an intermediate stop at San Francisco International Airport in San Francisco, California. On January 31, 2000, the McDonnell Douglas MD-83 operati</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-261-20260816.mp3" type="audio/mpeg" length="1593216"/>
