@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hirohito</title>
+      <description>Emperor Shōwa (29 April 1901 – 7 January 1989), personal name Hirohito, was Emperor of Japan from 25 December 1926 until his death on 7 January 1989. He reigned during a period of increasing Japanese nationalism and militarism, culminating in the entry of the Empire of Japan into World War II as an Axis power. The atomic bombing of Hiroshima and Nagasaki led Hirohito to announce the surrender of J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hirohito-20260817.mp3" type="audio/mpeg" length="1288704"/>
+      <guid isPermaLink="false">royal-hirohito-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 18:45:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Catherine, Princess of Wales</title>
       <description>Catherine, Princess of Wales (born Catherine Elizabeth Middleton; 9 January 1982) is a member of the British royal family. She is married to William, Prince of Wales, the heir apparent to the British throne.
 Born in Reading, Catherine grew up in Bucklebury, Berkshire. She was educated at St Andrew's School and Marlborough College before earning a degree in art history at the University of St Andre</description>
