@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Amphetamine</title>
+      <description>Amphetamine is a central nervous system (CNS) stimulant that is used in the treatment of attention deficit hyperactivity disorder (ADHD) and narcolepsy; it is also used to treat binge eating disorder in the form of lisdexamfetamine. Historically, it has been used to treat nasal congestion and depression. Amphetamine is also used as an athletic performance enhancer and cognitive enhancer, and recre</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/amphetamine-20260817.mp3" type="audio/mpeg" length="1187712"/>
+      <guid isPermaLink="false">drugempire-amphetamine-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 19:34:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MS-13</title>
       <description>Mara Salvatrucha (Spanish: [ˈmaɾa salβaˈtɾut͡ʃa]; lit. 'Cunning Salvadoran gang'), commonly known as MS-13, is an international criminal gang that originated in Los Angeles, California, in the 1980s. Originally, the gang was set up to protect Salvadoran immigrants from other gangs in the Los Angeles area. Over time, the gang grew into a more traditional criminal organization. MS-13 has a longtime </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/ms-13-20260817.mp3" type="audio/mpeg" length="1516416"/>
