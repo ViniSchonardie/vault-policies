@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Great white shark</title>
+      <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale sha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-white-shark-20260817.mp3" type="audio/mpeg" length="1323648"/>
+      <guid isPermaLink="false">nature-great-white-shark-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 12:54:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Greenland shark</title>
       <description>The Greenland shark (Somniosus microcephalus), also known as the grey shark or gurry shark, is a large shark of the family Somniosidae ("sleeper sharks"), closely related to the Pacific and southern sleeper sharks. Inhabiting the North Atlantic and Arctic Oceans, they are notable for their exceptional longevity, although they are poorly studied because of the depth and remoteness of their natural </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/greenland-shark-20260816.mp3" type="audio/mpeg" length="1386624"/>
