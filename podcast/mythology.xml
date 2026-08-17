@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Medusa</title>
+      <description>In Greek mythology, Medusa (; Ancient Greek: Μέδουσα, romanized: Médousa, lit. 'guardian, protectress'), also called Gorgo (Ancient Greek: Γοργώ) or the Gorgon, was one of the three Gorgons. Medusa is generally described as a woman with living snakes in place of hair; her appearance was so hideous that anyone who looked upon her was turned to stone. Medusa and her Gorgon sisters Euryale and Stheno</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/medusa-20260817.mp3" type="audio/mpeg" length="1156992"/>
+      <guid isPermaLink="false">mythology-medusa-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 20:26:02 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Heracles</title>
       <description>Heracles (   Ancient Greek: Ἡρακλῆς, lit. 'glory/fame of Hera'), born Alcaeus (Ἀλκαῖος, Alkaios) or Alcides (Ἀλκείδης, Alkeidēs), was a divine hero in Greek mythology, the son of Zeus and Alcmene, and the foster son of Amphitryon. He was a descendant of Perseus, another son of Zeus.
 He was the greatest of the Greek heroes, the ancestor of royal clans known as Heracleidae (Ἡρακλεῖδαι), and a champi</description>
