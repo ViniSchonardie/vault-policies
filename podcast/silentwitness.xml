@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sirhan Sirhan</title>
+      <description>Sirhan Bishara Sirhan (; Arabic: سرحان بشارة سرحان Sirḥān Bišāra Sirḥān; born March 19, 1944) is a Palestinian-Jordanian man who assassinated U.S. senator Robert F. Kennedy, the younger brother of U.S. president John F. Kennedy and a candidate for the Democratic nomination in the 1968 United States presidential election on June 5, 1968. Sirhan was 24 years old at the time. On April 17, 1969, he wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/sirhan-sirhan-20260817.mp3" type="audio/mpeg" length="1413888"/>
+      <guid isPermaLink="false">trials-sirhan-sirhan-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 20:41:12 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sparta</title>
       <description>Sparta was a prominent city-state in Laconia in ancient Greece. In antiquity (pre-800 BC), the state was known as Lacedaemon (Λακεδαίμων, Lakedaímōn), while Sparta referred to its capital, a group of villages in the valley of the Evrotas River in Laconia, in southeastern Peloponnese. Around 650 BC, it rose to become one of the major military powers in Greece, a status it retained until 371 BC.
 Spa</description>
