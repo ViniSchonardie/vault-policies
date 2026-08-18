@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peter Kürten</title>
+      <description>Peter Kürten (German: [ˈpeːtɐ ˈkʏʁtn̩]; 26 May 1883 – 2 July 1931) was a German serial killer, known as The Vampire of Düsseldorf and the Düsseldorf Monster, who committed a series of murders and sexual assaults between February and November 1929 in the city of Düsseldorf. In the years before these assaults and murders, Kürten had amassed a lengthy criminal record for offences including arson and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-krten-20260818.mp3" type="audio/mpeg" length="1306368"/>
+      <guid isPermaLink="false">crime-peter-krten-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 13:54:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Randy Kraft</title>
       <description>Randy Steven Kraft (born March 19, 1945) is an American serial killer and rapist known as the Scorecard Killer, the Southern California Strangler, and the Freeway Killer, who committed the rape, torture, and murder of a minimum of sixteen young men between 1972 and 1983, the majority of whom he killed in California. Kraft is also believed to have committed the rape and murder of up to fifty-one ot</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/randy-kraft-20260817.mp3" type="audio/mpeg" length="1223424"/>
