@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Meyer Lansky</title>
+      <description>Meyer Lansky (born Maier Suchowljansky; July 4, 1902 – January 15, 1983) was an American organized crime figure associated with gambling operations and illicit finance in the United States, Cuba, and the Caribbean during the mid-20th century. He was closely linked to Charles "Lucky" Luciano and is frequently described by historians and law-enforcement sources as a key figure in the formation of in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/meyer-lansky-20260818.mp3" type="audio/mpeg" length="1980672"/>
+      <guid isPermaLink="false">drugempire-meyer-lansky-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 19:43:04 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Opium</title>
       <description>Opium (also known as poppy tears, or Lachryma papaveris) is the dried latex obtained from the seed capsules of the opium poppy Papaver somniferum. Approximately 12 percent of opium is made up of the analgesic alkaloid morphine, which is processed chemically to produce heroin and other synthetic opioids for medicinal use and for the illegal drug trade. Opium's main psychoactive alkaloids, primarily</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/opium-20260818.mp3" type="audio/mpeg" length="1369344"/>
