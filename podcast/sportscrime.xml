@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>2026 Tour de France</title>
+      <description>The 2026 Tour de France was the 113th edition of the Tour de France. The race began with a stage in Barcelona, Spain, on 4 July, and finished with the final stage at the Champs-Élysées, Paris, on 26 July.
+Tadej Pogačar of UAE Team Emirates XRG won the general classification for the fifth time, and the third year running. His attack on stage 6, at the Col du Tourmalet in the Pyrenees, established a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/2026-tour-de-france-20260818.mp3" type="audio/mpeg" length="1261824"/>
+      <guid isPermaLink="false">sportscrime-2026-tour-de-france-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 15:32:45 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ayrton Senna</title>
       <description>Ayrton Senna da Silva (Brazilian Portuguese: [aˈiʁtõ ˈsẽnɐ dɐ ˈsiwvɐ] ; 21 March 1960 – 1 May 1994) was a Brazilian racing driver and philanthropist who competed in Formula One from 1984 to 1994. Senna won three Formula One World Drivers' Championship titles with McLaren, and—at the time of his death—held the record for most pole positions (65), among others; he won 41 Grands Prix across 11 season</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/ayrton-senna-20260817.mp3" type="audio/mpeg" length="1210752"/>
