@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Paradise Lost</title>
+      <description>Paradise Lost is an epic poem in blank verse by the English poet John Milton (1608–1674). The poem concerns the biblical story of the fall of man: the temptation of Adam and Eve by the fallen angel Satan and their expulsion from the Garden of Eden. The first version, published in 1667, consists of ten books with over ten thousand lines of verse. A second edition followed in 1674, arranged into twe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/paradise-lost-20260818.mp3" type="audio/mpeg" length="1263360"/>
+      <guid isPermaLink="false">trials-paradise-lost-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 20:39:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Satan</title>
       <description>Satan, also known as the Devil, is an entity in Abrahamic religions who entices humans into sin or falsehood. In Judaism, Satan is seen as an agent subservient to God, typically regarded as a metaphor for the yetzer hara, or 'evil inclination'. In Christianity and Islam, he is usually seen as a fallen angel or jinn who has rebelled against God, who nevertheless allows him temporary power over the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/satan-20260818.mp3" type="audio/mpeg" length="1142016"/>
