@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Satan</title>
+      <description>Satan, also known as the Devil, is an entity in Abrahamic religions who entices humans into sin or falsehood. In Judaism, Satan is seen as an agent subservient to God, typically regarded as a metaphor for the yetzer hara, or 'evil inclination'. In Christianity and Islam, he is usually seen as a fallen angel or jinn who has rebelled against God, who nevertheless allows him temporary power over the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/satan-20260818.mp3" type="audio/mpeg" length="1142016"/>
+      <guid isPermaLink="false">trials-satan-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 16:27:08 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Maine</title>
       <description>Maine (  MAYN) is a state in the New England region of the United States, and the northeasternmost state in the contiguous United States. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, and shares a maritime border with Nova Scotia. It is the only state to border only one other state (N</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/maine-20260817.mp3" type="audio/mpeg" length="1603200"/>
