@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Major League Baseball</title>
+      <description>Major League Baseball (MLB) is a professional baseball league in North America composed of 30 teams, divided equally between the National League (NL) and the American League (AL), with 29 in the United States and 1 in Canada. MLB is one of the major professional sports leagues in the United States and Canada and is considered the premier professional baseball league in the world. Each team plays 1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/major-league-baseball-20260818.mp3" type="audio/mpeg" length="972288"/>
+      <guid isPermaLink="false">sportscrime-major-league-baseball-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 19:39:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026 Tour de France</title>
       <description>The 2026 Tour de France was the 113th edition of the Tour de France. The race began with a stage in Barcelona, Spain, on 4 July, and finished with the final stage at the Champs-Élysées, Paris, on 26 July.
 Tadej Pogačar of UAE Team Emirates XRG won the general classification for the fifth time, and the third year running. His attack on stage 6, at the Col du Tourmalet in the Pyrenees, established a</description>
