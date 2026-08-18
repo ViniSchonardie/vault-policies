@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Howard Hughes</title>
+      <description>Howard Robard Hughes Jr. (December 24, 1905 – April 5, 1976) was an American aviator, aerospace engineer, business magnate, film producer, and investor. He was one of the richest and most influential people in the world during his lifetime. He first became prominent as a film producer, and then as an important figure in the aviation industry. Later in life, he became known for his eccentric behavi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/howard-hughes-20260818.mp3" type="audio/mpeg" length="1142784"/>
+      <guid isPermaLink="false">realstory-howard-hughes-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 21:20:05 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Al Capone</title>
       <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
 Capone was born in</description>
