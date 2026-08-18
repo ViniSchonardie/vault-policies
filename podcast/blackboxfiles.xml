@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Eastern Airlines Flight 5735</title>
+      <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20260818.mp3" type="audio/mpeg" length="1508736"/>
+      <guid isPermaLink="false">aviation-china-eastern-airlines-flight-5735-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 14:32:57 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Airlines Flight 587</title>
       <description>American Airlines Flight 587 was a regularly scheduled international passenger flight from John F. Kennedy International Airport, New York City, to Las Américas International Airport, Santo Domingo, Dominican Republic. On November 12, 2001, the Airbus A300 flying the route crashed into the neighborhood of Belle Harbor on the Rockaway Peninsula of Queens, New York City, shortly after takeoff, killi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-587-20260817.mp3" type="audio/mpeg" length="1422720"/>
