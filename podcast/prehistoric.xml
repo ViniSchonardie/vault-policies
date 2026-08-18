@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Homo floresiensis</title>
+      <description>Homo floresiensis ( ), also known as "Flores Man" or "Hobbit" (after the fictional species), is an extinct species of small archaic humans that inhabited the island of Flores, Indonesia, until the arrival of modern humans about 50,000 years ago.
+The remains of an individual who would have stood about 1.1 m (3 ft 7 in) in height were discovered in 2003 at Liang Bua cave. As of 2015, partial skeleto</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-floresiensis-20260818.mp3" type="audio/mpeg" length="1622400"/>
+      <guid isPermaLink="false">prehistoric-homo-floresiensis-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 21:28:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Allosaurus</title>
       <description>Allosaurus ( AL-o-SAWR-us) is a genus of theropod dinosaur that lived 155 to 143 million years ago during the late Jurassic period (latest Oxfordian to latest Tithonian ages). The first fossil remains that could definitively be ascribed to this genus were described in 1877 by Othniel C. Marsh. The name "Allosaurus" means "different lizard", alluding to its lightweight vertebrae, which Marsh believ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/allosaurus-20260818.mp3" type="audio/mpeg" length="1148928"/>
