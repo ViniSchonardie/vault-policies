@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mars Pathfinder</title>
+      <description>Mars Pathfinder was an American robotic spacecraft that landed a base station with a roving probe on Mars in 1997. It consisted of a lander, renamed the Carl Sagan Memorial Station, and a lightweight, 10.6 kg (23 lb) wheeled robotic Mars rover named Sojourner, the first rover to operate outside the Earth–Moon system. The mission terminated in 1998.
+Launched on December 4, 1996, by NASA aboard a De</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-pathfinder-20260818.mp3" type="audio/mpeg" length="1380864"/>
+      <guid isPermaLink="false">space-mars-pathfinder-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 16:51:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ingenuity (helicopter)</title>
       <description>Ingenuity, nicknamed Ginny, is an autonomous  helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission. Ingenuity made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight. It was designed by NASA's Jet Propulsion Labo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ingenuity-helicopter-20260818.mp3" type="audio/mpeg" length="1363584"/>
