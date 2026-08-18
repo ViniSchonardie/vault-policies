@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ulysses S. Grant</title>
+      <description>Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822 – July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army, leading it to victory in the American Civil War in 1865.
+Grant was born in Ohio and graduated from the United States Military Academy in 1843. He served with distinction in the Mexican–American War, but</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/ulysses-s-grant-20260818.mp3" type="audio/mpeg" length="1245312"/>
+      <guid isPermaLink="false">warvault-ulysses-s-grant-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 13:56:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iran–Iraq War</title>
       <description>The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths (excluding numbers from the related Anfal campaign), making it the deadliest conventional war ever fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraniraq-war-20260817.mp3" type="audio/mpeg" length="1219968"/>
