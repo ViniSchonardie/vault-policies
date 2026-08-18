@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Swissair Flight 111</title>
+      <description>Swissair Flight 111 was a scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Cointrin Airport in Geneva, Switzerland. The flight was also a codeshare flight with Delta Air Lines. On 2 September 1998, the McDonnell Douglas MD-11 operating this flight crashed into the Atlantic Ocean southwest of Halifax Stanfield International Airp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-111-20260818.mp3" type="audio/mpeg" length="1365120"/>
+      <guid isPermaLink="false">aviation-swissair-flight-111-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 17:25:59 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Eastern Airlines Flight 5735</title>
       <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20260818.mp3" type="audio/mpeg" length="1508736"/>
