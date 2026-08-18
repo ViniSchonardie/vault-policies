@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cronus</title>
+      <description>In ancient Greek religion and mythology, Cronus, Cronos, or Kronos ( or ; Ancient Greek: Κρόνος) was the leader and youngest of the Titans, the children of Gaia (Earth) and Uranus (Sky). He overthrew his father and ruled during the mythological Golden Age until he was overthrown by his son Zeus and imprisoned in Tartarus. According to Plato, however, Cronus, along with the deities Phorcys and Rhea</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/cronus-20260818.mp3" type="audio/mpeg" length="1211904"/>
+      <guid isPermaLink="false">mythology-cronus-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 23:19:44 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mountains of Kong</title>
       <description>The Mountains of Kong are a legendary mountain range charted on maps of Africa from 1798 through to at least the late 1880s. The mountains were once thought to begin in West Africa near the highland source of the Niger River close to Tembakounda in Guinea, then continue east to the equally legendary Mountains of the Moon in Central Africa, thought to be where the White Nile had its source. None of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/mountains-of-kong-20260818.mp3" type="audio/mpeg" length="1381632"/>
