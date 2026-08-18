@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Murder of Nicole Brown Simpson and Ron Goldman</title>
+      <description>On June 12, 1994, Nicole Brown Simpson and her friend Ron Goldman were murdered outside Brown's condominium in Brentwood, Los Angeles, United States. Brown's ex-husband, retired football player and media personality O. J. Simpson, was charged with the murders and became a fugitive from justice after failing to turn himself in to the Los Angeles Police Department (LAPD) on June 17. A low-speed chas</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/murder-of-nicole-brown-simpson-and-ron-goldman-20260818.mp3" type="audio/mpeg" length="1362816"/>
+      <guid isPermaLink="false">crime-murder-of-nicole-brown-simpson-and-ron-goldman-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 18:57:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peter Kürten</title>
       <description>Peter Kürten (German: [ˈpeːtɐ ˈkʏʁtn̩]; 26 May 1883 – 2 July 1931) was a German serial killer, known as The Vampire of Düsseldorf and the Düsseldorf Monster, who committed a series of murders and sexual assaults between February and November 1929 in the city of Düsseldorf. In the years before these assaults and murders, Kürten had amassed a lengthy criminal record for offences including arson and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-krten-20260818.mp3" type="audio/mpeg" length="1306368"/>
