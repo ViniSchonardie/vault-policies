@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Explorer 1</title>
+      <description>Explorer 1 was the first satellite launched by the United States and was part of the U.S. participation in the International Geophysical Year (IGY). The 1958 mission followed the first two satellites, both launched by the Soviet Union during the previous year, Sputnik 1 and Sputnik 2. This began a Space Race during the Cold War between the two nations.
+Explorer 1 was launched on 1 February 1958 at</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/explorer-1-20260818.mp3" type="audio/mpeg" length="1480320"/>
+      <guid isPermaLink="false">space-explorer-1-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 20:21:18 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mars Pathfinder</title>
       <description>Mars Pathfinder was an American robotic spacecraft that landed a base station with a roving probe on Mars in 1997. It consisted of a lander, renamed the Carl Sagan Memorial Station, and a lightweight, 10.6 kg (23 lb) wheeled robotic Mars rover named Sojourner, the first rover to operate outside the Earth–Moon system. The mission terminated in 1998.
 Launched on December 4, 1996, by NASA aboard a De</description>
