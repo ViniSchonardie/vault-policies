@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Arthur Miller</title>
+      <description>Arthur Asher Miller (October 17, 1915 – February 10, 2005) was an American playwright and essayist in the 20th-century American theater. Among his most popular plays are All My Sons (1947), Death of a Salesman (1949), The Crucible (1953), and A View from the Bridge (1955). He wrote several screenplays, including The Misfits (1961). The drama Death of a Salesman is considered one of the best Americ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/arthur-miller-20260818.mp3" type="audio/mpeg" length="1336704"/>
+      <guid isPermaLink="false">trials-arthur-miller-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 23:27:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Paradise Lost</title>
       <description>Paradise Lost is an epic poem in blank verse by the English poet John Milton (1608–1674). The poem concerns the biblical story of the fall of man: the temptation of Adam and Eve by the fallen angel Satan and their expulsion from the Garden of Eden. The first version, published in 1667, consists of ten books with over ten thousand lines of verse. A second edition followed in 1674, arranged into twe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/paradise-lost-20260818.mp3" type="audio/mpeg" length="1263360"/>
