@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hanuman</title>
+      <description>Hanuman (; Sanskrit: हनुमान्, IAST: Hanumān), also known as Maruti, Bajrangabali, and Anjaneya, is a deity in Hinduism, revered as a divine vanara, and a devoted companion of Lord Rama. Central to the Ramayana, Hanuman is celebrated for his unwavering devotion to Rama and is considered a chiranjivi. He is traditionally believed to be the spiritual offspring of the celestial wind-god Vayu. In Shaiv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hanuman-20260818.mp3" type="audio/mpeg" length="1268352"/>
+      <guid isPermaLink="false">mythology-hanuman-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 16:26:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vampire</title>
       <description>A vampire is a mythical creature with a human-like appearance that subsists by feeding on the vital essence (generally, the blood) of humans. In European folklore, vampires are undead humanoid creatures that often visited loved ones and caused mischief or deaths in the neighbourhoods which they inhabited while they were alive. They wore shrouds and were often described as bloated and of ruddy or d</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/vampire-20260817.mp3" type="audio/mpeg" length="1027200"/>
