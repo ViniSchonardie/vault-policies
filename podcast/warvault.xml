@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Iraq War</title>
+      <description>The Iraq War (Arabic: حرب العراق, romanized: ḥarb al-ʿirāq), also referred to as the Second Gulf War (Gulf War II), was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraq-war-20260818.mp3" type="audio/mpeg" length="1079808"/>
+      <guid isPermaLink="false">warvault-iraq-war-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 21:36:39 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Unit 731</title>
       <description>Unit 731 (Japanese: 731部隊, Hepburn: Nana-san-ichi Butai), officially known as the Manchu Detachment 731 and also referred to as the Kamo Detachment and the Ishii Unit, was a secret research facility operated by the Imperial Japanese Army between 1933 and 1945. It was located in the Pingfang district of Harbin, in the Japanese puppet state of Manchukuo (now part of Northeast China), and maintained </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/unit-731-20260818.mp3" type="audio/mpeg" length="1552512"/>
