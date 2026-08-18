@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mountains of Kong</title>
+      <description>The Mountains of Kong are a legendary mountain range charted on maps of Africa from 1798 through to at least the late 1880s. The mountains were once thought to begin in West Africa near the highland source of the Niger River close to Tembakounda in Guinea, then continue east to the equally legendary Mountains of the Moon in Central Africa, thought to be where the White Nile had its source. None of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/mountains-of-kong-20260818.mp3" type="audio/mpeg" length="1381632"/>
+      <guid isPermaLink="false">mythology-mountains-of-kong-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 20:22:58 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hanuman</title>
       <description>Hanuman (; Sanskrit: हनुमान्, IAST: Hanumān), also known as Maruti, Bajrangabali, and Anjaneya, is a deity in Hinduism, revered as a divine vanara, and a devoted companion of Lord Rama. Central to the Ramayana, Hanuman is celebrated for his unwavering devotion to Rama and is considered a chiranjivi. He is traditionally believed to be the spiritual offspring of the celestial wind-god Vayu. In Shaiv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/hanuman-20260818.mp3" type="audio/mpeg" length="1268352"/>
