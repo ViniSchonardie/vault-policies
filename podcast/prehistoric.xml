@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Allosaurus</title>
+      <description>Allosaurus ( AL-o-SAWR-us) is a genus of theropod dinosaur that lived 155 to 143 million years ago during the late Jurassic period (latest Oxfordian to latest Tithonian ages). The first fossil remains that could definitively be ascribed to this genus were described in 1877 by Othniel C. Marsh. The name "Allosaurus" means "different lizard", alluding to its lightweight vertebrae, which Marsh believ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/allosaurus-20260818.mp3" type="audio/mpeg" length="1148928"/>
+      <guid isPermaLink="false">prehistoric-allosaurus-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 17:22:31 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Holocene extinction</title>
       <description>The Holocene or Anthropocene extinction is an ongoing extinction event caused by human activity during the current geological epoch, impacting diverse families of plants and animals, including mammals, birds, reptiles, amphibians, fish, and invertebrates, as well as both terrestrial and marine species. It is sometimes also called the sixth extinction (though this can also describe the Capitanian).</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/holocene-extinction-20260818.mp3" type="audio/mpeg" length="1345536"/>
