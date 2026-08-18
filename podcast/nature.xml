@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Wolverine</title>
+      <description>The wolverine ( WUUL-və-reen, US also  WUUL-və-REEN; Gulo gulo), also called the carcajou or quickhatch (from East Cree, kwiihkwahaacheew), is the largest land-dwelling member of the family Mustelidae. It is a muscular carnivore and a solitary animal. The wolverine has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/wolverine-20260818.mp3" type="audio/mpeg" length="1178112"/>
+      <guid isPermaLink="false">nature-wolverine-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 12:56:21 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hippopotamus</title>
       <description>The hippopotamus (Hippopotamus amphibius; ; pl.: hippopotamuses), often shortened to hippo (pl.: hippos), further qualified as the common hippopotamus, Nile hippopotamus and river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa. It is one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus (Choeropsis liberiensis or Hexaprotodon </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/hippopotamus-20260817.mp3" type="audio/mpeg" length="1097472"/>
