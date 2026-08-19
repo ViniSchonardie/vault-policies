@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Russian Empire</title>
+      <description>The Russian Empire was the final period of the Russian monarchy, spanning most of northern Eurasia from its establishment in November 1721 until the proclamation of the Russian Republic in September 1917. At its height in the late 19th century, it covered about 22,800,000 km2 (8,800,000 sq mi), roughly one-sixth of the world's landmass, making it the third-largest empire in history, behind only th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/russian-empire-20260819.mp3" type="audio/mpeg" length="1477632"/>
+      <guid isPermaLink="false">royal-russian-empire-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 22:21:43 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Middle Ages</title>
       <description>In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to late 15th centuries, comparable with the post-classical period of global history. The medieval period is the middle epoch of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, Hig</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/middle-ages-20260819.mp3" type="audio/mpeg" length="1459968"/>
