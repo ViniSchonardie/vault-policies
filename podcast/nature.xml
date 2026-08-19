@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Portuguese man o' war</title>
+      <description>The Portuguese man o' war (Physalia physalis), also known as the man-of-war or bluebottle, is a marine hydrozoan found in the Atlantic, Indian, and Pacific oceans. While it is typically considered the only species in its genus, Physalia, and family, Physaliidae, genetic evidence suggests there may be more.
+Although it superficially resembles a jellyfish, the Portuguese man o' war is in fact a siph</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/portuguese-man-o-war-20260819.mp3" type="audio/mpeg" length="1524480"/>
+      <guid isPermaLink="false">nature-portuguese-man-o-war-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 16:26:26 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peregrine falcon</title>
       <description>The peregrine falcon (Falco peregrinus), also referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head. As is typical for bird-eating (avivore) raptors, peregrine falcons are sexually dimorphic, with females being considerably larger than males. Histori</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/peregrine-falcon-20260819.mp3" type="audio/mpeg" length="1102080"/>
