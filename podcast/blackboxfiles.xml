@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aloha Airlines Flight 243</title>
+      <description>Aloha Airlines Flight 243 was a scheduled domestic passenger flight flown by Aloha Airlines between Hilo and Honolulu in Hawaii. On April 28, 1988, the Boeing 737-297 airplane serving the flight suffered extensive damage after an explosive decompression in flight, caused by part of the fuselage breaking due to poor maintenance and metal fatigue. The plane was able to land safely at Kahului Airport</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-airlines-flight-243-20260819.mp3" type="audio/mpeg" length="1350912"/>
+      <guid isPermaLink="false">aviation-aloha-airlines-flight-243-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 21:22:55 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ukraine International Airlines Flight 752</title>
       <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
 Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
