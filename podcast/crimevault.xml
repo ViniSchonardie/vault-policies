@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fritz Haarmann</title>
+      <description>Friedrich Heinrich Karl "Fritz" Haarmann (25 October 1879 – 15 April 1925) was a German serial rapist and serial killer, known as the Butcher of Hanover, the Vampire of Hanover and the Wolf Man, who committed the sexual assault, murder, mutilation and dismemberment of at least twenty-four young men and boys in the city of Hanover between 1918 and 1924.
+Found guilty of twenty-four of the twenty-sev</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/fritz-haarmann-20260819.mp3" type="audio/mpeg" length="1046784"/>
+      <guid isPermaLink="false">crime-fritz-haarmann-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 13:55:40 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>assassination of Anwar Sadat</title>
       <description>On 6 October 1981, Anwar Sadat, the president of Egypt, was assassinated during the annual victory parade held in Cairo to celebrate the victory over Israel in the Yom Kippur War, during which the Egyptian Army had crossed the Suez Canal at the beginning of the war. The assassination was undertaken by members of the Egyptian Islamic Jihad. Although the motive has been debated, Sadat's assassinatio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/assassination-of-anwar-sadat-20260818.mp3" type="audio/mpeg" length="1206144"/>
