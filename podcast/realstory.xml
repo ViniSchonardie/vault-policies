@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Friedrich Nietzsche</title>
+      <description>Friedrich Wilhelm Nietzsche (15 October 1844 – 25 August 1900) was a German philosopher and writer who started his career as a classical philologist and turned to philosophy early in his academic career. In 1869, at age 24, he was appointed Professor of Classical Philology at the University of Basel. Plagued by health problems for most of his life, he resigned from the university in 1879. He after</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/friedrich-nietzsche-20260819.mp3" type="audio/mpeg" length="1330944"/>
+      <guid isPermaLink="false">realstory-friedrich-nietzsche-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 15:37:32 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Howard Hughes</title>
       <description>Howard Robard Hughes Jr. (December 24, 1905 – April 5, 1976) was an American aviator, aerospace engineer, business magnate, film producer, and investor. He was one of the richest and most influential people in the world during his lifetime. He first became prominent as a film producer, and then as an important figure in the aviation industry. Later in life, he became known for his eccentric behavi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/howard-hughes-20260818.mp3" type="audio/mpeg" length="1142784"/>
