@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Albert Speer</title>
+      <description>Berthold Konrad Hermann Albert Speer (; German: [ˈʃpeːɐ̯] ; 19 March 1905 – 1 September 1981) was a German architect who served as Minister of Armaments and War Production in Nazi Germany during most of World War II. A close friend and ally of Adolf Hitler, he was convicted at the Nuremberg trials and served 20 years in prison.
+An architect by training, Speer joined the Nazi Party in 1931. His arc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/albert-speer-20260819.mp3" type="audio/mpeg" length="1422336"/>
+      <guid isPermaLink="false">trials-albert-speer-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 23:28:52 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>West Germany</title>
       <description>West Germany was the common English name for the Federal Republic of Germany (FRG) from its formation on 23 May 1949 until its reunification with East Germany on 3 October 1990. It was sometimes known as the Bonn Republic after its capital city of Bonn, or as the Second German Republic. During the Cold War, the western portion of Germany and the associated territory of West Berlin were parts of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/west-germany-20260819.mp3" type="audio/mpeg" length="1494528"/>
