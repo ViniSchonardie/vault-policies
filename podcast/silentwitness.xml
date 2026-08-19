@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>West Germany</title>
+      <description>West Germany was the common English name for the Federal Republic of Germany (FRG) from its formation on 23 May 1949 until its reunification with East Germany on 3 October 1990. It was sometimes known as the Bonn Republic after its capital city of Bonn, or as the Second German Republic. During the Cold War, the western portion of Germany and the associated territory of West Berlin were parts of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/west-germany-20260819.mp3" type="audio/mpeg" length="1494528"/>
+      <guid isPermaLink="false">trials-west-germany-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 20:50:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lizzie Borden</title>
       <description>Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, nine days before the death of her older sister Emma.
 The Borden murders a</description>
