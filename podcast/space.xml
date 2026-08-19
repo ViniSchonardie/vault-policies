@@ -17,6 +17,23 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-I</title>
+      <description>STS-51-I was the 20th mission of NASA's Space Shuttle program and the sixth flight of Space Shuttle Discovery. During the mission, Discovery deployed three communications satellites into orbit. The mission launched from Kennedy Space Center, Florida, on August 27, 1985, and landed at Edwards Air Force Base, California, on September 3, 1985.
+
+
+== Crew ==
+
+
+=== Spacewalks ===
+EVA 1
+Personnel: Fisher</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-i-20260819.mp3" type="audio/mpeg" length="1463808"/>
+      <guid isPermaLink="false">space-sts-51-i-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 20:23:47 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mariner 4</title>
       <description>Mariner 4 (Mariner C-3, together with Mariner 3 known as Mariner-Mars 1964) was the fourth in a series of spacecraft intended for planetary exploration in a flyby mode. It was designed to conduct closeup scientific observations of Mars and to transmit these observations to Earth. Launched on November 28, 1964, Mariner 4 performed the first successful flyby of the planet Mars, returning the first c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mariner-4-20260819.mp3" type="audio/mpeg" length="1174272"/>
