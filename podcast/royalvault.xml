@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Middle Ages</title>
+      <description>In the history of Europe, the Middle Ages or medieval period lasted approximately from the 5th to late 15th centuries, comparable with the post-classical period of global history. The medieval period is the middle epoch of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, Hig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/middle-ages-20260819.mp3" type="audio/mpeg" length="1459968"/>
+      <guid isPermaLink="false">royal-middle-ages-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 18:57:15 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Catherine of Aragon</title>
       <description>Catherine of Aragon (also spelled Katherine; Spanish: Catalina de Aragón; 16 December 1485 – 7 January 1536) was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.
 Catherine was born at the Ar</description>
