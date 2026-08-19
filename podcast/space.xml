@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mariner 4</title>
+      <description>Mariner 4 (Mariner C-3, together with Mariner 3 known as Mariner-Mars 1964) was the fourth in a series of spacecraft intended for planetary exploration in a flyby mode. It was designed to conduct closeup scientific observations of Mars and to transmit these observations to Earth. Launched on November 28, 1964, Mariner 4 performed the first successful flyby of the planet Mars, returning the first c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mariner-4-20260819.mp3" type="audio/mpeg" length="1174272"/>
+      <guid isPermaLink="false">space-mariner-4-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 16:40:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Viking program</title>
       <description>The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/viking-program-20260819.mp3" type="audio/mpeg" length="1241472"/>
