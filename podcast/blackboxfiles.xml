@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ukraine International Airlines Flight 752</title>
+      <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
+Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ukraine-international-airlines-flight-752-20260819.mp3" type="audio/mpeg" length="1532544"/>
+      <guid isPermaLink="false">aviation-ukraine-international-airlines-flight-752-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 17:25:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Asiana Airlines Flight 214</title>
       <description>Asiana Airlines Flight 214 was a scheduled transpacific passenger flight originating from Incheon International Airport near Seoul, South Korea, to San Francisco International Airport near San Francisco, California, United States that crashed on final approach into Runway 28L of San Francisco International Airport in the United States on the morning of July 6, 2013. The Boeing 777-200ER operating </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/asiana-airlines-flight-214-20260819.mp3" type="audio/mpeg" length="1289472"/>
