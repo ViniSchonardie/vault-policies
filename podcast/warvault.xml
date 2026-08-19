@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George S. Patton</title>
+      <description>George Smith Patton Jr. (11 November 1885 – 21 December 1945) was a general in the United States Army who commanded the Seventh Army in the Mediterranean Theater of World War II, then the Third Army in France and Germany after the Allied invasion of Normandy in June 1944.
+Born in 1885, Patton attended the Virginia Military Institute and the United States Military Academy at West Point. He studied </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/george-s-patton-20260819.mp3" type="audio/mpeg" length="1261056"/>
+      <guid isPermaLink="false">warvault-george-s-patton-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 22:04:19 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Idi Amin</title>
       <description>Awon'go Idi Amin Dada Oumee (30 May 1928 – 16 August 2003) was a Ugandan military officer and politician who seized and held power as the third president of Uganda from 1971 until his overthrow in 1979. In 1971, he overthrew president Milton Obote, subsequently ruling as a dictator. He was ousted from power in 1979 after launching an unsuccessful war on Tanzania, living in exile in Saudi Arabia fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/idi-amin-20260819.mp3" type="audio/mpeg" length="1220352"/>
