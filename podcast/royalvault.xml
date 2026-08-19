@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Catherine of Aragon</title>
+      <description>Catherine of Aragon (also spelled Katherine; Spanish: Catalina de Aragón; 16 December 1485 – 7 January 1536) was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.
+Catherine was born at the Ar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-of-aragon-20260819.mp3" type="audio/mpeg" length="1276416"/>
+      <guid isPermaLink="false">royal-catherine-of-aragon-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 16:02:51 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saladin</title>
       <description>Salah ad-Din Yusuf ibn Ayyub (c. 1137 – 4 March 1193), commonly known as Saladin, was a Kurdish commander and political leader. He was the founder of the Ayyubid dynasty and the first sultan of both Egypt and Syria. An important figure of the Third Crusade, he spearheaded the Muslim military effort against the Crusader states in the Levant. At the height of his power, the Ayyubid realm spanned Egy</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/saladin-20260818.mp3" type="audio/mpeg" length="1496448"/>
