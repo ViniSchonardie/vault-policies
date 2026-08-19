@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Steffi Graf</title>
+      <description>Stefanie Maria Graf (, German: [ˈʃtɛfi ˈɡʁaːf] ; born 14 June 1969), known professionally as Steffi Graf and preferring to be called Stefanie since 2001, is a German former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for a record 377 weeks, and finished as the year-end No. 1 a record eight times. Graf won 107 singles titl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/steffi-graf-20260819.mp3" type="audio/mpeg" length="1069824"/>
+      <guid isPermaLink="false">sportscrime-steffi-graf-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 19:32:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iga Świątek</title>
       <description>Iga Natalia Świątek (born 31 May 2001) is a Polish professional tennis player. Currently ranked world No. 3 in women's singles by the WTA, she has held the world No. 1 ranking for a total of 125 weeks, seventh-most of all-time. Świątek has won 25
 WTA Tour–level singles titles, including six major titles: four at the French Open, one at Wimbledon, and one at the US Open. She has also won the 2023 W</description>
