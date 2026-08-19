@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Viking program</title>
+      <description>The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/viking-program-20260819.mp3" type="audio/mpeg" length="1241472"/>
+      <guid isPermaLink="false">space-viking-program-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 13:50:53 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Explorer 1</title>
       <description>Explorer 1 was the first satellite launched by the United States and was part of the U.S. participation in the International Geophysical Year (IGY). The 1958 mission followed the first two satellites, both launched by the Soviet Union during the previous year, Sputnik 1 and Sputnik 2. This began a Space Race during the Cold War between the two nations.
 Explorer 1 was launched on 1 February 1958 at</description>
