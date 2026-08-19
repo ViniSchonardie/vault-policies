@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nanjing Massacre</title>
+      <description>The Nanjing Massacre or the Rape of Nanjing (formerly romanized as Nanking) was the mass rape and murder, between December 1937 and March 1938, of Chinese civilians, noncombatants, and prisoners of war by the Imperial Japanese Army in Nanjing, the capital of the Republic of China. It took place immediately after the Battle of Nanjing and retreat of the National Revolutionary Army during the Second</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/nanjing-massacre-20260819.mp3" type="audio/mpeg" length="1571712"/>
+      <guid isPermaLink="false">warvault-nanjing-massacre-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 13:57:03 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iraq War</title>
       <description>The Iraq War (Arabic: حرب العراق, romanized: ḥarb al-ʿirāq), also referred to as the Second Gulf War (Gulf War II), was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraq-war-20260818.mp3" type="audio/mpeg" length="1079808"/>
