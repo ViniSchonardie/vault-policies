@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Saltwater crocodile</title>
+      <description>The saltwater crocodile (Crocodylus porosus) is a crocodilian native to saltwater habitats, brackish wetlands and freshwater rivers from India's east coast across Southeast Asia and the Sundaland to northern Australia and Micronesia. It has been listed as Least Concern on the IUCN Red List since 1996. It was hunted for its skin throughout its range up to the 1970s, and is threatened by illegal kil</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/saltwater-crocodile-20260819.mp3" type="audio/mpeg" length="1146240"/>
+      <guid isPermaLink="false">nature-saltwater-crocodile-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 20:39:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Portuguese man o' war</title>
       <description>The Portuguese man o' war (Physalia physalis), also known as the man-of-war or bluebottle, is a marine hydrozoan found in the Atlantic, Indian, and Pacific oceans. While it is typically considered the only species in its genus, Physalia, and family, Physaliidae, genetic evidence suggests there may be more.
 Although it superficially resembles a jellyfish, the Portuguese man o' war is in fact a siph</description>
