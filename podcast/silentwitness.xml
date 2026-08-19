@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lizzie Borden</title>
+      <description>Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, nine days before the death of her older sister Emma.
+The Borden murders a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/lizzie-borden-20260819.mp3" type="audio/mpeg" length="1291776"/>
+      <guid isPermaLink="false">trials-lizzie-borden-20260819</guid>
+      <pubDate>Wed, 19 Aug 2026 16:27:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arthur Miller</title>
       <description>Arthur Asher Miller (October 17, 1915 – February 10, 2005) was an American playwright and essayist in the 20th-century American theater. Among his most popular plays are All My Sons (1947), Death of a Salesman (1949), The Crucible (1953), and A View from the Bridge (1955). He wrote several screenplays, including The Misfits (1961). The drama Death of a Salesman is considered one of the best Americ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/arthur-miller-20260818.mp3" type="audio/mpeg" length="1336704"/>
