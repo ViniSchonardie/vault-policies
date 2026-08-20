@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Anglerfish</title>
+      <description>The anglerfish are ray-finned fish in the order Lophiiformes (). Both the order's common and scientific name comes from the characteristic mode of predation, in which a modified dorsal fin ray acts as a lure for prey (akin to a human angler, and likened to a crest or "lophos"). The modified fin ray, with the very tip being the esca and the length of the structure the illicium, is adapted to attrac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/anglerfish-20260820.mp3" type="audio/mpeg" length="955776"/>
+      <guid isPermaLink="false">nature-anglerfish-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 12:58:27 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saltwater crocodile</title>
       <description>The saltwater crocodile (Crocodylus porosus) is a crocodilian native to saltwater habitats, brackish wetlands and freshwater rivers from India's east coast across Southeast Asia and the Sundaland to northern Australia and Micronesia. It has been listed as Least Concern on the IUCN Red List since 1996. It was hunted for its skin throughout its range up to the 1970s, and is threatened by illegal kil</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/saltwater-crocodile-20260819.mp3" type="audio/mpeg" length="1146240"/>
