@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mahabharata</title>
+      <description>The Mahābhārata ( mə-HAH-BAR-ə-tə, MAH-hə-; Sanskrit: महाभारतम्, IAST: Mahābhāratam, pronounced [mɐɦaːˈbʱaːrɐt̪ɐm], 'Great Bharata') is one of the two major Sanskrit epics of ancient India revered in Hinduism, the other being the Ramayana. Both are considered smriti and itihasa texts. 
+The Mahabharatha narrates the events before, during, and after the Kurukshetra War, a war of succession between t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/mahabharata-20260820.mp3" type="audio/mpeg" length="1284096"/>
+      <guid isPermaLink="false">mythology-mahabharata-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 16:26:54 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sisyphus</title>
       <description>In Greek mythology, Sisyphus or Sisyphos ( ; Ancient Greek: Σίσυφος, romanized: Sísyphos) is the founder and king of Ephyra (now known as Corinth). He reveals Zeus's abduction of Aegina to the river god Asopus, thereby incurring Zeus's wrath. His subsequent cheating of death earns him eternal punishment in the underworld, once he dies of old age. The gods condemned him to push an immense boulder u</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/sisyphus-20260819.mp3" type="audio/mpeg" length="974976"/>
