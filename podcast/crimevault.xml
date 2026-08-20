@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2022 Highland Park parade shooting</title>
+      <description>On July 4, 2022, a mass shooting occurred during an Independence Day parade in Highland Park, Illinois, United States. The shooting occurred at 10:14 a.m., roughly 15 minutes after the parade had started. Seven people were killed, and 48 others were wounded by bullets or shrapnel.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-highland-park-parade-shooting-20260820.mp3" type="audio/mpeg" length="1444608"/>
+      <guid isPermaLink="false">crime-2022-highland-park-parade-shooting-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 18:37:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2022 Hadera shooting</title>
       <description>On 27 March 2022, two Islamic State gunmen opened fire at a bus stop in Hadera, Israel, killing two people and injuring twelve.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-hadera-shooting-20260820.mp3" type="audio/mpeg" length="1479936"/>
