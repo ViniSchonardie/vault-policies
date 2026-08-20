@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2022 Hadera shooting</title>
+      <description>On 27 March 2022, two Islamic State gunmen opened fire at a bus stop in Hadera, Israel, killing two people and injuring twelve.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-hadera-shooting-20260820.mp3" type="audio/mpeg" length="1479936"/>
+      <guid isPermaLink="false">crime-2022-hadera-shooting-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 13:58:06 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Earll family murders</title>
       <description>On February 14, 1902, six members of the Earll family were found dead in a cabin near Welsh, Louisiana. Albert Edwin Batson, an itinerant farm worker who had worked for the Earlls, was suspected of the crime. He was tried twice and sentenced to death four times for the killings; despite the sentencing board recommending his sentence be commuted to life in prison, governor William Wright Heard refu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/earll-family-murders-20260819.mp3" type="audio/mpeg" length="1867392"/>
