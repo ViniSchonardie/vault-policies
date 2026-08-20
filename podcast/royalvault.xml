@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leopold II of Belgium</title>
+      <description>Leopold II (9 April 1835 – 17 December 1909) was the second king of the Belgians from 1865 to 1909, and the founder and sole owner of the Congo Free State from 1885 to 1908.
+Born in Brussels as the second but eldest-surviving son of King Leopold I and Queen Louise, Leopold succeeded his father to the Belgian throne in 1865 and reigned for 44 years until his death, the longest reign of a Belgian mo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/leopold-ii-of-belgium-20260820.mp3" type="audio/mpeg" length="1454592"/>
+      <guid isPermaLink="false">royal-leopold-ii-of-belgium-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 18:44:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Caligula</title>
       <description>Gaius Julius Caesar Augustus Germanicus (31 August AD 12 – 24 January AD 41), also called Gaius and Caligula (), was the third Roman emperor, ruling from AD 37 until his assassination in AD 41. He was the son of the Roman general Germanicus and Agrippina the Elder, Augustus' granddaughter, members of the first ruling family of the Roman Empire. He was born two years before Tiberius became emperor.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/caligula-20260820.mp3" type="audio/mpeg" length="1363200"/>
