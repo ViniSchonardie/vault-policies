@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julius and Ethel Rosenberg</title>
+      <description>Julius Rosenberg (May 12, 1918 – June 19, 1953) and Ethel Rosenberg (born Greenglass; September 28, 1915 – June 19, 1953) were an American married couple who were convicted of spying for the Soviet Union, including providing top-secret information about American radar, sonar, jet propulsion engines, and nuclear weapon designs. They were executed by the federal government of the United States in 19</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/julius-and-ethel-rosenberg-20260820.mp3" type="audio/mpeg" length="1402368"/>
+      <guid isPermaLink="false">trials-julius-and-ethel-rosenberg-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 20:43:30 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Antisemitism</title>
       <description>Antisemitism or Jew-hatred is hostility to, prejudice towards, or discrimination against Jews. A person who harbours it is called an antisemite. Whether antisemitism is considered a form of racism depends on the school of thought. Antisemitic tendencies may be motivated primarily by negative sentiment towards Jews as a people or negative sentiment towards Jews with regard to Judaism. In the former</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/antisemitism-20260820.mp3" type="audio/mpeg" length="1334016"/>
