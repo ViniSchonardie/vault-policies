@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Caligula</title>
+      <description>Gaius Julius Caesar Augustus Germanicus (31 August AD 12 – 24 January AD 41), also called Gaius and Caligula (), was the third Roman emperor, ruling from AD 37 until his assassination in AD 41. He was the son of the Roman general Germanicus and Agrippina the Elder, Augustus' granddaughter, members of the first ruling family of the Roman Empire. He was born two years before Tiberius became emperor.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/caligula-20260820.mp3" type="audio/mpeg" length="1363200"/>
+      <guid isPermaLink="false">royal-caligula-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 14:46:38 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Russian Empire</title>
       <description>The Russian Empire was the final period of the Russian monarchy, spanning most of northern Eurasia from its establishment in November 1721 until the proclamation of the Russian Republic in September 1917. At its height in the late 19th century, it covered about 22,800,000 km2 (8,800,000 sq mi), roughly one-sixth of the world's landmass, making it the third-largest empire in history, behind only th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/russian-empire-20260819.mp3" type="audio/mpeg" length="1477632"/>
