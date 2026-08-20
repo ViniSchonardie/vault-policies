@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 23</title>
+      <description>Soyuz 23 (Russian: Союз 23, Union 23) was an October 1976, Soviet crewed space flight, the second to the Salyut 5 space station. Cosmonauts Vyacheslav Zudov and Valery Rozhdestvensky arrived at the station, but an equipment malfunction did not allow docking and the mission had to be aborted.
+The crew returned to Earth, but landed on partially frozen Lake Tengiz, the first crewed splashdown in the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-23-20260820.mp3" type="audio/mpeg" length="1156608"/>
+      <guid isPermaLink="false">space-soyuz-23-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 16:42:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TM-12</title>
       <description>Soyuz TM-12 was the 12th expedition to Mir, and included the first Briton in space, Helen Sharman.
 
