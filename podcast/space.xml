@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 3</title>
+      <description>Soyuz 3 (Russian: Союз 3, Union 3) was a spaceflight mission launched by the Soviet Union on 26 October 1968. Flown by Georgy Beregovoy, the Soyuz 7K-OK spacecraft completed 81 orbits over four days. The 47-year-old Beregovoy was a decorated World War II flying ace and the oldest person to go into orbit up to that time. The mission achieved the first Russian space rendezvous with the uncrewed Soyu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-3-20260820.mp3" type="audio/mpeg" length="1175040"/>
+      <guid isPermaLink="false">space-soyuz-3-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 20:25:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 23</title>
       <description>Soyuz 23 (Russian: Союз 23, Union 23) was an October 1976, Soviet crewed space flight, the second to the Salyut 5 space station. Cosmonauts Vyacheslav Zudov and Valery Rozhdestvensky arrived at the station, but an equipment malfunction did not allow docking and the mission had to be aborted.
 The crew returned to Earth, but landed on partially frozen Lake Tengiz, the first crewed splashdown in the </description>
