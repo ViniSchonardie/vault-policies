@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mastodon</title>
+      <description>A mastodon (from Ancient Greek  μαστός (mastós) 'breast' and  ὀδούς (odoús) 'tooth') is a member of the genus Mammut (German for 'mammoth'), which was endemic to North America and lived from the late Miocene to the early Holocene. Mastodons belong to the order Proboscidea, the same order as elephants and mammoths (which belong to the family Elephantidae). Mammut is the type genus of the extinct fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mastodon-20260820.mp3" type="audio/mpeg" length="1134720"/>
+      <guid isPermaLink="false">prehistoric-mastodon-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 17:22:14 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gigantopithecus</title>
       <description>Gigantopithecus ( jy-gan-toh-pih-THEE-kəs, -⁠PITH-ih-kəs, jih-) is an extinct genus of great ape that lived in central to southern China from two million to approximately 215,000–295,000 years ago during the Early to Middle Pleistocene, represented by one species, Gigantopithecus blacki. The first remains of Gigantopithecus, two third-molar teeth, were identified in a drugstore by anthropologist R</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/gigantopithecus-20260820.mp3" type="audio/mpeg" length="1598976"/>
