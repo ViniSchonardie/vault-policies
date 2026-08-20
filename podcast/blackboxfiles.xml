@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>ValuJet Flight 592</title>
+      <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20260820.mp3" type="audio/mpeg" length="1173888"/>
+      <guid isPermaLink="false">aviation-valujet-flight-592-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 17:24:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kegworth air disaster</title>
       <description>The Kegworth air disaster occurred when British Midland Airways Flight 092, a Boeing 737-400, crashed onto the motorway embankment between the M1 motorway and A453 road near Kegworth, Leicestershire, England, while attempting to make an emergency landing at East Midlands Airport on 8 January 1989.
 The aircraft was on a scheduled flight from London Heathrow Airport to Belfast International Airport.</description>
