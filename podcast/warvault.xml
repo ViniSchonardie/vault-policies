@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Francisco Franco</title>
+      <description>Francisco Franco Bahamonde (4 December 1892 – 20 November 1975) was a Spanish military general who was the leader of Spain from 1939 until his death in 1975. He had led the Nationalist forces in overthrowing the Second Spanish Republic during the Spanish Civil War. This period in Spanish history, from the Nationalist victory to Franco's death, is commonly known as Francoist Spain.
+Born in Ferrol, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/francisco-franco-20260820.mp3" type="audio/mpeg" length="1514112"/>
+      <guid isPermaLink="false">warvault-francisco-franco-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 13:58:50 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George S. Patton</title>
       <description>George Smith Patton Jr. (11 November 1885 – 21 December 1945) was a general in the United States Army who commanded the Seventh Army in the Mediterranean Theater of World War II, then the Third Army in France and Germany after the Allied invasion of Normandy in June 1944.
 Born in 1885, Patton attended the Virginia Military Institute and the United States Military Academy at West Point. He studied </description>
