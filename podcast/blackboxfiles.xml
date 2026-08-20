@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kegworth air disaster</title>
+      <description>The Kegworth air disaster occurred when British Midland Airways Flight 092, a Boeing 737-400, crashed onto the motorway embankment between the M1 motorway and A453 road near Kegworth, Leicestershire, England, while attempting to make an emergency landing at East Midlands Airport on 8 January 1989.
+The aircraft was on a scheduled flight from London Heathrow Airport to Belfast International Airport.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kegworth-air-disaster-20260820.mp3" type="audio/mpeg" length="1275264"/>
+      <guid isPermaLink="false">aviation-kegworth-air-disaster-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 14:36:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aloha Airlines Flight 243</title>
       <description>Aloha Airlines Flight 243 was a scheduled domestic passenger flight flown by Aloha Airlines between Hilo and Honolulu in Hawaii. On April 28, 1988, the Boeing 737-297 airplane serving the flight suffered extensive damage after an explosive decompression in flight, caused by part of the fuselage breaking due to poor maintenance and metal fatigue. The plane was able to land safely at Kahului Airport</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-airlines-flight-243-20260819.mp3" type="audio/mpeg" length="1350912"/>
