@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Golden State Killer: Cop Hunted Himself for 12 Years</title>
+      <description>Joseph James DeAngelo Jr. (born November 8, 1945) is an American serial killer, serial rapist, and former police officer known as the Golden State Killer, the Original Night Stalker, the East Area Rapist, and the Visalia Ransacker, who committed thirteen murders and numerous rapes and burglaries across California between 1974 and 1986. DeAngelo's crimes began in Northern California, where he commi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-james-deangelo-20260820.mp3" type="audio/mpeg" length="1389696"/>
+      <guid isPermaLink="false">crime-joseph-james-deangelo-20260820</guid>
+      <pubDate>Thu, 20 Aug 2026 22:22:25 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2022 Highland Park parade shooting</title>
       <description>On July 4, 2022, a mass shooting occurred during an Independence Day parade in Highland Park, Illinois, United States. The shooting occurred at 10:14 a.m., roughly 15 minutes after the parade had started. Seven people were killed, and 48 others were wounded by bullets or shrapnel.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2022-highland-park-parade-shooting-20260820.mp3" type="audio/mpeg" length="1444608"/>
