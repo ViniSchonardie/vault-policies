@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Mark Twain. The Man Who Predicted His Own Death.</title>
+      <description>Samuel Langhorne Clemens (November 30, 1835 – April 21, 1910), known by the pen name Mark Twain, was an American writer, humorist, and essayist. He has been praised as the "greatest humorist the United States has produced", with William Faulkner calling him "the father of American literature". Twain's novels include The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/mark-twain-20260821.mp3" type="audio/mpeg" length="1209984"/>
+      <guid isPermaLink="false">realstory-mark-twain-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 22:01:18 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Harriet Tubman. The Head Wound That Changed Everything.</title>
       <description>Harriet "Moses" Tubman (born Araminta Ross, c. March 1822 – March 10, 1913) was an American abolitionist and social activist. After escaping slavery, Tubman made some 13 missions to rescue approximately 70 enslaved people, including her family and friends, using the network of antislavery activists and safe houses known collectively as the Underground Railroad. During the American Civil War, she s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/harriet-tubman-20260821.mp3" type="audio/mpeg" length="1338240"/>
