@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eastern 401. 101 Dead. One Burned Light Bulb.</title>
+      <description>Eastern Air Lines Flight 401 was a scheduled flight from John F. Kennedy International Airport in Queens, New York, to Miami International Airport in Miami, Florida. Shortly before midnight on December 29, 1972, the Lockheed L-1011 TriStar crashed into the Florida Everglades. All three cockpit crew members, two of the ten flight attendants, and 96 of the 163 passengers were killed. 75 people survi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/eastern-air-lines-flight-401-20260821.mp3" type="audio/mpeg" length="1391232"/>
+      <guid isPermaLink="false">aviation-eastern-air-lines-flight-401-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 15:02:10 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>United 811. 9 Dead. Door Ripped Open.</title>
       <description>United Airlines Flight 811 was a regularly scheduled international flight from Los Angeles to Sydney, with intermediate stops at Honolulu and Auckland. On February 24, 1989, the Boeing 747 serving the flight experienced a cargo-door failure in flight shortly after leaving Honolulu. The resulting explosive decompression blew out several rows of seats, killing nine passengers. The aircraft returned </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-811-20260820.mp3" type="audio/mpeg" length="1166976"/>
