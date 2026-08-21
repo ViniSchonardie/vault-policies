@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Chimp DNA: 98.5% Human. The Rest Changes Everything.</title>
+      <description>The chimpanzee (; Pan troglodytes), also simply known as the chimp, is a species of medium-sized great ape found along the forested belt of equatorial Africa. It has four confirmed subspecies and a fifth proposed one. When its close relative, the bonobo, was more commonly known as the pygmy chimpanzee, this species was often called the common chimpanzee or the robust chimpanzee. The chimpanzee and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/chimpanzee-20260821.mp3" type="audio/mpeg" length="1251840"/>
+      <guid isPermaLink="false">nature-chimpanzee-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 16:54:06 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snow Leopard: The Ghost Vanishing</title>
       <description>The snow leopard (Panthera uncia) is a species of large cat in the genus Panthera of the family Felidae. It is native to the mountain ranges of Central and South Asia, ranging from eastern Afghanistan, the Himalayas and the Tibetan Plateau to southern Siberia, Mongolia and Western China. It inhabits alpine and subalpine zones at elevations of 3,000–4,500 m (9,800–14,800 ft), but also lives at lowe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snow-leopard-20260821.mp3" type="audio/mpeg" length="1297536"/>
