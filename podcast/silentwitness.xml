@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>18 Million Soldiers. 11 Million Dead. One Weapon.</title>
+      <description>The Wehrmacht (German pronunciation: [ˈveːɐ̯maxt] , lit. 'defence force') were the unified armed forces of Nazi Germany from 1935 to 1945. It consisted of the Heer (army), the Kriegsmarine (navy) and the Luftwaffe (air force). The designation "Wehrmacht" replaced the previously used term Reichswehr (Reich Defence) and was the manifestation of the Nazi regime's efforts to rearm Germany to a greater</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/wehrmacht-20260821.mp3" type="audio/mpeg" length="1395456"/>
+      <guid isPermaLink="false">trials-wehrmacht-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 17:09:15 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nazi Rallies to War Crimes Trial</title>
       <description>Nuremberg ( NURE-əm-burg; German: Nürnberg [ˈnʏʁnbɛʁk] ; Mainfränkisch: Nämberch [ˈnɛmbɛrç]) is the second-largest city in the German state of Bavaria and the largest city in the cultural region of Franconia. Its 546,397 (2024) inhabitants make it the 13th-largest city in Germany. Situated on the Pegnitz, the city forms a continuous conurbation with the neighbouring cities of Fürth, Erlangen and S</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/nuremberg-20260820.mp3" type="audio/mpeg" length="1103616"/>
