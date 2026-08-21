@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Snow Leopard: The Ghost Vanishing</title>
+      <description>The snow leopard (Panthera uncia) is a species of large cat in the genus Panthera of the family Felidae. It is native to the mountain ranges of Central and South Asia, ranging from eastern Afghanistan, the Himalayas and the Tibetan Plateau to southern Siberia, Mongolia and Western China. It inhabits alpine and subalpine zones at elevations of 3,000–4,500 m (9,800–14,800 ft), but also lives at lowe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snow-leopard-20260821.mp3" type="audio/mpeg" length="1297536"/>
+      <guid isPermaLink="false">nature-snow-leopard-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 13:10:51 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cassowary</title>
       <description>Cassowaries (Indonesian: kasuari; Biak: man suar 'bird strong'; Tok Pisin: muruk; Papuan: kasu weri 'horned head') are flightless birds of the genus Casuarius, in the order Casuariiformes. They are classified as ratites, flightless birds without a keel on their sternum bones. Cassowaries are native to the tropical forests of New Guinea (Western New Guinea and Papua New Guinea), the Moluccas (Seram</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/cassowary-20260820.mp3" type="audio/mpeg" length="1319808"/>
