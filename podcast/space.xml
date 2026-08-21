@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Venera 11: Soviet Lander on Venus</title>
+      <description>The Venera 11 (Russian: Венера-11 meaning Venus 11) was a Soviet uncrewed space mission which was part of the Venera program to explore the planet Venus. Venera 11 was launched on 9 September 1978 at 03:25:39 UTC.
+Separating from its flight platform on December 23, 1978 the lander entered the Venus atmosphere two days later on December 25 at 11.2 km/s. During the descent, it employed aerodynamic b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/venera-11-20260821.mp3" type="audio/mpeg" length="1209216"/>
+      <guid isPermaLink="false">space-venera-11-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 17:01:06 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fire on the Pad: 14g Escape in 5 Seconds</title>
       <description>Soyuz 7K-ST No.16L, sometimes known as Soyuz T-10a or Soyuz T-10-1, was an unsuccessful Soyuz mission intended to visit the Salyut 7 space station, which was occupied by the Soyuz T-9 crew. However, it never finished its launch countdown; the launch vehicle was destroyed on the launch pad by fire on 26 September 1983. The launch escape system of the Soyuz spacecraft fired six seconds before the la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-7k-st-no16l-20260821.mp3" type="audio/mpeg" length="1198080"/>
