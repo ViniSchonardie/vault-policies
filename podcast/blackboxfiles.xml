@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Colgan Air 3407. 50 Dead. Wrong Move.</title>
+      <description>Colgan Air Flight 3407 was a scheduled passenger flight from Newark, New Jersey, to Buffalo, New York, on February 12, 2009. Approaching Buffalo, the Bombardier Q400, entered an aerodynamic stall from which it did not recover and crashed into a house at 6038 Long Street in Clarence Center, New York, at 10:17 pm EST (03:17 UTC), about 5 miles (8 km; 4 nmi) from the end of the runway, killing all 49</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/colgan-air-flight-3407-20260821.mp3" type="audio/mpeg" length="1104384"/>
+      <guid isPermaLink="false">aviation-colgan-air-flight-3407-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 21:48:03 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Delta Flight 1141. 14 Dead. They Joked About Crashing.</title>
       <description>Delta Air Lines Flight 1141 was a scheduled domestic passenger flight between Dallas Fort Worth International Airport, Texas, and Salt Lake City International Airport, Utah. On August 31, 1988, the flight, operated by a Boeing 727-200 series aircraft, crashed during takeoff at Dallas Fort Worth International Airport, resulting in 14 deaths and 76 injuries among the 108 on board. The cause of the c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/delta-air-lines-flight-1141-20260821.mp3" type="audio/mpeg" length="1469568"/>
