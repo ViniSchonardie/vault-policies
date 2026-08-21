@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Fire on the Pad: 14g Escape in 5 Seconds</title>
+      <description>Soyuz 7K-ST No.16L, sometimes known as Soyuz T-10a or Soyuz T-10-1, was an unsuccessful Soyuz mission intended to visit the Salyut 7 space station, which was occupied by the Soyuz T-9 crew. However, it never finished its launch countdown; the launch vehicle was destroyed on the launch pad by fire on 26 September 1983. The launch escape system of the Soyuz spacecraft fired six seconds before the la</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-7k-st-no16l-20260821.mp3" type="audio/mpeg" length="1198080"/>
+      <guid isPermaLink="false">space-soyuz-7k-st-no16l-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 14:07:17 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 3</title>
       <description>Soyuz 3 (Russian: Союз 3, Union 3) was a spaceflight mission launched by the Soviet Union on 26 October 1968. Flown by Georgy Beregovoy, the Soyuz 7K-OK spacecraft completed 81 orbits over four days. The 47-year-old Beregovoy was a decorated World War II flying ace and the oldest person to go into orbit up to that time. The mission achieved the first Russian space rendezvous with the uncrewed Soyu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-3-20260820.mp3" type="audio/mpeg" length="1175040"/>
