@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Democracy: From Athens to Your Vote</title>
+      <description>Democracy is a form of government in which political power is vested in the people or the population of a state. Under a minimalist definition of democracy, rulers are elected through competitive elections while more expansive or maximalist definitions link democracy to guarantees of civil liberties and human rights in addition to competitive elections.
+In a direct democracy, the people have the d</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/democracy-20260821.mp3" type="audio/mpeg" length="1346688"/>
+      <guid isPermaLink="false">trials-democracy-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 23:58:11 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>King Executed. Parliament Won. Britain Changed Forever.</title>
       <description>The English Civil War or Great Rebellion was a series of civil wars and political machinations between Royalists and Parliamentarians in the Kingdom of England from 1642 to 1651. Part of the wider 1639 to 1653 Wars of the Three Kingdoms, the struggle consisted of the First English Civil War and the Second English Civil War. The Anglo-Scottish war of 1650 to 1652 is sometimes referred to as the Thi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/english-civil-war-20260821.mp3" type="audio/mpeg" length="1356672"/>
