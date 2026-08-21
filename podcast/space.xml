@@ -17,6 +17,26 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-56: First Contact with Mir</title>
+      <description>STS-56 was a NASA Space Shuttle Discovery mission to perform special experiments. It was Discovery's 16th flight. The mission was launched from Kennedy Space Center, Florida, on April 8, 1993.
+
+
+== Crew ==
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+The primary payload of the flight was the Atmospheric Laboratory for Applications and Science-2 (ATLAS-2), designed to collect data on</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-56-20260821.mp3" type="audio/mpeg" length="1361280"/>
+      <guid isPermaLink="false">space-sts-56-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 20:48:36 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venera 11: Soviet Lander on Venus</title>
       <description>The Venera 11 (Russian: Венера-11 meaning Venus 11) was a Soviet uncrewed space mission which was part of the Venera program to explore the planet Venus. Venera 11 was launched on 9 September 1978 at 03:25:39 UTC.
 Separating from its flight platform on December 23, 1978 the lander entered the Venus atmosphere two days later on December 25 at 11.2 km/s. During the descent, it employed aerodynamic b</description>
