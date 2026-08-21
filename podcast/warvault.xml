@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1 Million Dead. The Armenian Genocide.</title>
+      <description>The Armenian genocide was the systematic destruction of the Armenian people and identity in the Ottoman Empire during World War I. Spearheaded by the ruling Committee of Union and Progress (CUP), it was implemented primarily through the mass murder of around one million Armenians during death marches to the Syrian desert and the forced Islamization of others, primarily women and children.
+Before W</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/armenian-genocide-20260821.mp3" type="audio/mpeg" length="1399296"/>
+      <guid isPermaLink="false">warvault-armenian-genocide-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 14:26:25 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stalingrad. 2 Million Dead. Germany Lost.</title>
       <description>The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern Russia. Marked by intense close-quarters combat and heavy civilian losses during aerial bombardment, the battle is considered the largest and deadliest urban battle in military history and the largest ba</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-stalingrad-20260820.mp3" type="audio/mpeg" length="1293696"/>
