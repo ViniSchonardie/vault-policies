@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Buried 29 Bodies. Got Life for Just One.</title>
+      <description>David Owen Brooks was an American convicted murderer and accomplice to murder convicted in 1975 of the murder of one of the twenty-nine known victims of the Houston Mass Murders, which occurred in Houston and Pasadena, Texas, between 1970 and 1973.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-brooks-20260822.mp3" type="audio/mpeg" length="1143936"/>
+      <guid isPermaLink="false">crime-david-brooks-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 13:41:37 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mad Dog Killer Freed. Then Killed Again.</title>
       <description>The "Mad Dog killings" were a spree of robberies and murders committed by serial killer Joseph Louis Taborsky and his partner-in-crime, Arthur Culombe, throughout Connecticut in 1950 and between 1956 and 1957. Authorities and newspapers dubbed the killings the "Mad Dog killings" due to the brutality of the murders committed; Taborsky himself was also often given the moniker "Mad Dog." Taborsky and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-mad-dog-taborsky-20260821.mp3" type="audio/mpeg" length="1218432"/>
