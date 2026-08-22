@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>China's Second Astronauts: 5 Days That Changed Everything</title>
+      <description>Shenzhou 6 (Chinese: 神舟六号; pinyin: Shénzhōu lìuhào) was the second human spaceflight of the Chinese space program, launched on October 12, 2005, on a Long March 2F rocket from the Jiuquan Satellite Launch Center. The Shenzhou spacecraft carried a crew of Fei Junlong and Nie Haisheng for five days in low Earth orbit. It launched three days before the second anniversary of China's first human spacef</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-6-20260822.mp3" type="audio/mpeg" length="1246848"/>
+      <guid isPermaLink="false">space-shenzhou-6-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 20:46:43 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aura: The Satellite Slowly Dying in Orbit</title>
       <description>Aura (EOS CH-1) is a multi-national NASA scientific research satellite in orbit around the Earth, studying the Earth's ozone layer, air quality and climate. It is the third major component of the Earth Observing System (EOS) following on Terra (launched 1999) and Aqua (launched 2002). Aura follows on from the Upper Atmosphere Research Satellite (UARS). Aura is a joint mission between NASA, the Net</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/aura-20260822.mp3" type="audio/mpeg" length="1344768"/>
