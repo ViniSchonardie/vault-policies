@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed Two Women. His Cellmate Was Worse.</title>
+      <description>Vladimir Vasilievich Krishtopa (Russian: Влади́мир Васи́льевич Кришто́па; born 6 April 1973) is a Ukrainian-born Russian murderer and rapist.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/vladimir-krishtopa-20260822.mp3" type="audio/mpeg" length="1037952"/>
+      <guid isPermaLink="false">crime-vladimir-krishtopa-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 22:16:05 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Killed 10 Children. Doctors Ignored the Bruises.</title>
       <description>Jeanne Weber was a French serial killer. She strangled at least 10 children, including her own. She was both convicted of murder and declared insane in 1908; she hanged herself ten years later.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jeanne-weber-20260822.mp3" type="audio/mpeg" length="1261056"/>
