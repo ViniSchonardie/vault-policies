@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Aura: The Satellite Slowly Dying in Orbit</title>
+      <description>Aura (EOS CH-1) is a multi-national NASA scientific research satellite in orbit around the Earth, studying the Earth's ozone layer, air quality and climate. It is the third major component of the Earth Observing System (EOS) following on Terra (launched 1999) and Aqua (launched 2002). Aura follows on from the Upper Atmosphere Research Satellite (UARS). Aura is a joint mission between NASA, the Net</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/aura-20260822.mp3" type="audio/mpeg" length="1344768"/>
+      <guid isPermaLink="false">space-aura-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 16:49:21 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbia's Second Chance: The Fuel Cell Failure</title>
       <description>STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.
 
