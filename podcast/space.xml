@@ -17,6 +17,28 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Columbia's Second Chance: The Fuel Cell Failure</title>
+      <description>STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.
+
+
+== Crew ==
+
+STS-94 was flown by the same crew that flew STS-83, the only time in the history of human spaceflight that two missions with more than one crewmember had exactly the same crew.
+
+
+=== Crew seat assignments ===
+
+
+== Mission highlights ==
+
+This was a reflight of the STS-83 Microgravity Science Lab</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-94-20260822.mp3" type="audio/mpeg" length="1089792"/>
+      <guid isPermaLink="false">space-sts-94-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 13:52:04 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-56: First Contact with Mir</title>
       <description>STS-56 was a NASA Space Shuttle Discovery mission to perform special experiments. It was Discovery's 16th flight. The mission was launched from Kennedy Space Center, Florida, on April 8, 1993.
 
