@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Killed 10 Children. Doctors Ignored the Bruises.</title>
+      <description>Jeanne Weber was a French serial killer. She strangled at least 10 children, including her own. She was both convicted of murder and declared insane in 1908; she hanged herself ten years later.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jeanne-weber-20260822.mp3" type="audio/mpeg" length="1261056"/>
+      <guid isPermaLink="false">crime-jeanne-weber-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 18:27:29 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Buried 29 Bodies. Got Life for Just One.</title>
       <description>David Owen Brooks was an American convicted murderer and accomplice to murder convicted in 1975 of the murder of one of the twenty-nine known victims of the Houston Mass Murders, which occurred in Houston and Pasadena, Texas, between 1970 and 1973.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-brooks-20260822.mp3" type="audio/mpeg" length="1143936"/>
