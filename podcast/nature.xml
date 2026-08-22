@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Grizzly Bear. 858 Pounds of Apex Predator.</title>
+      <description>The grizzly bear (Ursus arctos horribilis), also known as the North American brown bear or simply grizzly, is a population or subspecies of the brown bear inhabiting North America.
+In addition to the mainland grizzly (Ursus arctos horribilis), other forms of brown bear are sometimes identified as grizzly bears. These include three living populations—the Kodiak bear (U. a. middendorffi), the Kamcha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/grizzly-bear-20260822.mp3" type="audio/mpeg" length="1174656"/>
+      <guid isPermaLink="false">nature-grizzly-bear-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 20:40:20 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bonobo. Our Closest Living Relative.</title>
       <description>The bonobo (; Pan paniscus), also historically called the pygmy chimpanzee (less often the dwarf chimpanzee or gracile chimpanzee), is the smallest species of great ape and one of the two making up the genus Pan (the other being the common chimpanzee, Pan troglodytes). While bonobos are today recognized as a distinct species, they were initially thought to be a subspecies of Pan troglodytes, becau</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bonobo-20260822.mp3" type="audio/mpeg" length="1388160"/>
