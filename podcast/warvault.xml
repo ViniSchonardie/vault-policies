@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1.1 Million Murdered. One Camp. How It Happened.</title>
+      <description>Auschwitz (German: [ˈaʊ̯ʃvɪts]), also known as Oświęcim (Polish: [ɔˈɕfjɛɲ.t͡ɕim]), was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland (in a portion annexed into Germany in 1939) during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) in Oświęcim; Auschwitz II-Birkenau, a concentration and extermination c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/auschwitz-concentration-camp-20260822.mp3" type="audio/mpeg" length="1582464"/>
+      <guid isPermaLink="false">warvault-auschwitz-concentration-camp-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 22:02:57 GMT</pubDate>
+      <itunes:duration>99</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Abu Ghraib. Photos Changed Everything.</title>
       <description>During the early stages of the Iraq War, members of the United States Army and the Central Intelligence Agency committed a series of human rights violations and war crimes against detainees in Abu Ghraib prison in Iraq. These abuses included physical abuse, sexual humiliation, physical and psychological torture, and rape, as well as the killing of Manadel al-Jamadi and the desecration of his body.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/abu-ghraib-torture-and-prisoner-abuse-20260822.mp3" type="audio/mpeg" length="1387008"/>
