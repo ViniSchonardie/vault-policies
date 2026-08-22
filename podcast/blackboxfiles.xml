@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Engine Failure at 32,000 Feet. One Dead.</title>
+      <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20260822.mp3" type="audio/mpeg" length="1204224"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1380-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 14:48:31 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Colgan Air 3407. 50 Dead. Wrong Move.</title>
       <description>Colgan Air Flight 3407 was a scheduled passenger flight from Newark, New Jersey, to Buffalo, New York, on February 12, 2009. Approaching Buffalo, the Bombardier Q400, entered an aerodynamic stall from which it did not recover and crashed into a house at 6038 Long Street in Clarence Center, New York, at 10:17 pm EST (03:17 UTC), about 5 miles (8 km; 4 nmi) from the end of the runway, killing all 49</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/colgan-air-flight-3407-20260821.mp3" type="audio/mpeg" length="1104384"/>
