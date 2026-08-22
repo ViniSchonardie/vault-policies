@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Edison: The Genius Who Stole Everything</title>
+      <description>Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman. He grew up in Michigan with little formal schooling and began working at a young age. He became deaf as a child and learned through books and tinkering. As a railroad telegrapher, he spent much of his time inventing improvements to telegraph systems. By the age of 22, he had sold a few of his early </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-edison-20260822.mp3" type="audio/mpeg" length="1198848"/>
+      <guid isPermaLink="false">realstory-thomas-edison-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 15:59:17 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mark Twain. The Man Who Predicted His Own Death.</title>
       <description>Samuel Langhorne Clemens (November 30, 1835 – April 21, 1910), known by the pen name Mark Twain, was an American writer, humorist, and essayist. He has been praised as the "greatest humorist the United States has produced", with William Faulkner calling him "the father of American literature". Twain's novels include The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/mark-twain-20260821.mp3" type="audio/mpeg" length="1209984"/>
