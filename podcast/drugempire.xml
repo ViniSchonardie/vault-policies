@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How One Show Changed Television Forever</title>
+      <description>The Sopranos is an American crime drama television series created by David Chase for HBO. The series follows Tony Soprano (James Gandolfini), a New Jersey Mafia boss who has panic attacks. He reluctantly begins seeing psychiatrist Dr. Jennifer Melfi (Lorraine Bracco), who encourages him to open up about his difficulties balancing his family life with his criminal life. Other important characters i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/the-sopranos-20260822.mp3" type="audio/mpeg" length="1361664"/>
+      <guid isPermaLink="false">drugempire-the-sopranos-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 19:53:01 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Ruled Venezuela. Died Broke and Broken.</title>
       <description>Hugo Rafael Chávez Frías (28 July 1954 – 5 March 2013) was a Venezuelan politician, revolutionary, and military officer who was the president of Venezuela from 1999 until his death in 2013. Chávez changed the country's name from the Republic of Venezuela to the Bolivarian Republic of Venezuela, creating the fifth republic in Venezuelan history and led the Bolivarian revolution. Chávez was the lead</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/hugo-chvez-20260822.mp3" type="audio/mpeg" length="1474176"/>
