@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dingo. Arrived 3,500 years ago. No one knows how.</title>
+      <description>The dingo is a lineage of dog found in Australia.
+It is a medium-sized canine that possesses a lean, hardy body adapted for speed, agility, and stamina. Its three main coat colourations are light ginger or tan, black and tan, or creamy white. The skull is wedge-shaped and appears large in proportion to the body.
+Its taxonomic classification is debated: It is variously considered a form of domestic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dingo-20260822.mp3" type="audio/mpeg" length="1361664"/>
+      <guid isPermaLink="false">nature-dingo-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 13:02:41 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Great Dying. 70% of Life Erased.</title>
       <description>The Permian–Triassic extinction event, colloquially known as the Great Dying, was an extinction event that occurred around the boundary between the Permian and Triassic geologic periods, and with them the Paleozoic and Mesozoic eras. It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 62% of genera, 81% of marine species,  and 70% of terrestrial ver</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/permiantriassic-extinction-event-20260821.mp3" type="audio/mpeg" length="1391616"/>
