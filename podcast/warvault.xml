@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Abu Ghraib. Photos Changed Everything.</title>
+      <description>During the early stages of the Iraq War, members of the United States Army and the Central Intelligence Agency committed a series of human rights violations and war crimes against detainees in Abu Ghraib prison in Iraq. These abuses included physical abuse, sexual humiliation, physical and psychological torture, and rape, as well as the killing of Manadel al-Jamadi and the desecration of his body.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/abu-ghraib-torture-and-prisoner-abuse-20260822.mp3" type="audio/mpeg" length="1387008"/>
+      <guid isPermaLink="false">warvault-abu-ghraib-torture-and-prisoner-abuse-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 18:05:04 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Six-Day War. Israel Won. Arabs Lost Everything.</title>
       <description>The Six-Day War, or the 1967 Arab–Israeli war (5–10 June 1967), was fought between Israel and a coalition of Arab states, primarily Egypt, Syria, and Jordan, in the context of the Arab–Israeli conflict. In the war, Israel captured and occupied the West Bank (including East Jerusalem) from Jordan, the Gaza Strip and the Sinai Peninsula from Egypt, and the Golan Heights from Syria.
 Military hostilit</description>
