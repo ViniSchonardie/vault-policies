@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ada Lovelace. The Code She Invented Didn't Exist Yet.</title>
+      <description>Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine. She was the first to recognise the machine had applications beyond pure calculation. Lovelace is often considered the first comput</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ada-lovelace-20260823.mp3" type="audio/mpeg" length="1266816"/>
+      <guid isPermaLink="false">realstory-ada-lovelace-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 15:59:54 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Billy the Kid. Not Actually the Killer.</title>
       <description>Henry McCarty (September 17 or November 23, 1859 – July 14, 1881), alias William H. Bonney, better known as Billy the Kid, was an American outlaw and gunfighter of the Old West who was linked to nine murders. He was solely responsible for four of them, and he may have played a role in five, alongside other men. He is also noted for his involvement in New Mexico's Lincoln County War.
 McCarty was or</description>
