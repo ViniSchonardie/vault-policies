@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>One Priest. 95 Theses. Changed Everything.</title>
+      <description>The Reformation, also known as the Protestant Reformation or the European Reformation, was a major theological movement in Western Christianity in 16th-century Europe that posed a religious and political challenge to the papacy and the authority of the Catholic Church hierarchy. Towards the end of the Renaissance, the Reformation marked the beginning of Protestantism. It is considered one of the e</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/reformation-20260823.mp3" type="audio/mpeg" length="1229568"/>
+      <guid isPermaLink="false">trials-reformation-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 23:54:23 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Convicted. The Trial That Changed America.</title>
       <description>On May 25, 2020, George Floyd, a 46-year-old Black American man, was murdered by Derek Chauvin, a 44-year-old White police officer, in Minneapolis, Minnesota, United States. Floyd had been arrested after a store clerk reported that he made a purchase using a counterfeit $20 bill. Chauvin knelt on Floyd's neck for over nine minutes while Floyd was handcuffed and lying face-down. Two other police of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-of-george-floyd-20260823.mp3" type="audio/mpeg" length="1396992"/>
