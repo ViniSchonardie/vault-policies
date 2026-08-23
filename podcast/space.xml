@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 6: The Welding Test That Almost Breached the Hull</title>
+      <description>Soyuz 6 (Russian: Союз 6, Union 6) was part of a joint October, 1969, mission with Soyuz 7 and Soyuz 8 that saw the three Soyuz spacecraft in orbit together at the same time, carrying a total of seven cosmonauts. The crew of Georgy Shonin and Valeri Kubasov were meant to take high-quality movie photography of the Soyuz 7 and Soyuz 8 docking, but the rendezvous systems on all three spacecraft faile</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-6-20260823.mp3" type="audio/mpeg" length="1170048"/>
+      <guid isPermaLink="false">space-soyuz-6-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 20:45:39 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Space Reporter: How Japan Paid $14M</title>
       <description>Soyuz TM-11 was the eleventh expedition to the Russian space station Mir, using a Soyuz-TM crew transport vessel. The mission notably carried a Japanese television reporter from Tokyo Broadcasting System.
 
