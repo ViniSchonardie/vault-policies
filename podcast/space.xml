@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ranger 3: NASA's $4M Moon Mission That Missed by 22,000 Miles</title>
+      <description>Ranger 3 was a space exploration mission conducted by NASA to study the Moon. The Ranger 3 robotic spacecraft was launched January 26, 1962 as part of the Ranger program. Due to a series of malfunctions, the spacecraft missed the Moon by 22,000 miles (35,000 km) and entered a heliocentric orbit.
+The Ranger 3 space probe was designed to transmit pictures of the lunar surface during a period of 10 m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ranger-3-20260823.mp3" type="audio/mpeg" length="1239552"/>
+      <guid isPermaLink="false">space-ranger-3-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 13:53:35 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China's Second Astronauts: 5 Days That Changed Everything</title>
       <description>Shenzhou 6 (Chinese: 神舟六号; pinyin: Shénzhōu lìuhào) was the second human spaceflight of the Chinese space program, launched on October 12, 2005, on a Long March 2F rocket from the Jiuquan Satellite Launch Center. The Shenzhou spacecraft carried a crew of Fei Junlong and Nie Haisheng for five days in low Earth orbit. It launched three days before the second anniversary of China's first human spacef</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-6-20260822.mp3" type="audio/mpeg" length="1246848"/>
