@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>75 Years of Conflict. One Broken Promise.</title>
+      <description>Israel and the Palestinians are engaged in an ongoing military and political conflict about land and self-determination within the former territory of Mandatory Palestine. Key aspects of the conflict have included Palestinian refugees, the Israeli occupation of the West Bank and Gaza Strip, the status of Jerusalem, Israeli settlements, borders, security, water rights, the permit regime in the West</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/israelipalestinian-conflict-20260823.mp3" type="audio/mpeg" length="1420032"/>
+      <guid isPermaLink="false">warvault-israelipalestinian-conflict-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 14:07:08 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1.1 Million Murdered. One Camp. How It Happened.</title>
       <description>Auschwitz (German: [ˈaʊ̯ʃvɪts]), also known as Oświęcim (Polish: [ɔˈɕfjɛɲ.t͡ɕim]), was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland (in a portion annexed into Germany in 1939) during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) in Oświęcim; Auschwitz II-Birkenau, a concentration and extermination c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/auschwitz-concentration-camp-20260822.mp3" type="audio/mpeg" length="1582464"/>
