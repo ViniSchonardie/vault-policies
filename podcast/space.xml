@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Space Reporter: How Japan Paid $14M</title>
+      <description>Soyuz TM-11 was the eleventh expedition to the Russian space station Mir, using a Soyuz-TM crew transport vessel. The mission notably carried a Japanese television reporter from Tokyo Broadcasting System.
+
+
+== Crew ==
+
+
+== Mission highlights ==
+Soyuz TM-11 was the 11th expedition to Mir, which spent 175 days docked to the space station. Coincidentally it was launched on the same day as STS-35. As </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-11-20260823.mp3" type="audio/mpeg" length="1292928"/>
+      <guid isPermaLink="false">space-soyuz-tm-11-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 16:50:46 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ranger 3: NASA's $4M Moon Mission That Missed by 22,000 Miles</title>
       <description>Ranger 3 was a space exploration mission conducted by NASA to study the Moon. The Ranger 3 robotic spacecraft was launched January 26, 1962 as part of the Ranger program. Due to a series of malfunctions, the spacecraft missed the Moon by 22,000 miles (35,000 km) and entered a heliocentric orbit.
 The Ranger 3 space probe was designed to transmit pictures of the lunar surface during a period of 10 m</description>
