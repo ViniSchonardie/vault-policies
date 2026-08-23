@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Leopard Seal. Teeth 1 inch long.</title>
+      <description>The leopard seal (Hydrurga leptonyx), also referred to as the sea leopard, is the second largest species of seal in the Antarctic (after the southern elephant seal). It is a top order predator, feeding on a wide range of prey including cephalopods, other pinnipeds, krill, fish, and birds, particularly penguins. Its only natural predator is the orca. It is the only species in the genus Hydrurga. It</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/leopard-seal-20260823.mp3" type="audio/mpeg" length="1387392"/>
+      <guid isPermaLink="false">nature-leopard-seal-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 20:39:30 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Golden Eagle. Talons That Pierce Steel.</title>
       <description>The golden eagle (Aquila chrysaetos) is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae. They are one of the best-known birds of prey in the Northern Hemisphere. These birds are dark brown, with lighter golden-brown plumage on their napes. Immature eagles of this species typically have whit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/golden-eagle-20260823.mp3" type="audio/mpeg" length="1329408"/>
