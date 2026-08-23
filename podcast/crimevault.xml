@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>39 Dead. New Year's Eve. Istanbul Nightclub.</title>
+      <description>The Istanbul nightclub shooting was a mass shooting that occurred on 1 January 2017 around 01:15 local time, in which a terrorist shot and killed 39 people and wounded 79 others at the Reina nightclub in the Ortaköy neighborhood of Istanbul, Turkey, where hundreds had been celebrating New Year's Day. Uzbekistan-born Abdulkadir Masharipov was arrested in Istanbul on 17 January 2017. Islamic State c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2017-istanbul-nightclub-attack-20260823.mp3" type="audio/mpeg" length="1158144"/>
+      <guid isPermaLink="false">crime-2017-istanbul-nightclub-attack-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 18:26:08 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed 8 for Money. Caught in 27 Days.</title>
       <description>Jean-Baptiste Troppmann 
 was a French spree killer who between August 24 and September 19, 1869, murdered eight members of the Kinck family, including six children aged between 2 and 16 years old, in order to gain access to their money. He was caught at the port of Le Havre at the end of September 1869 while attempting to flee the country.</description>
