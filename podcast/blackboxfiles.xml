@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Saudia 163. 301 Dead. Never Evacuated.</title>
+      <description>Saudia Flight 163 was a scheduled Saudia passenger flight departing from Quaid-e-Azam Airport in Karachi, Pakistan, bound for Kandara Airport in Jeddah, Saudi Arabia, via then-Riyadh International Airport in Riyadh, Saudi Arabia, which caught fire after takeoff on 19 August 1980. Although the Lockheed L-1011 TriStar made a successful emergency landing at Riyadh, the flight crew failed to perform a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/saudia-flight-163-20260823.mp3" type="audio/mpeg" length="1372032"/>
+      <guid isPermaLink="false">aviation-saudia-flight-163-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 21:45:38 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>B-52 Dropped 2 Nuclear Bombs. One Switch Away.</title>
       <description>The 1961 Goldsboro B-52 crash was an aviation accident that occurred near Goldsboro, North Carolina, United States, on 24 January 1961. A Boeing B-52 Stratofortress carrying two 3.8-megaton Mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process. Five crewmen successfully ejected or bailed out of the aircraft and landed safely; another ejected, but did not survive th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1961-goldsboro-b-52-crash-20260823.mp3" type="audio/mpeg" length="1438848"/>
