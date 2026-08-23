@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 8 for Money. Caught in 27 Days.</title>
+      <description>Jean-Baptiste Troppmann 
+was a French spree killer who between August 24 and September 19, 1869, murdered eight members of the Kinck family, including six children aged between 2 and 16 years old, in order to gain access to their money. He was caught at the port of Le Havre at the end of September 1869 while attempting to flee the country.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jean-baptiste-troppmann-20260823.mp3" type="audio/mpeg" length="1198464"/>
+      <guid isPermaLink="false">crime-jean-baptiste-troppmann-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 13:43:45 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed Two Women. His Cellmate Was Worse.</title>
       <description>Vladimir Vasilievich Krishtopa (Russian: Влади́мир Васи́льевич Кришто́па; born 6 April 1973) is a Ukrainian-born Russian murderer and rapist.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/vladimir-krishtopa-20260822.mp3" type="audio/mpeg" length="1037952"/>
