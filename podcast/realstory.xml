@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Von Braun: Nazi to NASA Hero</title>
+      <description>Wernher Magnus Maximilian Freiherr von Braun (US:  VUR-nər von BROWN; German: [ˈvɛʁnheːɐ̯ fɔn ˈbʁaʊn]; 23 March 1912 – 16 June 1977) was a German American aerospace engineer and space architect. He became a member of the Nazi Party and then the Allgemeine SS to support his rocket work. He led the development of rocket technology in Nazi Germany, and later of rocket and space technology in the US.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/wernher-von-braun-20260823.mp3" type="audio/mpeg" length="1133184"/>
+      <guid isPermaLink="false">realstory-wernher-von-braun-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 19:06:01 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ada Lovelace. The Code She Invented Didn't Exist Yet.</title>
       <description>Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine. She was the first to recognise the machine had applications beyond pure calculation. Lovelace is often considered the first comput</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ada-lovelace-20260823.mp3" type="audio/mpeg" length="1266816"/>
