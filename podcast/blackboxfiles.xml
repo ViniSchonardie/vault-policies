@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TAM Flight 3054. 199 Dead. One Switch.</title>
+      <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20260824.mp3" type="audio/mpeg" length="1170048"/>
+      <guid isPermaLink="false">aviation-tam-airlines-flight-3054-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 21:53:57 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ramstein 1988. 70 Dead. Seven Seconds.</title>
       <description>On 28 August 1988, three aircraft of the Italian Air Force display team collided during the Flugtag '88 airshow at USAF Ramstein Air Base near Kaiserslautern, West Germany. They crashed to the ground in front of a crowd of about 30,000 people, causing 70 fatalities (67 spectators and 3 pilots); 346 spectators sustained serious injuries in the resulting explosion and fire. Hundreds more had minor i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ramstein-air-show-disaster-20260824.mp3" type="audio/mpeg" length="1345536"/>
