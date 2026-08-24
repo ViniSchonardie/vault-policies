@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pteranodon: 20ft Wingspan. Zero Teeth.</title>
+      <description>Pteranodon (; from Ancient Greek pteron 'wing', an- 'without', and odon 'tooth' is a genus of pterosaur that included some of the largest known flying reptiles, with P. longiceps having a wingspan of over 6 m (20 ft). They lived during the late Cretaceous geological period of North America in present-day Kansas, Nebraska, Wyoming, South Dakota and Alabama. More fossil specimens of Pteranodon have </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/pteranodon-20260824.mp3" type="audio/mpeg" length="1458048"/>
+      <guid isPermaLink="false">prehistoric-pteranodon-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 13:16:15 GMT</pubDate>
+      <itunes:duration>91</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Quagga: Half Zebra, Half Horse. Gone Forever.</title>
       <description>The quagga ( or ) (Equus quagga quagga) is an extinct subspecies of the plains zebra which was endemic to South Africa until it was hunted to extinction in the late 19th century. It was long thought to be a distinct species, but mtDNA studies have supported it being a subspecies of plains zebra. A more recent study suggested that it was the southernmost cline or ecotype of the species.
 The quagga </description>
