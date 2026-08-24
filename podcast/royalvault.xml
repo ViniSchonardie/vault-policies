@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Queen Who Refused to Leave</title>
+      <description>Elizabeth Angela Marguerite Bowes-Lyon (4 August 1900 – 30 March 2002) was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last Empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Que</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/queen-elizabeth-the-queen-mother-20260824.mp3" type="audio/mpeg" length="1229184"/>
+      <guid isPermaLink="false">royal-queen-elizabeth-the-queen-mother-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 23:16:07 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How Emperors Seized Total Power</title>
       <description>An emperor (from Latin: imperator, via Old French: empereor) is the (male) ruler of an empire. Empress, the female equivalent, may indicate an emperor's wife (empress consort), mother/grandmother (empress dowager/grand empress dowager), or a woman who rules in her own right and name (empress regnant or suo jure). Emperors are generally recognised to be of the highest monarchic honour and rank, sur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/emperor-20260824.mp3" type="audio/mpeg" length="1185792"/>
