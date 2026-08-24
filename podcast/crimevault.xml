@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>16 Bodies. Sold to a Doctor. Edinburgh 1828.</title>
+      <description>The Burke and Hare murders were a series of sixteen murders committed over a period of about ten months in 1828 in Edinburgh, Scotland. They were undertaken by William Burke and William Hare, who sold the corpses to Robert Knox for dissection at his anatomy lectures.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/william-burke-20260824.mp3" type="audio/mpeg" length="1078272"/>
+      <guid isPermaLink="false">crime-william-burke-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 18:37:49 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Black: 4 Victims Confirmed, Dozens More Suspected</title>
       <description>Robert Black was a Scottish serial killer and paedophile who was convicted of the kidnap, rape and murder of four girls aged between 5 and 11 in a series of crimes committed between 1981 and 1986 in the United Kingdom.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-black-20260824.mp3" type="audio/mpeg" length="1290624"/>
