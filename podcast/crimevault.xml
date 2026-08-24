@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Doctor Poisoned His Friend. For Betting Money.</title>
+      <description>William Palmer, also known as the Rugeley Poisoner or the Prince of Poisoners, was an English doctor and murderer. A court convicted him for the 1855 murder of his friend John Cook, whom he had poisoned with strychnine. He was also suspected of poisoning several other people including his brother and his mother-in-law, as well as four of his children. Palmer made large sums of money from the death</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/william-palmer-20260824.mp3" type="audio/mpeg" length="1336320"/>
+      <guid isPermaLink="false">crime-william-palmer-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 22:21:38 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>16 Bodies. Sold to a Doctor. Edinburgh 1828.</title>
       <description>The Burke and Hare murders were a series of sixteen murders committed over a period of about ten months in 1828 in Edinburgh, Scotland. They were undertaken by William Burke and William Hare, who sold the corpses to Robert Knox for dissection at his anatomy lectures.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/william-burke-20260824.mp3" type="audio/mpeg" length="1078272"/>
