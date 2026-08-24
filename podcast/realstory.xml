@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Douglass: The Enslaved Man Nobody Believed</title>
+      <description>Frederick Douglass (born Frederick Augustus Washington Bailey, c. February 14, 1818 – February 20, 1895) was an American social reformer, abolitionist, orator, writer, and statesman. He was "the most important leader of the movement for African-American civil rights in the 19th century".
+After escaping from slavery in Maryland in 1838, Douglass became a national leader of the abolitionist movement</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/frederick-douglass-20260824.mp3" type="audio/mpeg" length="1296768"/>
+      <guid isPermaLink="false">realstory-frederick-douglass-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 22:03:40 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Michelangelo's Broken Nose Secret</title>
       <description>Michelangelo di Lodovico Buonarroti Simoni (6 March 1475 – 18 February 1564), known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance. He was born in the Republic of Florence but was mostly active in Rome from his 30s onwards. His work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/michelangelo-20260824.mp3" type="audio/mpeg" length="1180416"/>
