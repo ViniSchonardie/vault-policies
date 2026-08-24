@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eagle. Kills Prey 8x Its Weight.</title>
+      <description>Eagle is the common name for certain large birds of prey within the family of the Accipitridae. While on a genetic level, only the subfamily Aquilinae comprises "true eagles", many other species are commonly referred to as eagles, such as the bald eagle, and the term generally carries no taxonomic weight. Most of the 68 species of eagles are from Eurasia and Africa. Outside this area, just 14 spec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/eagle-20260824.mp3" type="audio/mpeg" length="1002240"/>
+      <guid isPermaLink="false">nature-eagle-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 20:46:19 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Colossal Squid. Eyes Bigger Than Your Head.</title>
       <description>The colossal squid (Mesonychoteuthis hamiltoni) is a species of very large squid belonging to the family Cranchiidae, that of the cockatoo squids, or glass squids. It is sometimes called the Antarctic cranch squid or giant squid (not to be confused with the giant squid in genus Architeuthis) and is believed to be the largest squid species in terms of mass. It is the only recognized member of the g</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/colossal-squid-20260824.mp3" type="audio/mpeg" length="1079424"/>
