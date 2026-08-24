@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TM-6: The Solo Commander Mission</title>
+      <description>Soyuz TM-6 was a crewed Soyuz spaceflight to Mir. It was launched on 29 August 1988, at 04:23:11 UTC, for the station's third long-duration expedition, Mir EO-3. The three-person crew that was launched consisted of Research Doctor Valeri Polyakov, who became part of the EO-3 crew, as well as the two crew members of the week-long mission Mir EP-3, which included the first ever Afghan cosmonaut, Abd</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-6-20260824.mp3" type="audio/mpeg" length="1231104"/>
+      <guid isPermaLink="false">space-soyuz-tm-6-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 17:04:01 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sentinel-5P: The Satellite That Saw COVID</title>
       <description>Sentinel-5 Precursor (Sentinel-5P) is an Earth observation satellite developed by ESA as part of the Copernicus Programme to close the gap in continuity of observations between Envisat and Sentinel-5. It was launched in October 2017, and has a design life of 7 years. The TROPOspheric Monitoring Instrument (Tropomi) provides the most detailed methane emissions monitoring available.
 
