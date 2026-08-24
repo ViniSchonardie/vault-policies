@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robert Black: 4 Victims Confirmed, Dozens More Suspected</title>
+      <description>Robert Black was a Scottish serial killer and paedophile who was convicted of the kidnap, rape and murder of four girls aged between 5 and 11 in a series of crimes committed between 1981 and 1986 in the United Kingdom.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-black-20260824.mp3" type="audio/mpeg" length="1290624"/>
+      <guid isPermaLink="false">crime-robert-black-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 14:01:11 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>3 Shot Dead. Police Erased All Evidence.</title>
       <description>The 1982 demonstrations in Poland refers to anti-government street demonstrations organized by underground Solidarity to commemorate the second anniversary of the Gdańsk Agreement. The bloodiest protest occurred in southwestern Poland, in the town of Lubin, on 31 August 1982. The Lubin demonstration resulted in three protesters killed by Communist services, and an unknown number of wounded. On the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/crime-of-lubin-20260823.mp3" type="audio/mpeg" length="1207296"/>
