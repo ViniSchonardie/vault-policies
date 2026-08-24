@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ramstein 1988. 70 Dead. Seven Seconds.</title>
+      <description>On 28 August 1988, three aircraft of the Italian Air Force display team collided during the Flugtag '88 airshow at USAF Ramstein Air Base near Kaiserslautern, West Germany. They crashed to the ground in front of a crowd of about 30,000 people, causing 70 fatalities (67 spectators and 3 pilots); 346 spectators sustained serious injuries in the resulting explosion and fire. Hundreds more had minor i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ramstein-air-show-disaster-20260824.mp3" type="audio/mpeg" length="1345536"/>
+      <guid isPermaLink="false">aviation-ramstein-air-show-disaster-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 17:58:55 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Turkish Airlines 981. 346 Dead. The Door Flew Off.</title>
       <description>Turkish Airlines Flight 981 was a scheduled flight from Istanbul Yeşilköy Airport to London Heathrow Airport, with an intermediate stop at Orly Airport in Paris. On 3 March 1974, the McDonnell Douglas DC-10 operating the flight crashed into the Ermenonville Forest, about 40 kilometres (25 mi; 22 nmi) outside Paris, killing all 335 passengers and 11 crew. The crash was also known as the Ermenonvill</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-981-20260824.mp3" type="audio/mpeg" length="1392000"/>
