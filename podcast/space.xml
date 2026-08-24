@@ -17,6 +17,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sentinel-5P: The Satellite That Saw COVID</title>
+      <description>Sentinel-5 Precursor (Sentinel-5P) is an Earth observation satellite developed by ESA as part of the Copernicus Programme to close the gap in continuity of observations between Envisat and Sentinel-5. It was launched in October 2017, and has a design life of 7 years. The TROPOspheric Monitoring Instrument (Tropomi) provides the most detailed methane emissions monitoring available.
+
+
+== Overview ==</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sentinel-5-precursor-20260824.mp3" type="audio/mpeg" length="1512576"/>
+      <guid isPermaLink="false">space-sentinel-5-precursor-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 14:13:43 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 6: The Welding Test That Almost Breached the Hull</title>
       <description>Soyuz 6 (Russian: Союз 6, Union 6) was part of a joint October, 1969, mission with Soyuz 7 and Soyuz 8 that saw the three Soyuz spacecraft in orbit together at the same time, carrying a total of seven cosmonauts. The crew of Georgy Shonin and Valeri Kubasov were meant to take high-quality movie photography of the Soyuz 7 and Soyuz 8 docking, but the rendezvous systems on all three spacecraft faile</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-6-20260823.mp3" type="audio/mpeg" length="1170048"/>
