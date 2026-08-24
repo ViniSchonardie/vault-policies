@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Rhino Horn. Made of Hair. Still Hunted.</title>
+      <description>A rhinoceros ( ry-NOSS-ə-rəss; from Ancient Greek  ῥινόκερως (rhinókerōs) 'nose-horned'; from  ῥίς (rhis) 'nose' and  κέρας (kéras) 'horn'; pl.: rhinoceros or rhinoceroses), commonly abbreviated to rhino, is a member of any of the five extant species (or numerous extinct species) of odd-toed ungulates (perissodactyls) in the family Rhinocerotidae. It is the only living family in the superfamily Rh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/rhinoceros-20260824.mp3" type="audio/mpeg" length="1151616"/>
+      <guid isPermaLink="false">nature-rhinoceros-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 13:13:19 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leopard Seal. Teeth 1 inch long.</title>
       <description>The leopard seal (Hydrurga leptonyx), also referred to as the sea leopard, is the second largest species of seal in the Antarctic (after the southern elephant seal). It is a top order predator, feeding on a wide range of prey including cephalopods, other pinnipeds, krill, fish, and birds, particularly penguins. Its only natural predator is the orca. It is the only species in the genus Hydrurga. It</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/leopard-seal-20260823.mp3" type="audio/mpeg" length="1387392"/>
