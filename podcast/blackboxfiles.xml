@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Turkish Airlines 981. 346 Dead. The Door Flew Off.</title>
+      <description>Turkish Airlines Flight 981 was a scheduled flight from Istanbul Yeşilköy Airport to London Heathrow Airport, with an intermediate stop at Orly Airport in Paris. On 3 March 1974, the McDonnell Douglas DC-10 operating the flight crashed into the Ermenonville Forest, about 40 kilometres (25 mi; 22 nmi) outside Paris, killing all 335 passengers and 11 crew. The crash was also known as the Ermenonvill</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-981-20260824.mp3" type="audio/mpeg" length="1392000"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-981-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 15:11:10 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saudia 163. 301 Dead. Never Evacuated.</title>
       <description>Saudia Flight 163 was a scheduled Saudia passenger flight departing from Quaid-e-Azam Airport in Karachi, Pakistan, bound for Kandara Airport in Jeddah, Saudi Arabia, via then-Riyadh International Airport in Riyadh, Saudi Arabia, which caught fire after takeoff on 19 August 1980. Although the Lockheed L-1011 TriStar made a successful emergency landing at Riyadh, the flight crew failed to perform a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/saudia-flight-163-20260823.mp3" type="audio/mpeg" length="1372032"/>
