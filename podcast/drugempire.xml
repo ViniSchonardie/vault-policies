@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Smart Drug That Changed Everything</title>
+      <description>Modafinil, sold under the brand name Provigil among others, is a central nervous system (CNS) stimulant medication used to treat narcolepsy, sleep apnea, and shift work sleep disorder. It is taken by mouth. Modafinil is a first-line treatment for narcolepsy in the United States and Europe.
+The mechanism of action is not fully understood, but modafinil acts mainly as an atypical dopamine reuptake i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/modafinil-20260824.mp3" type="audio/mpeg" length="1376640"/>
+      <guid isPermaLink="false">drugempire-modafinil-20260824</guid>
+      <pubDate>Mon, 24 Aug 2026 22:57:13 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Pill That Changed Millions. Still Controversial.</title>
       <description>Methylphenidate, sold under the brand names Ritalin and Concerta, among others, is a central nervous system (CNS) stimulant used in the treatment of attention deficit hyperactivity disorder (ADHD) and narcolepsy. It may be taken by mouth or applied to the skin, and different formulations have varying durations of effect. For ADHD, the effectiveness of methylphenidate is comparable to atomoxetine b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/methylphenidate-20260824.mp3" type="audio/mpeg" length="1425792"/>
