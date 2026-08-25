@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Comair Flight 5191. 49 Dead. Wrong Runway.</title>
+      <description>Comair Flight 5191 was a scheduled United States domestic passenger flight from Lexington, Kentucky, to Atlanta, Georgia. On the morning of August 27, 2006, at around 06:07 EDT (10:07 UTC), the Bombardier CRJ100 crashed while attempting to take off from Blue Grass Airport in Fayette County, Kentucky, 4 miles (6 km; 3 nmi) west of the central business district of the city of Lexington.
+The aircraft</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/comair-flight-5191-20260825.mp3" type="audio/mpeg" length="1400064"/>
+      <guid isPermaLink="false">aviation-comair-flight-5191-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 21:53:27 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BA Flight 38. 152 Aboard. Ice Crystals at 200 Feet.</title>
       <description>British Airways Flight 38 was a scheduled international passenger flight from Beijing Capital International Airport in Beijing, China, to Heathrow Airport in London, United Kingdom, an 8,100-kilometre (4,400 nmi; 5,000 mi) trip. On 17 January 2008, the Boeing 777-200ER aircraft crash-landed short of runway 27L at Heathrow. Of the 152 people on board, 47 were injured, 1 of them seriously. The aircr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-38-20260825.mp3" type="audio/mpeg" length="1420416"/>
