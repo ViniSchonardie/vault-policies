@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Holodomor. 5 Million Dead. Stalin's Secret.</title>
+      <description>The Holodomor, also known as the Ukrainian famine, was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union.
+While scholars agree the famine was primarily man-made, it remains in dispute whether the Holodomor was intentional,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/holodomor-20260825.mp3" type="audio/mpeg" length="1139712"/>
+      <guid isPermaLink="false">warvault-holodomor-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 14:35:01 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bulge. 410,000 Germans. One Fatal Mistake.</title>
       <description>The Battle of the Bulge, also known as the Ardennes Offensive and referred to by the Germans as Unternehmen Wacht am Rhein (transl. Operation Watch on the Rhine), was an offensive campaign on the Western Front during the Second World War, taking place from 16 December 1944 to 25 January 1945. It was launched through the densely forested Ardennes region of eastern Belgium and northern Luxembourg an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-bulge-20260824.mp3" type="audio/mpeg" length="1441920"/>
