@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Desert Fox. Hitler's Plot. Forced to Die.</title>
+      <description>Johannes Erwin Eugen Rommel (pronounced [ˈɛɐviːn ˈʁɔməl] ; 15 November 1891 – 14 October 1944), known as The Desert Fox (German: Wüstenfuchs, pronounced [ˈvyːstn̩ˌfʊks] ), was a German Generalfeldmarschall (field marshal) during World War II. He served in the Wehrmacht of Nazi Germany, as well as in the Reichswehr of the Weimar Republic, and Imperial German Army of the German Empire.
+Rommel was a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/erwin-rommel-20260825.mp3" type="audio/mpeg" length="1413120"/>
+      <guid isPermaLink="false">warvault-erwin-rommel-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 22:04:56 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gettysburg. 50,000 Dead. 3 Days.</title>
       <description>The Battle of Gettysburg (locally  ) (July 1–3, 1863) was fought in the American Civil War between the Union and Confederate armies in and around Gettysburg, Pennsylvania. The battle, won by the Union, is widely considered the Civil War's turning point, leading to an ultimate victory of the Union and the preservation of the nation. The Battle of Gettysburg was the bloodiest battle of both the Civi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gettysburg-20260825.mp3" type="audio/mpeg" length="1342080"/>
