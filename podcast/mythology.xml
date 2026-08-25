@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Golden City That Never Existed</title>
+      <description>El Dorado (Spanish: [el doˈɾaðo]) is a mythical city of gold supposedly located somewhere in South America. The legend originated in 16th-century Spanish accounts of a ruler known as el Dorado, or the Golden One, who was said to cover himself in gold dust before washing it off in a sacred lake. Over time, the name came to refer not only to the ruler, but also to a lost city or kingdom of immense w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/el-dorado-20260825.mp3" type="audio/mpeg" length="1312896"/>
+      <guid isPermaLink="false">mythology-el-dorado-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 23:39:43 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Minotaur Devoured 14 Humans Every Nine Years</title>
       <description>In Greek mythology, the Minotaur (Ancient Greek: Μινώταυρος, romanized: Mīnṓtauros), also known as Asterion or Asterius, is a mythical creature portrayed during classical antiquity with the head and tail of a bull and the body of a man or, as described by Roman poet Ovid, a being "part man and part bull". He dwelt at the center of the Labyrinth, which was an elaborate maze-like construction design</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/minotaur-20260825.mp3" type="audio/mpeg" length="1279488"/>
