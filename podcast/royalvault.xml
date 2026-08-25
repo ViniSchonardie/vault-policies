@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Queen Elizabeth Refused to Kill</title>
+      <description>The execution of Mary, Queen of Scots took place on 8 February 1587 at Fotheringhay Castle, Northamptonshire, England. After nineteen years in English captivity following her forced abdication from the throne of Scotland, Mary was found guilty of plotting the assassination of her cousin, Elizabeth I, in what became known as the Babington Plot. The execution of Mary was the first legal execution of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/execution-of-mary-queen-of-scots-20260825.mp3" type="audio/mpeg" length="1316352"/>
+      <guid isPermaLink="false">royal-execution-of-mary-queen-of-scots-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 23:18:02 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Shadow King: How Viceroys Ruled Empires</title>
       <description>A viceroy () is an official who reigns over a polity in the name of and as the representative of the monarch of the territory.
 The term derives from the Latin prefix vice-, meaning "in place of" and the Anglo-Norman roy (Old French roi, roy), meaning "king". This denotes the position as one who acts on behalf of a king or monarch ("in place of king"). A viceroy's territory may be called a viceroya</description>
