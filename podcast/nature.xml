@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Bull Shark. Swims 1,100 Miles Inland.</title>
+      <description>The bull shark (Carcharhinus leucas), also known as the Zambezi shark (informally zambi) in Africa and Lake Nicaragua shark in Nicaragua, is a species of requiem shark commonly found worldwide in warm, shallow waters along coasts and in rivers. It is known for its aggressive nature, and presence mainly in warm, shallow brackish and freshwater systems including estuaries and (usually) lower reaches</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bull-shark-20260825.mp3" type="audio/mpeg" length="1233024"/>
+      <guid isPermaLink="false">nature-bull-shark-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 13:12:15 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eagle. Kills Prey 8x Its Weight.</title>
       <description>Eagle is the common name for certain large birds of prey within the family of the Accipitridae. While on a genetic level, only the subfamily Aquilinae comprises "true eagles", many other species are commonly referred to as eagles, such as the bald eagle, and the term generally carries no taxonomic weight. Most of the 68 species of eagles are from Eurasia and Africa. Outside this area, just 14 spec</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/eagle-20260824.mp3" type="audio/mpeg" length="1002240"/>
