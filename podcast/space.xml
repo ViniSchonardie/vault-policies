@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 10: China's Historic 15-Day Mission</title>
+      <description>Shenzhou 10 (Chinese: 神舟十号; pinyin: Shénzhōu Shíhào) was a crewed spaceflight of China's Shenzhou program that was launched on 11 June 2013. It was China's fifth crewed space mission. The mission had a crew of three astronauts: Nie Haisheng, who was mission commander and previously flew on Shenzhou 6; Zhang Xiaoguang, a former PLAAF squadron commander who conducted the rendezvous and docking; and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-10-20260825.mp3" type="audio/mpeg" length="1390848"/>
+      <guid isPermaLink="false">space-shenzhou-10-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 14:14:19 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EarthCARE: The White Dragon Watching Earth</title>
       <description>EarthCARE (derived from Earth Cloud, Aerosol and Radiation Explorer), nicknamed Hakuryū (Japanese for "white dragon"), is a joint European/Japanese (ESA / JAXA / NICT) satellite, the sixth of ESA's Earth Explorer Programme. The main goal of the mission is the observation and characterization of clouds and aerosols as well as measuring the reflected solar radiation and the infrared radiation emitte</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/earthcare-20260824.mp3" type="audio/mpeg" length="1379712"/>
