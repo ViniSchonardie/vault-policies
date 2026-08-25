@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Metrojet 9268. 224 Dead. Terror Denied.</title>
+      <description>Metrojet Flight 9268 was an international chartered passenger flight operated by Russian airline Kogalymavia (branded as Metrojet). On 31 October 2015, at 06:13 EST (04:13 UTC), the Airbus A321-231 operating the flight exploded above the northern Sinai Peninsula following its departure from Sharm El Sheikh International Airport, Egypt, en route to Pulkovo Airport, Saint Petersburg, Russia. All 224</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/metrojet-flight-9268-20260825.mp3" type="audio/mpeg" length="1474944"/>
+      <guid isPermaLink="false">aviation-metrojet-flight-9268-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 15:16:34 GMT</pubDate>
+      <itunes:duration>92</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAM Flight 3054. 199 Dead. One Switch.</title>
       <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20260824.mp3" type="audio/mpeg" length="1170048"/>
