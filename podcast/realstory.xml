@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robin Hood: The Hero Who Never Existed</title>
+      <description>Robin Hood is a legendary heroic outlaw originally depicted in English folklore and subsequently featured in literature, theatre, and cinema. According to legend, he was a highly skilled archer and swordsman. In some versions of the legend, he is depicted as being of noble birth, and in modern retellings he is sometimes depicted as having fought in the Crusades before returning to England to find </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/robin-hood-20260825.mp3" type="audio/mpeg" length="1259136"/>
+      <guid isPermaLink="false">realstory-robin-hood-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 19:23:33 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>John Quincy Adams. Lost After Winning.</title>
       <description>John Quincy Adams ( ; July 11, 1767 – February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825; minister to Great Britain, Prussia, and Russia; and senator for Massachusetts. After his presidency, Adams uniquely returned to Congress as a member of the lower house, where he died </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-quincy-adams-20260825.mp3" type="audio/mpeg" length="1354368"/>
