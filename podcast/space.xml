@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz T-6: First Frenchman in Space</title>
+      <description>Soyuz T-6 was a human spaceflight to Earth orbit to the Salyut 7 space station in 1982. Along with two Soviet cosmonauts, the crew included a Frenchman, Jean-Loup Chrétien.
+The Soyuz-T spacecraft arrived at Salyut 7 following launch on 24 June 1982 and one day of solo operations. During the T-6 mission's time docked to the station, the crew performed joint Soviet-French experiments, including card</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-t-6-20260825.mp3" type="audio/mpeg" length="1247232"/>
+      <guid isPermaLink="false">space-soyuz-t-6-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 17:05:03 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 10: China's Historic 15-Day Mission</title>
       <description>Shenzhou 10 (Chinese: 神舟十号; pinyin: Shénzhōu Shíhào) was a crewed spaceflight of China's Shenzhou program that was launched on 11 June 2013. It was China's fifth crewed space mission. The mission had a crew of three astronauts: Nie Haisheng, who was mission commander and previously flew on Shenzhou 6; Zhang Xiaoguang, a former PLAAF squadron commander who conducted the rendezvous and docking; and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-10-20260825.mp3" type="audio/mpeg" length="1390848"/>
