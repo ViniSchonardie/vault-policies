@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gettysburg. 50,000 Dead. 3 Days.</title>
+      <description>The Battle of Gettysburg (locally  ) (July 1–3, 1863) was fought in the American Civil War between the Union and Confederate armies in and around Gettysburg, Pennsylvania. The battle, won by the Union, is widely considered the Civil War's turning point, leading to an ultimate victory of the Union and the preservation of the nation. The Battle of Gettysburg was the bloodiest battle of both the Civi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gettysburg-20260825.mp3" type="audio/mpeg" length="1342080"/>
+      <guid isPermaLink="false">warvault-battle-of-gettysburg-20260825</guid>
+      <pubDate>Tue, 25 Aug 2026 18:13:19 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Holodomor. 5 Million Dead. Stalin's Secret.</title>
       <description>The Holodomor, also known as the Ukrainian famine, was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union.
 While scholars agree the famine was primarily man-made, it remains in dispute whether the Holodomor was intentional,</description>
