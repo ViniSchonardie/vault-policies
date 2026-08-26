@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Museum That Rewrote Itself</title>
+      <description>The Royal Ontario Museum (ROM) is a museum of art, world culture and natural history in Toronto, Ontario, Canada. It is one of the largest museums in North America and the largest museum in Canada. It attracts more than one million visitors every year, making it the most-visited museum in Canada. The 74,000-square-metre (800,000-square-foot) museum building is located north of Queen's Park, in the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-ontario-museum-20260826.mp3" type="audio/mpeg" length="1718016"/>
+      <guid isPermaLink="false">royal-royal-ontario-museum-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:31 GMT</pubDate>
+      <itunes:duration>107</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Queen Elizabeth Refused to Kill</title>
       <description>The execution of Mary, Queen of Scots took place on 8 February 1587 at Fotheringhay Castle, Northamptonshire, England. After nineteen years in English captivity following her forced abdication from the throne of Scotland, Mary was found guilty of plotting the assassination of her cousin, Elizabeth I, in what became known as the Babington Plot. The execution of Mary was the first legal execution of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/execution-of-mary-queen-of-scots-20260825.mp3" type="audio/mpeg" length="1316352"/>
