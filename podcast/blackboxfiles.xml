@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Qantas Flight 32. 469 Lived. One Miracle.</title>
+      <description>Qantas Flight 32 was a regularly scheduled passenger flight from London to Sydney via Singapore. On 4 November 2010, the Airbus A380 operating the route suffered an uncontained failure in one of its four Rolls-Royce Trent 900 engines. The failure occurred over the Riau Islands, Indonesia, four minutes after takeoff from Singapore Changi Airport. After holding for almost two hours to assess the sit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/qantas-flight-32-20260826.mp3" type="audio/mpeg" length="1379712"/>
+      <guid isPermaLink="false">aviation-qantas-flight-32-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:48 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El Al 747. 47 Dead. Hidden Cargo.</title>
       <description>On 4 October 1992, El Al Flight 1862, a Boeing 747 cargo aircraft of the Israeli airline El Al, crashed into the Groeneveen and Klein-Kruitberg flats in the Bijlmermeer (colloquially "Bijlmer") neighbourhood of Amsterdam, the Netherlands. The accident is known in Dutch as the Bijlmerramp ("Bijlmer disaster"). The subsequent health effects in survivors, and eventual revelations of the cargo manifes</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/el-al-flight-1862-20260826.mp3" type="audio/mpeg" length="1441536"/>
