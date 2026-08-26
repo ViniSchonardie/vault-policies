@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Ritual That Made Kings Divine</title>
+      <description>A coronation ceremony marks the formal investiture of a monarch with regal power using a crown. In addition to the crowning, this ceremony may include the presentation of other items of regalia, and other rituals such as the taking of special vows by the new monarch, the investing and presentation of regalia to them, and acts of homage by the new monarch's subjects. In certain Christian denominati</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/coronation-20260826.mp3" type="audio/mpeg" length="1379712"/>
+      <guid isPermaLink="false">royal-coronation-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 21:28:56 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Museum That Rewrote Itself</title>
       <description>The Royal Ontario Museum (ROM) is a museum of art, world culture and natural history in Toronto, Ontario, Canada. It is one of the largest museums in North America and the largest museum in Canada. It attracts more than one million visitors every year, making it the most-visited museum in Canada. The 74,000-square-metre (800,000-square-foot) museum building is located north of Queen's Park, in the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/royal-ontario-museum-20260826.mp3" type="audio/mpeg" length="1718016"/>
