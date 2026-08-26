@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Monarch Butterfly. 2,000-Mile Journey.</title>
+      <description>The monarch butterfly or simply monarch (Danaus plexippus) is a milkweed butterfly (subfamily Danainae) in the family Nymphalidae. Other common names, depending on region, include milkweed, common tiger, wanderer, and black-veined brown. It is among the most familiar of North American butterflies and an iconic pollinator, although it is not an especially effective pollinator of milkweeds. Its wing</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/monarch-butterfly-20260826.mp3" type="audio/mpeg" length="1184640"/>
+      <guid isPermaLink="false">nature-monarch-butterfly-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 23:28:19 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venus Flytrap. Snaps in 1/10th Second.</title>
       <description>The Venus flytrap (Dionaea muscipula) is a carnivorous plant native to the temperate and subtropical wetlands of North Carolina and South Carolina, on the East Coast of the United States. Although various modern hybrids have been created in cultivation, D. muscipula is the only species of the monotypic genus Dionaea. It is closely related to the waterwheel plant (Aldrovanda vesiculosa) and the cos</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venus-flytrap-20260826.mp3" type="audio/mpeg" length="1259520"/>
