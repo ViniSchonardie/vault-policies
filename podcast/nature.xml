@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Venus Flytrap. Snaps in 1/10th Second.</title>
+      <description>The Venus flytrap (Dionaea muscipula) is a carnivorous plant native to the temperate and subtropical wetlands of North Carolina and South Carolina, on the East Coast of the United States. Although various modern hybrids have been created in cultivation, D. muscipula is the only species of the monotypic genus Dionaea. It is closely related to the waterwheel plant (Aldrovanda vesiculosa) and the cos</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venus-flytrap-20260826.mp3" type="audio/mpeg" length="1259520"/>
+      <guid isPermaLink="false">nature-venus-flytrap-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 17:01:25 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poison Dart Frog. Tiny But Lethal.</title>
       <description>The poison dart frog (also known as the dart-poison frog, the poison frog or formerly known as the poison arrow frog) is the common name of a group of frogs in the family Dendrobatidae which are native to tropical Central and South America. These species are diurnal and often have brightly colored bodies. This bright coloration is correlated with the toxicity of the species, making them aposematic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/poison-dart-frog-20260826.mp3" type="audio/mpeg" length="1338240"/>
