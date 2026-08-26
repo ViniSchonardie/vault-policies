@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz T-10: Dead Station, Live Repair</title>
+      <description>Soyuz T-10 was the fifth expedition to the Salyut 7 space station. It entered a darkened and empty station because of the loss of Soyuz T-10a. It was visited by the sixth and seventh expeditions. During the course of the cosmonauts stay, three extravehicular activities took place to repair a fuel line.
+During their multiple spacewalks to perform maintenance on the station, the crew set a record fo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-t-10-20260826.mp3" type="audio/mpeg" length="1304832"/>
+      <guid isPermaLink="false">space-soyuz-t-10-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 14:12:38 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EO-1: 16 Years Beyond Its Expiration Date</title>
       <description>Earth Observing-1 (EO-1) was a NASA Earth observation satellite created to develop and validate a number of instrument and spacecraft bus breakthrough technologies. It was intended to enable the development of future Earth imaging observatories that will have a significant increase in performance while also having reduced cost and mass. The spacecraft was part of the New Millennium Program. It was</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/earth-observing-1-20260825.mp3" type="audio/mpeg" length="1387392"/>
