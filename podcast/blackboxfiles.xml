@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean Air 801. 229 Dead. Wrong Signal.</title>
+      <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20260827.mp3" type="audio/mpeg" length="1246080"/>
+      <guid isPermaLink="false">aviation-korean-air-flight-801-20260827</guid>
+      <pubDate>Thu, 27 Aug 2026 23:56:28 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LaMia Flight 2933. 71 Dead. 36 Minutes of Silence.</title>
       <description>LaMia Flight 2933 was a charter flight of an Avro RJ85, operated by LaMia, that on 28 November 2016 crashed near Medellín, Colombia, killing 71 of the 77 people on board. The aircraft was transporting the first-team squad of Brazilian football club Chapecoense and their entourage from Santa Cruz de la Sierra, Bolivia, to  Medellín, where the team was scheduled to play at the 2016 Copa Sudamericana</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lamia-flight-2933-20260827.mp3" type="audio/mpeg" length="1843200"/>
