@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>LaMia Flight 2933. 71 Dead. 36 Minutes of Silence.</title>
+      <description>LaMia Flight 2933 was a charter flight of an Avro RJ85, operated by LaMia, that on 28 November 2016 crashed near Medellín, Colombia, killing 71 of the 77 people on board. The aircraft was transporting the first-team squad of Brazilian football club Chapecoense and their entourage from Santa Cruz de la Sierra, Bolivia, to  Medellín, where the team was scheduled to play at the 2016 Copa Sudamericana</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lamia-flight-2933-20260827.mp3" type="audio/mpeg" length="1843200"/>
+      <guid isPermaLink="false">aviation-lamia-flight-2933-20260827</guid>
+      <pubDate>Thu, 27 Aug 2026 00:57:37 GMT</pubDate>
+      <itunes:duration>115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Qantas Flight 32. 469 Lived. One Miracle.</title>
       <description>Qantas Flight 32 was a regularly scheduled passenger flight from London to Sydney via Singapore. On 4 November 2010, the Airbus A380 operating the route suffered an uncontained failure in one of its four Rolls-Royce Trent 900 engines. The failure occurred over the Riau Islands, Indonesia, four minutes after takeoff from Singapore Changi Airport. After holding for almost two hours to assess the sit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/qantas-flight-32-20260826.mp3" type="audio/mpeg" length="1379712"/>
