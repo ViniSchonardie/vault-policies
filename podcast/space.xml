@@ -17,6 +17,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 22: The Spy Mission Disguised as Science</title>
+      <description>Soyuz 22 (Russian: Союз 22, Union 22) was a September 1976, Soviet crewed spaceflight. It was an Earth sciences mission using a modified Soyuz spacecraft, and was also, some observers speculated, a mission to observe NATO exercises near Norway.
+The spacecraft was a refurbished Soyuz that had served as a backup for the Apollo-Soyuz Test Project (ASTP) mission the previous year.
+Cosmonauts Valery By</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-22-20260827.mp3" type="audio/mpeg" length="1417344"/>
+      <guid isPermaLink="false">space-soyuz-22-20260827</guid>
+      <pubDate>Thu, 27 Aug 2026 23:04:01 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Three Satellites, Ten New Technologies, 100 Days</title>
       <description>Space Technology 5 (ST5) of the NASA New Millennium program was a test of ten new technologies aboard a group of microsatellites. Developed by NASA Goddard Space Flight Center, the three individual small spacecraft were launched together from the belly of a Lockheed L-1011 aboard the Pegasus XL rocket, on 22 March 2006.  One technology involved antennas that were designed by computers using an evo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/space-technology-5-20260826.mp3" type="audio/mpeg" length="1394688"/>
