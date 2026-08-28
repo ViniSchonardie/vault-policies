@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>SQ006. 83 Dead. Wrong Runway.</title>
+      <description>Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport via Chiang Kai-shek International Airport (now known as Taoyuan International Airport) near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time (14:18 UTC), the Boeing 747-400 operating the flight attempted to take off from the wrong runway at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-006-20260828.mp3" type="audio/mpeg" length="1118592"/>
+      <guid isPermaLink="false">aviation-singapore-airlines-flight-006-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 23:39:38 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Learjet 35. 6 Dead. 4 Hours of Ghost Flight.</title>
       <description>On October 25, 1999, a chartered Learjet 35 business jet was scheduled to fly from Orlando, Florida, United States to Dallas, Texas, United States. Early in the flight, the aircraft, which was climbing to its assigned altitude on autopilot, lost cabin pressure, and all six on board were incapacitated and killed by hypoxia, a lack of oxygen in the brain and body. The aircraft continued climbing pas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1999-south-dakota-learjet-crash-20260828.mp3" type="audio/mpeg" length="1414272"/>
