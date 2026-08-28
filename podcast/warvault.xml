@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pinochet. 17 Years. 3,000 Dead.</title>
+      <description>Augusto José Ramón Pinochet Ugarte (25 November 1915 – 10 December 2006) was a Chilean army officer and military dictator who ruled Chile from 1973 to 1990. He led the military junta that overthrew President Salvador Allende in 1973 and established a military dictatorship. He was proclaimed President of Chile in 1974 and served until 1990, when he stepped down to pave the way for democratic electi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/augusto-pinochet-20260828.mp3" type="audio/mpeg" length="1343616"/>
+      <guid isPermaLink="false">warvault-augusto-pinochet-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 23:18:47 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hastings. One Arrow. England Changed Forever.</title>
       <description>The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson, beginning the Norman Conquest of England. It took place approximately 7 mi (11 km) northwest of Hastings, close to the present-day town of Battle, East Sussex, and was a decisive Norman victory.
 The background to the batt</description>
