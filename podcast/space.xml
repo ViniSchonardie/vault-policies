@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>QuikSCAT: 10 Years Beyond Design Life</title>
+      <description>The NASA QuikSCAT (Quick Scatterometer) was an Earth observation satellite carrying the SeaWinds scatterometer. Its primary mission was to measure the surface wind speed and direction over the ice-free global oceans via its effect on water waves. Observations from QuikSCAT had a wide array of applications, and contributed to climatological studies, weather forecasting, meteorology, oceanographic r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/quikscat-20260828.mp3" type="audio/mpeg" length="1374336"/>
+      <guid isPermaLink="false">space-quikscat-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 04:27:48 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TMA-15: The Mission That Changed the ISS Forever</title>
       <description>Soyuz TMA-15 was a crewed spaceflight to the International Space Station. Part of the Soyuz programme, it transported three members of the Expedition 20 crew to the space station. TMA-15 was the 102nd crewed flight of a Soyuz spacecraft, since Soyuz 1 in 1967. The Soyuz spacecraft remained docked to the space station during Expedition 20 and Expedition 21 as an emergency escape vehicle. The missio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tma-15-20260828.mp3" type="audio/mpeg" length="1076736"/>
