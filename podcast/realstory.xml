@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Byron: The Poet Who Fled for His Life</title>
+      <description>George Gordon Byron, 6th Baron Byron (22 January 1788 – 19 April 1824), was a British poet. He was one of the major figures of the Romantic movement, and is regarded as being among the greatest British poets. Among his best-known works are the lengthy narratives Don Juan and Childe Harold's Pilgrimage; many of his shorter lyrics in Hebrew Melodies also became popular.
+Byron was educated at Trinity</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/lord-byron-20260828.mp3" type="audio/mpeg" length="1266048"/>
+      <guid isPermaLink="false">realstory-lord-byron-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 00:40:44 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Galileo. The Pope's Secret Betrayal.</title>
       <description>Galileo di Vincenzo Bonaiuti de' Galilei (15 February 1564 – 8 January 1642), commonly referred to as Galileo Galilei, was an Italian astronomer, physicist, and engineer, sometimes described as a polymath. He was born in the city of Pisa, then part of the Duchy of Florence. Galileo has been called the father of observational astronomy, modern-era classical physics, the scientific method, and moder</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/galileo-galilei-20260827.mp3" type="audio/mpeg" length="1410432"/>
