@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Enceladus Explorer: Drilling 660 Feet for Alien Life</title>
+      <description>Enceladus Explorer (EnEx) is a proposed interplanetary orbiter and lander concept equipped with a subsurface maneuverable ice melting probe suitable to assess the existence of life on Saturn's moon Enceladus.
+The astrobiology Enceladus Explorer project is funded by the German Aerospace Center (DLR), and is carried out by a research consortium of seven German universities. This collaborative projec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/enceladus-explorer-20260828.mp3" type="audio/mpeg" length="1282944"/>
+      <guid isPermaLink="false">space-enceladus-explorer-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 23:08:20 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>QuikSCAT: 10 Years Beyond Design Life</title>
       <description>The NASA QuikSCAT (Quick Scatterometer) was an Earth observation satellite carrying the SeaWinds scatterometer. Its primary mission was to measure the surface wind speed and direction over the ice-free global oceans via its effect on water waves. Observations from QuikSCAT had a wide array of applications, and contributed to climatological studies, weather forecasting, meteorology, oceanographic r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/quikscat-20260828.mp3" type="audio/mpeg" length="1374336"/>
