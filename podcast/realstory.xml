@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tolstoy. The Genius Who Wanted to Die Poor.</title>
+      <description>Count Lev Nikolayevich Tolstoy (; Russian: Лев Николаевич Толстой, IPA: [ˈlʲef nʲɪkɐˈla(j)ɪvʲɪtɕ tɐlˈstoj] ; 9 September [O.S. 28 August] 1828 – 20 November [O.S. 7 November] 1910), usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.
+Born to an aristocratic family, Tolstoy achieved  acclaim in his twen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leo-tolstoy-20260828.mp3" type="audio/mpeg" length="1211904"/>
+      <guid isPermaLink="false">realstory-leo-tolstoy-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 05:40:09 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Julian Assange. The Hacker Who Toppled Empires.</title>
       <description>Julian Paul Assange (  ə-SAHNZH; né Hawkins; born 3 July 1971) is an Australian editor, programmer, and publisher who founded WikiLeaks in 2006. He came to international attention in 2010 after WikiLeaks published a series of leaks from Chelsea Manning, a United States Army intelligence analyst: footage of a U.S. airstrike in Baghdad showing war crimes committed by the U.S. Army, U.S. military log</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/julian-assange-20260828.mp3" type="audio/mpeg" length="1256832"/>
