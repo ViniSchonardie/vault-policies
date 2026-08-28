@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Royal Train's Darkest Secret</title>
+      <description>The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned by Network Rail, and maintained and operated by DB Cargo UK.
+The Royal Train comprises a dedicated set of claret-liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. The</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/british-royal-train-20260828.mp3" type="audio/mpeg" length="1310592"/>
+      <guid isPermaLink="false">royal-british-royal-train-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 23:49:23 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Kings Nobody Remembers</title>
       <description>Dynasty 0, or Dynasty Zero, of ancient Egypt refers to the kings who ruled over part or all of Egyptian territory before the reign of the legendary Menes, founder of the First Dynasty and unifier of Egypt. Menes is often associated with Narmer, although the latter's successor, Hor-Aha, is also proposed. This era, located at the very end of the Predynastic period, corresponds to the Protodynastic p</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/dynasty-0-20260828.mp3" type="audio/mpeg" length="1166592"/>
