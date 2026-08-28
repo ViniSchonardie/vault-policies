@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julian Assange. The Hacker Who Toppled Empires.</title>
+      <description>Julian Paul Assange (  ə-SAHNZH; né Hawkins; born 3 July 1971) is an Australian editor, programmer, and publisher who founded WikiLeaks in 2006. He came to international attention in 2010 after WikiLeaks published a series of leaks from Chelsea Manning, a United States Army intelligence analyst: footage of a U.S. airstrike in Baghdad showing war crimes committed by the U.S. Army, U.S. military log</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/julian-assange-20260828.mp3" type="audio/mpeg" length="1256832"/>
+      <guid isPermaLink="false">realstory-julian-assange-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 02:24:48 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Byron: The Poet Who Fled for His Life</title>
       <description>George Gordon Byron, 6th Baron Byron (22 January 1788 – 19 April 1824), was a British poet. He was one of the major figures of the Romantic movement, and is regarded as being among the greatest British poets. Among his best-known works are the lengthy narratives Don Juan and Childe Harold's Pilgrimage; many of his shorter lyrics in Hebrew Melodies also became popular.
 Byron was educated at Trinity</description>
