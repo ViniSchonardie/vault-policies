@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>They Promised Free Europe. Stalin Got It All.</title>
+      <description>The Yalta Conference (Russian: Ялтинская конференция, romanized: Yaltinskaya konferentsiya), held 4–11 February 1945, was the World War II meeting of the heads of government of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Germany and Europe. The three states were represented by President Franklin D. Roosevelt, Prime Minister Winston Churchill</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/yalta-conference-20260828.mp3" type="audio/mpeg" length="1395840"/>
+      <guid isPermaLink="false">trials-yalta-conference-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 04:32:02 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Baptism by Immersion. A 400-Year Rebellion.</title>
       <description>Baptists are a Protestant tradition of Christianity distinguished by baptizing only believers (believer's baptism) and doing so by total immersion. Modern Baptist churches generally subscribe to the doctrines of soul competency (the responsibility and accountability of every person before God), sola fide (justification by faith alone), sola scriptura (the Bible as the sole infallible authority) an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/baptists-20260828.mp3" type="audio/mpeg" length="1361280"/>
