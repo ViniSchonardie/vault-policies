@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Door Plug Blows Out at 16,000 Feet. 177 Survive.</title>
+      <description>Alaska Airlines Flight 1282 was a scheduled domestic passenger flight operated by Alaska Airlines from Portland International Airport in Portland, Oregon, to Ontario International Airport in Ontario, California. Shortly after takeoff on January 5, 2024, a door plug on the Boeing 737 MAX 9 aircraft blew out, causing an uncontrolled decompression of the aircraft. 
+The aircraft returned to Portland f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-1282-on-5-january-2024-20260828.mp3" type="audio/mpeg" length="1348224"/>
+      <guid isPermaLink="false">aviation-alaska-airlines-flight-1282-on-5-january-2024-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 01:38:27 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korean Air 801. 229 Dead. Wrong Signal.</title>
       <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20260827.mp3" type="audio/mpeg" length="1246080"/>
