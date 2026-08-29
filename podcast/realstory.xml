@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>William Wallace. History Lied About His End.</title>
+      <description>Sir William Wallace (Scottish Gaelic: Uilleam Uallas, pronounced [ˈɯʎam ˈuəl̪ˠəs̪]; Norman French: William le Waleys; c. 1270 – 23 August 1305) was a Scottish knight who became one of the main leaders during the First War of Scottish Independence.
+Along with Andrew Moray, Wallace defeated an English army at the Battle of Stirling Bridge in September 1297. He was appointed Guardian of Scotland and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/william-wallace-20260829.mp3" type="audio/mpeg" length="1290624"/>
+      <guid isPermaLink="false">realstory-william-wallace-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 00:10:57 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tolstoy. The Genius Who Wanted to Die Poor.</title>
       <description>Count Lev Nikolayevich Tolstoy (; Russian: Лев Николаевич Толстой, IPA: [ˈlʲef nʲɪkɐˈla(j)ɪvʲɪtɕ tɐlˈstoj] ; 9 September [O.S. 28 August] 1828 – 20 November [O.S. 7 November] 1910), usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.
 Born to an aristocratic family, Tolstoy achieved  acclaim in his twen</description>
