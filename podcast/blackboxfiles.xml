@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>46 Dead. Track Refurbed May 2025. What Broke It.</title>
+      <description>On 18 January 2026, a high-speed passenger train derailed in the municipality of Adamuz, in the province of Córdoba, Spain. The derailment occurred on a straight section of the Madrid–Seville high-speed rail line that was last refurbished in May 2025. A second train crashed into it and was also derailed. The incident killed 46 people and injured 292 others, including 15 in critical condition. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2026-adamuz-train-derailments-20260829.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">aviation-2026-adamuz-train-derailments-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 19:54:25 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BEA Flight 548. 118 Dead. The Argument.</title>
       <description>British European Airways Flight 548 was a scheduled passenger flight from London Heathrow to Brussels that crashed near Staines, England, United Kingdom, shortly after take-off on 18 June 1972, killing all 118 people on board. The accident became known as the Staines air disaster. As of 2026, it remains the deadliest air accident (as opposed to terrorist incidents) to have occurred in the UK and w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-european-airways-flight-548-20260829.mp3" type="audio/mpeg" length="1360128"/>
