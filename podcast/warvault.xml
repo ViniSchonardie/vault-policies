@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Okinawa. 82 Days. 250,000 Dead.</title>
+      <description>The Battle of Okinawa (Japanese: 沖縄戦, Hepburn: Okinawa-sen), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by the United States Army and United States Marine Corps forces against the Imperial Japanese Army. The initial invasion of Okinawa on 1 April 1945 was the largest amphibious assault in the Pacific Theater of World War II. The Kerama Island</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-okinawa-20260829.mp3" type="audio/mpeg" length="1255680"/>
+      <guid isPermaLink="false">warvault-battle-of-okinawa-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 01:16:43 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pinochet. 17 Years. 3,000 Dead.</title>
       <description>Augusto José Ramón Pinochet Ugarte (25 November 1915 – 10 December 2006) was a Chilean army officer and military dictator who ruled Chile from 1973 to 1990. He led the military junta that overthrew President Salvador Allende in 1973 and established a military dictatorship. He was proclaimed President of Chile in 1974 and served until 1990, when he stepped down to pave the way for democratic electi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/augusto-pinochet-20260828.mp3" type="audio/mpeg" length="1343616"/>
