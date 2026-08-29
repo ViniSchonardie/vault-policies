@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Van Buren: The President Nobody Remembers</title>
+      <description>Martin Van Buren (born Maarten Van Buren, December 5, 1782 – July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. Van Buren co-founded the Democratic Party with Andrew Jackson and became Jackson's vice president from 1833 to 1837.
+Van Buren was born in Kinderhook, New York, where most residents were of Dutch descent and spoke Dutch as their primary language. He </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/martin-van-buren-20260829.mp3" type="audio/mpeg" length="1464960"/>
+      <guid isPermaLink="false">realstory-martin-van-buren-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 01:58:49 GMT</pubDate>
+      <itunes:duration>92</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>William Wallace. History Lied About His End.</title>
       <description>Sir William Wallace (Scottish Gaelic: Uilleam Uallas, pronounced [ˈɯʎam ˈuəl̪ˠəs̪]; Norman French: William le Waleys; c. 1270 – 23 August 1305) was a Scottish knight who became one of the main leaders during the First War of Scottish Independence.
 Along with Andrew Moray, Wallace defeated an English army at the Battle of Stirling Bridge in September 1297. He was appointed Guardian of Scotland and </description>
