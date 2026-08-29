@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TM-18: 420 Days Alone in Space</title>
+      <description>Soyuz TM-18 was launched from Baikonur Cosmodrome and landed 112 km north of Arkalyk. TM-18 was a two-day solo flight that docked with the Mir space station on January 10, 1994. The three cosmonauts became the 15th resident crew on board Mir. The crew did research work in space flight medicine, primarily by cosmonaut Valeri Polyakov during his long-term flight, and accomplished 25 different experi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-18-20260829.mp3" type="audio/mpeg" length="1345152"/>
+      <guid isPermaLink="false">space-soyuz-tm-18-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 02:54:38 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Enceladus Explorer: Drilling 660 Feet for Alien Life</title>
       <description>Enceladus Explorer (EnEx) is a proposed interplanetary orbiter and lander concept equipped with a subsurface maneuverable ice melting probe suitable to assess the existence of life on Saturn's moon Enceladus.
 The astrobiology Enceladus Explorer project is funded by the German Aerospace Center (DLR), and is carried out by a research consortium of seven German universities. This collaborative projec</description>
