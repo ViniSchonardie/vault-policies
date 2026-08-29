@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cave Bear: 600lb Vegetarian. Why It Vanished.</title>
+      <description>The cave bear (Ursus spelaeus) is a prehistoric species of bear that lived in Europe and Asia during the Pleistocene and became extinct about 24,000 years ago during the Last Glacial Maximum.
+The common and scientific name for the species comes from their remains having been found largely in caves. This reflects the views of experts that cave bears spent more time in caves than the brown bear, fre</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cave-bear-20260829.mp3" type="audio/mpeg" length="1256448"/>
+      <guid isPermaLink="false">prehistoric-cave-bear-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 16:45:15 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>They Ruled for 165 Million Years. Then Vanished.</title>
       <description>Titanosaurs (or titanosaurians; members of the group Titanosauria) were a diverse group of sauropod dinosaurs, including genera from every continent. The titanosaurs were the last surviving group of long-necked sauropods, with taxa still thriving at the time of the extinction event at the end of the Cretaceous. This group includes some of the largest land animals known to have ever existed, such a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/titanosauria-20260829.mp3" type="audio/mpeg" length="1127808"/>
