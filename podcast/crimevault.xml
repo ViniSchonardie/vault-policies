@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Negan: The Tyrant Who Ruled The Walking Dead</title>
+      <description>Negan is a fictional character in the comic book series The Walking Dead, its self-titled television adaptation, and its spin-off miniseries Dead City. The character is fully named Negan Smith in the television series. He initially appears as an antagonist, the leader of the Saviors who oppresses other survivor communities and forces them to pay tribute, later he becomes an antihero. In the comics</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/negan-20260829.mp3" type="audio/mpeg" length="1274880"/>
+      <guid isPermaLink="false">crime-negan-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 03:29:34 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boston Strangler: Confessed. Never Convicted. DNA Proved It 50 Years Later.</title>
       <description>Albert Henry DeSalvo (September 3, 1931 – November 25, 1973), also known as the Green Man or the Measuring Man, was an American murderer and rapist who was active in Boston, Massachusetts, in the early 1960s. He is known for having confessed to being the "Boston Strangler," a serial killer who murdered thirteen women in the Boston area between 1962 and 1964. DeSalvo's murder confessions were deeme</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-desalvo-20260829.mp3" type="audio/mpeg" length="1292160"/>
