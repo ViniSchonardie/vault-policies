@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>BEA Flight 548. 118 Dead. The Argument.</title>
+      <description>British European Airways Flight 548 was a scheduled passenger flight from London Heathrow to Brussels that crashed near Staines, England, United Kingdom, shortly after take-off on 18 June 1972, killing all 118 people on board. The accident became known as the Staines air disaster. As of 2026, it remains the deadliest air accident (as opposed to terrorist incidents) to have occurred in the UK and w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-european-airways-flight-548-20260829.mp3" type="audio/mpeg" length="1360128"/>
+      <guid isPermaLink="false">aviation-british-european-airways-flight-548-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 17:51:00 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flight 102. 7 Dead. Cargo Killed Them All.</title>
       <description>National Airlines Flight 102 (N8102/NCR102) was a cargo flight operated by National Airlines between Camp Shorabak (formerly Camp Bastion) near the city of Lashkargah in Afghanistan and Al Maktoum Airport in Dubai, with a refueling stop at Bagram Airfield, Afghanistan. On 29 April 2013, the Boeing 747-400 operating the flight crashed within the perimeter of the Bagram Airfield moments after taking</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/national-airlines-flight-102-20260829.mp3" type="audio/mpeg" length="1288320"/>
