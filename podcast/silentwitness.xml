@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Meeting That Planned the Holocaust</title>
+      <description>The Wannsee Conference (German: Wannseekonferenz, German pronunciation: [ˈvanzeːkɔnfeˌʁɛnt͡s] ) was a meeting of senior government officials of Nazi Germany and Schutzstaffel (SS) leaders, held in the Berlin suburb of Wannsee on 20 January 1942. The purpose of the conference, called by the director of the Reich Security Main Office SS-Obergruppenführer Reinhard Heydrich, was to ensure the co-opera</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/wannsee-conference-20260829.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">trials-wannsee-conference-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 04:23:27 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Convicted. Lynched. Innocent. The Leo Frank Case.</title>
       <description>Leo Max Frank (April 17, 1884 – August 17, 1915) was an American lynching victim wrongly convicted of the murder of 13-year-old Mary Phagan, an employee in a factory in Atlanta, Georgia, where he was the superintendent. Frank's trial, conviction, and unsuccessful appeals attracted national attention. His kidnapping from prison and lynching became the focus of social, regional, political, and racia</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/leo-frank-20260829.mp3" type="audio/mpeg" length="1188864"/>
