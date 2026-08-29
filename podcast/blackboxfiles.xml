@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>USAir 427. 132 Dead. The Rudder Betrayed.</title>
+      <description>USAir Flight 427 was a scheduled flight from Chicago's O'Hare International Airport to Palm Beach International Airport, Florida, with a stopover at Pittsburgh International Airport. On Thursday, September 8, 1994, the Boeing 737-300 flying this route crashed in Hopewell Township, Beaver County, Pennsylvania while approaching Runway 28R at Pittsburgh, which was USAir's largest hub at the time.
+Thi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/usair-flight-427-20260829.mp3" type="audio/mpeg" length="1385088"/>
+      <guid isPermaLink="false">aviation-usair-flight-427-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 01:06:31 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SQ006. 83 Dead. Wrong Runway.</title>
       <description>Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport via Chiang Kai-shek International Airport (now known as Taoyuan International Airport) near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time (14:18 UTC), the Boeing 747-400 operating the flight attempted to take off from the wrong runway at </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-006-20260828.mp3" type="audio/mpeg" length="1118592"/>
