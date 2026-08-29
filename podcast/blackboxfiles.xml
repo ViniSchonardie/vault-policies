@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flight 102. 7 Dead. Cargo Killed Them All.</title>
+      <description>National Airlines Flight 102 (N8102/NCR102) was a cargo flight operated by National Airlines between Camp Shorabak (formerly Camp Bastion) near the city of Lashkargah in Afghanistan and Al Maktoum Airport in Dubai, with a refueling stop at Bagram Airfield, Afghanistan. On 29 April 2013, the Boeing 747-400 operating the flight crashed within the perimeter of the Bagram Airfield moments after taking</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/national-airlines-flight-102-20260829.mp3" type="audio/mpeg" length="1288320"/>
+      <guid isPermaLink="false">aviation-national-airlines-flight-102-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 03:16:41 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>USAir 427. 132 Dead. The Rudder Betrayed.</title>
       <description>USAir Flight 427 was a scheduled flight from Chicago's O'Hare International Airport to Palm Beach International Airport, Florida, with a stopover at Pittsburgh International Airport. On Thursday, September 8, 1994, the Boeing 737-300 flying this route crashed in Hopewell Township, Beaver County, Pennsylvania while approaching Runway 28R at Pittsburgh, which was USAir's largest hub at the time.
 Thi</description>
