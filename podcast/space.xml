@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 15: 2 Cosmonauts Stranded in Space</title>
+      <description>Soyuz 15 (Russian: Союз 15, Union 15) was an August 1974 crewed space flight which was to have been the second mission to the Soviet Union's Salyut 3 space station with presumably military objectives.
+Launched 26 August 1974, the Soyuz spacecraft arrived at the station, but cosmonauts Gennady Sarafanov and Lev Dyomin were unable to dock because the electronics in the Igla docking system malfunctio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-15-20260829.mp3" type="audio/mpeg" length="1382016"/>
+      <guid isPermaLink="false">space-soyuz-15-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 17:18:04 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TM-18: 420 Days Alone in Space</title>
       <description>Soyuz TM-18 was launched from Baikonur Cosmodrome and landed 112 km north of Arkalyk. TM-18 was a two-day solo flight that docked with the Mir space station on January 10, 1994. The three cosmonauts became the 15th resident crew on board Mir. The crew did research work in space flight medicine, primarily by cosmonaut Valeri Polyakov during his long-term flight, and accomplished 25 different experi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-18-20260829.mp3" type="audio/mpeg" length="1345152"/>
