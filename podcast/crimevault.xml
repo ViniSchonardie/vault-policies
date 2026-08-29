@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Boston Strangler: Confessed. Never Convicted. DNA Proved It 50 Years Later.</title>
+      <description>Albert Henry DeSalvo (September 3, 1931 – November 25, 1973), also known as the Green Man or the Measuring Man, was an American murderer and rapist who was active in Boston, Massachusetts, in the early 1960s. He is known for having confessed to being the "Boston Strangler," a serial killer who murdered thirteen women in the Boston area between 1962 and 1964. DeSalvo's murder confessions were deeme</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-desalvo-20260829.mp3" type="audio/mpeg" length="1292160"/>
+      <guid isPermaLink="false">crime-albert-desalvo-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 01:28:20 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Built a $1B Drug Empire. Then Got Pardoned.</title>
       <description>Ross William Ulbricht (; born March 27, 1984) is an American cybercriminal who created and operated Silk Road, the first modern darknet market, from 2011 until his arrest in 2013. Silk Road was an online marketplace that facilitated the trade in narcotics and other illegal products and services. Sales were anonymous, using bitcoin. It operated as a hidden service on the Tor network. Ulbricht ran t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ross-ulbricht-20260828.mp3" type="audio/mpeg" length="1465344"/>
