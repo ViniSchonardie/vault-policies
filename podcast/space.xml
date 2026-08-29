@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TM-16: The Docking System That Changed Space</title>
+      <description>Soyuz TM-16 was the sixteenth expedition to the Russian Space Station Mir.
+The Soyuz-TM crew transports (T - транспортный - Transportnyi - meaning transport, M - модифицированный - Modifitsirovannyi- meaning modified) were fourth generation (1986–2002) Soyuz spacecraft used for ferry flights to the Mir and ISS space stations. It added to the Soyuz-T new docking and rendezvous, radio communications</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-16-20260829.mp3" type="audio/mpeg" length="1521792"/>
+      <guid isPermaLink="false">space-soyuz-tm-16-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:58 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 15: 2 Cosmonauts Stranded in Space</title>
       <description>Soyuz 15 (Russian: Союз 15, Union 15) was an August 1974 crewed space flight which was to have been the second mission to the Soviet Union's Salyut 3 space station with presumably military objectives.
 Launched 26 August 1974, the Soyuz spacecraft arrived at the station, but cosmonauts Gennady Sarafanov and Lev Dyomin were unable to dock because the electronics in the Igla docking system malfunctio</description>
