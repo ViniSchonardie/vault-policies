@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Perfect Crime: Why Torture Still Works</title>
+      <description>Torture is the deliberate infliction of severe pain or suffering on a person for reasons including punishment, extracting a confession, interrogation for information, or intimidating third parties.
+Some definitions restrict torture to acts carried out by the state, while others include non-state actors. Most victims of torture are poor and marginalized people suspected of crimes, although torture </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/torture-20260829.mp3" type="audio/mpeg" length="1494912"/>
+      <guid isPermaLink="false">trials-torture-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 22:51:15 GMT</pubDate>
+      <itunes:duration>93</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>They Won Power. Then Lost Everything.</title>
       <description>The Puritans were English Protestants in the 16th and 17th centuries who sought to rid the Church of England of what they considered to be Roman Catholic practices, maintaining that the Church of England had not been fully reformed and should become more Protestant. Puritanism played a significant role in English and early American history, especially in the Protectorate in Great Britain, and the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/puritans-20260829.mp3" type="audio/mpeg" length="1191552"/>
