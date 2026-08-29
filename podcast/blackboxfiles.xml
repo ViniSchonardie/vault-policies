@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Med Jets Flight 056. 8 Dead. 40 Seconds.</title>
+      <description>Med Jets Flight 056 was a medevac flight from Northeast Philadelphia Airport to Tijuana International Airport with a planned refueling stop at Springfield–Branson National Airport, operated by Jet Rescue Air Ambulance. On January 31, 2025, a Learjet 55 operating that flight crashed in the Castor Gardens neighborhood of Philadelphia, Pennsylvania, shortly after takeoff, killing everyone on board an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/med-jets-flight-056-20260829.mp3" type="audio/mpeg" length="1318272"/>
+      <guid isPermaLink="false">aviation-med-jets-flight-056-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 23:30:09 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>46 Dead. Track Refurbed May 2025. What Broke It.</title>
       <description>On 18 January 2026, a high-speed passenger train derailed in the municipality of Adamuz, in the province of Córdoba, Spain. The derailment occurred on a straight section of the Madrid–Seville high-speed rail line that was last refurbished in May 2025. A second train crashed into it and was also derailed. The incident killed 46 people and injured 292 others, including 15 in critical condition. The </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2026-adamuz-train-derailments-20260829.mp3" type="audio/mpeg" length="1289472"/>
