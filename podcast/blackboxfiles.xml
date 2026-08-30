@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>USAir 405. 27 Dead. Ice They Couldn't See.</title>
+      <description>USAir Flight 405 was a regularly scheduled American domestic passenger flight between LaGuardia Airport in New York City and Cleveland, Ohio. On March 22, 1992, the Fokker 28 operating the flight crashed in poor weather in a partially inverted position in Flushing Bay, shortly after liftoff from LaGuardia. The undercarriage lifted off from the runway, but the airplane failed to gain lift, flying o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/usair-flight-405-20260830.mp3" type="audio/mpeg" length="1291392"/>
+      <guid isPermaLink="false">aviation-usair-flight-405-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 23:41:22 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Extortion 17. 38 Dead. The Lucky Shot.</title>
       <description>On 6 August 2011, a U.S. CH-47D Chinook military helicopter operating with the call sign Extortion 17 (pronounced "Extortion one-seven") was shot down while transporting a Quick Reaction Force attempting to reinforce a Joint Special Operations Command unit of the 75th Ranger Regiment in the Tangi Valley in Maidan Wardak province, southwest of Kabul, Afghanistan.
 The resulting crash killed all thir</description>
