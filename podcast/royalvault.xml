@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Palaces Nobody Knows Britain Runs</title>
+      <description>Historic Royal Palaces is an independent charity that manages the United Kingdom's unoccupied royal palaces:
+
+The Tower of London
+Hampton Court Palace
+The State Apartments and Orangery at Kensington Palace
+The Banqueting House, Whitehall
+Kew Palace with Queen Charlotte's Cottage and Great Pagoda at Kew Gardens
+Historic Royal Palaces is also responsible for Hillsborough Castle in the north-west of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/historic-royal-palaces-20260830.mp3" type="audio/mpeg" length="1443456"/>
+      <guid isPermaLink="false">royal-historic-royal-palaces-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 21:47:19 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Man Who Pretended To Be A King</title>
       <description>The Roman emperor was the ruler of the Roman Empire, starting with the granting of the title augustus to Octavian in 27 BC. The title of imperator, originally a military honorific, was usually used alongside caesar, originally a cognomen. When a given Roman is described as becoming emperor in English, it generally reflects his accession as augustus, and later as basileus. Early emperors also used </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/roman-emperor-20260830.mp3" type="audio/mpeg" length="1298304"/>
