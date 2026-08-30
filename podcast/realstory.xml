@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jesse James. Robin Hood Was A Lie.</title>
+      <description>Jesse Woodson James (September 5, 1847 – April 3, 1882) was an American outlaw, bank and train robber, guerrilla and leader of the James–Younger Gang. Raised a Southern sympathizer in the "Little Dixie" area of Missouri, James and his brother Frank joined pro-Confederate guerrillas known as "bushwhackers" operating in Missouri and Kansas during the American Civil War. As followers of William Quant</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/jesse-james-20260830.mp3" type="audio/mpeg" length="1178496"/>
+      <guid isPermaLink="false">realstory-jesse-james-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 23:53:13 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Voltaire. The Man Who Beat the System.</title>
       <description>François-Marie Arouet (French: [fʁɑ̃swa maʁi aʁwɛ]; 21 November 1694 – 30 May 1778), known by his pen name Voltaire (, US also ; French: [vɔltɛːʁ]), was a French Enlightenment writer, philosopher (philosophe), satirist, and historian. Famous for his wit and his criticism of Christianity (especially of the Catholic Church) and of slavery, Voltaire was an advocate of freedom of speech, freedom of re</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/voltaire-20260830.mp3" type="audio/mpeg" length="1326336"/>
