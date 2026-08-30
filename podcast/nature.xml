@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tiger Shark. Eats Everything.</title>
+      <description>The tiger shark (Galeocerdo cuvier) is a species of ground shark, and the only extant member of the genus Galeocerdo and family Galeocerdonidae. It is a large predator, with females capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands. Its name derives from the dark stripes down its body, whic</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/tiger-shark-20260830.mp3" type="audio/mpeg" length="1108224"/>
+      <guid isPermaLink="false">nature-tiger-shark-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 19:21:38 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Green Anaconda. World's Heaviest Snake.</title>
       <description>The green anaconda (Eunectes murinus), common anaconda, common water boa, akayima, or sucuri, is a boa species found in South America. It is one of the longest and heaviest known extant snake species. Like all boas, it is a non-venomous constrictor. Green anacondas generally have a life expectancy of 10 years in the wild, although some specimens live longer when they are taken care of in captivity</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/green-anaconda-20260830.mp3" type="audio/mpeg" length="1440000"/>
