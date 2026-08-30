@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 24: Toxic Fumes in Orbit</title>
+      <description>Soyuz 24 (Russian: Союз 24, Union 24) was a February, 1977, Soviet mission to the Salyut 5 space station, the third and final mission to the station, the last purely military crew for the Soviets and the final mission to a military Salyut. The cosmonauts Viktor Gorbatko and Yuri Glazkov re-activated the station after toxic fumes had apparently terminated the mission of Soyuz 21, the previous crew.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-24-20260830.mp3" type="audio/mpeg" length="1402368"/>
+      <guid isPermaLink="false">space-soyuz-24-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 22:51:10 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz TM-15: France in Orbit</title>
       <description>Soyuz TM-15 was the 15th expedition to the Mir space station. It included spationaut Michel Tognini from France. The Soyuz TM-15 flight set what was then a new Soyuz spacecraft on orbit endurance record.
 
