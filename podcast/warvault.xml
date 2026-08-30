@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>8,000 Dead. The UN Watched.</title>
+      <description>The Srebrenica massacre, also known as the Srebrenica genocide, was the July 1995 genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica during the Bosnian War. It was mainly perpetrated by units of the Bosnian Serb Army of Republika Srpska under Ratko Mladić, though the Serb paramilitary unit Scorpions also participated. In addition, 25,000 to 30,000 Bosnia</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/srebrenica-massacre-20260830.mp3" type="audio/mpeg" length="1483008"/>
+      <guid isPermaLink="false">warvault-srebrenica-massacre-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 17:52:03 GMT</pubDate>
+      <itunes:duration>93</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arnhem Bridge. 10,000 Men. Only 2,000 Escaped.</title>
       <description>Operation Market Garden was an Allied military operation during the Second World War fought in the German-occupied Netherlands from 17 to 25 September 1944. Its objective was to create a salient spanning 62 miles (100 km) into German territory with a bridgehead over the Nederrijn (Lower Rhine River), creating an Allied invasion route into northern Germany. This was to be achieved by two sub-operat</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/operation-market-garden-20260829.mp3" type="audio/mpeg" length="1373568"/>
