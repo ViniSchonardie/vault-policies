@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How the Mafia Actually Works. It's Not What You Think.</title>
+      <description>Informally or generally, a mafia is any of various criminal organizations that include, or bear a strong similarity to, the original Sicilian Mafia, the Italian-American Mafia, or other Italian organized crime groups. The central activity of such an organization would be the arbitration of disputes between criminals, as well as the organization and enforcement of illicit agreements between crimina</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/mafia-20260830.mp3" type="audio/mpeg" length="1429248"/>
+      <guid isPermaLink="false">drugempire-mafia-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 22:05:15 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How Drugs Destroy Lives: The Hidden Crime</title>
       <description>Drug-related crime involves possessing, manufacturing, or distributing drugs classified as having a potential for abuse (such as cocaine, heroin, morphine and amphetamines). Drugs are also related to crime as drug trafficking and drug production are often controlled by drug cartels, organised crime and gangs. Some drug-related crime involves crime against the person such as robbery or sexual assau</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/drug-related-crime-20260830.mp3" type="audio/mpeg" length="1537920"/>
