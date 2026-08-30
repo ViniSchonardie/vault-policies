@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southern Airways 932. 75 Dead. One Mistake.</title>
+      <description>Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. Ferguson Field (HTS) near Kenova and Ceredo, West Virginia. At 7:36 pm on November 14, 1970, the aircraft crashed into a hill just short of the Tri-State Airpo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southern-airways-flight-932-20260830.mp3" type="audio/mpeg" length="1236480"/>
+      <guid isPermaLink="false">aviation-southern-airways-flight-932-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 18:10:59 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Med Jets Flight 056. 8 Dead. 40 Seconds.</title>
       <description>Med Jets Flight 056 was a medevac flight from Northeast Philadelphia Airport to Tijuana International Airport with a planned refueling stop at Springfield–Branson National Airport, operated by Jet Rescue Air Ambulance. On January 31, 2025, a Learjet 55 operating that flight crashed in the Castor Gardens neighborhood of Philadelphia, Pennsylvania, shortly after takeoff, killing everyone on board an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/med-jets-flight-056-20260829.mp3" type="audio/mpeg" length="1318272"/>
