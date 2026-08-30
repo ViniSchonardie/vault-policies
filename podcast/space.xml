@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TM-15: France in Orbit</title>
+      <description>Soyuz TM-15 was the 15th expedition to the Mir space station. It included spationaut Michel Tognini from France. The Soyuz TM-15 flight set what was then a new Soyuz spacecraft on orbit endurance record.
+
+
+== Crew ==
+
+
+== Mission highlights ==
+Michel Tognini, passenger aboard Soyuz- TM 15, was the third Frenchman to visit a space station. He conducted ten experiments using 300 kg of equipment deli</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tm-15-20260830.mp3" type="audio/mpeg" length="1409664"/>
+      <guid isPermaLink="false">space-soyuz-tm-15-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 19:25:34 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 16: The Secret Rehearsal for Peace</title>
       <description>Soyuz 16 (Russian: Союз 16, Union 16) was a December, 1974, crewed test flight for a joint Soviet-United States space flight which culminated in the Apollo–Soyuz mission in July 1975. The two-man Soviet crew, Anatoly Filipchenko and Nikolai Rukavishnikov, tested a docking ring and other systems to be used in the joint flight.
 
