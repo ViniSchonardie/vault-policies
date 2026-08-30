@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Green Anaconda. World's Heaviest Snake.</title>
+      <description>The green anaconda (Eunectes murinus), common anaconda, common water boa, akayima, or sucuri, is a boa species found in South America. It is one of the longest and heaviest known extant snake species. Like all boas, it is a non-venomous constrictor. Green anacondas generally have a life expectancy of 10 years in the wild, although some specimens live longer when they are taken care of in captivity</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/green-anaconda-20260830.mp3" type="audio/mpeg" length="1440000"/>
+      <guid isPermaLink="false">nature-green-anaconda-20260830</guid>
+      <pubDate>Sun, 30 Aug 2026 16:41:16 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sea Otter. 150,000 Hairs Per Square Cm.</title>
       <description>The sea otter (Enhydra lutris) is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean. Adult sea otters typically weigh between 14 and 45 kg (30–100 lb), making them the heaviest members of the weasel family, but among the smallest marine mammals. Unlike most marine mammals, the sea otter's primary form of insulation is an exceptionally thick coat of fur, the dense</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/sea-otter-20260829.mp3" type="audio/mpeg" length="1363584"/>
