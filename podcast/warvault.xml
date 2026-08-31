@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>77,000 Troops. 100 Cities. One Catastrophic Miscalculation.</title>
+      <description>The Tet Offensive was both a major escalation and one of the largest military campaigns of the Vietnam War. The North Vietnamese People's Army of Vietnam (PAVN) and the Viet Cong (VC) launched a surprise attack on 30 and 31 January 1968 against the forces of the South Vietnamese Army of the Republic of Vietnam (ARVN), the United States Armed Forces and their allies, targeting military and civilian</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/tet-offensive-20260831.mp3" type="audio/mpeg" length="1501824"/>
+      <guid isPermaLink="false">warvault-tet-offensive-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 19:48:18 GMT</pubDate>
+      <itunes:duration>94</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bloodiest Day. 22,726 Dead. One Mistake Changed It All.</title>
       <description>The Battle of Antietam ( an-TEE-təm), also called the Battle of Sharpsburg, particularly in the Southern United States, took place during the American Civil War on September 17, 1862, between Confederate General Robert E. Lee's Army of Northern Virginia and Union Major General George B. McClellan's Army of the Potomac near Sharpsburg, Maryland, and Antietam Creek. Part of the Maryland Campaign, it</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-antietam-20260830.mp3" type="audio/mpeg" length="1459968"/>
