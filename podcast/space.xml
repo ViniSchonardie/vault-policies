@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz T-2: The Computer That Almost Cost Two Lives</title>
+      <description>Soyuz T-2 (Russian: Союз T-2, Union T-2) was a 1980 Soviet crewed space flight to the Salyut 6 space station. It was the 12th mission to and 10th successful docking at the orbiting facility. The Soyuz T-2 crew were the second to visit the long-duration Soyuz 35 resident crew.
+Soyuz T-2 carried Yury Malyshev and Vladimir Aksyonov into space. A mission lasting under four days, its primary purpose wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-t-2-20260831.mp3" type="audio/mpeg" length="1400064"/>
+      <guid isPermaLink="false">space-soyuz-t-2-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 19:36:54 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 24: Toxic Fumes in Orbit</title>
       <description>Soyuz 24 (Russian: Союз 24, Union 24) was a February, 1977, Soviet mission to the Salyut 5 space station, the third and final mission to the station, the last purely military crew for the Soviets and the final mission to a military Salyut. The cosmonauts Viktor Gorbatko and Yuri Glazkov re-activated the station after toxic fumes had apparently terminated the mission of Soyuz 21, the previous crew.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-24-20260830.mp3" type="audio/mpeg" length="1402368"/>
