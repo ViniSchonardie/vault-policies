@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nurse Predicted Her Death. Then Injected Her.</title>
+      <description>Colin Campbell Norris is a British serial killer who was convicted of the murder of four elderly patients and the attempted murders of two others in two hospitals in Leeds, England, in 2002.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/colin-norris-20260831.mp3" type="audio/mpeg" length="1328640"/>
+      <guid isPermaLink="false">crime-colin-norris-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 22:23:40 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spain's Werewolf: 13 Victims, One Impossible Defense</title>
       <description>Manuel Blanco Romasanta was Spain's first recorded serial killer. In 1853, he admitted to thirteen murders but claimed he was not responsible because he was suffering from a curse that caused him to turn into a wolf. Although this defence was rejected at trial, Queen Isabella II commuted his death sentence to allow doctors to investigate the claim as an example of clinical lycanthropy. Blanco has </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/manuel-blanco-romasanta-20260831.mp3" type="audio/mpeg" length="1243776"/>
