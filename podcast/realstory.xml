@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>John Locke. The Spy Nobody Knew.</title>
+      <description>John Locke (; 29 August 1632 – 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of the Enlightenment thinkers and commonly known as the "father of liberalism". His important works include A Letter Concerning Toleration (1689), Two Treatises of Government (1689/90), both published anonymously, and An Essay Concerning Human Understanding (1689</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/john-locke-20260831.mp3" type="audio/mpeg" length="1300224"/>
+      <guid isPermaLink="false">realstory-john-locke-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 23:05:55 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Euler. The Genius Who Invented Math Itself.</title>
       <description>Leonhard Euler ( OY-lər; 15 April 1707 – 18 September 1783) was a Swiss polymath who was active as a mathematician, physicist, astronomer, logician, geographer, music theorist and engineer. He founded the studies of graph theory and topology and made influential discoveries in many other branches of mathematics, such as analytic number theory, complex analysis, and infinitesimal calculus. He also </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leonhard-euler-20260831.mp3" type="audio/mpeg" length="1317504"/>
