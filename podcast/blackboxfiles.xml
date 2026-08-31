@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>AA Flight 965. 159 Dead. One Second.</title>
+      <description>American Airlines Flight 965 was a regularly scheduled flight from Miami International Airport in Miami, Florida, to Alfonso Bonilla Aragón International Airport in Cali, Colombia. On December 20, 1995, the Boeing 757-200 flying this route (registration N651AA) crashed into a mountain in Buga, Colombia, around 9:40 pm local time killing 151 of the 155 passengers and all 8 crew members.
+The Colombi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-965-20260831.mp3" type="audio/mpeg" length="1358208"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-965-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 22:02:33 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>B-52 Crashed With 4 Nuclear Bombs</title>
       <description>The Palomares accident occurred on 17 January 1966, when a United States Air Force B-52G bomber collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, near the Spanish village of Palomares in Almería province. The collision destroyed the tanker, killing all four crew members, and caused the bomber to break apart, resulting in the deaths of three</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1966-palomares-b-52-crash-20260831.mp3" type="audio/mpeg" length="1211904"/>
