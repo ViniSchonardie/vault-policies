@@ -17,6 +17,21 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Kitsune: The Fox That Stole Your Soul</title>
+      <description>The kitsune (狐, きつね; IPA: [kʲi̥t͡sɨne̞] ), in popular Japanese folklore, is a fox or fox spirit which possesses the supernatural ability to shapeshift or bewitch other life forms.
+
+
+== General overview ==
+
+Kitsune, though literally a 'fox', becomes in folklore a 'fox spirit', and a type of yōkai. They are ascribed intelligence and magical or supernatural powers, especially with long-living foxes.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/kitsune-20260831.mp3" type="audio/mpeg" length="1409664"/>
+      <guid isPermaLink="false">mythology-kitsune-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 23:49:42 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morgan le Fay Killed Arthur. Then Saved Him.</title>
       <description>Morgan le Fay (; Welsh and Cornish: Morgen; Modern French: Fée Morgane), alternatively known as Morgan[n]a, Morgain[a/e], Morgant[e], Morg[a]ne, Morgayn[e], Morgein[e], and Morgue[in] among other names and spellings, is a powerful and ambiguous enchantress from the legend of King Arthur, in which most often she and he are siblings. According to the different authors, she is a fairy or a human; ben</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/mythology-audio/morgan-le-fay-20260831.mp3" type="audio/mpeg" length="1145088"/>
