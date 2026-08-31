@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>B-52 Crashed With 4 Nuclear Bombs</title>
+      <description>The Palomares accident occurred on 17 January 1966, when a United States Air Force B-52G bomber collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, near the Spanish village of Palomares in Almería province. The collision destroyed the tanker, killing all four crew members, and caused the bomber to break apart, resulting in the deaths of three</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1966-palomares-b-52-crash-20260831.mp3" type="audio/mpeg" length="1211904"/>
+      <guid isPermaLink="false">aviation-1966-palomares-b-52-crash-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 20:17:41 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>USAir 405. 27 Dead. Ice They Couldn't See.</title>
       <description>USAir Flight 405 was a regularly scheduled American domestic passenger flight between LaGuardia Airport in New York City and Cleveland, Ohio. On March 22, 1992, the Fokker 28 operating the flight crashed in poor weather in a partially inverted position in Flushing Bay, shortly after liftoff from LaGuardia. The undercarriage lifted off from the runway, but the airplane failed to gain lift, flying o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/usair-flight-405-20260830.mp3" type="audio/mpeg" length="1291392"/>
