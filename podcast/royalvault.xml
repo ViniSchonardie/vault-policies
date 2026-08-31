@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Empire That Ruled Europe for 646 Years</title>
+      <description>The Habsburg monarchy, also known as the Habsburg Empire or Habsburg Realm (), and Danube Monarchy, was the collection of empires, kingdoms, duchies, counties and other polities (composite monarchy) that were ruled by the House of Habsburg. From 1804 it was referred to as the Austrian Empire, and from 1867 as Austria-Hungary.
+The history of the Habsburg monarchy can be traced back to the election </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/habsburg-monarchy-20260831.mp3" type="audio/mpeg" length="1424640"/>
+      <guid isPermaLink="false">royal-habsburg-monarchy-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 01:01:43 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Palaces Nobody Knows Britain Runs</title>
       <description>Historic Royal Palaces is an independent charity that manages the United Kingdom's unoccupied royal palaces:
 
