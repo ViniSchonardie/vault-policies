@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz T-3: First Three-Person Crew in 9 Years</title>
+      <description>Soyuz T-3 was a Soviet spaceflight, launched on 27 November 1980 to the Salyut 6 space station.  It was the first Soyuz spacecraft to carry three cosmonauts following the fatal Soyuz 11 disaster in 1971.
+The mission was both an early flight of the new Soyuz-T variant craft, as well as one of the later flights to the Salyut 6 station, which had successfully received several crews and visiting craft</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-t-3-20260831.mp3" type="audio/mpeg" length="1335936"/>
+      <guid isPermaLink="false">space-soyuz-t-3-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 21:35:28 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz T-2: The Computer That Almost Cost Two Lives</title>
       <description>Soyuz T-2 (Russian: Союз T-2, Union T-2) was a 1980 Soviet crewed space flight to the Salyut 6 space station. It was the 12th mission to and 10th successful docking at the orbiting facility. The Soyuz T-2 crew were the second to visit the long-duration Soyuz 35 resident crew.
 Soyuz T-2 carried Yury Malyshev and Vladimir Aksyonov into space. A mission lasting under four days, its primary purpose wa</description>
