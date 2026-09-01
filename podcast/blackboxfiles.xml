@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean Air 007. 269 Dead. Shot Down Over Soviet Waters.</title>
+      <description>Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-lines-flight-007-crash-20260901.mp3" type="audio/mpeg" length="1248384"/>
+      <guid isPermaLink="false">aviation-korean-air-lines-flight-007-crash-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 17:58:36 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>JAL Flight 516. 367 Lived. One Runway Error.</title>
       <description>On 2 January 2024, a runway collision occurred at Haneda Airport in Tokyo, Japan, involving an Airbus A350, operating as Japan Airlines Flight 516, and a De Havilland Canada Dash 8 operated by the Japan Coast Guard (JA722A). Flight 516 was a scheduled domestic passenger flight from New Chitose Airport near Sapporo, Japan, to Haneda Airport in Tokyo. The Coast Guard plane was scheduled to deliver r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2024-haneda-airport-runway-collision-20260901.mp3" type="audio/mpeg" length="1077504"/>
