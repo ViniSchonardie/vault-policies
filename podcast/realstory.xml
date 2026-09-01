@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Einstein Failed His Entrance Exam</title>
+      <description>Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the known theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for "his serv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/albert-einstein-20260901.mp3" type="audio/mpeg" length="1332480"/>
+      <guid isPermaLink="false">realstory-albert-einstein-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 18:02:28 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lincoln's Assassin: The Actor Nobody Suspected</title>
       <description>On April 14, 1865, Abraham Lincoln, the 16th president of the United States, was shot at Ford's Theatre in Washington, D.C., one month into his second term and towards the conclusion of the American Civil War. Lincoln was watching the play Our American Cousin with his wife Mary Todd, Major Henry Rathbone, and Rathbone's fiancé Clara Harris when John Wilkes Booth, an actor and Confederate sympathiz</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-abraham-lincoln-20260901.mp3" type="audio/mpeg" length="1298304"/>
