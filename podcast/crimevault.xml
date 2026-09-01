@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Menendez Brothers: $700K Spent. Then Everything Unraveled.</title>
+      <description>Joseph Lyle Menendez (born January 10, 1968) and Erik Galen Menendez (born November 27, 1970), commonly referred to as the Menendez brothers, are American brothers convicted of killing their parents, José and Mary Louise "Kitty" Menendez, in their Beverly Hills home in 1989.
+Following the murders, Lyle and Erik claimed that unknown intruders were responsible for the murders, framing it as a potent</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lyle-and-erik-menendez-20260901.mp3" type="audio/mpeg" length="1098240"/>
+      <guid isPermaLink="false">crime-lyle-and-erik-menendez-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 20:29:34 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shōkō Asahara: Cult Leader Who Killed Tokyo</title>
       <description>Shoko Asahara , born Chizuo Matsumoto , was a Japanese cult leader and terrorist who founded and led the doomsday cult known as Aum Shinrikyo. He was convicted of masterminding the 1995 sarin gas attack on the Tokyo subway which killed 14 people and injured thousands more, and was also involved in several other assassinations and terrorist attacks. Asahara was sentenced to death in 2004, and his f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/shk-asahara-20260901.mp3" type="audio/mpeg" length="1378944"/>
