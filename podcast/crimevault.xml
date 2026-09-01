@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Shōkō Asahara: Cult Leader Who Killed Tokyo</title>
+      <description>Shoko Asahara , born Chizuo Matsumoto , was a Japanese cult leader and terrorist who founded and led the doomsday cult known as Aum Shinrikyo. He was convicted of masterminding the 1995 sarin gas attack on the Tokyo subway which killed 14 people and injured thousands more, and was also involved in several other assassinations and terrorist attacks. Asahara was sentenced to death in 2004, and his f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/shk-asahara-20260901.mp3" type="audio/mpeg" length="1378944"/>
+      <guid isPermaLink="false">crime-shk-asahara-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 17:23:04 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>George Chapman: Jack the Ripper Suspect Hanged</title>
       <description>Seweryn Antonowicz Kłosowski, better known under his pseudonym George Chapman, was a Victorian-era Anglo-Polish serial killer known as the Borough Poisoner.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/george-chapman-20260901.mp3" type="audio/mpeg" length="1235712"/>
