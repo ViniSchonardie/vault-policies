@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Kingdom That Unified in Blood: Norway's 1,150-Year Secret</title>
+      <description>Norway, officially the Kingdom of Norway, is a Nordic country comprising the western and northernmost parts of the Scandinavian Peninsula in Northern Europe, the remote Arctic island Jan Mayen and the archipelago Svalbard. Bouvet Island, located in the Subantarctic, is a dependency, and not a part of the Kingdom; Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land. N</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/norway-20260901.mp3" type="audio/mpeg" length="1119744"/>
+      <guid isPermaLink="false">royal-norway-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 18:06:01 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Phantom Dynasty Buried Under Sand</title>
       <description>The Abydos Dynasty is hypothesized to have been a short-lived local dynasty ruling over parts of Middle and Upper Egypt during the Second Intermediate Period in Ancient Egypt. The Abydos Dynasty would have been contemporaneous with the Fifteenth and Sixteenth Dynasties, from approximately 1650 to 1600 BC. It would have been based in or around Abydos and its royal necropolis might have been located</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/abydos-dynasty-20260901.mp3" type="audio/mpeg" length="1223424"/>
