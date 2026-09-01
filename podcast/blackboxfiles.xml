@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Polish President's Plane. 96 Dead. Fog, Fear, and Pressure.</title>
+      <description>On 10 April 2010, a Tupolev Tu-154 aircraft operating as Polish Air Force Flight PLF 101, crashed near the Russian city of Smolensk, killing all 96 people on board. Among the victims were the president of Poland, Lech Kaczyński, and a number of senior Polish military officers, Polish government officials, and members of the Polish clergy, as well as relatives of victims of the Katyn massacre. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/smolensk-air-disaster-20260901.mp3" type="audio/mpeg" length="1259136"/>
+      <guid isPermaLink="false">aviation-smolensk-air-disaster-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 21:13:58 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korean Air 007. 269 Dead. Shot Down Over Soviet Waters.</title>
       <description>Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-lines-flight-007-crash-20260901.mp3" type="audio/mpeg" length="1248384"/>
