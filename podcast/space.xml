@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Artemis II: First Humans Beyond Moon Since 1972</title>
+      <description>Artemis II (April 1–11, 2026) was a crewed flyby of the Moon. It was the first crewed flight beyond low Earth orbit since Apollo 17 in 1972, the first crewed flight of the NASA-led Artemis program, the first crewed flight of the Space Launch System (SLS), and the first crewed flight of the Orion spacecraft, named Integrity by the four-person crew.
+The mission was a test flight supporting the Artem</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/artemis-ii-20260901.mp3" type="audio/mpeg" length="1208832"/>
+      <guid isPermaLink="false">space-artemis-ii-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 17:27:21 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Virgin Galactic's Historic Return to Space</title>
       <description>Virgin Galactic Unity 25 was a sub-orbital spaceflight by Virgin Galactic that took place on 25 May 2023. The flight used their SpaceShipTwo spaceplane VSS Unity. The crew consisted of six Virgin Galactic employees. Unity 25 was the first spaceflight for the company since Unity 22 in 2021, when founder Richard Branson flew to space.
 
