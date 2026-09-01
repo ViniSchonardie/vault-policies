@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Challenger: 73 Seconds to Disaster</title>
+      <description>On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC (11:39:13 a.m. EST, local time at the launch site). It was the first fatal accident involving an American spacecraft while in flight.
+The missi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/space-shuttle-challenger-disaster-20260901.mp3" type="audio/mpeg" length="1276800"/>
+      <guid isPermaLink="false">space-space-shuttle-challenger-disaster-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 20:02:32 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Artemis II: First Humans Beyond Moon Since 1972</title>
       <description>Artemis II (April 1–11, 2026) was a crewed flyby of the Moon. It was the first crewed flight beyond low Earth orbit since Apollo 17 in 1972, the first crewed flight of the NASA-led Artemis program, the first crewed flight of the Space Launch System (SLS), and the first crewed flight of the Orion spacecraft, named Integrity by the four-person crew.
 The mission was a test flight supporting the Artem</description>
