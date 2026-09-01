@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Snowden: The Spy Who Exposed Everyone</title>
+      <description>Edward Joseph Snowden (born June 21, 1983) is an American whistleblower who, as a National Security Agency (NSA) intelligence contractor, disclosed classified documents revealing the existence of global surveillance programs.
+Born in 1983 in Elizabeth City, North Carolina, he attended a community college and later enrolled in a master's programme at the University of Liverpool without finishing it</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/edward-snowden-20260901.mp3" type="audio/mpeg" length="1268352"/>
+      <guid isPermaLink="false">realstory-edward-snowden-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 21:23:38 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Einstein Failed His Entrance Exam</title>
       <description>Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the known theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for "his serv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/albert-einstein-20260901.mp3" type="audio/mpeg" length="1332480"/>
