@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Yorktown. 7,000 Captured. War Over.</title>
+      <description>The Siege of Yorktown, also known as the Battle of Yorktown and the surrender at Yorktown, took place in 1781 and was the final major land engagement of the American Revolutionary War. It was won decisively by the Continental Army, led by George Washington, with support from the Marquis de Lafayette and French Army troops, led by Comte de Rochambeau, and a French Navy force commanded by the Comte </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-yorktown-20260901.mp3" type="audio/mpeg" length="1540224"/>
+      <guid isPermaLink="false">warvault-siege-of-yorktown-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 00:53:53 GMT</pubDate>
+      <itunes:duration>96</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Britain Stood Alone. Hitler Lost the War.</title>
       <description>The Battle of Britain (German: Luftschlacht um England, lit. 'air battle for England') was a military campaign of the Second World War, in which the Royal Air Force (RAF) and the Fleet Air Arm (FAA) of the Royal Navy defended the United Kingdom against large-scale attacks by Nazi Germany's air force, the Luftwaffe. It was the first major military campaign fought entirely by air forces. It takes it</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-britain-20260831.mp3" type="audio/mpeg" length="1324032"/>
