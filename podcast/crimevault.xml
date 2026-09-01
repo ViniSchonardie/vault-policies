@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George Chapman: Jack the Ripper Suspect Hanged</title>
+      <description>Seweryn Antonowicz Kłosowski, better known under his pseudonym George Chapman, was a Victorian-era Anglo-Polish serial killer known as the Borough Poisoner.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/george-chapman-20260901.mp3" type="audio/mpeg" length="1235712"/>
+      <guid isPermaLink="false">crime-george-chapman-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 00:58:46 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nurse Predicted Her Death. Then Injected Her.</title>
       <description>Colin Campbell Norris is a British serial killer who was convicted of the murder of four elderly patients and the attempted murders of two others in two hospitals in Leeds, England, in 2002.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/colin-norris-20260831.mp3" type="audio/mpeg" length="1328640"/>
