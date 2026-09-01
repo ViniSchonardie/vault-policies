@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed a Serial Killer. Inside Prison. With a Metal Bar.</title>
+      <description>Christopher J. Scarver Sr. is an American convicted murderer who is known for the 1994 murders of his fellow inmates Jeffrey Dahmer and Jesse Anderson, both convicted murderers, at the Columbia Correctional Institution in Wisconsin.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/christopher-scarver-20260901.mp3" type="audio/mpeg" length="1071360"/>
+      <guid isPermaLink="false">crime-christopher-scarver-20260901</guid>
+      <pubDate>Tue, 01 Sep 2026 23:45:07 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Menendez Brothers: $700K Spent. Then Everything Unraveled.</title>
       <description>Joseph Lyle Menendez (born January 10, 1968) and Erik Galen Menendez (born November 27, 1970), commonly referred to as the Menendez brothers, are American brothers convicted of killing their parents, José and Mary Louise "Kitty" Menendez, in their Beverly Hills home in 1989.
 Following the murders, Lyle and Erik claimed that unknown intruders were responsible for the murders, framing it as a potent</description>
