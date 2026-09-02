@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gaddafi. 42 Years. Then Captured in His Own City.</title>
+      <description>Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Sec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/muammar-gaddafi-20260902.mp3" type="audio/mpeg" length="1199232"/>
+      <guid isPermaLink="false">warvault-muammar-gaddafi-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 00:38:17 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Bombs. 246,000 Dead. Why Japan Surrendered.</title>
       <description>On 6 and 9 August 1945, the United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki, respectively, during the final days of World War II. The aerial bombings killed 150,000 to 246,000 people, most of whom were civilians, and remain the first and only uses of nuclear weapons in an armed conflict.
 In the final year of World War II, the Allies prepared for a costly</description>
