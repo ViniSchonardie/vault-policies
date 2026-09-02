@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Toy-Box Killer: 60 Victims. Not One Body Found.</title>
+      <description>David Parker Ray, also known as the Toy-Box Killer, was an American kidnapper, torturer, serial rapist, and suspected serial killer. Ray kidnapped, raped, and tortured an unknown number of women over many decades at his trailer in Elephant Butte, New Mexico, occasionally assisted by accomplices including his daughter Glenda Jean Ray and partner, Cindy Hendy. Ray was suspected by authorities and ac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-parker-ray-20260902.mp3" type="audio/mpeg" length="1229952"/>
+      <guid isPermaLink="false">crime-david-parker-ray-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 17:12:05 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed a Serial Killer. Inside Prison. With a Metal Bar.</title>
       <description>Christopher J. Scarver Sr. is an American convicted murderer who is known for the 1994 murders of his fellow inmates Jeffrey Dahmer and Jesse Anderson, both convicted murderers, at the Columbia Correctional Institution in Wisconsin.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/christopher-scarver-20260901.mp3" type="audio/mpeg" length="1071360"/>
