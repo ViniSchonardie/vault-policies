@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>US Airways 1549. 155 Survived. The Hudson River Miracle.</title>
+      <description>US Airways Flight 1549 was a regularly scheduled US Airways flight from New York City's LaGuardia Airport to Charlotte and Seattle, in the United States, that ditched onto the Hudson River shortly after takeoff on January 15, 2009, due to a double engine failure caused by a bird strike. The Airbus A320 operating the flight, registered N106US, struck a flock of Canada geese shortly after takeoff fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/us-airways-flight-1549-20260902.mp3" type="audio/mpeg" length="1286400"/>
+      <guid isPermaLink="false">aviation-us-airways-flight-1549-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 21:14:44 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MH17. 298 Dead. Shot Down Over Ukraine.</title>
       <description>Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-17-20260902.mp3" type="audio/mpeg" length="1408896"/>
