@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Convicted. Acquitted. Convicted Again. Then Freed Forever.</title>
+      <description>Amanda Marie Knox (born July 9, 1987) is an American author. She came to international prominence after being convicted for the November 2007 murder of her roommate, Meredith Kercher, in Perugia, Italy, a trial that was highly publicized between Knox's conviction in 2009 and her acquittal two years later. 
+She was convicted of the murder of Kercher in 2009 and was sentenced to 26 years in prison. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/amanda-knox-20260902.mp3" type="audio/mpeg" length="1486464"/>
+      <guid isPermaLink="false">trials-amanda-knox-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 19:33:51 GMT</pubDate>
+      <itunes:duration>93</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shot the President. Killed 2 days later. Case Closed?</title>
       <description>Lee Harvey Oswald (October 18, 1939 – November 24, 1963) was a U.S. Marine veteran, who assassinated John F. Kennedy, the 35th president of the United States, on November 22, 1963.
 Oswald was placed in juvenile detention at age twelve for truancy, during which he was assessed by a psychiatrist as "emotionally disturbed" because of the lack of normal family life. He attended twelve schools in his y</description>
