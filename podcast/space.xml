@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Artemis III: NASA's $4 Billion Test Before the Moon</title>
+      <description>Artemis III is an upcoming crewed spaceflight mission of the NASA-led Artemis program. Planned for 2027, the mission is designed as a crewed demonstration flight in low Earth orbit rather than a lunar landing. Four astronauts will launch aboard the Orion spacecraft on the Space Launch System (SLS) rocket from Kennedy Space Center in Florida.
+The mission will test rendezvous and docking operations </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/artemis-iii-20260902.mp3" type="audio/mpeg" length="1248768"/>
+      <guid isPermaLink="false">space-artemis-iii-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 00:25:43 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Challenger: 73 Seconds to Disaster</title>
       <description>On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC (11:39:13 a.m. EST, local time at the launch site). It was the first fatal accident involving an American spacecraft while in flight.
 The missi</description>
