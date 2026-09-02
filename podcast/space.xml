@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>He Walked on the Moon. He Was the Last to Leave.</title>
+      <description>Buzz Aldrin ( AWL-drin; born Edwin Eugene Aldrin Jr.; January 20, 1930) is an American former astronaut, aeronautical engineer, and fighter pilot. He was the second person to walk on the Moon after mission commander Neil Armstrong. He made three spacewalks as pilot of NASA’s 1966 Gemini 12 mission, and was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission. Following the deaths of Armstron</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/buzz-aldrin-20260902.mp3" type="audio/mpeg" length="1188480"/>
+      <guid isPermaLink="false">space-buzz-aldrin-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 17:21:41 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Artemis III: NASA's $4 Billion Test Before the Moon</title>
       <description>Artemis III is an upcoming crewed spaceflight mission of the NASA-led Artemis program. Planned for 2027, the mission is designed as a crewed demonstration flight in low Earth orbit rather than a lunar landing. Four astronauts will launch aboard the Orion spacecraft on the Space Launch System (SLS) rocket from Kennedy Space Center in Florida.
 The mission will test rendezvous and docking operations </description>
