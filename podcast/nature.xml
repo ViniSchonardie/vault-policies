@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Polar Bear. The 1,000-Pound Arctic Predator.</title>
+      <description>The polar bear (Ursus maritimus) is a large bear native to the Arctic and nearby areas. It is closely related to the brown bear, and the two species can interbreed. The polar bear is the largest extant species of bear and land carnivore by body mass, with adult males weighing 300–800 kg (660–1,760 lb). The species is sexually dimorphic, as adult females are much smaller. The polar bear is white or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/polar-bear-20260902.mp3" type="audio/mpeg" length="1329024"/>
+      <guid isPermaLink="false">nature-polar-bear-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 16:35:09 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sperm Whale. Dives 7,380 Feet Deep.</title>
       <description>The sperm whale or cachalot (Physeter macrocephalus) is the largest of the toothed whales and the largest toothed predator. It is the only living member of the genus Physeter and one of three extant species in the sperm whale superfamily Physeteroidea, along with the pygmy sperm whale and dwarf sperm whale of the genus Kogia.
 The sperm whale is a pelagic mammal with a worldwide range, and will mig</description>
