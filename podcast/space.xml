@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 1: 3 Astronauts Burned Alive in 17 Seconds</title>
+      <description>Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch C</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-1-20260902.mp3" type="audio/mpeg" length="1279872"/>
+      <guid isPermaLink="false">space-apollo-1-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 19:54:52 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Walked on the Moon. He Was the Last to Leave.</title>
       <description>Buzz Aldrin ( AWL-drin; born Edwin Eugene Aldrin Jr.; January 20, 1930) is an American former astronaut, aeronautical engineer, and fighter pilot. He was the second person to walk on the Moon after mission commander Neil Armstrong. He made three spacewalks as pilot of NASA’s 1966 Gemini 12 mission, and was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission. Following the deaths of Armstron</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/buzz-aldrin-20260902.mp3" type="audio/mpeg" length="1188480"/>
