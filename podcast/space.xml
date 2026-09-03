@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Voyager 1: Still Transmitting After 49 Years</title>
+      <description>Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are prov</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voyager-1-20260903.mp3" type="audio/mpeg" length="1208064"/>
+      <guid isPermaLink="false">space-voyager-1-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 00:26:15 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 1: 3 Astronauts Burned Alive in 17 Seconds</title>
       <description>Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-1-20260902.mp3" type="audio/mpeg" length="1279872"/>
