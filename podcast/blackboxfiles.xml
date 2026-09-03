@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>22 Tankers. 2 Dead. Brake System Sabotaged by Silence.</title>
+      <description>Elsterwerda station is in the town of Elsterwerda in the German state of Brandenburg. It lies on the Berlin–Dresden railway. The station is known for a train crash in 1997, when a freight train with 22 petrol tankers derailed and exploded on the station premises.
+
+
+== Infrastructure ==
+The station has had three platform edges since its reconstruction in the 1990s:
+
+the main platform next to the st</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/elsterwerda-train-disaster-20260903.mp3" type="audio/mpeg" length="1162752"/>
+      <guid isPermaLink="false">aviation-elsterwerda-train-disaster-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 00:27:50 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>US Airways 1549. 155 Survived. The Hudson River Miracle.</title>
       <description>US Airways Flight 1549 was a regularly scheduled US Airways flight from New York City's LaGuardia Airport to Charlotte and Seattle, in the United States, that ditched onto the Hudson River shortly after takeoff on January 15, 2009, due to a double engine failure caused by a bird strike. The Airbus A320 operating the flight, registered N106US, struck a flock of Canada geese shortly after takeoff fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/us-airways-flight-1549-20260902.mp3" type="audio/mpeg" length="1286400"/>
