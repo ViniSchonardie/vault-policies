@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>200 Texians. 1,500 Mexicans. 13 Days.</title>
+      <description>The Battle of the Alamo (February 23 – March 6, 1836) was a pivotal event and military engagement in the Texas Revolution. Following a 13-day siege, Mexican troops under President General Antonio López de Santa Anna reclaimed the Alamo Mission near San Antonio de Béxar (now San Antonio).
+About one hundred Texians had been garrisoned at the mission, and they were supplemented by around one hundred </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-alamo-20260903.mp3" type="audio/mpeg" length="1344384"/>
+      <guid isPermaLink="false">warvault-battle-of-the-alamo-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 20:14:41 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>57,470 Casualties in One Day. The Worst in British History.</title>
       <description>The Battle of the Somme (French: Bataille de la Somme; German: Schlacht an der Somme), also known as the Somme offensive, was a battle of the First World War fought by the armies of the British Empire and the French Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the river Somme in France. The battle was intended to hasten</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-somme-20260903.mp3" type="audio/mpeg" length="1187328"/>
