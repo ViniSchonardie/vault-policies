@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>PSA Flight 182. 144 Dead. Lost in Plain Sight.</title>
+      <description>Pacific Southwest Airlines Flight 182 was a scheduled flight on September 25, 1978 by Pacific Southwest Airlines (PSA), from Sacramento (SMF) to San Diego (SAN), with a stopover at Los Angeles (LAX). The aircraft involved were a Boeing 727-214 (registration: N533PS) and a private Cessna 172 (light aircraft; N7711G) which collided mid-air  over San Diego. It was Pacific Southwest Airlines' first fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-southwest-airlines-flight-182-20260903.mp3" type="audio/mpeg" length="1540224"/>
+      <guid isPermaLink="false">aviation-pacific-southwest-airlines-flight-182-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 18:01:58 GMT</pubDate>
+      <itunes:duration>96</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>22 Tankers. 2 Dead. Brake System Sabotaged by Silence.</title>
       <description>Elsterwerda station is in the town of Elsterwerda in the German state of Brandenburg. It lies on the Berlin–Dresden railway. The station is known for a train crash in 1997, when a freight train with 22 petrol tankers derailed and exploded on the station premises.
 
