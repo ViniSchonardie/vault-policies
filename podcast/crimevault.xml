@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Paul Bernardo: The Scarborough Rapist's Double Life</title>
+      <description>Paul Kenneth Bernardo, also known as Paul Jason Teale, is a Canadian serial rapist and murderer dubbed the Scarborough Rapist and Schoolgirl Killer. He initially committed a series of rapes in Scarborough, Ontario, a district of Toronto, between 1986 and 1990, before meeting Karla Homolka, with whom he committed rape leading to the death of her sister Tammy, followed by two murders in 1991 and 199</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-bernardo-20260903.mp3" type="audio/mpeg" length="1336704"/>
+      <guid isPermaLink="false">crime-paul-bernardo-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 20:29:36 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Wayne Williams: Convicted of 2. Blamed for 24. Still Denies It All.</title>
       <description>Wayne Bertram Williams is an American convicted murderer and suspected serial killer who is serving life imprisonment for the 1981 killings of two men in Atlanta, Georgia. Although never tried for the additional murders, he is also believed to be responsible for at least twenty-four of the thirty Atlanta murders of 1979–1981, also known as the Atlanta Child Murders.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-williams-20260903.mp3" type="audio/mpeg" length="1314048"/>
