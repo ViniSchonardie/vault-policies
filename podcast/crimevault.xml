@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wayne Williams: Convicted of 2. Blamed for 24. Still Denies It All.</title>
+      <description>Wayne Bertram Williams is an American convicted murderer and suspected serial killer who is serving life imprisonment for the 1981 killings of two men in Atlanta, Georgia. Although never tried for the additional murders, he is also believed to be responsible for at least twenty-four of the thirty Atlanta murders of 1979–1981, also known as the Atlanta Child Murders.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-williams-20260903.mp3" type="audio/mpeg" length="1314048"/>
+      <guid isPermaLink="false">crime-wayne-williams-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 17:06:33 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pig Farmer Killer: 49 Confessions, 6 Convictions</title>
       <description>Robert William Pickton, also known as the Pig Farmer Killer or the Butcher, was a Canadian pig farmer and serial killer. He is believed to have murdered at least 26 women, many of them sex workers from Vancouver's Downtown Eastside. He confessed to forty-nine murders to an undercover RCMP officer. In 2007, he was convicted on six counts of second-degree murder and sentenced to life in prison with </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-pickton-20260902.mp3" type="audio/mpeg" length="1244160"/>
