@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Fiorentina Won the League. Then Lost Everything.</title>
+      <description>Associazione Calcio Firenze Fiorentina, commonly referred to as Fiorentina (pronounced [fjorenˈtiːna]), is an Italian professional football club based in Florence, Tuscany. The original team was founded by a merger in August 1926, while the current club was refounded in August 2002 following bankruptcy. Fiorentina have played at the top level of Italian football for the majority of their existence</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/acf-fiorentina-20260903.mp3" type="audio/mpeg" length="1324032"/>
+      <guid isPermaLink="false">sportscrime-acf-fiorentina-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 01:37:48 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Michel Platini Won Everything. Then FIFA Banned Him.</title>
       <description>Michel François Platini (French: [miʃɛl fʁɑ̃swa platini]; born 21 June 1955) is a French football administrator and former player and manager. Regarded as one of the greatest footballers of all time, Platini won the Ballon d'Or three times in a row, in 1983, 1984 and 1985, and came seventh in the FIFA Player of the Century vote. In recognition of his achievements, he was named a Knight of the Legi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/michel-platini-20260902.mp3" type="audio/mpeg" length="1136256"/>
