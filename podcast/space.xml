@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 17: Last Humans on the Moon—50 Years Ago</title>
+      <description>Apollo 17 (December 7–19, 1972) was the eleventh and final crewed mission of NASA's Apollo program, the sixth and most recent time humans have set foot on the Moon. Commander Gene Cernan and Lunar Module Pilot Harrison Schmitt walked on the Moon, while Command Module Pilot Ronald Evans orbited above. Schmitt was the only professional geologist to land on the Moon; he was selected in place of Joe E</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-17-20260903.mp3" type="audio/mpeg" length="1097856"/>
+      <guid isPermaLink="false">space-apollo-17-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 19:56:41 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Human in Space: Yuri Gagarin's 108-Minute Orbit</title>
       <description>Yuri Alekseyevich Gagarin (9 March 1934 – 27 March 1968) was a Soviet pilot and cosmonaut who became the first person to journey into outer space during the first successful crewed spaceflight. He was launched from the Baikonur Cosmodrome in the Kazakh SSR. Travelling on Vostok 1, Gagarin completed one orbit of Earth on 12 April 1961. The flight took 108 minutes. By achieving this major milestone </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/yuri-gagarin-20260903.mp3" type="audio/mpeg" length="1094784"/>
