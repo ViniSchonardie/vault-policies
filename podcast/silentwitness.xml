@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Convicted of Murder. The Knee That Changed America.</title>
+      <description>Derek Michael Chauvin ( SHOH-vən; born 1976) is an American former police officer who murdered George Floyd, a 46-year-old African American man, in Minneapolis, Minnesota. 
+On May 25, 2020, Floyd was arrested after a store clerk alleged that he made a purchase using a counterfeit $20 bill. In the course of the arrest, Chauvin knelt on Floyd's neck for about nine minutes while Floyd was handcuffed </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/derek-chauvin-20260903.mp3" type="audio/mpeg" length="1138944"/>
+      <guid isPermaLink="false">trials-derek-chauvin-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 19:29:21 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Architect of the Holocaust. Captured 15 Years Later.</title>
       <description>Otto Adolf Eichmann ( EYEKH-mən; German pronunciation: [ˈʔɔto ˈʔaːdɔlf ˈʔaɪçman] ; 19 March 1906 – 1 June 1962) was a German-Austrian official of the Nazi Party, an officer of the Schutzstaffel (SS), a convicted war criminal, and one of the major organizers of the Holocaust. He participated in the January 1942 Wannsee Conference, at which the implementation of the genocidal Final Solution to the J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/adolf-eichmann-20260903.mp3" type="audio/mpeg" length="1070976"/>
