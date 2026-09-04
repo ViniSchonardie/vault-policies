@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>KAL 007. 269 Dead. Shot Down Over Soviet Waters.</title>
+      <description>Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-lines-flight-007-20260904.mp3" type="audio/mpeg" length="1212288"/>
+      <guid isPermaLink="false">aviation-korean-air-lines-flight-007-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 00:19:15 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>7 Dead in Carpathians. Fog. Human Error.</title>
       <description>On 26 July 2010, an Israeli Air Force Sikorsky CH-53 Yas'ur helicopter crashed during a training flight in the Carpathian Mountains, near the city of Brașov in Romania. The accident took place during a joint Romanian-Israeli aviation military exercise code-named "Blue Sky 2010".
 All on board the aircraft died: four Israeli pilots, two Israeli mechanics, and one Romanian liaison officer. An investi</description>
