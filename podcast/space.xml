@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>James Webb: $10B Telescope Finally Sees the First Stars</title>
+      <description>The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/james-webb-space-telescope-20260904.mp3" type="audio/mpeg" length="1030656"/>
+      <guid isPermaLink="false">space-james-webb-space-telescope-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 16:58:43 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Artemis IV: First Moon Landing Since 1972 — 2028</title>
       <description>Artemis IV is planned to be the third crewed mission and the first Moon landing in the NASA-led Artemis lunar exploration program, marking the first crewed Moon landing since Apollo 17 in 1972.
 For this mission, a Space Launch System (SLS) rocket will send an Orion spacecraft carrying the four astronaut crew members to lunar orbit. The mission depends on a prior support flight to place a lunar lan</description>
