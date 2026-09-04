@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>14 Million Prisoners. 1.7 Million Dead. Stalin's Gulag</title>
+      <description>The Gulag was a system of labor camps in the Soviet Union. The word Gulag originally referred only to the division of the Soviet secret police that was in charge of running the forced labor camps from the 1930s to the early 1950s during Joseph Stalin's rule, but in English literature the term is popularly used for the system of forced labor throughout the Soviet era. The abbreviation GULAG (ГУЛАГ)</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/gulag-20260904.mp3" type="audio/mpeg" length="1292544"/>
+      <guid isPermaLink="false">warvault-gulag-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 20:00:06 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>780 Held. 9 Died. Still Open.</title>
       <description>The Guantanamo Bay detention camp is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in 2002 by President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the war on terror following the September 11 attacks. As of January 2025, at least 780 people from 48 countries have been detaine</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/guantanamo-bay-detention-camp-20260904.mp3" type="audio/mpeg" length="1229568"/>
