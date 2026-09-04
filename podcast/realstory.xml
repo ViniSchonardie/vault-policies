@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Archimedes. Killed While Solving Math.</title>
+      <description>Archimedes of Syracuse ( AR-kih-MEE-deez; c. 287 – c. 212 BC) was an Ancient Greek mathematician, physicist, engineer, astronomer, and inventor from the city of Syracuse in Sicily. Although few details of his life are known, based on his surviving work, he is considered one of the leading scientists in classical antiquity, and one of the greatest mathematicians of all time. Archimedes anticipated </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/archimedes-20260904.mp3" type="audio/mpeg" length="1177728"/>
+      <guid isPermaLink="false">realstory-archimedes-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 21:05:42 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Goethe. The Genius Who Almost Became a Lawyer.</title>
       <description>Johann Wolfgang von Goethe (28 August 1749 – 22 March 1832) was a German polymath who is widely regarded as the most influential writer in the German language. His work has had a wide-ranging influence on literary, political, Christian views, and philosophical thought in the Western world from the late 18th century to the present. A poet, playwright, novelist, scientist, statesman, theatre-directo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/johann-wolfgang-von-goethe-20260904.mp3" type="audio/mpeg" length="1176576"/>
