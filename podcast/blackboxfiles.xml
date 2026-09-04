@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TWA Flight 800. 230 Dead. The Crazy Readings.</title>
+      <description>TWA Flight 800 was a regularly scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Fiumicino Airport in Rome, Italy, with a stopover at Charles de Gaulle Airport in Paris, France. On July 17, 1996, at approximately 8:31 p.m. EDT, twelve minutes after takeoff, the Boeing 747 exploded and crashed into the Atlantic Ocean near East Mo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/twa-flight-800-20260904.mp3" type="audio/mpeg" length="1300224"/>
+      <guid isPermaLink="false">aviation-twa-flight-800-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 20:56:30 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Challenger. 7 Dead. They Knew.</title>
       <description>On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC (11:39:13 a.m. EST, local time at the launch site). It was the first fatal accident involving an American spacecraft while in flight.
 The missi</description>
