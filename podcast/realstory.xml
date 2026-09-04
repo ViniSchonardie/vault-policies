@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marco Polo. The Book Nobody Believes He Wrote.</title>
+      <description>Marco Polo (c. 1254 –  8 January 1324) was a Venetian merchant, explorer, and writer who travelled through Asia along the Silk Road between 1271 and 1295. His travels are recorded in The Travels of Marco Polo (also known as Book of the Marvels of the World  and Il Milione, c. 1300), a book that described the then-mysterious culture and inner workings of the Eastern world, including the wealth and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marco-polo-20260904.mp3" type="audio/mpeg" length="1081728"/>
+      <guid isPermaLink="false">realstory-marco-polo-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 00:30:19 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Franz Ferdinand. His Wife Chose to Die With Him.</title>
       <description>The assassination of Archduke Franz Ferdinand, also called the Attack in Sarajevo or Sarajevo incident occurred on 28 June 1914 and was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated by Bosnian Serb student Gavrilo Princip. They were shot at close rang</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-archduke-franz-ferdinand-20260903.mp3" type="audio/mpeg" length="1315200"/>
