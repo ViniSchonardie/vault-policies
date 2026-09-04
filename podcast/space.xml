@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 8: First Humans to See the Far Side of the Moon</title>
+      <description>Apollo 8 (December 21–27, 1968) was the first crewed spacecraft to leave Earth's gravitational sphere of influence, and the first human spaceflight to reach the Moon. The crew orbited the Moon ten times without landing and then returned to Earth. The three astronauts—Frank Borman, Jim Lovell, and William Anders—were the first humans to see and photograph the far side of the Moon and an Earthrise.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-8-20260904.mp3" type="audio/mpeg" length="1258368"/>
+      <guid isPermaLink="false">space-apollo-8-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 19:43:14 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>James Webb: $10B Telescope Finally Sees the First Stars</title>
       <description>The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the fir</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/james-webb-space-telescope-20260904.mp3" type="audio/mpeg" length="1030656"/>
