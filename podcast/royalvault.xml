@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Guardian Scotland Hanged, Drawn, and Quartered</title>
+      <description>Sir William Wallace (Scottish Gaelic: Uilleam Uallas, pronounced [ˈɯʎam ˈuəl̪ˠəs̪]; Norman French: William le Waleys; c. 1270 – 23 August 1305) was a Scottish knight who became one of the main leaders during the First War of Scottish Independence.
+Along with Andrew Moray, Wallace defeated an English army at the Battle of Stirling Bridge in September 1297. He was appointed Guardian of Scotland and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/william-wallace-20260904.mp3" type="audio/mpeg" length="1207680"/>
+      <guid isPermaLink="false">royal-william-wallace-20260904</guid>
+      <pubDate>Fri, 04 Sep 2026 00:36:42 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Napoleon's Prison Island: The Exile That Changed Everything</title>
       <description>Saint Helena (, US: ; US:  ) is a volcanic tropical island located in the South Atlantic Ocean, west of Africa. The nearest countries geographically are Angola and Namibia. The island is about 1,950 km (1,210 mi) west of Angola, and 4,000 km (2,500 mi) east of Rio de Janeiro, Brazil. It is one of the three constituent parts of Saint Helena, Ascension and Tristan da Cunha, a British overseas territ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/saint-helena-20260903.mp3" type="audio/mpeg" length="1243776"/>
