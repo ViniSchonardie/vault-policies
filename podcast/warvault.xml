@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kursk. 3.3 Million Soldiers. Germany's Last Offensive.</title>
+      <description>The Battle of Kursk, also called the Battle of the Kursk Salient, was a major World War II Eastern Front battle between the forces of Nazi Germany and the Soviet Union near Kursk in southwestern Russia during the summer of 1943, resulting in a Soviet victory. The Battle of Kursk is the single largest battle in the history of warfare. It ranks only behind the Battle of Stalingrad several months ear</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-kursk-20260905.mp3" type="audio/mpeg" length="1194240"/>
+      <guid isPermaLink="false">warvault-battle-of-kursk-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 00:29:07 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>14 Million Prisoners. 1.7 Million Dead. Stalin's Gulag</title>
       <description>The Gulag was a system of labor camps in the Soviet Union. The word Gulag originally referred only to the division of the Soviet secret police that was in charge of running the forced labor camps from the 1930s to the early 1950s during Joseph Stalin's rule, but in English literature the term is popularly used for the system of forced labor throughout the Soviet era. The abbreviation GULAG (ГУЛАГ)</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/gulag-20260904.mp3" type="audio/mpeg" length="1292544"/>
