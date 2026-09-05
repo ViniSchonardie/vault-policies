@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Challenger: 73 Seconds to Disaster</title>
+      <description>Sharon Christa McAuliffe (née Corrigan; September 2, 1948 – January 28, 1986) was an American teacher and astronaut from Concord, New Hampshire, who died on the Space Shuttle Challenger on mission STS-51-L, where she was serving as a payload specialist.
+McAuliffe received her bachelor's degree in education and history from Framingham State College in 1970 and her master's degree in education, supe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/christa-mcauliffe-20260905.mp3" type="audio/mpeg" length="1328640"/>
+      <guid isPermaLink="false">space-christa-mcauliffe-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 00:17:02 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 8: First Humans to See the Far Side of the Moon</title>
       <description>Apollo 8 (December 21–27, 1968) was the first crewed spacecraft to leave Earth's gravitational sphere of influence, and the first human spaceflight to reach the Moon. The crew orbited the Moon ten times without landing and then returned to Earth. The three astronauts—Frank Borman, Jim Lovell, and William Anders—were the first humans to see and photograph the far side of the Moon and an Earthrise.
 </description>
