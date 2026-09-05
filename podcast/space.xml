@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Columbia: 16 Minutes Before Landing</title>
+      <description>Kalpana Chawla (; July 1, 1962 – February 1, 2003) was an Indian-American astronaut, aerospace engineer, and pilot who was the first Indian woman to fly to space. She participated in two spaceflights, STS-87 and STS-107, in 1997 and 2003, respectively. On both of these flights, she conducted scientific experiments researching the effects of microgravity on various physical processes. When the crew</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/kalpana-chawla-20260905.mp3" type="audio/mpeg" length="1175424"/>
+      <guid isPermaLink="false">space-kalpana-chawla-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 19:08:19 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>New Glenn: The Largest Rocket Explosion Ever Recorded</title>
       <description>Blue Origin Enterprises, L.P. is a private American space technology company headquartered in Kent, Washington. The company operates the suborbital New Shepard rocket and the heavy-lift New Glenn rocket. In addition to producing engines for its own rockets, Blue Origin supplies engines for other vehicles, including United Launch Alliance's Vulcan Centaur. It is also working on the Blue Moon human </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/blue-origin-20260905.mp3" type="audio/mpeg" length="1236480"/>
