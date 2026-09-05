@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>James Joyce. He Fled Ireland Forever.</title>
+      <description>James Augustine Aloysius Joyce (born James Augusta Joyce; 2 February 1882 – 13 January 1941) was an Irish novelist, poet, and literary critic. He contributed to the modernist movement and is regarded among the most influential and important writers of the 20th century. Joyce's novel Ulysses (1922) is a landmark in which the episodes of Homer's Odyssey are paralleled in a variety of literary styles</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/james-joyce-20260905.mp3" type="audio/mpeg" length="1114368"/>
+      <guid isPermaLink="false">realstory-james-joyce-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 20:46:42 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>RFK. Shot by a 24-year-old. Nobody knows why.</title>
       <description>On June 5, 1968, Robert F. Kennedy was shot by 24-year-old Sirhan Sirhan at the Ambassador Hotel in Los Angeles, California. Medical teams attempted to treat him, but he died the following day at the age of 42.
 Kennedy, a United States senator and candidate in the 1968 Democratic Party presidential primaries, won the California and South Dakota primaries on June 4. He addressed his campaign suppor</description>
