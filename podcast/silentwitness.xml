@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>500 Years Old. Still Publishing Secrets.</title>
+      <description>Cambridge University Press is the university press of the University of Cambridge. Granted letters patent by King Henry VIII in 1534, it is the oldest university press in the world. Cambridge University Press merged with Cambridge Assessment to form Cambridge University Press and Assessment under Queen Elizabeth II's approval in August 2021. However, the Press retains an independent existence with</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/cambridge-university-press-20260905.mp3" type="audio/mpeg" length="1381632"/>
+      <guid isPermaLink="false">trials-cambridge-university-press-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 22:18:43 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Word That Never Held Up in Court</title>
       <description>Brainwashing is the systematic effort to get someone to adopt a particular deception, loyalty, instruction, or doctrine. It refers in general to psychological techniques that manipulate action or thought against a person's will, desire, or knowledge. It attempts to damage individual or group attitudes, frames of reference, beliefs, values or loyalties by demonstrating that current thinking pattern</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/brainwashing-20260905.mp3" type="audio/mpeg" length="1282944"/>
