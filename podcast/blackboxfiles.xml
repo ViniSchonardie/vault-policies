@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>583 Dead. Two 747s. One Runway. Dense Fog.</title>
+      <description>On 27 March 1977, two Boeing 747 passenger jets collided on a runway at Los Rodeos Airport (now Tenerife North–Ciudad de La Laguna Airport) on the Spanish island of Tenerife, killing 583 people and injuring 61 others in the deadliest accident in aviation history. The incident occurred at 17:06 GMT (UTC +0) in dense fog, when KLM Flight 4805 initiated its takeoff run, colliding with the starboard s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tenerife-airport-disaster-20260905.mp3" type="audio/mpeg" length="1799808"/>
+      <guid isPermaLink="false">aviation-tenerife-airport-disaster-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 20:36:10 GMT</pubDate>
+      <itunes:duration>112</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BA Flight 38. 152 Aboard. Ice in the Fuel.</title>
       <description>British Airways Flight 38 was a scheduled international passenger flight from Beijing Capital International Airport in Beijing, China, to Heathrow Airport in London, United Kingdom, an 8,100-kilometre (4,400 nmi; 5,000 mi) trip. On 17 January 2008, the Boeing 777-200ER aircraft crash-landed short of runway 27L at Heathrow. Of the 152 people on board, 47 were injured, 1 of them seriously. The aircr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-38-20260905.mp3" type="audio/mpeg" length="1600512"/>
