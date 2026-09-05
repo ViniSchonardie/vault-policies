@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Elephant Bird: 10ft Tall. Vanished Without a Trace.</title>
+      <description>Elephant birds are extinct flightless birds belonging to the order Aepyornithiformes that were native to the island of Madagascar. They are thought to have gone extinct around 1000 AD, likely as a result of human activity. There are three currently recognised species, one in the genus Mullerornis, and two in Aepyornis. Aepyornis maximus is possibly the largest bird to have ever lived, with their e</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/elephant-bird-20260905.mp3" type="audio/mpeg" length="1020288"/>
+      <guid isPermaLink="false">prehistoric-elephant-bird-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 19:06:53 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ankylosaurus: 26ft Tank. We Still Haven't Found Its Body.</title>
       <description>Ankylosaurus is a genus of armored dinosaur. Its fossils have been found in geological formations dating to the very end of the Cretaceous Period, about 70-66 million years ago, in western North America, making it among the last of the non-avian dinosaurs. It was named by Barnum Brown in 1908; it is monotypic, containing only A. magniventris. The generic name means "fused" or "bent lizard", and th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ankylosaurus-20260905.mp3" type="audio/mpeg" length="1145472"/>
