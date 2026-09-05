@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stonewall Jackson. Shot by His Own Men. Lost Everything.</title>
+      <description>Thomas Jonathan "Stonewall" Jackson (January 21, 1824 – May 10, 1863) was a Confederate general and military officer who served during the American Civil War. He played a prominent role in nearly all military engagements in the eastern theater of the war until his death. Military historians regard him as one of the most gifted tactical commanders in U.S. history.
+Born in what was then part of Virg</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/stonewall-jackson-20260905.mp3" type="audio/mpeg" length="1090176"/>
+      <guid isPermaLink="false">warvault-stonewall-jackson-20260905</guid>
+      <pubDate>Sat, 05 Sep 2026 16:22:27 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kursk. 3.3 Million Soldiers. Germany's Last Offensive.</title>
       <description>The Battle of Kursk, also called the Battle of the Kursk Salient, was a major World War II Eastern Front battle between the forces of Nazi Germany and the Soviet Union near Kursk in southwestern Russia during the summer of 1943, resulting in a Soviet victory. The Battle of Kursk is the single largest battle in the history of warfare. It ranks only behind the Battle of Stalingrad several months ear</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-kursk-20260905.mp3" type="audio/mpeg" length="1194240"/>
