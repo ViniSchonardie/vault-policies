@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Blitz. 40,000 Dead. 8 Months. One Fatal Mistake.</title>
+      <description>The Blitz (English: 'lightning') was a bombing campaign by Nazi Germany and Fascist Italy against the United Kingdom during the Second World War. It lasted for eight months, from 7 September 1940 to 16 May 1941. The name is a shortened form of Blitzkrieg, a term used in the popular press to describe a German style of surprise attack used during the war.
+Toward the end of the Battle of Britain in 1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/the-blitz-20260906.mp3" type="audio/mpeg" length="1355904"/>
+      <guid isPermaLink="false">warvault-the-blitz-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 00:18:45 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mao's Great Leap. 55 Million Dead. A Policy Gone Wrong.</title>
       <description>The Great Leap Forward was an industrialization campaign within China from 1958 to 1962, led by the Chinese Communist Party (CCP). CCP Chairman Mao Zedong launched the campaign to transform the country from an agrarian society into an industrialized society through the formation of people's communes.  The Great Leap Forward led to between 15 and 55 million deaths in mainland China during the 1959–</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/great-leap-forward-20260905.mp3" type="audio/mpeg" length="1378560"/>
