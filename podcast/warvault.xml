@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Leningrad. 872 Days. 1.5 Million Dead.</title>
+      <description>The siege of Leningrad was a military blockade undertaken by the Axis powers against the city of Leningrad (present-day Saint Petersburg) in the Soviet Union on the Eastern Front of World War II from 1941 to 1944. Leningrad, the country's second largest city, was besieged by Germany and Finland for 872 days, but never captured. The siege was the most destructive in history and possibly the most de</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-leningrad-20260906.mp3" type="audio/mpeg" length="1104768"/>
+      <guid isPermaLink="false">warvault-siege-of-leningrad-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 19:37:59 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Austerlitz. 3 Emperors. 1 Masterpiece.</title>
       <description>The Battle of Austerlitz (2 December 1805), also known as the Battle of the Three Emperors, was one of the most important military engagements of the Napoleonic Wars. The battle occurred near the town of Austerlitz in the Austrian Empire (now Slavkov u Brna in the Czech Republic). Around 158,000 troops were involved, of which around 24,000 were killed or wounded.
 The battle is often cited by milit</description>
