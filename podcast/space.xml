@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hubble's Blur: The $1.5B Mistake That Changed Space</title>
+      <description>The Hubble Space Telescope (HST or Hubble) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Obs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/hubble-space-telescope-20260906.mp3" type="audio/mpeg" length="1138560"/>
+      <guid isPermaLink="false">space-hubble-space-telescope-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 00:04:22 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbia: 16 Minutes Before Landing</title>
       <description>Kalpana Chawla (; July 1, 1962 – February 1, 2003) was an Indian-American astronaut, aerospace engineer, and pilot who was the first Indian woman to fly to space. She participated in two spaceflights, STS-87 and STS-107, in 1997 and 2003, respectively. On both of these flights, she conducted scientific experiments researching the effects of microgravity on various physical processes. When the crew</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/kalpana-chawla-20260905.mp3" type="audio/mpeg" length="1175424"/>
