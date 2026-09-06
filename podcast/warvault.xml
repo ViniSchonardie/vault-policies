@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Austerlitz. 3 Emperors. 1 Masterpiece.</title>
+      <description>The Battle of Austerlitz (2 December 1805), also known as the Battle of the Three Emperors, was one of the most important military engagements of the Napoleonic Wars. The battle occurred near the town of Austerlitz in the Austrian Empire (now Slavkov u Brna in the Czech Republic). Around 158,000 troops were involved, of which around 24,000 were killed or wounded.
+The battle is often cited by milit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-austerlitz-20260906.mp3" type="audio/mpeg" length="1214976"/>
+      <guid isPermaLink="false">warvault-battle-of-austerlitz-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 16:33:20 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Blitz. 40,000 Dead. 8 Months. One Fatal Mistake.</title>
       <description>The Blitz (English: 'lightning') was a bombing campaign by Nazi Germany and Fascist Italy against the United Kingdom during the Second World War. It lasted for eight months, from 7 September 1940 to 16 May 1941. The name is a shortened form of Blitzkrieg, a term used in the popular press to describe a German style of surprise attack used during the war.
 Toward the end of the Battle of Britain in 1</description>
