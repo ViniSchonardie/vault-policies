@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Woman in Space: 48 Orbits Alone</title>
+      <description>Valentina Vladimirovna Tereshkova (born 6 March 1937) is a Russian engineer, politician, and former Soviet cosmonaut. She was the first woman in space, having flown a solo mission on Vostok 6 on 16 June 1963. She orbited the Earth 48 times, spent almost three days in space, is the only woman to have been on a solo space mission and is the last surviving Vostok programme cosmonaut. Twenty-six years</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/valentina-tereshkova-20260906.mp3" type="audio/mpeg" length="1145856"/>
+      <guid isPermaLink="false">space-valentina-tereshkova-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 19:18:58 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Was Grounded for 8 Years. Then He Walked on the Moon.</title>
       <description>Alan Bartlett Shepard Jr. (November 18, 1923 – July 21, 1998) was an American astronaut. In 1961, he became the second person and the first American to travel into space and, in 1971, he became the fifth and oldest person to walk on the Moon, at age 47.
 A graduate of the United States Naval Academy at Annapolis, Shepard saw action with the surface navy during World War II. He became a naval aviato</description>
