@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am 103. 270 Dead. Only One Convicted.</title>
+      <description>Pan Am Flight 103 was a regularly scheduled Pan Am transatlantic flight from Frankfurt to Detroit via a stopover in London and another in New York City. Shortly after 19:00 on 21 December 1988, the Boeing 747 Clipper Maid of the Seas was destroyed by a bomb while flying over the Scottish town of Lockerbie, killing all 243 passengers and 16 crew aboard. Large sections of the aircraft crashed in a r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-103-20260906.mp3" type="audio/mpeg" length="1317888"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-103-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 20:37:36 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Asiana 214. 3 Dead. The Pilots Never Saw It Coming.</title>
       <description>Asiana Airlines Flight 214 was a scheduled transpacific passenger flight originating from Incheon International Airport near Seoul, South Korea, to San Francisco International Airport near San Francisco, California, United States that crashed on final approach into Runway 28L of San Francisco International Airport in the United States on the morning of July 6, 2013. The Boeing 777-200ER operating </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/asiana-airlines-flight-214-20260906.mp3" type="audio/mpeg" length="1169664"/>
