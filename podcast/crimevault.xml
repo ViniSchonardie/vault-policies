@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Joel Rifkin: 17 Victims. One Traffic Stop Changed Everything.</title>
+      <description>Joel David Rifkin is an American serial killer who was sentenced to 203 years in prison for the murders of at least 9 women between 1989 and 1993.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joel-rifkin-20260906.mp3" type="audio/mpeg" length="1087872"/>
+      <guid isPermaLink="false">crime-joel-rifkin-20260906</guid>
+      <pubDate>Sun, 06 Sep 2026 23:25:24 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Otaku Murderer: 4 Girls. Taunting Letters. Hanged 2008.</title>
       <description>Tsutomu Miyazaki  was a Japanese serial killer who murdered four young girls in Tokyo and Saitama Prefecture between August 1988 and June 1989. He abducted and killed the girls, aged from 4 to 7, in his car before dismembering them and molesting their corpses. He also engaged in cannibalism, preserved body parts as trophies, and taunted the families of his victims.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/tsutomu-miyazaki-20260906.mp3" type="audio/mpeg" length="1120128"/>
