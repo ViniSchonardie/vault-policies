@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>6 Million Dead. The Nazi Plan That Changed Warfare.</title>
+      <description>The Final Solution or the Final Solution to the Jewish Question was a plan orchestrated by Nazi Germany during World War II for the total extermination of people they defined as Jews. This secret policy of deliberate and systematic genocide across German-occupied Europe and all other areas that the Nazis controlled or influenced likely began in 1941, and was formally revealed to non-SS leaders of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/final-solution-20260907.mp3" type="audio/mpeg" length="1315584"/>
+      <guid isPermaLink="false">warvault-final-solution-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 18:31:10 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>22,000 Executed. Stalin's Secret Lasted 50 Years.</title>
       <description>The Katyn massacre was a series of mass executions of Poles carried out by the Soviet Union between April and May 1940. Though the killings also occurred in the NKVD prisons in Kalinin, Kharkiv and elsewhere, the massacre is named after the Katyn forest, where some of the mass graves were first discovered by Nazi German forces in 1943. Nearly 22,000 Polish military and police officers, border guar</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/katyn-massacre-20260907.mp3" type="audio/mpeg" length="1392384"/>
