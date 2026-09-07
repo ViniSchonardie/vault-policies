@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Confessed to 100 Murders. Then Died in His Cell.</title>
+      <description>Javed Iqbal Mughal was a Pakistani serial killer and child molester who confessed to the sexual abuse and murder of 100 young boys, ranging in age from 6 to 16. His victims were strangled, dismembered, and then dissolved in acid to destroy any evidence.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/javed-iqbal-20260907.mp3" type="audio/mpeg" length="1190784"/>
+      <guid isPermaLink="false">crime-javed-iqbal-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 18:17:56 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joel Rifkin: 17 Victims. One Traffic Stop Changed Everything.</title>
       <description>Joel David Rifkin is an American serial killer who was sentenced to 203 years in prison for the murders of at least 9 women between 1989 and 1993.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joel-rifkin-20260906.mp3" type="audio/mpeg" length="1087872"/>
