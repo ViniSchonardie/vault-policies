@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Two Helicopters. 73 Dead. What They Missed.</title>
+      <description>The 1997 Israeli helicopter disaster (Hebrew: אסון המסוקים, romanized: Ason HaMasokim, lit. ''Disaster of the Helicopters'') occurred on February 4, 1997, when two Israeli Air Force transport helicopters ferrying Israeli soldiers into Israel's security zone in southern Lebanon collided in mid-air, killing all 73 Israeli military personnel on board. The crash brought about widespread national mourn</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1997-israeli-helicopter-disaster-20260907.mp3" type="audio/mpeg" length="1108224"/>
+      <guid isPermaLink="false">aviation-1997-israeli-helicopter-disaster-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 00:09:04 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pan Am 103. 270 Dead. Only One Convicted.</title>
       <description>Pan Am Flight 103 was a regularly scheduled Pan Am transatlantic flight from Frankfurt to Detroit via a stopover in London and another in New York City. Shortly after 19:00 on 21 December 1988, the Boeing 747 Clipper Maid of the Seas was destroyed by a bomb while flying over the Scottish town of Lockerbie, killing all 243 passengers and 16 crew aboard. Large sections of the aircraft crashed in a r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-103-20260906.mp3" type="audio/mpeg" length="1317888"/>
