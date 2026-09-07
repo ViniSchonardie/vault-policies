@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 10: They Almost Landed on the Moon</title>
+      <description>Apollo 10 (May 18–26, 1969) was the fourth human spaceflight in the United States' Apollo program and the second to orbit the Moon. NASA, the mission's operator, described it as a "dress rehearsal" for the first Moon landing (Apollo 11, two months later). It was designated an "F" mission, intended to test all spacecraft components and procedures short of actual descent and landing.
+After the space</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-10-20260907.mp3" type="audio/mpeg" length="1139712"/>
+      <guid isPermaLink="false">space-apollo-10-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 00:08:20 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Woman in Space: 48 Orbits Alone</title>
       <description>Valentina Vladimirovna Tereshkova (born 6 March 1937) is a Russian engineer, politician, and former Soviet cosmonaut. She was the first woman in space, having flown a solo mission on Vostok 6 on 16 June 1963. She orbited the Earth 48 times, spent almost three days in space, is the only woman to have been on a solo space mission and is the last surviving Vostok programme cosmonaut. Twenty-six years</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/valentina-tereshkova-20260906.mp3" type="audio/mpeg" length="1145856"/>
