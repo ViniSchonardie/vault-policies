@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 12: Lightning Strike Nearly Killed the Moon Mission</title>
+      <description>Apollo 12 (November 14–24, 1969) was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles "Pete" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-12-20260907.mp3" type="audio/mpeg" length="1068288"/>
+      <guid isPermaLink="false">space-apollo-12-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 20:40:19 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 16: The Engine That Almost Killed a Moon Landing</title>
       <description>Apollo 16 (April 16–27, 1972) was the tenth crewed mission in the United States Apollo space program, administered by NASA, and the fifth and penultimate to land on the Moon. It was the second of Apollo's "J missions", with an extended stay on the lunar surface, a focus on science, and the use of the Lunar Roving Vehicle (LRV). The landing and exploration were in the Descartes Highlands, a site ch</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-16-20260907.mp3" type="audio/mpeg" length="1269504"/>
