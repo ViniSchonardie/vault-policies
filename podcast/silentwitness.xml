@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Forged Approval. One Book Killed Thousands.</title>
+      <description>The Malleus Maleficarum, usually translated as the Hammer of Witches, is the best known treatise about witchcraft. It was written by German Catholic clergyman Heinrich Kramer (under his Latinized name Henricus Institor) and first published in the German city of Speyer in 1486. Some characterize the book as a compendium of preexisting demonological literature of the 15th century, as opposed to an o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/malleus-maleficarum-20260907.mp3" type="audio/mpeg" length="1094400"/>
+      <guid isPermaLink="false">trials-malleus-maleficarum-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 01:21:47 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>8 Million Kids. One Machine. How Hitler Built It.</title>
       <description>The Hitler Youth (German: Hitlerjugend [ˈhɪtlɐˌjuːɡn̩t] , often abbreviated as HJ, [haːˈjɔt] ) was the youth wing of the German Nazi Party. Its origins date back to 1922 and it received the name Hitler-Jugend, Bund deutscher Arbeiterjugend ("Hitler Youth, League of German Worker Youth") in July 1926. From 1936 until 1945, it was the sole official boys' youth organisation in Germany (although the L</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/hitler-youth-20260906.mp3" type="audio/mpeg" length="1442304"/>
