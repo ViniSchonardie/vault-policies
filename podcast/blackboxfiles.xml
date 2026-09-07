@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flydubai 981. 62 Dead. The Final Seconds.</title>
+      <description>Flydubai Flight 981 (FZ981/FDB981) was a scheduled international passenger flight from Dubai, United Arab Emirates, to Rostov-on-Don, Russia. On 19 March 2016, the Boeing 737-800 aircraft operating the flight crashed during a go-around, killing all 62 passengers and crew on board. 
+The flight occurred at night and the weather at Rostov-on-Don was poor. Flight 981 aborted its first landing attempt </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/flydubai-flight-981-20260907.mp3" type="audio/mpeg" length="1285248"/>
+      <guid isPermaLink="false">aviation-flydubai-flight-981-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 18:51:54 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Helicopters. 73 Dead. What They Missed.</title>
       <description>The 1997 Israeli helicopter disaster (Hebrew: אסון המסוקים, romanized: Ason HaMasokim, lit. ''Disaster of the Helicopters'') occurred on February 4, 1997, when two Israeli Air Force transport helicopters ferrying Israeli soldiers into Israel's security zone in southern Lebanon collided in mid-air, killing all 73 Israeli military personnel on board. The crash brought about widespread national mourn</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1997-israeli-helicopter-disaster-20260907.mp3" type="audio/mpeg" length="1108224"/>
