@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 16: The Engine That Almost Killed a Moon Landing</title>
+      <description>Apollo 16 (April 16–27, 1972) was the tenth crewed mission in the United States Apollo space program, administered by NASA, and the fifth and penultimate to land on the Moon. It was the second of Apollo's "J missions", with an extended stay on the lunar surface, a focus on science, and the use of the Lunar Roving Vehicle (LRV). The landing and exploration were in the Descartes Highlands, a site ch</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-16-20260907.mp3" type="audio/mpeg" length="1269504"/>
+      <guid isPermaLink="false">space-apollo-16-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 18:23:11 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 10: They Almost Landed on the Moon</title>
       <description>Apollo 10 (May 18–26, 1969) was the fourth human spaceflight in the United States' Apollo program and the second to orbit the Moon. NASA, the mission's operator, described it as a "dress rehearsal" for the first Moon landing (Apollo 11, two months later). It was designated an "F" mission, intended to test all spacecraft components and procedures short of actual descent and landing.
 After the space</description>
