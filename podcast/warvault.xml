@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>22,000 Executed. Stalin's Secret Lasted 50 Years.</title>
+      <description>The Katyn massacre was a series of mass executions of Poles carried out by the Soviet Union between April and May 1940. Though the killings also occurred in the NKVD prisons in Kalinin, Kharkiv and elsewhere, the massacre is named after the Katyn forest, where some of the mass graves were first discovered by Nazi German forces in 1943. Nearly 22,000 Polish military and police officers, border guar</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/katyn-massacre-20260907.mp3" type="audio/mpeg" length="1392384"/>
+      <guid isPermaLink="false">warvault-katyn-massacre-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 00:27:23 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leningrad. 872 Days. 1.5 Million Dead.</title>
       <description>The siege of Leningrad was a military blockade undertaken by the Axis powers against the city of Leningrad (present-day Saint Petersburg) in the Soviet Union on the Eastern Front of World War II from 1941 to 1944. Leningrad, the country's second largest city, was besieged by Germany and Finland for 872 days, but never captured. The siege was the most destructive in history and possibly the most de</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-leningrad-20260906.mp3" type="audio/mpeg" length="1104768"/>
