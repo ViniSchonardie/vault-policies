@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Festival That Suppressed Witches Every May</title>
+      <description>May Day is a European festival of ancient origins marking the beginning of summer, usually celebrated on May 1, around halfway between the Northern Hemisphere's spring equinox and midsummer solstice. Festivities may also be held the night before, known as May Eve. Traditions include gathering green branches and wildflowers ("bringing in the May"), which are used to decorate buildings and made into</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/may-day-20260907.mp3" type="audio/mpeg" length="1221504"/>
+      <guid isPermaLink="false">royal-may-day-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 22:00:55 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Woman Who Ruled an Empire Alone</title>
       <description>Maria Theresa (Maria Theresia Walburga Amalia Christina; 13 May 1717 – 29 November 1780) was the ruler of the Habsburg monarchy from 1740 until her death in 1780, and the only woman to hold the position in her own right. She was the sovereign of Austria, Hungary, Croatia, Bohemia, Transylvania, Slavonia, Mantua, Milan, Moravia, Galicia and Lodomeria, Dalmatia, Austrian Netherlands, Carinthia, Carn</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/maria-theresa-20260907.mp3" type="audio/mpeg" length="1294464"/>
