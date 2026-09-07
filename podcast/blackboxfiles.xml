@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korean Air 801. 229 Dead. The Captain Ignored His Crew.</title>
+      <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20260907.mp3" type="audio/mpeg" length="1087488"/>
+      <guid isPermaLink="false">aviation-korean-air-flight-801-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 21:41:41 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flydubai 981. 62 Dead. The Final Seconds.</title>
       <description>Flydubai Flight 981 (FZ981/FDB981) was a scheduled international passenger flight from Dubai, United Arab Emirates, to Rostov-on-Don, Russia. On 19 March 2016, the Boeing 737-800 aircraft operating the flight crashed during a go-around, killing all 62 passengers and crew on board. 
 The flight occurred at night and the weather at Rostov-on-Don was poor. Flight 981 aborted its first landing attempt </description>
