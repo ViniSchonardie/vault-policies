@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Queen Who Survived Henry VIII's Execution Warrant</title>
+      <description>Catherine Parr (c. July or August 1512 – 5 September 1548) was Queen of England and Ireland as the last of the six wives of King Henry VIII from their marriage on 12 July 1543 until Henry's death on 28 January 1547. Catherine was the final queen consort of the House of Tudor, and outlived Henry by a year and eight months. With four husbands, she is the most-married English queen. She was the first</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/catherine-parr-20260908.mp3" type="audio/mpeg" length="1194240"/>
+      <guid isPermaLink="false">royal-catherine-parr-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 18:14:28 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Queen Who Never Left Mount Olympus</title>
       <description>In ancient Greek religion, Hera (; Ancient Greek: Ἥρα, romanized: Hḗrā; Ἥρη, Hḗrē in Ionic and Homeric Greek) is the goddess of marriage, women, and family, and the protector of women during childbirth. In Greek mythology, she is queen among the twelve Olympians on Mount Olympus, sister and wife of Zeus, and daughter of the Titans Cronus and Rhea. One of her defining characteristics in myth is her</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hera-20260908.mp3" type="audio/mpeg" length="1185408"/>
