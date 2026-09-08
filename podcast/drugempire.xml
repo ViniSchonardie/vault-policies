@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Drug That Kills 100K/Year. Still Legal in UK Hospitals.</title>
+      <description>Heroin, also known as diacetylmorphine and diamorphine among other names, is a morphinan opioid substance synthesized from the dried latex of the opium poppy; it is mainly used as a recreational drug for its euphoric effects. Heroin is used medically in several countries to relieve pain, such as during childbirth or a heart attack. Medical-grade diamorphine is used as a pure hydrochloride salt. Va</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/heroin-20260908.mp3" type="audio/mpeg" length="1416192"/>
+      <guid isPermaLink="false">drugempire-heroin-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 00:40:39 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mexico's $49B Drug War. 120,000 Dead.</title>
       <description>The Mexican drug war is an ongoing asymmetric armed conflict between the Mexican government and various drug trafficking syndicates. When the Mexican military intervened in 2006, the government's main objective was to reduce drug-related violence. The Mexican government has asserted that its primary focus is on dismantling the cartels and preventing drug trafficking. The conflict has been describe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/mexican-drug-war-20260907.mp3" type="audio/mpeg" length="1399680"/>
