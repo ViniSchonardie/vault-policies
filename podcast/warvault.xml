@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sun Tzu. Master or Myth? 2,500 Years of Debate.</title>
+      <description>Sun Tzu (; traditional Chinese: 孫子; simplified Chinese: 孙子; pinyin: Sūnzǐ) was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period (771–256 BC). Sun Tzu is traditionally credited as the author of The Art of War, a Classical Chinese text on military strategy from the Warring States period, though the earliest parts of the work probably date to at</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sun-tzu-20260908.mp3" type="audio/mpeg" length="1269120"/>
+      <guid isPermaLink="false">warvault-sun-tzu-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 00:46:57 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Scipio Africanus. Rome's Savior. Exiled By Rome.</title>
       <description>Publius Cornelius Scipio Africanus (; Latin: [ˈskiːpioː]; 236/235–c. 183 BC) was a Roman general and statesman who was one of the main architects of Rome's victory against Carthage in the Second Punic War. Often regarded as one of the greatest military commanders and strategists of all time, his crowning achievement was the defeat of Hannibal at the Battle of Zama in 202 BC, which earned him the h</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/scipio-africanus-20260907.mp3" type="audio/mpeg" length="1499136"/>
