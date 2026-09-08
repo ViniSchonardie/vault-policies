@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Queen Who Never Left Mount Olympus</title>
+      <description>In ancient Greek religion, Hera (; Ancient Greek: Ἥρα, romanized: Hḗrā; Ἥρη, Hḗrē in Ionic and Homeric Greek) is the goddess of marriage, women, and family, and the protector of women during childbirth. In Greek mythology, she is queen among the twelve Olympians on Mount Olympus, sister and wife of Zeus, and daughter of the Titans Cronus and Rhea. One of her defining characteristics in myth is her</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hera-20260908.mp3" type="audio/mpeg" length="1185408"/>
+      <guid isPermaLink="false">royal-hera-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 00:50:49 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Festival That Suppressed Witches Every May</title>
       <description>May Day is a European festival of ancient origins marking the beginning of summer, usually celebrated on May 1, around halfway between the Northern Hemisphere's spring equinox and midsummer solstice. Festivities may also be held the night before, known as May Eve. Traditions include gathering green branches and wildflowers ("bringing in the May"), which are used to decorate buildings and made into</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/may-day-20260907.mp3" type="audio/mpeg" length="1221504"/>
