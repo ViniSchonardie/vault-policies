@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dresden. 1,299 Bombers. 25,000 Dead. 72 Hours.</title>
+      <description>In four raids between 13 and 15 February 1945, 772 heavy bombers of the Royal Air Force (RAF) and 527 of the United States Army Air Forces (USAAF) dropped more than 3,900 tons of high-explosive bombs and incendiary devices on the German city of Dresden. The bombing and the resulting firestorm destroyed more than 1,600 acres (6.5 km2) of the city centre. Up to 25,000 people were killed. Three more </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/bombing-of-dresden-20260908.mp3" type="audio/mpeg" length="1396224"/>
+      <guid isPermaLink="false">warvault-bombing-of-dresden-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 17:37:47 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sun Tzu. Master or Myth? 2,500 Years of Debate.</title>
       <description>Sun Tzu (; traditional Chinese: 孫子; simplified Chinese: 孙子; pinyin: Sūnzǐ) was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period (771–256 BC). Sun Tzu is traditionally credited as the author of The Art of War, a Classical Chinese text on military strategy from the Warring States period, though the earliest parts of the work probably date to at</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sun-tzu-20260908.mp3" type="audio/mpeg" length="1269120"/>
