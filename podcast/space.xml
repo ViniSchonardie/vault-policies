@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 11: The Only Deaths in Space</title>
+      <description>Soyuz 11 (Russian: Союз 11, lit. 'Union 11') was the only crewed mission to board the world's first space station, Salyut 1. The crew – Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev – arrived at the space station on 7 June 1971, and departed on 29 June 1971. The mission ended in disaster when the crew capsule depressurised during preparations for re-entry, killing the three-person crew</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-11-20260908.mp3" type="audio/mpeg" length="1445376"/>
+      <guid isPermaLink="false">space-soyuz-11-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 17:24:56 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>New Horizons: 9.6 Billion Miles to the Edge</title>
       <description>New Horizons is an interplanetary space probe launched as a part of NASA's New Frontiers program. Launched in 2006, it became the first spacecraft to perform a flyby study and capture high-resolution photographs of Pluto and its moons during its encounter.
 It was engineered by the Johns Hopkins University Applied Physics Laboratory (APL) and the Southwest Research Institute (SwRI), with a team led</description>
