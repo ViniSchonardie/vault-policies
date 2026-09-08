@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Convicted as a Spy. The Real Traitor Walked Free.</title>
+      <description>Alfred Dreyfus (9 October 1859 – 12 July 1935) was a French Army officer best known for his central role in the Dreyfus affair. In 1894, Dreyfus fell victim to a judicial conspiracy that eventually sparked a major political crisis in the French Third Republic when he was wrongfully accused and convicted of being a German spy due to antisemitism. Dreyfus was arrested, cashiered from the French army</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/alfred-dreyfus-20260908.mp3" type="audio/mpeg" length="1120128"/>
+      <guid isPermaLink="false">trials-alfred-dreyfus-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 01:25:52 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Laws That Made Genocide Legal. September 1935.</title>
       <description>The Nuremberg Laws (Nürnberger Gesetze, pronounced [ˈnʏʁnbɛʁɡɐ ɡəˈzɛtsə] ) were antisemitic and racist laws introduced in Nazi Germany on 15 September 1935 at a special session of the Reichstag during the annual Nuremberg Rally of the Nazi Party. The legislation comprised two measures. The Law for the Protection of German Blood and German Honour prohibited marriages and sexual relations between Je</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/nuremberg-laws-20260907.mp3" type="audio/mpeg" length="1313280"/>
