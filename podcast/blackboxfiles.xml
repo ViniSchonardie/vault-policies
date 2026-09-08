@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ukraine Flight 752. 176 Dead. Iran Denied It.</title>
+      <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
+Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ukraine-international-airlines-flight-752-20260908.mp3" type="audio/mpeg" length="1317504"/>
+      <guid isPermaLink="false">aviation-ukraine-international-airlines-flight-752-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 21:21:38 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAM Flight 3054. 199 Dead. One Lever.</title>
       <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20260908.mp3" type="audio/mpeg" length="1237248"/>
