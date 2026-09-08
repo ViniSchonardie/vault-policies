@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Flight 1354. 2 Dead. Descended Below Clouds.</title>
+      <description>UPS Airlines Flight 1354 was a scheduled cargo flight from Louisville, Kentucky, to Birmingham, Alabama. On August 14, 2013, the Airbus A300 flying the route crashed and burst into flames short of the runway on approach to Birmingham–Shuttlesworth International Airport. Both pilots were pronounced dead at the scene of the crash. They were the only people aboard the aircraft. It was the second fata</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-1354-20260908.mp3" type="audio/mpeg" length="1373184"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-1354-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 00:36:32 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korean Air 801. 229 Dead. The Captain Ignored His Crew.</title>
       <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20260907.mp3" type="audio/mpeg" length="1087488"/>
