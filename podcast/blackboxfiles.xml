@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TAM Flight 3054. 199 Dead. One Lever.</title>
+      <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20260908.mp3" type="audio/mpeg" length="1237248"/>
+      <guid isPermaLink="false">aviation-tam-airlines-flight-3054-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 18:03:44 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UPS Flight 1354. 2 Dead. Descended Below Clouds.</title>
       <description>UPS Airlines Flight 1354 was a scheduled cargo flight from Louisville, Kentucky, to Birmingham, Alabama. On August 14, 2013, the Airbus A300 flying the route crashed and burst into flames short of the runway on approach to Birmingham–Shuttlesworth International Airport. Both pilots were pronounced dead at the scene of the crash. They were the only people aboard the aircraft. It was the second fata</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-1354-20260908.mp3" type="audio/mpeg" length="1373184"/>
