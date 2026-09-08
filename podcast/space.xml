@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>New Horizons: 9.6 Billion Miles to the Edge</title>
+      <description>New Horizons is an interplanetary space probe launched as a part of NASA's New Frontiers program. Launched in 2006, it became the first spacecraft to perform a flyby study and capture high-resolution photographs of Pluto and its moons during its encounter.
+It was engineered by the Johns Hopkins University Applied Physics Laboratory (APL) and the Southwest Research Institute (SwRI), with a team led</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/new-horizons-20260908.mp3" type="audio/mpeg" length="1031424"/>
+      <guid isPermaLink="false">space-new-horizons-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 00:35:07 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 12: Lightning Strike Nearly Killed the Moon Mission</title>
       <description>Apollo 12 (November 14–24, 1969) was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles "Pete" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-12-20260907.mp3" type="audio/mpeg" length="1068288"/>
