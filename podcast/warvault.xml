@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gulf of Tonkin. One Real Attack. One Fake. A War.</title>
+      <description>The Gulf of Tonkin incident (Vietnamese: Sự kiện Vịnh Bắc Bộ) refers to a naval confrontation in the Gulf of Tonkin off the coast of North Vietnam, which led to the United States engaging more directly in the Vietnam War. On 2 August 1964 there was a clash between a destroyer of the United States Navy that was collecting signals intelligence close to North Vietnamese waters, and three North Vietna</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/gulf-of-tonkin-incident-20260908.mp3" type="audio/mpeg" length="1266048"/>
+      <guid isPermaLink="false">warvault-gulf-of-tonkin-incident-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 20:25:03 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dresden. 1,299 Bombers. 25,000 Dead. 72 Hours.</title>
       <description>In four raids between 13 and 15 February 1945, 772 heavy bombers of the Royal Air Force (RAF) and 527 of the United States Army Air Forces (USAAF) dropped more than 3,900 tons of high-explosive bombs and incendiary devices on the German city of Dresden. The bombing and the resulting firestorm destroyed more than 1,600 acres (6.5 km2) of the city centre. Up to 25,000 people were killed. Three more </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/bombing-of-dresden-20260908.mp3" type="audio/mpeg" length="1396224"/>
