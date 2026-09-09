@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed His Family. Then Married Again. Same Year.</title>
+      <description>Frederick Bailey Deeming was an English serial killer who was convicted and executed for the murder of his entire family in Rainhill, Merseyside, England, and his second wife in Melbourne, Australia. He is remembered today because he was suspected by some of being the notorious serial killer Jack the Ripper.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/frederick-bailey-deeming-20260909.mp3" type="audio/mpeg" length="1274496"/>
+      <guid isPermaLink="false">crime-frederick-bailey-deeming-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 17:13:00 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Five Shot in Two Months. Killer Lived Next Door.</title>
       <description>James Dale Ritchie was an American serial killer who, throughout 2016, murdered five individuals in and around Anchorage, Alaska, most of whom were in parks or along bike paths. He always committed his murders at night, often around midnight or a short time after. Ritchie was killed during a shootout with police officers in downtown Anchorage on November 12, 2016. Following his death, a Colt Pytho</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/james-dale-ritchie-20260908.mp3" type="audio/mpeg" length="1186176"/>
