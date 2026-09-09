@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ned Kelly. The armour that couldn't save him.</title>
+      <description>Edward Kelly (December 1854 – 11 November 1880) was an Australian bushranger, gang leader and police-murderer. One of the last bushrangers, he is known for wearing a homemade suit of bulletproof armour during his final shootout with the police.
+Kelly was born and raised in rural Victoria, the third of eight children to Irish parents. His father, a transported convict, died in 1866, leaving Kelly, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ned-kelly-20260909.mp3" type="audio/mpeg" length="1231104"/>
+      <guid isPermaLink="false">realstory-ned-kelly-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 21:15:52 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Drake. The Hero Who Started as a Slave Trader.</title>
       <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/francis-drake-20260909.mp3" type="audio/mpeg" length="1237248"/>
