@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 9: The First Lunar Module Test Flight</title>
+      <description>Apollo 9 (March 3–13, 1969) was the third human spaceflight in NASA's Apollo program, which successfully tested systems and procedures critical to landing on the Moon. The three-man crew consisted of Commander James McDivitt, Command Module Pilot David Scott, and Lunar Module Pilot Rusty Schweickart. Flown in low Earth orbit, it was the second crewed Apollo mission that the United States launched </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-9-20260909.mp3" type="audio/mpeg" length="1171584"/>
+      <guid isPermaLink="false">space-apollo-9-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 19:53:19 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz 1: The Parachute That Never Opened</title>
       <description>Vladimir Mikhaylovich Komarov (Russian: Владимир Михайлович Комаров, IPA: [vlɐˈdʲimʲɪr mʲɪˈxajləvʲɪtɕ kəmɐˈrof]; 16 March 1927 – 24 April 1967) was a Soviet test pilot, aerospace engineer, and cosmonaut. In October 1964, he commanded Voskhod 1, the first spaceflight to carry more than one crew member. He became the first Soviet cosmonaut to fly in space twice when he was selected as the solo pilot</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vladimir-komarov-20260909.mp3" type="audio/mpeg" length="1200768"/>
