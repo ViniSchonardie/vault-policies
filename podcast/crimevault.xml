@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Australian Minister Murdered a Barman. Then Died in Asylum.</title>
+      <description>Thomas John Ley was an Australian politician who was convicted of murder in England. He is widely suspected to have been involved in the deaths of a number of people in Australia, including political rivals.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-ley-20260909.mp3" type="audio/mpeg" length="1213440"/>
+      <guid isPermaLink="false">crime-thomas-ley-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 23:45:07 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned 102 People. Called Her 'Good Mie.'</title>
       <description>Maria Catherina van der Linden-Swanenburg was a Dutch serial killer who murdered at least 27 people and was suspected of killing more than 90 people.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/maria-swanenburg-20260909.mp3" type="audio/mpeg" length="1101312"/>
