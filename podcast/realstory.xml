@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Drake. The Hero Who Started as a Slave Trader.</title>
+      <description>Sir Francis Drake (c. 1540 – 28 January 1596) was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580 (being the first English expedition to accomplish this). He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/francis-drake-20260909.mp3" type="audio/mpeg" length="1237248"/>
+      <guid isPermaLink="false">realstory-francis-drake-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 00:38:57 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lewis and Clark. They Almost Started a War.</title>
       <description>The Lewis and Clark Expedition, also known as the Corps of Discovery Expedition, was the United States expedition to cross the newly acquired western portion of the country after the Louisiana Purchase. The Corps of Discovery was a select group of U.S. Army and civilian volunteers under the command of Captain Meriwether Lewis and his close friend Second Lieutenant William Clark. Clark, along with </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/lewis-and-clark-expedition-20260908.mp3" type="audio/mpeg" length="1130496"/>
