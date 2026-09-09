@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2,000 Years Secret. No One Ever Broke the Oath.</title>
+      <description>The Eleusinian Mysteries (Greek: Ἐλευσίνια Μυστήρια, romanized: Eleusínia Mystḗria) were initiations held every year for the cult of Demeter and Persephone based at the Panhellenic Sanctuary of Eleusis in ancient Greece. They are considered the "most famous of the secret religious rites of ancient Greece". Their basis was a Bronze Age agrarian cult, and there is some evidence that they were derive</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/eleusinian-mysteries-20260909.mp3" type="audio/mpeg" length="1314816"/>
+      <guid isPermaLink="false">trials-eleusinian-mysteries-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 19:32:27 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spandau Prison: The Loneliest Nazi Left Behind</title>
       <description>Spandau Prison was a military prison located in the Spandau borough of West Berlin (present-day Berlin, Germany). Built in 1876, it became a proto-concentration camp under Nazi Germany. After the Second World War, it held seven top Nazi leaders convicted in the Nuremberg trials. After the death of its last prisoner, Rudolf Hess, in August 1987, the prison was demolished and replaced by a shopping </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/spandau-prison-20260909.mp3" type="audio/mpeg" length="1147776"/>
