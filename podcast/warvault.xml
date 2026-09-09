@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bunker Hill. British Won. They Never Attacked Again.</title>
+      <description>The Battle of Bunker Hill was fought on June 17, 1775, during the Siege of Boston in the first stage of the American Revolutionary War. The battle is named after Bunker Hill in Charlestown, Massachusetts, which was peripherally involved. It was the original objective of both the colonial and British troops, though the majority of combat took place on the adjacent hill, which became known as Breed'</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-bunker-hill-20260909.mp3" type="audio/mpeg" length="990336"/>
+      <guid isPermaLink="false">warvault-battle-of-bunker-hill-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 20:07:42 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fall of Saigon. 20 Years of War. Lost in 56 Days.</title>
       <description>Saigon, the capital of South Vietnam, was captured by North Vietnam on 30 April 1975. This caused the evacuation of thousands of civilians and U.S. personnel, and ended the Vietnam War. The aftermath ushered in a transition period under the Provisional Revolutionary Government of the Republic of South Vietnam until the formal reunification in 1976.
 As part of the 1975 spring offensive, the People'</description>
