@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Culloden. 40 Minutes. 1,500 Dead. The End of Scotland.</title>
+      <description>The Battle of Culloden took place on 16 April 1746, near Inverness, in the Scottish Highlands. A Jacobite army under Charles Edward Stuart was decisively defeated by a British government force commanded by the Duke of Cumberland, thereby ending the Jacobite rising of 1745.
+Charles landed in Scotland in July 1745, seeking to restore his father James Francis Edward Stuart to the British throne. He q</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-culloden-20260909.mp3" type="audio/mpeg" length="1330944"/>
+      <guid isPermaLink="false">warvault-battle-of-culloden-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 00:46:57 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gulf of Tonkin. One Real Attack. One Fake. A War.</title>
       <description>The Gulf of Tonkin incident (Vietnamese: Sự kiện Vịnh Bắc Bộ) refers to a naval confrontation in the Gulf of Tonkin off the coast of North Vietnam, which led to the United States engaging more directly in the Vietnam War. On 2 August 1964 there was a clash between a destroyer of the United States Navy that was collecting signals intelligence close to North Vietnamese waters, and three North Vietna</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/gulf-of-tonkin-incident-20260908.mp3" type="audio/mpeg" length="1266048"/>
