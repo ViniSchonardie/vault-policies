@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Poisoned 102 People. Called Her 'Good Mie.'</title>
+      <description>Maria Catherina van der Linden-Swanenburg was a Dutch serial killer who murdered at least 27 people and was suspected of killing more than 90 people.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/maria-swanenburg-20260909.mp3" type="audio/mpeg" length="1101312"/>
+      <guid isPermaLink="false">crime-maria-swanenburg-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 20:23:05 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed His Family. Then Married Again. Same Year.</title>
       <description>Frederick Bailey Deeming was an English serial killer who was convicted and executed for the murder of his entire family in Rainhill, Merseyside, England, and his second wife in Melbourne, Australia. He is remembered today because he was suspected by some of being the notorious serial killer Jack the Ripper.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/frederick-bailey-deeming-20260909.mp3" type="audio/mpeg" length="1274496"/>
