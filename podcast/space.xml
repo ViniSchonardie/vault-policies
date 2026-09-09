@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz 1: The Parachute That Never Opened</title>
+      <description>Vladimir Mikhaylovich Komarov (Russian: Владимир Михайлович Комаров, IPA: [vlɐˈdʲimʲɪr mʲɪˈxajləvʲɪtɕ kəmɐˈrof]; 16 March 1927 – 24 April 1967) was a Soviet test pilot, aerospace engineer, and cosmonaut. In October 1964, he commanded Voskhod 1, the first spaceflight to carry more than one crew member. He became the first Soviet cosmonaut to fly in space twice when he was selected as the solo pilot</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vladimir-komarov-20260909.mp3" type="audio/mpeg" length="1200768"/>
+      <guid isPermaLink="false">space-vladimir-komarov-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 17:18:18 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kessler Syndrome: One Collision Could End Space Forever</title>
       <description>The Kessler syndrome, also known as the Kessler effect, collisional cascading, or ablation cascade, is a scenario proposed by NASA scientists Donald J. Kessler and Burton G. Cour-Palais in 1978. It describes a situation in which the density of objects in low Earth orbit (LEO) becomes so high due to space pollution that collisions between these objects cascade, exponentially increasing the amount o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/kessler-syndrome-20260909.mp3" type="audio/mpeg" length="1858944"/>
