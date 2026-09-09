@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Metro-North Train. 6 Dead. She Drove Forward.</title>
+      <description>On the evening of February 3, 2015, a commuter train on Metro-North Railroad's Harlem Line struck a passenger car at a grade crossing on Commerce Street near Valhalla, New York, United States. Six people were killed and 15 others injured, seven severely. It is the deadliest crash in Metro-North's history, and was at the time the deadliest rail accident in the United States since the June 2009 Wash</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valhalla-train-crash-20260909.mp3" type="audio/mpeg" length="1238400"/>
+      <guid isPermaLink="false">aviation-valhalla-train-crash-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 00:27:26 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ukraine Flight 752. 176 Dead. Iran Denied It.</title>
       <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
 Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
