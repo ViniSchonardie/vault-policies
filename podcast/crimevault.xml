@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Killin' Jim Miller: Hired Gun. Lynched by Mob.</title>
+      <description>James Brown Miller, also known as "Killin' Jim", "Killer Miller" and "Deacon Jim", was an American outlaw and title-holder gunfighter of the American Old West, said to have killed 12 people during gunfights. Miller was referred to by some by the alias "Deacon Jim" because he regularly attended the Methodist Church, and he did not smoke or drink. He was lynched in Ada, Oklahoma, in 1909 along with </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jim-miller-20260910.mp3" type="audio/mpeg" length="1119360"/>
+      <guid isPermaLink="false">crime-jim-miller-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 20:25:39 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Watchmaker of Montreuil: 7 Poisonings, 1 Stove</title>
       <description>Félix-Albert Pel was a French suspected serial killer. He was nicknamed The Watchmaker of Montreuil.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-pel-20260910.mp3" type="audio/mpeg" length="965760"/>
