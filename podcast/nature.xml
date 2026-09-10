@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Great Blue Heron: 54-Inch Apex Predator</title>
+      <description>The great blue heron (Ardea herodias) is a large wading bird in the heron family (Ardeidae), common near shores of open water and wetlands over most of North and Central America, as well as Northwestern South America, the Caribbean, and the Galápagos Islands. It is occasionally found in the Azores and is a rare vagrant to Europe. An all-white population found in South Florida and the Florida Keys </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-blue-heron-20260910.mp3" type="audio/mpeg" length="1152000"/>
+      <guid isPermaLink="false">nature-great-blue-heron-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 16:24:58 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Burmese Python. It ate 99% of Florida's raccoons.</title>
       <description>The Burmese python (Python bivittatus) is one of the largest species of snakes. It is native to a large area of Southeast Asia and is listed as Vulnerable on the IUCN Red List. Until 2009, it was considered a subspecies of the Indian python, but is now recognized as a distinct species. It is an invasive species in the US state of Florida as a result of the pet trade.
 
