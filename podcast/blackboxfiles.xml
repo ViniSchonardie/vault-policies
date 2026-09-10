@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Apollo 1. Three Dead. The Hatch That Sealed Their Fate.</title>
+      <description>Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch C</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/apollo-1-20260910.mp3" type="audio/mpeg" length="1156608"/>
+      <guid isPermaLink="false">aviation-apollo-1-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 17:50:17 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air France 447. 228 Dead. Ice Crystals Killed Them All.</title>
       <description>Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France, that crashed into the mid-Atlantic Ocean on 1 June 2009 killing all 228 passengers and crew on board. The incident, which occurred on an Airbus A330, happened because inconsistent airspeed indications and resulting miscommunication between the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-447-20260910.mp3" type="audio/mpeg" length="1310592"/>
