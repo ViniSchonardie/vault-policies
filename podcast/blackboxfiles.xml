@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>United 328. 241 Safe. Engine Shattered at 12,500 Feet.</title>
+      <description>On February 20, 2021, United Airlines Flight 328, a scheduled domestic flight from Denver to Honolulu, suffered a contained engine failure shortly after takeoff from Denver International Airport (DEN). The aircraft, a Boeing 777 powered by Pratt &amp; Whitney (P&amp;W) model PW4077 turbofan engines, experienced a fan blade separation due to metal fatigue causing an engine fire and extensive damage to the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-328-20260910.mp3" type="audio/mpeg" length="1367040"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-328-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 21:05:14 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 1. Three Dead. The Hatch That Sealed Their Fate.</title>
       <description>Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch C</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/apollo-1-20260910.mp3" type="audio/mpeg" length="1156608"/>
