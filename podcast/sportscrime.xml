@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tom Brady Won Super Bowl LV. At Home. Age 43.</title>
+      <description>Super Bowl LV was an American football game played to determine the champion of the National Football League (NFL) for the 2020 season. The National Football Conference (NFC) champion Tampa Bay Buccaneers defeated the defending Super Bowl and American Football Conference (AFC) champions Kansas City Chiefs, 31–9. The game was played on February 7, 2021, at Raymond James Stadium in Tampa, Florida, t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/super-bowl-lv-20260910.mp3" type="audio/mpeg" length="1021440"/>
+      <guid isPermaLink="false">sportscrime-super-bowl-lv-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 18:46:06 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rasheed Wallace Won a Title. Then Broke His Own Record.</title>
       <description>Rasheed Abdul Wallace (born September 17, 1974) is an American basketball coach and former professional player. A native of Philadelphia, Wallace played college basketball for the North Carolina Tar Heels before declaring for the draft in 1995. He played 16 seasons in the National Basketball Association (NBA).
 Originally selected by the Washington Bullets (now known as the Washington Wizards) as t</description>
