@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air France 447. 228 Dead. Ice Crystals Killed Them All.</title>
+      <description>Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France, that crashed into the mid-Atlantic Ocean on 1 June 2009 killing all 228 passengers and crew on board. The incident, which occurred on an Airbus A330, happened because inconsistent airspeed indications and resulting miscommunication between the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-447-20260910.mp3" type="audio/mpeg" length="1310592"/>
+      <guid isPermaLink="false">aviation-air-france-flight-447-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 00:25:48 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>79 Dead. He Was Texting. The Safety System Wasn't There.</title>
       <description>On 24 July 2013, an Alvia high-speed train travelling from Madrid to Ferrol, in the north-west of Spain, derailed at high speed on a bend about 4 kilometres (2.5 mi) outside the railway station at Santiago de Compostela. Of the 178 people injured, the final number of deaths had reached 78.
 The train's data recorder showed that it had been travelling at over twice the posted speed limit of 80 kilom</description>
