@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Watchmaker of Montreuil: 7 Poisonings, 1 Stove</title>
+      <description>Félix-Albert Pel was a French suspected serial killer. He was nicknamed The Watchmaker of Montreuil.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/albert-pel-20260910.mp3" type="audio/mpeg" length="965760"/>
+      <guid isPermaLink="false">crime-albert-pel-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 17:02:56 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Australian Minister Murdered a Barman. Then Died in Asylum.</title>
       <description>Thomas John Ley was an Australian politician who was convicted of murder in England. He is widely suspected to have been involved in the deaths of a number of people in Australia, including political rivals.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-ley-20260909.mp3" type="audio/mpeg" length="1213440"/>
