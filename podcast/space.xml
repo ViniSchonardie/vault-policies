@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Black Woman in Space: Mae Jemison's 8-Day Mission</title>
+      <description>Mae Carol Jemison (born October 17, 1956) is an American engineer, physician, and former NASA astronaut. She became the first African-American woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour in 1992. Jemison joined NASA's astronaut corps in 1987 and was selected for the STS-47 mission, during which the Endeavour orbited the Earth for nearly eig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mae-jemison-20260910.mp3" type="audio/mpeg" length="1159296"/>
+      <guid isPermaLink="false">space-mae-jemison-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 19:48:33 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 14: One Last Chance to Save the Program</title>
       <description>Apollo 14 (January 31 – February 9, 1971) was the eighth crewed mission in the United States Apollo program, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the "H missions", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities (EVAs or moonwalks).
 The mission was originally schedule</description>
