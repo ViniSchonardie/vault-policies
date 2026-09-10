@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Coral Sea. 4 Days. Ships Never Saw Each Other.</title>
+      <description>The Battle of the Coral Sea, from 4 to 8 May 1942, was a major naval battle between the Imperial Japanese Navy (IJN) and naval and air forces of the United States and Australia. Taking place in the Pacific Theatre of World War II, the battle was the first naval action in which the opposing fleets neither sighted nor fired upon one another, attacking over the horizon from aircraft carriers instead.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-coral-sea-20260910.mp3" type="audio/mpeg" length="1132800"/>
+      <guid isPermaLink="false">warvault-battle-of-the-coral-sea-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 20:08:58 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bull Run. 18,000 vs 18,000. War Changed Forever.</title>
       <description>The First Battle of Bull Run, called the Battle of First Manassas by Confederate forces, was the first major battle of the American Civil War. The battle was fought on July 21, 1861, in Prince William County, Virginia, just north of what is now the city of Manassas and about thirty miles west-southwest of Washington, D.C. The Union army was slow in positioning themselves, allowing Confederate rein</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-battle-of-bull-run-20260910.mp3" type="audio/mpeg" length="1108224"/>
