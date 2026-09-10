@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 14: One Last Chance to Save the Program</title>
+      <description>Apollo 14 (January 31 – February 9, 1971) was the eighth crewed mission in the United States Apollo program, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the "H missions", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities (EVAs or moonwalks).
+The mission was originally schedule</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-14-20260910.mp3" type="audio/mpeg" length="1232640"/>
+      <guid isPermaLink="false">space-apollo-14-20260910</guid>
+      <pubDate>Thu, 10 Sep 2026 17:09:04 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 15: The Moon's First Rover Mission</title>
       <description>Apollo 15 (July 26 – August 7, 1971) was the ninth crewed mission in the Apollo program and the fourth Moon landing. It was the first J mission, with a longer stay on the Moon and a greater focus on science than earlier landings. Apollo 15 saw the first use of the Lunar Roving Vehicle.
 The mission began on July 26 and ended on August 7, with the lunar surface exploration taking place between July </description>
