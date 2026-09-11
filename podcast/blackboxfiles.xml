@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>MH370. 239 Dead. Still Missing.</title>
+      <description>Malaysia Airlines Flight 370 (MH370 / MAS370) was an international passenger flight operated by Malaysia Airlines that disappeared from radar on 8 March 2014 while flying from Kuala Lumpur International Airport in Malaysia to its planned destination, Beijing Capital International Airport in China, killing 239 passengers and crew members. The cause of its disappearance has not been determined. It i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-370-20260911.mp3" type="audio/mpeg" length="1889280"/>
+      <guid isPermaLink="false">aviation-malaysia-airlines-flight-370-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 17:52:55 GMT</pubDate>
+      <itunes:duration>118</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>CHC Scotia Super Puma. 4 Dead. Pilots Never Saw It Coming.</title>
       <description>On 23 August 2013, a Eurocopter AS332 Super Puma helicopter belonging to CHC Scotia crashed into the sea 2 nautical miles (3.7 km; 2.3 mi) from Sumburgh in the Shetland Islands, Scotland, while en route from the Borgsten Dolphin drilling rig. The accident killed four passengers; twelve other passengers and two crew were rescued with injuries. A further passenger committed suicide in 2017 as a resu</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2013-chc-helicopters-eurocopter-as332-crash-20260911.mp3" type="audio/mpeg" length="1120128"/>
