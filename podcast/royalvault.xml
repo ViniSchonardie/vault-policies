@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Gold That Never Existed</title>
+      <description>El Dorado (Spanish: [el doˈɾaðo]) is a mythical city of gold supposedly located somewhere in South America. The king of this city was said to be so rich that he would cover himself from head to foot in gold dust – either daily or on certain ceremonial occasions – before diving into a sacred lake to wash it off. The legend was first recorded in the 16th century by Spanish colonists in the Americas;</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/el-dorado-20260911.mp3" type="audio/mpeg" length="1145856"/>
+      <guid isPermaLink="false">royal-el-dorado-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 00:42:25 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Church That Buried 40 Kings and Hid a Saint's Bones</title>
       <description>Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.
 Although the origin</description>
