@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 1: The Fire That Killed America's First Spacewalker</title>
+      <description>Edward Higgins White II (November 14, 1930 – January 27, 1967) was an American aeronautical engineer, United States Air Force officer, test pilot, and NASA astronaut. He was a member of the crews of Gemini 4 and Apollo 1.
+After graduating from West Point in 1952 with a Bachelor of Science degree, White was sent to flight training, and assigned to the 22nd Fighter Day Squadron at Bitburg Air Base, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ed-white-20260911.mp3" type="audio/mpeg" length="1139328"/>
+      <guid isPermaLink="false">space-ed-white-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 17:08:28 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 7: The Mission That Saved America's Moon Program</title>
       <description>Apollo 7 (October 11–22, 1968) was the first crewed flight in NASA's Apollo program, and saw the resumption of human spaceflight by the agency after the fire that killed the three Apollo 1 astronauts during a launch rehearsal test on January 27, 1967. The Apollo 7 crew was commanded by Walter M. Schirra, with Command Module Pilot Donn F. Eisele and Lunar Module pilot R. Walter Cunningham (so desig</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-7-20260911.mp3" type="audio/mpeg" length="1208832"/>
