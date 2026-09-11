@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Tortured 4 Families. With His 12-Year-Old Son.</title>
+      <description>Joseph Kallinger was an American serial killer who murdered three people and tortured four families. He committed the later crimes with his 12-year-old son Michael.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-kallinger-20260911.mp3" type="audio/mpeg" length="1222656"/>
+      <guid isPermaLink="false">crime-joseph-kallinger-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 20:25:34 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Murdered 193 Children. Police Almost Missed Him.</title>
       <description>Luis Alfredo Garavito Cubillos, also known as La Bestia or Tribilín ("Goofy"), was a Colombian serial killer and sex offender who sexually assaulted 200 victims before murdering 193 victims, mostly young men and boys from 1992 to 1999 in western Colombia.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/luis-alfredo-garavito-20260910.mp3" type="audio/mpeg" length="1231488"/>
