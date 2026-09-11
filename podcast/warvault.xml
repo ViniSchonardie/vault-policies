@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fallujah 2004. Six Weeks. Bloodiest Battle Since Vietnam.</title>
+      <description>The Second Battle of Fallujah, initially codenamed Operation Phantom Fury, Operation al-Fajr (Arabic: الفجر, lit. 'The Dawn') was an American-led offensive of the Iraq War that began on 7 November 2004 and lasted about six weeks. 
+A joint military effort of the United States, the Iraqi Interim Government, and the United Kingdom, the battle was the war's first major engagement fought solely against</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-fallujah-20260911.mp3" type="audio/mpeg" length="1286016"/>
+      <guid isPermaLink="false">warvault-second-battle-of-fallujah-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 00:40:26 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Coral Sea. 4 Days. Ships Never Saw Each Other.</title>
       <description>The Battle of the Coral Sea, from 4 to 8 May 1942, was a major naval battle between the Imperial Japanese Navy (IJN) and naval and air forces of the United States and Australia. Taking place in the Pacific Theatre of World War II, the battle was the first naval action in which the opposing fleets neither sighted nor fired upon one another, attacking over the horizon from aircraft carriers instead.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-coral-sea-20260910.mp3" type="audio/mpeg" length="1132800"/>
