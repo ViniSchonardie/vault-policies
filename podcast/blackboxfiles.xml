@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Flight 2976. 15 Dead. Engine Ripped Off.</title>
+      <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20260911.mp3" type="audio/mpeg" length="1125504"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-2976-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 21:09:20 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MH370. 239 Dead. Still Missing.</title>
       <description>Malaysia Airlines Flight 370 (MH370 / MAS370) was an international passenger flight operated by Malaysia Airlines that disappeared from radar on 8 March 2014 while flying from Kuala Lumpur International Airport in Malaysia to its planned destination, Beijing Capital International Airport in China, killing 239 passengers and crew members. The cause of its disappearance has not been determined. It i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-370-20260911.mp3" type="audio/mpeg" length="1889280"/>
