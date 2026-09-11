@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>CHC Scotia Super Puma. 4 Dead. Pilots Never Saw It Coming.</title>
+      <description>On 23 August 2013, a Eurocopter AS332 Super Puma helicopter belonging to CHC Scotia crashed into the sea 2 nautical miles (3.7 km; 2.3 mi) from Sumburgh in the Shetland Islands, Scotland, while en route from the Borgsten Dolphin drilling rig. The accident killed four passengers; twelve other passengers and two crew were rescued with injuries. A further passenger committed suicide in 2017 as a resu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2013-chc-helicopters-eurocopter-as332-crash-20260911.mp3" type="audio/mpeg" length="1120128"/>
+      <guid isPermaLink="false">aviation-2013-chc-helicopters-eurocopter-as332-crash-20260911</guid>
+      <pubDate>Fri, 11 Sep 2026 00:20:27 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>United 328. 241 Safe. Engine Shattered at 12,500 Feet.</title>
       <description>On February 20, 2021, United Airlines Flight 328, a scheduled domestic flight from Denver to Honolulu, suffered a contained engine failure shortly after takeoff from Denver International Airport (DEN). The aircraft, a Boeing 777 powered by Pratt &amp; Whitney (P&amp;W) model PW4077 turbofan engines, experienced a fan blade separation due to metal fatigue causing an engine fire and extensive damage to the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-328-20260910.mp3" type="audio/mpeg" length="1367040"/>
