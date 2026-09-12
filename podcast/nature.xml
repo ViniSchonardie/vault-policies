@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>African Elephant. 7 Million Years of Survival.</title>
+      <description>African elephants are members of the genus Loxodonta comprising two living elephant species, the African bush elephant (L. africana) and the smaller African forest elephant (L. cyclotis). Both are social herbivores with grey skin. However, they differ in the size and colour of their tusks as well as the shape and size of their ears and skulls.
+Both species are at risk of extinction according to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/african-elephant-20260912.mp3" type="audio/mpeg" length="1261056"/>
+      <guid isPermaLink="false">nature-african-elephant-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 19:20:05 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pink River Dolphin. The Only Freshwater Dolphin That Changes Color.</title>
       <description>The Amazon river dolphin (Inia geoffrensis), also known as the boto, bufeo or pink river dolphin, is a species of toothed whale endemic to South America and is classified in the family Iniidae. Three subspecies are currently recognized: I. g. geoffrensis (Amazon river dolphin), I. g. boliviensis (Bolivian river dolphin) and I. g. humboldtiana (Orinoco river dolphin). The position of the Araguaian </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/amazon-river-dolphin-20260912.mp3" type="audio/mpeg" length="1170816"/>
