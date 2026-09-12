@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Teen Sniper: 10 Killed in 3 Weeks. The Mastermind Was His Guardian.</title>
+      <description>Lee Boyd Malvo, also known as John Lee Malvo, is a Jamaican convicted mass murderer who, along with John Allen Muhammad, committed a series of murders dubbed the D.C. sniper attacks over a three-week period in October 2002.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lee-boyd-malvo-20260912.mp3" type="audio/mpeg" length="1294848"/>
+      <guid isPermaLink="false">crime-lee-boyd-malvo-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 16:14:39 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nurse Killed 4 Children. Nobody Noticed for 59 Days.</title>
       <description>Beverly Gail Allitt is an English serial killer who was convicted of murdering three infants and an 11-year-old boy, and attempting to murder three others, and causing grievous bodily harm to a further six at Grantham and Kesteven Hospital, Lincolnshire, between February and April 1991. She committed the murders as a State Enrolled Nurse on the hospital's children's ward.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/beverley-allitt-20260911.mp3" type="audio/mpeg" length="1034112"/>
