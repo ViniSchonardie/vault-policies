@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cassini: 20 Years to Burn Up in Saturn</title>
+      <description>Cassini–Huygens ( kə-SEE-nee HOY-gənz), commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which la</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/cassinihuygens-20260912.mp3" type="audio/mpeg" length="1194240"/>
+      <guid isPermaLink="false">space-cassinihuygens-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 19:28:38 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Human in Space: 108 Minutes That Changed Everything</title>
       <description>Vostok 1 (Russian: Восток, lit. 'East'  or 'Orient') was the first spaceflight of the Vostok programme and the first human orbital spaceflight in history. The Vostok 3KA space capsule was launched from Baikonur Cosmodrome on 12 April 1961, with Soviet cosmonaut Yuri Gagarin aboard, making him the first human to reach orbital velocity around the Earth and to complete a full orbit around the Earth.
 </description>
