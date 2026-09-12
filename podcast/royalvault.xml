@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The King Who Reigned 9 Months. Then Lost Everything.</title>
+      <description>Harold Godwinson (c. 1022/23 – 14 October 1066), also called Harold II, was the last crowned Anglo-Saxon king of England. Harold reigned from 6 January 1066 until his death at the Battle of Hastings on 14 October 1066, the decisive battle of the Norman Conquest. He was succeeded by William the Conqueror, the victor at Hastings.
+Harold Godwinson was a member of one of the most powerful noble famili</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/harold-godwinson-20260912.mp3" type="audio/mpeg" length="964608"/>
+      <guid isPermaLink="false">royal-harold-godwinson-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 21:10:34 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>King James I Banned a Bible to Control Your Thoughts</title>
       <description>The King James Version (KJV), also known as the King James Bible (KJB) and the Authorized Version, is an Early Modern English translation of the Christian Bible for the Church of England, which was commissioned in 1604 and published in 1611, by sponsorship of King James VI and I. The 80 books of the KJV include 39 books of the Old Testament, 14 books of Apocrypha, and the 27 books of the New Testa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/king-james-version-20260912.mp3" type="audio/mpeg" length="1342848"/>
