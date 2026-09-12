@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Human in Space: 108 Minutes That Changed Everything</title>
+      <description>Vostok 1 (Russian: Восток, lit. 'East'  or 'Orient') was the first spaceflight of the Vostok programme and the first human orbital spaceflight in history. The Vostok 3KA space capsule was launched from Baikonur Cosmodrome on 12 April 1961, with Soviet cosmonaut Yuri Gagarin aboard, making him the first human to reach orbital velocity around the Earth and to complete a full orbit around the Earth.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vostok-1-20260912.mp3" type="audio/mpeg" length="1199616"/>
+      <guid isPermaLink="false">space-vostok-1-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 16:28:25 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>690,000 MPH: The Fastest Object Ever Built</title>
       <description>The Parker Solar Probe (PSP; previously Solar Probe, Solar Probe Plus or Solar Probe+) is a NASA space probe launched in 2018 to make observations of the Sun's outer corona.
 It used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86 solar radii (6.9 million km or 4.3 million miles) from the center of the Sun. At its closest approach in 2024, its speed relati</description>
