@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest 1380. 1 Dead. The Engine That Killed Her.</title>
+      <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20260912.mp3" type="audio/mpeg" length="1353600"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1380-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 17:23:11 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tu-154 Crash. 92 Dead. The Pilot's Fatal Illusion.</title>
       <description>On 25 December 2016, a Tupolev Tu-154 jetliner of the Russian Defence Ministry crashed into the Black Sea shortly after taking off from Sochi International Airport, Russia, while en route to Khmeimim Air Base, Syria, during the Russian military intervention in the war in Syria. All 92 passengers and crew on board, including 64 members of the Alexandrov Ensemble choir of the Russian Armed Forces, w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2016-russian-defence-ministry-tupolev-tu-154-crash-20260912.mp3" type="audio/mpeg" length="1205376"/>
