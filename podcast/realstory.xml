@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carnegie: The Steel King Who Gave It All Away</title>
+      <description>Andrew Carnegie (November 25, 1835 – August 11, 1919) was a Scottish-American industrialist and philanthropist. Carnegie led the expansion of the American steel industry in the late-19th century and became one of the richest Americans in history.
+He became a leading philanthropist in the United States, Great Britain, and the British Empire. During the last 18 years of his life, he gave away around</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/andrew-carnegie-20260912.mp3" type="audio/mpeg" length="1079040"/>
+      <guid isPermaLink="false">realstory-andrew-carnegie-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 00:40:57 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hegel Saw Napoleon. His Brother Died for Him.</title>
       <description>Georg Wilhelm Friedrich Hegel (27 August 1770 – 14 November 1831) was a German philosopher and a major figure in the tradition of German idealism. His influence on Western philosophy extends across a wide range of topics—from metaphysical issues in epistemology and ontology, to political philosophy, to philosophy of art and philosophy of religion.
 Hegel was born in Stuttgart. His life spanned the </description>
