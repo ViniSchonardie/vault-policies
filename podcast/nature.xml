@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pink River Dolphin. The Only Freshwater Dolphin That Changes Color.</title>
+      <description>The Amazon river dolphin (Inia geoffrensis), also known as the boto, bufeo or pink river dolphin, is a species of toothed whale endemic to South America and is classified in the family Iniidae. Three subspecies are currently recognized: I. g. geoffrensis (Amazon river dolphin), I. g. boliviensis (Bolivian river dolphin) and I. g. humboldtiana (Orinoco river dolphin). The position of the Araguaian </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/amazon-river-dolphin-20260912.mp3" type="audio/mpeg" length="1170816"/>
+      <guid isPermaLink="false">nature-amazon-river-dolphin-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 15:32:50 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spotted Hyena: Africa's Female Rulers Hunt at 60mph</title>
       <description>The spotted hyena (Crocuta crocuta), also known as the laughing hyena, is a hyena species, currently classed as the sole extant member of the genus Crocuta, native to sub-Saharan Africa. It is listed as being of least concern by the IUCN due to its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is, however, experiencing declines outside of protected</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/spotted-hyena-20260912.mp3" type="audio/mpeg" length="1168896"/>
