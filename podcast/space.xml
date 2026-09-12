@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>690,000 MPH: The Fastest Object Ever Built</title>
+      <description>The Parker Solar Probe (PSP; previously Solar Probe, Solar Probe Plus or Solar Probe+) is a NASA space probe launched in 2018 to make observations of the Sun's outer corona.
+It used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86 solar radii (6.9 million km or 4.3 million miles) from the center of the Sun. At its closest approach in 2024, its speed relati</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/parker-solar-probe-20260912.mp3" type="audio/mpeg" length="1220736"/>
+      <guid isPermaLink="false">space-parker-solar-probe-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 00:27:20 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Challenger: 73 Seconds to Disaster</title>
       <description>Judith Arlene Resnik (April 5, 1949 – January 28, 1986) was an American electrical engineer, software engineer, biomedical engineer, pilot and NASA astronaut who died in the Space Shuttle Challenger disaster. She was the fourth woman, the second American woman and the first Jewish woman of any nationality to fly in space, logging 145 hours in orbit.
 Recognized while still a child for her intellect</description>
