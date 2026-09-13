@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>LOT 16. 231 Survived. One Breaker Changed Everything.</title>
+      <description>LOT Polish Airlines Flight 16 was a scheduled flight from Newark, United States, to Warsaw, Poland. On 1 November, 2011, the Boeing 767 operating the route made a successful gear-up emergency landing at Warsaw Chopin Airport, after its landing gear failed to extend. All 231 people on board (220 passengers and 11 crew) survived without serious injuries. A leak in one of the aircraft's hydraulic sys</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lot-polish-airlines-flight-16-20260913.mp3" type="audio/mpeg" length="1313664"/>
+      <guid isPermaLink="false">aviation-lot-polish-airlines-flight-16-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 21:02:38 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Japan Air 123. 520 Dead. Faulty Repair.</title>
       <description>Japan Air Lines Flight 123 was a scheduled domestic passenger flight from Tokyo to Osaka, Japan. On the evening of Monday, August 12, 1985, the Boeing 747 flying the route suffered a severe structural failure and explosive decompression 12 minutes after takeoff. After flying under minimal control for 32 minutes, the plane crashed in the area of Mount Takamagahara, 100 kilometres (62 mi; 54 nmi) fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/japan-air-lines-flight-123-20260913.mp3" type="audio/mpeg" length="1403136"/>
