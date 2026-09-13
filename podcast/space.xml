@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 8: The Photo That Changed Humanity Forever</title>
+      <description>William Alison Anders (17 October 1933 – 7 June 2024) was a United States Air Force major general, electrical engineer, nuclear engineer, NASA astronaut, and businessman. In December 1968, he was a member of the crew of Apollo 8, the first three people to leave low Earth orbit and travel to the Moon. Along with fellow astronauts Frank Borman and Jim Lovell, he circled the Moon ten times, and broad</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/bill-anders-20260913.mp3" type="audio/mpeg" length="1187328"/>
+      <guid isPermaLink="false">space-bill-anders-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 00:08:51 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cassini: 20 Years to Burn Up in Saturn</title>
       <description>Cassini–Huygens ( kə-SEE-nee HOY-gənz), commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which la</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/cassinihuygens-20260912.mp3" type="audio/mpeg" length="1194240"/>
