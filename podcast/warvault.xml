@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Monte Cassino. 4 Assaults. 105,000 Dead. One Abbey.</title>
+      <description>The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against Axis forces in Italy during the Italian Campaign of World War II. The objective was to break through the Winter Line and facilitate an advance towards Rome.
+In the beginning of 1944, the western half of the Winter Line was anchored by German forces holding the Rapido-Gari, L</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-monte-cassino-20260913.mp3" type="audio/mpeg" length="1212672"/>
+      <guid isPermaLink="false">warvault-battle-of-monte-cassino-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 17:09:42 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Six Men. 26 Hostages. 17 Minutes Changed Britain.</title>
       <description>The Iranian Embassy siege took place from 30 April to 5 May 1980, after a group of six armed men stormed the Iranian embassy on Prince's Gate in South Kensington, London.
 The gunmen, Iranian Arabs campaigning for the sovereignty of the Khuzestan Province of Iran, took 26 people hostage, including embassy staff, several visitors, and a police officer who had been guarding the embassy. They demanded</description>
