@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>500 Knights. 30,000 Ottomans. Four Months of Hell.</title>
+      <description>The Great Siege of Malta (Maltese: L-Assedju l-Kbir) occurred in 1565 when the Ottoman Empire attempted to conquer the island of Malta, then held by the Knights Hospitaller. The siege lasted nearly four months, from 18 May to 8 September 1565.
+The Knights Hospitaller had been headquartered in Malta since 1530, after being driven out of Rhodes, also by the Ottomans, in 1522, following the siege of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-malta-20260913.mp3" type="audio/mpeg" length="1255296"/>
+      <guid isPermaLink="false">warvault-siege-of-malta-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 19:56:41 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Monte Cassino. 4 Assaults. 105,000 Dead. One Abbey.</title>
       <description>The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against Axis forces in Italy during the Italian Campaign of World War II. The objective was to break through the Winter Line and facilitate an advance towards Rome.
 In the beginning of 1944, the western half of the Winter Line was anchored by German forces holding the Rapido-Gari, L</description>
