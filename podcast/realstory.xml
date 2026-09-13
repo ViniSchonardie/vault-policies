@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Melville Wrote a Masterpiece. Nobody Bought It.</title>
+      <description>Herman Melville (born Melvill; August 1, 1819 – September 28, 1891) was an American writer of the American Renaissance period. Among his best-known works are Moby-Dick (1851); Typee (1846), a romanticized account of his experiences in Polynesia; and Billy Budd, Sailor, a posthumously published novella. At the time of his death, Melville was not well known to the public, but 1919, the centennial of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/herman-melville-20260913.mp3" type="audio/mpeg" length="1152000"/>
+      <guid isPermaLink="false">realstory-herman-melville-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 00:21:19 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hildegard of Bingen: The Nun the Pope Couldn't Ignore</title>
       <description>Hildegard of Bingen  (German: Hildegard von Bingen, pronounced [ˈhɪldəɡaʁt fɔn ˈbɪŋən]; Latin: Hildegardis Bingensis; c. 1098 – 17 September 1179), also known as the Sibyl of the Rhine, was a German Benedictine abbess and polymath active as a writer, composer, philosopher, mystic, visionary, and as a medical writer and practitioner of the Catholic Church during the High Middle Ages. She is one of </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hildegard-of-bingen-20260912.mp3" type="audio/mpeg" length="1160448"/>
