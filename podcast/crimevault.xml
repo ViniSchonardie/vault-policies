@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Poisoned 4 Men. Doctors Missed It Twice.</title>
+      <description>Blanche Taylor Moore is an American convicted murderer and a possible serial killer from Alamance County, North Carolina. She is awaiting execution in North Carolina for the fatal poisoning of her boyfriend in 1986. She is also suspected of the death of her father, mother-in-law, and first husband, and the attempted murder of her second husband in 1989.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/blanche-taylor-moore-20260913.mp3" type="audio/mpeg" length="1209216"/>
+      <guid isPermaLink="false">crime-blanche-taylor-moore-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 20:14:56 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Posed as a Bride. Poisoned 3 Men. First Woman Executed.</title>
       <description>Kanae Kijima , known as The Konkatsu Killer, is a Japanese fraudster and serial killer, convicted for poisoning three would-be husbands and suspected of four more, spanning from 2007 to 2009.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kanae-kijima-20260913.mp3" type="audio/mpeg" length="1159296"/>
