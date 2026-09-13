@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 8: First Humans Around the Moon</title>
+      <description>Frank Frederick Borman II (March 14, 1928 – November 7, 2023) was an American United States Air Force (USAF) colonel, aeronautical engineer, NASA astronaut, test pilot, and businessman. He was the commander of Apollo 8, the first mission to fly around the Moon, and together with crewmates Jim Lovell and William Anders, became the first of 28 humans to do so, for which he was awarded the Congressio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/frank-borman-20260913.mp3" type="audio/mpeg" length="1153920"/>
+      <guid isPermaLink="false">space-frank-borman-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 17:04:23 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 8: The Photo That Changed Humanity Forever</title>
       <description>William Alison Anders (17 October 1933 – 7 June 2024) was a United States Air Force major general, electrical engineer, nuclear engineer, NASA astronaut, and businessman. In December 1968, he was a member of the crew of Apollo 8, the first three people to leave low Earth orbit and travel to the Moon. Along with fellow astronauts Frank Borman and Jim Lovell, he circled the Moon ten times, and broad</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/bill-anders-20260913.mp3" type="audio/mpeg" length="1187328"/>
