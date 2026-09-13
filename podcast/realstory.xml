@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hans Christian Andersen. The fairy tales hid a darker truth.</title>
+      <description>Hans Christian Andersen ( AN-dər-sən; Danish: [ˈhænˀs ˈkʰʁestjæn ˈɑnɐsn̩, - ˈkʰʁæs-] ; 2 April 1805 – 4 August 1875) was a Danish author. Although a prolific writer of plays, travelogues, novels, and poems, he is best remembered for his literary fairy tales.
+Andersen's fairy tales, consisting of 156 stories across nine volumes, have been translated into more than 125 languages. They have become em</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/hans-christian-andersen-20260913.mp3" type="audio/mpeg" length="1365888"/>
+      <guid isPermaLink="false">realstory-hans-christian-andersen-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 17:44:18 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Melville Wrote a Masterpiece. Nobody Bought It.</title>
       <description>Herman Melville (born Melvill; August 1, 1819 – September 28, 1891) was an American writer of the American Renaissance period. Among his best-known works are Moby-Dick (1851); Typee (1846), a romanticized account of his experiences in Polynesia; and Billy Budd, Sailor, a posthumously published novella. At the time of his death, Melville was not well known to the public, but 1919, the centennial of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/herman-melville-20260913.mp3" type="audio/mpeg" length="1152000"/>
