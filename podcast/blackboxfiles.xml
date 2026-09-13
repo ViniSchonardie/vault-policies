@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jeju Air 2216. 179 Dead. The Wrong Engine.</title>
+      <description>Jeju Air Flight 2216 was a scheduled international passenger flight operated by Jeju Air from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, when the Boeing 737-800 operating the flight was approaching Muan, a bird strike occurred, with both of the engines ingesting birds, causing an apparent loss of thrust in the right </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jeju-air-flight-2216-20260913.mp3" type="audio/mpeg" length="1045248"/>
+      <guid isPermaLink="false">aviation-jeju-air-flight-2216-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 00:08:57 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Turkish Airlines 1951. 9 Dead. The Autopilot Lied.</title>
       <description>Turkish Airlines Flight 1951 (also known as the Poldercrash or the Schiphol Polderbaan incident) was a passenger flight that crashed during landing at Amsterdam Schiphol Airport, the Netherlands, on 25 February 2009, resulting in the deaths of nine passengers and crew,  including all three pilots.
 The aircraft, a Turkish Airlines Boeing 737-800, crashed into a field about 1.5 km (0.9 mi) north of </description>
