@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Killed 11 People. Smiled the Entire Time.</title>
+      <description>Nannie Doss was an American serial killer responsible for the deaths of 11 people between 1927 and 1954. Doss was also referred to as the Giggling Granny, the Lonely Hearts Killer, the Black Widow, and Lady Blue Beard.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/nannie-doss-20260913.mp3" type="audio/mpeg" length="1100544"/>
+      <guid isPermaLink="false">crime-nannie-doss-20260913</guid>
+      <pubDate>Sun, 13 Sep 2026 23:50:55 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned 4 Men. Doctors Missed It Twice.</title>
       <description>Blanche Taylor Moore is an American convicted murderer and a possible serial killer from Alamance County, North Carolina. She is awaiting execution in North Carolina for the fatal poisoning of her boyfriend in 1986. She is also suspected of the death of her father, mother-in-law, and first husband, and the attempted murder of her second husband in 1989.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/blanche-taylor-moore-20260913.mp3" type="audio/mpeg" length="1209216"/>
