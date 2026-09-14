@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Light Brigade. 607 Men. One Valley. Gone.</title>
+      <description>The Charge of the Light Brigade was a military action undertaken by British light cavalry against Russian forces during the Battle of Balaclava in the Crimean War, resulting in many casualties to the cavalry. On 25 October 1854, the Light Brigade, led by Lord Cardigan, mounted a frontal assault against a Russian artillery battery which was well-prepared with excellent fields of defensive fire. The</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/charge-of-the-light-brigade-20260914.mp3" type="audio/mpeg" length="1305600"/>
+      <guid isPermaLink="false">warvault-charge-of-the-light-brigade-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 21:10:59 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Moscow 1941. 2 Million Nazis. One City Refused to Fall.</title>
       <description>The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort thwarted Germany's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-moscow-20260914.mp3" type="audio/mpeg" length="1336704"/>
