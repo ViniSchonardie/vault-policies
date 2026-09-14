@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>SpaceShipTwo Broke Apart at Mach 0.92. Only 1 Survived.</title>
+      <description>The VSS Enterprise crash occurred on October 31, 2014, when VSS Enterprise, a SpaceShipTwo experimental spaceflight test vehicle operated by Virgin Galactic, suffered a catastrophic in-flight breakup during a test flight and crashed in the Mojave Desert near Cantil, California. Co-pilot Michael Alsbury was killed and pilot Peter Siebold was seriously injured.
+The National Transportation Safety Boa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2014-virgin-galactic-crash-20260914.mp3" type="audio/mpeg" length="1406592"/>
+      <guid isPermaLink="false">aviation-2014-virgin-galactic-crash-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 00:22:48 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LOT 16. 231 Survived. One Breaker Changed Everything.</title>
       <description>LOT Polish Airlines Flight 16 was a scheduled flight from Newark, United States, to Warsaw, Poland. On 1 November, 2011, the Boeing 767 operating the route made a successful gear-up emergency landing at Warsaw Chopin Airport, after its landing gear failed to extend. All 231 people on board (220 passengers and 11 crew) survived without serious injuries. A leak in one of the aircraft's hydraulic sys</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lot-polish-airlines-flight-16-20260913.mp3" type="audio/mpeg" length="1313664"/>
