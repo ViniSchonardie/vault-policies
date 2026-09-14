@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Hero Who Forgot to Change His Sail</title>
+      <description>Theseus (UK: , US:  ; Ancient Greek: Θησεύς [tʰɛːsěu̯s]) was a divine hero in Greek mythology, famous for slaying the Minotaur. The myths surrounding Theseus, his journeys, exploits, and friends, have provided material for storytelling throughout the ages.
+Theseus is sometimes described as the son of Aegeus, king of Athens, and sometimes as the son of the god Poseidon. He is raised by his mother, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/theseus-20260914.mp3" type="audio/mpeg" length="948864"/>
+      <guid isPermaLink="false">royal-theseus-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 00:34:15 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Teenage Emperor Rome Destroyed in 4 Years</title>
       <description>Marcus Aurelius Antoninus (born Sextus Varius Avitus Bassianus, c. 204 – 13 March 222), better known by his posthumous nicknames Elagabalus (  EL-ə-GAB-ə-ləs) and Heliogabalus ( HEE-lee-ə-, -⁠lee-oh-), was Roman emperor from 218 to 222, while he was still a teenager. His short reign was notorious for religious controversy and alleged sexual debauchery. A close relative to the Severan dynasty, he c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/elagabalus-20260913.mp3" type="audio/mpeg" length="1240320"/>
