@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mars Orbiter Found a Lost Spaceship After 12 Years</title>
+      <description>The Mars Reconnaissance Orbiter (MRO) is a spacecraft designed to search for the existence of water on Mars and provide support for missions to Mars, as part of NASA's Mars Exploration Program. It was launched from Cape Canaveral on August 12, 2005, at 11:43 UTC and reached Mars on March 10, 2006, at 21:24 UTC. In November 2006, after six months of aerobraking, it entered its final science orbit a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-reconnaissance-orbiter-20260914.mp3" type="audio/mpeg" length="985344"/>
+      <guid isPermaLink="false">space-mars-reconnaissance-orbiter-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 21:02:52 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 8: The First Docking and a Deadly Spin</title>
       <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20260914.mp3" type="audio/mpeg" length="1245696"/>
