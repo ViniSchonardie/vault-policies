@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vanderbilt: The Ferry Boy Who Broke Every Monopoly</title>
+      <description>Cornelius Vanderbilt (May 27, 1794 – January 4, 1877), nicknamed "the Commodore", was an American business magnate who built his wealth in railroads and shipping. After working with his father's business, he worked his way into leadership positions in inland and coastal shipping, then invested in the rapidly growing railroad industry, which transformed the geography of the United States.
+As one of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cornelius-vanderbilt-20260914.mp3" type="audio/mpeg" length="1462272"/>
+      <guid isPermaLink="false">realstory-cornelius-vanderbilt-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 19:52:39 GMT</pubDate>
+      <itunes:duration>91</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Proust Wrote the Greatest Novel Ever. His Mother Did the Work.</title>
       <description>Valentin Louis Georges Eugène Marcel Proust ( PROOST; French: [maʁsɛl pʁust]; 10 July 1871 – 18 November 1922) was a French novelist, literary critic, and essayist best known for his novel À la recherche du temps perdu (translated into English as In Search of Lost Time, earlier Remembrance of Things Past), which was published in seven volumes between 1913 and 1927. He is considered by critics and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marcel-proust-20260914.mp3" type="audio/mpeg" length="1211136"/>
