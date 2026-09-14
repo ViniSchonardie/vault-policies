@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 8: The First Docking and a Deadly Spin</title>
+      <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20260914.mp3" type="audio/mpeg" length="1245696"/>
+      <guid isPermaLink="false">space-gemini-8-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 18:49:14 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Challenger: 73 Seconds to Disaster</title>
       <description>Ronald Erwin McNair (October 21, 1950 – January 28, 1986) was an American NASA astronaut and physicist. He died at the age of 35 during the launch of the Space Shuttle Challenger on mission STS-51-L, in which he was serving as one of three mission specialists in a crew of seven.
 Prior to the Challenger disaster, McNair flew as a mission specialist on STS-41-B aboard Challenger from February 3 to 1</description>
