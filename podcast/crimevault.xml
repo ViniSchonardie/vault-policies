@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 35 Women. Hospitals Kept Releasing Him.</title>
+      <description>Carroll Edward "Eddie" Cole was an American serial killer who was executed in Nevada in 1985 for killing two women by strangulation. He was also convicted of murdering three other women in Texas and is believed to have murdered dozens between 1947 and 1980.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/carroll-cole-20260915.mp3" type="audio/mpeg" length="1095168"/>
+      <guid isPermaLink="false">crime-carroll-cole-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 23:54:11 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gangland Boss Killed in Prison. By His Cellmate.</title>
       <description>Carl Anthony Williams was an Australian convicted murderer and drug trafficker from Melbourne, Victoria. He was a central figure in the Melbourne gangland killings as well as their final victim.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/carl-williams-20260915.mp3" type="audio/mpeg" length="1155456"/>
