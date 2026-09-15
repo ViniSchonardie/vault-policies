@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Six Million Names. One Mission to Remember.</title>
+      <description>Yad Vashem (Hebrew: יָד וָשֵׁם, lit. 'a memorial and a name') is Israel's official memorial institution to the victims of the Holocaust, known in Hebrew as the Shoah (שואה). It is dedicated to preserving the memory of the Jews who were murdered; echoing the stories of the survivors; honoring Jews who fought against their Nazi oppressors and gentiles who selflessly aided Jews in need; and researchi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/yad-vashem-20260915.mp3" type="audio/mpeg" length="1116672"/>
+      <guid isPermaLink="false">trials-yad-vashem-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 19:53:52 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peace for Our Time. Hitler Took Everything.</title>
       <description>Appeasement, in an international context, is a diplomatic negotiation policy of making political, material, or territorial concessions to an aggressive power with intention to avoid conflict. The term is most often applied to the foreign policy between 1935 and 1939 of the British governments of Prime Ministers Ramsay MacDonald, Stanley Baldwin and most notably Neville Chamberlain towards Nazi Ger</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/appeasement-20260915.mp3" type="audio/mpeg" length="1201536"/>
