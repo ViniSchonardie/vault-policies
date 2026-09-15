@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ingenuity: The Helicopter That Refused to Die</title>
+      <description>Ingenuity, nicknamed Ginny, is an autonomous  helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission. Ingenuity made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight. It was designed by NASA's Jet Propulsion Labo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ingenuity-20260915.mp3" type="audio/mpeg" length="1246080"/>
+      <guid isPermaLink="false">space-ingenuity-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 20:21:51 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Israeli in Space: 16 Days Before Disaster</title>
       <description>Ilan Ramon  (Hebrew: אילן רמון; pronounced [(ʔ)iˈlan ʁaˈmon]; June 20, 1954 – February 1, 2003) was an Israeli fighter pilot and later the first Israeli astronaut. He served as a Space Shuttle payload specialist on STS-107, the fatal mission of Columbia, in which he and the six other crew members were killed when the spacecraft disintegrated during re-entry. At 48, Ramon was the oldest member of t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ilan-ramon-20260915.mp3" type="audio/mpeg" length="1243776"/>
