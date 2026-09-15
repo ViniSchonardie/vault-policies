@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Babbage Invented the Computer. Nobody Built It.</title>
+      <description>Charles Babbage (; 26 December 1791 – 18 October 1871) was an English polymath. A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.
+Babbage is considered by some to merit the title of "father of the computer". He is credited with inventing the first mechanical computer, the difference engine, that eventually led to more</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-babbage-20260915.mp3" type="audio/mpeg" length="1236480"/>
+      <guid isPermaLink="false">realstory-charles-babbage-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 18:33:28 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Avicenna: The Genius Who Rewrote Medicine</title>
       <description>Ibn Sina (c. 980 – 22 June 1037), commonly known in the West as Avicenna ( A(H)V-ih-SEN-ə), was a preeminent philosopher and physician of the Muslim world. He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought. Avicenna is considered one of the greatest thinkers and medical scholar</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/avicenna-20260915.mp3" type="audio/mpeg" length="1202304"/>
