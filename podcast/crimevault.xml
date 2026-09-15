@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Death Row Granny: First Woman Executed by Lethal Injection</title>
+      <description>Margie Velma Barfield was an American serial killer who was convicted of one murder but was linked to seven murders in total. She became the first woman in the United States to be executed after the resumption of capital punishment in 1976, and the first since 1962. She was also the first woman to be executed by lethal injection.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/velma-barfield-20260915.mp3" type="audio/mpeg" length="1248384"/>
+      <guid isPermaLink="false">crime-velma-barfield-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 17:43:52 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Murdered 9 Boys. His Mother Took the Fall.</title>
       <description>Gordon Stewart Northcott was a Canadian serial killer, child rapist, and child abductor who was convicted of the murders of three young boys in California, U.S., and confessed to the murders of nine in total. He was executed on October 2, 1930.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gordon-northcott-20260915.mp3" type="audio/mpeg" length="1288320"/>
