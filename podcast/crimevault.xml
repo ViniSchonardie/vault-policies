@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gangland Boss Killed in Prison. By His Cellmate.</title>
+      <description>Carl Anthony Williams was an Australian convicted murderer and drug trafficker from Melbourne, Victoria. He was a central figure in the Melbourne gangland killings as well as their final victim.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/carl-williams-20260915.mp3" type="audio/mpeg" length="1155456"/>
+      <guid isPermaLink="false">crime-carl-williams-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 20:50:39 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Death Row Granny: First Woman Executed by Lethal Injection</title>
       <description>Margie Velma Barfield was an American serial killer who was convicted of one murder but was linked to seven murders in total. She became the first woman in the United States to be executed after the resumption of capital punishment in 1976, and the first since 1962. She was also the first woman to be executed by lethal injection.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/velma-barfield-20260915.mp3" type="audio/mpeg" length="1248384"/>
