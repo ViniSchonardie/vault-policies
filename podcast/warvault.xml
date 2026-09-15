@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Treblinka. 900,000 Dead. One Revolt.</title>
+      <description>Treblinka (Polish: [trɛˈbliŋ.ka]; German: [tʁeˈblɪŋka]) was the second-deadliest extermination camp to be built and operated by Nazi Germany in occupied Poland during World War II, second only to Auschwitz. It was in a forest north-east of Warsaw, four kilometres (2+1⁄2 miles) south of the village of Treblinka in what is now the Masovian Voivodeship. The camp operated between 23 July 1942 and 19 O</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/treblinka-extermination-camp-20260915.mp3" type="audio/mpeg" length="1464192"/>
+      <guid isPermaLink="false">warvault-treblinka-extermination-camp-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 00:59:47 GMT</pubDate>
+      <itunes:duration>92</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Light Brigade. 607 Men. One Valley. Gone.</title>
       <description>The Charge of the Light Brigade was a military action undertaken by British light cavalry against Russian forces during the Battle of Balaclava in the Crimean War, resulting in many casualties to the cavalry. On 25 October 1854, the Light Brigade, led by Lord Cardigan, mounted a frontal assault against a Russian artillery battery which was well-prepared with excellent fields of defensive fire. The</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/charge-of-the-light-brigade-20260914.mp3" type="audio/mpeg" length="1305600"/>
