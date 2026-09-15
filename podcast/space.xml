@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Israeli in Space: 16 Days Before Disaster</title>
+      <description>Ilan Ramon  (Hebrew: אילן רמון; pronounced [(ʔ)iˈlan ʁaˈmon]; June 20, 1954 – February 1, 2003) was an Israeli fighter pilot and later the first Israeli astronaut. He served as a Space Shuttle payload specialist on STS-107, the fatal mission of Columbia, in which he and the six other crew members were killed when the spacecraft disintegrated during re-entry. At 48, Ramon was the oldest member of t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ilan-ramon-20260915.mp3" type="audio/mpeg" length="1243776"/>
+      <guid isPermaLink="false">space-ilan-ramon-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 17:46:24 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbia's Final 16 Minutes: The Foam That Killed Seven</title>
       <description>STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission ended on February 1, 2003, with the Space Shuttle Columbia disaster, in which all seven crew members were killed in the re-entry on the Earth's atmosphere; the shuttle was destroyed along with most of its scientific payloads.
 The flight launched from Kennedy Space Center </description>
