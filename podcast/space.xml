@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Columbia's Final 16 Minutes: The Foam That Killed Seven</title>
+      <description>STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission ended on February 1, 2003, with the Space Shuttle Columbia disaster, in which all seven crew members were killed in the re-entry on the Earth's atmosphere; the shuttle was destroyed along with most of its scientific payloads.
+The flight launched from Kennedy Space Center </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-107-20260915.mp3" type="audio/mpeg" length="1300992"/>
+      <guid isPermaLink="false">space-sts-107-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 00:47:55 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mars Orbiter Found a Lost Spaceship After 12 Years</title>
       <description>The Mars Reconnaissance Orbiter (MRO) is a spacecraft designed to search for the existence of water on Mars and provide support for missions to Mars, as part of NASA's Mars Exploration Program. It was launched from Cape Canaveral on August 12, 2005, at 11:43 UTC and reached Mars on March 10, 2006, at 21:24 UTC. In November 2006, after six months of aerobraking, it entered its final science orbit a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-reconnaissance-orbiter-20260914.mp3" type="audio/mpeg" length="985344"/>
