@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chaucer Founded English Literature. His Wife Did the Real Work.</title>
+      <description>Geoffrey Chaucer ( ; JEF-ree CHAW-sər; c. 1343 – 25 October 1400) was an English poet, writer and civil servant best known for The Canterbury Tales. He has been called the 'father of English literature', or alternatively, the 'father of English poetry'.  He was the first writer to be buried in what has since become Poets' Corner in Westminster Abbey. 
+Chaucer also gained fame as a philosopher and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/geoffrey-chaucer-20260915.mp3" type="audio/mpeg" length="1219200"/>
+      <guid isPermaLink="false">realstory-geoffrey-chaucer-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 21:48:44 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Babbage Invented the Computer. Nobody Built It.</title>
       <description>Charles Babbage (; 26 December 1791 – 18 October 1871) was an English polymath. A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.
 Babbage is considered by some to merit the title of "father of the computer". He is credited with inventing the first mechanical computer, the difference engine, that eventually led to more</description>
