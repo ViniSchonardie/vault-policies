@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Queen Who Vanished—Then Ruled Egypt</title>
+      <description>Nefertiti (; c. 1370 – c. 1330 BC) was a queen of the 18th Dynasty of Ancient Egypt, the great royal wife of Pharaoh Akhenaten. Nefertiti and her husband were known for their radical overhaul of state religious policy, in which they promoted an exclusivist and possibly even monotheistic religion, Atenism, centred on the sun disc and its direct connection to the royal household. With her husband, s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/nefertiti-20260915.mp3" type="audio/mpeg" length="1213440"/>
+      <guid isPermaLink="false">royal-nefertiti-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 01:07:08 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Wizard Who Never Existed</title>
       <description>Merlin (Welsh: Myrddin) is a mythical figure prominently featured in the legend of King Arthur and best known as a prophet and a magician, along with several other main roles. The familiar depiction of Merlin, based on an amalgamation of historical and legendary figures, was introduced by the 12th-century Catholic cleric Geoffrey of Monmouth and then built on by the French poet Robert de Boron and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/merlin-20260914.mp3" type="audio/mpeg" length="1134720"/>
