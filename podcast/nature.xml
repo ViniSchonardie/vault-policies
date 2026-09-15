@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Utahraptor: The 7-Meter Apex Predator of 135 Million Years Ago</title>
+      <description>Utahraptor (meaning "Utah's predator") is a genus of large dromaeosaurid (a group of feathered carnivorous theropods) dinosaur that lived during the Early Cretaceous period from around 139 to 135 million years ago in what is now the United States. The genus was described in 1993 by American paleontologist James Kirkland and colleagues with the type species Utahraptor ostrommaysi, based on fossils </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/utahraptor-20260915.mp3" type="audio/mpeg" length="1118976"/>
+      <guid isPermaLink="false">nature-utahraptor-20260915</guid>
+      <pubDate>Tue, 15 Sep 2026 00:35:20 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snowy Owl. Population Collapsed from 200,000 to 100,000.</title>
       <description>The snowy owl (Bubo scandiacus), also known as the polar owl, the white owl and the Arctic owl, is a large, white owl of the true owl family. Snowy owls are native to the Arctic regions of both North America and the Palearctic, breeding mostly on the tundra. It has a number of unique adaptations to its habitat and lifestyle, which are quite distinct from other extant owls. One of the largest speci</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snowy-owl-20260914.mp3" type="audio/mpeg" length="1221504"/>
