@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EC-121 Shot Down. 31 Dead. No Retaliation.</title>
+      <description>On 15 April 1969, a United States Navy Lockheed EC-121M Warning Star of Fleet Air Reconnaissance Squadron One (VQ-1) on a reconnaissance mission was shot down by a North Korean MiG-21 aircraft over the Sea of Japan. The plane crashed 90 nautical miles (167 km) off the North Korean coast and all 31 Americans (30 sailors and 1 Marine) on board were killed, which constitutes the largest single loss o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1969-ec-121-shootdown-incident-20260916.mp3" type="audio/mpeg" length="1115904"/>
+      <guid isPermaLink="false">aviation-1969-ec-121-shootdown-incident-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 18:19:53 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>NW85. 250 Alive. The Rudder That Wouldn't Obey.</title>
       <description>Northwest Airlines Flight 85 was a scheduled international passenger flight from Detroit Metropolitan Wayne County Airport in the United States to Narita International Airport in Japan. On October 9, 2002, while over the Bering Sea, the Boeing 747-400 experienced a lower rudder hardover event, which occurs when an aircraft's rudder deflects to its travel limit without crew input. The 747's hardove</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-airlines-flight-85-20260916.mp3" type="audio/mpeg" length="1198080"/>
