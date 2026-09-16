@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Spanair Flight 5022. 154 Dead. The Checklist They Skipped.</title>
+      <description>Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. The aircraft was a McDonnell Douglas MD-82, registration EC-HFP. Of the 172 passengers and crew on board, 154 die</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/spanair-flight-5022-20260916.mp3" type="audio/mpeg" length="1234944"/>
+      <guid isPermaLink="false">aviation-spanair-flight-5022-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 21:30:39 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EC-121 Shot Down. 31 Dead. No Retaliation.</title>
       <description>On 15 April 1969, a United States Navy Lockheed EC-121M Warning Star of Fleet Air Reconnaissance Squadron One (VQ-1) on a reconnaissance mission was shot down by a North Korean MiG-21 aircraft over the Sea of Japan. The plane crashed 90 nautical miles (167 km) off the North Korean coast and all 31 Americans (30 sailors and 1 Marine) on board were killed, which constitutes the largest single loss o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1969-ec-121-shootdown-incident-20260916.mp3" type="audio/mpeg" length="1115904"/>
