@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pioneer 10: The Probe That Escaped the Solar System</title>
+      <description>Pioneer 10 (originally designated Pioneer F) is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/pioneer-10-20260916.mp3" type="audio/mpeg" length="1328256"/>
+      <guid isPermaLink="false">space-pioneer-10-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 00:34:56 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ingenuity: The Helicopter That Refused to Die</title>
       <description>Ingenuity, nicknamed Ginny, is an autonomous  helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission. Ingenuity made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight. It was designed by NASA's Jet Propulsion Labo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ingenuity-20260915.mp3" type="audio/mpeg" length="1246080"/>
