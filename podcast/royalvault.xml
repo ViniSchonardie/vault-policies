@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Castle That Burned and Rose Again</title>
+      <description>Windsor Castle is a royal residence at Windsor in the English county of Berkshire, about 25 miles (40 km) west of central London. It is strongly associated with the English and succeeding British royal family, and embodies almost a millennium of architectural history.
+The original castle was built in the 11th century, after the Norman invasion of England by William the Conqueror. Since the time of</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/windsor-castle-20260916.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">royal-windsor-castle-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 21:52:38 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Bought the Throne for Cash. Severus Killed Him in 48 Hours.</title>
       <description>Lucius Septimius Severus (; Latin: [ˈluːkius sepˈtimius seˈweːrus]; 11 April 145 – 4 February 211) was Roman emperor from 193 to 211. He was born in Leptis Magna, Libya, in the Roman province of Africa. He was of mixed Roman and Punic/Phoenician descent. As a young man, he advanced through the customary succession of offices under the reigns of Marcus Aurelius and Commodus. Severus was the final c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/septimius-severus-20260916.mp3" type="audio/mpeg" length="988032"/>
