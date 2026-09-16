@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Challenger: 73 Seconds to Disaster</title>
+      <description>STS-51-L was the 25th mission of NASA's Space Shuttle program which resulted in the loss of Space Shuttle Challenger.
+It was planned as the first Teacher in Space Project flight in addition to observing Halley's Comet for six days and performing a routine satellite deployment. The mission did not achieve orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-l-20260916.mp3" type="audio/mpeg" length="1044864"/>
+      <guid isPermaLink="false">space-sts-51-l-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 20:14:36 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Juno: Racing Through Jupiter's Radiation at 130,000 MPH</title>
       <description>Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/juno-20260916.mp3" type="audio/mpeg" length="1380096"/>
