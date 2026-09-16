@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rome Sacked. 55,000 to 10,000. The Pope Imprisoned.</title>
+      <description>The Sack of Rome, then part of the Papal States, followed the capture of Rome on 6 May 1527 by the mutinous troops of Charles V, Holy Roman Emperor, during the War of the League of Cognac. Charles V only intended to threaten military action to make Pope Clement VII come to his terms. However, the Imperial army (14,000 Germans, including Lutherans, 6,000 Spaniards and some Italians) were largely un</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sack-of-rome-1527-20260916.mp3" type="audio/mpeg" length="1291776"/>
+      <guid isPermaLink="false">warvault-sack-of-rome-1527-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 17:52:08 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kabul Fell in 3 Days. Intelligence Said 6 Months.</title>
       <description>On 15 August 2021, Afghanistan's capital city of Kabul was captured by the Taliban after a major insurgent offensive that began in May 2021. It was the final action of the War in Afghanistan, and marked a total victory for the Taliban. This led to the overthrowing of the Islamic Republic of Afghanistan under President Ashraf Ghani and the reinstatement of the Islamic Emirate of Afghanistan under t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/fall-of-kabul-20260916.mp3" type="audio/mpeg" length="1246848"/>
