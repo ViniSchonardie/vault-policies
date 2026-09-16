@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Juno: Racing Through Jupiter's Radiation at 130,000 MPH</title>
+      <description>Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/juno-20260916.mp3" type="audio/mpeg" length="1380096"/>
+      <guid isPermaLink="false">space-juno-20260916</guid>
+      <pubDate>Wed, 16 Sep 2026 17:45:11 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pioneer 10: The Probe That Escaped the Solar System</title>
       <description>Pioneer 10 (originally designated Pioneer F) is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/pioneer-10-20260916.mp3" type="audio/mpeg" length="1328256"/>
