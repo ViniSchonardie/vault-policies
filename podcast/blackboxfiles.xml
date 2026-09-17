@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Trigana Air 267. 54 Dead. The Switch They Pulled.</title>
+      <description>Trigana Air Flight 267 was a scheduled passenger flight from Sentani to Oksibil in the eastern Indonesian province of Papua. On 16 August 2015, the ATR 42 turboprop operating the service crashed on approach in the Bintang highlands region of Oksibil, killing all 49 passengers and 5 crew members.
+With 54 deaths, it is the deadliest accident involving the ATR 42, and the airline's deadliest accident</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/trigana-air-service-flight-267-20260917.mp3" type="audio/mpeg" length="1289472"/>
+      <guid isPermaLink="false">aviation-trigana-air-service-flight-267-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 00:44:30 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spanair Flight 5022. 154 Dead. The Checklist They Skipped.</title>
       <description>Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. The aircraft was a McDonnell Douglas MD-82, registration EC-HFP. Of the 172 passengers and crew on board, 154 die</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/spanair-flight-5022-20260916.mp3" type="audio/mpeg" length="1234944"/>
