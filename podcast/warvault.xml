@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fort Sumter. 34 Hours. Civil War Begins.</title>
+      <description>The Battle of Fort Sumter (also the Attack on Fort Sumter or the Fall of Fort Sumter) (April 12–13, 1861) was the bombardment of Fort Sumter near Charleston, South Carolina, by the South Carolina militia. It ended with the surrender of the fort by the United States Army, beginning the American Civil War.
+Following the declaration of secession by South Carolina on December 20, 1860, its authorities</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-fort-sumter-20260918.mp3" type="audio/mpeg" length="1350912"/>
+      <guid isPermaLink="false">warvault-battle-of-fort-sumter-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 20:06:04 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>6,050 Landed. 3,623 Never Came Home. Dieppe 1942</title>
       <description>Operation Jubilee or the Dieppe Raid (19 August 1942) was an Allied amphibious attack on the German-occupied port of Dieppe in northern France, during the Second World War. Over 6,050 infantry, predominantly Canadian, supported by a Canadian tank regiment, were landed by a Royal Navy flotilla under cover of the Royal Air Force and Royal Canadian Air Force. 
 The port was to be captured and held for</description>
