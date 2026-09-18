@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Miami Air 293. 136 Survived. The Runway Betrayed Them.</title>
+      <description>Miami Air International Flight 293 was a military charter from Guantanamo Bay to Naval Air Station Jacksonville, operated by Miami Air International. On May 3, 2019, the Boeing 737-800 aircraft operating the flight overran the runway on landing. Twenty-one people were injured. The aircraft was written off, making it the 17th loss of a Boeing 737-800. The National Transportation Safety Board (NTSB)</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/miami-air-flight-293-20260918.mp3" type="audio/mpeg" length="1027200"/>
+      <guid isPermaLink="false">aviation-miami-air-flight-293-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 21:05:40 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Metrojet 9268. 224 Dead. ISIS Claimed It.</title>
       <description>Metrojet Flight 9268 was an international chartered passenger flight operated by Russian airline Kogalymavia (branded as Metrojet). On 31 October 2015, at 06:13 EST (04:13 UTC), the Airbus A321-231 operating the flight exploded above the northern Sinai Peninsula following its departure from Sharm El Sheikh International Airport, Egypt, en route to Pulkovo Airport, Saint Petersburg, Russia. All 224</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/metrojet-flight-9268-20260918.mp3" type="audio/mpeg" length="1212672"/>
