@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Columbia's First Flight: 37 Orbits, 1 Problem Nobody Saw</title>
+      <description>STS-1 (Space Transportation System-1) was the first orbital spaceflight of NASA's Space Shuttle program. The first orbiter, Columbia, launched on April 12, 1981, and returned on April 14, 1981, 54.5 hours later, having orbited the Earth 37 times. Columbia carried a crew of two—commander John W. Young and pilot Robert L. Crippen. It was the first American crewed space flight since the Apollo–Soyuz </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-1-20260918.mp3" type="audio/mpeg" length="1244544"/>
+      <guid isPermaLink="false">space-sts-1-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 17:13:35 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Flew Untethered 320 Feet From the Shuttle</title>
       <description>Bruce McCandless II (born Byron Willis McCandless; June 8, 1937 – December 21, 2017) was an American Navy officer and aviator, electrical engineer, and NASA astronaut. In 1984, during the first of his two Space Shuttle missions, he completed the first untethered spacewalk by using the Manned Maneuvering Unit.
 
