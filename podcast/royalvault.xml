@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Archbishop Who Defied a King and Paid With Blood</title>
+      <description>Thomas Becket ( ), also known as Saint Thomas of Canterbury, Thomas of London and later Thomas à Becket (21 December 1119 or 1120 – 29 December 1170), was an English cleric and statesman who served as Lord Chancellor from 1155 to 1162, and then as Archbishop of Canterbury from 1162 until his death in 1170. He is known for his conflict with King Henry II over the rights and privileges of the Church</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/thomas-becket-20260918.mp3" type="audio/mpeg" length="2088960"/>
+      <guid isPermaLink="false">royal-thomas-becket-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 00:56:41 GMT</pubDate>
+      <itunes:duration>131</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Empire That Ruled Europe. Then Tore Itself Apart.</title>
       <description>The Carolingian Empire (800–887) was a Frankish-dominated empire in Western and Central Europe during the Early Middle Ages. It was ruled by the Carolingian dynasty, which had ruled as kings of the Franks since 751 and as kings of the Lombards in Italy from 774. In 800 Pope Leo III crowned King Charlemagne as the Roman emperor in return for political protection, disregarding the universalist claim</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/carolingian-empire-20260917.mp3" type="audio/mpeg" length="1156224"/>
