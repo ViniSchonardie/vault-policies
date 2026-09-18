@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Metrojet 9268. 224 Dead. ISIS Claimed It.</title>
+      <description>Metrojet Flight 9268 was an international chartered passenger flight operated by Russian airline Kogalymavia (branded as Metrojet). On 31 October 2015, at 06:13 EST (04:13 UTC), the Airbus A321-231 operating the flight exploded above the northern Sinai Peninsula following its departure from Sharm El Sheikh International Airport, Egypt, en route to Pulkovo Airport, Saint Petersburg, Russia. All 224</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/metrojet-flight-9268-20260918.mp3" type="audio/mpeg" length="1212672"/>
+      <guid isPermaLink="false">aviation-metrojet-flight-9268-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 17:50:30 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alaska Airlines 1282. 177 Survive. Four Missing Bolts.</title>
       <description>Alaska Airlines Flight 1282 was a scheduled domestic passenger flight operated by Alaska Airlines from Portland International Airport in Portland, Oregon, to Ontario International Airport in Ontario, California. Shortly after takeoff on January 5, 2024, a door plug on the Boeing 737 MAX 9 aircraft blew out, causing an uncontrolled decompression of the aircraft. 
 The aircraft returned to Portland f</description>
