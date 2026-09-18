@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Gutenberg Invented Printing. Then Lost Everything.</title>
+      <description>Johannes Gensfleisch zur Laden zum Gutenberg (c. 1393–1406 – 3 February 1468) was a German inventor and craftsman who invented the movable-type printing press. Though movable type was already in use in East Asia, Gutenberg's invention of the printing press enabled a much faster rate of printing. The printing press later spread across the world, and led to an information revolution and the unpreced</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/johannes-gutenberg-20260918.mp3" type="audio/mpeg" length="1178880"/>
+      <guid isPermaLink="false">realstory-johannes-gutenberg-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 21:18:00 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Leibniz Invented Calculus. Newton Got All the Credit.</title>
       <description>Gottfried Wilhelm Leibniz (or Leibnitz; 1 July 1646 [O.S. 21 June] – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat who is credited, alongside Isaac Newton, with the creation of calculus in addition to many other branches of mathematics, such as binary arithmetic and statistics. Leibniz has been called the "last universal genius" due to his </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/gottfried-wilhelm-leibniz-20260918.mp3" type="audio/mpeg" length="1256448"/>
