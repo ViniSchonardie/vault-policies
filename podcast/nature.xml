@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Steller's Sea Eagle. The Heaviest Raptor Alive.</title>
+      <description>Steller's sea eagle (Haliaeetus pelagicus), also known as the Pacific sea eagle or white-shouldered eagle, is a very large diurnal bird of prey in the family Accipitridae. It was described first by Peter Simon Pallas in 1811. No subspecies are recognised. A sturdy eagle, it has dark brown plumage with white wings and tail, a yellow beak, and yellow talons. Typically, it is the heaviest eagle in th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stellers-sea-eagle-20260918.mp3" type="audio/mpeg" length="1132800"/>
+      <guid isPermaLink="false">nature-stellers-sea-eagle-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 19:38:29 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Slow Loris. Only Primate with Venomous Bite.</title>
       <description>Slow lorises are a group of several species of nocturnal strepsirrhine primates that make up the genus Nycticebus. Found in Southeast Asia and nearby areas, they range from Bangladesh and Northeast India in the west to the Sulu Archipelago in the Philippines in the east, and from Yunnan province in China in the north to the island of Java in the south. 
 Although many previous classifications recog</description>
