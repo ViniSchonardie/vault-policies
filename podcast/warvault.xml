@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lee's Last Stand. 28,000 Men. One Impossible Choice.</title>
+      <description>The Battle of Appomattox Court House, fought in Appomattox County, Virginia, on the morning of April 9, 1865, was one of the last, and ultimately one of the most consequential, battles of the American Civil War (1861–1865). It was the final push of Confederate general in chief Robert E. Lee and his Army of Northern Virginia before they surrendered to the Union Army of the Potomac under the Command</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-appomattox-court-house-20260919.mp3" type="audio/mpeg" length="1124736"/>
+      <guid isPermaLink="false">warvault-battle-of-appomattox-court-house-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 00:47:18 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fort Sumter. 34 Hours. Civil War Begins.</title>
       <description>The Battle of Fort Sumter (also the Attack on Fort Sumter or the Fall of Fort Sumter) (April 12–13, 1861) was the bombardment of Fort Sumter near Charleston, South Carolina, by the South Carolina militia. It ended with the surrender of the fort by the United States Army, beginning the American Civil War.
 Following the declaration of secession by South Carolina on December 20, 1860, its authorities</description>
