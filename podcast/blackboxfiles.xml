@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EP-3E Spy Plane. 24 Detained. One Dead Pilot.</title>
+      <description>A ten-day international incident between the United States and the People's Republic of China (PRC) resulted from a mid-air collision between a United States Navy EP-3E ARIES II signals intelligence aircraft and a People's Liberation Army Air Force J-8 interceptor on April 1, 2001.
+The EP-3 was flying over the South China Sea at a point roughly midway between Hainan Island and the Paracel Islands </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/hainan-island-incident-20260919.mp3" type="audio/mpeg" length="1173504"/>
+      <guid isPermaLink="false">aviation-hainan-island-incident-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 17:24:23 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Atlas Air 3591. 3 Dead. He Dove Into the Bay.</title>
       <description>Atlas Air Flight 3591 was a scheduled domestic cargo flight between Miami International Airport and George Bush Intercontinental Airport in Houston. On February 23, 2019, the Boeing 767-375ER(BCF) operating this flight crashed into Trinity Bay during approach into Houston, killing the two crew members and single passenger on board. The accident occurred near Anahuac, Texas, east of Houston, shortl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/atlas-air-flight-3591-20260919.mp3" type="audio/mpeg" length="1302144"/>
