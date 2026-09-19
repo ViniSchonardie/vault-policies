@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Freedom 7: America's First Spaceflight in 15 Minutes</title>
+      <description>Mercury-Redstone 3, or Freedom 7, was the first United States human spaceflight, on May 5, 1961, piloted by astronaut Alan Shepard. It was the first crewed flight of Project Mercury. The project had the ultimate objective of putting an astronaut into orbit around the Earth and returning him safely. Shepard's mission was a 15-minute suborbital flight with the primary objective of demonstrating his </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-redstone-3-20260919.mp3" type="audio/mpeg" length="1067904"/>
+      <guid isPermaLink="false">space-mercury-redstone-3-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 00:32:36 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mercury-Atlas 6: America's First Orbit</title>
       <description>Mercury-Atlas 6 (MA-6) was the first crewed American orbital spaceflight, which took place on February 20, 1962. Piloted by astronaut John Glenn and operated by NASA as part of Project Mercury, it was the fifth human spaceflight, preceded by Soviet orbital flights Vostok 1 and 2 and American sub-orbital flights Mercury-Redstone 3 and 4.
 The Mercury spacecraft, named Friendship 7, was carried to or</description>
