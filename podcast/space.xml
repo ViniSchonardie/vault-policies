@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Last Shuttle: Why NASA Flew One More Mission</title>
+      <description>STS-135 (ISS assembly flight ULF7) was the 135th and final mission of the American Space Shuttle program. It used the orbiter Atlantis and hardware originally processed for the STS-335 contingency mission, which was not flown. STS-135 launched on July 8, 2011, and landed on July 21, 2011, following a one-day mission extension. The four-person crew was the smallest of any shuttle mission since STS-</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-135-20260919.mp3" type="audio/mpeg" length="1168512"/>
+      <guid isPermaLink="false">space-sts-135-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 16:39:29 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Freedom 7: America's First Spaceflight in 15 Minutes</title>
       <description>Mercury-Redstone 3, or Freedom 7, was the first United States human spaceflight, on May 5, 1961, piloted by astronaut Alan Shepard. It was the first crewed flight of Project Mercury. The project had the ultimate objective of putting an astronaut into orbit around the Earth and returning him safely. Shepard's mission was a 15-minute suborbital flight with the primary objective of demonstrating his </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-redstone-3-20260919.mp3" type="audio/mpeg" length="1067904"/>
