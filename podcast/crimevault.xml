@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jack Unterweger: Freed to Kill. Hanged Himself.</title>
+      <description>Johann "Jack" Unterweger was an Austrian serial killer who committed at least twelve murders in Austria, West Germany, Czechoslovakia and the United States.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jack-unterweger-20260919.mp3" type="audio/mpeg" length="1004544"/>
+      <guid isPermaLink="false">crime-jack-unterweger-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 16:25:19 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chessboard Killer: 49 Bodies. One Park. 14 Years.</title>
       <description>Alexander Yuryevich Pichushkin, also known as the Chessboard Killer and the Bittsa Park Maniac, is a Russian serial killer and former warehouse worker who is believed to have killed at least forty-nine people, and possibly as many as sixty, between 1992 and 2006. Pichushkin was active in Moscow's Bittsa Park, where a number of the victims' bodies were found. On 29 October 2007, he was sentenced to</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/alexander-pichushkin-20260918.mp3" type="audio/mpeg" length="1240320"/>
