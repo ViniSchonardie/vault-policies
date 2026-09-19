@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Atlas Air 3591. 3 Dead. He Dove Into the Bay.</title>
+      <description>Atlas Air Flight 3591 was a scheduled domestic cargo flight between Miami International Airport and George Bush Intercontinental Airport in Houston. On February 23, 2019, the Boeing 767-375ER(BCF) operating this flight crashed into Trinity Bay during approach into Houston, killing the two crew members and single passenger on board. The accident occurred near Anahuac, Texas, east of Houston, shortl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/atlas-air-flight-3591-20260919.mp3" type="audio/mpeg" length="1302144"/>
+      <guid isPermaLink="false">aviation-atlas-air-flight-3591-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 00:30:59 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Miami Air 293. 136 Survived. The Runway Betrayed Them.</title>
       <description>Miami Air International Flight 293 was a military charter from Guantanamo Bay to Naval Air Station Jacksonville, operated by Miami Air International. On May 3, 2019, the Boeing 737-800 aircraft operating the flight overran the runway on landing. Twenty-one people were injured. The aircraft was written off, making it the 17th loss of a Boeing 737-800. The National Transportation Safety Board (NTSB)</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/miami-air-flight-293-20260918.mp3" type="audio/mpeg" length="1027200"/>
