@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am Flight 214. 81 Dead. Lightning Did What?</title>
+      <description>Pan Am Flight 214 was a scheduled flight of Pan American World Airways from San Juan, Puerto Rico, to Baltimore, and then to Philadelphia in the United States. On December 8, 1963, while flying from Baltimore to Philadelphia, the Boeing 707 crashed near Elkton, Maryland. All 81 passengers and crew on the plane were killed. The crash was Pan Am's first fatal accident with the 707, which it had intr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-214-20260919.mp3" type="audio/mpeg" length="1413888"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-214-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 22:32:54 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Once Station. 51 Dead. The Brakes Never Worked.</title>
       <description>The 2012 Buenos Aires rail disaster, also known as the Once Tragedy, occurred on 22 February 2012, when a train crashed at Once Station (Spanish: Estación Once de Septiembre; IPA: [ˈonse]) in the Balvanera neighbourhood of Buenos Aires, Argentina.
 There were about 1,000 passengers on board when the crowded eight-carriage train, whose working brakes were not activated, hit the buffers at the end of</description>
