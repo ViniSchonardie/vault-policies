@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Manson Family Killer Released After 16 Years. Now a Musician.</title>
+      <description>Steven Dennis "Clem" Grogan is an American convicted murderer and former member of the Manson Family. He was released from prison in 1985.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/clem-grogan-20260919.mp3" type="audio/mpeg" length="948096"/>
+      <guid isPermaLink="false">crime-clem-grogan-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 22:08:11 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Axeman of New Orleans: 6 Attacks. Never Caught.</title>
       <description>The Axeman of New Orleans was an unidentified American serial killer who was active in and around New Orleans, Louisiana, between May 1918 and October 1919. Press reports during the height of public panic over the killings mentioned similar crimes as early as 1911, but recent researchers have called these reports into question. The attacker was never identified, and the murders remain unsolved.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/the-axeman-of-new-orleans-20260919.mp3" type="audio/mpeg" length="1286016"/>
