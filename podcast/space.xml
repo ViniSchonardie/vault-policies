@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Columbia Shuttle: 7 Astronauts Lost at 200,000 MPH</title>
+      <description>Michael Phillip Anderson (December 25, 1959 – February 1, 2003) was a United States Air Force officer and NASA astronaut. He and his six fellow crew members were killed in the Space Shuttle Columbia disaster when the craft disintegrated during its re-entry into the Earth's atmosphere. Anderson served as the payload commander and lieutenant colonel in charge of science experiments on the Columbia. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/michael-p-anderson-20260919.mp3" type="audio/mpeg" length="1284480"/>
+      <guid isPermaLink="false">space-michael-p-anderson-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 22:32:49 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Challenger Pilot's Last Words: 'Uh Oh'</title>
       <description>Michael John Smith (April 30, 1945 – January 28, 1986), (Capt USN) was an American engineer and astronaut. He served as the pilot of the Space Shuttle Challenger when it was destroyed during the STS-51-L mission, breaking up 73 seconds into the flight, and at an altitude of 48,000 feet (14.6 km), killing all seven crew members. Smith's voice was the last one heard on the Challenger voice recorder.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/michael-j-smith-20260919.mp3" type="audio/mpeg" length="1180032"/>
