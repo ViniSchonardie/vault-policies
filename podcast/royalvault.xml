@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The City Columbus Never Reached</title>
+      <description>Hangzhou is the capital and most populous city of Zhejiang province, China, situated at the intersection of the southern terminus of the Grand Canal and the head of Hangzhou Bay. Renowned as one of the Eight Ancient Capitals of China, Hangzhou is celebrated for its cultural heritage and its West Lake.
+Established as a county seat in 221 BC, Hangzhou later served as the capital of the Wuyue Kingdom</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hangzhou-20260919.mp3" type="audio/mpeg" length="1244928"/>
+      <guid isPermaLink="false">royal-hangzhou-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 00:50:35 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Emperor No One Knew: Chandragupta's Hidden Rise</title>
       <description>Chandragupta Maurya (reigned c. 320 BCE – c. 298 BCE) was the founder and the first emperor of the Maurya Empire, based in Magadha (present-day Bihar) in the Indian subcontinent.
 His rise to power began in the period of unrest and local warfare that arose after Alexander the Great's Indian campaign and early death in 323 BCE, although the exact chronology and sequence of events remains subject to </description>
