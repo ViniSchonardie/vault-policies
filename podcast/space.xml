@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Challenger Pilot's Last Words: 'Uh Oh'</title>
+      <description>Michael John Smith (April 30, 1945 – January 28, 1986), (Capt USN) was an American engineer and astronaut. He served as the pilot of the Space Shuttle Challenger when it was destroyed during the STS-51-L mission, breaking up 73 seconds into the flight, and at an altitude of 48,000 feet (14.6 km), killing all seven crew members. Smith's voice was the last one heard on the Challenger voice recorder.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/michael-j-smith-20260919.mp3" type="audio/mpeg" length="1180032"/>
+      <guid isPermaLink="false">space-michael-j-smith-20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 17:28:58 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Last Shuttle: Why NASA Flew One More Mission</title>
       <description>STS-135 (ISS assembly flight ULF7) was the 135th and final mission of the American Space Shuttle program. It used the orbiter Atlantis and hardware originally processed for the STS-335 contingency mission, which was not flown. STS-135 launched on July 8, 2011, and landed on July 21, 2011, following a one-day mission extension. The four-person crew was the smallest of any shuttle mission since STS-</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-135-20260919.mp3" type="audio/mpeg" length="1168512"/>
