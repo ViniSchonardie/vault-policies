@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>B-52 Crashed With 4 Nuclear Bombs. One Vanished Into the Sea.</title>
+      <description>The Palomares accident occurred on 17 January 1966, when a United States Air Force B-52G bomber collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, near the Spanish village of Palomares in Almería province. The collision destroyed the tanker, killing all four crew members, and caused the bomber to break apart, resulting in the deaths of three</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1966-palomares-b-52-crash-20260920.mp3" type="audio/mpeg" length="1145472"/>
+      <guid isPermaLink="false">aviation-1966-palomares-b-52-crash-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 22:34:33 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alaska Airlines 261. 88 Dead. Maintenance Failure.</title>
       <description>Alaska Airlines Flight 261 was a scheduled international passenger flight from Licenciado Gustavo Díaz Ordaz International Airport in Puerto Vallarta, Jalisco, Mexico, to Seattle–Tacoma International Airport near Seattle, Washington, United States, with an intermediate stop at San Francisco International Airport in San Francisco, California. On January 31, 2000, the McDonnell Douglas MD-83 operati</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-261-20260920.mp3" type="audio/mpeg" length="1682688"/>
