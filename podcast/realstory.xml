@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Spartacus: The Rebel They Could Never Find</title>
+      <description>Spartacus (; c. 103 – 71 BC) was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic.
+Historical accounts of his life come primarily from Plutarch and Appian, who wrote more than a century after his death. Plutarch's Life of Crassus and Appian's Civil Wars provide the most detailed accounts of the slave revolt. A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/spartacus-20260920.mp3" type="audio/mpeg" length="1280256"/>
+      <guid isPermaLink="false">realstory-spartacus-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 22:47:46 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Reagan's Secret Iran Deal. Congress Never Knew.</title>
       <description>The Iran–Contra affair (Persian: ماجرای ایران-کنترا; Spanish: Caso Irán-Contra), also referred to as the Iran–Contra scandal, the Contragate, Iran Initiative, or simply Iran–Contra, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The administration hoped to use the proceeds o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/irancontra-affair-20260920.mp3" type="audio/mpeg" length="1287552"/>
