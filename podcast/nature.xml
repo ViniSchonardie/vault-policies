@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Baiji Dolphin. 16 Million Years Extinct in 50.</title>
+      <description>The baiji (Lipotes vexillifer) is a possibly extinct species of river dolphin native to the Yangtze river system in China. It is thought to possibly be the first dolphin species driven to extinction due to the impact of humans. This dolphin is listed as "critically endangered: possibly extinct" by the IUCN, has not been definitively seen in over 20 years, and several surveys of the Yangtze have fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/baiji-20260920.mp3" type="audio/mpeg" length="1168128"/>
+      <guid isPermaLink="false">nature-baiji-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 22:25:27 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oceanic Whitetip Shark. 98% Gone in 60 Years.</title>
       <description>The oceanic whitetip shark (Carcharhinus longimanus) is a large requiem shark inhabiting the pelagic zone of tropical and warm temperate seas. It has a stocky body and iconic elongated rounded fins, with white tips. The species is typically solitary, though they may gather in large numbers at food concentrations. Bony fish and cephalopods are the main components of its diet and females give live b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/oceanic-whitetip-shark-20260920.mp3" type="audio/mpeg" length="1147008"/>
