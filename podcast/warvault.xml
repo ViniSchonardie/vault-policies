@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vicksburg. 47 Days. The War Split in Two.</title>
+      <description>The siege of Vicksburg (May 18 – July 4, 1863) was the final major military action in the Vicksburg campaign of the American Civil War. In a series of maneuvers, Union Major General Ulysses S. Grant and his Army of the Tennessee crossed the Mississippi River and drove the Confederate Army of Mississippi, led by Lieutenant General John C. Pemberton, into the defensive lines surrounding the fortress</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-vicksburg-20260920.mp3" type="audio/mpeg" length="1090176"/>
+      <guid isPermaLink="false">warvault-siege-of-vicksburg-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 22:53:47 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adwa 1896. Italy Wanted an Empire. Ethiopia Said No.</title>
       <description>The Battle of Adwa was the climactic battle of the First Italo-Ethiopian War. It was fought on 1 March 1896, near the town of Adwa between the Ethiopian Empire under Emperor Menelik II and an Italian colonial force led by General Oreste Baratieri. 
 Following a dispute over the interpretation of the Treaty of Wuchale, Italy attempted to force Ethiopia to abide by the Italian version of the treaty a</description>
