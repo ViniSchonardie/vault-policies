@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Artemis III Commander: From Combat Pilot to Moon Mission</title>
+      <description>Randolph "Randy" James Bresnik (born September 11, 1967) is an American retired officer in the United States Marine Corps and an active NASA astronaut. A Marine aviator by trade, Bresnik was selected as a member of NASA Astronaut Group 19 in May 2004. He first launched to space on STS-129, then served as flight engineer for Expedition 52, and as ISS commander for Expedition 53. In June 2026, he wa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/randolph-bresnik-20260920.mp3" type="audio/mpeg" length="1264896"/>
+      <guid isPermaLink="false">space-randolph-bresnik-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 13:34:06 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbia Shuttle: 7 Astronauts Lost at 200,000 MPH</title>
       <description>Michael Phillip Anderson (December 25, 1959 – February 1, 2003) was a United States Air Force officer and NASA astronaut. He and his six fellow crew members were killed in the Space Shuttle Columbia disaster when the craft disintegrated during its re-entry into the Earth's atmosphere. Anderson served as the payload commander and lieutenant colonel in charge of science experiments on the Columbia. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/michael-p-anderson-20260919.mp3" type="audio/mpeg" length="1284480"/>
