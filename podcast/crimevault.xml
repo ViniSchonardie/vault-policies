@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Killed 6 People. She Never Existed.</title>
+      <description>The Phantom of Heilbronn, often alternatively referred to as the Woman Without a Face, was a hypothesized unknown female serial killer whose existence was inferred from DNA evidence found at numerous crime scenes in Austria, France and Germany from 1993 to 2009. The six murders among these included that of police officer Michèle Kiesewetter in Heilbronn, Germany, on 25 April 2007.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/phantom-of-heilbronn-20260920.mp3" type="audio/mpeg" length="1203456"/>
+      <guid isPermaLink="false">crime-phantom-of-heilbronn-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 13:22:19 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Manson Family Killer Released After 16 Years. Now a Musician.</title>
       <description>Steven Dennis "Clem" Grogan is an American convicted murderer and former member of the Manson Family. He was released from prison in 1985.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/clem-grogan-20260919.mp3" type="audio/mpeg" length="948096"/>
