@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Xiamen Air 8667. 165 Aboard. The Captain Said No.</title>
+      <description>XiamenAir Flight 8667 was a scheduled international passenger flight from Xiamen Gaoqi International Airport in Xiamen, China, to Ninoy Aquino International Airport in Manila, Philippines. On August 16, 2018, the Boeing 737-800 operating this flight skidded off the runway while attempting to land in poor weather conditions. After leaving the runway, the aircraft hit obstacles that tore off the lef</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/xiamen-airlines-flight-8667-20260921.mp3" type="audio/mpeg" length="1347072"/>
+      <guid isPermaLink="false">aviation-xiamen-airlines-flight-8667-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 22:36:19 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Trains. 12 Minutes. 57 Dead. Greece's Worst Crash</title>
       <description>On 28 February 2023, a head-on collision occurred between two trains south of the Tempe Valley in Greece, about halfway between the Greek villages of Tempi and Evangelismos in the Thessaly region. The collision, follow-up derailment and fireball that ensued involving the InterCity 62 (IC62) passenger train operated by Hellenic Train and an intermodal freight train, killed 57, heavily injured 81 an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tempi-train-crash-20260921.mp3" type="audio/mpeg" length="1321344"/>
