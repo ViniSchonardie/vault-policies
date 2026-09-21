@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>80+ Bodies. Mother Helped. Siberian Ripper Finally Caught.</title>
+      <description>Alexander Nikolayevich Spesivtsev is a Russian serial killer, also known as the Novokuznetsk Monster and the Siberian Ripper, convicted for the killing of four people in Novokuznetsk in 1991 and 1996.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/alexander-spesivtsev-20260921.mp3" type="audio/mpeg" length="1312512"/>
+      <guid isPermaLink="false">crime-alexander-spesivtsev-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 22:09:36 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>11 Bodies Found. He Lived There 4 Years.</title>
       <description>Anthony Edward Sowell was an American serial killer and rapist known as The Cleveland Strangler. He was convicted in 2011 of murdering 11 women whose bodies were discovered at his Cleveland, Ohio, home in 2009. After being sentenced to death for the murders, Sowell died in prison from a terminal illness.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anthony-sowell-20260921.mp3" type="audio/mpeg" length="1075968"/>
