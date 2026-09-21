@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Inland Taipan. World's Most Venomous Snake.</title>
+      <description>Venomous snakes are species of the suborder Serpentes that are capable of producing venom, which they use for killing prey, for defense, and to assist with digestion of their prey. The venom is typically delivered by injection using hollow or grooved fangs, although some venomous snakes lack well-developed fangs. Common venomous snakes include the families Elapidae, Viperidae, Atractaspididae, and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venomous-snake-20260921.mp3" type="audio/mpeg" length="1049088"/>
+      <guid isPermaLink="false">nature-venomous-snake-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 17:24:46 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Caiman: 1,000 Pounds of Pure Apex Predator</title>
       <description>The black caiman (Melanosuchus niger) is a crocodilian reptile endemic to South America. With a maximum length of around 5 to 6.5 m (16 to 21 ft) and a mass of over 450 kg (1,000 lb), it is the largest living species of the family Alligatoridae, and the third-largest crocodilian in the Neotropical realm. True to its common and scientific names, the black caiman has a dark greenish-black coloration</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/black-caiman-20260921.mp3" type="audio/mpeg" length="1236864"/>
