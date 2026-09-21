@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Vampire Squid. Glows in Hell's Ocean.</title>
+      <description>The vampire squid (Vampyroteuthis infernalis, lit. 'vampire squid from hell') is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions. The vampire squid uses its bioluminescent organs and its unique oxygen metabolism to thrive in the parts of the ocean with the lowest concentrations of oxygen. It has two long retractile filaments, located between the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/vampire-squid-20260921.mp3" type="audio/mpeg" length="1160448"/>
+      <guid isPermaLink="false">nature-vampire-squid-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 22:26:38 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Inland Taipan. World's Most Venomous Snake.</title>
       <description>Venomous snakes are species of the suborder Serpentes that are capable of producing venom, which they use for killing prey, for defense, and to assist with digestion of their prey. The venom is typically delivered by injection using hollow or grooved fangs, although some venomous snakes lack well-developed fangs. Common venomous snakes include the families Elapidae, Viperidae, Atractaspididae, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venomous-snake-20260921.mp3" type="audio/mpeg" length="1049088"/>
