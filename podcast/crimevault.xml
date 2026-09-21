@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11 Bodies Found. He Lived There 4 Years.</title>
+      <description>Anthony Edward Sowell was an American serial killer and rapist known as The Cleveland Strangler. He was convicted in 2011 of murdering 11 women whose bodies were discovered at his Cleveland, Ohio, home in 2009. After being sentenced to death for the murders, Sowell died in prison from a terminal illness.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anthony-sowell-20260921.mp3" type="audio/mpeg" length="1075968"/>
+      <guid isPermaLink="false">crime-anthony-sowell-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 18:14:46 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Strangled Hundreds of Babies. Police Found Her by Accident.</title>
       <description>Amelia Elizabeth Dyer, popularly dubbed the Ogress of Reading, was a British serial killer who murdered infants in her care from 1869 to 1896.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/amelia-dyer-20260921.mp3" type="audio/mpeg" length="1133952"/>
