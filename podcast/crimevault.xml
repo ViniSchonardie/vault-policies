@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Strangled Hundreds of Babies. Police Found Her by Accident.</title>
+      <description>Amelia Elizabeth Dyer, popularly dubbed the Ogress of Reading, was a British serial killer who murdered infants in her care from 1869 to 1896.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/amelia-dyer-20260921.mp3" type="audio/mpeg" length="1133952"/>
+      <guid isPermaLink="false">crime-amelia-dyer-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 13:24:25 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>FBI Paid Him. He Killed 4 People. Then They Protected Him.</title>
       <description>Scott Lee Kimball is a convicted serial killer, con man and fraudster from Boulder County, Colorado, who murdered at least four people over a two-year period; investigators strongly suspect him in as many as 21 other unsolved killings. For the first year of his murder activity, he worked as an informant for the FBI, which both paid him and protected him from facing justice over some of his fraud s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/scott-lee-kimball-20260920.mp3" type="audio/mpeg" length="1174656"/>
