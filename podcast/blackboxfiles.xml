@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Two Trains. 12 Minutes. 57 Dead. Greece's Worst Crash</title>
+      <description>On 28 February 2023, a head-on collision occurred between two trains south of the Tempe Valley in Greece, about halfway between the Greek villages of Tempi and Evangelismos in the Thessaly region. The collision, follow-up derailment and fireball that ensued involving the InterCity 62 (IC62) passenger train operated by Hellenic Train and an intermodal freight train, killed 57, heavily injured 81 an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tempi-train-crash-20260921.mp3" type="audio/mpeg" length="1321344"/>
+      <guid isPermaLink="false">aviation-tempi-train-crash-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 18:43:14 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Swissair 111. 229 Dead. One Switch Changed Everything.</title>
       <description>Swissair Flight 111 was a scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Cointrin Airport in Geneva, Switzerland. The flight was also a codeshare flight with Delta Air Lines. On 2 September 1998, the McDonnell Douglas MD-11 operating this flight crashed into the Atlantic Ocean southwest of Halifax Stanfield International Airp</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-111-20260921.mp3" type="audio/mpeg" length="1354752"/>
