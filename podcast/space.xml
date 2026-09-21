@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cosmonaut Caught Stealing SpaceX Secrets</title>
+      <description>SpaceX Crew-12 is the twelfth operational NASA Commercial Crew Program flight and the 20th crewed orbital flight of a Crew Dragon spacecraft. The mission transported four crew members—NASA astronauts Jessica Meir and Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev—to the International Space Station (ISS). The mission launched on 13 February 2026.
+
+
+== Crew ==
+
+In</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-12-20260921.mp3" type="audio/mpeg" length="1291776"/>
+      <guid isPermaLink="false">space-spacex-crew-12-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 13:37:57 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>14 Days Trapped: The Rendezvous That Changed Space Forever</title>
       <description>Gemini 7 (officially Gemini VII) was a 1965 crewed spaceflight in NASA's Gemini program. It was the fourth crewed Gemini flight, the twelfth crewed American spaceflight, and the twentieth crewed spaceflight including Soviet flights and X-15 flights above the Kármán line. The crew of Frank Borman and Jim Lovell spent nearly 14 days in space, making a total of 206 orbits. Their spacecraft was the pa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-7-20260920.mp3" type="audio/mpeg" length="1250688"/>
