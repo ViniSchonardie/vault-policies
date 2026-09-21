@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Swissair 111. 229 Dead. One Switch Changed Everything.</title>
+      <description>Swissair Flight 111 was a scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Cointrin Airport in Geneva, Switzerland. The flight was also a codeshare flight with Delta Air Lines. On 2 September 1998, the McDonnell Douglas MD-11 operating this flight crashed into the Atlantic Ocean southwest of Halifax Stanfield International Airp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-111-20260921.mp3" type="audio/mpeg" length="1354752"/>
+      <guid isPermaLink="false">aviation-swissair-flight-111-20260921</guid>
+      <pubDate>Mon, 21 Sep 2026 14:39:36 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>B-52 Crashed With 4 Nuclear Bombs. One Vanished Into the Sea.</title>
       <description>The Palomares accident occurred on 17 January 1966, when a United States Air Force B-52G bomber collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, near the Spanish village of Palomares in Almería province. The collision destroyed the tanker, killing all four crew members, and caused the bomber to break apart, resulting in the deaths of three</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1966-palomares-b-52-crash-20260920.mp3" type="audio/mpeg" length="1145472"/>
