@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Poisoned 3 Friends. Then Thanked the Judges.</title>
+      <description>María de las Mercedes Bernardina Bolla Aponte de Murano, better known as Yiya Murano, and also referred to as The Poisoner of Monserrat was an Argentine serial killer and swindler. Convicted of three murders, she was imprisoned for 16 years before being sent to an elderly care facility to serve out the remainder of her sentence, due to her advanced age.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yiya-murano-20260922.mp3" type="audio/mpeg" length="1200000"/>
+      <guid isPermaLink="false">crime-yiya-murano-20260922</guid>
+      <pubDate>Tue, 22 Sep 2026 13:24:53 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>80+ Bodies. Mother Helped. Siberian Ripper Finally Caught.</title>
       <description>Alexander Nikolayevich Spesivtsev is a Russian serial killer, also known as the Novokuznetsk Monster and the Siberian Ripper, convicted for the killing of four people in Novokuznetsk in 1991 and 1996.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/alexander-spesivtsev-20260921.mp3" type="audio/mpeg" length="1312512"/>
