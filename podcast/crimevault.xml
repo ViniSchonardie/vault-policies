@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Angel of Death: Hospital Orderly Killed 37 Patients</title>
+      <description>Donald Harvey was an American serial killer who claimed to have murdered 87 people, though he has 37 confirmed victims. He was able to do this during his time as a hospital orderly. His spree took place between 1970 and 1987.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/donald-harvey-20260922.mp3" type="audio/mpeg" length="1190784"/>
+      <guid isPermaLink="false">crime-donald-harvey-20260922</guid>
+      <pubDate>Tue, 22 Sep 2026 18:14:50 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned 3 Friends. Then Thanked the Judges.</title>
       <description>María de las Mercedes Bernardina Bolla Aponte de Murano, better known as Yiya Murano, and also referred to as The Poisoner of Monserrat was an Argentine serial killer and swindler. Convicted of three murders, she was imprisoned for 16 years before being sent to an elderly care facility to serve out the remainder of her sentence, due to her advanced age.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yiya-murano-20260922.mp3" type="audio/mpeg" length="1200000"/>
