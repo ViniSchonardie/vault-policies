@@ -17,6 +17,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dagestan Airlines 372. Two Dead. One Switch.</title>
+      <description>Dagestan Airlines Flight 372 was a scheduled commercial flight between Moscow's Vnukovo Airport and Makhachkala, Russia. On 4 December 2010, the Tupolev Tu-154 operating the flight skidded off the runway following an emergency landing at Domodedovo Airport, 45 kilometres (28 mi; 24 nmi) south-east of Vnukovo. Two people on board were killed.
+
+
+== Accident ==
+The plane was flying a scheduled trip f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/dagestan-airlines-flight-372-20260922.mp3" type="audio/mpeg" length="1242240"/>
+      <guid isPermaLink="false">aviation-dagestan-airlines-flight-372-20260922</guid>
+      <pubDate>Tue, 22 Sep 2026 22:35:06 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Planes. 3,000 Dead. The Tallest Buildings Ever Fell.</title>
       <description>The World Trade Center, in Lower Manhattan, New York City, was destroyed after a series of terrorist attacks on September 11, 2001, killing almost 3,000 people at the site. Two commercial airliners hijacked by al-Qaeda members were deliberately flown into the complex's Twin Towers, at the time among the five tallest buildings in the world. The plane impacts dealt significant structural damage to t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/collapse-of-the-world-trade-center-20260922.mp3" type="audio/mpeg" length="1317120"/>
