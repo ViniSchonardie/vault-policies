@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 12: The Spacewalk That Changed Everything</title>
+      <description>Gemini 12 (officially Gemini XII) was a 1966 crewed spaceflight in NASA's Project Gemini. It was the 10th and final crewed Gemini flight (Gemini 1 and Gemini 2 were uncrewed missions), the 18th crewed American spaceflight, and the 26th spaceflight of all time, including X-15 flights over 100 kilometers (54 nmi). Commanded by Gemini VII veteran James A. Lovell, the flight featured three periods of </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-12-20260922.mp3" type="audio/mpeg" length="1395456"/>
+      <guid isPermaLink="false">space-gemini-12-20260922</guid>
+      <pubDate>Tue, 22 Sep 2026 22:33:56 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Paid $20M to Launch into Space. What He Did There Changed Everything.</title>
       <description>Mark Richard Shuttleworth (born 18 September 1973) is a South African and British entrepreneur, founder and CEO of Canonical, the company behind the Linux operating system variant Ubuntu. In 2002, Shuttleworth became the first African to travel to space, doing so as a space tourist. He holds dual citizenship from South Africa and the United Kingdom. In 2020, the Sunday Times Rich List estimated Sh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mark-shuttleworth-20260922.mp3" type="audio/mpeg" length="1179264"/>
