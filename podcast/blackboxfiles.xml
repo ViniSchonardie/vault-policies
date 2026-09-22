@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air India 182. 329 Dead. Warnings Ignored.</title>
+      <description>Air India Flight 182 was a scheduled international flight from Toronto Pearson International Airport (as Air India Flight 181) to Mumbai’s Sahar International Airport with regular Mirabel-London-Delhi stops. On the morning of June 23, 1985, the Boeing 747-237B serving the Montreal-London segment exploded near the coast of Ireland from a bomb planted by Sikh terrorists from the Babbar Khalsa. All 3</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-182-20260922.mp3" type="audio/mpeg" length="1206144"/>
+      <guid isPermaLink="false">aviation-air-india-flight-182-20260922</guid>
+      <pubDate>Tue, 22 Sep 2026 14:38:20 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Xiamen Air 8667. 165 Aboard. The Captain Said No.</title>
       <description>XiamenAir Flight 8667 was a scheduled international passenger flight from Xiamen Gaoqi International Airport in Xiamen, China, to Ninoy Aquino International Airport in Manila, Philippines. On August 16, 2018, the Boeing 737-800 operating this flight skidded off the runway while attempting to land in poor weather conditions. After leaving the runway, the aircraft hit obstacles that tore off the lef</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/xiamen-airlines-flight-8667-20260921.mp3" type="audio/mpeg" length="1347072"/>
