@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Euclid. Nobody Knows Who He Actually Was.</title>
+      <description>Euclid (; Ancient Greek: Εὐκλείδης; fl. 300 BC) was an ancient Greek mathematician active as a geometer and logician. Considered the "father of geometry", he is chiefly known for the Elements treatise, which established the foundations of geometry that largely dominated the field until the early 19th century. His system, now referred to as Euclidean geometry, involved innovations in combination wi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/euclid-20260923.mp3" type="audio/mpeg" length="1185792"/>
+      <guid isPermaLink="false">realstory-euclid-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 14:52:53 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fritz Haber. Nobel Prize Winner. Father of Chemical Warfare.</title>
       <description>Fritz Jakob Haber (German: [ˈfʁɪt͡s ˈhaːbɐ] ; 9 December 1868 – 29 January 1934) was a German chemist who received the Nobel Prize in Chemistry in 1918 for his invention of the Haber process, a method used in industry to synthesize ammonia from nitrogen gas and hydrogen gas. This invention is important for the large-scale synthesis of fertilizers and explosives. It is estimated that a third of ann</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/fritz-haber-20260922.mp3" type="audio/mpeg" length="1712256"/>
