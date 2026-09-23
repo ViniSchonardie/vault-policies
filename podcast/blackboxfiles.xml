@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>IFO-21. 35 Dead. One Survivor Died Hours Later.</title>
+      <description>On 3 April  1996, a United States Air Force Boeing CT-43A (Flight IFO-21) crashed on approach to Dubrovnik, Croatia, while on an official trade mission. The aircraft, a Boeing 737-200 originally built as a T-43A navigational trainer and later converted into a CT-43A executive transport aircraft, was carrying United States Secretary of Commerce Ron Brown and 34 other people, including corporate CEO</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1996-croatia-usaf-ct-43-crash-20260923.mp3" type="audio/mpeg" length="1355904"/>
+      <guid isPermaLink="false">aviation-1996-croatia-usaf-ct-43-crash-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 18:40:58 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>NLM CityHopper 431. 17 Dead. A Tornado Ripped the Wing Off.</title>
       <description>NLM CityHopper Flight 431 refers to a Fokker F-28-4000, registration PH-CHI, that was due to operate an international scheduled Rotterdam–Eindhoven–Hamburg passenger service. On 6 October 1981, the aircraft encountered a tornado on the first leg, minutes after taking off from Rotterdam Airport, and crashed 15 miles (24 km) south-southeast of Rotterdam. All 17 occupants of the aircraft – 13 passeng</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/nlm-cityhopper-flight-431-20260923.mp3" type="audio/mpeg" length="1167360"/>
