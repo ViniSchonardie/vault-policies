@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bruce McLaren. Built His Own Empire. Died Testing It.</title>
+      <description>Bruce Leslie McLaren (30 August 1937 – 2 June 1970) was a New Zealand racing driver, automotive designer, engineer, and motorsport executive who competed in Formula One from 1958 to 1970. He won four Grands Prix across 13 seasons and was runner-up in the 1960 Formula One World Drivers' Championship with Cooper. He won the 1966 24 Hours of Le Mans with Chris Amon in a Ford GT40 and won the Canadian</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/bruce-mclaren-20260923.mp3" type="audio/mpeg" length="1125120"/>
+      <guid isPermaLink="false">realstory-bruce-mclaren-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 18:59:17 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Euclid. Nobody Knows Who He Actually Was.</title>
       <description>Euclid (; Ancient Greek: Εὐκλείδης; fl. 300 BC) was an ancient Greek mathematician active as a geometer and logician. Considered the "father of geometry", he is chiefly known for the Elements treatise, which established the foundations of geometry that largely dominated the field until the early 19th century. His system, now referred to as Euclidean geometry, involved innovations in combination wi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/euclid-20260923.mp3" type="audio/mpeg" length="1185792"/>
