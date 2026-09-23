@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First American Spacewalk: Ed White's 23 Minutes</title>
+      <description>Gemini 4 (officially Gemini IV) was the second crewed spaceflight in NASA's Project Gemini, occurring in June 1965. It was the tenth crewed American spaceflight (including two X-15 flights at altitudes exceeding 100 kilometers (62 mi; 54 nmi)). Astronauts James McDivitt and Ed White orbited the Earth 66 times in four days, making it the first US flight to approach the five-day flight of the Soviet</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-4-20260923.mp3" type="audio/mpeg" length="1093248"/>
+      <guid isPermaLink="false">space-gemini-4-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 22:33:26 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Psyche: NASA's $1B Mission to an Iron World</title>
       <description>Psyche ( SY-kee) is a NASA Discovery Program space mission launched on October 13, 2023, to explore the origin of planetary cores by orbiting and studying the metallic asteroid 16 Psyche beginning in 2029. NASA's Jet Propulsion Laboratory (JPL) manages the project.
 The spacecraft will orbit the asteroid from August 5, 2029, to October 31, 2031, spending 817 days in orbit. Psyche uses solar-powered</description>
