@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Youngest Serial Killer. Released at 21. Then Everything Changed.</title>
+      <description>Craig Chandler Price is an American serial killer who committed his crimes in Warwick, Rhode Island between the ages of 13 and 15. He was arrested in 1989 for four murders committed in his neighborhood: a woman and her two daughters that year, and the murder of another woman two years earlier. He had an existing criminal record for petty theft.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/craig-price-20260923.mp3" type="audio/mpeg" length="1022592"/>
+      <guid isPermaLink="false">crime-craig-price-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 13:23:39 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10 Women. Fake Badges. The Hillside Strangler's Partner.</title>
       <description>Angelo Anthony Buono Jr. was an American serial killer, kidnapper and rapist who, together with his adopted cousin Kenneth Bianchi, raped and murdered ten young women and girls between October 1977 and February 1978 in Los Angeles, California in what became known as the Hillside Strangler murders, as the victims were usually strangled to death and dumped on a hillside. In November 1983, after a tw</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/angelo-buono-20260922.mp3" type="audio/mpeg" length="1148928"/>
