@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Psyche: NASA's $1B Mission to an Iron World</title>
+      <description>Psyche ( SY-kee) is a NASA Discovery Program space mission launched on October 13, 2023, to explore the origin of planetary cores by orbiting and studying the metallic asteroid 16 Psyche beginning in 2029. NASA's Jet Propulsion Laboratory (JPL) manages the project.
+The spacecraft will orbit the asteroid from August 5, 2029, to October 31, 2031, spending 817 days in orbit. Psyche uses solar-powered</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/psyche-20260923.mp3" type="audio/mpeg" length="1156992"/>
+      <guid isPermaLink="false">space-psyche-20260923</guid>
+      <pubDate>Wed, 23 Sep 2026 17:32:37 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Deployed Hubble. Then Saved It Twice.</title>
       <description>Steven Alan Hawley (born December 12, 1951) is a retired astronomer and NASA astronaut who flew on five U.S. Space Shuttle flights. Hawley is a professor emeritus of physics and astronomy at the University of Kansas.
 
