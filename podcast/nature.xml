@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Lyrebird. Mimics Chainsaws, Chainsaws Mimic It.</title>
+      <description>A lyrebird is either of two species of ground-dwelling Australian birds that compose the genus Menura, and the family Menuridae. They are most notable for their ability to mimic a variety of natural and artificial sounds from their environment and for the striking beauty of the male bird's huge tail when it is fanned out in courtship display.  Lyrebirds have unique plumes of neutral-coloured tailf</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/lyrebird-20260924.mp3" type="audio/mpeg" length="1164672"/>
+      <guid isPermaLink="false">nature-lyrebird-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 22:27:30 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pitcher Plant. Digests Prey Alive in Liquid Trap.</title>
       <description>Pitcher plants are  carnivorous plants that have modified leaves known as pitfall traps—prey-trapping mechanisms featuring a deep cavity filled with digestive liquid. The traps of what are considered to be "true" pitcher plants are formed by specialized leaves. The plants attract and drown the prey with nectar.
 
