@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cold Harbor. 7,000 Dead in One Hour. Grant's Worst Mistake.</title>
+      <description>The Battle of Cold Harbor was fought during the American Civil War near Mechanicsville, Virginia, from May 31 to June 12, 1864, with the most significant fighting occurring on June 3. It was one of the final battles of Union Lt. Gen. Ulysses S. Grant's Overland Campaign. Thousands of Union soldiers were killed or wounded in the frontal assault of June 3 against the fortified positions of Confedera</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-cold-harbor-20260924.mp3" type="audio/mpeg" length="1036032"/>
+      <guid isPermaLink="false">warvault-battle-of-cold-harbor-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 22:55:04 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Plains of Abraham. 1 Hour. Changed North America Forever.</title>
       <description>The Battle of the Plains of Abraham, also known as the First Battle of Quebec (French: Bataille des Plaines d'Abraham, Première bataille de Québec), was a pivotal battle in the Seven Years' War – referred to by Americans as the French and Indian War in describing the North American theatre. The battle, which took place on 13 September 1759, was fought by the British Army and Royal Navy against the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-plains-of-abraham-20260924.mp3" type="audio/mpeg" length="1325952"/>
