@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>OSIRIS-REx: A 4.6-Billion-Year-Old Secret Returned</title>
+      <description>OSIRIS-REx was a NASA asteroid-study and sample-return mission that visited and collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid. The material, returned in September 2023, is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/osiris-rex-20260924.mp3" type="audio/mpeg" length="1256064"/>
+      <guid isPermaLink="false">space-osiris-rex-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 22:34:16 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Floated Alone in Space. What He Saw Changed Everything.</title>
       <description>Russell Louis "Rusty" Schweickart (also Schweikart; born October 25, 1935) is an American aeronautical engineer and former NASA astronaut, research scientist, U.S. Air Force fighter pilot, business executive, and government executive.
 Schweickart was selected in 1963 for NASA's third astronaut group.  He was the Lunar Module Pilot on the 1969 Apollo 9 mission, the first crewed flight test of the l</description>
