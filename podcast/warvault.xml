@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Trenton. 1,400 Hessians. One Icy Night Changed Everything.</title>
+      <description>The Battle of Trenton was a short but pivotal American Revolutionary War battle on the morning of December 26, 1776, in Trenton, New Jersey. After General George Washington's crossing of the Delaware River north of Trenton the previous night, Washington led the main body of the Continental Army against Hessian auxiliaries garrisoned at Trenton. After a brief battle, almost two-thirds of the Hessia</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-trenton-20260924.mp3" type="audio/mpeg" length="1245696"/>
+      <guid isPermaLink="false">warvault-battle-of-trenton-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 13:56:44 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Salerno. The Gamble That Almost Failed. September 1943.</title>
       <description>The Allied invasion of Italy was the Allied amphibious landing on mainland Italy that took place from 3 September 1943, during the Italian campaign of World War II. The operation was undertaken by General Sir Harold Alexander's 15th Army Group (comprising General Mark W. Clark's American Fifth Army and General Bernard Montgomery's British Eighth Army) and followed the successful Allied invasion of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/allied-invasion-of-italy-20260923.mp3" type="audio/mpeg" length="1161216"/>
