@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>67 Murders in 3 Years. He Wore New Clothes Every Time.</title>
+      <description>Yang Xinhai was a Chinese serial killer and mass murderer who confessed to committing 67 murders and 23 rapes between 2000 and 2003. He was sentenced to death and executed. He is the most prolific known serial killer in China since the establishment of the People's Republic of China in 1949. The South China Morning Post dubbed Yang the "Monster Killer".</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yang-xinhai-20260924.mp3" type="audio/mpeg" length="1245312"/>
+      <guid isPermaLink="false">crime-yang-xinhai-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 22:09:05 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Mailed His Confessions. Police Never Heard Them.</title>
       <description>Paul John Knowles, also known as The Casanova Killer, was an American serial killer tied to the deaths of 18 people in 1974, although he claimed at least 35.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-john-knowles-20260924.mp3" type="audio/mpeg" length="1026816"/>
