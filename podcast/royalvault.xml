@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Book That Made a King Unstoppable</title>
+      <description>Domesday Book ( DOOMZ-day; the Middle English spelling of "Doomsday Book") is a manuscript record of the Great Survey of much of England and parts of Wales completed in 1086 at the behest of William the Conqueror. The manuscript was originally known by the Latin name Liber de Wintonia, meaning "Book of Winchester", where it was originally kept in the royal treasury. The Anglo-Saxon Chronicle state</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/domesday-book-20260924.mp3" type="audio/mpeg" length="1273728"/>
+      <guid isPermaLink="false">royal-domesday-book-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 23:01:57 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Dynasty That Claimed Muhammad's Blood—Then Vanished</title>
       <description>The Fatimid Caliphate (; Arabic: الخلافة الفاطمیّة, romanised: al-Khilāfa al-Fāṭimiyya), also known as the Fatimid Empire, was a caliphate that existed from the tenth to the twelfth centuries CE under the rule of the Fatimids, an Isma'ili Shi'a dynasty. Spanning a large area of North Africa and West Asia, it ranged from the western Mediterranean in the west to the Red Sea in the east. The Fatimids</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/fatimid-caliphate-20260924.mp3" type="audio/mpeg" length="1072896"/>
