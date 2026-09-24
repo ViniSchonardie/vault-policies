@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>She Logged 695 Days in Space. NASA's Record-Breaker.</title>
+      <description>Peggy Annette Whitson (born February 9, 1960) is an American biochemistry researcher, and astronaut working for Axiom Space. She retired from NASA in 2018, after serving as the 13th chief of the Astronaut Office.  Over all her missions, Whitson has accumulated a total of 695 days in space, more than any other American or woman. 
+Her first NASA space mission was in 2002: an extended stay aboard the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/peggy-whitson-20260924.mp3" type="audio/mpeg" length="1176960"/>
+      <guid isPermaLink="false">space-peggy-whitson-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 13:37:08 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First American Spacewalk: Ed White's 23 Minutes</title>
       <description>Gemini 4 (officially Gemini IV) was the second crewed spaceflight in NASA's Project Gemini, occurring in June 1965. It was the tenth crewed American spaceflight (including two X-15 flights at altitudes exceeding 100 kilometers (62 mi; 54 nmi)). Astronauts James McDivitt and Ed White orbited the Earth 66 times in four days, making it the first US flight to approach the five-day flight of the Soviet</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-4-20260923.mp3" type="audio/mpeg" length="1093248"/>
