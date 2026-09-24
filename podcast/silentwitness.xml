@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Crime Made Law: The Apartheid Verdict That Changed Everything</title>
+      <description>The crime of apartheid is defined by the 2002 Rome Statute of the International Criminal Court as inhumane acts of a character similar to other crimes against humanity "committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime".
+On 30 November </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/crime-of-apartheid-20260924.mp3" type="audio/mpeg" length="1206912"/>
+      <guid isPermaLink="false">trials-crime-of-apartheid-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 20:48:21 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guilty Verdict Overturned on a Technicality</title>
       <description>The State of Tennessee v. John Thomas Scopes, commonly known as the Scopes trial or Scopes Monkey Trial, was an American legal case from July 10 to July 21, 1925, in which a high school teacher, John T. Scopes, was accused of violating the Butler Act, a Tennessee state law which outlawed the teaching of human evolution in public schools. The trial was deliberately staged in order to attract public</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/scopes-trial-20260924.mp3" type="audio/mpeg" length="1185408"/>
