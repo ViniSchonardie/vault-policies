@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Mailed His Confessions. Police Never Heard Them.</title>
+      <description>Paul John Knowles, also known as The Casanova Killer, was an American serial killer tied to the deaths of 18 people in 1974, although he claimed at least 35.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-john-knowles-20260924.mp3" type="audio/mpeg" length="1026816"/>
+      <guid isPermaLink="false">crime-paul-john-knowles-20260924</guid>
+      <pubDate>Thu, 24 Sep 2026 18:14:25 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Killed 4 People for Insurance. Then Made a Fatal Mistake.</title>
       <description>Judias Anna Lou "Judy" Buenoano was an American serial killer who was executed in Florida for the 1971 murder of her first husband James Goodyear. She was also convicted of the 1980 murder of her son, Michael Buenoano, and the 1983 attempted murder of her boyfriend, John Gentry. Buenoano is also acknowledged to be responsible for the 1978 death of another boyfriend, Bobby Joe Morris, in Colorado. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/judy-buenoano-20260924.mp3" type="audio/mpeg" length="1379712"/>
