@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Shot 5 Girls. His Gun Jammed on the 6th.</title>
+      <description>Bernard Eugene Giles is an American convicted serial killer and rapist who murdered five girls and women in Titusville, Florida, in late 1973. After his arrest in December of that year, he fully admitted his guilt and was sentenced to serve several life imprisonment terms in 1974.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/bernard-giles-20260925.mp3" type="audio/mpeg" length="1269504"/>
+      <guid isPermaLink="false">crime-bernard-giles-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 13:22:32 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>67 Murders in 3 Years. He Wore New Clothes Every Time.</title>
       <description>Yang Xinhai was a Chinese serial killer and mass murderer who confessed to committing 67 murders and 23 rapes between 2000 and 2003. He was sentenced to death and executed. He is the most prolific known serial killer in China since the establishment of the People's Republic of China in 1949. The South China Morning Post dubbed Yang the "Monster Killer".</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yang-xinhai-20260924.mp3" type="audio/mpeg" length="1245312"/>
