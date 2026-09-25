@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Martinair Flight 138. 191 Dead. Wrong Mountain.</title>
+      <description>Martinair Flight 138 was a charter flight of Martinair from Surabaya to Jeddah with a stopover in Colombo. On 4 December 1974, the Douglas DC-8 operating the flight crashed into a mountain shortly before landing, killing all 191 people aboard – 182 passengers, all of whom were Indonesian Hajj pilgrims, and nine crew members. The crash remains the deadliest in Sri Lankan aviation history and the th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/martinair-flight-138-20260925.mp3" type="audio/mpeg" length="1230720"/>
+      <guid isPermaLink="false">aviation-martinair-flight-138-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 18:41:01 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El Al Flight 1862. 47 Dead. The Secret Cargo.</title>
       <description>On 4 October 1992, El Al Flight 1862, a Boeing 747 cargo aircraft of the Israeli airline El Al, crashed into the Groeneveen and Klein-Kruitberg flats in the Bijlmermeer (colloquially "Bijlmer") neighbourhood of Amsterdam, the Netherlands. The accident is known in Dutch as the Bijlmerramp ("Bijlmer disaster"). The subsequent health effects in survivors, and eventual revelations of the cargo manifes</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/el-al-flight-1862-20260925.mp3" type="audio/mpeg" length="1323264"/>
