@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>26 Dead. Friendly Fire. The System Failed.</title>
+      <description>The 1994 Black Hawk shootdown incident, sometimes referred to as the Black Hawk Incident, was a friendly fire incident over northern Iraq that occurred on 14 April 1994 during Operation Provide Comfort (OPC). The pilots of two United States Air Force (USAF) F-15 fighter aircraft, operating under the control of a USAF airborne warning and control system (AWACS) aircraft, misidentified two U.S. Army</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1994-black-hawk-shootdown-incident-20260925.mp3" type="audio/mpeg" length="1236864"/>
+      <guid isPermaLink="false">aviation-1994-black-hawk-shootdown-incident-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 22:36:04 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Martinair Flight 138. 191 Dead. Wrong Mountain.</title>
       <description>Martinair Flight 138 was a charter flight of Martinair from Surabaya to Jeddah with a stopover in Colombo. On 4 December 1974, the Douglas DC-8 operating the flight crashed into a mountain shortly before landing, killing all 191 people aboard – 182 passengers, all of whom were Indonesian Hajj pilgrims, and nine crew members. The crash remains the deadliest in Sri Lankan aviation history and the th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/martinair-flight-138-20260925.mp3" type="audio/mpeg" length="1230720"/>
