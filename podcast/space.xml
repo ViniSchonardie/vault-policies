@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 9A: The Spacewalk That Nearly Killed an Astronaut</title>
+      <description>Gemini 9A (officially Gemini IX-A) was a 1966 crewed spaceflight in NASA's Gemini program. It was the seventh crewed Gemini flight, the 15th crewed American flight and the 23rd spaceflight of all time (includes X-15 flights over 100 kilometers (62 mi; 54 nmi)). The original crew for Gemini 9, command pilot Elliot See and pilot Charles Bassett, were killed in a crash on February 28, 1966, while fly</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-9a-20260925.mp3" type="audio/mpeg" length="1165824"/>
+      <guid isPermaLink="false">space-gemini-9a-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 17:32:41 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Tweeted from Space. Then Changed Everything.</title>
       <description>Michael James Massimino (born August 19, 1962) is an American professor of mechanical engineering at Columbia University and a former NASA astronaut. He is the senior advisor of space programs at the Intrepid Sea, Air &amp; Space Museum.
 
