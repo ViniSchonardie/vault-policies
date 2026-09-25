@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chanakya: The Mastermind Nobody Can Verify</title>
+      <description>Chanakya (ISO: Cāṇakya, चाणक्य, ), according to legendary narratives preserved in various traditions dating from the 4th to 11th century CE, was a Brahmin who assisted the first Mauryan emperor Chandragupta in his rise to power and the establishment of the Maurya Empire. According to these narratives, Chanakya served as the chief adviser and prime minister to both emperors Chandragupta Maurya and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/chanakya-20260925.mp3" type="audio/mpeg" length="1195008"/>
+      <guid isPermaLink="false">realstory-chanakya-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 22:48:40 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korolev: The Ghost Who Won the Space Race</title>
       <description>Sergei Pavlovich Korolev (12 January 1907 [O.S. 30 December 1906] – 14 January 1966) was a Soviet rocket engineer and spacecraft designer who led the development of the Soviet space program during the early years of the Space Race.
 Korolev directed development of the R-7 rocket, the world's first intercontinental ballistic missile (ICBM) and was a leader in the Soviet space programme which used mo</description>
