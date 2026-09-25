@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>El Al Flight 1862. 47 Dead. The Secret Cargo.</title>
+      <description>On 4 October 1992, El Al Flight 1862, a Boeing 747 cargo aircraft of the Israeli airline El Al, crashed into the Groeneveen and Klein-Kruitberg flats in the Bijlmermeer (colloquially "Bijlmer") neighbourhood of Amsterdam, the Netherlands. The accident is known in Dutch as the Bijlmerramp ("Bijlmer disaster"). The subsequent health effects in survivors, and eventual revelations of the cargo manifes</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/el-al-flight-1862-20260925.mp3" type="audio/mpeg" length="1323264"/>
+      <guid isPermaLink="false">aviation-el-al-flight-1862-20260925</guid>
+      <pubDate>Fri, 25 Sep 2026 14:39:58 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Asiana Airlines Flight 991. 2 Dead. Fire at 34,000 Feet.</title>
       <description>Asiana Airlines Flight 991 was a cargo flight operated by Asiana Airlines. On 28 July 2011, the Boeing 747-400 flying from Seoul, South Korea, to Shanghai, China, crashed into the sea about 81 miles west off of the coast of Jeju Island after suffering an in-flight cargo fire. Both pilots, the only two people on board, were killed. The accident marked the second loss of a 747 freighter due to a car</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/asiana-airlines-flight-991-20260924.mp3" type="audio/mpeg" length="1120896"/>
