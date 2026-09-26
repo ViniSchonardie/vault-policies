@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>MD-83 Rejected Takeoff. 116 Survived. Wind Destroyed It.</title>
+      <description>Ameristar Charters Flight 9363 was a charter flight from Willow Run Airport to Washington Dulles Airport. on March 8, 2017, the McDonnell Douglas MD-83 (DC-9-83) operating the flight rejected takeoff and overran the runway. The crash was caused by a jammed elevator, which was damaged by high winds the day before the crash.
+All 116 passengers and crew survived the crash, with only one minor injury,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ameristar-charters-flight-9363-20260926.mp3" type="audio/mpeg" length="1677696"/>
+      <guid isPermaLink="false">aviation-ameristar-charters-flight-9363-20260926</guid>
+      <pubDate>Sat, 26 Sep 2026 18:41:22 GMT</pubDate>
+      <itunes:duration>105</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air Canada 797. 23 Dead. 90 Seconds.</title>
       <description>Air Canada Flight 797 was an international passenger flight operating from Dallas/Fort Worth International Airport to Montréal–Dorval International Airport, with an intermediate stop at Toronto International Airport.
 On 2 June 1983, the McDonnell Douglas DC-9 operating the service developed an in-flight fire in air around the rear lavatory that spread between the outer skin and the inner decor pan</description>
