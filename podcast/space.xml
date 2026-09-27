@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Axiom Mission 4: Four Nations, One ISS Flight</title>
+      <description>Axiom Mission 4 (Ax‑4) was a private crewed spaceflight to the International Space Station (ISS) operated by Axiom Space in partnership with SpaceX and NASA. The mission launched atop a SpaceX Falcon 9 Block 5 rocket, which placed the Crew Dragon Grace spacecraft into low Earth orbit. Ax-4 was the first mission to fly aboard the Crew Dragon capsule 'Grace' (C213), which is the fifth and final Drag</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/axiom-mission-4-20260927.mp3" type="audio/mpeg" length="1336704"/>
+      <guid isPermaLink="false">space-axiom-mission-4-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 13:35:06 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dawn Probe: First Spacecraft to Orbit Two Alien Worlds</title>
       <description>Dawn is a retired space probe that was launched by NASA in September 2007 with the mission of studying two of the three known protoplanets of the asteroid belt: Vesta and Ceres. In the fulfillment of that mission—the ninth in NASA's Discovery Program—Dawn entered orbit around Vesta on July 16, 2011, and completed a 14-month survey mission before leaving for Ceres in late 2012. It entered orbit aro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/dawn-spacecraft-20260926.mp3" type="audio/mpeg" length="1157376"/>
