@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>367 Survived. 5 Died. Haneda's Impossible Collision.</title>
+      <description>On 2 January 2024, a runway collision occurred at Haneda Airport in Tokyo, Japan, involving an Airbus A350, operating as Japan Airlines Flight 516, and a De Havilland Canada Dash 8 operated by the Japan Coast Guard (JA722A). Flight 516 was a scheduled domestic passenger flight from New Chitose Airport near Sapporo, Japan, to Haneda Airport in Tokyo. The Coast Guard plane was scheduled to deliver r</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2024-haneda-airport-runway-collision-20260927.mp3" type="audio/mpeg" length="1143936"/>
+      <guid isPermaLink="false">aviation-2024-haneda-airport-runway-collision-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 14:37:31 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flight 670. 4 Dead. The Brakes That Failed.</title>
       <description>Atlantic Airways Flight 670 was a crash following a runway overrun of a British Aerospace 146-200A at 07:32 on 10 October 2006 at Stord Airport, Sørstokken, Norway. The aircraft's spoilers failed to deploy, causing inefficient braking. The Atlantic Airways aircraft fell down the steep cliff at the end of the runway at slow speed and burst into flames, killing four of sixteen people on board.
 The f</description>
