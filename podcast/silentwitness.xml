@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Court Older Than America. Changed Law Forever.</title>
+      <description>The Massachusetts Supreme Judicial Court (SJC) is the highest court in the Commonwealth of Massachusetts. Although the claim is disputed by the Supreme Court of Pennsylvania, the SJC claims the distinction of being the oldest continuously functioning appellate court in the Americas, with a recognized history dating to the establishment of the Massachusetts Superior Court of Judicature in 1692 unde</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/massachusetts-supreme-judicial-court-20260927.mp3" type="audio/mpeg" length="1378560"/>
+      <guid isPermaLink="false">trials-massachusetts-supreme-judicial-court-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 23:46:11 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>14 Nazi Generals Tried. Half Got Out Early.</title>
       <description>The High Command Trial (officially, The United States of America vs. Wilhelm von Leeb, et al.), also known initially as Case No. 12 (the 13 Generals' Trial), and later as Case No. 72 (the German high command trial: Trial of Wilhelm von Leeb and thirteen others), was the last of the twelve trials for war crimes the U.S. authorities held in their occupation zone of Germany in Nuremberg after the end</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/high-command-trial-20260927.mp3" type="audio/mpeg" length="1319040"/>
