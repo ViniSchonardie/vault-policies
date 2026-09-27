@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Latina in Space: Ellen Ochoa's 1993 Mission</title>
+      <description>Ellen Ochoa (; born May 10, 1958) is an American engineer, former astronaut and former director of the Johnson Space Center. In 1993, Ochoa became the first Latina to go to space when she served on a nine-day mission aboard the Space Shuttle Discovery. Ochoa became director of the center upon the retirement of the previous director, Michael Coats, on December 31, 2012. She was the first Latina dir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ellen-ochoa-20260927.mp3" type="audio/mpeg" length="1304064"/>
+      <guid isPermaLink="false">space-ellen-ochoa-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 22:34:38 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Inspiration4: First All-Civilian Crew Orbited Earth</title>
       <description>Inspiration4 (stylized as Inspirati④n) was a 2021 human spaceflight operated by SpaceX on behalf of Shift4 Payments CEO Jared Isaacman. The mission launched the Crew Dragon Resilience on September 16, 2021, at 00:02:56 UTC from Kennedy Space Center's Launch Complex 39A atop a Falcon 9 launch vehicle. It placed the Dragon capsule into a low Earth orbit. The mission ended on September 18, 2021, at 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/inspiration4-20260927.mp3" type="audio/mpeg" length="1149696"/>
