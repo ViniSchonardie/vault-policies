@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Frankston Serial Killer: Three Victims in Five Months</title>
+      <description>Paul Charles Denyer is an Australian serial killer currently serving three consecutive sentences of life imprisonment with a non-parole period of 30 years for the murders of three young women in Melbourne, in 1993. Denyer became known in the media as the Frankston Serial Killer as his crimes occurred in the neighbouring suburbs of Frankston.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-denyer-20260927.mp3" type="audio/mpeg" length="1068288"/>
+      <guid isPermaLink="false">crime-paul-denyer-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 18:13:48 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Sent Police a Map. They Found Him in 15 Minutes.</title>
       <description>Maury Troy Travis was an American serial killer. Travis was named in a federal criminal complaint for the murders of two women. At the time of the murders, he was a hotel waiter, and on parole for a 1989 robbery. While Travis claimed in a letter to have murdered 17 women, some authorities were doubtful; others thought he may have murdered up to 20 women. He committed suicide by hanging in custody </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/maury-travis-20260927.mp3" type="audio/mpeg" length="973824"/>
