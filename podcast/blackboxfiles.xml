@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flight 571. 45 Aboard. They Ate The Dead.</title>
+      <description>Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster (Tragedia de los Andes, literally Tragedy of the Andes) and the Miracle of the Andes (Milagro de los Andes).
+The inexperie</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1972-andes-flight-disaster-20260927.mp3" type="audio/mpeg" length="1109760"/>
+      <guid isPermaLink="false">aviation-1972-andes-flight-disaster-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 18:40:56 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>367 Survived. 5 Died. Haneda's Impossible Collision.</title>
       <description>On 2 January 2024, a runway collision occurred at Haneda Airport in Tokyo, Japan, involving an Airbus A350, operating as Japan Airlines Flight 516, and a De Havilland Canada Dash 8 operated by the Japan Coast Guard (JA722A). Flight 516 was a scheduled domestic passenger flight from New Chitose Airport near Sapporo, Japan, to Haneda Airport in Tokyo. The Coast Guard plane was scheduled to deliver r</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2024-haneda-airport-runway-collision-20260927.mp3" type="audio/mpeg" length="1143936"/>
