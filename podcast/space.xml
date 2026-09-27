@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Inspiration4: First All-Civilian Crew Orbited Earth</title>
+      <description>Inspiration4 (stylized as Inspirati④n) was a 2021 human spaceflight operated by SpaceX on behalf of Shift4 Payments CEO Jared Isaacman. The mission launched the Crew Dragon Resilience on September 16, 2021, at 00:02:56 UTC from Kennedy Space Center's Launch Complex 39A atop a Falcon 9 launch vehicle. It placed the Dragon capsule into a low Earth orbit. The mission ended on September 18, 2021, at 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/inspiration4-20260927.mp3" type="audio/mpeg" length="1149696"/>
+      <guid isPermaLink="false">space-inspiration4-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 17:30:06 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Axiom Mission 4: Four Nations, One ISS Flight</title>
       <description>Axiom Mission 4 (Ax‑4) was a private crewed spaceflight to the International Space Station (ISS) operated by Axiom Space in partnership with SpaceX and NASA. The mission launched atop a SpaceX Falcon 9 Block 5 rocket, which placed the Crew Dragon Grace spacecraft into low Earth orbit. Ax-4 was the first mission to fly aboard the Crew Dragon capsule 'Grace' (C213), which is the fifth and final Drag</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/axiom-mission-4-20260927.mp3" type="audio/mpeg" length="1336704"/>
