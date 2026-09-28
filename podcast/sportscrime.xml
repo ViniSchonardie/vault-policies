@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>They Played for 5 Days. Almost Nobody Watched.</title>
+      <description>Test cricket is a format of the sport of cricket, considered the game's most prestigious and traditional form. Often referred to as the "ultimate test" of a cricketer's skill, endurance and temperament, it is a first-class format of international cricket where two teams in whites, each representing their country, compete over a match that can last up to five days. It consists of up to four innings</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/test-cricket-20260928.mp3" type="audio/mpeg" length="1274496"/>
+      <guid isPermaLink="false">sportscrime-test-cricket-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 15:58:55 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ricky Ponting Won Everything. Then Lost It All.</title>
       <description>Ricky Thomas Ponting  (born 19 December 1974) is an Australian cricket coach, commentator, and former player. He is widely regarded as one of the greatest batsmen of all time and is the most successful captain in international cricket history, with 220 victories in 324 matches with a winning rate of 67.91%.
 He has made the third highest number of centuries in international cricket, behind Sachin T</description>
