@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Boston Siege. 11 Months. British Forced Out.</title>
+      <description>The siege of Boston (April 19, 1775 – March 17, 1776) was the opening phase of the American Revolutionary War. In the siege, American patriot militia led by newly-installed Continental Army commander George Washington prevented the British Army, which was garrisoned in Boston, from moving by land. Both sides faced resource, supply, and personnel challenges during the siege. British resupply and re</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-boston-20260928.mp3" type="audio/mpeg" length="1184640"/>
+      <guid isPermaLink="false">warvault-siege-of-boston-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 22:53:20 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brandywine: 20,000 vs 17,000. Washington's Army Routed.</title>
       <description>The Battle of Brandywine, also known as the Battle of Brandywine Creek, was fought between the American Continental Army of General George Washington and the British Army of General Sir William Howe on September 11, 1777, as part of the American Revolutionary War (1775–1783). The forces met near Chadds Ford, Pennsylvania. More troops fought at Brandywine than at any other battle of the American Re</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-brandywine-20260928.mp3" type="audio/mpeg" length="1295616"/>
