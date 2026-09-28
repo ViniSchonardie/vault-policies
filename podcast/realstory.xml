@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thomas Carlyle. The Sage Nobody Really Knew.</title>
+      <description>Thomas Carlyle (4 December 1795 – 5 February 1881) was a Scottish essayist, historian and philosopher. Known as the "sage of Chelsea", his writings strongly influenced the intellectual and artistic culture of the Victorian era.
+Carlyle was born in Ecclefechan, a village in Dumfriesshire. He attended the University of Edinburgh, where he excelled in mathematics and invented the Carlyle circle. Afte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-carlyle-20260928.mp3" type="audio/mpeg" length="1025280"/>
+      <guid isPermaLink="false">realstory-thomas-carlyle-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 14:56:25 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Imhotep: History's Greatest Architect Was Actually Unknown</title>
       <description>Imhotep (; Ancient Egyptian: ỉỉ-m-ḥtp "(the one who) comes in peace"; fl. late 27th century BC) was an Egyptian chancellor to the King Djoser, possible architect of Djoser's step pyramid, and high priest of the sun god Ra at Heliopolis. Very little is known of Imhotep as a historical figure, but in the 3,000 years following his death, he was gradually glorified and deified.
 Traditions from long af</description>
