@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Brandywine: 20,000 vs 17,000. Washington's Army Routed.</title>
+      <description>The Battle of Brandywine, also known as the Battle of Brandywine Creek, was fought between the American Continental Army of General George Washington and the British Army of General Sir William Howe on September 11, 1777, as part of the American Revolutionary War (1775–1783). The forces met near Chadds Ford, Pennsylvania. More troops fought at Brandywine than at any other battle of the American Re</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-brandywine-20260928.mp3" type="audio/mpeg" length="1295616"/>
+      <guid isPermaLink="false">warvault-battle-of-brandywine-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 17:57:09 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>San Juan Hill. 760 vs 15,000. What Went Wrong.</title>
       <description>The Battle of San Juan Hill (Spanish: Batalla de las Colinas de San Juan), also known as the Battle for the San Juan Heights, was a major battle of the Spanish–American War fought July 1, 1898, between an American force under the command of William Rufus Shafter and Joseph Wheeler against a Spanish force led by Arsenio Linares y Pombo. The combined assaults on Kettle Hill and San Juan Hill that to</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-san-juan-hill-20260928.mp3" type="audio/mpeg" length="1238400"/>
