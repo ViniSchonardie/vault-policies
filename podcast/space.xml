@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>America's First Commercial Crewed Flight: 9 Years to Return Home</title>
+      <description>Crew Dragon Demo-2 (officially Crew Demo-2, SpaceX Demo-2, or Demonstration Mission-2) was the first crewed test flight of the Crew Dragon spacecraft. The spacecraft, named Endeavour, launched on May 30, 2020 on a Falcon 9 rocket, and carried NASA astronauts Doug Hurley and Bob Behnken to the International Space Station in the first crewed orbital spaceflight launched from the United States since </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/crew-dragon-demo-2-20260928.mp3" type="audio/mpeg" length="1197696"/>
+      <guid isPermaLink="false">space-crew-dragon-demo-2-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 13:41:42 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Latina in Space: Ellen Ochoa's 1993 Mission</title>
       <description>Ellen Ochoa (; born May 10, 1958) is an American engineer, former astronaut and former director of the Johnson Space Center. In 1993, Ochoa became the first Latina to go to space when she served on a nine-day mission aboard the Space Shuttle Discovery. Ochoa became director of the center upon the retirement of the previous director, Michael Coats, on December 31, 2012. She was the first Latina dir</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ellen-ochoa-20260927.mp3" type="audio/mpeg" length="1304064"/>
