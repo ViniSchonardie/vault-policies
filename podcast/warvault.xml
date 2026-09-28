@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>San Juan Hill. 760 vs 15,000. What Went Wrong.</title>
+      <description>The Battle of San Juan Hill (Spanish: Batalla de las Colinas de San Juan), also known as the Battle for the San Juan Heights, was a major battle of the Spanish–American War fought July 1, 1898, between an American force under the command of William Rufus Shafter and Joseph Wheeler against a Spanish force led by Arsenio Linares y Pombo. The combined assaults on Kettle Hill and San Juan Hill that to</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-san-juan-hill-20260928.mp3" type="audio/mpeg" length="1238400"/>
+      <guid isPermaLink="false">warvault-battle-of-san-juan-hill-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 14:03:30 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>188 Japanese Aircraft. Darwin Never Saw Them Coming.</title>
       <description>On 19 February 1942, 188 Japanese aircraft, in two separate raids, bombed the Australian town of Darwin, ships in Darwin Harbour and the town's two airfields in an attempt to prevent the Allies from using them as bases to contest the invasion of Timor and Java during World War II. This was the largest single attack ever mounted by a foreign power on Australia. 
 Darwin was very lightly defended rel</description>
