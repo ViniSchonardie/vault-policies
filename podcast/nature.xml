@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Snakebite: 130,000 Deaths a Year Worldwide</title>
+      <description>A snakebite is an injury caused by the bite of a snake, especially a venomous snake. A common sign of a bite from a venomous snake is the presence of two puncture wounds from the animal's fangs. Sometimes venom injection from the bite may occur. This may result in redness, swelling, and severe pain at the area, which may take up to an hour to appear. Vomiting, blurred vision, tingling of the limbs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/snakebite-20260928.mp3" type="audio/mpeg" length="1222272"/>
+      <guid isPermaLink="false">nature-snakebite-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 12:43:33 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venom. Evolved 104 Times Independently.</title>
       <description>Venom or zootoxin is a type of toxin produced by an animal that is actively delivered to other animals through a wound by means of a bite, sting or similar penetrative action, usually via a specially evolved venom apparatus, such as fangs or a stinger, in a process called envenomation. Venoms are often distinguished from poisons, which is passively delivered by being ingested, inhaled, or absorbed</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/venom-20260927.mp3" type="audio/mpeg" length="1406592"/>
