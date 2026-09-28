@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>EgyptAir 990. 217 Dead. The Cockpit Mystery.</title>
+      <description>EgyptAir Flight 990 was a scheduled flight from Los Angeles International Airport to Cairo International Airport, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767-300ER operating the route crashed into the Atlantic Ocean about 60 miles (100 km) south of Nantucket Island, Massachusetts, killing all 217 passengers and crew on board, making it t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/egyptair-flight-990-20260928.mp3" type="audio/mpeg" length="1233408"/>
+      <guid isPermaLink="false">aviation-egyptair-flight-990-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 14:42:30 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Airlines 587. 260 Dead. One Mistake.</title>
       <description>American Airlines Flight 587 was a regularly scheduled international passenger flight from John F. Kennedy International Airport, New York City, to Las Américas International Airport, Santo Domingo, Dominican Republic. On November 12, 2001, the Airbus A300 flying the route crashed into the neighborhood of Belle Harbor on the Rockaway Peninsula of Queens, New York City, shortly after takeoff, killi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-587-20260927.mp3" type="audio/mpeg" length="1293312"/>
