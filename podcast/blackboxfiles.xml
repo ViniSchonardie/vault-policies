@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Boeing 747 Rolled Upside Down. Pilots Ignored the Truth.</title>
+      <description>China Airlines Flight 006 was a daily non-stop international passenger flight from Taipei to Los Angeles International Airport. On February 19, 1985, the Boeing 747SP operating the flight was involved in an aircraft upset accident, following the failure of the No. 4 engine, while cruising at 41,000 ft (12,000 m). The plane rolled over and plunged 31,500 ft (10,000 m), experiencing high speeds and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-006-20260928.mp3" type="audio/mpeg" length="1247232"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-006-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 22:36:49 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ValuJet 592. 110 Dead. Oxygen Cans Mislabeled.</title>
       <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20260928.mp3" type="audio/mpeg" length="1335168"/>
