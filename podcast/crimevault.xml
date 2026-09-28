@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>La Mataviejitas: She Killed 16. Police Hunted a Man.</title>
+      <description>Juana Dayanara Barraza Samperio is a Mexican convicted serial killer and former professional wrestler known as "La Mataviejitas". She was convicted of the murders of 16 elderly women and sentenced to 759 years in prison.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/juana-barraza-samperio-20260928.mp3" type="audio/mpeg" length="1236096"/>
+      <guid isPermaLink="false">crime-juana-barraza-samperio-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 22:10:13 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Army Cook. 4 Murders. Bush Approved Execution. Then It Stopped.</title>
       <description>Ronald Adrin Gray is an American serial killer and rapist whose convictions include four counts of murder, one count of attempted murder and eight counts of rape. His crimes were committed when he was in the United States Army, stationed at Fort Bragg, North Carolina.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ronald-gray-20260928.mp3" type="audio/mpeg" length="1276416"/>
