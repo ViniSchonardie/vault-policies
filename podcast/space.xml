@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceShipOne: The $25M Gamble That Changed Space Forever</title>
+      <description>SpaceShipOne is an experimental air-launched rocket-powered aircraft with sub-orbital spaceflight capability at speeds of up to  3,000 ft/s (2,000 mph) / 910 m/s (3,300 km/h)
+using a hybrid rocket motor. The design features a unique "feathering" atmospheric reentry system where the rear half of the wing and the twin tail booms folds 70 degrees upward along a hinge running the length of the wing; t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spaceshipone-20260928.mp3" type="audio/mpeg" length="1407744"/>
+      <guid isPermaLink="false">space-spaceshipone-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 17:35:04 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>America's First Commercial Crewed Flight: 9 Years to Return Home</title>
       <description>Crew Dragon Demo-2 (officially Crew Demo-2, SpaceX Demo-2, or Demonstration Mission-2) was the first crewed test flight of the Crew Dragon spacecraft. The spacecraft, named Endeavour, launched on May 30, 2020 on a Falcon 9 rocket, and carried NASA astronauts Doug Hurley and Bob Behnken to the International Space Station in the first crewed orbital spaceflight launched from the United States since </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/crew-dragon-demo-2-20260928.mp3" type="audio/mpeg" length="1197696"/>
