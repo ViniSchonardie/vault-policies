@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Poisoned His Coworkers' Tea. Police Had No Idea.</title>
+      <description>Graham Frederick Young, also known as the Teacup Poisoner, was an English serial killer who murdered his victims with poison.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/graham-young-20260928.mp3" type="audio/mpeg" length="1047168"/>
+      <guid isPermaLink="false">crime-graham-young-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 13:27:05 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charlie Brandt: Shot Parents at 13. Became Serial Killer.</title>
       <description>Carl Eric "Charlie" Brandt was an American serial killer who murdered at least four women: his mother in Indiana and a homeless woman, his wife, and his niece in Florida. Growing up in Fort Wayne, Indiana, Brandt shot his parents in their family home on the night of January 3, 1971, when he was 13, killing his pregnant mother and wounding his father. He spent one year at a psychiatric hospital bef</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charlie-brandt-20260927.mp3" type="audio/mpeg" length="1314048"/>
