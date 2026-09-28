@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daniel Ellsberg. The Leak That Toppled a President.</title>
+      <description>The Pentagon Papers, officially titled Report of the Office of the Secretary of Defense Vietnam Task Force, is a United States Department of Defense history of the United States' political and military involvement in Vietnam from 1945 to 1968. Released by Daniel Ellsberg, who had worked on the study, it was made public on the front page of The New York Times starting on June 13, 1971. When the US </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/pentagon-papers-20260928.mp3" type="audio/mpeg" length="1284480"/>
+      <guid isPermaLink="false">realstory-pentagon-papers-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 18:56:29 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thomas Carlyle. The Sage Nobody Really Knew.</title>
       <description>Thomas Carlyle (4 December 1795 – 5 February 1881) was a Scottish essayist, historian and philosopher. Known as the "sage of Chelsea", his writings strongly influenced the intellectual and artistic culture of the Victorian era.
 Carlyle was born in Ecclefechan, a village in Dumfriesshire. He attended the University of Edinburgh, where he excelled in mathematics and invented the Carlyle circle. Afte</description>
