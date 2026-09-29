@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Balaclava. 16,000 Russians. One Thin Red Line.</title>
+      <description>The Battle of Balaclava, fought on 25 October 1854 during the Crimean War, was part of the Siege of Sevastopol (1854–55), an attempt by the British, French and Ottoman allies to capture the port and fortress of Sevastopol, Russia's principal naval base on the Black Sea. The engagement followed the earlier Allied victory in September at the Battle of the Alma, where the Russian General Menshikov ha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-balaclava-20260929.mp3" type="audio/mpeg" length="1238016"/>
+      <guid isPermaLink="false">warvault-battle-of-balaclava-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 17:57:01 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Braddock's Disaster. 456 Dead. One Mistake.</title>
       <description>The Battle of the Monongahela (also known as the Battle of Braddock's Field and the Battle of the Wilderness) took place on July 9, 1755, at the beginning of the French and Indian War at Braddock's Field in present-day Braddock, Pennsylvania, 10 miles (16 km) east of Pittsburgh. A British force under General Edward Braddock, moving to take Fort Duquesne, was defeated by a force of French and Canad</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-monongahela-20260929.mp3" type="audio/mpeg" length="1200768"/>
