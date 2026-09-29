@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Maxim Gorky. Stalin's Guest Who Knew Too Much.</title>
+      <description>Alexei Maximovich Peshkov (Russian: Алексей Максимович Пешков; 28 March [O.S. 16 March] 1868 – 18 June 1936), popularly known as Maxim Gorky (; Максим Горький), was a Russian and Soviet writer, journalist, and proponent of socialism. He was nominated five times for the Nobel Prize in Literature. Before his success as an author, he travelled widely across the Russian Empire, changing jobs frequentl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/maxim-gorky-20260929.mp3" type="audio/mpeg" length="1057152"/>
+      <guid isPermaLink="false">realstory-maxim-gorky-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 18:55:43 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eiffel Built the Tower. Someone Else Designed It.</title>
       <description>Alexandre Gustave Eiffel (  EYE-fəl, French: [alɛksɑ̃dʁ ɡystav ɛfɛl]; né Bonickhausen dit Eiffel; 15 December 1832 – 27 December 1923) was a French civil engineer. A graduate of École Centrale des Arts et Métiers, he made his name with various bridges for the French railway network, most famously the Garabit Viaduct. He is best known for the Eiffel Tower, designed by his company and built for the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/gustave-eiffel-20260929.mp3" type="audio/mpeg" length="1140480"/>
