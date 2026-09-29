@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Kremlin: Palace of 28 Demolished Secrets</title>
+      <description>The Moscow Kremlin, commonly known as the Kremlin, is a fortified complex, known by the same name, in Moscow, Russia. Located in the historic centre of the country's capital city, the Kremlin comprises five palaces, four cathedrals, and an enclosing wall along with numerous towers. Within the complex is the Grand Kremlin Palace, which was one of the royal residences of the Tsar of Russia, and is n</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kremlin-20260929.mp3" type="audio/mpeg" length="1218048"/>
+      <guid isPermaLink="false">royal-kremlin-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 23:02:30 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Queen Who Stopped a Genocide with One Word</title>
       <description>Esther (; Hebrew: אֶסְתֵּר, romanized: ʾEstēr), originally Hadassah (; Hebrew: הֲדַסָּה, romanized: Hăḏassā), is the eponymous heroine of the Book of Esther in the Hebrew Bible. 
 According to the biblical narrative, which is set in the Achaemenid Empire, the Persian king Ahasuerus falls in love with Esther and marries her. His grand vizier Haman is offended by Esther's cousin and guardian Mordecai</description>
