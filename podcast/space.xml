@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Arab in Space: The Saudi Prince Who Changed History</title>
+      <description>Prince Sultan bin Salman Al Saud (Arabic: سلطان بن سلمان آل سعود; Sulṭān bin Salmān Āl Suʿūd; born 27 June 1956) is a Saudi prince and former Royal Saudi Air Force pilot who flew aboard the American STS-51-G Space Shuttle mission as a payload specialist. He is the first member of a royal family to fly in space, the first Arab and the first Muslim to fly in space, as well as (at 28 years old) the y</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sultan-bin-salman-al-saud-20260929.mp3" type="audio/mpeg" length="1173888"/>
+      <guid isPermaLink="false">space-sultan-bin-salman-al-saud-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 13:42:07 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2001 Mars Odyssey: 24 Years Still Sending Data</title>
       <description>2001 Mars Odyssey is a robotic spacecraft orbiting the planet Mars. The project was developed by NASA, and contracted out to Lockheed Martin, with an expected cost for the entire mission of US$297 million. Its mission is to use spectrometers and a thermal imager to detect evidence of past or present water and ice, as well as study the planet's geology and radiation environment. The data Odyssey ob</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/2001-mars-odyssey-20260928.mp3" type="audio/mpeg" length="1204992"/>
