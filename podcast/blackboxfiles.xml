@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>134 Dead. Two Planes. One Fog.</title>
+      <description>On December 16, 1960, a United Air Lines Douglas DC-8 heading for Idlewild Airport (now John F. Kennedy International Airport) in New York City collided in midair with a TWA Lockheed L-1049 Super Constellation descending toward LaGuardia Airport. The Constellation crashed on Miller Field in Staten Island and the DC-8 in Park Slope, Brooklyn, killing all 128 aboard the two aircraft and six people o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1960-new-york-air-disaster-20260929.mp3" type="audio/mpeg" length="1241856"/>
+      <guid isPermaLink="false">aviation-1960-new-york-air-disaster-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 18:43:57 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Engine Ripped Off at Takeoff. All 3 Survived.</title>
       <description>Omega Aerial Refueling Services Flight 70 was a scheduled refueling flight operated by a Boeing 707 that, on May 18, 2011, crashed on takeoff from Naval Air Station Point Mugu, California, USA (now Naval Base Ventura County), while preparing to refuel McDonnell Douglas F/A-18 Hornets operated by the United States Navy that were in the nearby area. All three crew members on board survived the subse</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/omega-aerial-refueling-services-flight-70-20260929.mp3" type="audio/mpeg" length="1112448"/>
