@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Lived in a Shelter. Police Never Suspected Him.</title>
+      <description>Chester Dewayne Turner is an American serial killer and sex offender who was sentenced to death for sexually assaulting and murdering fourteen women and an unborn baby in Los Angeles between 1987 and 1998.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/chester-turner-20260929.mp3" type="audio/mpeg" length="1165824"/>
+      <guid isPermaLink="false">crime-chester-turner-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 13:29:02 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La Mataviejitas: She Killed 16. Police Hunted a Man.</title>
       <description>Juana Dayanara Barraza Samperio is a Mexican convicted serial killer and former professional wrestler known as "La Mataviejitas". She was convicted of the murders of 16 elderly women and sentenced to 759 years in prison.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/juana-barraza-samperio-20260928.mp3" type="audio/mpeg" length="1236096"/>
