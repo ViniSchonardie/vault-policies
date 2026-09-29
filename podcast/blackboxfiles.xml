@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air New Zealand 901. 257 Dead. Invisible Mountain.</title>
+      <description>The Mount Erebus disaster occurred on 28 November 1979 when Air New Zealand Flight 901 (TE901) crashed into Mount Erebus on Ross Island, Antarctica, killing all 237 passengers and 20 crew on board. Air New Zealand had been operating scheduled Antarctic sightseeing flights since 1977. This flight left Auckland Airport in the morning and was supposed to spend a few hours flying over the Antarctic co</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-new-zealand-flight-901-20260929.mp3" type="audio/mpeg" length="1287168"/>
+      <guid isPermaLink="false">aviation-air-new-zealand-flight-901-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 22:38:02 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>134 Dead. Two Planes. One Fog.</title>
       <description>On December 16, 1960, a United Air Lines Douglas DC-8 heading for Idlewild Airport (now John F. Kennedy International Airport) in New York City collided in midair with a TWA Lockheed L-1049 Super Constellation descending toward LaGuardia Airport. The Constellation crashed on Miller Field in Staten Island and the DC-8 in Park Slope, Brooklyn, killing all 128 aboard the two aircraft and six people o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1960-new-york-air-disaster-20260929.mp3" type="audio/mpeg" length="1241856"/>
