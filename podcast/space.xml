@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Spacewalk: 12 Minutes That Almost Killed Him</title>
+      <description>Voskhod 2 (Russian: Восход-2, lit. 'Sunrise-2') was a Soviet crewed space mission in March 1965. The Vostok-based Voskhod 3KD spacecraft with two crew members on board, Pavel Belyayev and Alexei Leonov, was equipped with an inflatable airlock. It established another milestone in space exploration when Alexei Leonov became the first person to leave the spacecraft in a specialised spacesuit to condu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voskhod-2-20260929.mp3" type="audio/mpeg" length="1183488"/>
+      <guid isPermaLink="false">space-voskhod-2-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 17:35:08 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Arab in Space: The Saudi Prince Who Changed History</title>
       <description>Prince Sultan bin Salman Al Saud (Arabic: سلطان بن سلمان آل سعود; Sulṭān bin Salmān Āl Suʿūd; born 27 June 1956) is a Saudi prince and former Royal Saudi Air Force pilot who flew aboard the American STS-51-G Space Shuttle mission as a payload specialist. He is the first member of a royal family to fly in space, the first Arab and the first Muslim to fly in space, as well as (at 28 years old) the y</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sultan-bin-salman-al-saud-20260929.mp3" type="audio/mpeg" length="1173888"/>
