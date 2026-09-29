@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Braddock's Disaster. 456 Dead. One Mistake.</title>
+      <description>The Battle of the Monongahela (also known as the Battle of Braddock's Field and the Battle of the Wilderness) took place on July 9, 1755, at the beginning of the French and Indian War at Braddock's Field in present-day Braddock, Pennsylvania, 10 miles (16 km) east of Pittsburgh. A British force under General Edward Braddock, moving to take Fort Duquesne, was defeated by a force of French and Canad</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-monongahela-20260929.mp3" type="audio/mpeg" length="1200768"/>
+      <guid isPermaLink="false">warvault-battle-of-the-monongahela-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 14:00:14 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boston Siege. 11 Months. British Forced Out.</title>
       <description>The siege of Boston (April 19, 1775 – March 17, 1776) was the opening phase of the American Revolutionary War. In the siege, American patriot militia led by newly-installed Continental Army commander George Washington prevented the British Army, which was garrisoned in Boston, from moving by land. Both sides faced resource, supply, and personnel challenges during the siege. British resupply and re</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-boston-20260928.mp3" type="audio/mpeg" length="1184640"/>
