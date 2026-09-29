@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Man in Black: 4 Murders. One Confession. Then He Blamed His Boyfriend.</title>
+      <description>Peter Howard Moore is a British serial killer who managed cinemas in Bagillt, Holyhead, Kinmel Bay and Denbigh in North Wales at the time of his arrest. He murdered four men in 1995. Due to his trademark attire of a black shirt and tie, he was dubbed the "man in black".</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-moore-20260929.mp3" type="audio/mpeg" length="1202304"/>
+      <guid isPermaLink="false">crime-peter-moore-20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 22:09:51 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brooklyn Sniper Copied Zodiac. One Mistake Ended It.</title>
       <description>Heriberto "Eddie" Seda, often referred to as The New York Zodiac or The Brooklyn Sniper, is an American serial killer who was active in New York City from 1990 through 1993. He fatally shot three people and wounded six others before being caught on June 18, 1996.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/heriberto-seda-20260929.mp3" type="audio/mpeg" length="1261440"/>
