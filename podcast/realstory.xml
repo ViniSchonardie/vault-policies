@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Carl Benz Invented the Car. His Wife Invented Everything Else.</title>
+      <description>Carl (or Karl) Friedrich Benz (German: [kaʁl ˈfʁiːdʁɪç ˈbɛnts] ; born Karl Friedrich Michael Vaillant; 25 November 1844 – 4 April 1929) was a German engine designer and automotive engineer. His Benz Patent-Motorwagen from 1885 is considered the first practical, modern automobile and the first car to be put into series production. He received a patent for the motorcar in 1886, the same year he firs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/carl-benz-20260930.mp3" type="audio/mpeg" length="1260288"/>
+      <guid isPermaLink="false">realstory-carl-benz-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 18:58:36 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>James Watt. The Kettle Story Is a Lie.</title>
       <description>James Watt (; 30 January 1736 (19 January 1736 OS) – 25 August 1819) was a Scottish inventor, engineer and chemist who improved on Thomas Newcomen's 1712 Newcomen steam engine with his Watt steam engine in 1776, which was fundamental to the changes brought by the Industrial Revolution in both his native Great Britain and the rest of the world.
 While working as an instrument maker at the University</description>
