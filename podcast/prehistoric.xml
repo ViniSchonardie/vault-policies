@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>80 Million Years Ago. We Found the Reaper of Death.</title>
+      <description>Thanatotheristes (meaning "reaper of death" according to the original authors; literally, "death harvester" in Greek: Θάνατος, romanized: Thánatos, "Death" and θεριστής, romanized: theristḗs, "harvester") is a genus of tyrannosaurid dinosaur from the Late Cretaceous of Laramidia, approximately 80.1-79.5 Ma. Thanatotheristes contains only one species, T. degrootorum. Fossils of this taxon are found</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/thanatotheristes-20260930.mp3" type="audio/mpeg" length="1059456"/>
+      <guid isPermaLink="false">prehistoric-thanatotheristes-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 17:30:00 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Eusauropods: The Giants That Ruled Every Continent</title>
       <description>Eusauropoda (meaning "true lizard foot") is a derived clade of sauropod dinosaurs. Eusauropods represent the node-based group that includes all descendant sauropods starting with the basal eusauropods of Shunosaurus, and possibly Barapasaurus, and Amygdalodon, but excluding Vulcanodon and Rhoetosaurus. The Eusauropoda was coined in 1995 by Paul Upchurch to create a monophyletic new taxonomic group</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/eusauropoda-20260930.mp3" type="audio/mpeg" length="1105152"/>
