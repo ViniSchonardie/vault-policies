@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Crater. 4,000 Dead. One Massive Mistake.</title>
+      <description>The Battle of the Crater took place during the American Civil War, part of the Siege of Petersburg. It occurred on Saturday, July 30, 1864, between the Confederate Army of Northern Virginia, commanded by General Robert E. Lee, and the Union Army of the Potomac, commanded by Major General George G. Meade under the direct supervision of the general-in-chief, Lieutenant General Ulysses S. Grant.
+Afte</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-crater-20260930.mp3" type="audio/mpeg" length="1027584"/>
+      <guid isPermaLink="false">warvault-battle-of-the-crater-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 13:58:44 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Rzhev: 2.3 Million Casualties in 15 Months</title>
       <description>The Battles of Rzhev (Russian: Ржевская битва, romanized: Rzhevskaya bitva) were a series of Red Army offensives against the Wehrmacht between 8 January 1942 and 31 March 1943, on the Eastern Front of World War II. The battles took place in the northeast of Smolensk Oblast and the south of Tver Oblast, in and around the salient surrounding Rzhev. Due to the high losses suffered by the Red Army, th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battles-of-rzhev-20260929.mp3" type="audio/mpeg" length="1147008"/>
