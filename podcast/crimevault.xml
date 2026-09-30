@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Worked as a Garbage Man. 13 Women Never Came Home.</title>
+      <description>Lorenzo Jerome Gilyard Jr., known as The Kansas City Strangler, is an American serial killer. A former trash-company supervisor, Gilyard is believed to have raped and murdered at least 13 women and girls from 1977 to 1993. He was convicted of six counts of first-degree murder on March 16, 2007.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lorenzo-gilyard-20260930.mp3" type="audio/mpeg" length="1098240"/>
+      <guid isPermaLink="false">crime-lorenzo-gilyard-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 13:28:25 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Man in Black: 4 Murders. One Confession. Then He Blamed His Boyfriend.</title>
       <description>Peter Howard Moore is a British serial killer who managed cinemas in Bagillt, Holyhead, Kinmel Bay and Denbigh in North Wales at the time of his arrest. He murdered four men in 1995. Due to his trademark attire of a black shirt and tie, he was dubbed the "man in black".</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-moore-20260929.mp3" type="audio/mpeg" length="1202304"/>
