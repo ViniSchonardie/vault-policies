@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-28: The Spacecraft That Shouldn't Have Flown</title>
+      <description>Soyuz MS-28, identified by NASA as Soyuz 74S, is a Russian crewed Soyuz spaceflight launched from Site 31/6 at the Baikonur Cosmodrome on 27 November 2025 to the International Space Station, where it docked to Russia's Rassvet docking port.
+
+
+== Mission ==
+The Soyuz mission was initially scheduled to use Soyuz MS vehicle No. 759, which was next in line for assembly at Energia's factory in Korolyov</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-28-20260930.mp3" type="audio/mpeg" length="1276032"/>
+      <guid isPermaLink="false">space-soyuz-ms-28-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 13:42:08 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 9: 500 Feet From His Spacecraft</title>
       <description>Elliot McKay See Jr. (July 23, 1927 – February 28, 1966) was an American engineer, naval aviator, test pilot and NASA astronaut.
 See received an appointment to the United States Merchant Marine Academy in 1945. He graduated in 1949 with a Bachelor of Science degree in marine engineering and a United States Naval Reserve commission, and joined the Aircraft Gas Turbine Division of General Electric a</description>
