@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Eusauropods: The Giants That Ruled Every Continent</title>
+      <description>Eusauropoda (meaning "true lizard foot") is a derived clade of sauropod dinosaurs. Eusauropods represent the node-based group that includes all descendant sauropods starting with the basal eusauropods of Shunosaurus, and possibly Barapasaurus, and Amygdalodon, but excluding Vulcanodon and Rhoetosaurus. The Eusauropoda was coined in 1995 by Paul Upchurch to create a monophyletic new taxonomic group</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/eusauropoda-20260930.mp3" type="audio/mpeg" length="1105152"/>
+      <guid isPermaLink="false">prehistoric-eusauropoda-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 12:47:14 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Dinosaur That Never Existed. A Bone Mix-Up</title>
       <description>Ultrasaurus (meaning "ultra lizard") is a dubious genus of sauropod dinosaur discovered by Haang Mook Kim in South Korea. However, the name was first used unofficially (as a nomen nudum) in 1979 by Jim Jensen to describe a set of giant dinosaur bones he discovered in the United States. Because Kim published the name for his specimen before Jensen could do so officially, George Olshevsky renamed th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/ultrasaurus-20260929.mp3" type="audio/mpeg" length="1203840"/>
