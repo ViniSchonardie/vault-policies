@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>They Forgot to Turn On Their Radios in Space</title>
+      <description>Skylab 4 (also SL-4 and SLM-3) was the third crewed Skylab mission and placed the third and final crew aboard the first American space station.
+The mission began on November 16, 1973, with the launch of Gerald P. Carr, Edward Gibson, and William R. Pogue in an Apollo command and service module on a Saturn IB rocket from the Kennedy Space Center, Florida, and lasted 84 days, one hour and 16 minutes</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-4-20260930.mp3" type="audio/mpeg" length="1229568"/>
+      <guid isPermaLink="false">space-skylab-4-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 17:34:18 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-28: The Spacecraft That Shouldn't Have Flown</title>
       <description>Soyuz MS-28, identified by NASA as Soyuz 74S, is a Russian crewed Soyuz spaceflight launched from Site 31/6 at the Baikonur Cosmodrome on 27 November 2025 to the International Space Station, where it docked to Russia's Rassvet docking port.
 
