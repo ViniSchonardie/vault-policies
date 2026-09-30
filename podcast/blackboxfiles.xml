@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Swissair 330. 47 Dead. Never Caught.</title>
+      <description>Swissair Flight 330 (SR330/SWR330) was a regularly scheduled flight from Zurich Airport in Kloten, Switzerland, to Hong Kong with a planned stopover in Tel Aviv, Israel. On 21 February 1970, a bomb exploded soon after takeoff, causing the plane to crash, killing all 47 passengers and crew. No one was ever charged over the attack, but some sources attribute it to the Popular Front for the Liberatio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-330-20260930.mp3" type="audio/mpeg" length="1329024"/>
+      <guid isPermaLink="false">aviation-swissair-flight-330-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 22:39:17 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flying Tiger Line CL-44. 111 Dead. No Abort.</title>
       <description>On December 24, 1966, a Flying Tiger Line Canadair CL-44 flying from Tachikawa Air Force Base in Japan to Da Nang Airport struck an obstacle, stalled, and crashed into Binh Thai village, killing all four crew members and 107 people on the ground. The flight was on a subcontract for the United States Air Force. This was the first fatal accident for the CL-44 and the deadliest as well.
 
