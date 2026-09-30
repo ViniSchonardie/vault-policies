@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flight 708. 160 Dead. Pilots Fighting Over Nothing.</title>
+      <description>West Caribbean Airways Flight 708 was a charter flight that crashed in northwest Venezuela in the early hours of 16 August 2005, killing all 160 passengers and crew on board. The plane, a McDonnell Douglas MD-82, registration HK-4374X, was en route from Tocumen International Airport (PTY) in Panama City, Panama, to Martinique Aimé Césaire International Airport in Fort-de-France, Martinique, French</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/west-caribbean-airways-flight-708-20260930.mp3" type="audio/mpeg" length="1560192"/>
+      <guid isPermaLink="false">aviation-west-caribbean-airways-flight-708-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 14:46:45 GMT</pubDate>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air New Zealand 901. 257 Dead. Invisible Mountain.</title>
       <description>The Mount Erebus disaster occurred on 28 November 1979 when Air New Zealand Flight 901 (TE901) crashed into Mount Erebus on Ross Island, Antarctica, killing all 237 passengers and 20 crew on board. Air New Zealand had been operating scheduled Antarctic sightseeing flights since 1977. This flight left Auckland Airport in the morning and was supposed to spend a few hours flying over the Antarctic co</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-new-zealand-flight-901-20260929.mp3" type="audio/mpeg" length="1287168"/>
