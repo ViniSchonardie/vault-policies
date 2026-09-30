@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Goddess They Couldn't Control</title>
+      <description>Hathor (Ancient Egyptian: ḥwt-ḥr, lit. 'House of Horus', Ancient Greek: Ἁθώρ Hathōr, Coptic: ϩⲁⲑⲱⲣ, Meroitic: 𐦠𐦴𐦫𐦢‎ Atari) was a major goddess in ancient Egyptian religion who played a wide variety of roles. As a sky deity, she was the mother or consort of the sky god Horus and the sun god Ra, both of whom were connected with kingship, and thus she was the symbolic mother of their earthly repr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/hathor-20260930.mp3" type="audio/mpeg" length="1011456"/>
+      <guid isPermaLink="false">royal-hathor-20260930</guid>
+      <pubDate>Wed, 30 Sep 2026 19:05:32 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Kremlin: Palace of 28 Demolished Secrets</title>
       <description>The Moscow Kremlin, commonly known as the Kremlin, is a fortified complex, known by the same name, in Moscow, Russia. Located in the historic centre of the country's capital city, the Kremlin comprises five palaces, four cathedrals, and an enclosing wall along with numerous towers. Within the complex is the Grand Kremlin Palace, which was one of the royal residences of the Tsar of Russia, and is n</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/kremlin-20260929.mp3" type="audio/mpeg" length="1218048"/>
