@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 23: One Astronaut Staying for a Full Year</title>
+      <description>Shenzhou 23 (Chinese: 神舟二十三号; pinyin: Shénzhōu èrshísān-hào; lit. 'Divine Boat Number 23') is an ongoing Chinese spaceflight to transport three taikonauts on a Shenzhou spacecraft to and from the Tiangong space station. The mission is the 17th crewed Chinese spaceflight and the 23rd flight overall of the Shenzhou program.
+
+
+== Background ==
+Originally expected to launch around November 2026, the l</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-23-20261001.mp3" type="audio/mpeg" length="1140864"/>
+      <guid isPermaLink="false">space-shenzhou-23-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 22:40:26 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Crew-1: America's First Commercial Spaceflight</title>
       <description>SpaceX Crew-1 (also known as USCV-1 or simply Crew-1) was the first operational crewed flight of a Crew Dragon spacecraft and the maiden flight of the Crew Dragon Resilience spacecraft. It was also the second crewed orbital flight launch by the United States since that of STS-135 in July 2011. Resilience launched on November 16, 2020, at 00:27:17 UTC on a Falcon 9 from Kennedy Space Center Launch </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/q56042850-20261001.mp3" type="audio/mpeg" length="1319808"/>
