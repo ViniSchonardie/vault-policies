@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles the Bald. He Wasn't Actually Bald.</title>
+      <description>Charles the Bald (French: Charles le Chauve; 13 June 823 – 6 October 877) was king of West Francia (843–77), king of Italy (875–77) and emperor of the Carolingian Empire (875–77). After a series of civil wars during the reign of his father, Louis the Pious, Charles succeeded, by the Treaty of Verdun (843), in acquiring the western third of the empire. He was a grandson of Charlemagne and the young</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-the-bald-20261001.mp3" type="audio/mpeg" length="1206528"/>
+      <guid isPermaLink="false">realstory-charles-the-bald-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 14:55:28 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Scott Reached the Pole First. Everyone Forgot That Part.</title>
       <description>Captain Robert Falcon Scott (6 June 1868 – c. 29 March 1912) was a British naval officer and explorer who led two expeditions to the Antarctic regions: the Discovery Expedition of 1901–1904 and the Terra Nova Expedition of 1910–1913.
 On the first expedition, Scott set a new southern record by marching to latitude 82°S and discovered the Antarctic Plateau, on which the South Pole is located. On the</description>
