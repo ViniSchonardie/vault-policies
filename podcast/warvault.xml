@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vienna 1529. 100,000 vs 21,000. The City That Broke an Empire.</title>
+      <description>The siege of Vienna, in 1529, was the first attempt by the Ottoman Empire to capture the city of Vienna in the Archduchy of Austria, part of the Holy Roman Empire. Suleiman the Magnificent, sultan of the Ottomans, attacked the city with over 100,000 men, while the defenders, led by Niklas Graf Salm, numbered no more than 21,000. Nevertheless, Vienna was able to survive the siege, which ultimately </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-turkish-siege-of-vienna-20261001.mp3" type="audio/mpeg" length="1233024"/>
+      <guid isPermaLink="false">warvault-first-turkish-siege-of-vienna-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 13:59:26 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guam Reclaimed. 21 Days. Japan's Air Power Broken.</title>
       <description>The Battle of Guam (21 July – 10 August 1944) was the American recapture of the Japanese-held island of Guam, an American territory in the Mariana Islands captured by the Japanese in the First Battle of Guam in 1941 during the Pacific campaign of World War II. The battle was a critical component of Operation Forager. The recapture of Guam and the broader Mariana and Palau Islands campaign resulted</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-guam-20260930.mp3" type="audio/mpeg" length="1643904"/>
