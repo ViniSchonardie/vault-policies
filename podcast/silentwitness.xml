@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>3,590 Prisoners. 2,044 Dead. Belgium's Forgotten Hell</title>
+      <description>Fort Breendonk (Dutch: Fort van Breendonk, French: Fort de Breendonk) is a former military installation at Breendonk, near Mechelen, Belgium, which served as a Nazi prison camp (Auffanglager) during the German occupation of Belgium during World War II.
+Originally constructed between 1906 and 1913 as part of the second ring of the National Redoubt defending Antwerp, Fort Breendonk was used by the B</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/fort-breendonk-20261001.mp3" type="audio/mpeg" length="1351680"/>
+      <guid isPermaLink="false">trials-fort-breendonk-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 17:06:58 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Judge Ordered 19 Executions. His House Still Stands.</title>
       <description>The Jonathan Corwin House, known locally as The Witch House, is a historic house museum in Salem, Massachusetts. It was the home of Judge Jonathan Corwin (1640–1718) and is one of the few structures still standing in Salem with direct ties to the Salem witch trials of 1692. Corwin bought the house in 1675 when he was 35 and when the house was still unfinished, and lived there for more than 40 year</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/the-witch-house-20260930.mp3" type="audio/mpeg" length="1217280"/>
