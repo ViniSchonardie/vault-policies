@@ -17,6 +17,21 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 12: Command Module Pilot Who Never Walked the Moon</title>
+      <description>Richard Francis Gordon Jr. (October 5, 1929 – November 6, 2017) was an American naval officer and aviator, test pilot, and NASA astronaut, and a football executive. He was one of 24 Apollo astronauts to reach the Moon, as command module pilot of the Apollo 12 mission, which orbited the Moon 45 times. Gordon had already flown in space as the pilot of the 1966 Gemini 11 mission.
+
+
+== Biography ==
+
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/richard-f-gordon-20261001.mp3" type="audio/mpeg" length="1075200"/>
+      <guid isPermaLink="false">space-richard-f-gordon-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 13:41:06 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hayabusa2: 5.4 Billion Miles for Asteroid Dust</title>
       <description>Hayabusa2 (Japanese: はやぶさ2; lit. 'Peregrine falcon 2') is an asteroid sample-return mission operated by the Japanese state space agency JAXA. It is a successor to the Hayabusa mission, which returned asteroid samples for the first time in June 2010. Hayabusa2 was launched on 3 December 2014 and rendezvoused in space with near-Earth asteroid 162173 Ryugu on 27 June 2018. It surveyed the asteroid fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/hayabusa2-20260930.mp3" type="audio/mpeg" length="1163136"/>
