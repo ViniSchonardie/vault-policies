@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Kingdom That Conquered England: Wessex Rise</title>
+      <description>The Kingdom of the West Saxons, also known as the Kingdom of Wessex, was an Anglo-Saxon kingdom in the south of Great Britain, from around 519 until around 927. Its origins trace back when Alfred the Great adopted the title 'King of the Anglo-Saxons' as the ruler of all Anglo-Saxons not under Danish rule. Over the next thirty years Alfred's son, Edward the Elder and grandson Æthelstan conquered th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/wessex-20261001.mp3" type="audio/mpeg" length="1092864"/>
+      <guid isPermaLink="false">royal-wessex-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 23:01:18 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Press That Outlived Kingdoms</title>
       <description>Cambridge University Press is the university press of the University of Cambridge. Granted letters patent by King Henry VIII in 1534, it is the oldest university press in the world. Cambridge University Press merged with Cambridge Assessment to form Cambridge University Press and Assessment under Queen Elizabeth II's approval in August 2021. However, the Press retains an independent existence with</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/cambridge-university-press-20261001.mp3" type="audio/mpeg" length="1216512"/>
