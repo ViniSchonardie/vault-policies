@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Crew-1: America's First Commercial Spaceflight</title>
+      <description>SpaceX Crew-1 (also known as USCV-1 or simply Crew-1) was the first operational crewed flight of a Crew Dragon spacecraft and the maiden flight of the Crew Dragon Resilience spacecraft. It was also the second crewed orbital flight launch by the United States since that of STS-135 in July 2011. Resilience launched on November 16, 2020, at 00:27:17 UTC on a Falcon 9 from Kennedy Space Center Launch </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/q56042850-20261001.mp3" type="audio/mpeg" length="1319808"/>
+      <guid isPermaLink="false">space-q56042850-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 17:35:47 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 12: Command Module Pilot Who Never Walked the Moon</title>
       <description>Richard Francis Gordon Jr. (October 5, 1929 – November 6, 2017) was an American naval officer and aviator, test pilot, and NASA astronaut, and a football executive. He was one of 24 Apollo astronauts to reach the Moon, as command module pilot of the Apollo 12 mission, which orbited the Moon 45 times. Gordon had already flown in space as the pilot of the 1966 Gemini 11 mission.
 
