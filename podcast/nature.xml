@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Common Octopus: 500 Million Neurons in 9 Pounds</title>
+      <description>The common octopus (Octopus vulgaris) is a mollusk belonging to the class Cephalopoda. Octopus vulgaris is one of the most studied of all the octopus species, and also one of the most intelligent. It ranges from the eastern Atlantic, extends from the Mediterranean Sea, Black sea and the southern coast of England, to the southern coast of South Africa. It also occurs off the Azores, Canary Islands,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/common-octopus-20261001.mp3" type="audio/mpeg" length="1260288"/>
+      <guid isPermaLink="false">nature-common-octopus-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 12:42:06 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Can Animals Think? The Mystery Science Still Cannot Solve</title>
       <description>Animal consciousness, or animal awareness, is the quality or state of self-awareness within an animal, or of being aware of an external object or of something within itself. In humans, consciousness has been defined as: sentience, awareness, subjectivity, qualia, the ability to experience or to feel, wakefulness, having a sense of selfhood, and the executive control system of the mind. Despite the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/animal-consciousness-20260930.mp3" type="audio/mpeg" length="1153536"/>
