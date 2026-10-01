@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marengo. Napoleon Nearly Lost. One Cavalry Charge Won.</title>
+      <description>The Battle of Marengo  was fought on 14 June 1800 between French forces under the First Consul Napoleon Bonaparte and Austrian forces near the city of Alessandria, in Piedmont, Italy. Near the end of the day, the French overcame General Michael von Melas's surprise attack, drove the Austrians out of Italy and consolidated Bonaparte's political position in Paris as First Consul of France in the wak</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-marengo-20261001.mp3" type="audio/mpeg" length="1122048"/>
+      <guid isPermaLink="false">warvault-battle-of-marengo-20261001</guid>
+      <pubDate>Thu, 01 Oct 2026 18:19:18 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vienna 1529. 100,000 vs 21,000. The City That Broke an Empire.</title>
       <description>The siege of Vienna, in 1529, was the first attempt by the Ottoman Empire to capture the city of Vienna in the Archduchy of Austria, part of the Holy Roman Empire. Suleiman the Magnificent, sultan of the Ottomans, attacked the city with over 100,000 men, while the defenders, led by Niklas Graf Salm, numbered no more than 21,000. Nevertheless, Vienna was able to survive the siege, which ultimately </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/first-turkish-siege-of-vienna-20261001.mp3" type="audio/mpeg" length="1233024"/>
