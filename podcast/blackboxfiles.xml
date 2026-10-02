@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sukhoi Superjet 100. 45 Dead. Ignored the Warning.</title>
+      <description>On 9 May 2012, Sukhoi Civil Aircraft Flight 36801, a Sukhoi Superjet 100 airliner on a demonstration tour in Indonesia crashed into Mount Salak, in the province of West Java. All 37 passengers and 8 crew on board were killed. The plane had taken off minutes before from Jakarta's Halim Airport on a promotional flight for the recently launched jet, and was carrying Sukhoi personnel and representativ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2012-mount-salak-sukhoi-superjet-crash-20261002.mp3" type="audio/mpeg" length="1284864"/>
+      <guid isPermaLink="false">aviation-2012-mount-salak-sukhoi-superjet-crash-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 01:57:57 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>United 232. 112 Dead. The Impossible Landing.</title>
       <description>United Airlines Flight 232 was a regularly scheduled United Airlines flight from Stapleton International Airport in Denver to O'Hare International Airport in Chicago, continuing to Philadelphia International Airport in Philadelphia, United States. On July 19, 1989, the McDonnell Douglas DC-10 serving the flight crash-landed at Sioux Gateway Airport in Sioux City, Iowa, after suffering a catastroph</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-232-20261001.mp3" type="audio/mpeg" length="1208064"/>
