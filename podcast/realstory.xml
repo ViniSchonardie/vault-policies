@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kropotkin: The Prince Who Chose Prison</title>
+      <description>Pyotr Alexeyevich Kropotkin (9 December [O.S. 27 November] 1842 – 8 February 1921) was a Russian anarchist political philosopher and geographer known as a proponent of anarchist communism.
+Born into an aristocratic land-owning family, Kropotkin attended the Page Corps and later served as an officer in Siberia, where he participated in several geological expeditions. He was imprisoned for his activ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/peter-kropotkin-20261002.mp3" type="audio/mpeg" length="1285248"/>
+      <guid isPermaLink="false">realstory-peter-kropotkin-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 15:30:33 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Montesquieu Wrote the U.S. Constitution. From His Armchair.</title>
       <description>Charles Louis de Secondat, baron de La Brède et de Montesquieu (18 January 1689 – 10 February 1755), generally referred to as simply Montesquieu, was a French judge, intellectual, historian, and political philosopher.
 He is the principal source of the theory of separation of powers, which is implemented in many constitutions throughout the world. He is also known for doing more than any other auth</description>
