@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Omdurman 1898. 12,000 Dead. Modern Rifles Won.</title>
+      <description>The Battle of Omdurman,  also known as the Battle of Karary, was fought during the Anglo-Egyptian conquest of Sudan between a British–Egyptian expeditionary force commanded by British Commander-in-Chief (sirdar) major general Horatio Herbert Kitchener and a Sudanese army of the Mahdist State, led by Abdallahi ibn Muhammad (the Khalifa), the successor to the self-proclaimed Mahdi, Muhammad Ahmad. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-omdurman-20261002.mp3" type="audio/mpeg" length="1415424"/>
+      <guid isPermaLink="false">warvault-battle-of-omdurman-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 02:10:03 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marengo. Napoleon Nearly Lost. One Cavalry Charge Won.</title>
       <description>The Battle of Marengo  was fought on 14 June 1800 between French forces under the First Consul Napoleon Bonaparte and Austrian forces near the city of Alessandria, in Piedmont, Italy. Near the end of the day, the French overcame General Michael von Melas's surprise attack, drove the Austrians out of Italy and consolidated Bonaparte's political position in Paris as First Consul of France in the wak</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-marengo-20261001.mp3" type="audio/mpeg" length="1122048"/>
