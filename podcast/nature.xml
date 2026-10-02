@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Red Admiral Butterfly. It Can't See Red.</title>
+      <description>Vanessa atalanta, the red admiral or, previously, the red admirable, is a well-characterized, medium-sized butterfly with black wings, red bands, and white spots. It has a wingspan of about 2 inches (5 cm). It was first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae. The red admiral is widely distributed across temperate regions of North Africa, North America, Europe, Asia,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/vanessa-atalanta-20261002.mp3" type="audio/mpeg" length="1200768"/>
+      <guid isPermaLink="false">nature-vanessa-atalanta-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 01:44:14 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sea Lamprey. Kills 40 Pounds of Fish Per Year.</title>
       <description>The sea lamprey (Petromyzon marinus) is a parasitic lamprey native to the Northern Hemisphere. It is sometimes referred to as the "vampire fish". 
 It was likely introduced to the Great Lakes region through the Erie Canal in 1825 and the Welland Canal in 1919 where it has attacked native fish such as lake trout, lake whitefish, chub, and lake herring. Sea lampreys are considered a pest in the Great</description>
