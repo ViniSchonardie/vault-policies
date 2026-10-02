@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Toulon. 1793. The Siege That Made Napoleon.</title>
+      <description>The siege of Toulon took place during the War of the First Coalition. Following the insurrection of 31 May – 2 June 1793, a Federalist revolt against the French First Republic broke out in Toulon. The Federalists were soon supplanted by more numerous French Royalists, aided by the First Coalition, which sent forces to help them hold the city. An Anglo-Spanish fleet arrived on 28 August transportin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-toulon-20261002.mp3" type="audio/mpeg" length="1243008"/>
+      <guid isPermaLink="false">warvault-siege-of-toulon-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 13:58:06 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Omdurman 1898. 12,000 Dead. Modern Rifles Won.</title>
       <description>The Battle of Omdurman,  also known as the Battle of Karary, was fought during the Anglo-Egyptian conquest of Sudan between a British–Egyptian expeditionary force commanded by British Commander-in-Chief (sirdar) major general Horatio Herbert Kitchener and a Sudanese army of the Mahdist State, led by Abdallahi ibn Muhammad (the Khalifa), the successor to the self-proclaimed Mahdi, Muhammad Ahmad. T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-omdurman-20261002.mp3" type="audio/mpeg" length="1415424"/>
