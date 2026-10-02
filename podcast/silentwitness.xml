@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>35,000 Killed in 37 Days. The Riga Ghetto Massacre</title>
+      <description>Riga Ghetto was a small area in Maskavas Forštate, a neighbourhood of Riga, Latvia, where Nazis forced Jews from Latvia, and later from the German "Reich" (Germany, Austria, Bohemia, and Moravia), to live during World War II. On October 25, 1941, the Nazis evicted the ghetto's non-Jewish inhabitants and relocated all Jews from Riga and its vicinity there.  Most Latvian Jews (about 35,000) were kil</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/riga-ghetto-20261002.mp3" type="audio/mpeg" length="1213440"/>
+      <guid isPermaLink="false">trials-riga-ghetto-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 02:03:44 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>21 Nazi Officials On Trial. Only 2 Walked Free.</title>
       <description>The Ministries Trial (or, officially, the United States of America vs. Ernst von Weizsäcker, et al.) was the eleventh of the twelve trials for war crimes the U.S. authorities held in their occupation zone in Germany in Nuremberg after the end of World War II. These twelve trials were all held before U.S. military courts, not before the International Military Tribunal, but took place in the same ro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/ministries-trial-20261001.mp3" type="audio/mpeg" length="976512"/>
