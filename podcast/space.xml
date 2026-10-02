@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Last American Solo: Gordon Cooper's 34-Hour Gamble</title>
+      <description>Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963, from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-9-20261002.mp3" type="audio/mpeg" length="1246464"/>
+      <guid isPermaLink="false">space-mercury-atlas-9-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 01:59:19 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Shenzhou 23: One Astronaut Staying for a Full Year</title>
       <description>Shenzhou 23 (Chinese: 神舟二十三号; pinyin: Shénzhōu èrshísān-hào; lit. 'Divine Boat Number 23') is an ongoing Chinese spaceflight to transport three taikonauts on a Shenzhou spacecraft to and from the Tiangong space station. The mission is the 17th crewed Chinese spaceflight and the 23rd flight overall of the Shenzhou program.
 
