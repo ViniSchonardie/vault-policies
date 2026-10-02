@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Roadside Strangler: 8 Murders. Then He Begged to Die.</title>
+      <description>Michael Bruce Ross was an American serial killer who committed at least eight murders and was nicknamed "The Roadside Strangler". He was executed by the state of Connecticut in 2005.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-bruce-ross-20261002.mp3" type="audio/mpeg" length="1509504"/>
+      <guid isPermaLink="false">crime-michael-bruce-ross-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 18:19:51 GMT</pubDate>
+      <itunes:duration>94</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Riverside Prostitute Killer: 13 Women. He Delivered Furniture to Detectives.</title>
       <description>William Lester Suff is an American serial killer who tortured and killed at least thirteen women in Riverside County, California, from 1986 to 1991, earning nicknames such as the Riverside Prostitute Killer and the Lake Elsinore Killer, as some of his victims were dumped in Lake Elsinore. Years earlier, in 1973, he murdered his two-month-old daughter in Texas, a crime for which he had only served </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/william-suff-20261002.mp3" type="audio/mpeg" length="1217664"/>
