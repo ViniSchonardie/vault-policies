@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Mother in Space: Anna Fisher's 1984 Mission</title>
+      <description>Anna Lee Fisher (née Tingle; born August 24, 1949) is an American chemist, emergency physician and a former NASA astronaut. Formerly married to fellow astronaut Bill Fisher, and the mother of two children, in 1984 she became the first mother to fly in space. During her career at NASA, she was involved with three major programs: the Space Shuttle, the International Space Station and the Orion space</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/anna-lee-fisher-20261002.mp3" type="audio/mpeg" length="1113600"/>
+      <guid isPermaLink="false">space-anna-lee-fisher-20261002</guid>
+      <pubDate>Fri, 02 Oct 2026 13:39:35 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Last American Solo: Gordon Cooper's 34-Hour Gamble</title>
       <description>Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963, from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 2</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-9-20261002.mp3" type="audio/mpeg" length="1246464"/>
