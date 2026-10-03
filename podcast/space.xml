@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-114: The Foam That Almost Killed Discovery Twice</title>
+      <description>STS-114 was the first "Return to Flight" Space Shuttle mission following the Space Shuttle Columbia disaster. Discovery launched at 10:39 EDT (14:39 UTC) on its 31st flight on July 26, 2005. The launch, 907 days (approx. 29 months) after the loss of Columbia, was approved despite unresolved fuel sensor anomalies in the external tank that had prevented the shuttle from launching on July 13, its ori</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-114-20261003.mp3" type="audio/mpeg" length="1150080"/>
+      <guid isPermaLink="false">space-sts-114-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 14:43:55 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-29: First Ads in Space—Russia's Billion-Dollar Gamble</title>
       <description>Soyuz MS-29 is a planned Russian crewed Soyuz spaceflight to launch from Baikonur on 14 July 2026 to the International Space Station.
 
