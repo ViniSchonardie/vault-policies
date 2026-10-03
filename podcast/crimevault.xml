@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Walked Into Police With Body Parts in His Pocket</title>
+      <description>Wayne Adam Ford is an American serial killer. Ford, a former long-haul truck driver, murdered four women from 1997 to 1998. He strangled them and dismembered three of his four victims. He turned himself in with a woman's breast in a bag in his coat pocket.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-adam-ford-20261003.mp3" type="audio/mpeg" length="1142784"/>
+      <guid isPermaLink="false">crime-wayne-adam-ford-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 01:27:55 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Roadside Strangler: 8 Murders. Then He Begged to Die.</title>
       <description>Michael Bruce Ross was an American serial killer who committed at least eight murders and was nicknamed "The Roadside Strangler". He was executed by the state of Connecticut in 2005.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-bruce-ross-20261002.mp3" type="audio/mpeg" length="1509504"/>
