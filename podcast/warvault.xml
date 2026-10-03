@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alexander Built a Bridge to an Island. 8,000 Died.</title>
+      <description>The siege of Tyre was carried out by Alexander the Great in 332 BC during his campaigns against the Persians. At first, the Macedonian army was unable to capture the city of Tyre, which was a strategic coastal base on the Mediterranean Sea, through conventional means because it was on an island that was 1 kilometer off the coast of modern-day Lebanon (at the time Phoenicia) and had walls right up </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tyre-20261003.mp3" type="audio/mpeg" length="1246080"/>
+      <guid isPermaLink="false">warvault-siege-of-tyre-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 02:01:57 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>54th Massachusetts. Fort Wagner. 1,515 Casualties.</title>
       <description>The Second Battle of Fort Wagner, also known as the Second Assault on Morris Island or the Battle of Fort Wagner, Morris Island, was fought on July 18, 1863, during the American Civil War. Union Army troops commanded by Brig. Gen. Quincy Gillmore launched an unsuccessful assault on the Confederate fortress of Fort Wagner, which protected Morris Island, south of Charleston Harbor. The battle occurr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/second-battle-of-fort-wagner-20261002.mp3" type="audio/mpeg" length="1211904"/>
