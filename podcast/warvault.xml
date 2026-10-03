@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chasiv Yar. The City That Wouldn't Fall. 20 Months.</title>
+      <description>The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the cros</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chasiv-yar-20261003.mp3" type="audio/mpeg" length="1365504"/>
+      <guid isPermaLink="false">warvault-battle-of-chasiv-yar-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 14:53:44 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander Built a Bridge to an Island. 8,000 Died.</title>
       <description>The siege of Tyre was carried out by Alexander the Great in 332 BC during his campaigns against the Persians. At first, the Macedonian army was unable to capture the city of Tyre, which was a strategic coastal base on the Mediterranean Sea, through conventional means because it was on an island that was 1 kilometer off the coast of modern-day Lebanon (at the time Phoenicia) and had walls right up </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-tyre-20261003.mp3" type="audio/mpeg" length="1246080"/>
