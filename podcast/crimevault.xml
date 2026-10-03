@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Killed for Shopping Sprees. One Victim Escaped.</title>
+      <description>Dana Sue Gray is an American serial killer who murdered three elderly women in 1994. She was caught after a fourth intended victim survived and identified her. Gray claims to have committed the murders to support her spending habits. She is serving a sentence of life, without the possibility of parole, in the California Women's Prison in Chowchilla.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dana-sue-gray-20261003.mp3" type="audio/mpeg" length="1053696"/>
+      <guid isPermaLink="false">crime-dana-sue-gray-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 14:37:48 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Walked Into Police With Body Parts in His Pocket</title>
       <description>Wayne Adam Ford is an American serial killer. Ford, a former long-haul truck driver, murdered four women from 1997 to 1998. He strangled them and dismembered three of his four victims. He turned himself in with a woman's breast in a bag in his coat pocket.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-adam-ford-20261003.mp3" type="audio/mpeg" length="1142784"/>
