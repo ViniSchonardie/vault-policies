@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The King Who Defied the Pope and Won</title>
+      <description>The English Reformation began in 16th-century England when the Church of England  broke away first from the authority of the pope and bishops over the King and then from some doctrines and practices of the Catholic Church. These events were part of the wider European Reformation: various religious and political movements that affected both the practice of Christianity in Western and Central Europe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/english-reformation-20261003.mp3" type="audio/mpeg" length="1284864"/>
+      <guid isPermaLink="false">royal-english-reformation-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 02:07:22 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The King Who Vanished in a Storm</title>
       <description>Romulus (, Classical Latin: [ˈroːmʊɫʊs]) was the legendary founder and first king of Rome. Various traditions attribute the establishment of many of Rome's oldest legal, political, religious, and social institutions to Romulus and his contemporaries. Although many of these traditions incorporate elements of folklore, and it is not clear to what extent a historical figure underlies the mythical Rom</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/romulus-20261002.mp3" type="audio/mpeg" length="974976"/>
