@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lonely Hearts Killer: He Posed as a Photographer</title>
+      <description>Harvey Murray Glatman was an American serial killer and rapist during the late 1950s known as the Lonely Hearts Killer or the Glamour Girl Slayer. He would use several pseudonyms, posing as a professional photographer to lure his victims with the promise of a modeling career.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/harvey-glatman-20261003.mp3" type="audio/mpeg" length="1224576"/>
+      <guid isPermaLink="false">crime-harvey-glatman-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 18:44:02 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Killed for Shopping Sprees. One Victim Escaped.</title>
       <description>Dana Sue Gray is an American serial killer who murdered three elderly women in 1994. She was caught after a fourth intended victim survived and identified her. Gray claims to have committed the murders to support her spending habits. She is serving a sentence of life, without the possibility of parole, in the California Women's Prison in Chowchilla.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dana-sue-gray-20261003.mp3" type="audio/mpeg" length="1053696"/>
