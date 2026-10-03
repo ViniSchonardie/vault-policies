@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Northwest Flight 710. 63 Dead. Wings Just Fell Off.</title>
+      <description>Northwest Airlines Flight 710 was a scheduled flight between Minneapolis, Minnesota and Miami, Florida, with a stop in Chicago. On March 17, 1960, the six-month-old Lockheed L-188 Electra operating the flight broke up in midair in southern Indiana, near Cannelton, killing all 63 people on board. After unexpectedly encountering clear-air turbulence at 18,000 feet (5,500 m), the aircraft's right win</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-orient-airlines-flight-710-20261003.mp3" type="audio/mpeg" length="1287168"/>
+      <guid isPermaLink="false">aviation-northwest-orient-airlines-flight-710-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 15:33:01 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Emirates Flight 407. 263 Aboard. One Keystroke Away.</title>
       <description>Emirates Flight 407 was a scheduled international passenger flight operated by Emirates from Auckland to Dubai with a stopover in Melbourne, operated by an Airbus A340-500 aircraft. On 20 March 2009, the flight failed to take off properly at Melbourne Airport, hitting several structures at the end of the runway before climbing and then returning to the airport for a safe landing. Although no fatal</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/emirates-flight-407-20261003.mp3" type="audio/mpeg" length="1017984"/>
