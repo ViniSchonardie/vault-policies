@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Budapest 1945. 800,000 Trapped. 50 Days of Hell.</title>
+      <description>The Siege of Budapest or Battle of Budapest was the 50-day-long encirclement by Soviet and Romanian forces of the Hungarian capital of Budapest, near the end of World War II. Part of the broader Budapest Offensive, the siege began when Budapest, defended by Hungarian and German troops, was encircled on 26 December 1944 by the Red Army and the Romanian Army. During the siege, about 38,000 civilians</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-budapest-20261003.mp3" type="audio/mpeg" length="1366272"/>
+      <guid isPermaLink="false">warvault-siege-of-budapest-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 18:37:50 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chasiv Yar. The City That Wouldn't Fall. 20 Months.</title>
       <description>The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the cros</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chasiv-yar-20261003.mp3" type="audio/mpeg" length="1365504"/>
