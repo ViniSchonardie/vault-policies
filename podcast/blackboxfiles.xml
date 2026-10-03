@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sabena Flight 548. 72 Dead. America's Skating Team Gone.</title>
+      <description>Sabena Flight 548 was a scheduled international passenger flight from Idlewild Airport in New York City to Brussels Airport in Belgium. On 15 February 1961, the Boeing 707-329 operating the flight crashed on approach to Brussels Airport, killing all 72 people on board and one person on the ground. The fatalities included the entire United States figure skating team, which was traveling to the Worl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sabena-flight-548-20261003.mp3" type="audio/mpeg" length="1332096"/>
+      <guid isPermaLink="false">aviation-sabena-flight-548-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 19:17:13 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Northwest Flight 710. 63 Dead. Wings Just Fell Off.</title>
       <description>Northwest Airlines Flight 710 was a scheduled flight between Minneapolis, Minnesota and Miami, Florida, with a stop in Chicago. On March 17, 1960, the six-month-old Lockheed L-188 Electra operating the flight broke up in midair in southern Indiana, near Cannelton, killing all 63 people on board. After unexpectedly encountering clear-air turbulence at 18,000 feet (5,500 m), the aircraft's right win</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/northwest-orient-airlines-flight-710-20261003.mp3" type="audio/mpeg" length="1287168"/>
