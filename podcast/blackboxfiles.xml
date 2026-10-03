@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Emirates Flight 407. 263 Aboard. One Keystroke Away.</title>
+      <description>Emirates Flight 407 was a scheduled international passenger flight operated by Emirates from Auckland to Dubai with a stopover in Melbourne, operated by an Airbus A340-500 aircraft. On 20 March 2009, the flight failed to take off properly at Melbourne Airport, hitting several structures at the end of the runway before climbing and then returning to the airport for a safe landing. Although no fatal</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/emirates-flight-407-20261003.mp3" type="audio/mpeg" length="1017984"/>
+      <guid isPermaLink="false">aviation-emirates-flight-407-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 01:49:15 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>B-52 Dropped Two Nuclear Bombs. One Switch Away From Detonation.</title>
       <description>The 1961 Goldsboro B-52 crash was an aviation accident that occurred near Goldsboro, North Carolina, United States, on 24 January 1961. A Boeing B-52 Stratofortress carrying two 3.8-megaton Mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process. Five crewmen successfully ejected or bailed out of the aircraft and landed safely; another ejected, but did not survive th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1961-goldsboro-b-52-crash-20261002.mp3" type="audio/mpeg" length="1261056"/>
