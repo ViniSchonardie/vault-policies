@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Skylab 2: 28 Days in a Dying Station</title>
+      <description>Skylab 2 (also SL-2 and SLM-1) was the first crewed mission to Skylab, the first American orbital space station. The mission was launched on an Apollo command and service module by a Saturn IB rocket on May 25, 1973, and carried NASA astronauts Pete Conrad, Joseph P. Kerwin, Paul J. Weitz to the station. The name Skylab 2 also refers to the vehicle used for that mission. The Skylab 2 mission estab</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-2-20261003.mp3" type="audio/mpeg" length="1644672"/>
+      <guid isPermaLink="false">space-skylab-2-20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 18:30:57 GMT</pubDate>
+      <itunes:duration>103</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-114: The Foam That Almost Killed Discovery Twice</title>
       <description>STS-114 was the first "Return to Flight" Space Shuttle mission following the Space Shuttle Columbia disaster. Discovery launched at 10:39 EDT (14:39 UTC) on its 31st flight on July 26, 2005. The launch, 907 days (approx. 29 months) after the loss of Columbia, was approved despite unresolved fuel sensor anomalies in the external tank that had prevented the shuttle from launching on July 13, its ori</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-114-20261003.mp3" type="audio/mpeg" length="1150080"/>
