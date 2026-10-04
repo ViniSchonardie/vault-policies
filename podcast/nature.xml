@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Pliosaurus. 33 feet of pure apex predator.</title>
+      <description>Pliosaurus is the type genus (defining example) of the pliosaurs, one of the major group of the plesiosaurs, an extinct group of aquatic marine reptiles. It lived from the Upper Jurassic to the Lower Cretaceous in what is now Europe and South America. The first known fossil consists of a partial skeleton of an immature specimen collected by William Buckland in Market Rasen, England. Although initi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/pliosaurus-20261004.mp3" type="audio/mpeg" length="1154688"/>
+      <guid isPermaLink="false">nature-pliosaurus-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 14:10:34 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Monarch Butterfly. Travels 3,000 Miles Without a Map.</title>
       <description>Monarch butterfly migration is the phenomenon, mainly throughout North America, where the monarch subspecies Danaus plexippus plexippus migrates each autumn to overwintering sites near the west coast of California or mountainous sites in central Mexico. Other populations from around the world perform minor migrations or none at all. This massive movement of butterflies has been recognized as "one </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/monarch-butterfly-migration-20261004.mp3" type="audio/mpeg" length="1256832"/>
