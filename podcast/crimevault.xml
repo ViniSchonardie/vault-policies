@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Missoula Mauler Shot Dead Before Trial</title>
+      <description>Wayne Nathan Nance, known as The Missoula Mauler, was an American serial killer in the state of Montana. Nance was shot and killed while committing a home invasion of a co-worker's residence; thus, Nance was never formally charged, tried, or convicted of any murder. Authorities reported that physical evidence linked Nance to several unsolved murders.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-nance-20261004.mp3" type="audio/mpeg" length="933504"/>
+      <guid isPermaLink="false">crime-wayne-nance-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 14:57:07 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I-95 Killer: Six Men. Six Months. One Confession.</title>
       <description>Gary Ray Bowles was an American serial killer who was executed in 2019 for the murders of six men in 1994. He is sometimes referred to as The I-95 Killer since most of his victims lived close to the Interstate 95 highway. He was executed by lethal injection for his crimes in 2019.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gary-ray-bowles-20261004.mp3" type="audio/mpeg" length="1133952"/>
