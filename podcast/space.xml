@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>He Spent 1,111 Days in Space. No One Had Ever Done This.</title>
+      <description>Oleg Dmitriyevich Kononenko (Russian: Олег Дмитриевич Кононенко; Turkmen: Oleg Dmitriýewiç Kononenko; born 21 June 1964) is a Russian cosmonaut. He has flown to the International Space Station five times as a flight engineer on Expedition 17 aboard Soyuz TMA-12, as a flight engineer on Expedition 30 and commander of Expedition 31 aboard Soyuz TMA-03M, as a flight engineer on Expedition 44 and Expe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/oleg-kononenko-20261004.mp3" type="audio/mpeg" length="1276416"/>
+      <guid isPermaLink="false">space-oleg-kononenko-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 02:21:31 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Skylab 2: 28 Days in a Dying Station</title>
       <description>Skylab 2 (also SL-2 and SLM-1) was the first crewed mission to Skylab, the first American orbital space station. The mission was launched on an Apollo command and service module by a Saturn IB rocket on May 25, 1973, and carried NASA astronauts Pete Conrad, Joseph P. Kerwin, Paul J. Weitz to the station. The name Skylab 2 also refers to the vehicle used for that mission. The Skylab 2 mission estab</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-2-20261003.mp3" type="audio/mpeg" length="1644672"/>
