@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>PhD Student Killed 3 Women. Police Watched Him for 2 Years.</title>
+      <description>The Bradford murders were the serial killings of three women in the city of Bradford, West Yorkshire, England in 2009 and 2010.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stephen-griffiths-20261004.mp3" type="audio/mpeg" length="1283328"/>
+      <guid isPermaLink="false">crime-stephen-griffiths-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 19:01:13 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Missoula Mauler Shot Dead Before Trial</title>
       <description>Wayne Nathan Nance, known as The Missoula Mauler, was an American serial killer in the state of Montana. Nance was shot and killed while committing a home invasion of a co-worker's residence; thus, Nance was never formally charged, tried, or convicted of any murder. Authorities reported that physical evidence linked Nance to several unsolved murders.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/wayne-nance-20261004.mp3" type="audio/mpeg" length="933504"/>
