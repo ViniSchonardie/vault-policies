@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini VI-A: One Foot From Disaster</title>
+      <description>Gemini 6A (officially Gemini VI-A) was a 1965 crewed United States spaceflight in NASA's Gemini program. 
+The mission, flown by Wally Schirra and Thomas P. Stafford, achieved the first crewed rendezvous with another spacecraft, its sister Gemini 7.  Although the Soviet Union had twice previously launched simultaneous pairs of Vostok spacecraft, these established radio contact with each other, but </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-6a-20261004.mp3" type="audio/mpeg" length="928512"/>
+      <guid isPermaLink="false">space-gemini-6a-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 15:08:06 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Spent 1,111 Days in Space. No One Had Ever Done This.</title>
       <description>Oleg Dmitriyevich Kononenko (Russian: Олег Дмитриевич Кононенко; Turkmen: Oleg Dmitriýewiç Kononenko; born 21 June 1964) is a Russian cosmonaut. He has flown to the International Space Station five times as a flight engineer on Expedition 17 aboard Soyuz TMA-12, as a flight engineer on Expedition 30 and commander of Expedition 31 aboard Soyuz TMA-03M, as a flight engineer on Expedition 44 and Expe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/oleg-kononenko-20261004.mp3" type="audio/mpeg" length="1276416"/>
