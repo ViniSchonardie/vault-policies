@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am 110. 34 Dead. They Walked Free.</title>
+      <description>In December 1973, Fatah, a Palestinian military organization executed a series of attacks originating at Rome-Fiumicino Airport in Italy, resulting in the deaths of 34 people. The attacks began with an airport-terminal invasion and hostage-taking, followed by the firebombing of a Pan Am aircraft and the hijacking of a Lufthansa flight.
+Pan Am Flight 110 was scheduled to depart from Rome, Italy and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1973-rome-airport-attack-and-hijacking-20261004.mp3" type="audio/mpeg" length="1319040"/>
+      <guid isPermaLink="false">aviation-1973-rome-airport-attack-and-hijacking-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 15:59:02 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Flight 811. 9 Dead. The Door That Shouldn't Open.</title>
       <description>United Airlines Flight 811 was a regularly scheduled international flight from Los Angeles to Sydney, with intermediate stops at Honolulu and Auckland. On February 24, 1989, the Boeing 747 serving the flight experienced a cargo-door failure in flight shortly after leaving Honolulu. The resulting explosive decompression blew out several rows of seats, killing nine passengers. The aircraft returned </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-811-20261004.mp3" type="audio/mpeg" length="1343232"/>
