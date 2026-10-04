@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flight 811. 9 Dead. The Door That Shouldn't Open.</title>
+      <description>United Airlines Flight 811 was a regularly scheduled international flight from Los Angeles to Sydney, with intermediate stops at Honolulu and Auckland. On February 24, 1989, the Boeing 747 serving the flight experienced a cargo-door failure in flight shortly after leaving Honolulu. The resulting explosive decompression blew out several rows of seats, killing nine passengers. The aircraft returned </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-811-20261004.mp3" type="audio/mpeg" length="1343232"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-811-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 02:19:32 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sabena Flight 548. 72 Dead. America's Skating Team Gone.</title>
       <description>Sabena Flight 548 was a scheduled international passenger flight from Idlewild Airport in New York City to Brussels Airport in Belgium. On 15 February 1961, the Boeing 707-329 operating the flight crashed on approach to Brussels Airport, killing all 72 people on board and one person on the ground. The fatalities included the entire United States figure skating team, which was traveling to the Worl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sabena-flight-548-20261003.mp3" type="audio/mpeg" length="1332096"/>
