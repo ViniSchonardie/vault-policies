@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Garuda Indonesia 152. 234 Dead. Wrong Turn.</title>
+      <description>Garuda Indonesia Flight 152 was a scheduled domestic flight operated by Garuda Indonesia from Soekarno–Hatta International Airport, Tangerang, Indonesia, to Polonia International Airport, Medan, Indonesia. On 26 September 1997, the Airbus A300 flying the route crashed into mountainous woodlands near the village of Buah Nabar, Sibolangit, killing all 222 passengers and 12 crew members on board. It </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/garuda-indonesia-flight-152-20261004.mp3" type="audio/mpeg" length="1258752"/>
+      <guid isPermaLink="false">aviation-garuda-indonesia-flight-152-20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 19:38:09 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pan Am 110. 34 Dead. They Walked Free.</title>
       <description>In December 1973, Fatah, a Palestinian military organization executed a series of attacks originating at Rome-Fiumicino Airport in Italy, resulting in the deaths of 34 people. The attacks began with an airport-terminal invasion and hostage-taking, followed by the firebombing of a Pan Am aircraft and the hijacking of a Lufthansa flight.
 Pan Am Flight 110 was scheduled to depart from Rome, Italy and</description>
