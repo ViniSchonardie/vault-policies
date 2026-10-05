@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>300 Trapped. The Day Russia Seized Chernobyl.</title>
+      <description>During the 2022 Russian invasion of Ukraine, the Chernobyl Exclusion Zone was captured on 24 February, the first day of the invasion, by the Russian Armed Forces, who entered Ukrainian territory from neighbouring Belarus and seized the entire area of the Chernobyl Nuclear Power Plant by the end of that day. On 7 March, it was reported that around 300 people (100 workers and 200 security guards for</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/capture-of-chernobyl-20261005.mp3" type="audio/mpeg" length="1189248"/>
+      <guid isPermaLink="false">warvault-capture-of-chernobyl-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 14:01:22 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tippecanoe. 1,000 vs 500. One Preemptive Strike.</title>
       <description>The Battle of Tippecanoe ( TIP-ə-kə-NOO) was fought on November 7, 1811, in Battle Ground, Indiana, between American forces led by then Governor William Henry Harrison of the Indiana Territory and tribal forces associated with Shawnee leader Tecumseh and his brother Tenskwatawa (commonly known as "The Prophet"), leaders of a confederacy of various tribes who opposed European-American settlement of</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-tippecanoe-20261005.mp3" type="audio/mpeg" length="1398912"/>
