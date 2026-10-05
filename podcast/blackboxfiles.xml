@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>LOT Flight 007. 87 Dead. The Engine Part That Killed Them All.</title>
+      <description>LOT Polish Airlines Flight 007 was an Ilyushin Il-62 that crashed near Warsaw-Okecie Airport in Poland, on 14 March 1980, as the crew aborted a landing and attempted to go-around, killing all 77 passengers and 10 crew members on board. It was caused by the disintegration of a turbine disc in one of the plane's engines, leading to uncontained engine failure. The turbine shaft was later found to hav</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lot-polish-airlines-flight-007-20261005.mp3" type="audio/mpeg" length="1331328"/>
+      <guid isPermaLink="false">aviation-lot-polish-airlines-flight-007-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 14:45:08 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vietnam Airlines 815. 65 Dead. Captain Ignored Every Warning.</title>
       <description>Vietnam Airlines Flight 815 was a scheduled Vietnam Airlines flight which crashed on final approach to Pochentong International Airport in Cambodia on 3 September 1997. The Soviet-built Tupolev Tu-134B-3 airliner crashed approximately 800 metres (2,600 ft; 870 yd) short of the Phnom Penh runway, killing 65 of the 66 people on board. As of February 2024, it remains the deadliest accident in Cambodi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/vietnam-airlines-flight-815-20261005.mp3" type="audio/mpeg" length="1302144"/>
