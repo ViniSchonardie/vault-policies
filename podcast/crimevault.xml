@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Patrick Mackay Confessed to 9 Murders. Only Convicted of 3.</title>
+      <description>David Groves, better known by his birth name Patrick David Mackay, is believed to be one of the United Kingdom's most prolific serial killers. He was convicted of three counts of manslaughter and two additional cases that were left to lie on file. Detectives stated that Mackay confessed in remand to the murders of six more people across London, Essex and Kent between 1973 and 1975. All of these al</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/patrick-mackay-20261005.mp3" type="audio/mpeg" length="1362432"/>
+      <guid isPermaLink="false">crime-patrick-mackay-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 18:15:15 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>36 Women. One Shop. Walled Alive.</title>
       <description>Hadj Mohammed Mesfewi (died June 13, 1906), called the "Marrakesh Arch-Killer", was a Moroccan serial killer who murdered at least 36 women.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/hadj-mohammed-mesfewi-20261005.mp3" type="audio/mpeg" length="1239552"/>
