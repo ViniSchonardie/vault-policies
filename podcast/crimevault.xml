@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fast Food Killer: 7 Deaths in 70 Days</title>
+      <description>Paul Dennis Reid Jr., known as The Fast Food Killer, was an American serial killer, convicted and sentenced to death for seven murders during three fast-food restaurant robberies in Metropolitan Nashville, Tennessee and Clarksville, Tennessee between the months of February and April 1997.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-dennis-reid-20261005.mp3" type="audio/mpeg" length="1168896"/>
+      <guid isPermaLink="false">crime-paul-dennis-reid-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:07 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PhD Student Killed 3 Women. Police Watched Him for 2 Years.</title>
       <description>The Bradford murders were the serial killings of three women in the city of Bradford, West Yorkshire, England in 2009 and 2010.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/stephen-griffiths-20261004.mp3" type="audio/mpeg" length="1283328"/>
