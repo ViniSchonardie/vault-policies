@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>He Was Scheduled to Walk on the Moon. Then Everything Changed.</title>
+      <description>Joseph Henry Engle (August 26, 1932 – July 10, 2024) was an American pilot, aeronautical engineer, and NASA astronaut. He was the commander of two Space Shuttle missions including STS-2 in 1981, the program's second orbital flight. He also flew two flights in the Shuttle program's 1977 Approach and Landing Tests. Engle was one of twelve pilots who flew the North American X-15, an experimental spac</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/joe-engle-20261005.mp3" type="audio/mpeg" length="1062912"/>
+      <guid isPermaLink="false">space-joe-engle-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 01:57:58 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 10: First Person to Meet Another Spacecraft</title>
       <description>Gemini 10 (officially Gemini X) was a 1966 crewed spaceflight in NASA's Gemini program. It was the 8th crewed Gemini flight, the 16th crewed American flight, and the 24th spaceflight of all time (includes X-15 flights over 100 kilometers (62 miles; 54 nautical miles)).  During the mission, flown by command pilot John Young and pilot Michael Collins, Collins became the first person to perform two e</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-10-20261004.mp3" type="audio/mpeg" length="1242240"/>
