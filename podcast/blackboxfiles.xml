@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vietnam Airlines 815. 65 Dead. Captain Ignored Every Warning.</title>
+      <description>Vietnam Airlines Flight 815 was a scheduled Vietnam Airlines flight which crashed on final approach to Pochentong International Airport in Cambodia on 3 September 1997. The Soviet-built Tupolev Tu-134B-3 airliner crashed approximately 800 metres (2,600 ft; 870 yd) short of the Phnom Penh runway, killing 65 of the 66 people on board. As of February 2024, it remains the deadliest accident in Cambodi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/vietnam-airlines-flight-815-20261005.mp3" type="audio/mpeg" length="1302144"/>
+      <guid isPermaLink="false">aviation-vietnam-airlines-flight-815-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 01:59:15 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Garuda Indonesia 152. 234 Dead. Wrong Turn.</title>
       <description>Garuda Indonesia Flight 152 was a scheduled domestic flight operated by Garuda Indonesia from Soekarno–Hatta International Airport, Tangerang, Indonesia, to Polonia International Airport, Medan, Indonesia. On 26 September 1997, the Airbus A300 flying the route crashed into mountainous woodlands near the village of Buah Nabar, Sibolangit, killing all 222 passengers and 12 crew members on board. It </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/garuda-indonesia-flight-152-20261004.mp3" type="audio/mpeg" length="1258752"/>
