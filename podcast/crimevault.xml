@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>36 Women. One Shop. Walled Alive.</title>
+      <description>Hadj Mohammed Mesfewi (died June 13, 1906), called the "Marrakesh Arch-Killer", was a Moroccan serial killer who murdered at least 36 women.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/hadj-mohammed-mesfewi-20261005.mp3" type="audio/mpeg" length="1239552"/>
+      <guid isPermaLink="false">crime-hadj-mohammed-mesfewi-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 13:32:56 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fast Food Killer: 7 Deaths in 70 Days</title>
       <description>Paul Dennis Reid Jr., known as The Fast Food Killer, was an American serial killer, convicted and sentenced to death for seven murders during three fast-food restaurant robberies in Metropolitan Nashville, Tennessee and Clarksville, Tennessee between the months of February and April 1997.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/paul-dennis-reid-20261005.mp3" type="audio/mpeg" length="1168896"/>
