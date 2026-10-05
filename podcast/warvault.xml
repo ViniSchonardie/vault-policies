@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Netherlands Fell in 5 Days. Here's Why.</title>
+      <description>The German invasion of the Netherlands (Dutch: Duitse aanval op Nederland), otherwise known as the Battle of the Netherlands (Dutch: Slag om Nederland), was a military campaign, part of Case Yellow (German: Fall Gelb), the Nazi German invasion of the Low Countries (Belgium, Luxembourg, and the Netherlands) and France during World War II. The battle lasted from 10 May 1940 until the surrender of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/german-invasion-of-the-netherlands-20261005.mp3" type="audio/mpeg" length="1159680"/>
+      <guid isPermaLink="false">warvault-german-invasion-of-the-netherlands-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 17:56:08 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>300 Trapped. The Day Russia Seized Chernobyl.</title>
       <description>During the 2022 Russian invasion of Ukraine, the Chernobyl Exclusion Zone was captured on 24 February, the first day of the invasion, by the Russian Armed Forces, who entered Ukrainian territory from neighbouring Belarus and seized the entire area of the Chernobyl Nuclear Power Plant by the end of that day. On 7 March, it was reported that around 300 people (100 workers and 200 security guards for</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/capture-of-chernobyl-20261005.mp3" type="audio/mpeg" length="1189248"/>
