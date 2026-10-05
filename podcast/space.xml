@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>SpaceX Crew-13: The Launch That Nearly Never Happened</title>
+      <description>SpaceX Crew-13 is the thirteenth operational NASA Commercial Crew Program flight and the 21st crewed orbital flight of a Crew Dragon spacecraft. The mission will transport four crew members— NASA astronauts Jessica Watkins and Luke Delaney, CSA astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station (ISS).
+
+
+== Crew ==
+
+NASA announced the crew assig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-13-20261005.mp3" type="audio/mpeg" length="1353600"/>
+      <guid isPermaLink="false">space-spacex-crew-13-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 13:47:04 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Was Scheduled to Walk on the Moon. Then Everything Changed.</title>
       <description>Joseph Henry Engle (August 26, 1932 – July 10, 2024) was an American pilot, aeronautical engineer, and NASA astronaut. He was the commander of two Space Shuttle missions including STS-2 in 1981, the program's second orbital flight. He also flew two flights in the Shuttle program's 1977 Approach and Landing Tests. Engle was one of twelve pilots who flew the North American X-15, an experimental spac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/joe-engle-20261005.mp3" type="audio/mpeg" length="1062912"/>
