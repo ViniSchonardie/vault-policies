@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ural Airlines 178. 233 Survived. The Miracle Decision</title>
+      <description>On 15 August 2019, Ural Airlines Flight 178, a scheduled passenger flight from Moscow to Simferopol, suffered engine damage and made a forced landing in a cornfield after takeoff from Zhukovsky International Airport. The aircraft, an Airbus A321-211 with 226 passengers and 7 crew members, was taking off from Runway 12 when it struck several birds during rotation, causing damage to the engines. Due</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ural-airlines-flight-178-20261005.mp3" type="audio/mpeg" length="1200384"/>
+      <guid isPermaLink="false">aviation-ural-airlines-flight-178-20261005</guid>
+      <pubDate>Mon, 05 Oct 2026 18:47:17 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LOT Flight 007. 87 Dead. The Engine Part That Killed Them All.</title>
       <description>LOT Polish Airlines Flight 007 was an Ilyushin Il-62 that crashed near Warsaw-Okecie Airport in Poland, on 14 March 1980, as the crew aborted a landing and attempted to go-around, killing all 77 passengers and 10 crew members on board. It was caused by the disintegration of a turbine disc in one of the plane's engines, leading to uncontained engine failure. The turbine shaft was later found to hav</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lot-polish-airlines-flight-007-20261005.mp3" type="audio/mpeg" length="1331328"/>
