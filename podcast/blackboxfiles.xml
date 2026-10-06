@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>176 Dead. The Controller's Last-Ditch Error.</title>
+      <description>The 1976 Zagreb mid-air collision was a mid-air collision that took place on September 10, 1976, when British Airways Flight 476 en route from London to Istanbul, collided mid-air with Inex-Adria Aviopromet Flight 550 en route from Split, SFR Yugoslavia, to Cologne, West Germany, near Zagreb in modern-day Croatia. The collision was the result of a procedural error on the part of air traffic contro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1976-zagreb-mid-air-collision-20261006.mp3" type="audio/mpeg" length="1183488"/>
+      <guid isPermaLink="false">aviation-1976-zagreb-mid-air-collision-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 18:43:30 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>X-15 Flight 191. Mach 5 Spin. Pilot Killed.</title>
       <description>X-15 Flight 3-65-97, also known as X-15 Flight 191 (being the 191st free flight of the X-15), was a sub-orbital spaceflight of the North American X-15 experimental spaceplane, carrying seven experiments to a peak altitude of 266,000 feet (50.4 mi; 81 km; 43.8 nmi), above NASA's definition of the start of space at 50 miles (80 km) but below the Kármán line definition at 100 kilometres (62 mi). The </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/x-15-flight-3-65-97-20261006.mp3" type="audio/mpeg" length="1636224"/>
