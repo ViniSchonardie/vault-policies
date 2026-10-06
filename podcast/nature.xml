@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Electric Fish. They Evolved Eight Times.</title>
+      <description>An electric fish is any fish that can generate electric fields, whether to sense things around them, for defence, or to stun prey. Most fish able to produce shocks are also electroreceptive, meaning that they can sense electric fields. The only exception is the stargazer family (Uranoscopidae). Electric fish, although a small minority of all fishes, include both oceanic and freshwater species, and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/electric-fish-20261006.mp3" type="audio/mpeg" length="1106688"/>
+      <guid isPermaLink="false">nature-electric-fish-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 01:42:09 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deep-Sea Anglerfish. Males Fuse Into Females.</title>
       <description>Ceratioidei, the pelagic anglerfishes or deep-sea anglerfishes, is a suborder of marine ray-finned fishes, one of five suborders in the order Lophiiformes, the anglerfishes. These fishes are found in tropical and temperate seas throughout the world, living above the bottom of the deep sea, in the pelagic zone. The esca, the anglerfishes' lure and a defining feature of all anglerfish groups, is bio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/ceratioidei-20261005.mp3" type="audio/mpeg" length="1173888"/>
