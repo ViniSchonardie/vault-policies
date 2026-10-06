@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Spaceship That Wouldn't Come Down</title>
+      <description>Vostok 6 (Russian: Восток-6, lit. 'Orient 6' or 'East 6') was the first human spaceflight to carry a woman, cosmonaut Valentina Tereshkova, into space.
+
+
+== Mission ==
+The spacecraft was launched on 16 June 1963. It set the record for highest orbital inclination of a crewed spacecraft at 65°, a record not broken until the 90° polar orbit of Fram2 nearly 62 years later. While Vostok 5 had been dela</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vostok-6-20261006.mp3" type="audio/mpeg" length="1240320"/>
+      <guid isPermaLink="false">space-vostok-6-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 13:40:36 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo 14: The Astronaut Who Orbited the Moon Alone</title>
       <description>Stuart Allen Roosa (August 16, 1933 – December 12, 1994) was an  American aeronautical engineer, smokejumper, United States Air Force pilot, test pilot, and NASA astronaut, who was the Command Module Pilot for the Apollo 14 mission. The mission lasted from January 31 to February 9, 1971, and was the third mission to land astronauts (Alan Shepard and Edgar Mitchell) on the Moon. While Shepard and M</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/stuart-roosa-20261006.mp3" type="audio/mpeg" length="1239936"/>
