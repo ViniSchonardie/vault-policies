@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed Inside a Psychiatric Hospital. Then Ate His Victim.</title>
+      <description>Peter Bryan is a British serial killer with schizophrenia who committed three murders between 1993 and 2004.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-bryan-20261006.mp3" type="audio/mpeg" length="1100160"/>
+      <guid isPermaLink="false">crime-peter-bryan-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 18:15:31 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Helped Kill 5 Children. Took One Secret to Her Grave.</title>
       <description>The Moors murders were a series of child killings committed by Ian Brady and Myra Hindley in and around Manchester, England, between July 1963 and October 1965. The five victims – Pauline Reade, John Kilbride, Keith Bennett, Lesley Ann Downey and Edward Evans – were aged between 10 and 17, and at least four were sexually assaulted. The bodies of two of the victims were discovered in 1965, in grave</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/myra-hindley-20261006.mp3" type="audio/mpeg" length="1222656"/>
