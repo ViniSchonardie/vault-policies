@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>X-15 Flight 191. Mach 5 Spin. Pilot Killed.</title>
+      <description>X-15 Flight 3-65-97, also known as X-15 Flight 191 (being the 191st free flight of the X-15), was a sub-orbital spaceflight of the North American X-15 experimental spaceplane, carrying seven experiments to a peak altitude of 266,000 feet (50.4 mi; 81 km; 43.8 nmi), above NASA's definition of the start of space at 50 miles (80 km) but below the Kármán line definition at 100 kilometres (62 mi). The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/x-15-flight-3-65-97-20261006.mp3" type="audio/mpeg" length="1636224"/>
+      <guid isPermaLink="false">aviation-x-15-flight-3-65-97-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 14:39:56 GMT</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>USAir 405. 27 Dead. Ice They Couldn't See.</title>
       <description>USAir Flight 405 was a regularly scheduled American domestic passenger flight between LaGuardia Airport in New York City and Cleveland, Ohio. On March 22, 1992, the Fokker 28 operating the flight crashed in poor weather in a partially inverted position in Flushing Bay, shortly after liftoff from LaGuardia. The undercarriage lifted off from the runway, but the airplane failed to gain lift, flying o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/usair-flight-405-20261006.mp3" type="audio/mpeg" length="1211904"/>
