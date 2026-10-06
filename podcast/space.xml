@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo 14: The Astronaut Who Orbited the Moon Alone</title>
+      <description>Stuart Allen Roosa (August 16, 1933 – December 12, 1994) was an  American aeronautical engineer, smokejumper, United States Air Force pilot, test pilot, and NASA astronaut, who was the Command Module Pilot for the Apollo 14 mission. The mission lasted from January 31 to February 9, 1971, and was the third mission to land astronauts (Alan Shepard and Edgar Mitchell) on the Moon. While Shepard and M</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/stuart-roosa-20261006.mp3" type="audio/mpeg" length="1239936"/>
+      <guid isPermaLink="false">space-stuart-roosa-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 01:48:49 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aurora 7: 250 Miles Off Course — Why NASA Blamed the Pilot</title>
       <description>Mercury-Atlas 7, launched May 24, 1962, was the fourth crewed flight of Project Mercury. The spacecraft, named Aurora 7, was piloted by astronaut Scott Carpenter. He was the sixth human to fly in space. The mission used Mercury spacecraft No. 18 and Atlas launch vehicle No. 107-D.
 The flight was for three Earth orbits, essentially a repeat of John Glenn's Mercury-Atlas 6. However, a targeting erro</description>
