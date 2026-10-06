@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dick Turpin. The Legend They Invented After He Died.</title>
+      <description>Richard Turpin (bapt. 21 September 1705 – 7 April 1739) was an English highwayman whose exploits were romanticised following his execution in York for horse theft. Turpin may have followed his father's trade as a butcher early in his life but, by the early 1730s, he had joined a gang of deer thieves and, later, became a poacher, burglar, horse thief, and killer.  He is also known for a fictional 2</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/dick-turpin-20261006.mp3" type="audio/mpeg" length="1157376"/>
+      <guid isPermaLink="false">realstory-dick-turpin-20261006</guid>
+      <pubDate>Tue, 06 Oct 2026 18:57:19 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boethius: Rome's Greatest Scholar. Executed for Telling the Truth.</title>
       <description>Anicius Manlius Severinus Boethius, commonly known simply as Boethius (; Latin: Boetius; c. 480–524 AD), was a Roman senator, consul, magister officiorum, polymath, historian, and philosopher of the Early Middle Ages. He was a central figure in the translation of the Greek classics into Latin, a precursor to the Scholastic movement, and, along with Cassiodorus, one of the two leading Christian sch</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/boethius-20261006.mp3" type="audio/mpeg" length="1488384"/>
