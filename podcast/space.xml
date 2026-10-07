@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Perseverance: 5 Years Hunting Life on Mars</title>
+      <description>Mars 2020 is a NASA mission that includes the rover Perseverance, the now-grounded small robotic helicopter Ingenuity, and associated delivery systems, as part of the Mars Exploration Program. Mars 2020 was launched on an Atlas V rocket at 11:50:01 UTC on July 30, 2020, and landed in the Martian crater Jezero on February 18, 2021, with confirmation received at 20:55 UTC. On March 5, 2021, NASA nam</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-2020-20261007.mp3" type="audio/mpeg" length="1249920"/>
+      <guid isPermaLink="false">space-mars-2020-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 17:39:44 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dragonfly: First Aircraft on an Alien Moon</title>
       <description>Dragonfly is an upcoming NASA mission to send a robotic rotorcraft to the surface of Titan, the largest moon of Saturn. It is to be launched in July 2028 and arrive in 2034, becoming the first aircraft on Titan. Built to study prebiotic chemistry and extraterrestrial habitability, it is intended to make the first powered and fully controlled atmospheric flight on any natural satellite. It will the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/titan-dragonfly-20261007.mp3" type="audio/mpeg" length="1343232"/>
