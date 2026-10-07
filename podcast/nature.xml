@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Jaws. The Film That Broke Every Rule.</title>
+      <description>Jaws is a 1975 American  thriller film directed by Steven Spielberg, based on the 1974 novel by Peter Benchley. It stars Roy Scheider as police chief Martin Brody, who, with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw), hunts a man-eating great white shark that attacks beachgoers at a New England resort town. Murray Hamilton plays the town's mayor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/jaws-film-20261007.mp3" type="audio/mpeg" length="981888"/>
+      <guid isPermaLink="false">nature-jaws-film-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 12:44:13 GMT</pubDate>
+      <itunes:duration>61</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gorgosaurus. The Tyrannosaurid That Ruled for 3 Million Years.</title>
       <description>Gorgosaurus ( GOR-gə-SOR-əs; lit. 'dreadful lizard') is a genus of tyrannosaurid theropod dinosaur that lived in western North America during the Late Cretaceous Period (Campanian), between about 76.5 and 73 million years ago. Fossil remains have been found in Western Canada as well as the U.S. state of Montana. Paleontologists recognize only the type species, G. libratus, although other species h</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/gorgosaurus-20261007.mp3" type="audio/mpeg" length="1170432"/>
