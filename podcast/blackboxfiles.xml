@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Comair Flight 3272. 29 Dead. One Deadly Myth.</title>
+      <description>Comair Flight 3272 was a scheduled domestic passenger flight operated by Comair from Cincinnati International Airport in Kentucky to Detroit Metropolitan Airport in Michigan. On January 9, 1997, at 15:54 EST, while on approach for landing, the Embraer EMB 120 Brasilia aircraft crashed nose-down 18 miles (29 km) southwest of Detroit Metropolitan Wayne County Airport, killing all 29 people on board.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/comair-flight-3272-20261007.mp3" type="audio/mpeg" length="1333632"/>
+      <guid isPermaLink="false">aviation-comair-flight-3272-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 18:54:55 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Airlines 605. First 747-400 Lost. Pilot Error in a Typhoon.</title>
       <description>China Airlines Flight 605 was a daily non-stop flight departing from Taipei, Taiwan to British Hong Kong. On 4 November 1993, the Boeing 747-400 operating the flight went off the runway when attempting to land during a storm. It was the first hull loss of a 747-400.
 
