@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Cleric Who Toppled a Dynasty</title>
+      <description>Ruhollah Mostafavi Musavi Khomeini (17 May 1900 – 3 June 1989) was an Iranian politician and Shia cleric who served as the first supreme leader of Iran from 1979 until his death in 1989. He was the leader of the Iranian Revolution, which overthrew Mohammad Reza Pahlavi, ended the Pahlavi era, and transformed the country into an Islamic republic. As supreme leader, he implemented policies that came</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/ruhollah-khomeini-20261007.mp3" type="audio/mpeg" length="977664"/>
+      <guid isPermaLink="false">royal-ruhollah-khomeini-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 15:04:21 GMT</pubDate>
+      <itunes:duration>61</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Castle That Survived 26 Sieges</title>
       <description>Edinburgh Castle (Scottish Gaelic: Caisteal Dhùn Èideann) is a historic castle in Edinburgh, Scotland. It stands on Castle Rock, which has been occupied by humans since at least the Iron Age. There has been a royal castle on the rock since the reign of Malcolm III in the 11th century, and the castle continued to be a royal residence until 1633. From the 15th century, the castle's residential role </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/edinburgh-castle-20261007.mp3" type="audio/mpeg" length="1260672"/>
