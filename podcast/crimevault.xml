@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Saltychikha: 138 Deaths. One Hour of Shame.</title>
+      <description>Darya Nikolayevna Saltykova, commonly known as Saltychikha, was a Russian noblewoman from the Saltykov family, sadist, and serial killer from Moscow. She became notorious for torturing and killing many of her serfs, mostly women. Saltykova has been compared by many to the Hungarian "Blood Countess," Elizabeth Báthory (1560–1614), who allegedly committed similar crimes in her home, Čachtice Castle,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/darya-nikolayevna-saltykova-20261007.mp3" type="audio/mpeg" length="1017600"/>
+      <guid isPermaLink="false">crime-darya-nikolayevna-saltykova-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 01:35:20 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed Inside a Psychiatric Hospital. Then Ate His Victim.</title>
       <description>Peter Bryan is a British serial killer with schizophrenia who committed three murders between 1993 and 2004.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-bryan-20261006.mp3" type="audio/mpeg" length="1100160"/>
