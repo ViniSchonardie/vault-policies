@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>AA Flight 625. 37 Dead. He Panicked at 700 Feet.</title>
+      <description>American Airlines Flight 625, a Boeing 727-100, crashed at St. Thomas, U.S. Virgin Islands on April 27, 1976, while on a domestic scheduled passenger flight originating at T. F. Green Airport in Rhode Island and ending at Saint Thomas, United States Virgin Islands, with an intermediate stop at John F. Kennedy International Airport. Out of the 88 occupants on board, 37 were killed in the accident.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-625-20261007.mp3" type="audio/mpeg" length="1072512"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-625-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 01:55:58 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>176 Dead. The Controller's Last-Ditch Error.</title>
       <description>The 1976 Zagreb mid-air collision was a mid-air collision that took place on September 10, 1976, when British Airways Flight 476 en route from London to Istanbul, collided mid-air with Inex-Adria Aviopromet Flight 550 en route from Split, SFR Yugoslavia, to Cologne, West Germany, near Zagreb in modern-day Croatia. The collision was the result of a procedural error on the part of air traffic contro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1976-zagreb-mid-air-collision-20261006.mp3" type="audio/mpeg" length="1183488"/>
