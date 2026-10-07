@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Great Horned Owl. 300 PSI Talons.</title>
+      <description>The great horned owl (Bubo virginianus), also known as the tiger owl (originally derived from early naturalists' description as the "winged tiger" or "tiger of the air") or the hoot owl, is a large owl native to the Americas. It is an extremely adaptable bird with a vast range and is the most widely distributed true owl in the Americas. Its diet consists primarily of rabbits and hares, rats and mi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/great-horned-owl-20261007.mp3" type="audio/mpeg" length="1112448"/>
+      <guid isPermaLink="false">nature-great-horned-owl-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 17:32:15 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jaws. The Film That Broke Every Rule.</title>
       <description>Jaws is a 1975 American  thriller film directed by Steven Spielberg, based on the 1974 novel by Peter Benchley. It stars Roy Scheider as police chief Martin Brody, who, with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw), hunts a man-eating great white shark that attacks beachgoers at a New England resort town. Murray Hamilton plays the town's mayor</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/jaws-film-20261007.mp3" type="audio/mpeg" length="981888"/>
