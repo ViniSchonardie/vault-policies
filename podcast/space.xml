@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Apollo-Soyuz: Poisoned by Your Own Ship</title>
+      <description>Vance DeVoe Brand (born May 9, 1931) is a retired American naval officer, aviator, aeronautical engineer, test pilot, and NASA astronaut. He served as command module pilot during the first U.S.-Soviet joint spaceflight in 1975, and as commander of three Space Shuttle missions.
+Brand's flight experience includes 9,669 flying hours, which includes 8,089 hours in jets, 391 hours in helicopters, 746 h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vance-d-brand-20261007.mp3" type="audio/mpeg" length="1077504"/>
+      <guid isPermaLink="false">space-vance-d-brand-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 01:55:17 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tianwen-2: China's 10-Year Asteroid Mission Begins</title>
       <description>Tianwen-2 (Chinese: 天问二号) is a Chinese asteroid sample return and comet exploration mission that launched on 28 May 2025. It is the second mission of the Planetary Exploration of China program of the China National Space Agency (CNSA), and the only planned mission to focus on small Solar System bodies. The probe departed Xichang Satellite Launch Center on a Long March 3B rocket.
 On July 4, 2026 th</description>
