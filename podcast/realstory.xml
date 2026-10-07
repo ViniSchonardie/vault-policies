@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Oppenheimer's Dark Secret Before the Bomb</title>
+      <description>J. Robert Oppenheimer (born Julius Robert Oppenheimer  ; April 22, 1904 – February 18, 1967) was an American theoretical physicist who served as the director of the Manhattan Project's Los Alamos Laboratory during World War II. He is often called the "Father of the Atomic Bomb" for his role in overseeing the development of the first nuclear weapons.
+Born in New York City, Oppenheimer obtained a de</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/q132537-20261007.mp3" type="audio/mpeg" length="1011840"/>
+      <guid isPermaLink="false">realstory-q132537-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 18:58:39 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Einstein Failed His Entrance Exam</title>
       <description>Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for "his services t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/q937-20261007.mp3" type="audio/mpeg" length="919296"/>
