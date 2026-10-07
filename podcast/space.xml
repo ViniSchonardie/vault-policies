@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dragonfly: First Aircraft on an Alien Moon</title>
+      <description>Dragonfly is an upcoming NASA mission to send a robotic rotorcraft to the surface of Titan, the largest moon of Saturn. It is to be launched in July 2028 and arrive in 2034, becoming the first aircraft on Titan. Built to study prebiotic chemistry and extraterrestrial habitability, it is intended to make the first powered and fully controlled atmospheric flight on any natural satellite. It will the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/titan-dragonfly-20261007.mp3" type="audio/mpeg" length="1343232"/>
+      <guid isPermaLink="false">space-titan-dragonfly-20261007</guid>
+      <pubDate>Wed, 07 Oct 2026 13:46:20 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Apollo-Soyuz: Poisoned by Your Own Ship</title>
       <description>Vance DeVoe Brand (born May 9, 1931) is a retired American naval officer, aviator, aeronautical engineer, test pilot, and NASA astronaut. He served as command module pilot during the first U.S.-Soviet joint spaceflight in 1975, and as commander of three Space Shuttle missions.
 Brand's flight experience includes 9,669 flying hours, which includes 8,089 hours in jets, 391 hours in helicopters, 746 h</description>
