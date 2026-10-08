@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dawn: The Probe That Wouldn't Die</title>
+      <description>Dawn is a retired space probe that was launched by NASA in September 2007 with the mission of studying two of the three known protoplanets of the asteroid belt: Vesta and Ceres. In the fulfillment of that mission—the ninth in NASA's Discovery Program—Dawn entered orbit around Vesta on July 16, 2011, and completed a 14-month survey mission before leaving for Ceres in late 2012. It entered orbit aro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/dawn-20261008.mp3" type="audio/mpeg" length="1009920"/>
+      <guid isPermaLink="false">space-dawn-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 01:56:05 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Perseverance: 5 Years Hunting Life on Mars</title>
       <description>Mars 2020 is a NASA mission that includes the rover Perseverance, the now-grounded small robotic helicopter Ingenuity, and associated delivery systems, as part of the Mars Exploration Program. Mars 2020 was launched on an Atlas V rocket at 11:50:01 UTC on July 30, 2020, and landed in the Martian crater Jezero on February 18, 2021, with confirmation received at 20:55 UTC. On March 5, 2021, NASA nam</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-2020-20261007.mp3" type="audio/mpeg" length="1249920"/>
