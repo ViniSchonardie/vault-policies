@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Swiftair Flight 5960. 1 Dead. Wrong Frequency.</title>
+      <description>Swiftair Flight 5960 (operating as European Air Transport Leipzig Flight 18D) was an international cargo flight that crashed early in the morning on 25 November 2024 while on final approach to Vilnius Airport. The aircraft, a Boeing 737-400, was flying from Leipzig/Halle Airport in Leipzig, Germany, to Vilnius Airport in Vilnius, Lithuania, when it crashed into the ground short of the runway and c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swiftair-flight-5960-20261008.mp3" type="audio/mpeg" length="983808"/>
+      <guid isPermaLink="false">aviation-swiftair-flight-5960-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 18:44:27 GMT</pubDate>
+      <itunes:duration>61</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>139 Survived. The Plane Burned Anyway.</title>
       <description>Overseas National Airways Flight 032 was a non-scheduled positioning flight operated by Overseas National Airways with a McDonnell Douglas DC-10-30CF. On November 12, 1975, the flight crew initiated a rejected takeoff after accelerating through a large flock of gulls at John F. Kennedy International Airport, resulting in a runway excursion. Of the 139 aircraft occupants, all survived, while the ai</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/overseas-national-airways-flight-032-20261008.mp3" type="audio/mpeg" length="1118976"/>
