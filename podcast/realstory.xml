@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Horace. The Poet Who Lost Everything to War.</title>
+      <description>Quintus Horatius Flaccus (Classical Latin: [ˈkʷiːntʊs (h)ɔˈraːtiʊs ˈfɫakːʊs]; 8 December 65 BC – 27 November 8 BC), commonly known in the English-speaking world as Horace ( HORR-iss), was the leading Roman lyric poet during the time of Augustus (also known as Octavian). The rhetorician Quintilian regarded his Odes as the only Latin lyrics worth reading: "He can be lofty sometimes, yet he is also f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/horace-20261008.mp3" type="audio/mpeg" length="1032192"/>
+      <guid isPermaLink="false">realstory-horace-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 14:56:18 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lionel Logue: The Nobody Who Fixed a King</title>
       <description>Lionel George Logue  (26 February 1880 – 12 April 1953) was an Australian speech and language therapist and amateur stage actor who helped King George VI manage his stammer.
 
