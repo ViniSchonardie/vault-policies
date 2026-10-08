@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Martinair Flight 495. 56 Dead. The Missing Seconds.</title>
+      <description>Martinair Flight 495 was a McDonnell Douglas DC-10 operated by Dutch airline Martinair that crash-landed in severe weather conditions at Faro Airport, Portugal on 21 December 1992. The aircraft carried 13 crew members and 327 passengers, mainly holidaymakers from the Netherlands. The crash killed 54 passengers and 2 crew members; 106 of the other occupants were badly injured.
+
+
+== Background ==
+
+
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/martinair-flight-495-20261008.mp3" type="audio/mpeg" length="1016448"/>
+      <guid isPermaLink="false">aviation-martinair-flight-495-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 01:57:19 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Comair Flight 3272. 29 Dead. One Deadly Myth.</title>
       <description>Comair Flight 3272 was a scheduled domestic passenger flight operated by Comair from Cincinnati International Airport in Kentucky to Detroit Metropolitan Airport in Michigan. On January 9, 1997, at 15:54 EST, while on approach for landing, the Embraer EMB 120 Brasilia aircraft crashed nose-down 18 miles (29 km) southwest of Detroit Metropolitan Wayne County Airport, killing all 29 people on board.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/comair-flight-3272-20261007.mp3" type="audio/mpeg" length="1333632"/>
