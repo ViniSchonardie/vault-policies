@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Called 911 to Confess. Then Stopped After TV Leaked His Method.</title>
+      <description>Terry Anthony Blair was an American serial killer who was convicted of killing seven women of various ages in Kansas City, Missouri, although investigators believed that there were additional unidentified victims.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/terry-blair-20261008.mp3" type="audio/mpeg" length="767232"/>
+      <guid isPermaLink="false">crime-terry-blair-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 01:33:48 GMT</pubDate>
+      <itunes:duration>48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>48 Deaths in Her Nursing Home. One Woman. Arsenic.</title>
       <description>Amy Duggan "Sister" Archer-Gilligan was a nursing home proprietor and serial killer from Windsor, Connecticut. She murdered at least five people by poisoning them. One of her victims was her second husband, Michael Gilligan; the others were residents of her nursing home.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/amy-archer-gilligan-20261007.mp3" type="audio/mpeg" length="1085568"/>
