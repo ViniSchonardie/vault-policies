@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Three Bodies. One Garage. East Cleveland Serial Killer.</title>
+      <description>Michael Madison is an American serial killer and rapist from East Cleveland, Ohio who is known to have committed the murders of at least three women over a nine-month period in 2012 and 2013. He was arrested and charged with the crimes in 2013 and was sentenced to death in 2016.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-madison-20261008.mp3" type="audio/mpeg" length="1092864"/>
+      <guid isPermaLink="false">crime-michael-madison-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 13:30:03 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Called 911 to Confess. Then Stopped After TV Leaked His Method.</title>
       <description>Terry Anthony Blair was an American serial killer who was convicted of killing seven women of various ages in Kansas City, Missouri, although investigators believed that there were additional unidentified victims.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/terry-blair-20261008.mp3" type="audio/mpeg" length="767232"/>
