@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Convicted of Treason. Appeal Overturned on a Technicality.</title>
+      <description>The Delmas Treason Trial was heard in the Supreme Court of South Africa from 16 October 1985 to 18 November 1988. In one of the lengthiest political trials in South African history, the apartheid state pursued treason charges against 22 activists for their alleged role in instigating the 1984 Vaal uprising in the Vaal Triangle. The trial led to the conviction of Moses Chikane, Mosiuoa Lekota, Popo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/delmas-treason-trial-20261008.mp3" type="audio/mpeg" length="1150464"/>
+      <guid isPermaLink="false">trials-delmas-treason-trial-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 16:55:07 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Acquitted Despite DNA. The Jury Nullification Trial.</title>
       <description>The People of the State of California v. Orenthal James Simpson was a criminal trial in Los Angeles County Superior Court, in which former NFL player and actor O. J. Simpson was tried and acquitted for the murders of his ex-wife Nicole Brown Simpson and her friend Ron Goldman, who were stabbed to death outside Brown's home in Los Angeles on June 12, 1994. The trial spanned eight months, from Janua</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/murder-trial-of-o-j-simpson-20261008.mp3" type="audio/mpeg" length="1378560"/>
