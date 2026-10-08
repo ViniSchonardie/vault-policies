@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Gemini 3: The First Dual Crew Maneuver in Space</title>
+      <description>Gemini 3 (officially Gemini III) was the first crewed mission in NASA's Project Gemini and was the first time two American astronauts flew together into space. On March 23, 1965, astronauts Gus Grissom and John Young flew three low Earth orbits in their spacecraft, which they nicknamed Molly Brown. It was the first U.S. mission in which the crew fired thrusters to change the size and shape of thei</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-3-20261008.mp3" type="audio/mpeg" length="925056"/>
+      <guid isPermaLink="false">space-gemini-3-20261008</guid>
+      <pubDate>Thu, 08 Oct 2026 13:45:06 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dawn: The Probe That Wouldn't Die</title>
       <description>Dawn is a retired space probe that was launched by NASA in September 2007 with the mission of studying two of the three known protoplanets of the asteroid belt: Vesta and Ceres. In the fulfillment of that mission—the ninth in NASA's Discovery Program—Dawn entered orbit around Vesta on July 16, 2011, and completed a 14-month survey mission before leaving for Ceres in late 2012. It entered orbit aro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/dawn-20261008.mp3" type="audio/mpeg" length="1009920"/>
