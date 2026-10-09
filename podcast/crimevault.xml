@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Professor Shot 4 Colleagues. University Saw It Coming.</title>
+      <description>Valery Iosifovich Fabrikant is a former associate professor of mechanical engineering at Concordia University in Montreal, Quebec, Canada. On 24 August 1992, after years of increasingly disruptive behaviour at the university, he shot and killed four colleagues and wounded one staff member.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/valery-fabrikant-20261009.mp3" type="audio/mpeg" length="1261824"/>
+      <guid isPermaLink="false">crime-valery-fabrikant-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 01:37:34 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Three Bodies. One Garage. East Cleveland Serial Killer.</title>
       <description>Michael Madison is an American serial killer and rapist from East Cleveland, Ohio who is known to have committed the murders of at least three women over a nine-month period in 2012 and 2013. He was arrested and charged with the crimes in 2013 and was sentenced to death in 2016.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/michael-madison-20261008.mp3" type="audio/mpeg" length="1092864"/>
