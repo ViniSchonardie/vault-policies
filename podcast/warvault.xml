@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>300,000 Soldiers. One Day. Changed War Forever.</title>
+      <description>The Battle of Solferino (referred to in Italy as the Battle of Solferino and San Martino) on 24 June 1859 was the climactic battle of the Second Italian War of Independence and resulted in the victory of the allied French army under Napoleon III and the Piedmont-Sardinian army under Victor Emmanuel II (together known as the Franco-Sardinian alliance) against the Austrian army under Emperor Franz J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-solferino-20261009.mp3" type="audio/mpeg" length="1220736"/>
+      <guid isPermaLink="false">warvault-battle-of-solferino-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 13:59:48 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Franklin 1864. 14 Generals Down. One Terrible Mistake.</title>
       <description>The Battle of Franklin was fought on November 30, 1864, in Franklin, Tennessee, as part of the Franklin–Nashville Campaign of the American Civil War. It was one of the worst disasters of the war for the Confederate States Army. Confederate Lieutenant General John Bell Hood's Army of Tennessee conducted numerous frontal assaults against fortified positions occupied by the Union forces under Major G</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-franklin-20261009.mp3" type="audio/mpeg" length="906240"/>
