@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Verdict Already Written. The Machinery of Show Trials</title>
+      <description>A show trial is a public trial in which the guilt or innocence of the defendant has already been determined. It is a type of political trial. The purpose of holding a show trial is to present both accusation and verdict to the public, serving as an example and a warning to other would-be dissidents or transgressors.
+Show trials tend to be retributive rather than corrective, and they are also condu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/show-trial-20261009.mp3" type="audio/mpeg" length="1059072"/>
+      <guid isPermaLink="false">trials-show-trial-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 16:51:04 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Captured in Argentina. Hanged in Israel. 1962.</title>
       <description>The Eichmann trial was the 1961 trial of major Holocaust perpetrator Adolf Eichmann, who was captured in Argentina by Israeli agents and taken to Israel to stand trial. Eichmann was a senior Nazi party member and served at the rank of Obersturmbannführer in the SS, and was primarily responsible for the implementation of the Final Solution. He was responsible for shipping Jews and other people from</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/eichmann-trial-20261009.mp3" type="audio/mpeg" length="1055616"/>
