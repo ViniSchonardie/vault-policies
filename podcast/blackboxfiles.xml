@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Boeing 737 Lands in Ocean. 1 Dead. Pilots Ignored 13 Warnings.</title>
+      <description>Air Niugini Flight 73 was a scheduled service from Pohnpei, Federated States of Micronesia (FSM) to Port Moresby, Papua New Guinea, via Chuuk State, FSM. On 28 September 2018, a Boeing 737-800, operated by Air Niugini, landed short of the runway at Chuuk International Airport in Weno (FSM) and came to rest in Chuuk Lagoon. Local people in small boats rescued most passengers and all crew members. O</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-niugini-flight-73-20261009.mp3" type="audio/mpeg" length="1095552"/>
+      <guid isPermaLink="false">aviation-air-niugini-flight-73-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 18:54:09 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>West Air Sweden 294. 2 Dead. Wrong Instrument Killed Them.</title>
       <description>West Air Sweden Flight 294 was a cargo flight of a Bombardier CRJ200 from Oslo to Tromsø, Norway, that crashed on 8 January 2016. A malfunction in one of the inertial reference units had produced erroneous attitude indications on one of the instrument displays. The crew's subsequent response resulted in spatial disorientation, leading to the loss of control of the aircraft. Both crew members on bo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/west-air-sweden-flight-294-20261009.mp3" type="audio/mpeg" length="1107072"/>
