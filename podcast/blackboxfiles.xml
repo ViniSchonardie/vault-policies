@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Flight 363. 50 Dead. The Pilot's Fatal Mistake.</title>
+      <description>Tatarstan Airlines Flight 363 was a scheduled domestic passenger flight, operated by Tatarstan Airlines on behalf of Ak Bars Aero, from Moscow to Kazan, Russia. On 17 November 2013, at 19:24 local time (UTC+4), the Boeing 737-500 crashed during an aborted landing at Kazan International Airport, killing all 44 passengers and 6 crew members on board.
+According to the official investigation report by</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tatarstan-airlines-flight-363-20261009.mp3" type="audio/mpeg" length="1413120"/>
+      <guid isPermaLink="false">aviation-tatarstan-airlines-flight-363-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 02:02:03 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Swiftair Flight 5960. 1 Dead. Wrong Frequency.</title>
       <description>Swiftair Flight 5960 (operating as European Air Transport Leipzig Flight 18D) was an international cargo flight that crashed early in the morning on 25 November 2024 while on final approach to Vilnius Airport. The aircraft, a Boeing 737-400, was flying from Leipzig/Halle Airport in Leipzig, Germany, to Vilnius Airport in Vilnius, Lithuania, when it crashed into the ground short of the runway and c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swiftair-flight-5960-20261008.mp3" type="audio/mpeg" length="983808"/>
