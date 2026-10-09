@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>White-Tailed Eagle. Eight-Foot Wingspan Hunted to Extinction.</title>
+      <description>The white-tailed eagle (Haliaeetus albicilla), sometimes known as the "sea eagle", is a large bird of prey, widely distributed across temperate Eurasia. Like all eagles, it is a member of the family Accipitridae (or accipitrids) which also includes other diurnal raptors such as hawks, kites, and harriers. One of up to eleven members in the genus Haliaeetus, which are commonly called sea eagles, it</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/white-tailed-eagle-20261009.mp3" type="audio/mpeg" length="1024896"/>
+      <guid isPermaLink="false">nature-white-tailed-eagle-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 01:48:57 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Red-tailed Hawk. Hunts from 145cm Wings.</title>
       <description>The red-tailed hawk (Buteo jamaicensis) is a bird of prey and one of the most common hawks in North America. In the United States, it is one of three species colloquially known as the "chickenhawk". The red-tailed hawk breeds throughout most of the continent, from western Alaska and northern Canada to as far south as Panama and the West Indies. The red-tailed hawk occupies a wide range of habitats</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/red-tailed-hawk-20261008.mp3" type="audio/mpeg" length="871296"/>
