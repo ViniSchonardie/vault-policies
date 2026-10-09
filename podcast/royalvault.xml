@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>England Unified After 900 Years of War</title>
+      <description>England is a country that is part of the United Kingdom. It is located on the island of Great Britain, of which it covers about 62%, and more than 100 smaller adjacent islands. England shares a land border with Scotland to the north and another land border with Wales to the west, and is surrounded by the North Sea to the east, the English Channel to the south, the Celtic Sea to the south-west, and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/england-20261009.mp3" type="audio/mpeg" length="759168"/>
+      <guid isPermaLink="false">royal-england-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 19:16:25 GMT</pubDate>
+      <itunes:duration>47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Churchill's Darkest Secret: The Dardanelles Disaster</title>
       <description>Sir Winston Leonard Spencer Churchill (30 November 1874 – 24 January 1965) was a British statesman, military officer, and writer who was Prime Minister of the United Kingdom from 1940 to 1945, during the Second World War, and again from 1951 to 1955. For some 62 of the years between 1900 and 1964, he was a Member of Parliament (MP) and represented a total of five constituencies over that time. Ide</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/winston-churchill-20261009.mp3" type="audio/mpeg" length="844800"/>
