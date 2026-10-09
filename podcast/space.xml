@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Starliner's 8-Day Mission: 8 Months Stranded in Space</title>
+      <description>Boeing Crew Flight Test (Boe-CFT) was the first crewed mission of the Boeing Starliner capsule. Launched on June 5, 2024, the mission flew a crew of two NASA astronauts, Barry E. Wilmore and Sunita Williams, from Cape Canaveral Space Force Station to the International Space Station. The mission was meant to last eight days, ending on June 14 with a landing in the American Southwest. However, Starl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/boeing-crew-flight-test-20261009.mp3" type="audio/mpeg" length="1560960"/>
+      <guid isPermaLink="false">space-boeing-crew-flight-test-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 17:34:23 GMT</pubDate>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 5: The 8-Day Mission That Beat the Soviets</title>
       <description>Gemini 5 (officially Gemini V)
 was a 1965 crewed spaceflight in NASA's Project Gemini. It was the third crewed Gemini flight, the eleventh crewed American spaceflight (including two X-15 flights above 100 kilometers (54 nmi)), and the nineteenth human spaceflight. It was also the first time an American crewed space mission held the world record for duration, set on August 26, 1965, by breaking the</description>
