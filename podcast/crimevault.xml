@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed His Own Children. Police Had No Idea.</title>
+      <description>Jordan Monaghan is a British serial killer who murdered his girlfriend, his 24-day-old daughter, his 21-month-old son and made two attempts to murder another of his children.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jordan-monaghan-20261009.mp3" type="audio/mpeg" length="936192"/>
+      <guid isPermaLink="false">crime-jordan-monaghan-20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 18:25:38 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Ate His Victims. Then Betrayed His Best Friend.</title>
       <description>Levi Boone Helm (January 28, 1828 – January 14, 1864) was an American mountain man, gunfighter, and serial killer known as the Kentucky Cannibal. Helm gained his nickname for his opportunistic and unrepentant proclivity for consuming human flesh, usually in survival situations, though instances of killing people for their meat unprovoked were also documented.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/boone-helm-20261009.mp3" type="audio/mpeg" length="1269504"/>
