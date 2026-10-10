@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Chapultepec Castle. 832 Mexicans. One Impossible Choice.</title>
+      <description>The Battle of Chapultepec took place between U.S. troops and Mexican forces holding the strategically located Chapultepec Castle on the outskirts of Mexico City on September 13, 1847 during the Mexican–American War. The castle was built atop a 200-foot (61 m) hill in 1783, and in 1833 it was converted into a military academy and a gunpowder storage facility. The hill was surrounded by a wall 1,600</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chapultepec-20261010.mp3" type="audio/mpeg" length="2013312"/>
+      <guid isPermaLink="false">warvault-battle-of-chapultepec-20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 17:56:44 GMT</pubDate>
+      <itunes:duration>126</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pyramids. 3,000 Elite Cavalry. One Square Formation Won.</title>
       <description>The Battle of the Pyramids (French: Bataille des Pyramides), also known as the Battle of Embabeh (bataille d'Embabech), was fought on 21 July 1798 during the French invasion of Egypt and Syria. Occurring near the village of Embabeh, Ottoman Egypt, the battle was named by Napoleon after the distant Great Pyramid of Giza.
 After capturing Alexandria and advancing toward Cairo, Napoleon's army confron</description>
