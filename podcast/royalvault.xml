@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Beatle Shot Dead Outside His Home</title>
+      <description>John Winston Ono Lennon (born John Winston Lennon; 9 October 1940 – 8 December 1980) was an English musician, songwriter and activist. He gained global fame as the founder, co-lead vocalist and rhythm guitarist of the Beatles. Lennon's songwriting partnership with Paul McCartney remains the most successful in history.
+Born in Liverpool, Lennon became involved in the skiffle craze as a teenager. In</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/john-lennon-20261010.mp3" type="audio/mpeg" length="931584"/>
+      <guid isPermaLink="false">royal-john-lennon-20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 02:15:22 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>England Unified After 900 Years of War</title>
       <description>England is a country that is part of the United Kingdom. It is located on the island of Great Britain, of which it covers about 62%, and more than 100 smaller adjacent islands. England shares a land border with Scotland to the north and another land border with Wales to the west, and is surrounded by the North Sea to the east, the English Channel to the south, the Celtic Sea to the south-west, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/england-20261009.mp3" type="audio/mpeg" length="759168"/>
