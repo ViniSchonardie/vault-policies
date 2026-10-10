@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Five Hunters Shot. Same Rifleman. Three Years.</title>
+      <description>Thomas Lee Dillon was an American serial killer who shot and killed at least five men in southeastern Ohio, beginning April 1, 1989, and continuing until April 1992. He was nicknamed "Killer" for boasting about shooting hundreds of animals.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-dillon-20261010.mp3" type="audio/mpeg" length="1070592"/>
+      <guid isPermaLink="false">crime-thomas-dillon-20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 01:34:18 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed His Own Children. Police Had No Idea.</title>
       <description>Jordan Monaghan is a British serial killer who murdered his girlfriend, his 24-day-old daughter, his 21-month-old son and made two attempts to murder another of his children.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jordan-monaghan-20261009.mp3" type="audio/mpeg" length="936192"/>
