@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>She Stayed 199 Days in Space. Then Broke Her Own Record.</title>
+      <description>Samantha Cristoforetti  (Italian pronunciation: [saˈmanta kristofoˈretti]; born 26 April 1977) is an Italian European Space Agency (ESA) astronaut, former Italian Air Force pilot and engineer. She is the second of two women sent into space by ESA and the first from Italy. Cristoforetti holds the record for the longest uninterrupted spaceflight by a European astronaut (199 days, 16 hours), and she </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/samantha-cristoforetti-20261010.mp3" type="audio/mpeg" length="1059456"/>
+      <guid isPermaLink="false">space-samantha-cristoforetti-20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 17:32:07 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 11: First Orbit Rendezvous at 853 Miles High</title>
       <description>Gemini 11 (officially Gemini XI) was the ninth crewed spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th crewed American flight and the 25th spaceflight to that time (includes X-15 flights over 100 kilometers (62 mi; 54 nmi)). Astronauts Pete Conrad and Dick Gordon performed the first direct-ascent (first orbit) rendezvous with an Agena Target V</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-11-20261010.mp3" type="audio/mpeg" length="1118208"/>
