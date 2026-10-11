@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Skylab 3: Two Thrusters Down, Rescue Mission Ready</title>
+      <description>Skylab 3 (also SL-3 and SLM-2) was the second crewed mission to the first American space station, Skylab. The mission began on July 28, 1973, with the launch of NASA astronauts Alan Bean, Owen Garriott, and Jack Lousma in the Apollo command and service module on the Saturn IB rocket, and lasted 59 days, 11 hours and 9 minutes. A total of 1,084.7 astronaut-utilization hours were tallied by the Skyl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-3-20261011.mp3" type="audio/mpeg" length="1052160"/>
+      <guid isPermaLink="false">space-skylab-3-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 01:56:00 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Stayed 199 Days in Space. Then Broke Her Own Record.</title>
       <description>Samantha Cristoforetti  (Italian pronunciation: [saˈmanta kristofoˈretti]; born 26 April 1977) is an Italian European Space Agency (ESA) astronaut, former Italian Air Force pilot and engineer. She is the second of two women sent into space by ESA and the first from Italy. Cristoforetti holds the record for the longest uninterrupted spaceflight by a European astronaut (199 days, 16 hours), and she </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/samantha-cristoforetti-20261010.mp3" type="audio/mpeg" length="1059456"/>
