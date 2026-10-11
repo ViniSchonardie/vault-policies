@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Two Men Died on Death Row. Wrong Man Confessed.</title>
+      <description>Brian James Dugan (born September 23, 1956) is an American convicted rapist and serial killer active between 1983 and 1985 in Chicago's western suburbs. He was known for having informally confessed in 1985 to the February 1983 abduction, rape and murder of 10-year-old Jeanine Nicarico of Naperville, Illinois, which was a highly publicized case. He was already in custody for two other rapes and mur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/brian-dugan-20261011.mp3" type="audio/mpeg" length="1052160"/>
+      <guid isPermaLink="false">crime-brian-dugan-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 18:15:15 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>DNA Match Solved 1993 Murder. He Was Already in Prison.</title>
       <description>Scott Thomas Erskine was an American serial killer on California's death row, convicted in 2003 for the 1993 murder of two California boys. He was incarcerated at San Quentin State Prison.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/scott-erskine-20261011.mp3" type="audio/mpeg" length="1043328"/>
