@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Starling Murmurations. A Million Birds. Zero Leaders.</title>
+      <description>Swarm behaviour, or swarming, is a collective behaviour exhibited by entities, particularly animals, of similar size which aggregate together, perhaps milling about the same spot, moving en masse, or migrating in some direction. It is a highly interdisciplinary topic.
+As a term, swarming is applied particularly to insects, but can also be applied to any other entity or animal that exhibits swarm b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/swarm-behaviour-20261011.mp3" type="audio/mpeg" length="1090176"/>
+      <guid isPermaLink="false">nature-swarm-behaviour-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 17:26:15 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Humpback Whale Songs. Never Repeated in 19 Years.</title>
       <description>Whales use a variety of sounds for communication and sensation. The mechanisms used to produce sound vary from one family of cetaceans to another. Marine mammals, including whales, dolphins, and porpoises, are much more dependent on sound than land mammals due to the limited effectiveness of other senses in water. Sight is less effective for marine mammals because of the way particulates in the oc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/whale-vocalization-20261011.mp3" type="audio/mpeg" length="1235328"/>
