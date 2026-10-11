@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>PenAir 3296. 1 Dead. Propeller Through the Cabin.</title>
+      <description>PenAir Flight 3296 was a domestic scheduled flight from Ted Stevens Anchorage International Airport in Anchorage, Alaska, to Unalaska Airport on Amaknak Island in the Aleutian Chain of Alaska. On October 17, 2019, the Saab 2000 operating the flight overran the runway after landing at Unalaska Airport. Of the 42 passengers and crew on board, one passenger (identified as David Allan Oltman) was fata</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/penair-flight-3296-20261011.mp3" type="audio/mpeg" length="978432"/>
+      <guid isPermaLink="false">aviation-penair-flight-3296-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 14:37:36 GMT</pubDate>
+      <itunes:duration>61</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>IBC Airways 405. 2 Dead. Lost Control at Night.</title>
       <description>IBC Airways Flight 405 was a regularly scheduled international cargo flight from Las Américas International Airport, Santo Domingo, Dominican Republic to Luis Muñoz Marín International Airport, Puerto Rico. On December 2, 2013, the Fairchild SA227-AC Metro III crashed near La Alianza after a suffering a structural failure, killing the two crew members on board.
 
