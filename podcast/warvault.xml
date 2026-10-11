@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wuhan 1938. One Million Casualties. War Changed Forever.</title>
+      <description>The Battle of Wuhan (traditional Chinese: 武漢會戰; simplified Chinese: 武汉会战; Japanese: 武漢作戦 (ぶかんさくせん)), popularly known to the Chinese as the Defense of Wuhan (traditional Chinese: 武漢保衛戰; simplified Chinese: 武汉保卫战), and to the Japanese as the Capture of Wuhan, was a large-scale battle of the Second Sino-Japanese War. Engagements took place across vast areas of Anhui, Henan, Jiangxi, Zhejiang, and Hub</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-wuhan-20261011.mp3" type="audio/mpeg" length="1047552"/>
+      <guid isPermaLink="false">warvault-battle-of-wuhan-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 13:55:53 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chapultepec Castle. 832 Mexicans. One Impossible Choice.</title>
       <description>The Battle of Chapultepec took place between U.S. troops and Mexican forces holding the strategically located Chapultepec Castle on the outskirts of Mexico City on September 13, 1847 during the Mexican–American War. The castle was built atop a 200-foot (61 m) hill in 1783, and in 1833 it was converted into a military academy and a gunpowder storage facility. The hill was surrounded by a wall 1,600</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-chapultepec-20261010.mp3" type="audio/mpeg" length="2013312"/>
