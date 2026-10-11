@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>First Canadian in Space: From Astronaut to Foreign Minister</title>
+      <description>Joseph Jean-Pierre Marc Garneau (French pronunciation: [maʁk ɡaʁno]; February 23, 1949 – June 4, 2025) was a Canadian Armed Forces officer, astronaut and politician. Garneau served as a naval officer before being selected as an astronaut as part of the 1983 NRC Group. He became the first Canadian in space on October 5, 1984, and flew on three Space Shuttle missions. From 2001 to 2005, Garneau was </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/marc-garneau-20261011.mp3" type="audio/mpeg" length="1042176"/>
+      <guid isPermaLink="false">space-marc-garneau-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 13:35:50 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Skylab 3: Two Thrusters Down, Rescue Mission Ready</title>
       <description>Skylab 3 (also SL-3 and SLM-2) was the second crewed mission to the first American space station, Skylab. The mission began on July 28, 1973, with the launch of NASA astronauts Alan Bean, Owen Garriott, and Jack Lousma in the Apollo command and service module on the Saturn IB rocket, and lasted 59 days, 11 hours and 9 minutes. A total of 1,084.7 astronaut-utilization hours were tallied by the Skyl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/skylab-3-20261011.mp3" type="audio/mpeg" length="1052160"/>
