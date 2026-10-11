@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Angel Maker: She Killed 9 Children. Police Found Her Because of One Mother.</title>
+      <description>Dagmar Johanne Amalie Overbye was a Danish serial killer. She murdered between nine and 25 children, including one of her own, during a seven-year period from 1913 to 1920. On 3 March 1921, she was sentenced to death in one of the most noted trials in Danish history—one that changed legislation on childcare.
+The sentence was later commuted to life in prison.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dagmar-overby-20261011.mp3" type="audio/mpeg" length="942720"/>
+      <guid isPermaLink="false">crime-dagmar-overby-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 01:37:52 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Hid Bodies in His Flat. Police Almost Missed Him.</title>
       <description>Anthony John Hardy was an English serial killer who was known as the Camden Ripper for beheading and dismembering some of his victims. In November 2003, he was sentenced to three life terms for three murders, but police believe he may have been responsible for up to six more.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anthony-hardy-20261010.mp3" type="audio/mpeg" length="1168512"/>
