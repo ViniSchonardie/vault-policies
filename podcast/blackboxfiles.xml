@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>IBC Airways 405. 2 Dead. Lost Control at Night.</title>
+      <description>IBC Airways Flight 405 was a regularly scheduled international cargo flight from Las Américas International Airport, Santo Domingo, Dominican Republic to Luis Muñoz Marín International Airport, Puerto Rico. On December 2, 2013, the Fairchild SA227-AC Metro III crashed near La Alianza after a suffering a structural failure, killing the two crew members on board.
+
+
+== Background ==
+
+
+=== Aircraft ==</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ibc-airways-flight-405-20261011.mp3" type="audio/mpeg" length="1008768"/>
+      <guid isPermaLink="false">aviation-ibc-airways-flight-405-20261011</guid>
+      <pubDate>Sun, 11 Oct 2026 01:57:32 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air France 1611. 95 Dead. A Missile Cover-Up?</title>
       <description>Air France Flight 1611 (AF1611) was a Sud Aviation SE-210 Caravelle III en route from Ajaccio, on the island of Corsica, to Nice, mainland France, on 11 September 1968 when it crashed into the Mediterranean Sea off Nice, killing all 95 on board. According to the official report, the crash was non-survivable. The Ajaccio–Nice Caravelle crash is the deadliest aviation incident in the Mediterranean S</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-1611-20261010.mp3" type="audio/mpeg" length="1436160"/>
