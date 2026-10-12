@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>PIA Flight 661. 47 Dead. The System Failed Them.</title>
+      <description>Pakistan International Airlines Flight 661 was a Pakistani domestic passenger flight from Chitral to Islamabad, operated by Pakistan's flag carrier Pakistan International Airlines. On 7 December 2016, the aircraft serving the route, an ATR 42-500 twin-turboprop, crashed near Havelian following an engine failure. All 47 people on board died, including singer-turned-preacher and entrepreneur Junaid </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pia-flight-661-20261012.mp3" type="audio/mpeg" length="1061760"/>
+      <guid isPermaLink="false">aviation-pia-flight-661-20261012</guid>
+      <pubDate>Mon, 12 Oct 2026 18:46:28 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Airlines 140. 264 Dead. The Autopilot Fought Back.</title>
       <description>China Airlines Flight 140 was a regularly scheduled international passenger flight from Chiang Kai-shek International Airport in Taipei, Taiwan, to Nagoya Airport in Nagoya, Japan.
 On 26 April 1994, the Airbus A300 serving the route was completing a routine flight and approach when, on approach to landing at Nagoya Airport, the takeoff/go-around setting (TO/GA) was inadvertently triggered. The pil</description>
