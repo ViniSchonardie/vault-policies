@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Called Himself the Werewolf Butcher. 3 Victims. All Posed.</title>
+      <description>Jack Owen Spillman III is an American rapist and serial killer from Spokane, Washington. He is known as the Werewolf Butcher.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jack-owen-spillman-20261012.mp3" type="audio/mpeg" length="1201536"/>
+      <guid isPermaLink="false">crime-jack-owen-spillman-20261012</guid>
+      <pubDate>Mon, 12 Oct 2026 01:44:59 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Men Died on Death Row. Wrong Man Confessed.</title>
       <description>Brian James Dugan (born September 23, 1956) is an American convicted rapist and serial killer active between 1983 and 1985 in Chicago's western suburbs. He was known for having informally confessed in 1985 to the February 1983 abduction, rape and murder of 10-year-old Jeanine Nicarico of Naperville, Illinois, which was a highly publicized case. He was already in custody for two other rapes and mur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/brian-dugan-20261011.mp3" type="audio/mpeg" length="1052160"/>
