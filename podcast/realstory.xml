@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Meade Won Gettysburg. Lincoln Fired Him Anyway.</title>
+      <description>George Gordon Meade (December 31, 1815 – November 6, 1872) was an American military officer who served in the United States Army and the Union army as a major general in command of the Army of the Potomac during the American Civil War from 1863 to 1865. He fought in many of the key battles of the eastern theater and defeated the Confederate Army of Northern Virginia led by General Robert E. Lee at</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/george-meade-20261012.mp3" type="audio/mpeg" length="936192"/>
+      <guid isPermaLink="false">realstory-george-meade-20261012</guid>
+      <pubDate>Mon, 12 Oct 2026 19:04:54 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Norbert Wiener: The Genius Nobody Hired</title>
       <description>Norbert Wiener (November 26, 1894 – March 18, 1964) was an American computer scientist, mathematician, and philosopher. He became a professor of mathematics at the Massachusetts Institute of Technology (MIT). A child prodigy, Wiener later became an early researcher in stochastic and mathematical noise processes, contributing work relevant to electronic engineering, electronic communication, and co</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/q178577-20261012.mp3" type="audio/mpeg" length="1017216"/>
