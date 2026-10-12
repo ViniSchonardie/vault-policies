@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Island That Nearly Ended the World</title>
+      <description>Cuba, officially the Republic of Cuba, is an island country in the Caribbean. It comprises the eponymous main island as well as 4,195 islands, islets, and cays. Situated at the convergence of the Caribbean Sea, Gulf of Mexico, and Atlantic Ocean, Cuba is located east of the Yucatán Peninsula, south of both Florida and the Bahamas, west of Hispaniola, and north of Jamaica and the Cayman Islands. Ha</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/cuba-20261012.mp3" type="audio/mpeg" length="931584"/>
+      <guid isPermaLink="false">royal-cuba-20261012</guid>
+      <pubDate>Mon, 12 Oct 2026 15:07:47 GMT</pubDate>
+      <itunes:duration>58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Nation Oil Forgot: Venezuela's 200-Year Collapse</title>
       <description>Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050 km2 (352,140 sq mi), with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is border</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/venezuela-20261012.mp3" type="audio/mpeg" length="1071360"/>
