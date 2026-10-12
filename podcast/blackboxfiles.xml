@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Airlines 140. 264 Dead. The Autopilot Fought Back.</title>
+      <description>China Airlines Flight 140 was a regularly scheduled international passenger flight from Chiang Kai-shek International Airport in Taipei, Taiwan, to Nagoya Airport in Nagoya, Japan.
+On 26 April 1994, the Airbus A300 serving the route was completing a routine flight and approach when, on approach to landing at Nagoya Airport, the takeoff/go-around setting (TO/GA) was inadvertently triggered. The pil</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-140-20261012.mp3" type="audio/mpeg" length="1263744"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-140-20261012</guid>
+      <pubDate>Mon, 12 Oct 2026 14:52:04 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air Midwest 5481. 21 Dead. Two Inches Made the Difference.</title>
       <description>Air Midwest Flight 5481 was a Beechcraft 1900D on a regularly scheduled passenger flight from Charlotte Douglas International Airport in Charlotte, North Carolina, to Greenville–Spartanburg International Airport in Greer, South Carolina. On the morning of January 8, 2003, the Beechcraft stalled while departing Charlotte Douglas International Airport and crashed into an aircraft hangar, killing all</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-midwest-flight-5481-20261012.mp3" type="audio/mpeg" length="1447296"/>
