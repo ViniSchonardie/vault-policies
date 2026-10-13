@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Execuflight 1526. 9 Dead. Hired Anyway.</title>
+      <description>Execuflight Flight 1526 was a domestic charter flight flying from Dayton–Wright Brothers Airport to Akron Executive Airport in Ohio. On November 10, 2015, while on approach into Akron, the crew unknowingly let the airspeed of the aircraft decrease until it stalled and crashed into a building. There were no casualties on the ground, but the 9 occupants were killed.
+
+
+== Background ==
+
+
+=== Aircraft</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/execuflight-flight-1526-20261013.mp3" type="audio/mpeg" length="1008000"/>
+      <guid isPermaLink="false">aviation-execuflight-flight-1526-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 14:44:02 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bell 206 Crashes Into Hudson River. All 6 Dead.</title>
       <description>On April 10, 2025, a Bell 206 helicopter on a sightseeing tour crashed into the Hudson River near Jersey City, New Jersey, across the river from New York City. All six onboard—a family of five and the pilot—were killed. Operated by New York Helicopter, the aircraft was on its eighth flight of the day when its tail boom failed and initiated a mid-air breakup.
 
