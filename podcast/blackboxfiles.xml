@@ -17,6 +17,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Bell 206 Crashes Into Hudson River. All 6 Dead.</title>
+      <description>On April 10, 2025, a Bell 206 helicopter on a sightseeing tour crashed into the Hudson River near Jersey City, New Jersey, across the river from New York City. All six onboard—a family of five and the pilot—were killed. Operated by New York Helicopter, the aircraft was on its eighth flight of the day when its tail boom failed and initiated a mid-air breakup.
+
+
+== Background ==
+
+
+=== Aircraft ===
+T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2025-hudson-river-helicopter-crash-20261013.mp3" type="audio/mpeg" length="1357056"/>
+      <guid isPermaLink="false">aviation-2025-hudson-river-helicopter-crash-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 02:02:08 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PIA Flight 661. 47 Dead. The System Failed Them.</title>
       <description>Pakistan International Airlines Flight 661 was a Pakistani domestic passenger flight from Chitral to Islamabad, operated by Pakistan's flag carrier Pakistan International Airlines. On 7 December 2016, the aircraft serving the route, an ATR 42-500 twin-turboprop, crashed near Havelian following an engine failure. All 47 people on board died, including singer-turned-preacher and entrepreneur Junaid </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pia-flight-661-20261012.mp3" type="audio/mpeg" length="1061760"/>
