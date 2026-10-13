@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Kalitta Air 747. Bird Strike. Runway Overrun.</title>
+      <description>Kalitta Air Flight 207 (K4207/CKS207) was a scheduled cargo flight between John F. Kennedy Airport to Bahrain International Airport with a technical stopover at Brussels. On May 25, 2008, the Boeing 747-200 suffered a bird strike and overran runway 20 (later renumbered to 19) during takeoff at Brussels Airport. This led the aircraft to split into three large pieces. The occupants sustained minor i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kalitta-air-flight-207-20261013.mp3" type="audio/mpeg" length="994560"/>
+      <guid isPermaLink="false">aviation-kalitta-air-flight-207-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 18:46:38 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Execuflight 1526. 9 Dead. Hired Anyway.</title>
       <description>Execuflight Flight 1526 was a domestic charter flight flying from Dayton–Wright Brothers Airport to Akron Executive Airport in Ohio. On November 10, 2015, while on approach into Akron, the crew unknowingly let the airspeed of the aircraft decrease until it stalled and crashed into a building. There were no casualties on the ground, but the 9 occupants were killed.
 
