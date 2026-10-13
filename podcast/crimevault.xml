@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Released After 2 Years. Then He Killed Again.</title>
+      <description>Yukio Yamaji  was a Japanese serial killer convicted of the Yamaguchi matricide case and the Osaka sisters murder case.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/yukio-yamaji-20261013.mp3" type="audio/mpeg" length="958464"/>
+      <guid isPermaLink="false">crime-yukio-yamaji-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 01:38:49 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>17-Year-Old Killed 3. Police Used His Survivor as Bait.</title>
       <description>Harvey Miguel Robinson is an American serial killer currently imprisoned on death row in Pennsylvania. He was 17 when he committed his violent spree, killing three and injuring two.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/harvey-miguel-robinson-20261012.mp3" type="audio/mpeg" length="877056"/>
