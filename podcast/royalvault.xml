@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dead at 35: Mozart's Final Symphony Unfinished</title>
+      <description>Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera, and choral music—and is regarded as one of the greatest composers in the history of Western music.
+Born in Salzburg, Mozart quickly emerged as a </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/wolfgang-amadeus-mozart-20261013.mp3" type="audio/mpeg" length="1055232"/>
+      <guid isPermaLink="false">royal-wolfgang-amadeus-mozart-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 19:04:44 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Founding Father Who Owned Slaves Then Freed Them</title>
       <description>Benjamin Franklin (January 17, 1706 [O.S. January 6, 1705] – April 17, 1790) was an American polymath: a writer, scientist, inventor, statesman, diplomat, printer, publisher and political philosopher. Among the most influential intellectuals of his time, Franklin was one of the Founding Fathers of the United States; a drafter and signer of the Declaration of Independence; and the first postmaster </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/benjamin-franklin-20261013.mp3" type="audio/mpeg" length="996096"/>
