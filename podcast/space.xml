@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Japan's Phobos Sample Mission: Solving Mars' Biggest Mystery</title>
+      <description>Martian Moons eXploration (MMX) is a robotic space probe set for launch in 2026 to bring back the first samples from Mars' largest moon Phobos. Developed by the Japan Aerospace Exploration Agency (JAXA) and announced on 9 June 2015, MMX will land and collect samples from Phobos once or twice, along with conducting Deimos flyby observations and monitoring Mars's climate.
+The mission aims to provide</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/martian-moons-exploration-20261013.mp3" type="audio/mpeg" length="1254528"/>
+      <guid isPermaLink="false">space-martian-moons-exploration-20261013</guid>
+      <pubDate>Tue, 13 Oct 2026 17:36:34 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Commanded the ISS. First Frenchman to Do It.</title>
       <description>Thomas Gautier Pesquet (French pronunciation: [tɔmɑ ɡotje pɛskɛ]; born 27 February 1978, is a French aerospace engineer, pilot,  European Space Agency astronaut, actor, musician, and writer.  He was selected by ESA as a candidate in May 2009, and  successfully completed his basic training in November 2010. From November 2016 to June 2017, he was part of Expedition 50 and Expedition 51 on the Inter</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/thomas-pesquet-20261013.mp3" type="audio/mpeg" length="1089408"/>
