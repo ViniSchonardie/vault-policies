@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Twilight Zone Crash. 3 Dead. Director Told Pilot: Go Lower.</title>
+      <description>On July 23, 1982, a Bell UH-1 Iroquois helicopter crashed at Indian Dunes in Valencia, California, during the making of Twilight Zone: The Movie. The crash killed actor Vic Morrow and child actors Myca Dinh Le and Renee Shin-Yi Chen, who were on the ground, and injured the six helicopter passengers. It led to years of civil and criminal actions against the personnel overseeing the film shoot, incl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/twilight-zone-accident-20261014.mp3" type="audio/mpeg" length="1672704"/>
+      <guid isPermaLink="false">aviation-twilight-zone-accident-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 14:39:26 GMT</pubDate>
+      <itunes:duration>105</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Germanwings 9525. 150 Dead. The Pilot Locked the Door.</title>
       <description>Germanwings Flight 9525 was a scheduled international passenger flight from Barcelona–El Prat Airport in Spain to Düsseldorf Airport in Germany. The flight was operated by Germanwings, a low-cost carrier owned by the German airline Lufthansa. On 24 March 2015, the Airbus A320 operating the flight crashed 100 km (62 mi; 54 nmi) north-west of Nice in the French Alps, killing all 150 people on board.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/germanwings-flight-9525-20261014.mp3" type="audio/mpeg" length="1169280"/>
