@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Pope Who Rewrote 2,000 Years of Doctrine</title>
+      <description>Pope Francis (born Jorge Mario Bergoglio; 17 December 1936 – 21 April 2025) was the head of the Catholic Church and sovereign of Vatican City from 13 March 2013 until his death in 2025. He was the first Jesuit pope, the first Latin American, and the first pope born or raised outside Europe since the 8th-century Syrian pope Gregory III.
+Born and raised in Buenos Aires, Argentina, to a family of Ita</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/royalvault-audio/pope-francis-20261014.mp3" type="audio/mpeg" length="1209216"/>
+      <guid isPermaLink="false">royal-pope-francis-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 02:03:35 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dead at 35: Mozart's Final Symphony Unfinished</title>
       <description>Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera, and choral music—and is regarded as one of the greatest composers in the history of Western music.
 Born in Salzburg, Mozart quickly emerged as a </description>
