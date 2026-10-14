@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>11 Women Murdered. One Survivor Stopped Him.</title>
+      <description>Benjamin Thomas Atkins (August 26, 1968 – September 17, 1997), also known as The Woodward Corridor Killer, was an American serial killer and rapist who raped and tortured 12 women, murdering 11 of them in Highland Park and Detroit, Michigan, during a period of eight months between December 1991 and August 1992. Atkins was apprehended by police with the assistance of his sole surviving victim, who </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/benjamin-atkins-20261014.mp3" type="audio/mpeg" length="1307136"/>
+      <guid isPermaLink="false">crime-benjamin-atkins-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 13:21:52 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Surrendered. Then Confessed to Six Child Murders.</title>
       <description>Mack Ray Edwards (October 17, 1918 – October 30, 1971) was an American child molester and serial killer who molested and murdered at least six children in Los Angeles County, California, between 1953 and 1970. Sentenced to death, he hanged himself in his prison cell.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/mack-ray-edwards-20261014.mp3" type="audio/mpeg" length="1143168"/>
