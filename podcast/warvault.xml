@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Port Arthur: 150,000 vs 50,000. Five Months. 60,000 Dead.</title>
+      <description>The siege of Port Arthur (Japanese: 旅順攻囲戦, romanized: Ryojun Kōisen; Russian: Оборона Порт-Артура, romanized: Oborona Port-Artura; August 1, 1904 – January 2, 1905) was the longest and most violent land battle of the Russo-Japanese War.
+Port Arthur, the deep-water port and Russian naval base at the tip of the Liaodong Peninsula in Manchuria, had been widely regarded as one of the most strongly for</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-port-arthur-20261014.mp3" type="audio/mpeg" length="1423872"/>
+      <guid isPermaLink="false">warvault-siege-of-port-arthur-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 17:58:50 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Beersheba. 800 Australians. One Impossible Charge.</title>
       <description>The Battle of Beersheba (Turkish: Birüssebi Muharebesi, German: Schlacht von Beerscheba) was fought on 31 October 1917, when the British Empire's Egyptian Expeditionary Force (EEF) attacked and captured the Ottoman Empire's Yildirim Army Group garrison at Beersheba, beginning the Southern Palestine Offensive of the Sinai and Palestine campaign of World War I.  On 31 October 1917, infantry from the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-beersheba-20261014.mp3" type="audio/mpeg" length="1228032"/>
