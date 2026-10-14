@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-9: 4 Hours Before Landing, Two Computers Died</title>
+      <description>STS-9 (also referred to Spacelab 1) was the ninth NASA Space Shuttle mission and the sixth mission of the Space Shuttle Columbia. Launched on November 28, 1983, the ten-day mission carried the first Spacelab laboratory module into orbit.
+STS-9 was also the last time the original STS numbering system was used until STS-26, which was designated in the aftermath of the 1986 Challenger disaster of STS</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-9-20261014.mp3" type="audio/mpeg" length="1183872"/>
+      <guid isPermaLink="false">space-sts-9-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 17:33:37 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mars 3: First Soft Landing—Then Silence</title>
       <description>Mars 3 was a robotic space probe of the Soviet Mars program, launched May 28, 1971, nine days after its twin spacecraft Mars 2. The probes were identical robotic spacecraft launched by Proton-K rockets with a Blok D upper stage, each consisting of an orbiter and an attached lander.
 After the Mars 2 lander crashed on the Martian surface, the Mars 3 lander became the first spacecraft to attain a sof</description>
