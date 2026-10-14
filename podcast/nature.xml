@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Perentie. Australia's 9-Foot Apex Predator.</title>
+      <description>The perentie (Varanus giganteus) is a species of monitor lizard. It is one of the largest living lizards, after the Komodo dragon, Asian water monitor, and the crocodile monitor. Found west of the Great Dividing Range in the arid areas of Australia, it is rarely seen because of its shyness and the remoteness of much of its range from human habitation. The species is considered to be a least-concer</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/perentie-20261014.mp3" type="audio/mpeg" length="1106304"/>
+      <guid isPermaLink="false">nature-perentie-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 01:32:21 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jellyfish Glow. Scientists Made It Glow Everywhere.</title>
       <description>The green fluorescent protein (GFP) is a protein that exhibits green fluorescence when exposed to light in the blue to ultraviolet range.  The label GFP traditionally refers to the protein first isolated from the jellyfish Aequorea victoria and is sometimes called avGFP. However, GFPs have been found in other organisms including corals, sea anemones, zoanithids, copepods and lancelets.
 The GFP fro</description>
