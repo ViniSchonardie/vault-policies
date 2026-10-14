@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Al-Tusi. The Scholar Who Saved Baghdad's Burning Libraries.</title>
+      <description>Muḥammad ibn Muḥammad ibn al-Ḥasan al-Ṭūsī (1201 – 1274), also known as Naṣīr al-Dīn al-Ṭūsī (Arabic: نصیر الدین الطوسی; Persian: نصیر الدین طوسی) or simply as (al-)Tusi, was a Persian polymath, architect, philosopher, physician, scientist, and theologian. Nasir al-Din al-Tusi was a well published author, writing on subjects of math, engineering, prose, and mysticism. Additionally, al-Tusi made se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/nasir-al-din-al-tusi-20261014.mp3" type="audio/mpeg" length="1272192"/>
+      <guid isPermaLink="false">realstory-nasir-al-din-al-tusi-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 14:53:47 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Malthus Got It Wrong. His Theory Still Rules the World.</title>
       <description>Thomas Robert Malthus (; 13/14 February 1766 – 29 December 1834) was an English economist, cleric, and scholar influential in the fields of political economy and demography.
 In his 1798 book An Essay on the Principle of Population, Malthus observed that an increase in a nation's food production improved the well-being of the population, but the improvement was temporary because it led to populatio</description>
