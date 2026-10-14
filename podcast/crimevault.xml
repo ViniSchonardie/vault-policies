@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Surrendered. Then Confessed to Six Child Murders.</title>
+      <description>Mack Ray Edwards (October 17, 1918 – October 30, 1971) was an American child molester and serial killer who molested and murdered at least six children in Los Angeles County, California, between 1953 and 1970. Sentenced to death, he hanged himself in his prison cell.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/mack-ray-edwards-20261014.mp3" type="audio/mpeg" length="1143168"/>
+      <guid isPermaLink="false">crime-mack-ray-edwards-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 01:23:38 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>8 Axe Murders. Austin 1884. Killer Never Found.</title>
       <description>The Servant Girl Annihilator, also known as the Midnight Assassin, was an unidentified American serial killer who preyed upon the city of Austin, Texas, in 1884 and 1885. The moniker “Servant Girl Annihilator” originated with the writer O. Henry. The series of eight axe murders were referred to by contemporary sources as the Servant Girl Murders.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/servant-girl-annihilator-20261013.mp3" type="audio/mpeg" length="1033344"/>
