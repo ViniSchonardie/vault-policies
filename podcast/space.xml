@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shenzhou 21: Space Debris Changed Everything</title>
+      <description>Shenzhou 21 (Chinese: 神舟二十一号; pinyin: Shénzhōu èrshíyī-hào; lit. 'Divine Boat Number 21') was a Chinese spaceflight to the Tiangong space station, launched on 31 October 2025. It carried three taikonauts on board a Shenzhou spacecraft. The mission was the 16th crewed Chinese spaceflight and the 21st flight overall of the Shenzhou program. The flight marked the tenth crew rotation to the Tiangong s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-21-20261014.mp3" type="audio/mpeg" length="1371264"/>
+      <guid isPermaLink="false">space-shenzhou-21-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 01:42:02 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Japan's Phobos Sample Mission: Solving Mars' Biggest Mystery</title>
       <description>Martian Moons eXploration (MMX) is a robotic space probe set for launch in 2026 to bring back the first samples from Mars' largest moon Phobos. Developed by the Japan Aerospace Exploration Agency (JAXA) and announced on 9 June 2015, MMX will land and collect samples from Phobos once or twice, along with conducting Deimos flyby observations and monitoring Mars's climate.
 The mission aims to provide</description>
