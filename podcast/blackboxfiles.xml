@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Germanwings 9525. 150 Dead. The Pilot Locked the Door.</title>
+      <description>Germanwings Flight 9525 was a scheduled international passenger flight from Barcelona–El Prat Airport in Spain to Düsseldorf Airport in Germany. The flight was operated by Germanwings, a low-cost carrier owned by the German airline Lufthansa. On 24 March 2015, the Airbus A320 operating the flight crashed 100 km (62 mi; 54 nmi) north-west of Nice in the French Alps, killing all 150 people on board.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/germanwings-flight-9525-20261014.mp3" type="audio/mpeg" length="1169280"/>
+      <guid isPermaLink="false">aviation-germanwings-flight-9525-20261014</guid>
+      <pubDate>Wed, 14 Oct 2026 01:46:02 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kalitta Air 747. Bird Strike. Runway Overrun.</title>
       <description>Kalitta Air Flight 207 (K4207/CKS207) was a scheduled cargo flight between John F. Kennedy Airport to Bahrain International Airport with a technical stopover at Brussels. On May 25, 2008, the Boeing 747-200 suffered a bird strike and overran runway 20 (later renumbered to 19) during takeoff at Brussels Airport. This led the aircraft to split into three large pieces. The occupants sustained minor i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kalitta-air-flight-207-20261013.mp3" type="audio/mpeg" length="994560"/>
