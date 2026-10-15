@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>MU5735. 132 Dead. The 4-Year Mystery.</title>
+      <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20261015.mp3" type="audio/mpeg" length="1287168"/>
+      <guid isPermaLink="false">aviation-china-eastern-airlines-flight-5735-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 18:43:45 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Iran Air 655. 290 Dead. Civilian Codes Ignored.</title>
       <description>Iran Air Flight 655 was an international scheduled passenger flight from Tehran to Dubai via Bandar Abbas that was shot down on 3 July 1988 by two surface-to-air missiles fired by USS Vincennes, a United States Navy warship. The missiles hit the Iran Air aircraft, an Airbus A300, while it was flying its usual route over Iran's territorial waters in the Persian Gulf, shortly after the flight depart</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/iran-air-flight-655-shootdown-20261015.mp3" type="audio/mpeg" length="1762176"/>
