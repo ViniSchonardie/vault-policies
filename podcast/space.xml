@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Astronaut Goes Silent in Space: 20 Minutes, No Voice</title>
+      <description>SpaceX Crew-11 was the eleventh operational NASA Commercial Crew Program flight and the 19th crewed orbital flight of a Crew Dragon spacecraft. The mission transported four crew members, NASA astronauts Zena Cardman and Michael Fincke, JAXA astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov, to the International Space Station (ISS). The mission launched on August 1, 2025 and docked with t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-11-20261015.mp3" type="audio/mpeg" length="1214592"/>
+      <guid isPermaLink="false">space-spacex-crew-11-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 01:42:27 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-9: 4 Hours Before Landing, Two Computers Died</title>
       <description>STS-9 (also referred to Spacelab 1) was the ninth NASA Space Shuttle mission and the sixth mission of the Space Shuttle Columbia. Launched on November 28, 1983, the ten-day mission carried the first Spacelab laboratory module into orbit.
 STS-9 was also the last time the original STS numbering system was used until STS-26, which was designated in the aftermath of the 1986 Challenger disaster of STS</description>
