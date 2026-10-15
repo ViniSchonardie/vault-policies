@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daspletosaurus. The T-Rex's Forgotten Cousin.</title>
+      <description>Daspletosaurus ( das-PLEET-ə-SOR-əs; meaning "frightful lizard") is a genus of tyrannosaurid dinosaur that lived in Laramidia between about 77 and 74.4 million years ago, during the Late Cretaceous Period. The genus Daspletosaurus contains three named species. Fossils of the earlier type species, D. torosus, have been found in Alberta, while fossils of a later species, D. horneri, have been found </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/daspletosaurus-20261015.mp3" type="audio/mpeg" length="1050240"/>
+      <guid isPermaLink="false">nature-daspletosaurus-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 01:32:08 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Salmon Travel Thousands of Miles to Die</title>
       <description>Fish migration is mass relocation by fish from one area or body of water to another. Many types of fish migrate on a regular basis, on time scales ranging from daily to annually or longer, and over distances ranging from a few metres to thousands of kilometres. Such migrations are usually done for better feeding or to reproduce, but in other cases the reasons are unclear.
 Fish migrations involve m</description>
