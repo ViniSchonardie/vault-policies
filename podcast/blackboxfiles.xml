@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Concorde Flight 4590. 113 Dead. A 17-Inch Strip.</title>
+      <description>Air France Flight 4590 was an international charter flight from Paris to New York. On 25 July 2000, a Concorde passenger jet operating the flight crashed shortly after takeoff, killing all 109 people on board and 4 on the ground. It was the only fatal Concorde accident during its 27-year operational history.
+Whilst taking off from Charles de Gaulle Airport, Air France Flight 4590 ran over debris o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-4590-20261015.mp3" type="audio/mpeg" length="1183104"/>
+      <guid isPermaLink="false">aviation-air-france-flight-4590-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 01:43:05 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Airlines 191. 273 Dead. Maintenance Changed Everything.</title>
       <description>American Airlines Flight 191 was a regularly scheduled domestic passenger flight from O'Hare International Airport in Chicago to Los Angeles International Airport. On the afternoon of May 25, 1979, the McDonnell Douglas DC-10 operating this flight was taking off from then-existing runway 32R at O'Hare International when its left engine detached from the wing, causing a loss of control. The aircraf</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-191-20261014.mp3" type="audio/mpeg" length="1182720"/>
