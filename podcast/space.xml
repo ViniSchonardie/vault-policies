@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Crew-9: The Mission That Saved Stranded Astronauts</title>
+      <description>SpaceX Crew-9 was the ninth operational NASA Commercial Crew Program flight and the 15th crewed orbital flight of a Crew Dragon spacecraft. Originally scheduled to carry a crew of four to the International Space Station (ISS) in mid-August 2024, the mission was delayed by more than a month by problems with the Boeing Starliner Calypso spacecraft that was docked at the ISS for the Boeing Crew Fligh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-9-20261015.mp3" type="audio/mpeg" length="1218048"/>
+      <guid isPermaLink="false">space-spacex-crew-9-20261015</guid>
+      <pubDate>Thu, 15 Oct 2026 17:31:06 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hayabusa: The Asteroid Sample That Took 7 Years to Return</title>
       <description>Hayabusa (Japanese: はやぶさ; "Peregrine falcon") was a robotic spacecraft developed by the Japan Aerospace Exploration Agency (JAXA) to return a sample of material from a small near-Earth asteroid named 25143 Itokawa to Earth for further analysis.
 Hayabusa, formerly known as MUSES-C for Mu Space Engineering Spacecraft C, was launched on 9 May 2003 and rendezvoused with Itokawa in mid-September 2005. </description>
