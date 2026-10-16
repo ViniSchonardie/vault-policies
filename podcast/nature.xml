@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Shark's Secret Sense. Detects 5 Nanovolts.</title>
+      <description>Ampullae of Lorenzini (sing.: ampulla) are electroreceptors, sense organs able to detect electric fields. They form a network of mucus-filled pores in the skin of cartilaginous fish (sharks, rays, and chimaeras) and of basal bony fishes such as reedfish, sturgeon, and lungfish. They are associated with and evolved from the mechanosensory lateral line organs of early vertebrates. Most bony fishes a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/ampullae-of-lorenzini-20261016.mp3" type="audio/mpeg" length="1271808"/>
+      <guid isPermaLink="false">nature-ampullae-of-lorenzini-20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 01:31:34 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Freshwater Crocodile. Killed by a Toad.</title>
       <description>The freshwater crocodile (Crocodylus johnstoni), also known commonly as the Australian freshwater crocodile, Johnstone's crocodile, Johnstone river crocodile and the freshie, is a species of crocodile native to the northern regions of Australia. Unlike its much larger Australian relative, the saltwater crocodile, the freshwater crocodile is not known as a man-eater, although it only bites in self-</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/freshwater-crocodile-20261015.mp3" type="audio/mpeg" length="1086720"/>
