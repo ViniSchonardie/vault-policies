@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-27: Atlantis Took 700 Tile Hits and Still Landed</title>
+      <description>STS-27 was the 27th NASA Space Shuttle mission, and the third flight of Space Shuttle Atlantis. Launching on December 2, 1988, on a four-day mission, it was the second shuttle flight after the Space Shuttle Challenger disaster of January 1986. STS-27 carried a classified payload for the U.S. Department of Defense (DoD), ultimately determined to be a Lacrosse surveillance satellite. The vessel's he</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-27-20261016.mp3" type="audio/mpeg" length="1574016"/>
+      <guid isPermaLink="false">space-sts-27-20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 01:43:44 GMT</pubDate>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Crew-9: The Mission That Saved Stranded Astronauts</title>
       <description>SpaceX Crew-9 was the ninth operational NASA Commercial Crew Program flight and the 15th crewed orbital flight of a Crew Dragon spacecraft. Originally scheduled to carry a crew of four to the International Space Station (ISS) in mid-August 2024, the mission was delayed by more than a month by problems with the Boeing Starliner Calypso spacecraft that was docked at the ISS for the Boeing Crew Fligh</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/spacex-crew-9-20261015.mp3" type="audio/mpeg" length="1218048"/>
