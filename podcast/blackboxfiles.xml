@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Aloha Air 243. Roof Torn Off. All Landed Safe.</title>
+      <description>Aloha Airlines Flight 243 was a scheduled domestic passenger flight flown by Aloha Airlines between Hilo and Honolulu in Hawaii. On April 28, 1988, the Boeing 737-297 airplane serving the flight suffered extensive damage after an explosive decompression in flight, caused by part of the fuselage breaking due to poor maintenance and metal fatigue. The plane was able to land safely at Kahului Airport</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-airlines-flight-243-20261016.mp3" type="audio/mpeg" length="1324416"/>
+      <guid isPermaLink="false">aviation-aloha-airlines-flight-243-20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 14:39:59 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Air Canada Express 8646. 2 Dead. Controller Said 'I Messed Up'</title>
       <description>Air Canada Express Flight 8646 was a regularly scheduled international passenger flight from Montréal–Trudeau International Airport in Quebec, Canada, to LaGuardia Airport in New York, United States. The flight was operated by Jazz Aviation, an airline operating regional flights on behalf of Air Canada under the brand Air Canada Express.
 On the night of March 22, 2026, the Bombardier CRJ900 servin</description>
