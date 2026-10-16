@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Prokhorovka. 12 July 1943. Stalin's Trap Worked.</title>
+      <description>The Battle of Prokhorovka was fought on 12 July 1943 near Prokhorovka, 87 kilometres (54 mi) southeast of Kursk, in the Soviet Union, during the Second World War. Taking place on the Eastern Front, the engagement was part of the wider Battle of Kursk and occurred when the 5th Guards Tank Army of the Soviet Red Army attacked the II SS-Panzer Corps of the German Waffen-SS in one of the largest tank </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-prokhorovka-20261016.mp3" type="audio/mpeg" length="1337088"/>
+      <guid isPermaLink="false">warvault-battle-of-prokhorovka-20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 17:55:34 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cawnpore. Safe Passage. A Massacre.</title>
       <description>The siege of Cawnpore was a key episode in the Indian Rebellion of 1857. The besieged East India Company forces and civilians in Cawnpore (now Kanpur) were duped into a false assurance of a safe passage to Allahabad by the rebel forces under Nana Sahib. Their evacuation from Cawnpore thus turned into a massacre; most of the men were killed, while women and children were taken to a nearby dwelling </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-cawnpore-20261016.mp3" type="audio/mpeg" length="1528704"/>
