@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air Canada Express 8646. 2 Dead. Controller Said 'I Messed Up'</title>
+      <description>Air Canada Express Flight 8646 was a regularly scheduled international passenger flight from Montréal–Trudeau International Airport in Quebec, Canada, to LaGuardia Airport in New York, United States. The flight was operated by Jazz Aviation, an airline operating regional flights on behalf of Air Canada under the brand Air Canada Express.
+On the night of March 22, 2026, the Bombardier CRJ900 servin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-canada-express-flight-8646-20261016.mp3" type="audio/mpeg" length="1627008"/>
+      <guid isPermaLink="false">aviation-air-canada-express-flight-8646-20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:21 GMT</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MU5735. 132 Dead. The 4-Year Mystery.</title>
       <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20261015.mp3" type="audio/mpeg" length="1287168"/>
