@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eastern 401. 101 Dead. A Leaned Elbow.</title>
+      <description>Eastern Air Lines Flight 401 was a scheduled flight from John F. Kennedy International Airport in Queens, New York, to Miami International Airport in Miami, Florida. Shortly before midnight on December 29, 1972, the Lockheed L-1011 TriStar crashed into the Florida Everglades. All three cockpit crew members, two of the ten flight attendants, and 96 of the 163 passengers were killed. 75 people survi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/eastern-air-lines-flight-401-20261017.mp3" type="audio/mpeg" length="1188480"/>
+      <guid isPermaLink="false">aviation-eastern-air-lines-flight-401-20261017</guid>
+      <pubDate>Sat, 17 Oct 2026 18:37:50 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>British Midland 092. 47 Dead. Wrong Engine Shut Down.</title>
       <description>The Kegworth air disaster occurred when British Midland Airways Flight 092, a Boeing 737-400, crashed onto the motorway embankment between the M1 motorway and A453 road near Kegworth, Leicestershire, England, while attempting to make an emergency landing at East Midlands Airport on 8 January 1989.
 The aircraft was on a scheduled flight from London Heathrow Airport to Belfast International Airport.</description>
