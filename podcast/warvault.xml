@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>La Rochelle. 14 Months. 22,000 Dead.</title>
+      <description>The siege of La Rochelle (French: le siège de La Rochelle, or sometimes le grand siège de La Rochelle) was a result of a war between the French royal forces of King Louis XIII and the Huguenots of La Rochelle in 1627–1628. The siege marked the height of the struggle between the Catholics and the Protestants in France and French territories, and ended with a complete victory for Louis XIII and the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-la-rochelle-20261017.mp3" type="audio/mpeg" length="1272192"/>
+      <guid isPermaLink="false">warvault-siege-of-la-rochelle-20261017</guid>
+      <pubDate>Sat, 17 Oct 2026 17:55:30 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Khartoum. 10 Months. 4,000 Dead.</title>
       <description>The siege of Khartoum (also known as the battle of Khartoum or fall of Khartoum) took place from 13 March 1884 to 26 January 1885. Sudanese Mahdist forces captured the city of Khartoum, Sudan, from its Egyptian garrison, thereby gaining control over the whole of Turco-Egyptian Sudan.
 Egypt had conquered Sudan in 1820, but had itself come under British domination in 1882. In 1881, the Mahdist War b</description>
