@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Delta 191. 137 Dead. The Storm Nobody Saw Coming.</title>
+      <description>Delta Air Lines Flight 191 was a regularly scheduled Delta Air Lines domestic flight from Fort Lauderdale, Florida, to Los Angeles, California, with an intermediate stop at Dallas/Fort Worth International Airport (DFW). On August 2, 1985, the Lockheed L-1011 TriStar operating Flight 191 encountered a microburst while on approach to land at DFW. The aircraft impacted ground just over one mile (1.6 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/delta-air-lines-flight-191-20261017.mp3" type="audio/mpeg" length="1208448"/>
+      <guid isPermaLink="false">aviation-delta-air-lines-flight-191-20261017</guid>
+      <pubDate>Sat, 17 Oct 2026 01:41:15 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Colgan Air 3407. 50 Dead. They Fought the Stall.</title>
       <description>Colgan Air Flight 3407 was a scheduled passenger flight from Newark, New Jersey, to Buffalo, New York, on February 12, 2009. Approaching Buffalo, the Bombardier Q400, entered an aerodynamic stall from which it did not recover and crashed into a house at 6038 Long Street in Clarence Center, New York, at 10:17 pm EST (03:17 UTC), about 5 miles (8 km; 4 nmi) from the end of the runway, killing all 49</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/colgan-air-flight-3407-20261016.mp3" type="audio/mpeg" length="1283712"/>
