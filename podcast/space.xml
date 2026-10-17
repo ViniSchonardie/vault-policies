@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sally Ride's Historic Flight: The Foam That Doomed Columbia</title>
+      <description>STS-7 was NASA's seventh Space Shuttle mission, and the second mission for the Space Shuttle Challenger. During the mission, Challenger deployed several satellites into orbit. The shuttle launched from Kennedy Space Center on June 18, 1983, and landed at Edwards Air Force Base on June 24, 1983. STS-7 carried Sally Ride, America's first female astronaut and the first astronaut in space known to hav</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-7-20261017.mp3" type="audio/mpeg" length="1078656"/>
+      <guid isPermaLink="false">space-sts-7-20261017</guid>
+      <pubDate>Sat, 17 Oct 2026 13:33:30 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-120: Two Female Commanders in Space at Once</title>
       <description>STS-120 was a Space Shuttle mission to the International Space Station (ISS) that launched on October 23, 2007, from the Kennedy Space Center, Florida. The mission is also referred to as ISS-10A by the ISS program. STS-120 delivered the Harmony module and reconfigured a portion of the station in preparation for future assembly missions. STS-120 was flown by Space Shuttle Discovery, and was the twe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-120-20261017.mp3" type="audio/mpeg" length="1145856"/>
