@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>British Midland 092. 47 Dead. Wrong Engine Shut Down.</title>
+      <description>The Kegworth air disaster occurred when British Midland Airways Flight 092, a Boeing 737-400, crashed onto the motorway embankment between the M1 motorway and A453 road near Kegworth, Leicestershire, England, while attempting to make an emergency landing at East Midlands Airport on 8 January 1989.
+The aircraft was on a scheduled flight from London Heathrow Airport to Belfast International Airport.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kegworth-air-disaster-20261017.mp3" type="audio/mpeg" length="1372032"/>
+      <guid isPermaLink="false">aviation-kegworth-air-disaster-20261017</guid>
+      <pubDate>Sat, 17 Oct 2026 14:35:53 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Delta 191. 137 Dead. The Storm Nobody Saw Coming.</title>
       <description>Delta Air Lines Flight 191 was a regularly scheduled Delta Air Lines domestic flight from Fort Lauderdale, Florida, to Los Angeles, California, with an intermediate stop at Dallas/Fort Worth International Airport (DFW). On August 2, 1985, the Lockheed L-1011 TriStar operating Flight 191 encountered a microburst while on approach to land at DFW. The aircraft impacted ground just over one mile (1.6 </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/delta-air-lines-flight-191-20261017.mp3" type="audio/mpeg" length="1208448"/>
