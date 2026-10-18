@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Air Florida 90. 78 Dead. They Ignored Every Warning.</title>
+      <description>Air Florida Flight 90 was a scheduled domestic passenger flight operated from Washington National Airport (now Ronald Reagan Washington National Airport) to Fort Lauderdale–Hollywood International Airport, with an intermediate stopover at Tampa International Airport, that crashed into the 14th Street Bridge over the Potomac River just after takeoff from Washington National Airport on January 13, 1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-florida-flight-90-20261018.mp3" type="audio/mpeg" length="1516032"/>
+      <guid isPermaLink="false">aviation-air-florida-flight-90-20261018</guid>
+      <pubDate>Sun, 18 Oct 2026 14:36:55 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>349 Dead. One Shared Corridor. The Deadliest Collision Ever.</title>
       <description>On 12 November 1996, Saudia Flight 763, a Boeing 747-100 en route from Delhi, India, to Jeddah, with a stopover in Dhahran, Saudi Arabia, and Kazakhstan Airlines Flight 1907, an Ilyushin Il-76 en route from Shymkent, Kazakhstan, to Delhi, collided over the city of Charkhi Dadri, around 100 kilometres (62 mi; 54 nmi) west of Delhi. The crash killed all 349 people on board both planes, making it the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/charkhi-dadri-mid-air-collision-20261018.mp3" type="audio/mpeg" length="1959168"/>
