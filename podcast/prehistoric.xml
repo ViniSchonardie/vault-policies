@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sonorasaurus: 49ft Dinosaur Hidden in Plain Sight</title>
+      <description>Sonorasaurus is a genus of brachiosaurid sauropod dinosaur from the Early to Late Cretaceous (Albian to Cenomanian stages, around 112 to 93 million years ago). Its fossils have been found in southern Arizona, United States. Its name, which means "Sonora lizard", comes from the Sonora River that flows in the Sonoran Desert where its fossils were first found. The type species is S. thompsoni, descri</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/sonorasaurus-20261018.mp3" type="audio/mpeg" length="1076736"/>
+      <guid isPermaLink="false">prehistoric-sonorasaurus-20261018</guid>
+      <pubDate>Sun, 18 Oct 2026 12:34:30 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deinocheirus: 50ft Dinosaur. Wrong Family for 44 Years.</title>
       <description>Deinocheiridae is an extinct family of ornithomimosaurian dinosaurs, living in Asia and North America from the Aptian until the Maastrichtian, with a possible Late Jurassic record in Europe. The family was originally named by Halszka Osmólska and Roniewicz in 1970, including only the type genus Deinocheirus. In a 2014 study by Yuong-Nam Lee and colleagues and published in the journal Nature, it wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/deinocheiridae-20261018.mp3" type="audio/mpeg" length="1051008"/>
