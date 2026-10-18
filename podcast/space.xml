@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Discovery's Independence Day: The Mission That Saved the Shuttle</title>
+      <description>STS-121 was a 2006 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Discovery on its 32nd flight. The main purposes of the mission were to test new safety and repair techniques introduced following the Columbia disaster of February 2003 as well as to deliver supplies, equipment, and European Space Agency (ESA) astronaut Thomas Reiter to the ISS. The European se</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-121-20261018.mp3" type="audio/mpeg" length="1280640"/>
+      <guid isPermaLink="false">space-sts-121-20261018</guid>
+      <pubDate>Sun, 18 Oct 2026 13:33:08 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sigma 7: America's 9-Hour Race to Beat the Soviets</title>
       <description>Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, thou</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-8-20261018.mp3" type="audio/mpeg" length="1202688"/>
