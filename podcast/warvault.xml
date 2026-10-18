@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Quebec 1775. General Dead. 400 Captured. First Major Loss.</title>
+      <description>The Battle of Quebec (French: Bataille de Québec) was fought on December 31, 1775, between American Continental Army forces and the British defenders of Quebec City as part of the invasion of Quebec of the American Revolutionary War. The battle was the first major defeat of the war for the Americans, and it came with heavy losses. General Richard Montgomery was killed, Benedict Arnold was wounded,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-quebec-20261018.mp3" type="audio/mpeg" length="1186176"/>
+      <guid isPermaLink="false">warvault-battle-of-quebec-20261018</guid>
+      <pubDate>Sun, 18 Oct 2026 17:55:01 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Belgrade 1456. 160,000 vs 5,000. The Siege That Stopped the Ottomans.</title>
       <description>The siege of Belgrade, or siege of Nándorfehérvár (Hungarian: Nándorfehérvár ostroma or nándorfehérvári diadal, lit. "Triumph of Nándorfehérvár"; Serbian Cyrillic: Опсада Београда, romanized: Opsada Beograda) was a military blockade of Belgrade that occurred 4–22 July 1456 in the aftermath of the fall of Constantinople in 1453 marking the Ottomans' attempts to expand further into Europe. Led by Su</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/siege-of-belgrade-20261018.mp3" type="audio/mpeg" length="1653120"/>
