@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Sigma 7: America's 9-Hour Race to Beat the Soviets</title>
+      <description>Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, thou</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mercury-atlas-8-20261018.mp3" type="audio/mpeg" length="1202688"/>
+      <guid isPermaLink="false">space-mercury-atlas-8-20261018</guid>
+      <pubDate>Sun, 18 Oct 2026 01:44:18 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Venus Life Finder: 5 Minutes to Detect Alien Life</title>
       <description>Venus Life Finder is a planned Venus space probe designed to detect signs of life in the Venusian atmosphere. Slated to be the first private mission to another planet, the spacecraft is being developed by Rocket Lab in collaboration with a team from the Massachusetts Institute of Technology. The spacecraft will consist of a Photon Explorer cruise stage which will send a small atmospheric probe int</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/venus-life-finder-20261017.mp3" type="audio/mpeg" length="1374336"/>
