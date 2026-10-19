@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Discovery's First Flight: A Launch That Almost Killed the Crew</title>
+      <description>STS-41-D (formerly STS-14) was the 12th flight of NASA's Space Shuttle program, and the maiden flight of Space Shuttle Discovery. It was launched from Kennedy Space Center, Florida, on August 30, 1984, and landed at Edwards Air Force Base, California, on September 5, 1984. Three commercial communications satellites were deployed into orbit during the six-day mission, and a number of scientific exp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-d-20261019.mp3" type="audio/mpeg" length="1235712"/>
+      <guid isPermaLink="false">space-sts-41-d-20261019</guid>
+      <pubDate>Mon, 19 Oct 2026 01:47:54 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>First Man Untethered: 322 Feet From Safety</title>
       <description>STS-41-B was NASA's tenth Space Shuttle mission and the fourth flight of the Space Shuttle Challenger. It launched on February 3, 1984 and landed on February 11, 1984, after deploying two communications satellites. It was also notable for including the first untethered spacewalk.
 Following STS-9, the flight numbering system for the Space Shuttle program was changed. Because the original successor </description>
