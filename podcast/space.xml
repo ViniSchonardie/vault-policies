@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Ulysses: The Probe That Broke Physics to See the Sun</title>
+      <description>Ulysses ( yoo-LISS-eez, UK also  YOO-liss-eez) was a robotic space probe whose primary mission was to orbit the Sun and study it at all latitudes. It was launched in 1990 and made three "fast latitude scans" of the Sun in 1994/1995, 2000/2001, and 2007/2008. In addition, the probe studied several comets. Ulysses was a joint venture of the European Space Agency (ESA) and the United States' National</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ulysses-20261019.mp3" type="audio/mpeg" length="1444608"/>
+      <guid isPermaLink="false">space-ulysses-20261019</guid>
+      <pubDate>Mon, 19 Oct 2026 17:33:49 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>DAVINCI: NASA's First Venus Probe in 40 Years</title>
       <description>DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) is a planned mission for an orbiter and atmospheric probe to the planet Venus. Together with the separate VERITAS mission, which will also study Venus, it was selected by NASA on June 2, 2021, to be part of their Discovery Program. Its acronym is inspired by Leonardo da Vinci in honor of his scientific innovations</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/deep-atmosphere-venus-investigation-of-noble-gases-chemistry-and-imaging-plus-20261019.mp3" type="audio/mpeg" length="1257216"/>
