@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Saudia Flight 163. 301 Dead. They Refused to Evacuate.</title>
+      <description>Saudia Flight 163 was a scheduled Saudia passenger flight departing from Quaid-e-Azam Airport in Karachi, Pakistan, bound for Kandara Airport in Jeddah, Saudi Arabia, via then-Riyadh International Airport in Riyadh, Saudi Arabia, which caught fire after takeoff on 19 August 1980. Although the Lockheed L-1011 TriStar made a successful emergency landing at Riyadh, the flight crew failed to perform a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/saudia-flight-163-20261019.mp3" type="audio/mpeg" length="1140096"/>
+      <guid isPermaLink="false">aviation-saudia-flight-163-20261019</guid>
+      <pubDate>Mon, 19 Oct 2026 18:44:48 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>70 Dead in 7 Seconds. The Pierced Heart Disaster.</title>
       <description>On 28 August 1988, three aircraft of the Italian Air Force display team collided during the Flugtag '88 airshow at USAF Ramstein Air Base near Kaiserslautern, West Germany. They crashed to the ground in front of a crowd of about 30,000 people, causing 70 fatalities (67 spectators and 3 pilots); 346 spectators sustained serious injuries in the resulting explosion and fire. Hundreds more had minor i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ramstein-air-show-disaster-20261019.mp3" type="audio/mpeg" length="1248384"/>
