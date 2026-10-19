@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 11 Boys. Russia's Last Execution.</title>
+      <description>Sergey Aleksandrovich Golovkin was a Soviet-Russian serial killer, rapist and necrophile, convicted for the killing of 11 boys between the ages of 10 and 16 in the Moscow area between 1986 and 1992. Golovkin, also known as Fisher and The Boa, tortured, raped and killed young boys in his garage basement and the forests outside Moscow.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sergey-golovkin-20261019.mp3" type="audio/mpeg" length="1258752"/>
+      <guid isPermaLink="false">crime-sergey-golovkin-20261019</guid>
+      <pubDate>Mon, 19 Oct 2026 01:28:28 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cape Cod Killer: 4 Bodies in His Marijuana Garden</title>
       <description>Antone Charles "Tony" Costa, sometimes referred to as the Cape Cod Vampire or the Cape Cod Cannibal was an American serial killer who was active in and around the town of Truro, Massachusetts, during 1968–1969. The dismembered remains of four women were found in or near a forest clearing where Costa grew marijuana. His crimes gained international media attention when the district attorney falsely </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/tony-costa-20261018.mp3" type="audio/mpeg" length="1263744"/>
