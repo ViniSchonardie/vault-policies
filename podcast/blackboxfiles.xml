@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>BA Flight 5390. Captain Ejected. Held by His Belt.</title>
+      <description>British Airways Flight 5390 was a scheduled international passenger flight from Birmingham Airport in England to Málaga Airport in Spain. On 10 June 1990, the BAC One-Eleven suffered an explosive decompression. While the aircraft was flying over Didcot, England, an improperly installed windscreen panel separated from its frame, causing the captain to be partially ejected from the aircraft. He was </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-5390-20261020.mp3" type="audio/mpeg" length="1369344"/>
+      <guid isPermaLink="false">aviation-british-airways-flight-5390-20261020</guid>
+      <pubDate>Tue, 20 Oct 2026 01:46:04 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Saudia Flight 163. 301 Dead. They Refused to Evacuate.</title>
       <description>Saudia Flight 163 was a scheduled Saudia passenger flight departing from Quaid-e-Azam Airport in Karachi, Pakistan, bound for Kandara Airport in Jeddah, Saudi Arabia, via then-Riyadh International Airport in Riyadh, Saudi Arabia, which caught fire after takeoff on 19 August 1980. Although the Lockheed L-1011 TriStar made a successful emergency landing at Riyadh, the flight crew failed to perform a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/saudia-flight-163-20261019.mp3" type="audio/mpeg" length="1140096"/>
