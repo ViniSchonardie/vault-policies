@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Deep Impact: NASA Crashed a Spacecraft Into a Comet</title>
+      <description>Deep Impact was a NASA space probe launched from Cape Canaveral Air Force Station on January 12, 2005. It was designed to study the interior composition of the comet Tempel 1 (9P/Tempel), by releasing an impactor into the comet. At 05:52 UTC on July 4, 2005, the Impactor successfully collided with the comet's nucleus. The impact excavated debris from the interior of the nucleus, forming an impact </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/deep-impact-20261020.mp3" type="audio/mpeg" length="1084032"/>
+      <guid isPermaLink="false">space-deep-impact-20261020</guid>
+      <pubDate>Tue, 20 Oct 2026 13:38:05 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Senator Jake Garn Flew to Space. His Body Betrayed Him.</title>
       <description>Edwin Jacob Garn (born October 12, 1932) is an American military veteran and former politician from the U.S. state of Utah. A member of the Republican Party, he served as a member of the United States Senate from 1974 to 1993. Garn became the first sitting member of the United States Congress to fly in space when he flew aboard the Space Shuttle Discovery during STS-51-D in April 1985. Prior to hi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/jake-garn-20261020.mp3" type="audio/mpeg" length="1295232"/>
