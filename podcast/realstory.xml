@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cosima Wagner: The Woman Behind the Legend</title>
+      <description>Francesca Gaetana Cosima Wagner (née Liszt; 24 December 1837 – 1 April 1930) was a German businesswoman who was the daughter of the Hungarian composer and pianist Franz Liszt and Franco-German romantic author Marie d'Agoult. She became the second wife of the German composer Richard Wagner, and with him founded the Bayreuth Festival as a showcase for his stage works. After his death she devoted the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cosima-wagner-20261020.mp3" type="audio/mpeg" length="1833216"/>
+      <guid isPermaLink="false">realstory-cosima-wagner-20261020</guid>
+      <pubDate>Tue, 20 Oct 2026 14:54:50 GMT</pubDate>
+      <itunes:duration>115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pareto: The Fascist Economist Everyone Misunderstands</title>
       <description>Vilfredo Federico Damaso Pareto (; Italian: [paˈreːto]; born Wilfried Fritz Pareto; 15 July 1848 – 19 August 1923) was an Italian polymath, whose areas of interest included sociology, civil engineering, economics, political science, and philosophy. He made several important contributions to economics, particularly in the study of income distribution and in the analysis of individuals' choices, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/vilfredo-pareto-20261020.mp3" type="audio/mpeg" length="1278720"/>
