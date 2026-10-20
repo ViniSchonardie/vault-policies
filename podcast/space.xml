@@ -17,6 +17,22 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz MS-12: 6 Months Docking at the Space Station</title>
+      <description>Soyuz MS-12 was a Soyuz spaceflight that launched on 14 March 2019, carrying three members of the Expedition 59 crew to the International Space Station. The mission ended on 3 October 2019 when Soyuz-MS-12 successfully landed.
+
+
+== Crew ==
+
+
+== Original crew ==
+Soyuz MS-12 was scheduled to be the debut flight for Hazza Al Mansouri or Sultan Al Neyadi, the first two astronauts from the United Arab </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-ms-12-20261020.mp3" type="audio/mpeg" length="1203840"/>
+      <guid isPermaLink="false">space-soyuz-ms-12-20261020</guid>
+      <pubDate>Tue, 20 Oct 2026 17:34:11 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Deep Impact: NASA Crashed a Spacecraft Into a Comet</title>
       <description>Deep Impact was a NASA space probe launched from Cape Canaveral Air Force Station on January 12, 2005. It was designed to study the interior composition of the comet Tempel 1 (9P/Tempel), by releasing an impactor into the comet. At 05:52 UTC on July 4, 2005, the Impactor successfully collided with the comet's nucleus. The impact excavated debris from the interior of the nucleus, forming an impact </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/deep-impact-20261020.mp3" type="audio/mpeg" length="1084032"/>
