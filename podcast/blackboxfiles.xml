@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Turkish Airlines 981. 346 Dead. The Door That Wasn't Locked.</title>
+      <description>Turkish Airlines Flight 981 was a scheduled flight from Istanbul Yeşilköy Airport to London Heathrow Airport, with an intermediate stop at Orly Airport in Paris. On 3 March 1974, the McDonnell Douglas DC-10 operating the flight crashed into the Ermenonville Forest, about 40 kilometres (25 mi; 22 nmi) outside Paris, killing all 335 passengers and 11 crew. The crash was also known as the Ermenonvill</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-981-20261020.mp3" type="audio/mpeg" length="1315584"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-981-20261020</guid>
+      <pubDate>Tue, 20 Oct 2026 18:43:31 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Both Engines Dead. 306 Alive. The Longest Glide.</title>
       <description>Air Transat Flight 236 was a transatlantic flight bound for Lisbon, Portugal, from Toronto, Canada, that lost all engine power while flying over the Atlantic Ocean in the dark on August 24, 2001. The Airbus A330 ran out of fuel because of a fuel leak caused by improper maintenance. Captain Robert Piché, 48, and First Officer Dirk DeJager, 28, glided the plane to a successful emergency landing in t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-transat-flight-236-20261020.mp3" type="audio/mpeg" length="1236480"/>
