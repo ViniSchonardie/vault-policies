@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Confessed to Three Murders. From a Police Booth.</title>
+      <description>Peter Kudzinowski was an American serial killer who was linked to at least three murders committed within a four-year span.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/peter-kudzinowski-20261021.mp3" type="audio/mpeg" length="1350144"/>
+      <guid isPermaLink="false">crime-peter-kudzinowski-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 01:26:38 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Denied It for 20 Years. DNA Proved Otherwise.</title>
       <description>Robert Anthony Buell was an American child murderer, serial rapist, and former planning department worker from Akron, Ohio. He was convicted of the July 17, 1982 murder of 11-year-old Krista Lea Harrison.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-anthony-buell-20261020.mp3" type="audio/mpeg" length="1240320"/>
