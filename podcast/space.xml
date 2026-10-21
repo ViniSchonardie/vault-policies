@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Engine Shutdown at 3:31—The Only In-Flight Shuttle Failure</title>
+      <description>STS-51-F (also known as Spacelab 2) was the 19th flight of NASA's Space Shuttle program and the eighth flight of Space Shuttle Challenger. It launched from Kennedy Space Center, Florida, on July 29, 1985, and landed eight days later on August 6, 1985.
+While STS-51-F's primary payload was the Spacelab 2 laboratory module, the payload that received the most publicity was the Carbonated Beverage Disp</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-f-20261021.mp3" type="audio/mpeg" length="1297536"/>
+      <guid isPermaLink="false">space-sts-51-f-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 13:38:11 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-51-C: The Secret Mission That Doomed Challenger</title>
       <description>STS-51-C (formerly STS-10) was the 15th flight of NASA's Space Shuttle program, and the third flight of Space Shuttle Discovery. It launched on January 24, 1985, and made the fourth shuttle landing at the Shuttle Landing Facility at the Kennedy Space Center in Florida on January 27, 1985. STS-51-C was the first shuttle mission dedicated to the United States Department of Defense (DoD), and consequ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-c-20261021.mp3" type="audio/mpeg" length="1204992"/>
