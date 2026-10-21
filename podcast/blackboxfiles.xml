@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UTA 772. 170 Dead. Wrong Target.</title>
+      <description>UTA Flight 772 was a scheduled international passenger flight of the French airline Union de Transports Aériens (UTA) operating from Brazzaville in the People's Republic of the Congo, via N'Djamena in Chad, to Charles de Gaulle Airport in Paris, France. On 19 September 1989, the McDonnell Douglas DC-10-30 operating the flight crashed into the Ténéré desert near Bilma, Niger, killing all 170 people</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/uta-772-bombing-20261021.mp3" type="audio/mpeg" length="1167744"/>
+      <guid isPermaLink="false">aviation-uta-772-bombing-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 14:39:33 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SA Airways 295. 159 Dead. Fire Never Explained.</title>
       <description>South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-295-20261021.mp3" type="audio/mpeg" length="1370880"/>
