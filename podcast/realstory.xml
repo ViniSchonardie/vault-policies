@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George Stephenson. The Illiterate Man Who Built Railways.</title>
+      <description>George Stephenson (9 June 1781 – 12 August 1848) was an English civil engineer and mechanical engineer. Renowned as the "Father of Railways", Stephenson was considered by the Victorians as a great example of diligent application and thirst for improvement. His chosen rail gauge, sometimes called "Stephenson gauge", was the basis for the 4-foot-8+1⁄2-inch (1.435 m) standard gauge used by most of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/george-stephenson-20261021.mp3" type="audio/mpeg" length="1312128"/>
+      <guid isPermaLink="false">realstory-george-stephenson-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:28 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robert Stephenson: The Engineer Who Refused a Knighthood</title>
       <description>Robert Stephenson , DCL (Hon. causa) (16 October 1803 – 12 October 1859) was an English civil engineer and designer of locomotives. The only son of George Stephenson, the "Father of Railways", he built on the achievements of his father. 
 Robert Stephenson became an apprentice under mining engineer Nicholas Wood after completing his education in 1819. In 1821, he and his father surveyed the Bishop </description>
