@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-51-C: The Secret Mission That Doomed Challenger</title>
+      <description>STS-51-C (formerly STS-10) was the 15th flight of NASA's Space Shuttle program, and the third flight of Space Shuttle Discovery. It launched on January 24, 1985, and made the fourth shuttle landing at the Shuttle Landing Facility at the Kennedy Space Center in Florida on January 27, 1985. STS-51-C was the first shuttle mission dedicated to the United States Department of Defense (DoD), and consequ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-c-20261021.mp3" type="audio/mpeg" length="1204992"/>
+      <guid isPermaLink="false">space-sts-51-c-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 01:45:28 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Soyuz MS-12: 6 Months Docking at the Space Station</title>
       <description>Soyuz MS-12 was a Soyuz spaceflight that launched on 14 March 2019, carrying three members of the Expedition 59 crew to the International Space Station. The mission ended on 3 October 2019 when Soyuz-MS-12 successfully landed.
 
