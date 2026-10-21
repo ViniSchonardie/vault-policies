@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southern Airways 932. 75 Dead. Altitude Illusion.</title>
+      <description>Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. Ferguson Field (HTS) near Kenova and Ceredo, West Virginia. At 7:36 pm on November 14, 1970, the aircraft crashed into a hill just short of the Tri-State Airpo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southern-airways-flight-932-20261021.mp3" type="audio/mpeg" length="1284480"/>
+      <guid isPermaLink="false">aviation-southern-airways-flight-932-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 18:42:16 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UTA 772. 170 Dead. Wrong Target.</title>
       <description>UTA Flight 772 was a scheduled international passenger flight of the French airline Union de Transports Aériens (UTA) operating from Brazzaville in the People's Republic of the Congo, via N'Djamena in Chad, to Charles de Gaulle Airport in Paris, France. On 19 September 1989, the McDonnell Douglas DC-10-30 operating the flight crashed into the Ténéré desert near Bilma, Niger, killing all 170 people</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/uta-772-bombing-20261021.mp3" type="audio/mpeg" length="1167744"/>
