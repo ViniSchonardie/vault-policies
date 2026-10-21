@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mistletoe. The Only Organism That Broke Evolution.</title>
+      <description>Viscum album is a species of mistletoe in the family Santalaceae, commonly called European mistletoe, common mistletoe, or simply mistletoe (Old English mistle). It is native to Europe, as well as western and southern Asia. V. album is found only rarely in North America, as an introduced species.
+Viscum album is a hemiparasite on several species of trees, from which it draws water and nutrients.  </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/viscum-album-20261021.mp3" type="audio/mpeg" length="1208064"/>
+      <guid isPermaLink="false">nature-viscum-album-20261021</guid>
+      <pubDate>Wed, 21 Oct 2026 17:26:00 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arctic Tern Flies 19,000km Twice Yearly</title>
       <description>Animal migration is the relatively long-distance movement of individual animals, usually on a seasonal basis. It is the most common form of migration in ecology. It is found in all major animal groups, including birds, mammals, fish, reptiles, amphibians, insects, and crustaceans. The cause of migration may be local climate, local availability of food, the season of the year or for mating.
 To be c</description>
