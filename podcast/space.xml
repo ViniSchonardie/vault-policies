@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-2: The Shuttle That Almost Didn't Fly</title>
+      <description>STS-2 was the second Space Shuttle mission conducted by NASA, and the second flight of the orbiter Columbia. The mission, crewed by Joe H. Engle and Richard H. Truly, launched on November 12, 1981, and landed two days later on November 14, 1981. STS-2 marked the first time that a crewed, reusable orbital vehicle returned to space. This mission tested the Shuttle Imaging Radar (SIR) as part of the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-2-20261022.mp3" type="audio/mpeg" length="1291392"/>
+      <guid isPermaLink="false">space-sts-2-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 17:33:44 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hope Probe: First Arab Mission to Mars Succeeded</title>
       <description>The Emirates Mars Mission (Arabic: مشروع الإمارات لاستكشاف المريخ, romanized: mašrū' al-Imārāt l-āstikšāf al-Murīkh) is a United Arab Emirates Space Agency uncrewed space exploration mission to Mars. The Hope probe (Arabic: مسبار الأمل, Misbar Al-Amal) was launched on 20 July 2020, and went into orbit around Mars on 9 February 2021.
 The project was headed by Omran Sharaf. 200 Emirati scientists an</description>
