@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hope Probe: First Arab Mission to Mars Succeeded</title>
+      <description>The Emirates Mars Mission (Arabic: مشروع الإمارات لاستكشاف المريخ, romanized: mašrū' al-Imārāt l-āstikšāf al-Murīkh) is a United Arab Emirates Space Agency uncrewed space exploration mission to Mars. The Hope probe (Arabic: مسبار الأمل, Misbar Al-Amal) was launched on 20 July 2020, and went into orbit around Mars on 9 February 2021.
+The project was headed by Omran Sharaf. 200 Emirati scientists an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-hope-20261022.mp3" type="audio/mpeg" length="1225728"/>
+      <guid isPermaLink="false">space-mars-hope-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 14:11:16 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stardust: 7 Years to Catch Cosmic Dust</title>
       <description>Stardust was a 385-kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mission was to collect dust samples from the coma of comet Wild 2, as well as samples of cosmic dust, and return them to Earth for analysis. It was the first sample return mission of its kind. En route to Comet Wild 2, it also flew by and studied the asteroid 5535 Annefrank. The primary mission was suc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/stardust-20261022.mp3" type="audio/mpeg" length="1362816"/>
