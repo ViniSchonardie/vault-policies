@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Birgenair Flight 301. 189 Dead. A Wasp's Nest.</title>
+      <description>Birgenair Flight 301 was a chartered flight by Turkish-managed Birgenair partner Alas Nacionales from Puerto Plata in the Dominican Republic to Frankfurt, Germany, via Gander, Canada, and Berlin, Germany. On 6 February 1996, the Boeing 757 operating the route crashed shortly after take-off from Puerto Plata's Gregorio Luperón International Airport, killing all 189 people on board. The cause was pi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/birgenair-flight-301-20261022.mp3" type="audio/mpeg" length="1877760"/>
+      <guid isPermaLink="false">aviation-birgenair-flight-301-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 18:44:10 GMT</pubDate>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>China Airlines 611. 225 Dead. 22-Year Time Bomb.</title>
       <description>China Airlines Flight 611 was a regularly scheduled international passenger flight operated by a Boeing 747-200 from Chiang Kai-shek International Airport (now Taoyuan International Airport) in Taiwan to Hong Kong International Airport. On May 25th, 2002, the flight disintegrated midair and crashed into the Taiwan Strait, 26 miles (23 nmi; 42 km) northeast of the Penghu Islands, 20 minutes after t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-611-20261022.mp3" type="audio/mpeg" length="1401216"/>
