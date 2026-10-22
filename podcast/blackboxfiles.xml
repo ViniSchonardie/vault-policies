@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>China Airlines 611. 225 Dead. 22-Year Time Bomb.</title>
+      <description>China Airlines Flight 611 was a regularly scheduled international passenger flight operated by a Boeing 747-200 from Chiang Kai-shek International Airport (now Taoyuan International Airport) in Taiwan to Hong Kong International Airport. On May 25th, 2002, the flight disintegrated midair and crashed into the Taiwan Strait, 26 miles (23 nmi; 42 km) northeast of the Penghu Islands, 20 minutes after t</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-611-20261022.mp3" type="audio/mpeg" length="1401216"/>
+      <guid isPermaLink="false">aviation-china-airlines-flight-611-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 14:38:57 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Su-27 Crashed Into 10,000 Spectators. 77 Dead.</title>
       <description>The Sknyliv air show disaster (Ukrainian: Скнилівська трагедія, lit. 'Sknyliv tragedy') occurred on 27 July 2002, when a Ukrainian Air Force Sukhoi Su-27UB aircraft, piloted by Volodymyr Toponar (of the Ukrainian Falcons) and co-piloted by Yuriy Yegorov, crashed into spectators during an aerobatics presentation at Sknyliv airfield near Lviv, Ukraine. The accident killed 77 people and injured 543. </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sknyliv-air-show-disaster-20261022.mp3" type="audio/mpeg" length="1344000"/>
