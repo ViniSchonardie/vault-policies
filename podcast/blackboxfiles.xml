@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Su-27 Crashed Into 10,000 Spectators. 77 Dead.</title>
+      <description>The Sknyliv air show disaster (Ukrainian: Скнилівська трагедія, lit. 'Sknyliv tragedy') occurred on 27 July 2002, when a Ukrainian Air Force Sukhoi Su-27UB aircraft, piloted by Volodymyr Toponar (of the Ukrainian Falcons) and co-piloted by Yuriy Yegorov, crashed into spectators during an aerobatics presentation at Sknyliv airfield near Lviv, Ukraine. The accident killed 77 people and injured 543. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/sknyliv-air-show-disaster-20261022.mp3" type="audio/mpeg" length="1344000"/>
+      <guid isPermaLink="false">aviation-sknyliv-air-show-disaster-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 01:46:07 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southern Airways 932. 75 Dead. Altitude Illusion.</title>
       <description>Southern Airways Flight 932 was a chartered Southern Airways twin engine McDonnell Douglas DC-9-30 domestic United States commercial jet flight from Stallings Field (ISO) in Kinston, North Carolina, to Huntington Tri-State Airport/Milton J. Ferguson Field (HTS) near Kenova and Ceredo, West Virginia. At 7:36 pm on November 14, 1970, the aircraft crashed into a hill just short of the Tri-State Airpo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southern-airways-flight-932-20261021.mp3" type="audio/mpeg" length="1284480"/>
