@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Stardust: 7 Years to Catch Cosmic Dust</title>
+      <description>Stardust was a 385-kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mission was to collect dust samples from the coma of comet Wild 2, as well as samples of cosmic dust, and return them to Earth for analysis. It was the first sample return mission of its kind. En route to Comet Wild 2, it also flew by and studied the asteroid 5535 Annefrank. The primary mission was suc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/stardust-20261022.mp3" type="audio/mpeg" length="1362816"/>
+      <guid isPermaLink="false">space-stardust-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 01:44:57 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>77-Year-Old Senator Returns to Space After 36 Years</title>
       <description>STS-95 was a Space Shuttle mission launched from Kennedy Space Center, Florida on 29 October 1998, using the orbiter Discovery. It was the 25th flight of Discovery and the 92nd mission flown since the start of the Space Shuttle program in April 1981. It was a highly publicized mission due to former Project Mercury astronaut and United States Senator John H. Glenn Jr.'s return to space for his seco</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-95-20261021.mp3" type="audio/mpeg" length="1195008"/>
