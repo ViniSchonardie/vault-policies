@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Wellington's Trap. 50,000 French Routed in Hours.</title>
+      <description>The Battle of Salamanca (in French and Spanish known as the Battle of the Arapiles) took place on 22 July 1812. An Anglo-Portuguese army under the Earl of Wellington (future Duke of Wellington) defeated Marshal Auguste Marmont's French forces at Arapiles, south of Salamanca, Spain, during the Peninsular War. A Spanish division was also present but took no part in the battle.
+In his analysis of the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-salamanca-20261022.mp3" type="audio/mpeg" length="1285632"/>
+      <guid isPermaLink="false">warvault-battle-of-salamanca-20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 02:02:38 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Atlanta 1864. McPherson Dead. Sherman Won.</title>
       <description>The Battle of Atlanta took place during the Atlanta campaign of the American Civil War on July 22, 1864, just southeast of Atlanta, Georgia. Continuing their summer campaign to seize the important rail and supply hub of Atlanta, Union forces commanded by William T. Sherman overwhelmed and defeated Confederate forces defending the city under John B. Hood. Union Major General James B. McPherson was </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-atlanta-20261021.mp3" type="audio/mpeg" length="1200384"/>
