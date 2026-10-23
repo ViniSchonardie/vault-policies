@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>USAir 427. 132 Dead. The Rudder Reversed.</title>
+      <description>USAir Flight 427 was a scheduled flight from Chicago's O'Hare International Airport to Palm Beach International Airport, Florida, with a stopover at Pittsburgh International Airport. On Thursday, September 8, 1994, the Boeing 737-300 flying this route crashed in Hopewell Township, Beaver County, Pennsylvania while approaching Runway 28R at Pittsburgh, which was USAir's largest hub at the time.
+Thi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/usair-flight-427-20261023.mp3" type="audio/mpeg" length="1304064"/>
+      <guid isPermaLink="false">aviation-usair-flight-427-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 19:28:48 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Qantas Flight 32. 469 Aboard. Engine Exploded Over Indonesia.</title>
       <description>Qantas Flight 32 was a regularly scheduled passenger flight from London to Sydney via Singapore. On 4 November 2010, the Airbus A380 operating the route suffered an uncontained failure in one of its four Rolls-Royce Trent 900 engines. The failure occurred over the Riau Islands, Indonesia, four minutes after takeoff from Singapore Changi Airport. After holding for almost two hours to assess the sit</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/qantas-flight-32-20261023.mp3" type="audio/mpeg" length="1468416"/>
