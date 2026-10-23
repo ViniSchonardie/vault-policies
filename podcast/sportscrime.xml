@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Athletics: From Ancient Olympics to Modern Scandal</title>
+      <description>Athletics is a group of sporting events that involves competitive running, jumping and throwing. The most common types of athletics competitions are track and field, road running, cross-country running, and race walking.
+The results of racing events are decided by finishing position (or time, where measured), while the jumps and throws are won by the athlete that achieves the highest or furthest m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/sport-of-athletics-20261023.mp3" type="audio/mpeg" length="1082496"/>
+      <guid isPermaLink="false">sportscrime-sport-of-athletics-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 20:12:50 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Renault Invented Turbo F1. Then Lost Everything.</title>
       <description>Renault, a French automobile manufacturer, was associated with Formula One as both team owner and engine manufacturer for various periods from 1977 to 2025. Since 2021, it fielded a factory-backed team, Alpine, which previously competed under the Renault name. In 1977, the company entered Formula One as a constructor, introducing the turbo engine to Formula One with its EF1 engine. In 1983, Renaul</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/renault-in-formula-one-20261023.mp3" type="audio/mpeg" length="1987968"/>
