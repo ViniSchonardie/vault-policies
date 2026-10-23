@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Poisoned 5 Men. All Left Her Money in Their Wills.</title>
+      <description>Anna Marie Hahn was a German-born American serial killer. She murdered 5 elderly men from Cincinnati by poison between 1933 and 1937. She was convicted of murder and executed by electric chair in 1938.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anna-marie-hahn-20261023.mp3" type="audio/mpeg" length="1258752"/>
+      <guid isPermaLink="false">crime-anna-marie-hahn-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 18:13:53 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joe Ball: The Alligator Man's Final Hour</title>
       <description>Joseph Douglas Ball (January 7, 1896 – September 24, 1938) was an American murderer and suspected serial killer, sometimes referred to as the "Alligator Man", the "Butcher of Elmendorf" and the "Bluebeard of South Texas".</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joe-ball-20261023.mp3" type="audio/mpeg" length="1011456"/>
