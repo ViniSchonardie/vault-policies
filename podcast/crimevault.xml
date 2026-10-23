@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Joe Ball: The Alligator Man's Final Hour</title>
+      <description>Joseph Douglas Ball (January 7, 1896 – September 24, 1938) was an American murderer and suspected serial killer, sometimes referred to as the "Alligator Man", the "Butcher of Elmendorf" and the "Bluebeard of South Texas".</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joe-ball-20261023.mp3" type="audio/mpeg" length="1011456"/>
+      <guid isPermaLink="false">crime-joe-ball-20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 13:22:49 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>14 Murders in One Summer. He Was Already a Convict.</title>
       <description>Milton Johnson (May 15, 1950 – May 16, 2025), known as The Weekend Murderer, was an American serial mass murderer who was believed to have committed up to 14 murders that occurred in Will County, Illinois during the summer of 1983. Two of the victims were police officers. Johnson had been on parole for aggravated battery, burglary, and rape at the time of the murders, and had been imprisoned from </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/milton-johnson-20261023.mp3" type="audio/mpeg" length="1015296"/>
