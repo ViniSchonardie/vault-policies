@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>STS-26: The Mission That Brought Shuttles Back to Space</title>
+      <description>STS-26 was the 26th NASA Space Shuttle mission and the seventh flight of the orbiter Discovery. The mission launched from Kennedy Space Center, Florida, on September 29, 1988, and landed four days later on October 3, 1988. STS-26 was declared the "Return to Flight" mission, being the first mission after the Space Shuttle Challenger disaster of January 28, 1986. It was the first mission since STS-9</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-26-20261024.mp3" type="audio/mpeg" length="1070208"/>
+      <guid isPermaLink="false">space-sts-26-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 13:33:29 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Discovery's Fuel Valve Nearly Stopped a 9-Day Mission</title>
       <description>STS-128 (ISS assembly flight 17A) was a NASA Space Shuttle mission to the International Space Station (ISS) that launched on August 28, 2009. Space Shuttle Discovery carried the Multi-Purpose Logistics Module Leonardo as its primary payload. It was Discovery's 37th flight. Leonardo contained a collection of experiments for studying the physics and chemistry of microgravity. Three spacewalks were c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-128-20261024.mp3" type="audio/mpeg" length="1335168"/>
