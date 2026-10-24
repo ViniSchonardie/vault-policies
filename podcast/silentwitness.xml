@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Church Court. Torture. Confession. Justice?</title>
+      <description>An inquisition was a Catholic judicial procedure in which ecclesiastical judges could initiate, investigate and try cases in their jurisdiction. Popularly, the Inquisition became the name for various medieval and Reformation-era state-organized tribunals whose aim was to combat heresy, apostasy, blasphemy, witchcraft, and customs considered to be deviant, using this judicial procedure. Violence, i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/inquisition-20261024.mp3" type="audio/mpeg" length="1544448"/>
+      <guid isPermaLink="false">trials-inquisition-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 16:49:47 GMT</pubDate>
+      <itunes:duration>97</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Egypt's President. Deposed in a Coup. Dead at Trial.</title>
       <description>Mohamed Mohamed Morsi Eissa Al-Ayyat (; Arabic: مُحَمَّد مُحَمَّد مُرْسِي عِيسَى العَيَّاط, romanized: Muḥammad Muḥammad Mursī ʿĪsā al-ʿAyyāṭ, IPA: [mæˈħæmmæd ˈmoɾsi ˈʕiːsæ (ʔe)l.ʕɑjˈjɑːtˤ]; 8 August 1951 – 17 June 2019) was an Egyptian politician, engineer, and professor who served as the 5th president of Egypt from 2012 to 2013, when General Abdel Fattah el-Sisi removed him from office in a coup</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/mohamed-morsi-20261024.mp3" type="audio/mpeg" length="1248000"/>
