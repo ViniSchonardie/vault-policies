@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Fish Brain. Smarter Than You Think.</title>
+      <description>Fish intelligence is "the result of the process of acquiring, storing in memory, retrieving, combining, comparing, and using in new contexts information and conceptual skills" as it applies to fish. Due to a common perception amongst researchers that teleosts are "primitive" compared to mammals and birds, there has been much less research into fish cognition than into those types of animals, and m</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/fish-intelligence-20261024.mp3" type="audio/mpeg" length="1151232"/>
+      <guid isPermaLink="false">nature-fish-intelligence-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 17:22:19 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Animals Feel Emotions. Darwin Proved It 150 Years Ago.</title>
       <description>Emotion is defined as any mental experience with high intensity and high hedonic content. The existence and nature of emotions in non-human animals are believed to be correlated with those of humans and to have evolved from the same mechanisms. Charles Darwin was one of the first scientists to write about the subject, and his observational (and sometimes anecdotal) approach has since developed int</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/emotion-in-animals-20261024.mp3" type="audio/mpeg" length="1355136"/>
