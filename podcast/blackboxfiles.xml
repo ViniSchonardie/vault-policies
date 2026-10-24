@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Learjet 35. Six Dead. 1,500 Miles on Autopilot.</title>
+      <description>On October 25, 1999, a chartered Learjet 35 business jet was scheduled to fly from Orlando, Florida, United States to Dallas, Texas, United States. Early in the flight, the aircraft, which was climbing to its assigned altitude on autopilot, lost cabin pressure, and all six on board were incapacitated and killed by hypoxia, a lack of oxygen in the brain and body. The aircraft continued climbing pas</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1999-south-dakota-learjet-crash-20261024.mp3" type="audio/mpeg" length="1028352"/>
+      <guid isPermaLink="false">aviation-1999-south-dakota-learjet-crash-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 01:51:19 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>USAir 427. 132 Dead. The Rudder Reversed.</title>
       <description>USAir Flight 427 was a scheduled flight from Chicago's O'Hare International Airport to Palm Beach International Airport, Florida, with a stopover at Pittsburgh International Airport. On Thursday, September 8, 1994, the Boeing 737-300 flying this route crashed in Hopewell Township, Beaver County, Pennsylvania while approaching Runway 28R at Pittsburgh, which was USAir's largest hub at the time.
 Thi</description>
