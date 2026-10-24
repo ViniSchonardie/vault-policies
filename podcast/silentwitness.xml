@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Egypt's President. Deposed in a Coup. Dead at Trial.</title>
+      <description>Mohamed Mohamed Morsi Eissa Al-Ayyat (; Arabic: مُحَمَّد مُحَمَّد مُرْسِي عِيسَى العَيَّاط, romanized: Muḥammad Muḥammad Mursī ʿĪsā al-ʿAyyāṭ, IPA: [mæˈħæmmæd ˈmoɾsi ˈʕiːsæ (ʔe)l.ʕɑjˈjɑːtˤ]; 8 August 1951 – 17 June 2019) was an Egyptian politician, engineer, and professor who served as the 5th president of Egypt from 2012 to 2013, when General Abdel Fattah el-Sisi removed him from office in a coup</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/mohamed-morsi-20261024.mp3" type="audio/mpeg" length="1248000"/>
+      <guid isPermaLink="false">trials-mohamed-morsi-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 01:55:48 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Experts Rule. Democracy Dies. Who Decides?</title>
       <description>Technocracy is an expert-based type of governance. In its strongest sense, it is a form of government in which decisions across all sectors and policy domains follow evidence-based, efficiency-oriented procedures grounded in scientific methods and instrumental rationality. In a weaker sense, the term refers to hybrid models that delegate specific functions to experts or implement expertise-driven </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/technocracy-20261023.mp3" type="audio/mpeg" length="1437696"/>
