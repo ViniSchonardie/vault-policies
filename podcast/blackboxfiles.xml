@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lauda Air 004. 223 Dead. The Warning He Ignored.</title>
+      <description>Lauda Air Flight 004 was a regularly scheduled international passenger flight from Hong Kong, via Bangkok, Thailand, to Vienna, Austria. On 26 May 1991, the Boeing 767 operating the route crashed following an uncommanded deployment of the thrust reverser on the No. 1 engine during the climb phase, causing the aircraft to enter an aerodynamic stall, uncontrolled dive, and in-flight breakup, killing</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lauda-air-flight-004-20261024.mp3" type="audio/mpeg" length="2073984"/>
+      <guid isPermaLink="false">aviation-lauda-air-flight-004-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 14:36:21 GMT</pubDate>
+      <itunes:duration>130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Learjet 35. Six Dead. 1,500 Miles on Autopilot.</title>
       <description>On October 25, 1999, a chartered Learjet 35 business jet was scheduled to fly from Orlando, Florida, United States to Dallas, Texas, United States. Early in the flight, the aircraft, which was climbing to its assigned altitude on autopilot, lost cabin pressure, and all six on board were incapacitated and killed by hypoxia, a lack of oxygen in the brain and body. The aircraft continued climbing pas</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1999-south-dakota-learjet-crash-20261024.mp3" type="audio/mpeg" length="1028352"/>
