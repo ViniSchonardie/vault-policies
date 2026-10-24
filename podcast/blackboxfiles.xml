@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>National Airlines Flight 102. 7 Dead. Cargo Crushed the Cockpit.</title>
+      <description>National Airlines Flight 102 (N8102/NCR102) was a cargo flight operated by National Airlines between Camp Shorabak (formerly Camp Bastion) near the city of Lashkargah in Afghanistan and Al Maktoum Airport in Dubai, with a refueling stop at Bagram Airfield, Afghanistan. On 29 April 2013, the Boeing 747-400 operating the flight crashed within the perimeter of the Bagram Airfield moments after taking</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/national-airlines-flight-102-20261024.mp3" type="audio/mpeg" length="1403136"/>
+      <guid isPermaLink="false">aviation-national-airlines-flight-102-20261024</guid>
+      <pubDate>Sat, 24 Oct 2026 18:39:35 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lauda Air 004. 223 Dead. The Warning He Ignored.</title>
       <description>Lauda Air Flight 004 was a regularly scheduled international passenger flight from Hong Kong, via Bangkok, Thailand, to Vienna, Austria. On 26 May 1991, the Boeing 767 operating the route crashed following an uncommanded deployment of the thrust reverser on the No. 1 engine during the climb phase, causing the aircraft to enter an aerodynamic stall, uncontrolled dive, and in-flight breakup, killing</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lauda-air-flight-004-20261024.mp3" type="audio/mpeg" length="2073984"/>
