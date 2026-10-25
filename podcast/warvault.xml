@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Friedland 1807. 80,000 French. One Fatal Mistake.</title>
+      <description>The Battle of Friedland (14 June 1807) was a major engagement of the Napoleonic Wars between the armies of the French Empire and the Russian Empire led by Napoleon I and General Levin August von Bennigsen respectively. Napoleon and the French obtained a decisive victory that routed much of the Russian army, which retreated chaotically over the Alle river by the end of the fighting. The battlefield</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-friedland-20261025.mp3" type="audio/mpeg" length="1236096"/>
+      <guid isPermaLink="false">warvault-battle-of-friedland-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 17:55:13 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guadalcanal. 800 Japanese Dead. One Night.</title>
       <description>The Battle of the Tenaru, sometimes called the Battle of the Ilu River or the Battle of Alligator Creek, was a land battle between the Imperial Japanese Army and Allied ground forces that took place on 21 August 1942, on the island of Guadalcanal during the Pacific campaign of World War II. The battle was the first major Japanese land offensive during the Guadalcanal campaign.
 In the battle, U.S. </description>
