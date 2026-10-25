@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Endeavour's Return: The Foam Strike That Almost Changed History</title>
+      <description>STS-118 was a Space Shuttle mission to the International Space Station (ISS) flown by the orbiter Endeavour. STS-118 lifted off on August 8, 2007, from launch pad 39A at Kennedy Space Center (KSC), Florida and landed at the Shuttle Landing Facility at KSC on August 21, 2007.
+This was the first flight of Endeavour since STS-113 in November 2002, which was also the last successful shuttle flight bef</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-118-20261025.mp3" type="audio/mpeg" length="1153920"/>
+      <guid isPermaLink="false">space-sts-118-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 17:30:05 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Discovery's Final Flight: 365 Days in Space Ended</title>
       <description>STS-133 (ISS assembly flight ULF5) was the 133rd mission in NASA's Space Shuttle program; during the mission, Space Shuttle Discovery docked with the International Space Station. It was Discovery's 39th and final mission. The mission launched on February 24, 2011, and landed on March 9, 2011. The crew consisted of six American astronauts, all of whom had been on prior spaceflights, headed by Comma</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-133-20261025.mp3" type="audio/mpeg" length="1130112"/>
