@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Discovery's Final Flight: 365 Days in Space Ended</title>
+      <description>STS-133 (ISS assembly flight ULF5) was the 133rd mission in NASA's Space Shuttle program; during the mission, Space Shuttle Discovery docked with the International Space Station. It was Discovery's 39th and final mission. The mission launched on February 24, 2011, and landed on March 9, 2011. The crew consisted of six American astronauts, all of whom had been on prior spaceflights, headed by Comma</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-133-20261025.mp3" type="audio/mpeg" length="1130112"/>
+      <guid isPermaLink="false">space-sts-133-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 13:33:58 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>STS-3: Landing at 316 MPH with Seconds to Spare</title>
       <description>STS-3  was NASA's third Space Shuttle mission and the third mission for the Space Shuttle Columbia. It launched on March 22, 1982 and landed eight days later on March 30, 1982. The mission, crewed by Jack R. Lousma and C. Gordon Fullerton, involved extensive orbital endurance testing of Columbia itself, as well as numerous scientific experiments. STS-3 was the first shuttle launch with an unpainte</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-3-20261025.mp3" type="audio/mpeg" length="1275648"/>
