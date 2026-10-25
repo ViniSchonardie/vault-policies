@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Fontenoy 1745. 15,000 Marched Up. The French Broke First.</title>
+      <description>The Battle of Fontenoy, 11 May 1745, took place during the War of the Austrian Succession, near Tournai, in Belgium. A French army of 50,000 under Marshal Saxe defeated a Pragmatic Army of roughly the same size, led by the Duke of Cumberland.
+By 1745, France was close to bankruptcy, and seeking an end to the war. The Austrian Netherlands offered the best opportunity for a decisive victory, and in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-fontenoy-20261025.mp3" type="audio/mpeg" length="1267968"/>
+      <guid isPermaLink="false">warvault-battle-of-fontenoy-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 02:03:48 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Pea Ridge: 16,000 vs 10,000. The General Fell First.</title>
       <description>The Battle of Pea Ridge (March 7–8, 1862), also known as the Battle of Elkhorn Tavern, took place during the American Civil War near Leetown, northeast of Fayetteville, Arkansas. Federal forces, led by Brigadier General Samuel R. Curtis, moved south from central Missouri, driving Confederate forces into northwestern Arkansas. Major General Earl Van Dorn had launched a Confederate counteroffensive,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-pea-ridge-20261024.mp3" type="audio/mpeg" length="1255296"/>
