@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Guadalcanal. 800 Japanese Dead. One Night.</title>
+      <description>The Battle of the Tenaru, sometimes called the Battle of the Ilu River or the Battle of Alligator Creek, was a land battle between the Imperial Japanese Army and Allied ground forces that took place on 21 August 1942, on the island of Guadalcanal during the Pacific campaign of World War II. The battle was the first major Japanese land offensive during the Guadalcanal campaign.
+In the battle, U.S. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-tenaru-20261025.mp3" type="audio/mpeg" length="1368960"/>
+      <guid isPermaLink="false">warvault-battle-of-the-tenaru-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 13:54:29 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fontenoy 1745. 15,000 Marched Up. The French Broke First.</title>
       <description>The Battle of Fontenoy, 11 May 1745, took place during the War of the Austrian Succession, near Tournai, in Belgium. A French army of 50,000 under Marshal Saxe defeated a Pragmatic Army of roughly the same size, led by the Duke of Cumberland.
 By 1745, France was close to bankruptcy, and seeking an end to the war. The Austrian Netherlands offered the best opportunity for a decisive victory, and in </description>
