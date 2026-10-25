@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>33 People. Same Stable. Moscow's First Serial Killer.</title>
+      <description>Vasili Ivanovich Komaroff (born Vasili Terentevich Petrov; Russian: Василий Терентьевич Петров; 1 January 1871 – 18 June 1923) was a Russian serial killer, convicted for the killing of 33 people in Moscow between 1921 and 1923. One of the earliest known serial killers in the Soviet Union, Komaroff was a horse trader who murdered at least 33 customers in the stable next to his home, and was execute</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/vasili-komaroff-20261025.mp3" type="audio/mpeg" length="1026816"/>
+      <guid isPermaLink="false">crime-vasili-komaroff-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 18:12:16 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed 17 People. Police Followed Him 10 Days.</title>
       <description>Donato Bilancia (10 July 1951 – 17 December 2020) was an Italian serial killer who murdered seventeen people – nine women and eight men – on the Italian Riviera in the period from October 1997 to April 1998. Bilancia's inconsistent modus operandi made him difficult to identify and capture. There were no obvious links between the majority of his murders. He chose most of his victims at random, acro</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/donato-bilancia-20261025.mp3" type="audio/mpeg" length="1099008"/>
