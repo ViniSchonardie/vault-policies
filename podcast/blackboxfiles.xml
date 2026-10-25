@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>PSA Flight 1771. 43 Dead. He Used His Old ID.</title>
+      <description>Pacific Southwest Airlines Flight 1771 was a passenger flight from Los Angeles to San Francisco. On December 7, 1987, the British Aerospace 146-200A, registration N350PS, was intentionally crashed in San Luis Obispo County near Cayucos, after being hijacked by a passenger, killing all 43 passengers and crew aboard the plane. Five victims, including the two pilots, were presumably shot dead before </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-southwest-airlines-flight-1771-20261025.mp3" type="audio/mpeg" length="1132416"/>
+      <guid isPermaLink="false">aviation-pacific-southwest-airlines-flight-1771-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 01:46:18 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>National Airlines Flight 102. 7 Dead. Cargo Crushed the Cockpit.</title>
       <description>National Airlines Flight 102 (N8102/NCR102) was a cargo flight operated by National Airlines between Camp Shorabak (formerly Camp Bastion) near the city of Lashkargah in Afghanistan and Al Maktoum Airport in Dubai, with a refueling stop at Bagram Airfield, Afghanistan. On 29 April 2013, the Boeing 747-400 operating the flight crashed within the perimeter of the Bagram Airfield moments after taking</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/national-airlines-flight-102-20261024.mp3" type="audio/mpeg" length="1403136"/>
