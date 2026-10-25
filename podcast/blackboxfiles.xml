@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>BEA Flight 548. 118 Dead. The Strike That Killed Them.</title>
+      <description>British European Airways Flight 548 was a scheduled passenger flight from London Heathrow to Brussels that crashed near Staines, England, United Kingdom, shortly after take-off on 18 June 1972, killing all 118 people on board. The accident became known as the Staines air disaster. As of 2026, it remains the deadliest air accident (as opposed to terrorist incidents) to have occurred in the UK and w</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-european-airways-flight-548-20261025.mp3" type="audio/mpeg" length="1185792"/>
+      <guid isPermaLink="false">aviation-british-european-airways-flight-548-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 18:39:56 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Singapore Airlines 006. 83 Dead. Wrong Runway in a Typhoon.</title>
       <description>Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport via Chiang Kai-shek International Airport (now known as Taoyuan International Airport) near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time (14:18 UTC), the Boeing 747-400 operating the flight attempted to take off from the wrong runway at </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-006-20261025.mp3" type="audio/mpeg" length="1297920"/>
