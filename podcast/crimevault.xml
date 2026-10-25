@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 17 People. Police Followed Him 10 Days.</title>
+      <description>Donato Bilancia (10 July 1951 – 17 December 2020) was an Italian serial killer who murdered seventeen people – nine women and eight men – on the Italian Riviera in the period from October 1997 to April 1998. Bilancia's inconsistent modus operandi made him difficult to identify and capture. There were no obvious links between the majority of his murders. He chose most of his victims at random, acro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/donato-bilancia-20261025.mp3" type="audio/mpeg" length="1099008"/>
+      <guid isPermaLink="false">crime-donato-bilancia-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 13:18:18 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sachiko Eto: Six Bodies. Cult Rituals. Taiko Sticks.</title>
       <description>Sachiko Eto , known as The Drumstick Killer, was a Japanese cult leader and serial killer, responsible for six murders in Sukagawa City between 1994 and 1995.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sachiko-eto-20261025.mp3" type="audio/mpeg" length="1078272"/>
