@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Singapore Airlines 006. 83 Dead. Wrong Runway in a Typhoon.</title>
+      <description>Singapore Airlines Flight 006 was an international scheduled passenger flight from Singapore Changi Airport to Los Angeles International Airport via Chiang Kai-shek International Airport (now known as Taoyuan International Airport) near Taipei, Taiwan. On 31 October 2000, at 23:18 Taipei local time (14:18 UTC), the Boeing 747-400 operating the flight attempted to take off from the wrong runway at </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/singapore-airlines-flight-006-20261025.mp3" type="audio/mpeg" length="1297920"/>
+      <guid isPermaLink="false">aviation-singapore-airlines-flight-006-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 14:36:44 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PSA Flight 1771. 43 Dead. He Used His Old ID.</title>
       <description>Pacific Southwest Airlines Flight 1771 was a passenger flight from Los Angeles to San Francisco. On December 7, 1987, the British Aerospace 146-200A, registration N350PS, was intentionally crashed in San Luis Obispo County near Cayucos, after being hijacked by a passenger, killing all 43 passengers and crew aboard the plane. Five victims, including the two pilots, were presumably shot dead before </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-southwest-airlines-flight-1771-20261025.mp3" type="audio/mpeg" length="1132416"/>
