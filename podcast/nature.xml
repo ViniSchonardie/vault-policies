@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Crocodile Monitor: 255cm Predator That Hunts Like No Other Lizard</title>
+      <description>The crocodile monitor (Varanus salvadorii), also known as the Papuan monitor or Salvadori's monitor, is a species of monitor lizard endemic to New Guinea. It is the largest monitor lizard in New Guinea and is one of the longest lizards, verified at up to 255 cm (100 in). Its tail is exceptionally long, with some specimens having been claimed to exceed the length of the Komodo dragon, however less </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/varanus-salvadorii-20261025.mp3" type="audio/mpeg" length="1692288"/>
+      <guid isPermaLink="false">nature-varanus-salvadorii-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 12:34:58 GMT</pubDate>
+      <itunes:duration>106</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bogong Moth Migrates 600 Miles Twice a Year</title>
       <description>The bogong moth (Agrotis infusa) is a temperate species of night-flying moth, notable for its biannual long-distance seasonal migrations towards and from the Australian Alps, similar to the diurnal monarch butterfly. During the autumn and winter it is found in southern Queensland, western New South Wales, western Victoria, Tasmania and also in South and Western Australia. Adult bogong moths breed </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bogong-moth-20261025.mp3" type="audio/mpeg" length="1118592"/>
