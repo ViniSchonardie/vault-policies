@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Sachiko Eto: Six Bodies. Cult Rituals. Taiko Sticks.</title>
+      <description>Sachiko Eto , known as The Drumstick Killer, was a Japanese cult leader and serial killer, responsible for six murders in Sukagawa City between 1994 and 1995.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/sachiko-eto-20261025.mp3" type="audio/mpeg" length="1078272"/>
+      <guid isPermaLink="false">crime-sachiko-eto-20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 01:26:40 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Louise Peete: Twice Convicted. Executed After Parole.</title>
       <description>Louise Peete (September 20, 1880 – April 11, 1947) was a convicted American serial killer. Peete was first convicted of the 1920 murder of wealthy mining engineer Jacob C. Denton, and was sentenced to life in prison in 1921. She was paroled in April 1939. In May 1945, Peete was convicted a second time for murdering her employer, Margaret Logan, and was sentenced to death. She was executed in April</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/louise-peete-20261024.mp3" type="audio/mpeg" length="1001088"/>
