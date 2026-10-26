@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Soyuz TMA-13M: 122 Orbits, 3 Cosmonauts, Perfect Return</title>
+      <description>Soyuz TMA-13M was a 2014 flight to the International Space Station. It transported three members of the Expedition 40 crew to the International Space Station. TMA-13M was the 122nd flight of a Soyuz spacecraft since 1967, and the 39th Soyuz mission to the ISS. The Soyuz remained docked to the space station for the Expedition 41 increment to serve as an emergency escape vehicle until its departure </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-tma-13m-20261026.mp3" type="audio/mpeg" length="1347840"/>
+      <guid isPermaLink="false">space-soyuz-tma-13m-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 17:35:00 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hera: ESA's $129M Asteroid Strike Aftermath Mission</title>
       <description>Hera is the first planetary defence spacecraft developed by the European Space Agency (ESA). Its primary mission objective is to study the Didymos binary asteroid system that was impacted in 2022 by NASA's DART spacecraft and contribute to validation of the kinetic impact method to deviate a near-Earth asteroid from a colliding trajectory with Earth. Hera has a mass of 1,128 kg (2,487 lb) and carr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/hera-20261026.mp3" type="audio/mpeg" length="1224960"/>
