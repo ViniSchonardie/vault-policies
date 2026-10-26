@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Hera: ESA's $129M Asteroid Strike Aftermath Mission</title>
+      <description>Hera is the first planetary defence spacecraft developed by the European Space Agency (ESA). Its primary mission objective is to study the Didymos binary asteroid system that was impacted in 2022 by NASA's DART spacecraft and contribute to validation of the kinetic impact method to deviate a near-Earth asteroid from a colliding trajectory with Earth. Hera has a mass of 1,128 kg (2,487 lb) and carr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/hera-20261026.mp3" type="audio/mpeg" length="1224960"/>
+      <guid isPermaLink="false">space-hera-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 14:56:07 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>DSCOVR: The $150M Satellite Frozen for 14 Years</title>
       <description>Deep Space Climate Observatory (DSCOVR; formerly known as Triana and unofficially as GoreSat) is a United States National Oceanic and Atmospheric Administration (NOAA) space weather, space climate, and Earth observation satellite. It was launched by SpaceX on a Falcon 9 v1.1 launch vehicle on 11 February 2015, from Cape Canaveral, Florida. This is NOAA's first operational deep space satellite and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/deep-space-climate-observatory-20261026.mp3" type="audio/mpeg" length="1142784"/>
