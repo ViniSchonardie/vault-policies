@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>AA Flight 965. 159 Dead. One Second Too Late.</title>
+      <description>American Airlines Flight 965 was a regularly scheduled flight from Miami International Airport in Miami, Florida, to Alfonso Bonilla Aragón International Airport in Cali, Colombia. On December 20, 1995, the Boeing 757-200 flying this route (registration N651AA) crashed into a mountain in Buga, Colombia, around 9:40 pm local time killing 151 of the 155 passengers and all 8 crew members.
+The Colombi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-965-20261026.mp3" type="audio/mpeg" length="1840512"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-965-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 01:51:50 GMT</pubDate>
+      <itunes:duration>115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BEA Flight 548. 118 Dead. The Strike That Killed Them.</title>
       <description>British European Airways Flight 548 was a scheduled passenger flight from London Heathrow to Brussels that crashed near Staines, England, United Kingdom, shortly after take-off on 18 June 1972, killing all 118 people on board. The accident became known as the Staines air disaster. As of 2026, it remains the deadliest air accident (as opposed to terrorist incidents) to have occurred in the UK and w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-european-airways-flight-548-20261025.mp3" type="audio/mpeg" length="1185792"/>
