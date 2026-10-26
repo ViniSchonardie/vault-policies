@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lady Killer: 4 Women Dead. 23 Years on the Run.</title>
+      <description>Ricardo Silvio Caputo was an Argentine American serial killer active during the 1970s who was known as The Lady Killer.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ricardo-caputo-20261026.mp3" type="audio/mpeg" length="1168896"/>
+      <guid isPermaLink="false">crime-ricardo-caputo-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 18:16:35 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned 11 People. Husbands and Children. All Died of Fever.</title>
       <description>Lydia Sherman (December 24, 1824 – May 16, 1878), née Danbury, also known as The Derby Poisoner, was an American serial killer. She poisoned eight children in her care (six of whom were her own) and her three husbands and was convicted of second-degree murder in 1872. Five years into her sentence, she escaped under the pretext of being sick and got a job as housekeeper to a rich widower in Provide</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lydia-sherman-20261026.mp3" type="audio/mpeg" length="1110912"/>
