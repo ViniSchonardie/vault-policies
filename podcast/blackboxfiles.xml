@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Qantas Flight 72. 315 Aboard. Computer Commanded Nosedive.</title>
+      <description>Qantas Flight 72 (QF72) was a scheduled flight from Singapore Changi Airport to Perth Airport by an Airbus A330. On 7 October 2008, the flight made an emergency landing at Learmonth Airport near the town of Exmouth, Western Australia, following an in-flight upset that included a pair of sudden, uncommanded pitch-down manoeuvres that caused severe injuries—including fractures, lacerations and spina</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/qantas-flight-72-20261026.mp3" type="audio/mpeg" length="1387008"/>
+      <guid isPermaLink="false">aviation-qantas-flight-72-20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 18:52:03 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Arrow Air Flight 1285R. 256 Dead. Ice or Explosion?</title>
       <description>Arrow Air Flight 1285R was an international charter flight carrying U.S. Army personnel from Cairo, Egypt, to their home base in Fort Campbell, Kentucky, US, via Cologne, West Germany, and Gander, Newfoundland. On the morning of Thursday, 12 December 1985, shortly after takeoff from Canada's Gander International Airport en route to Fort Campbell, the McDonnell Douglas DC-8 serving the flight stall</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/arrow-air-flight-1285r-20261026.mp3" type="audio/mpeg" length="1408512"/>
