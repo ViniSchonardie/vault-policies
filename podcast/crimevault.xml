@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Black Widow: She Poisoned 3 Men. Police Think It Was 10.</title>
+      <description>Elfriede Martha Blauensteiner, dubbed The Black Widow, was an Austrian serial killer who murdered at least three victims by poison. In each case, she inherited the victim's possessions.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/elfriede-blauensteiner-20261027.mp3" type="audio/mpeg" length="1225728"/>
+      <guid isPermaLink="false">crime-elfriede-blauensteiner-20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 01:29:56 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lady Killer: 4 Women Dead. 23 Years on the Run.</title>
       <description>Ricardo Silvio Caputo was an Argentine American serial killer active during the 1970s who was known as The Lady Killer.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ricardo-caputo-20261026.mp3" type="audio/mpeg" length="1168896"/>
