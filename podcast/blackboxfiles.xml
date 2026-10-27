@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>73 Dead. Pilots Never Said Emergency. ATC Ignored Fuel Crisis.</title>
+      <description>Avianca Flight 052 was a regularly scheduled flight from Bogotá, Colombia, to New York City, United States, via Medellín, Colombia, that crashed on January 25, 1990, at 21:34 (UTC−05:00). The Boeing 707 flying this route ran out of fuel after a failed attempt to land at John F. Kennedy International Airport (JFK), causing the aircraft to crash onto a hillside in the small village of Cove Neck, New</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-052-20261027.mp3" type="audio/mpeg" length="1307520"/>
+      <guid isPermaLink="false">aviation-avianca-flight-052-20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 19:11:59 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Both Engines Dead. 45 Seconds to Land. They Found a Levee.</title>
       <description>TACA Flight 110 was a scheduled international flight operated by TACA International Airlines, traveling from San Salvador to New Orleans, with a stopover in Belize City. On May 24, 1988, the flight encountered severe thunderstorm activity on its final approach to New Orleans International Airport. As a result, the brand new Boeing 737-300 suffered flameout in both engines, but the pilots made a su</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/taca-flight-110-20261027.mp3" type="audio/mpeg" length="1158528"/>
