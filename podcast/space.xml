@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Commanded a Space Shuttle. Then NASA Made Her Second-in-Command.</title>
+      <description>Pamela Ann Melroy (born September 17, 1961) is an American retired United States Air Force officer and NASA astronaut who also served as the deputy administrator of NASA. She served as pilot on Space Shuttle missions STS-92 and STS-112 and commanded mission STS-120 before leaving the agency in August 2009. After serving as deputy program manager of Space Exploration Initiatives with Lockheed Marti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/pamela-melroy-20261027.mp3" type="audio/mpeg" length="1941120"/>
+      <guid isPermaLink="false">space-pamela-melroy-20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 17:30:13 GMT</pubDate>
+      <itunes:duration>121</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Shuttle Carried 7 Astronauts — Two Were Women</title>
       <description>STS-41-G (formerly STS-17) was the 13th flight of NASA's Space Shuttle program and the sixth flight of Space Shuttle Challenger. Challenger launched on October 5, 1984, and conducted the second shuttle landing at Kennedy Space Center on October 13, 1984. It was the first shuttle mission to carry a crew of seven, including the first crew with two women (Sally K. Ride and Kathryn D. Sullivan), the f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-41-g-20261027.mp3" type="audio/mpeg" length="1281792"/>
