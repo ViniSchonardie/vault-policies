@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Poisoned 15 People. They Called Her An Angel.</title>
+      <description>Gesina Margarethe Gottfried, better known as Gesche Gottfried, was a German serial killer who murdered 15 people by arsenic poisoning in Bremen and Hanover between 1813 and 1827. She was the final person to be publicly executed in the city of Bremen.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gesche-gottfried-20261027.mp3" type="audio/mpeg" length="941184"/>
+      <guid isPermaLink="false">crime-gesche-gottfried-20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 18:46:16 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed 6 With an Axe. Last Finn Ever Executed for It.</title>
       <description>Toivo Harald "Kirves" Koljonen was a Finnish mass murderer and the last Finn executed for a civilian crime. He was executed by firing squad for a sextuple murder.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/toivo-koljonen-20261027.mp3" type="audio/mpeg" length="1062528"/>
