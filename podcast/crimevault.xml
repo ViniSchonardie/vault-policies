@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 6 With an Axe. Last Finn Ever Executed for It.</title>
+      <description>Toivo Harald "Kirves" Koljonen was a Finnish mass murderer and the last Finn executed for a civilian crime. He was executed by firing squad for a sextuple murder.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/toivo-koljonen-20261027.mp3" type="audio/mpeg" length="1062528"/>
+      <guid isPermaLink="false">crime-toivo-koljonen-20261027</guid>
+      <pubDate>Tue, 27 Oct 2026 13:52:31 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Widow: She Poisoned 3 Men. Police Think It Was 10.</title>
       <description>Elfriede Martha Blauensteiner, dubbed The Black Widow, was an Austrian serial killer who murdered at least three victims by poison. In each case, she inherited the victim's possessions.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/elfriede-blauensteiner-20261027.mp3" type="audio/mpeg" length="1225728"/>
