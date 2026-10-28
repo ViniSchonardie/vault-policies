@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Englewood Strangler: 5 Women. Wrong Man on Death Row.</title>
+      <description>Hubert Geralds Jr. is an American serial killer who murdered five women between 1994 and 1995. He is serving his prison sentence, life without parole, in Menard Correctional Center, which is operated by the Illinois Department of Corrections. During his spree of murders, he was known as the Englewood Strangler. Geralds is in custody under the identification number B39967. He was admitted to the Me</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/hubert-geralds-jr-20261028.mp3" type="audio/mpeg" length="1156224"/>
+      <guid isPermaLink="false">crime-hubert-geralds-jr-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 13:18:56 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed His Parents. Then Became Europe's Most Wanted.</title>
       <description>Roberto Succo (3 April 1962 – 23 May 1988) was an Italian serial killer who committed several murders and other violent crimes mostly in Italy and France in the 1980s.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/roberto-succo-20261028.mp3" type="audio/mpeg" length="1178880"/>
