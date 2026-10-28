@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut is Leading NASA's Next Generation</title>
+      <description>Joseph Michael Acabá (born May 17, 1967) is an American educator, hydrogeologist, and NASA astronaut. In May 2004, he became the first person of Puerto Rican ancestry to be named as a NASA astronaut candidate, when he was selected as a member of NASA Astronaut Training Group 19. He completed his training on February 10, 2006, and was assigned to STS-119, which flew from March 15 to 28, 2009, to de</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/joseph-m-acaba-20261028.mp3" type="audio/mpeg" length="1242240"/>
+      <guid isPermaLink="false">space-joseph-m-acaba-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 01:29:41 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Commanded a Space Shuttle. Then NASA Made Her Second-in-Command.</title>
       <description>Pamela Ann Melroy (born September 17, 1961) is an American retired United States Air Force officer and NASA astronaut who also served as the deputy administrator of NASA. She served as pilot on Space Shuttle missions STS-92 and STS-112 and commanded mission STS-120 before leaving the agency in August 2009. After serving as deputy program manager of Space Exploration Initiatives with Lockheed Marti</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/pamela-melroy-20261027.mp3" type="audio/mpeg" length="1941120"/>
