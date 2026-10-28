@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>SilkAir 185. 104 Dead. The Verdict They Hid.</title>
+      <description>SilkAir Flight 185 was a scheduled international passenger flight operated by a Boeing 737-300 from Soekarno–Hatta International Airport in Jakarta, Indonesia to Changi Airport in Singapore that crashed into the Musi River near Palembang, Sumatra, on 19 December 1997, killing all 97 passengers and 7 crew members on board.
+The investigation into the cause of the crash was led by investigators from </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/silkair-flight-185-20261028.mp3" type="audio/mpeg" length="1275648"/>
+      <guid isPermaLink="false">aviation-silkair-flight-185-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 18:37:35 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>62 Dead. Airline Ignored Every Warning</title>
       <description>Voepass Flight 2283 was a scheduled domestic Brazilian passenger flight from Cascavel to Guarulhos. On August 9, 2024, the ATR 72 serving the flight crashed in Vinhedo, São Paulo State. The aircraft was flying at an altitude of 17,000 ft (5,200 m) prior to stalling and entering a flat spin with a rapid descent at around 13:21 BRT.
 All 62 people on board died. The crash was the deadliest aviation a</description>
