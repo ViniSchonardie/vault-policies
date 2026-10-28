@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cauchy: The Genius Who Lost Everything for Pride</title>
+      <description>Baron Augustin-Louis Cauchy (21 August 1789 – 23 May 1857) was a French mathematician, engineer, and physicist. He was one of the first to rigorously state and prove the key theorems of calculus (thereby creating real analysis), pioneered the field of complex analysis, and the study of permutation groups in abstract algebra. Cauchy also contributed to a number of topics in mathematical physics, no</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/augustin-louis-cauchy-20261028.mp3" type="audio/mpeg" length="1185792"/>
+      <guid isPermaLink="false">realstory-augustin-louis-cauchy-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 01:47:41 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Herschel: The Man Who Named the Planets Everyone Forgot</title>
       <description>Sir John Frederick William Herschel, 1st Baronet (; 7 March 1792 – 11 May 1871) was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did botanical work.
 Herschel originated the use of the Julian day system in astronomy. He named seven moons of Saturn and four moons of Uranus – the seventh planet, discovered by</description>
