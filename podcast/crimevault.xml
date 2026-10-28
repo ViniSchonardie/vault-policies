@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed His Parents. Then Became Europe's Most Wanted.</title>
+      <description>Roberto Succo (3 April 1962 – 23 May 1988) was an Italian serial killer who committed several murders and other violent crimes mostly in Italy and France in the 1980s.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/roberto-succo-20261028.mp3" type="audio/mpeg" length="1178880"/>
+      <guid isPermaLink="false">crime-roberto-succo-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 01:12:42 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned 15 People. They Called Her An Angel.</title>
       <description>Gesina Margarethe Gottfried, better known as Gesche Gottfried, was a German serial killer who murdered 15 people by arsenic poisoning in Bremen and Hanover between 1813 and 1827. She was the final person to be publicly executed in the city of Bremen.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/gesche-gottfried-20261027.mp3" type="audio/mpeg" length="941184"/>
