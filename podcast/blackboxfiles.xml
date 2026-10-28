@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest 1248. 1 Dead. They Ignored Every Warning.</title>
+      <description>Southwest Airlines Flight 1248 was a scheduled passenger flight from Baltimore, Maryland, to Chicago, Illinois, continuing on to Salt Lake City, Utah, and then to Las Vegas, Nevada. On December 8, 2005, the Boeing 737-7H4 operating the flight slid off the runway at Midway International Airport in Chicago while landing in a snowstorm and crashed into automobile traffic, killing a six-year-old boy.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1248-20261028.mp3" type="audio/mpeg" length="1122048"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1248-20261028</guid>
+      <pubDate>Wed, 28 Oct 2026 01:33:16 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>73 Dead. Pilots Never Said Emergency. ATC Ignored Fuel Crisis.</title>
       <description>Avianca Flight 052 was a regularly scheduled flight from Bogotá, Colombia, to New York City, United States, via Medellín, Colombia, that crashed on January 25, 1990, at 21:34 (UTC−05:00). The Boeing 707 flying this route ran out of fuel after a failed attempt to land at John F. Kennedy International Airport (JFK), causing the aircraft to crash onto a hillside in the small village of Cove Neck, New</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/avianca-flight-052-20261027.mp3" type="audio/mpeg" length="1307520"/>
