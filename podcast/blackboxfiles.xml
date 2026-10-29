@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>72 Dead. Ignored Weather. DC-9 Crashed on Highway.</title>
+      <description>Southern Airways Flight 242 was a scheduled flight from  Muscle Shoals, Alabama, to Atlanta, Georgia, with a stop in Huntsville, Alabama. On April 4, 1977, the Douglas DC-9-31 executed a forced landing on Georgia State Route 381 in New Hope, Paulding County, Georgia, United States, after suffering hail damage and losing thrust on both engines in a severe thunderstorm.
+At the time of the accident, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southern-airways-flight-242-20261029.mp3" type="audio/mpeg" length="1230336"/>
+      <guid isPermaLink="false">aviation-southern-airways-flight-242-20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 14:34:52 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Med Jets Flight 056. 8 Dead. Cockpit Recorder Never Worked.</title>
       <description>Med Jets Flight 056 was a medevac flight from Northeast Philadelphia Airport to Tijuana International Airport with a planned refueling stop at Springfield–Branson National Airport, operated by Jet Rescue Air Ambulance. On January 31, 2025, a Learjet 55 operating that flight crashed in the Castor Gardens neighborhood of Philadelphia, Pennsylvania, shortly after takeoff, killing everyone on board an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/med-jets-flight-056-20261029.mp3" type="audio/mpeg" length="1233024"/>
