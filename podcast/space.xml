@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Escaped East Germany to Reach Space</title>
+      <description>Ulf Dietrich Merbold (German: [ʊlf ˈdiːtrɪç ˈmɛrbɔlt]; born 20 June 1941) is a German physicist and astronaut who flew to space three times, becoming the first West German citizen in space and the first non-American to fly on a NASA spacecraft. Merbold flew on two Space Shuttle missions and on a Russian mission to the space station Mir, spending a total of 49 days in space.
+Merbold's father, a Weh</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ulf-merbold-20261029.mp3" type="audio/mpeg" length="1308288"/>
+      <guid isPermaLink="false">space-ulf-merbold-20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 01:31:16 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Spent 188 Days in Space — NASA Wasn't Ready</title>
       <description>Shannon Matilda Wells Lucid (née Wells; born January 14, 1943) is an American biochemist and retired NASA astronaut. She has flown in space five times, including a prolonged mission aboard the Russian space station Mir in 1996, and is the only American woman to have stayed on Mir. From 1996 to 2007, Lucid held the record for the longest duration spent in space by an American and by a woman. She wa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shannon-lucid-20261028.mp3" type="audio/mpeg" length="1062144"/>
