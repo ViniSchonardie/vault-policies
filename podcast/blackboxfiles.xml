@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Med Jets Flight 056. 8 Dead. Cockpit Recorder Never Worked.</title>
+      <description>Med Jets Flight 056 was a medevac flight from Northeast Philadelphia Airport to Tijuana International Airport with a planned refueling stop at Springfield–Branson National Airport, operated by Jet Rescue Air Ambulance. On January 31, 2025, a Learjet 55 operating that flight crashed in the Castor Gardens neighborhood of Philadelphia, Pennsylvania, shortly after takeoff, killing everyone on board an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/med-jets-flight-056-20261029.mp3" type="audio/mpeg" length="1233024"/>
+      <guid isPermaLink="false">aviation-med-jets-flight-056-20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 01:33:23 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SilkAir 185. 104 Dead. The Verdict They Hid.</title>
       <description>SilkAir Flight 185 was a scheduled international passenger flight operated by a Boeing 737-300 from Soekarno–Hatta International Airport in Jakarta, Indonesia to Changi Airport in Singapore that crashed into the Musi River near Palembang, Sumatra, on 19 December 1997, killing all 97 passengers and 7 crew members on board.
 The investigation into the cause of the crash was led by investigators from </description>
