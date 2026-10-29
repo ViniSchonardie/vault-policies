@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pope's Inquisitors Burned 200 Innocents. Then He Murdered Them.</title>
+      <description>The German Inquisition was established by Pope Gregory IX in 1231, and the first inquisitor was appointed in the territory of Germany. In the second half of the 14th century, permanent structures of the Inquisition were organized in Germany, which, with the exception of one tribunal, survived only until the time of the Reformation in the first half of the 16th century. In combating heretics in Ger</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/german-inquisition-20261029.mp3" type="audio/mpeg" length="1211520"/>
+      <guid isPermaLink="false">trials-german-inquisition-20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 01:49:20 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2,183 Death Row Inmates. Most Never Get Executed.</title>
       <description>Death row, also known as condemned row, is a place in a prison that houses inmates awaiting execution after being convicted of a capital crime and sentenced to death. The term is also used figuratively to describe the state of awaiting execution ("being on death row"), even in places where no special facility or separate unit for condemned inmates exists. In the United States, after an individual </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/death-row-20261028.mp3" type="audio/mpeg" length="1232256"/>
