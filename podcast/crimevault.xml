@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pangaman: 16 Women. One Machete. Apartheid's Darkest Secret.</title>
+      <description>Elias Xitavhudzi was a South African serial killer who murdered 16 women in Atteridgeville, South Africa, in the 1950s. Xitavhudzi targeted only whites in the then-strictly segregated community. His killing spree caused a local sensation during the peak years of South Africa's apartheid regime. Prior to his capture, he acquired the nickname "Pangaman".</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/elias-xitavhudzi-20261029.mp3" type="audio/mpeg" length="997248"/>
+      <guid isPermaLink="false">crime-elias-xitavhudzi-20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 13:18:32 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed 9 in 1995. Police Found His Hit List.</title>
       <description>Vladimir Anatolyevich Mukhankin (Russian: Владимир Анатольевич Муханкин, born 22 April 1960) is a Russian serial killer, convicted for the murder of 9 people in Rostov Oblast in 1995.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/vladimir-mukhankin-20261029.mp3" type="audio/mpeg" length="1072896"/>
