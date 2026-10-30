@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Survived Two Missions. He's the Only One Left Alive.</title>
+      <description>Jack Robert Lousma (born February 29, 1936) is an American astronaut, aeronautical engineer, retired United States Marine Corps officer, former naval aviator, NASA astronaut, and politician. He was a member of the second crew, Skylab-3, on the Skylab space station in 1973. In 1982, he commanded STS-3, the third Space Shuttle mission. Lousma was inducted into the United States Astronaut Hall of Fam</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/jack-r-lousma-20261030.mp3" type="audio/mpeg" length="1338624"/>
+      <guid isPermaLink="false">space-jack-r-lousma-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 13:32:24 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Spacecraft Is Flying With No Fuel at All</title>
       <description>IKAROS (Interplanetary Kite-craft Accelerated by Radiation Of the Sun) is a Japan Aerospace Exploration Agency (JAXA) experimental spacecraft. The spacecraft was launched on 20 May 2010, aboard an H-IIA rocket, together with the Akatsuki (Venus Climate Orbiter) probe and four other small spacecraft. IKAROS is the first spacecraft to successfully demonstrate solar sail technology in interplanetary </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ikaros-20261030.mp3" type="audio/mpeg" length="1335168"/>
