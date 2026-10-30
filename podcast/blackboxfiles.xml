@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>309 Survived. Crew Ignored Every Warning Sign.</title>
+      <description>Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada. On the afternoon of 2 August 2005, while landing at Pearson airport, the Airbus A340 operating the route overran the runway and crashed into nearby Etobicoke Creek, approximately 300 m (1,000 ft) beyond the end of the run</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-358-20261030.mp3" type="audio/mpeg" length="1221504"/>
+      <guid isPermaLink="false">aviation-air-france-flight-358-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 14:33:52 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Adam Air 574. 102 Dead. Pilots Ignored Every Warning</title>
       <description>Adam Air Flight 574 was a scheduled domestic passenger flight operated by an Adam Air Boeing 737-400 between the Indonesian cities of Jakarta, Surabaya, and Manado that crashed into the Makassar Strait near Polewali in Sulawesi on 1 January 2007. All 102 people on board were killed, making it the deadliest aviation accident involving a 737-400. After this, Adam Air faced intense scrutiny by the In</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/adam-air-flight-574-20261030.mp3" type="audio/mpeg" length="1709184"/>
