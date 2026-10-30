@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2 Dead. Fatigued Pilot. FedEx Ignored the Warning Signs.</title>
+      <description>FedEx Express Flight 80 was a scheduled cargo flight from Guangzhou Baiyun International Airport, China,  to Narita International Airport, Japan, operated by FedEx Express. At 06:48 JST (UTC+09:00) on 23 March 2009, the McDonnell Douglas MD-11 registered N526FE operating the flight crashed while attempting a landing on Runway 34L in gusty and highly variable weather conditions, including winds in </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/fedex-express-flight-80-20261030.mp3" type="audio/mpeg" length="1069824"/>
+      <guid isPermaLink="false">aviation-fedex-express-flight-80-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 18:32:34 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>309 Survived. Crew Ignored Every Warning Sign.</title>
       <description>Air France Flight 358 was a regularly scheduled international flight from Charles de Gaulle Airport in Paris, France, to Toronto Pearson International Airport in Ontario, Canada. On the afternoon of 2 August 2005, while landing at Pearson airport, the Airbus A340 operating the route overran the runway and crashed into nearby Etobicoke Creek, approximately 300 m (1,000 ft) beyond the end of the run</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-358-20261030.mp3" type="audio/mpeg" length="1221504"/>
