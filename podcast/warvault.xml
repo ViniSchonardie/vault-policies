@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Napoleon's Last Victory. His Enemy Walked Away.</title>
+      <description>The Battle of Ligny, in which French troops of the Armée du Nord under the command of Napoleon I defeated part of a Prussian army under Field Marshal Blücher, was fought on 16 June 1815 near Ligny in what is now Belgium. The result was a tactical victory for the French, but the bulk of the Prussian army survived the battle in good order, was reinforced by Prussian troops who had not fought at Lign</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-ligny-20261030.mp3" type="audio/mpeg" length="1186176"/>
+      <guid isPermaLink="false">warvault-battle-of-ligny-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 13:55:46 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>40,000 Soldiers Stormed the City. 20,000 Never Left.</title>
       <description>The Sack of Magdeburg, also called Magdeburg's Wedding (German: Magdeburger Hochzeit) or Magdeburg's Sacrifice (Magdeburgs Opfergang), was the destruction of the Protestant city of Magdeburg on 20-24 May 1631 by the Imperial Army and the forces of the Catholic League, resulting in the deaths of around 20,000, including both defenders and civilians. This event is considered the worst massacre of th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sack-of-magdeburg-20261030.mp3" type="audio/mpeg" length="1331712"/>
