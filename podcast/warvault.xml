@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>40,000 Soldiers Stormed the City. 20,000 Never Left.</title>
+      <description>The Sack of Magdeburg, also called Magdeburg's Wedding (German: Magdeburger Hochzeit) or Magdeburg's Sacrifice (Magdeburgs Opfergang), was the destruction of the Protestant city of Magdeburg on 20-24 May 1631 by the Imperial Army and the forces of the Catholic League, resulting in the deaths of around 20,000, including both defenders and civilians. This event is considered the worst massacre of th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/sack-of-magdeburg-20261030.mp3" type="audio/mpeg" length="1331712"/>
+      <guid isPermaLink="false">warvault-sack-of-magdeburg-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 01:53:17 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cradock Sailed Into a Trap. His Squadron Never Left.</title>
       <description>The Battle of Coronel was a First World War naval battle that led to an Imperial German Navy victory over the Royal Navy on 1 November 1914, off the coast of central Chile near the city of Coronel. The East Asia Squadron (German: Ostasiengeschwader or Kreuzergeschwader) of the Imperial German Navy (Kaiserliche Marine) led by Vice-Admiral Graf Maximilian von Spee met and overpowered a British squad</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-coronel-20261029.mp3" type="audio/mpeg" length="1260672"/>
