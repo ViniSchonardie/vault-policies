@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Is Flying With No Fuel at All</title>
+      <description>IKAROS (Interplanetary Kite-craft Accelerated by Radiation Of the Sun) is a Japan Aerospace Exploration Agency (JAXA) experimental spacecraft. The spacecraft was launched on 20 May 2010, aboard an H-IIA rocket, together with the Akatsuki (Venus Climate Orbiter) probe and four other small spacecraft. IKAROS is the first spacecraft to successfully demonstrate solar sail technology in interplanetary </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ikaros-20261030.mp3" type="audio/mpeg" length="1335168"/>
+      <guid isPermaLink="false">space-ikaros-20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 01:29:35 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Telescope Cost $1.5B. Its First Images Were Useless.</title>
       <description>STS-31 was the 35th mission of NASA's Space Shuttle program and the tenth flight of the Space Shuttle Discovery.  The primary purpose of this mission was the deployment of the Hubble Space Telescope (HST) into low Earth orbit. Discovery lifted off from Launch Complex 39B on April 24, 1990, from Kennedy Space Center, Florida.
 Following the Challenger accident clarification was required on mission n</description>
