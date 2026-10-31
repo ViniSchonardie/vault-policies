@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Was Alone in Space for 21 Hours</title>
+      <description>Shenzhou 5 (Chinese: 神舟五号; pinyin: Shénzhōu Wǔ Hào, see § Etymology) was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-5-20261031.mp3" type="audio/mpeg" length="1078656"/>
+      <guid isPermaLink="false">space-shenzhou-5-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 01:28:09 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Spacecraft Carried 3 Men With No Spacesuits</title>
       <description>Voskhod 1 (Russian: Восход-1, lit. 'Sunrise-1') was the seventh crewed Soviet space flight. Flown by cosmonauts Vladimir Komarov, Konstantin Feoktistov, and Boris Yegorov, it launched 12 October 1964, and returned on the 13th. Voskhod 1 was the first human spaceflight to carry more than one crewman into orbit, the first flight without the use of spacesuits, and the first to carry either an enginee</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/voskhod-1-20261030.mp3" type="audio/mpeg" length="1320576"/>
