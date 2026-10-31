@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Shuttle Nearly Died at Liftoff (Engine Failure Science)</title>
+      <description>STS-93 in 1999 marked the 95th launch of the Space Shuttle, the 26th launch of Columbia, and the 21st night launch of a Space Shuttle. Eileen Collins became the first female shuttle Commander on this flight. Its primary mission was to launch the Chandra X-ray Observatory, the heaviest payload ever carried by the Space Shuttle system, at 22,780 kilograms (50,222 lb).
+STS-93 would be Columbia's last</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-93-20261031.mp3" type="audio/mpeg" length="1273344"/>
+      <guid isPermaLink="false">space-sts-93-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 13:31:07 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Was Alone in Space for 21 Hours</title>
       <description>Shenzhou 5 (Chinese: 神舟五号; pinyin: Shénzhōu Wǔ Hào, see § Etymology) was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/shenzhou-5-20261031.mp3" type="audio/mpeg" length="1078656"/>
