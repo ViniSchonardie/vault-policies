@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>KAL 858. 115 Dead. North Korea's Order Never Denied.</title>
+      <description>Korean Air Flight 858 was a scheduled international passenger flight between Baghdad, Iraq, and Seoul, South Korea. On 29 November 1987, the Boeing 707 flying the route exploded in mid-air upon the detonation of a bomb planted inside an overhead storage bin in the airplane's passenger cabin by two North Korean agents.
+The agents, acting upon orders from the North Korean government, planted the dev</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-858-20261031.mp3" type="audio/mpeg" length="1195776"/>
+      <guid isPermaLink="false">aviation-korean-air-flight-858-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 01:32:31 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2 Dead. Fatigued Pilot. FedEx Ignored the Warning Signs.</title>
       <description>FedEx Express Flight 80 was a scheduled cargo flight from Guangzhou Baiyun International Airport, China,  to Narita International Airport, Japan, operated by FedEx Express. At 06:48 JST (UTC+09:00) on 23 March 2009, the McDonnell Douglas MD-11 registered N526FE operating the flight crashed while attempting a landing on Runway 34L in gusty and highly variable weather conditions, including winds in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/fedex-express-flight-80-20261030.mp3" type="audio/mpeg" length="1069824"/>
