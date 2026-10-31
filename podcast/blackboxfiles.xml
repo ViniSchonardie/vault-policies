@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2 Dead. They Joined The Forbidden 410 Club.</title>
+      <description>On October 14, 2004, Pinnacle Airlines Flight 3701, a Bombardier CRJ200 on a repositioning flight from Little Rock to Minneapolis, crashed while attempting an emergency approach to Jefferson City Memorial Airport in Missouri, United States. Both pilots, the only two people on board, were killed. The aircraft was originally scheduled to fly a passenger flight from Little Rock to Minneapolis earlier</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pinnacle-airlines-flight-3701-20261031.mp3" type="audio/mpeg" length="1290240"/>
+      <guid isPermaLink="false">aviation-pinnacle-airlines-flight-3701-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 18:31:55 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>B-52 Crash. 1 Dead. Four Nuclear Bombs Lost in Arctic</title>
       <description>On 21 January 1968, an aircraft accident, sometimes known as the Thule affair or Thule accident (; Danish: Thuleulykken), involving a United States Air Force (USAF) B-52 bomber occurred near Thule Air Base in the Danish territory of Greenland. The aircraft was carrying four B28FI thermonuclear bombs on a Cold War "Chrome Dome" alert mission over Baffin Bay when a cabin fire forced the crew to aban</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1968-thule-air-base-b-52-crash-20261031.mp3" type="audio/mpeg" length="1230336"/>
