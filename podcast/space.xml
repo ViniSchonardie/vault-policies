@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Crashed Into the Moon at 5,600 MPH</title>
+      <description>The Lunar Crater Observation and Sensing Satellite (LCROSS) was a robotic spacecraft operated by NASA. The mission was conceived as a low-cost means of determining the nature of hydrogen detected at the polar regions of the Moon. Launched immediately after discovery of lunar water by Chandrayaan-1, the main LCROSS mission objective was to further explore the presence of water in the form of ice in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/lcross-20261031.mp3" type="audio/mpeg" length="1118208"/>
+      <guid isPermaLink="false">space-lcross-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 17:27:27 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Shuttle Nearly Died at Liftoff (Engine Failure Science)</title>
       <description>STS-93 in 1999 marked the 95th launch of the Space Shuttle, the 26th launch of Columbia, and the 21st night launch of a Space Shuttle. Eileen Collins became the first female shuttle Commander on this flight. Its primary mission was to launch the Chandra X-ray Observatory, the heaviest payload ever carried by the Space Shuttle system, at 22,780 kilograms (50,222 lb).
 STS-93 would be Columbia's last</description>
