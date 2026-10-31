@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Al-Kindi: The Philosopher Everyone Forgot</title>
+      <description>Abū Yūsuf Yaʻqūb ibn ʼIsḥāq aṣ-Ṣabbāḥ al-Kindī (; Arabic: أبو يوسف يعقوب بن إسحاق الصبّاح الكندي; Latin: Alkindus; c. 801–873 AD) was a Mesopotamian Arab polymath who was active as a philosopher, mathematician, physician, and music theorist. Al-Kindi was the first of the Islamic peripatetic philosophers, and is hailed as the "father of Arab philosophy".
+Al-Kindi was born in Kufa and educated in Ba</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/al-kindi-20261031.mp3" type="audio/mpeg" length="1183104"/>
+      <guid isPermaLink="false">realstory-al-kindi-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 14:49:08 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Schelling: The Philosopher Hegel Deliberately Erased</title>
       <description>Friedrich Wilhelm Joseph Schelling (German: [ˈfʁiːdʁɪç ˈvɪlhɛlm ˈjoːzɛf ˈʃɛlɪŋ]; 27 January 1775 – 20 August 1854) was a German philosopher. Standard histories of philosophy make him the midpoint in the development of German idealism, situating him between Johann Gottlieb Fichte, his mentor in his early years, and Georg Wilhelm Friedrich Hegel, his one-time university roommate, early friend, and l</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/friedrich-wilhelm-joseph-schelling-20261031.mp3" type="audio/mpeg" length="1267968"/>
