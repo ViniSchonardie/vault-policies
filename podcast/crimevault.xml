@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Three Boys. Same Forest. East Germany's Last Execution.</title>
+      <description>Hans Erwin Hagedorn (30 January 1952 – 15 September 1972) was an East German serial killer who murdered three young boys between 1969 and 1971.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/erwin-hagedorn-20261031.mp3" type="audio/mpeg" length="1302528"/>
+      <guid isPermaLink="false">crime-erwin-hagedorn-20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 18:11:06 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Posed as a Gas Worker. Four Children Dead in 11 Days.</title>
       <description>Vladimir Mihajlovich Ionesyan (27 August 1937 – 1 February 1964) was a Soviet spree killer. His nickname was "Mosgas," as Ionesyan broke into apartments pretending to be an employee of that company.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/vladimir-ionessian-20261031.mp3" type="audio/mpeg" length="1112448"/>
