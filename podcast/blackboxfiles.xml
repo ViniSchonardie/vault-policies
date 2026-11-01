@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>AA 1420. 11 Dead. They Ignored Every Warning.</title>
+      <description>American Airlines Flight 1420 was a scheduled domestic passenger flight from Dallas Fort Worth International Airport (DFW) to Little Rock National Airport in the United States. On Tuesday, June 1st, 1999, the McDonnell Douglas MD-82 operating as Flight 1420 overran the runway upon landing in Little Rock and crashed. 9 of the 145 people aboard were immediately killed—the captain and eight passenger</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-1420-20261101.mp3" type="audio/mpeg" length="1306368"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-1420-20261101</guid>
+      <pubDate>Sun, 01 Nov 2026 18:32:32 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EgyptAir 804. 66 Dead. Smoke Before Radar Loss.</title>
       <description>EgyptAir Flight 804 was a regularly scheduled international passenger flight from Paris Charles de Gaulle Airport to Cairo International Airport, operated by EgyptAir. On 19 May 2016 at 02:33 Egypt Standard Time (UTC+2), the Airbus A320 crashed into the Mediterranean Sea, killing all 66 occupants on board.
 No mayday call was received by air traffic control, although signals that smoke had been det</description>
