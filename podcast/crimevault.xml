@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Italy's First Serial Killer Buried Bodies in Plain Sight</title>
+      <description>Antonio Boggia (23 December 1799 – 8 April 1862), aka "Il Mostro di Stretta Bagnera" (The Monster of Bagnera lane) or "Il Mostro di Milano" (The Monster of Milan), is considered the first serial killer of Italy.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/antonio-boggia-20261101.mp3" type="audio/mpeg" length="1197312"/>
+      <guid isPermaLink="false">crime-antonio-boggia-20261101</guid>
+      <pubDate>Sun, 01 Nov 2026 13:15:31 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Three Boys. Same Forest. East Germany's Last Execution.</title>
       <description>Hans Erwin Hagedorn (30 January 1952 – 15 September 1972) was an East German serial killer who murdered three young boys between 1969 and 1971.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/erwin-hagedorn-20261031.mp3" type="audio/mpeg" length="1302528"/>
