@@ -17,6 +17,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Robot Landed on the Moon in Total Darkness</title>
+      <description>Luna 16 was an uncrewed 1970 space mission, part of the Soviet Luna program. It was the first robotic probe to land on the Moon and return a sample of lunar soil to Earth. The 101 grams (3.56 ounces) sample was returned from Mare Fecunditatis. It represented the first successful lunar sample return mission by the Soviet Union and was the third lunar sample return mission overall.
+
+
+== Overview ==
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/luna-16-20261101.mp3" type="audio/mpeg" length="1145472"/>
+      <guid isPermaLink="false">space-luna-16-20261101</guid>
+      <pubDate>Sun, 01 Nov 2026 17:27:13 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Satellite Tumbled Out of Control. They Saved It Anyway.</title>
       <description>STS-6 was the sixth NASA Space Shuttle mission and the maiden flight of the Space Shuttle Challenger. Launched from Kennedy Space Center on April 4, 1983, the mission deployed the first Tracking and Data Relay Satellite, TDRS-1, into orbit, before landing at Edwards Air Force Base on April 9, 1983. STS-6 was the first Space Shuttle mission during which a Extravehicular activity was conducted, and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-6-20261101.mp3" type="audio/mpeg" length="1309056"/>
