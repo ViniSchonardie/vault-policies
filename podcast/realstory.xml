@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rathenau: The Man the Nazis Killed to Start a War</title>
+      <description>Walther Rathenau (German: [ˈvaltɐ ˈʁaːtənaʊ]; 29 September 1867 – 24 June 1922) was a German industrialist, writer and politician who served as foreign minister of Germany from February 1922 until his assassination in June 1922.
+Rathenau was one of Germany's leading industrialists in the late German Empire. During World War I, he played a key role in the organisation of the German war economy and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/walther-rathenau-20261102.mp3" type="audio/mpeg" length="1237248"/>
+      <guid isPermaLink="false">realstory-walther-rathenau-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 01:47:26 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Berthier: The General Napoleon Couldn't Win Without</title>
       <description>Louis-Alexandre Berthier, prince de Neuchâtel et Valangin, prince de Wagram (French: [lwi alɛksɑ̃dʁ bɛʁtje]; 20 November 1753 – 1 June 1815) was a French military commander who served during the French Revolutionary Wars and the Napoleonic Wars. He was twice Minister of War of France and was made a Marshal of the Empire in 1804. Berthier served as chief of staff to Napoleon Bonaparte from his firs</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/luis-alejandro-berthier-20261101.mp3" type="audio/mpeg" length="1131264"/>
