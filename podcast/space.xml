@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Telescope Was Blind. Five Spacewalks Fixed It.</title>
+      <description>STS-61 was NASA's first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on December 2, 1993, from Kennedy Space Center (KSC) in Florida. The mission restored the spaceborne observatory's vision (marred by spherical aberration in its mirror) with the installation of a new main camera and a corrective optics package (COSTAR). This c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-61-20261102.mp3" type="audio/mpeg" length="1774848"/>
+      <guid isPermaLink="false">space-sts-61-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 13:31:52 GMT</pubDate>
+      <itunes:duration>111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Shuttle Caught Falling Satellites Worth Millions</title>
       <description>STS-51-A (formerly STS-19) was the 14th flight of NASA's Space Shuttle program, and the second flight of Space Shuttle Discovery. The mission launched from Kennedy Space Center on November 8, 1984, and landed just under eight days later on November 16, 1984.
 STS-51-A marked the first time a shuttle deployed two communications satellites, and retrieved from orbit two other communications satellites</description>
