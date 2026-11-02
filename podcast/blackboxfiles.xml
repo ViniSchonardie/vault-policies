@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>JAT Flight 367. 27 Dead. Bombers Never Caught.</title>
+      <description>JAT Flight 367 was a McDonnell Douglas DC-9-32 aircraft (registration YU-AHT) which exploded shortly after overflying NDB Hermsdorf (located in or around Hinterhermsdorf, in the present-day municipality of Sebnitz), Germany, while en route from Stockholm, Sweden, to Belgrade, SFR Yugoslavia, on 26 January 1972. The aircraft, piloted by Captain Ludvik Razdrih and First Officer Ratko Mihić, broke in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jat-flight-367-20261102.mp3" type="audio/mpeg" length="1126272"/>
+      <guid isPermaLink="false">aviation-jat-flight-367-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 14:33:27 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Manchester 1985. 55 Dead. Toxic Smoke They Ignored.</title>
       <description>The 1985 Manchester Airport disaster occurred when British Airtours Flight 28M (also known as Flight 328), an international passenger flight, was en route from Manchester Airport to Corfu International Airport. It caught fire on takeoff on 22 August 1985, resulting in 55 fatalities.
 The aircraft, a Boeing 737-200, named River Orrin, was flown by British Airtours, a wholly owned subsidiary of Briti</description>
