@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Confessed to 8 Murders. Then They Hanged Him Anyway.</title>
+      <description>Robert Francis Burns was an Irish Australian murderer and probable serial killer. He was hanged at Ararat Gaol in September 1883, convicted of the murder of Michael Quinlivan near Wickliffe in western Victoria. After Burns's death the hangman made a sensational claim that the prisoner had stated to him, prior to the execution, that he had murdered eight people in total, five in Victoria and three </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/robert-francis-burns-20261102.mp3" type="audio/mpeg" length="1329792"/>
+      <guid isPermaLink="false">crime-robert-francis-burns-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 18:45:15 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Poisoned Her Employers. Then Nursed Them Back.</title>
       <description>Anna Margaretha Zwanziger was a German serial killer. She used arsenic, which she referred to as "her truest friend".</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/anna-maria-zwanziger-20261102.mp3" type="audio/mpeg" length="1035648"/>
