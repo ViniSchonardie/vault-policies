@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Thai Airways 311. 113 Dead. ATC Ignored Every Warning.</title>
+      <description>Thai Airways International Flight 311 (TG311/THA311) was a scheduled flight from Bangkok, Thailand's Don Mueang International Airport to Kathmandu, Nepal's Tribhuvan International Airport. On July 31, 1992, at 07:00:26 UTC (12:45:26 NST; 14:00:26 ICT), the Airbus A310-304 operating the route crashed into the side of a mountain 37 kilometres (23 mi; 20 nmi) north of Kathmandu, killing all 113 passe</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-311-20261102.mp3" type="audio/mpeg" length="1272192"/>
+      <guid isPermaLink="false">aviation-thai-airways-international-flight-311-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 18:34:07 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>JAT Flight 367. 27 Dead. Bombers Never Caught.</title>
       <description>JAT Flight 367 was a McDonnell Douglas DC-9-32 aircraft (registration YU-AHT) which exploded shortly after overflying NDB Hermsdorf (located in or around Hinterhermsdorf, in the present-day municipality of Sebnitz), Germany, while en route from Stockholm, Sweden, to Belgrade, SFR Yugoslavia, on 26 January 1972. The aircraft, piloted by Captain Ludvik Razdrih and First Officer Ratko Mihić, broke in</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jat-flight-367-20261102.mp3" type="audio/mpeg" length="1126272"/>
