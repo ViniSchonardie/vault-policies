@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Manchester 1985. 55 Dead. Toxic Smoke They Ignored.</title>
+      <description>The 1985 Manchester Airport disaster occurred when British Airtours Flight 28M (also known as Flight 328), an international passenger flight, was en route from Manchester Airport to Corfu International Airport. It caught fire on takeoff on 22 August 1985, resulting in 55 fatalities.
+The aircraft, a Boeing 737-200, named River Orrin, was flown by British Airtours, a wholly owned subsidiary of Briti</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airtours-flight-28m-20261102.mp3" type="audio/mpeg" length="1254912"/>
+      <guid isPermaLink="false">aviation-british-airtours-flight-28m-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 01:32:12 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AA 1420. 11 Dead. They Ignored Every Warning.</title>
       <description>American Airlines Flight 1420 was a scheduled domestic passenger flight from Dallas Fort Worth International Airport (DFW) to Little Rock National Airport in the United States. On Tuesday, June 1st, 1999, the McDonnell Douglas MD-82 operating as Flight 1420 overran the runway upon landing in Little Rock and crashed. 9 of the 145 people aboard were immediately killed—the captain and eight passenger</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-1420-20261101.mp3" type="audio/mpeg" length="1306368"/>
