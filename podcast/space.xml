@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Shuttle Caught Falling Satellites Worth Millions</title>
+      <description>STS-51-A (formerly STS-19) was the 14th flight of NASA's Space Shuttle program, and the second flight of Space Shuttle Discovery. The mission launched from Kennedy Space Center on November 8, 1984, and landed just under eight days later on November 16, 1984.
+STS-51-A marked the first time a shuttle deployed two communications satellites, and retrieved from orbit two other communications satellites</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-a-20261102.mp3" type="audio/mpeg" length="1067904"/>
+      <guid isPermaLink="false">space-sts-51-a-20261102</guid>
+      <pubDate>Mon, 02 Nov 2026 01:28:09 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Robot Landed on the Moon in Total Darkness</title>
       <description>Luna 16 was an uncrewed 1970 space mission, part of the Soviet Luna program. It was the first robotic probe to land on the Moon and return a sample of lunar soil to Earth. The 101 grams (3.56 ounces) sample was returned from Mare Fecunditatis. It represented the first successful lunar sample return mission by the Soviet Union and was the third lunar sample return mission overall.
 
