@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Polar Bear. The Arctic's Perfect Predator.</title>
+      <description>The polar bear (Ursus maritimus) is a large bear native to the Arctic and nearby areas. It is closely related to the brown bear, and the two species can interbreed. The polar bear is the largest extant species of bear and land carnivore by body mass, with adult males weighing 300–800 kg (660–1,760 lb). The species is sexually dimorphic, as adult females are much smaller. The polar bear is white or</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/polar-bear-20261103.mp3" type="audio/mpeg" length="1013376"/>
+      <guid isPermaLink="false">nature-polar-bear-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 17:20:29 GMT</pubDate>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Brown Bear. 90% Vegetarian Killing Machine.</title>
       <description>The brown bear (Ursus arctos) is a large bear native to Eurasia and North America. Of the land carnivorans, it is rivaled in size only by its closest relative, the polar bear, which is much less variable in size and slightly bigger on average. The brown bear is a sexually dimorphic species, as adult males are larger and more compactly built than females. The fur ranges in color from cream to reddi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/brown-bear-20261103.mp3" type="audio/mpeg" length="1305216"/>
