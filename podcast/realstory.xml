@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Napoleon: Everyone Misunderstands His Greatest Defeat</title>
+      <description>Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 May 1821), later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East dur</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/napoleon-20261103.mp3" type="audio/mpeg" length="1667712"/>
+      <guid isPermaLink="false">realstory-napoleon-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 01:49:29 GMT</pubDate>
+      <itunes:duration>104</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dewey: The Library Genius Everyone Misunderstands</title>
       <description>Melville Louis Kossuth "Melvil" Dewey (December 10, 1851 – December 26, 1931) was an American librarian and educator who invented the Dewey Decimal system of library classification. He was a founder of the Lake Placid Club, a chief librarian at Columbia College, founder of what would later become the Columbia University School of Library Service, and a founding member of the American Library Assoc</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/melvil-dewey-20261102.mp3" type="audio/mpeg" length="1318272"/>
