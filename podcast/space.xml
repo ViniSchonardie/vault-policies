@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Was Supposed to Walk on the Moon</title>
+      <description>Fred Wallace Haise Jr. ( HAYZ; born November 14, 1933) is an American former NASA astronaut, engineer, fighter pilot with the U.S. Marine Corps and U.S. Air Force, and test pilot. He is one of the 24 Apollo astronauts to reach the Moon, having served as Lunar Module pilot on Apollo 13. He was to have been the sixth person to walk on the Moon, but the Apollo 13 landing was aborted en route. Haise f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/fred-haise-20261103.mp3" type="audio/mpeg" length="1186176"/>
+      <guid isPermaLink="false">space-fred-haise-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 01:28:30 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Walked 19 Hours Outside Earth</title>
       <description>Winston Elliott "Win" Scott (born August 6, 1950) is a retired United States Navy Captain and former NASA astronaut. He served as a mission specialist on STS-72 in 1996 and STS-87 in 1997 logged a total of 24 days, 14 hours and 34 minutes in space, including three spacewalks totaling 19 hours and 26 minutes. Often known by his nickname of "Win", he was also a Naval Aviator and initially flew helic</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/winston-e-scott-20261102.mp3" type="audio/mpeg" length="1324416"/>
