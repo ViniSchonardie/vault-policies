@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cleopatra: Everyone Gets Her Wrong</title>
+      <description>Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit. 'Cleopatra father-loving goddess'; 70/69 BC – 10 or 12 August 30 BC) was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. H</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cleopatra-20261103.mp3" type="audio/mpeg" length="1030272"/>
+      <guid isPermaLink="false">realstory-cleopatra-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 14:48:23 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Napoleon: Everyone Misunderstands His Greatest Defeat</title>
       <description>Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 May 1821), later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East dur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/napoleon-20261103.mp3" type="audio/mpeg" length="1667712"/>
