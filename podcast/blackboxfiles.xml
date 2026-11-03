@@ -17,6 +17,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lynyrd Skynyrd Crash. 6 Dead. Pilots Ignored The Fuel</title>
+      <description>On October 20, 1977, a Convair CV-240 passenger aircraft ran out of fuel and crashed in a wooded area near Gillsburg, Mississippi, United States. Chartered by the rock band Lynyrd Skynyrd from L &amp; J Company of Addison, Texas, it was flying from Greenville, South Carolina, to Baton Rouge, Louisiana, crashing near its destination.
+
+Lead vocalist and founding member Ronnie Van Zant, guitarist and voc</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1977-convair-cv-300-crash-20261103.mp3" type="audio/mpeg" length="1207680"/>
+      <guid isPermaLink="false">aviation-1977-convair-cv-300-crash-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 01:34:16 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thai Airways 311. 113 Dead. ATC Ignored Every Warning.</title>
       <description>Thai Airways International Flight 311 (TG311/THA311) was a scheduled flight from Bangkok, Thailand's Don Mueang International Airport to Kathmandu, Nepal's Tribhuvan International Airport. On July 31, 1992, at 07:00:26 UTC (12:45:26 NST; 14:00:26 ICT), the Airbus A310-304 operating the route crashed into the side of a mountain 37 kilometres (23 mi; 20 nmi) north of Kathmandu, killing all 113 passe</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/thai-airways-international-flight-311-20261102.mp3" type="audio/mpeg" length="1272192"/>
