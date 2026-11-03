@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ted Bundy Killed Dozens. He Escaped Twice From Prison.</title>
+      <description>Theodore Robert Bundy was an American serial killer who kidnapped, raped and murdered dozens of young women and girls throughout 1974, 1975, and 1978. His modus operandi typically consisted of convincing his target that he was in need of assistance or duping them into believing he was an authority figure. He would then lure his victim to his vehicle, at which point he would bludgeon them unconscio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ted-bundy-20261103.mp3" type="audio/mpeg" length="1340544"/>
+      <guid isPermaLink="false">crime-ted-bundy-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 18:11:10 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>12 Killed in 6 Days. He Told Police Beforehand.</title>
       <description>Between 24 September and 29 September 2006, twelve people were killed and five were wounded others in a series of knife attacks in Tonghua, Jilin, China. The killings are collectively referred to as the Tonghua 9·24 mass murder case.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/shi-yuejun-20261103.mp3" type="audio/mpeg" length="1055232"/>
