@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>19 Hijackers. Four Planes. One Morning Changed Everything.</title>
+      <description>The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 terrorists planned and subsequently hijacked four airliners, then flew one into each of the Twin Towers at the World Trade Center in New York City. The third plane crashed into the Pentagon, th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/september-11-attacks-20261103.mp3" type="audio/mpeg" length="1267200"/>
+      <guid isPermaLink="false">warvault-september-11-attacks-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 13:53:41 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Supreme Leader Assassinated. Iran's War Began.</title>
       <description>Since 28 February 2026, the United States and Israel have been at war with Iran and its regional allies. The war follows the Twelve-Day War in June 2025 and sporadic fighting during the Middle Eastern crisis sparked by the Gaza war (2023–present). Amid ongoing US–Iran negotiations regarding Iran's nuclear program, the war began when the US and Israel conducted hundreds of air strikes on targets ac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/2026-iran-war-20261103.mp3" type="audio/mpeg" length="1242240"/>
