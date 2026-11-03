@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Washington: Everyone Misunderstands His First Battle</title>
+      <description>George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/george-washington-20261103.mp3" type="audio/mpeg" length="1309056"/>
+      <guid isPermaLink="false">realstory-george-washington-20261103</guid>
+      <pubDate>Tue, 03 Nov 2026 18:48:52 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cleopatra: Everyone Gets Her Wrong</title>
       <description>Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit. 'Cleopatra father-loving goddess'; 70/69 BC – 10 or 12 August 30 BC) was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. H</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/cleopatra-20261103.mp3" type="audio/mpeg" length="1030272"/>
