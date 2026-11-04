@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Challenger. 7 Dead. NASA Ignored Every Warning.</title>
+      <description>On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC (11:39:13 a.m. EST, local time at the launch site). It was the first fatal accident involving an American spacecraft while in flight.
+The missi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/space-shuttle-challenger-disaster-20261104.mp3" type="audio/mpeg" length="1225728"/>
+      <guid isPermaLink="false">aviation-space-shuttle-challenger-disaster-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 01:33:22 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MH370. 239 Dead. The Airline Ignored Every Warning.</title>
       <description>Malaysia Airlines Flight 370 (MH370 / MAS370) was an international passenger flight operated by Malaysia Airlines that disappeared from radar on 8 March 2014 while flying from Kuala Lumpur International Airport in Malaysia to its planned destination, Beijing Capital International Airport in China, killing 239 passengers and crew members. The cause of its disappearance has not been determined. It i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-370-20261103.mp3" type="audio/mpeg" length="1333632"/>
