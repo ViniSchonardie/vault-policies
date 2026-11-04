@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Killed 17 People. Police Almost Missed Him.</title>
+      <description>Jeffrey Lionel Dahmer, also known as the Milwaukee Cannibal or the Milwaukee Monster, was an American serial killer and sex offender who killed and dismembered seventeen men and boys between 1978 and 1991.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jeffrey-dahmer-20261104.mp3" type="audio/mpeg" length="1307520"/>
+      <guid isPermaLink="false">crime-jeffrey-dahmer-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 01:10:41 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ted Bundy Killed Dozens. He Escaped Twice From Prison.</title>
       <description>Theodore Robert Bundy was an American serial killer who kidnapped, raped and murdered dozens of young women and girls throughout 1974, 1975, and 1978. His modus operandi typically consisted of convincing his target that he was in need of assistance or duping them into believing he was an authority figure. He would then lure his victim to his vehicle, at which point he would bludgeon them unconscio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ted-bundy-20261103.mp3" type="audio/mpeg" length="1340544"/>
