@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10,000 Miles Away. Britain Won in 74 Days.</title>
+      <description>The Falklands War (Spanish: Guerra de las Malvinas) was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/falklands-war-20261104.mp3" type="audio/mpeg" length="1196544"/>
+      <guid isPermaLink="false">warvault-falklands-war-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 17:53:41 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Lost Every Battle. Then He Won the War.</title>
       <description>George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/george-washington-20261104.mp3" type="audio/mpeg" length="1154304"/>
