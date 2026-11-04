@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Lost Every Battle. Then He Won the War.</title>
+      <description>George Washington (February 22, 1732 [O.S. February 11, 1731] – December 14, 1799) was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/george-washington-20261104.mp3" type="audio/mpeg" length="1154304"/>
+      <guid isPermaLink="false">warvault-george-washington-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 13:54:35 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Paris Stole a Queen. 10,000 Greeks Sailed to Kill Him.</title>
       <description>The Trojan War was a legendary conflict in Greek mythology that took place around the thirteenth or early twelfth century BC. The war was waged by the Achaeans (Greeks) against the city of Troy after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology, and it has been narrated through many works of Greek literature, mos</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/trojan-war-20261104.mp3" type="audio/mpeg" length="1064832"/>
