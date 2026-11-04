@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Einstein: Everyone Gets His Greatest Breakthrough Wrong</title>
+      <description>Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the known theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for "his serv</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/albert-einstein-20261104.mp3" type="audio/mpeg" length="1276416"/>
+      <guid isPermaLink="false">realstory-albert-einstein-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 14:49:10 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Napoleon: Everyone Gets His Greatest Victory Wrong</title>
       <description>Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 May 1821), later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East dur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/napoleon-20261104.mp3" type="audio/mpeg" length="1239552"/>
