@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>600 Million Watched This Man Step on the Moon</title>
+      <description>Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. The mission was crewed by Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin "Buzz" Aldrin, all of whom were on their second and final spaceflight.
+Launched atop a Saturn V rocket from Kennedy Space Center i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-11-20261104.mp3" type="audio/mpeg" length="1256832"/>
+      <guid isPermaLink="false">space-apollo-11-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 17:28:35 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Lab Orbits Earth Every 93 Minutes (It Never Stops)</title>
       <description>The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA (United States), Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human space</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/international-space-station-20261104.mp3" type="audio/mpeg" length="1004544"/>
