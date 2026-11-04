@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lincoln: Everyone Misunderstands His Greatest Moment</title>
+      <description>Abraham Lincoln (February 12, 1809 – April 15, 1865) was the 16th president of the United States, from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.
+Born in a one-room log cabin in Kentucky, Lincoln was raised on the frontier. He was self-educated and became a lawyer, Il</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/abraham-lincoln-20261104.mp3" type="audio/mpeg" length="1095168"/>
+      <guid isPermaLink="false">realstory-abraham-lincoln-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 18:47:07 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Einstein: Everyone Gets His Greatest Breakthrough Wrong</title>
       <description>Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the known theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for "his serv</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/albert-einstein-20261104.mp3" type="audio/mpeg" length="1276416"/>
