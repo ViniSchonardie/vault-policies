@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Orangutan. 19 Million Years Alone.</title>
+      <description>Orangutans are great apes native to the rainforests of Indonesia and Malaysia. They are now found only in parts of Borneo and Sumatra, but during the Pleistocene they ranged throughout Southeast Asia and South China. Classified in the genus Pongo, orangutans were originally considered to be one species. In 1996, they were divided into two species: the Bornean orangutan (P. pygmaeus, with three sub</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/orangutan-20261104.mp3" type="audio/mpeg" length="1096320"/>
+      <guid isPermaLink="false">nature-orangutan-20261104</guid>
+      <pubDate>Wed, 04 Nov 2026 17:19:35 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sperm Whale. Deepest Diver. Loudest Animal on Earth.</title>
       <description>The sperm whale or cachalot (Physeter macrocephalus) is the largest of the toothed whales and the largest toothed predator. It is the only living member of the genus Physeter and one of three extant species in the sperm whale superfamily Physeteroidea, along with the pygmy sperm whale and dwarf sperm whale of the genus Kogia.
 The sperm whale is a pelagic mammal with a worldwide range, and will mig</description>
