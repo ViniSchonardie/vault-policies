@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Unabomber: Math Genius Killed 3. FBI's 18-Year Hunt.</title>
+      <description>Theodore John Kaczynski (  kə-ZIN-skee; May 22, 1942 – June 10, 2023), also known as the Unabomber (  YOO-nə-bom-ər), was an American mathematician and domestic terrorist. A mathematics prodigy, he abandoned his academic career in 1969 to pursue a reclusive primitive lifestyle and lone wolf terrorism campaign.
+Kaczynski murdered 3 people and injured 23 others between 1978 and 1995 in a nationwide </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ted-kaczynski-20261105.mp3" type="audio/mpeg" length="1104384"/>
+      <guid isPermaLink="false">crime-ted-kaczynski-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 13:17:09 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Killer Clown: 33 Bodies. His Own Backyard.</title>
       <description>John Wayne Gacy was an American serial killer and sex offender who raped, tortured and murdered at least thirty-three young men and boys between 1972 and 1978 in Norwood Park Township, a suburb of Chicago, Illinois. He became known as the "Killer Clown" due to his public performances as a clown prior to the discovery of his crimes.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/john-wayne-gacy-20261105.mp3" type="audio/mpeg" length="1243776"/>
