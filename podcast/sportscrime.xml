@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Las Vegas: From Desert Springs to Sin City</title>
+      <description>Las Vegas, colloquially shortened to Vegas, is the most populous city in the U.S. state of Nevada and the county seat of Clark County. It is the 24th-most populous city in the United States, with 641,903 residents at the 2020 census. The Las Vegas metropolitan area has an estimated 2.4 million residents and is the 29th-largest metropolitan area in the country. Las Vegas is an internationally renow</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/las-vegas-20261105.mp3" type="audio/mpeg" length="1356672"/>
+      <guid isPermaLink="false">sportscrime-las-vegas-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 15:58:55 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Suicide: The Silent Crisis Killing Millions</title>
       <description>Suicide is the act of intentionally causing one's own death. Risk factors for suicide include mental disorders, neurodevelopmental disorders, physical disorders, and substance abuse. Some suicides are impulsive acts driven by stress (such as from financial or academic difficulties), relationship problems (such as breakups or divorces), or harassment and bullying. Those who have previously attempte</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/suicide-20261105.mp3" type="audio/mpeg" length="1269120"/>
