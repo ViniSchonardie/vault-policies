@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Archaea: The Ancient Life Form Inside You</title>
+      <description>Archaea (  ar-KEE-ə) is a domain of organisms. Traditionally, Archaea included only its prokaryotic members, but has since been found to be paraphyletic, as eukaryotes are known to have evolved from archaea. Even though the domain Archaea cladistically includes eukaryotes, the term archaea (sing. archaeon  ar-KEE-on; from Ancient Greek  ἀρχαῖον arkhaîon 'ancient') in English still generally refers</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/archaea-20261105.mp3" type="audio/mpeg" length="1173888"/>
+      <guid isPermaLink="false">nature-archaea-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 12:27:49 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dragonfly. 24,000 Eyes See Everything.</title>
       <description>A dragonfly is a flying insect belonging to the suborder Anisoptera of the order Odonata. About 3,000 living species of dragonflies are known. Most are tropical, with fewer species in temperate regions. Loss of wetland habitat threatens dragonfly populations around the world. Adult dragonflies are characterised by a pair of large, multifaceted, compound eyes, two pairs of strong, transparent wings</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dragonfly-20261105.mp3" type="audio/mpeg" length="1333248"/>
