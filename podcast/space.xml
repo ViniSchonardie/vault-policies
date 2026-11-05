@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Man Took One Step and Changed Humanity Forever</title>
+      <description>Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon. He was also a naval aviator, test pilot and university professor.
+Armstrong was born and raised near Wapakoneta, Ohio. He entered Purdue University, studying aeronautical engineering, with the U</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/neil-armstrong-20261105.mp3" type="audio/mpeg" length="1135872"/>
+      <guid isPermaLink="false">space-neil-armstrong-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 13:28:58 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>NASA Is Testing Moon Landers in Earth Orbit (2027)</title>
       <description>Artemis III is an upcoming crewed spaceflight mission of the NASA-led Artemis program. Planned for 2027, the mission is designed as a crewed demonstration flight in low Earth orbit rather than a lunar landing. Four astronauts will launch aboard the Orion spacecraft on the Space Launch System (SLS) rocket from Kennedy Space Center in Florida.
 The mission will test rendezvous and docking operations </description>
