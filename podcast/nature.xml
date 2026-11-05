@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Dragonfly. 24,000 Eyes See Everything.</title>
+      <description>A dragonfly is a flying insect belonging to the suborder Anisoptera of the order Odonata. About 3,000 living species of dragonflies are known. Most are tropical, with fewer species in temperate regions. Loss of wetland habitat threatens dragonfly populations around the world. Adult dragonflies are characterised by a pair of large, multifaceted, compound eyes, two pairs of strong, transparent wings</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/dragonfly-20261105.mp3" type="audio/mpeg" length="1333248"/>
+      <guid isPermaLink="false">nature-dragonfly-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 01:23:09 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Orangutan. 19 Million Years Alone.</title>
       <description>Orangutans are great apes native to the rainforests of Indonesia and Malaysia. They are now found only in parts of Borneo and Sumatra, but during the Pleistocene they ranged throughout Southeast Asia and South China. Classified in the genus Pongo, orangutans were originally considered to be one species. In 1996, they were divided into two species: the Bornean orangutan (P. pygmaeus, with three sub</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/orangutan-20261104.mp3" type="audio/mpeg" length="1096320"/>
