@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Genghis Khan: Everyone Misunderstands His Rise to Power</title>
+      <description>Genghis Khan (born Temüjin; c. 1162 – August 1227), also known as Chinggis Khan, was the founder and first khan of the Mongol Empire. After spending most of his life uniting the Mongol tribes, he launched a series of military campaigns, conquering large parts of China and Central Asia.
+Genghis Khan was born Temüjin between 1155 and 1167 as the eldest child of Yesugei, a Mongol chieftain of the Bor</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/genghis-khan-20261105.mp3" type="audio/mpeg" length="1128192"/>
+      <guid isPermaLink="false">realstory-genghis-khan-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 18:47:28 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alexander the Great: Everyone Misunderstands His Final Victory</title>
       <description>Alexander III of Macedon (Ancient Greek: Ἀλέξανδρος, romanized: Aléxandros; 20/21 July 356 BC – 10/11 June 323 BC), most commonly known as Alexander the Great, was king of the ancient Greek kingdom of Macedon from 336 BC until his death. He was the son of Philip II, born to him by his fourth wife, Olympias, and ascended to the throne at the age of 20 after Philip was assassinated. Alexander spent </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/alexander-the-great-20261105.mp3" type="audio/mpeg" length="1066368"/>
