@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>General Eisenhower Commanded Millions. Then He Warned America</title>
+      <description>Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 – March 28, 1969), also known as Ike, was the 34th president of the United States from 1953 to 1961. In his previous military career, he led the Allied Expeditionary Force during the Second World War, launched decisive campaigns in North Africa and Normandy and became a General of the Army.
+Eisenhower graduated from West Point</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/dwight-d-eisenhower-20261105.mp3" type="audio/mpeg" length="1178496"/>
+      <guid isPermaLink="false">warvault-dwight-d-eisenhower-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 01:53:14 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10,000 Miles Away. Britain Won in 74 Days.</title>
       <description>The Falklands War (Spanish: Guerra de las Malvinas) was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/falklands-war-20261104.mp3" type="audio/mpeg" length="1196544"/>
