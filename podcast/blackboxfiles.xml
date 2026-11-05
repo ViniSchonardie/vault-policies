@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>583 Dead. Fog and One Word Caused It.</title>
+      <description>On 27 March 1977, two Boeing 747 passenger jets collided on a runway at Los Rodeos Airport (now Tenerife North–Ciudad de La Laguna Airport) on the Spanish island of Tenerife, killing 583 people and injuring 61 others in the deadliest accident in aviation history. The incident occurred at 17:06 GMT (UTC +0) in dense fog, when KLM Flight 4805 initiated its takeoff run, colliding with the starboard s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tenerife-airport-disaster-20261105.mp3" type="audio/mpeg" length="1606272"/>
+      <guid isPermaLink="false">aviation-tenerife-airport-disaster-20261105</guid>
+      <pubDate>Thu, 05 Nov 2026 14:31:24 GMT</pubDate>
+      <itunes:duration>100</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2,760 Dead. Designers Ignored High-Speed Impact.</title>
       <description>The World Trade Center, in Lower Manhattan, New York City, was destroyed after a series of terrorist attacks on September 11, 2001, killing almost 3,000 people at the site. Two commercial airliners hijacked by al-Qaeda members were deliberately flown into the complex's Twin Towers, at the time among the five tallest buildings in the world. The plane impacts dealt significant structural damage to t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/collapse-of-the-world-trade-center-20261105.mp3" type="audio/mpeg" length="1448832"/>
