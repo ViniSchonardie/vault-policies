@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Connecticut: The State That Wrote America's First Constitution</title>
+      <description>Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States. It borders Rhode Island to the east, Massachusetts to the north, New York to the west, and Long Island Sound to the south. Its capital is Hartford, and its most populous city is Bridgeport. Connecticut lies between the major hubs of New York City and Boston along the Northeast Corridor, where the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/connecticut-20261106.mp3" type="audio/mpeg" length="1462272"/>
+      <guid isPermaLink="false">sportscrime-connecticut-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 19:58:02 GMT</pubDate>
+      <itunes:duration>91</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>One Million Armenians Vanished. Then Turkey Denied It All.</title>
       <description>The Armenian genocide was the systematic destruction of the Armenian people and identity in the Ottoman Empire during World War I. Spearheaded by the ruling Committee of Union and Progress (CUP), it was implemented primarily through the mass murder of around one million Armenians during death marches from the Turkish-dominated Anatolia to the Syrian desert and the forced Islamization of others, pr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/armenian-genocide-20261106.mp3" type="audio/mpeg" length="1264128"/>
