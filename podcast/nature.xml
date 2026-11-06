@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Catfish. Half of All Species Are Venomous.</title>
+      <description>Catfish are a diverse group of ray-finned fish of the order Siluriformes  (historically Nematognathi). Catfish are named for their prominent barbels, which resemble a cat's whiskers, though not all catfish have prominent barbels. All Siluriformes lack scales, instead possessing either smooth skin or armour-plated bodies. This order of fish are defined by features of the skull (such as maxillae mod</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/catfish-20261106.mp3" type="audio/mpeg" length="1129344"/>
+      <guid isPermaLink="false">nature-catfish-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 01:20:24 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Black Mamba: The Snake That Kills in 10 Minutes</title>
       <description>The black mamba (Dendroaspis polylepis) is a species of highly venomous snake belonging to the family Elapidae. It is native to parts of sub-Saharan Africa. First formally described by Albert Günther in 1864, it is the second-longest venomous snake after the king cobra; mature specimens generally exceed 2 m (6 ft 7 in) and commonly grow to 3 m (9.8 ft). Specimens of 4.3 to 4.5 m (14 to 15 ft) have</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/black-mamba-20261105.mp3" type="audio/mpeg" length="1136256"/>
