@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jefferson: The Man Who Wrote Freedom While Owning Humans</title>
+      <description>Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States from 1801 to 1809. He was the second vice president under John Adams. Jefferson was the primary author of the Declaration of Independence, and a leading proponent of democracy, republicanism and natural rights.
+Jefferson was born into the Colony of Virginia's planter c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-jefferson-20261106.mp3" type="audio/mpeg" length="1094016"/>
+      <guid isPermaLink="false">realstory-thomas-jefferson-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 18:46:54 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbus: Everyone Misunderstands What He Actually Found</title>
       <description>Christopher Columbus (; between 25 August and 31 October 1451 – 20 May 1506) was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. His expeditions were the first known European contact with the Caribbean and Cent</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/christopher-columbus-20261106.mp3" type="audio/mpeg" length="1274880"/>
