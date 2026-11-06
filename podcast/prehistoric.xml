@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Woolly Mammoth: 11ft Tall. Hunted to Extinction.</title>
+      <description>The woolly mammoth (Mammuthus primigenius) is an extinct species of mammoth that lived from the Middle Pleistocene until its extinction in the Holocene epoch. It was one of the last in a line of mammoth species, beginning with the African Mammuthus subplanifrons in the early Pliocene.  The woolly mammoth began to diverge from the steppe mammoth about 800,000 years ago in Siberia. Its closest extan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/woolly-mammoth-20261106.mp3" type="audio/mpeg" length="1296768"/>
+      <guid isPermaLink="false">prehistoric-woolly-mammoth-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 12:27:56 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Velociraptor: Turkey-Sized Killer. Hollywood Lied.</title>
       <description>Velociraptor (; lit. 'swift thief') is a genus of small dromaeosaurid dinosaurs that lived in Asia during the Late Cretaceous epoch, about 75 million to 71 million years ago (Mya). Two species are currently recognized, although others have been assigned in the past. The type species is V. mongoliensis, named and described in 1924. Fossils of this species have been discovered in the Djadochta Forma</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/velociraptor-20261106.mp3" type="audio/mpeg" length="1080576"/>
