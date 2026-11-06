@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Columbus: Everyone Misunderstands What He Actually Found</title>
+      <description>Christopher Columbus (; between 25 August and 31 October 1451 – 20 May 1506) was an Italian explorer and navigator from the Republic of Genoa who completed four Spanish transatlantic voyages in the name of the Catholic Monarchs, opening the way for the widespread European exploration and colonization of the Americas. His expeditions were the first known European contact with the Caribbean and Cent</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/christopher-columbus-20261106.mp3" type="audio/mpeg" length="1274880"/>
+      <guid isPermaLink="false">realstory-christopher-columbus-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 14:49:30 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Oppenheimer: The Genius Who Regretted Everything</title>
       <description>J. Robert Oppenheimer (born Julius Robert Oppenheimer  ; April 22, 1904 – February 18, 1967) was an American theoretical physicist who served as the director of the Manhattan Project's Los Alamos Laboratory during World War II. He is often called the "Father of the Atomic Bomb" for his role in overseeing the development of the first nuclear weapons.
 Born in New York City, Oppenheimer obtained a de</description>
