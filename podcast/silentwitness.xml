@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>700,000 Dead. Stalin's Secret Police. Then He Blamed Them.</title>
+      <description>The Great Purge or Great Terror (Russian: Большой террор, romanized: Bol'shoy terror), also known as the Year of '37 (37-й год, Tridtsat' sed'moy god) and the Yezhovshchina (ежовщина [(j)ɪˈʐofɕːɪnə], lit. 'period of Yezhov'), was a political purge in the Soviet Union from 1936 to 1938. After the assassination of Sergei Kirov by Leonid Nikolaev in 1934, Joseph Stalin launched a series of show trial</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/great-purge-20261106.mp3" type="audio/mpeg" length="1273344"/>
+      <guid isPermaLink="false">trials-great-purge-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 20:42:59 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>125 Nations, One Court. Then Putin Got an Arrest Warrant.</title>
       <description>The International Criminal Court (ICC) is an intergovernmental organisation and international tribunal seated in The Hague, Netherlands. Established in 2002 under the multilateral Rome Statute, the ICC is the first and only permanent international court with jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, war crimes, and the crime of aggress</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/international-criminal-court-20261106.mp3" type="audio/mpeg" length="1269888"/>
