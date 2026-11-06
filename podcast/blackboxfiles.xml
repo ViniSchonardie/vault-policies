@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TWA 800. 230 Dead. Wiring They Ignored.</title>
+      <description>TWA Flight 800 was a regularly scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Fiumicino Airport in Rome, Italy, with a stopover at Charles de Gaulle Airport in Paris, France. On July 17, 1996, at approximately 8:31 p.m. EDT, twelve minutes after takeoff, the Boeing 747 exploded and crashed into the Atlantic Ocean near East Mo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/twa-flight-800-20261106.mp3" type="audio/mpeg" length="1332864"/>
+      <guid isPermaLink="false">aviation-twa-flight-800-20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 01:33:45 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>155 Survived. Two Engines Dead. One Perfect Decision.</title>
       <description>US Airways Flight 1549 was a regularly scheduled US Airways flight from New York City's LaGuardia Airport to Charlotte and Seattle, in the United States, that ditched onto the Hudson River shortly after takeoff on January 15, 2009, due to a double engine failure caused by a bird strike. The Airbus A320 operating the flight, registered N106US, struck a flock of Canada geese shortly after takeoff fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/us-airways-flight-1549-20261105.mp3" type="audio/mpeg" length="1373568"/>
