@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jack the Ripper: Never Caught. 5 Victims. Same Killer.</title>
+      <description>Jack the Ripper was an unidentified serial killer active in and around the impoverished Whitechapel district of London, England, in 1888. In both criminal case files and the contemporaneous journalistic accounts, the killer was also called the Whitechapel Murderer and Leather Apron.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jack-the-ripper-20261107.mp3" type="audio/mpeg" length="995328"/>
+      <guid isPermaLink="false">crime-jack-the-ripper-20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 01:10:05 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Madeleine McCann: Left Alone. Never Found.</title>
       <description>On 3 May 2007, Madeleine Beth McCann, a 3‑year‑old British girl, disappeared from her bed in a holiday apartment in Praia da Luz, Lagos, Portugal. The Daily Telegraph described her disappearance as "the most heavily reported missing-person case in modern history". Madeleine's whereabouts remain unknown, although German prosecutors believe she is dead.
 Madeleine was on holiday from the United Kingd</description>
