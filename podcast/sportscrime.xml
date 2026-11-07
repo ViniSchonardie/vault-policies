@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Capital Punishment: 5,000 Years of State Killing</title>
+      <description>Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits executio</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/capital-punishment-20261107.mp3" type="audio/mpeg" length="1170816"/>
+      <guid isPermaLink="false">sportscrime-capital-punishment-20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 19:57:06 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lance Armstrong Won 7 Tours. Then Lost Them All.</title>
       <description>Lance Edward Armstrong (né Gunderson; born September 18, 1971) is an American former professional road racing cyclist. He achieved international fame for winning the Tour de France a record seven consecutive times from 1999 to 2005, but was stripped of his titles in 2012 after an investigation into doping allegations found that Armstrong used performance-enhancing drugs over his career. Armstrong </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/lance-armstrong-20261107.mp3" type="audio/mpeg" length="1555584"/>
