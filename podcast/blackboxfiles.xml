@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>MH17. 298 Dead. Russia Denied Everything.</title>
+      <description>Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia b</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-17-20261107.mp3" type="audio/mpeg" length="1184256"/>
+      <guid isPermaLink="false">aviation-malaysia-airlines-flight-17-20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 18:31:44 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>228 Dead. Pilots Ignored the Stall Warning. What They Did Next</title>
       <description>Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France, that crashed into the mid-Atlantic Ocean on 1 June 2009 killing all 228 passengers and crew on board. The incident, which occurred on an Airbus A330, happened because inconsistent airspeed indications and resulting miscommunication between the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-447-20261107.mp3" type="audio/mpeg" length="1056768"/>
