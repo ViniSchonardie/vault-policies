@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>She Was 32 When She Broke the Space Barrier</title>
+      <description>Sally Kristen Ride (May 26, 1951 – July 23, 2012) was an American astronaut and physicist. Born in Southern California, she joined NASA in 1978, and in 1983, became the first American woman and the third woman to fly in space. She was the youngest American astronaut to have flown in space, having done so at the age of 32.
+Ride was a graduate of Stanford University, where she earned a Bachelor of S</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sally-ride-20261107.mp3" type="audio/mpeg" length="1069056"/>
+      <guid isPermaLink="false">space-sally-ride-20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 01:27:43 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Was Second on the Moon. He's Still Alive.</title>
       <description>Buzz Aldrin ( AWL-drin; born Edwin Eugene Aldrin Jr.; January 20, 1930) is an American former astronaut, aeronautical engineer, and fighter pilot. He was the second person to walk on the Moon after mission commander Neil Armstrong. He made three spacewalks as pilot of NASA’s 1966 Gemini 12 mission, and was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission. Following the deaths of Armstron</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/buzz-aldrin-20261106.mp3" type="audio/mpeg" length="1853184"/>
