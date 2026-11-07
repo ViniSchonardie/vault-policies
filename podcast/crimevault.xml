@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Billy the Kid: Shot Dead at 21. Sheriff Got Him First.</title>
+      <description>Henry McCarty, alias William H. Bonney, better known as Billy the Kid, was an American outlaw and gunfighter of the Old West who was linked to nine murders. He was solely responsible for four of them, and he may have played a role in five, alongside other men. He is also noted for his involvement in New Mexico's Lincoln County War.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/billy-the-kid-20261107.mp3" type="audio/mpeg" length="1091328"/>
+      <guid isPermaLink="false">crime-billy-the-kid-20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 13:14:52 GMT</pubDate>
+      <itunes:duration>68</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jack the Ripper: Never Caught. 5 Victims. Same Killer.</title>
       <description>Jack the Ripper was an unidentified serial killer active in and around the impoverished Whitechapel district of London, England, in 1888. In both criminal case files and the contemporaneous journalistic accounts, the killer was also called the Whitechapel Murderer and Leather Apron.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jack-the-ripper-20261107.mp3" type="audio/mpeg" length="995328"/>
