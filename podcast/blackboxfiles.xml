@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Columbia Disaster. 7 Dead. NASA Ignored The Warning.</title>
+      <description>On February 1, 2003, Space Shuttle Columbia disintegrated as it re-entered the atmosphere over Texas and Louisiana, killing all seven astronauts on board. It was the second of two Space Shuttle missions to end in disaster, after the loss of Challenger and crew in 1986.
+The mission, designated STS-107, was the twenty-eighth flight for the orbiter and the 113th flight of the Space Shuttle fleet. It </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/space-shuttle-columbia-disaster-20261108.mp3" type="audio/mpeg" length="1056000"/>
+      <guid isPermaLink="false">aviation-space-shuttle-columbia-disaster-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 14:31:41 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>UPS Flight 2976. 15 Dead. Boeing Ignored 5 Warnings.</title>
       <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20261108.mp3" type="audio/mpeg" length="1324032"/>
