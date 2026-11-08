@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>UPS Flight 2976. 15 Dead. Boeing Ignored 5 Warnings.</title>
+      <description>UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ups-airlines-flight-2976-20261108.mp3" type="audio/mpeg" length="1324032"/>
+      <guid isPermaLink="false">aviation-ups-airlines-flight-2976-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 01:33:26 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MH17. 298 Dead. Russia Denied Everything.</title>
       <description>Malaysia Airlines Flight 17 was a scheduled passenger flight from Amsterdam to Kuala Lumpur that was shot down by Russian-backed forces with a Buk 9M38 surface-to-air missile on 17 July 2014, while flying over eastern Ukraine. All 283 passengers and 15 crew were killed. Contact with the aircraft, a Boeing 777-200ER, was lost when it was about 50 kilometres (31 mi; 27 nmi) from the Ukraine–Russia b</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/malaysia-airlines-flight-17-20261107.mp3" type="audio/mpeg" length="1184256"/>
