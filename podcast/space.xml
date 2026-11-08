@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>He Orbited Earth in 108 Minutes. Then Vanished.</title>
+      <description>Yuri Alekseyevich Gagarin (9 March 1934 – 27 March 1968) was a Soviet pilot and cosmonaut who became the first person to journey into outer space during the first successful crewed spaceflight. He was launched from the Baikonur Cosmodrome in the Kazakh SSR. Travelling on Vostok 1, Gagarin completed one orbit of Earth on 12 April 1961. The flight took 108 minutes. By achieving this major milestone </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/yuri-gagarin-20261108.mp3" type="audio/mpeg" length="1296384"/>
+      <guid isPermaLink="false">space-yuri-gagarin-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 01:27:46 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Oxygen Tank Killed Apollo 13's Moon Landing</title>
       <description>Apollo 13 (April 11–17, 1970) was the seventh crewed mission in the Apollo space program and would have been the third Moon landing. The craft was launched from Kennedy Space Center on April 11, 1970, but the landing was aborted after an oxygen tank in the service module (SM) exploded two days into the mission, disabling its electrical and life-support system. The crew, supported by backup systems</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-13-20261107.mp3" type="audio/mpeg" length="1251456"/>
