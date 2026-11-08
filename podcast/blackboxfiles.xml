@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>150 Dead. Pilot Hid His Illness. Lufthansa Never Checked.</title>
+      <description>Germanwings Flight 9525 was a scheduled international passenger flight from Barcelona–El Prat Airport in Spain to Düsseldorf Airport in Germany. The flight was operated by Germanwings, a low-cost carrier owned by the German airline Lufthansa. On 24 March 2015, the Airbus A320 operating the flight crashed 100 km (62 mi; 54 nmi) north-west of Nice in the French Alps, killing all 150 people on board.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/germanwings-flight-9525-20261108.mp3" type="audio/mpeg" length="1179264"/>
+      <guid isPermaLink="false">aviation-germanwings-flight-9525-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 18:32:25 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Columbia Disaster. 7 Dead. NASA Ignored The Warning.</title>
       <description>On February 1, 2003, Space Shuttle Columbia disintegrated as it re-entered the atmosphere over Texas and Louisiana, killing all seven astronauts on board. It was the second of two Space Shuttle missions to end in disaster, after the loss of Challenger and crew in 1986.
 The mission, designated STS-107, was the twenty-eighth flight for the orbiter and the 113th flight of the Space Shuttle fleet. It </description>
