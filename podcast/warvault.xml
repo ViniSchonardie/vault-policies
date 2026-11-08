@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Korea Divided. 3 Million Dead. Still No Peace.</title>
+      <description>The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/korean-war-20261108.mp3" type="audio/mpeg" length="1123200"/>
+      <guid isPermaLink="false">warvault-korean-war-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 17:54:32 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Peasant to Dictator. 250,000 Dead. One Man's Rise.</title>
       <description>Saddam Hussein (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003 during the United States-led invasion of Iraq. He previously served as the vice president from 1968 to 1979 and also as the prime minister from 1979 to 1991 and later from 1994 to 2003. A leading member of the Iraqi Ba'ath Party</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/saddam-hussein-20261108.mp3" type="audio/mpeg" length="1306752"/>
