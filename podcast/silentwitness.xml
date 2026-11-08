@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Convicted. Acquitted. Convicted Again. Then Italy Let Her Go.</title>
+      <description>Amanda Marie Knox (born July 9, 1987) is an American author. She came to international prominence after being convicted for the November 2007 murder of her roommate, Meredith Kercher, in Perugia, Italy, a trial that was highly publicized between Knox's conviction in 2009 and her acquittal two years later. 
+She was convicted of the murder of Kercher in 2009 and was sentenced to 26 years in prison. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/amanda-knox-20261108.mp3" type="audio/mpeg" length="1631232"/>
+      <guid isPermaLink="false">trials-amanda-knox-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 20:43:40 GMT</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Most Countries Practice Torture. Few Ever Admit It.</title>
       <description>Torture is the deliberate infliction of severe pain or suffering on a person for reasons including punishment, extracting a confession, interrogation for information, or intimidating third parties.
 Some definitions restrict torture to acts carried out by the state, while others include non-state actors. Most victims of torture are poor and marginalized people suspected of crimes, although torture </description>
