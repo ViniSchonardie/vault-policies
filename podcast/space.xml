@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Orbited Earth at 77, Breaking Every Record</title>
+      <description>John Herschel Glenn Jr. (July 18, 1921 – December 8, 2016) was an American Marine Corps aviator, astronaut, businessman, and politician. He was the third American in space and the first to orbit the Earth, circling it three times in 1962. Following his retirement from NASA, he served from 1974 to 1999 as a U.S. senator from Ohio. In 1998, he flew into space again at the age of 77.
+Before joining N</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/john-glenn-20261108.mp3" type="audio/mpeg" length="1127040"/>
+      <guid isPermaLink="false">space-john-glenn-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 17:25:24 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Mission IS Landing Humans on the Moon Again</title>
       <description>Artemis IV is planned to be the third crewed mission and the first Moon landing in the NASA-led Artemis lunar exploration program, marking the first crewed Moon landing since Apollo 17 in 1972.
 For this mission, a Space Launch System (SLS) rocket will send an Orion spacecraft carrying the four astronaut crew members to lunar orbit. The mission depends on a prior support flight to place a lunar lan</description>
