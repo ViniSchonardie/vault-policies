@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>86 People Dead. The Raid That Changed America Forever.</title>
+      <description>The Waco siege, also known as the Waco massacre, was the siege by US federal government and Texas state law enforcement officials of a compound belonging to the religious cult known as the Branch Davidians, between February 28 and April 19 of 1993, which culminated in the massacre of 76 civilians, including 28 children. The Branch Davidians, led by David Koresh, were headquartered at Mount Carmel </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/waco-siege-20261108.mp3" type="audio/mpeg" length="1185792"/>
+      <guid isPermaLink="false">crime-waco-siege-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 18:11:00 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Golden State Killer: 13 Murders. He Was a Cop.</title>
       <description>Joseph James DeAngelo Jr. is an American serial killer, serial rapist, and former police officer known as the Golden State Killer, the Original Night Stalker, the East Area Rapist and the Visalia Ransacker, who committed thirteen murders and numerous rapes and burglaries across California between 1974 and 1986. DeAngelo's crimes began in Northern California, where he committed a minimum of 120 bur</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joseph-james-dengelo-20261108.mp3" type="audio/mpeg" length="1194240"/>
