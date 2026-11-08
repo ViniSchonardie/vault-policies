@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Mission IS Landing Humans on the Moon Again</title>
+      <description>Artemis IV is planned to be the third crewed mission and the first Moon landing in the NASA-led Artemis lunar exploration program, marking the first crewed Moon landing since Apollo 17 in 1972.
+For this mission, a Space Launch System (SLS) rocket will send an Orion spacecraft carrying the four astronaut crew members to lunar orbit. The mission depends on a prior support flight to place a lunar lan</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/artemis-iv-20261108.mp3" type="audio/mpeg" length="1238784"/>
+      <guid isPermaLink="false">space-artemis-iv-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 13:29:57 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Orbited Earth in 108 Minutes. Then Vanished.</title>
       <description>Yuri Alekseyevich Gagarin (9 March 1934 – 27 March 1968) was a Soviet pilot and cosmonaut who became the first person to journey into outer space during the first successful crewed spaceflight. He was launched from the Baikonur Cosmodrome in the Kazakh SSR. Travelling on Vostok 1, Gagarin completed one orbit of Earth on 12 April 1961. The flight took 108 minutes. By achieving this major milestone </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/yuri-gagarin-20261108.mp3" type="audio/mpeg" length="1296384"/>
