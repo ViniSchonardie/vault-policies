@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>160,000 Troops Landed. One Weather Forecast Stopped Them All.</title>
+      <description>The Normandy landings were the landing operations and associated airborne operations on 6 June 1944 of the Allied invasion of Normandy in Operation Overlord during the Second World War. Codenamed Operation Neptune and often referred to as D-Day (after the military term), it is the largest seaborne invasion in history. The operation began the liberation of France and the rest of Western Europe, and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/normandy-landings-20261108.mp3" type="audio/mpeg" length="1108992"/>
+      <guid isPermaLink="false">warvault-normandy-landings-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 01:51:21 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Two Cities. 200,000 Dead. Japan Surrendered.</title>
       <description>On 6 and 9 August 1945, the United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki, respectively, during the final days of World War II. The aerial bombings killed 150,000 to 246,000 people, most of whom were civilians, and remain the first and only uses of nuclear weapons in an armed conflict.
 In the final year of World War II, the Allies prepared for a costly</description>
