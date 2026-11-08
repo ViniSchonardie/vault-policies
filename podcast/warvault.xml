@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Peasant to Dictator. 250,000 Dead. One Man's Rise.</title>
+      <description>Saddam Hussein (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003 during the United States-led invasion of Iraq. He previously served as the vice president from 1968 to 1979 and also as the prime minister from 1979 to 1991 and later from 1994 to 2003. A leading member of the Iraqi Ba'ath Party</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/saddam-hussein-20261108.mp3" type="audio/mpeg" length="1306752"/>
+      <guid isPermaLink="false">warvault-saddam-hussein-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 13:53:55 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>160,000 Troops Landed. One Weather Forecast Stopped Them All.</title>
       <description>The Normandy landings were the landing operations and associated airborne operations on 6 June 1944 of the Allied invasion of Normandy in Operation Overlord during the Second World War. Codenamed Operation Neptune and often referred to as D-Day (after the military term), it is the largest seaborne invasion in history. The operation began the liberation of France and the rest of Western Europe, and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/normandy-landings-20261108.mp3" type="audio/mpeg" length="1108992"/>
