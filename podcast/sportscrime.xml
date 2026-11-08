@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cocaine: From Surgery to the Streets</title>
+      <description>Cocaine is a central nervous system (CNS) stimulant and tropane alkaloid, derived primarily from the leaves of two coca species native to South America: Erythroxylum coca and E. novogranatense. The leaves are processed into cocaine paste, a crude mixture of coca alkaloids, from which cocaine base is isolated and then converted to cocaine hydrochloride. Although total synthesis is possible, it is c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/cocaine-20261108.mp3" type="audio/mpeg" length="1209600"/>
+      <guid isPermaLink="false">sportscrime-cocaine-20261108</guid>
+      <pubDate>Sun, 08 Nov 2026 19:56:52 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gambling: How a $335 Billion Industry Nearly Destroyed America</title>
       <description>Gambling (also known as betting or gaming) is the wagering of something of value ("the stakes") on a random event with the intent of winning something else of value, where instances of strategy are discounted. Gambling thus requires three elements to be present: consideration (an amount wagered), risk (chance), and a prize. The outcome of the wager is often immediate, such as a single roll of dice</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/gambling-20261108.mp3" type="audio/mpeg" length="1318272"/>
