@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spaceship Reached the Moon With 2 Months' Less Training</title>
+      <description>Apollo 8 (December 21–27, 1968) was the first crewed spacecraft to leave Earth's gravitational sphere of influence, and the first human spaceflight to reach the Moon. The crew orbited the Moon ten times without landing and then returned to Earth. The three astronauts—Frank Borman, Jim Lovell, and William Anders—were the first humans to see and photograph the far side of the Moon and an Earthrise.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-8-20261109.mp3" type="audio/mpeg" length="1254912"/>
+      <guid isPermaLink="false">space-apollo-8-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 13:29:02 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Moon Landing Hoax Theory Convinced Millions (It's Wrong)</title>
       <description>Conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA, possibly with the aid of other organizations. Such views are considered fringe. The most notable claim of these conspiracy theories is that the six crewed landings (1969–1972) were faked and that twelve Apollo astronauts did not actually land on the Moon. Since the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/moon-landing-conspiracy-theories-20261109.mp3" type="audio/mpeg" length="1912320"/>
