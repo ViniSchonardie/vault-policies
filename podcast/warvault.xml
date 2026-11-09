@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>42 Years in Power. One Day He Lost Everything.</title>
+      <description>Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Sec</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/muammar-gaddafi-20261109.mp3" type="audio/mpeg" length="1404288"/>
+      <guid isPermaLink="false">warvault-muammar-gaddafi-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 01:54:18 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Korea Divided. 3 Million Dead. Still No Peace.</title>
       <description>The Korean War (25 June 1950 – 27 July 1953) was an armed conflict fought on the Korean Peninsula between North Korea (Democratic People's Republic of Korea; DPRK) and South Korea (Republic of Korea; ROK) and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/korean-war-20261108.mp3" type="audio/mpeg" length="1123200"/>
