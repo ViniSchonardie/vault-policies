@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>We're Causing Extinctions 1,000x Faster Than Nature</title>
+      <description>The Holocene or Anthropocene extinction is an ongoing extinction event caused by human activity during the current geological epoch, impacting diverse families of plants and animals, including mammals, birds, reptiles, amphibians, fish, and invertebrates, as well as both terrestrial and marine species. It is sometimes also called the sixth extinction (though this can also describe the Capitanian).</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/holocene-extinction-20261109.mp3" type="audio/mpeg" length="1275264"/>
+      <guid isPermaLink="false">prehistoric-holocene-extinction-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 17:23:01 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>They Ruled Europe 45,000 Years. Then Vanished.</title>
       <description>Cro-Magnons or European early modern humans (EEMH) were the first early modern humans (Homo sapiens) found in Europe and  Siberia, continuously occupying the continent possibly from as early as 56,800 years ago. They interacted and interbred with the indigenous Neanderthals (H. neanderthalensis) of Europe and Western Asia, who went extinct 35,000 to 40,000 years ago. Ancient DNA research indicates</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/cro-magnon-20261109.mp3" type="audio/mpeg" length="1473408"/>
