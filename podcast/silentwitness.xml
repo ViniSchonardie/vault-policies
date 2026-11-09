@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>One Book. 300 Years of Witch Burnings. Then the Church Lied.</title>
+      <description>The Malleus Maleficarum, usually translated as the Hammer of Witches, is the best known treatise about witchcraft. It was written by German Catholic clergyman Heinrich Kramer (under his Latinized name Henricus Institor) and first published in the German city of Speyer in 1486. Some characterize the book as a compendium of preexisting demonological literature of the 15th century, as opposed to an o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/malleus-maleficarum-20261109.mp3" type="audio/mpeg" length="1235328"/>
+      <guid isPermaLink="false">trials-malleus-maleficarum-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 20:43:03 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>275,000 Disabled Murdered. Then Doctors Got Away With It.</title>
       <description>"Aktion T4" (German, pronounced [akˈtsi̯oːn teː fiːɐ]) is the name given to campaigns of mass murder by involuntary euthanasia which targeted people with disabilities and the mentally ill in Nazi Germany. The term was first used in post-war trials against doctors who had been involved in the killings. The name T4 is an abbreviation of Tiergartenstraße 4, a street address of the Chancellery departm</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/aktion-t4-20261109.mp3" type="audio/mpeg" length="1291392"/>
