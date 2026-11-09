@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>265 Dead. Pilot Fought the Rudder. Tail Ripped Off.</title>
+      <description>American Airlines Flight 587 was a regularly scheduled international passenger flight from John F. Kennedy International Airport, New York City, to Las Américas International Airport, Santo Domingo, Dominican Republic. On November 12, 2001, the Airbus A300 flying the route crashed into the neighborhood of Belle Harbor on the Rockaway Peninsula of Queens, New York City, shortly after takeoff, killi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/american-airlines-flight-587-20261109.mp3" type="audio/mpeg" length="1200768"/>
+      <guid isPermaLink="false">aviation-american-airlines-flight-587-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 01:32:59 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>150 Dead. Pilot Hid His Illness. Lufthansa Never Checked.</title>
       <description>Germanwings Flight 9525 was a scheduled international passenger flight from Barcelona–El Prat Airport in Spain to Düsseldorf Airport in Germany. The flight was operated by Germanwings, a low-cost carrier owned by the German airline Lufthansa. On 24 March 2015, the Airbus A320 operating the flight crashed 100 km (62 mi; 54 nmi) north-west of Nice in the French Alps, killing all 150 people on board.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/germanwings-flight-9525-20261108.mp3" type="audio/mpeg" length="1179264"/>
