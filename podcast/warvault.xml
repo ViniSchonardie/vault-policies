@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>George Washington Won the War. Then He Gave It Away.</title>
+      <description>The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence or simply the American Revolution, was the armed conflict that comprised the final eight years of the broader American Revolution, in which American Patriot forces organized as the Continental Army and, commanded by George Washington, defeated the British Army. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/american-revolutionary-war-20261109.mp3" type="audio/mpeg" length="1324416"/>
+      <guid isPermaLink="false">warvault-american-revolutionary-war-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 13:54:23 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>42 Years in Power. One Day He Lost Everything.</title>
       <description>Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Sec</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/muammar-gaddafi-20261109.mp3" type="audio/mpeg" length="1404288"/>
