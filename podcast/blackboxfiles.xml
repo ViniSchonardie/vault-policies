@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>184 Survived. They Lost All Controls. Crew Defied Physics.</title>
+      <description>United Airlines Flight 232 was a regularly scheduled United Airlines flight from Stapleton International Airport in Denver to O'Hare International Airport in Chicago, continuing to Philadelphia International Airport in Philadelphia, United States. On July 19, 1989, the McDonnell Douglas DC-10 serving the flight crash-landed at Sioux Gateway Airport in Sioux City, Iowa, after suffering a catastroph</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-232-20261109.mp3" type="audio/mpeg" length="1515648"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-232-20261109</guid>
+      <pubDate>Mon, 09 Nov 2026 18:34:09 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alaska 261. 88 Dead. Maintenance Ignored Every Warning.</title>
       <description>Alaska Airlines Flight 261 was a scheduled international passenger flight from Licenciado Gustavo Díaz Ordaz International Airport in Puerto Vallarta, Jalisco, Mexico, to Seattle–Tacoma International Airport near Seattle, Washington, United States, with an intermediate stop at San Francisco International Airport in San Francisco, California. On January 31, 2000, the McDonnell Douglas MD-83 operati</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-261-20261109.mp3" type="audio/mpeg" length="1749120"/>
