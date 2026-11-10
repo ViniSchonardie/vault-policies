@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Telescope Launched Broken. Astronauts Fixed It in Space.</title>
+      <description>The Hubble Space Telescope (HST or Hubble) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Obs</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/hubble-space-telescope-20261110.mp3" type="audio/mpeg" length="1300608"/>
+      <guid isPermaLink="false">space-hubble-space-telescope-20261110</guid>
+      <pubDate>Tue, 10 Nov 2026 01:27:45 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Telescope Sees 180 Million Years Into the Past</title>
       <description>The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the fir</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/james-webb-space-telescope-20261109.mp3" type="audio/mpeg" length="1334784"/>
