@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Son of Sam: A Parking Ticket Caught the .44 Caliber Killer</title>
+      <description>David Richard Berkowitz (born Richard David Falco; June 1, 1953), also known as the Son of Sam, the .44 Caliber Killer and the Phantom of the Bronx, is an American serial killer, serial arsonist, and former United States Army soldier who committed a stabbing and a series of shootings in New York City between 1975 and 1977, killing six people and wounding eleven others. Armed with a .44 caliber Bul</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/david-berkowitz-20261110.mp3" type="audio/mpeg" length="1227648"/>
+      <guid isPermaLink="false">crime-david-berkowitz-20261110</guid>
+      <pubDate>Tue, 10 Nov 2026 01:11:54 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ground Worker Stole a Plane. Then He Did a Barrel Roll.</title>
       <description>On August 10, 2018, a Bombardier Q400 operated by Horizon Air was stolen from Seattle–Tacoma International Airport (Sea–Tac) by 28-year-old Richard Russell, a Horizon Air ground service agent with no piloting experience. After Russell performed an unauthorized takeoff, two  McDonnell Douglas F-15 Eagle fighters were scrambled to intercept the aircraft. Sea–Tac air traffic control made radio contac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/2018-horizon-air-q400-incident-20261109.mp3" type="audio/mpeg" length="1168896"/>
