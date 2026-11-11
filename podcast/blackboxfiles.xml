@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Concorde Crash. 113 Dead. One Titanium Strip.</title>
+      <description>Air France Flight 4590 was an international charter flight from Paris to New York. On 25 July 2000, a Concorde passenger jet operating the flight crashed shortly after takeoff, killing all 109 people on board and 4 on the ground. It was the only fatal Concorde accident during its 27-year operational history.
+Whilst taking off from Charles de Gaulle Airport, Air France Flight 4590 ran over debris o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-france-flight-4590-20261111.mp3" type="audio/mpeg" length="1449600"/>
+      <guid isPermaLink="false">aviation-air-france-flight-4590-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 01:33:04 GMT</pubDate>
+      <itunes:duration>91</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>329 Dead. Security Ignored Every Warning Before Takeoff.</title>
       <description>Air India Flight 182 was a scheduled international flight from Toronto Pearson International Airport (as Air India Flight 181) to Mumbai’s Sahar International Airport with regular Mirabel-London-Delhi stops. On the morning of June 23, 1985, the Boeing 747-237B serving the Montreal-London segment exploded near the coast of Ireland from a bomb planted by Sikh terrorists from the Babbar Khalsa. All 3</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-india-flight-182-20261110.mp3" type="audio/mpeg" length="1158144"/>
