@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Snowden: Everyone Misunderstands Why He Really Left</title>
+      <description>Edward Joseph Snowden (born June 21, 1983) is an American whistleblower who, as a National Security Agency (NSA) intelligence contractor, disclosed classified documents revealing the existence of global surveillance programs.
+Born in 1983 in Elizabeth City, North Carolina, he attended a community college and later enrolled in a master's programme at the University of Liverpool without finishing it</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/edward-snowden-20261111.mp3" type="audio/mpeg" length="1381632"/>
+      <guid isPermaLink="false">realstory-edward-snowden-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 18:48:02 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marcus Aurelius: The Philosopher King Everyone Misunderstands</title>
       <description>Marcus Aurelius Antoninus ( or-EE-lee-əs; Latin: [ˈmaːrkʊs au̯ˈreːli.us antoːˈniːnʊs]; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting fr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marcus-aurelius-20261111.mp3" type="audio/mpeg" length="1208064"/>
