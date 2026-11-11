@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marcus Aurelius: The Philosopher King Everyone Misunderstands</title>
+      <description>Marcus Aurelius Antoninus ( or-EE-lee-əs; Latin: [ˈmaːrkʊs au̯ˈreːli.us antoːˈniːnʊs]; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting fr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marcus-aurelius-20261111.mp3" type="audio/mpeg" length="1208064"/>
+      <guid isPermaLink="false">realstory-marcus-aurelius-20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 01:45:30 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Newton: Everyone Misunderstands His Greatest Discovery</title>
       <description>Sir Isaac Newton ( ; 4 January 1643 [O.S. 25 December 1642] – 31 March 1727 [O.S. 20 March 1726]) was an English polymath who was a mathematician, physicist, astronomer, alchemist, theologian, historian and inventor. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosop</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/isaac-newton-20261110.mp3" type="audio/mpeg" length="1141632"/>
