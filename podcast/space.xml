@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Woman Orbited Earth 48 Times — No Man Had Flown Longer</title>
+      <description>Valentina Vladimirovna Tereshkova (born 6 March 1937) is a Russian engineer, politician, and former Soviet cosmonaut. She was the first woman in space, having flown a solo mission on Vostok 6 on 16 June 1963. She orbited the Earth 48 times, spent almost three days in space, is the only woman to have been on a solo space mission and is the last surviving Vostok programme cosmonaut. Twenty-six years</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/valentina-tereshkova-20261112.mp3" type="audio/mpeg" length="1280256"/>
+      <guid isPermaLink="false">space-valentina-tereshkova-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 01:28:01 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Rocket Landed Itself 659 Times. Here's How.</title>
       <description>Falcon 9 is a partially reusable, two-stage-to-orbit, medium-lift launch vehicle designed and manufactured in the United States by SpaceX. The first Falcon 9 launch was on June 4, 2010, and the first Commercial Resupply mission to the International Space Station (ISS) launched on October 8, 2012. In 2020, it became the first commercial rocket to launch humans to orbit. With 672 successful flights,</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/falcon-9-20261111.mp3" type="audio/mpeg" length="1011456"/>
