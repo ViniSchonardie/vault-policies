@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Marie Curie: Everyone Forgets She Was Poisoned</title>
+      <description>Maria Salomea Skłodowska Curie (Polish: [ˈmarja salɔˈmɛa skwɔˈdɔfska kiˈri] ; née Skłodowska; 7 November 1867 – 4 July 1934), better known as Marie Curie ( KURE-ee; French: [maʁi kyʁi] ), was a Polish and naturalised-French physicist and chemist. She shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, "for their joint researches on the  radioactivity phenomena discovered by Prof</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marie-curie-20261112.mp3" type="audio/mpeg" length="1211904"/>
+      <guid isPermaLink="false">realstory-marie-curie-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 14:50:13 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Augustus: The Man Who Pretended to Save Rome</title>
       <description>Augustus (born Gaius Octavius; 23 September 63 BC – 19 August AD 14), also known as Octavian (Latin: Octavianus), was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14. The reign of Augustus initiated an imperial cult and an era of imperial peace (the Pax Romana or Pax Augusta) when the Roman world was largely free of armed conflict. The principate, a </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/augustus-20261112.mp3" type="audio/mpeg" length="1618944"/>
