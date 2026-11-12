@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mastodons: 10 Tons. Hunted to Extinction.</title>
+      <description>A mastodon (from Ancient Greek  μαστός (mastós) 'breast' and  ὀδούς (odoús) 'tooth') is a member of the genus Mammut (German for 'mammoth'), which was endemic to North America and lived from the late Miocene to the early Holocene. Mastodons belong to the order Proboscidea, the same order as elephants and mammoths (which belong to the family Elephantidae). Mammut is the type genus of the extinct fa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/mastodon-20261112.mp3" type="audio/mpeg" length="1322880"/>
+      <guid isPermaLink="false">prehistoric-mastodon-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 12:29:24 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>They Ruled Earth 700,000 Years. We Almost Lost Them.</title>
       <description>Homo heidelbergensis () is a controversial and somewhat poorly defined species of archaic human from the Middle Pleistocene of Europe and Africa, as well as potentially Asia depending on the taxonomic convention used. The species-level classification of Homo during the Middle Pleistocene is controversial, called the "muddle in the middle", owing to the wide anatomical range of variation that popul</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/prehistoric-audio/homo-heidelbergensis-20261112.mp3" type="audio/mpeg" length="1322880"/>
