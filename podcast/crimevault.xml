@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>El Chapo: 34,000 Deaths. $8.8M Bounty. Life Sentence.</title>
+      <description>Joaquín Archivaldo Guzmán Loera (Spanish: [xoaˈkin aɾtʃiˈβaldo ɣusˈman loˈeɾa]; born 4 April 1957), commonly known as "El Chapo", is a Mexican former drug lord and the former top leader of the Sinaloa Cartel. Guzmán is believed to be responsible for the deaths of over 34,000 people, and was considered to be the most powerful drug trafficker in the world until he was extradited to the United States</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/el-chapo-20261112.mp3" type="audio/mpeg" length="1145472"/>
+      <guid isPermaLink="false">crime-el-chapo-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 13:17:37 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dating Game Killer: 1,000 Photos, 130 Suspected Victims</title>
       <description>Rodney James Alcala, also known as John Berger and John Burger, was an American serial killer and convicted sex offender who was sentenced to death in California for five murders committed between 1977 and 1979. He pleaded guilty and received two sentences, both twenty-five years to life, for two further murders committed in New York State. He was also indicted for one murder in Wyoming, although </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/rodney-alcala-20261112.mp3" type="audio/mpeg" length="1221888"/>
