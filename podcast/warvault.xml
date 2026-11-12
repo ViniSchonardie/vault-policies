@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>300,000 Dead in Six Weeks. Japan's Worst War Crime.</title>
+      <description>The Nanjing Massacre or the Rape of Nanjing (formerly romanized as Nanking) was the mass rape and murder, between December 1937 and March 1938, of Chinese civilians, noncombatants, and prisoners of war by the Imperial Japanese Army in Nanjing, the capital of the Republic of China. It took place immediately after the Battle of Nanjing and retreat of the National Revolutionary Army during the Second</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/nanjing-massacre-20261112.mp3" type="audio/mpeg" length="1379712"/>
+      <guid isPermaLink="false">warvault-nanjing-massacre-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 13:54:01 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Built the Murder Machine. Then Tried to Betray Hitler.</title>
       <description>Heinrich Luitpold Himmler (German: [ˈhaɪnʁɪç ˈluːɪtpɔlt ˈhɪmlɐ] ; 7 October 1900 – 23 May 1945) was a German Nazi politician and military leader. He was the 4th Reichsführer of the Schutzstaffel (Protection Squadron; SS) from 1929 to 1945. He was a leading member of the Nazi Party, and one of the most powerful figures in Nazi Germany. He was also one of the main architects of the Holocaust, the ge</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/heinrich-himmler-20261112.mp3" type="audio/mpeg" length="1451520"/>
