@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Freddy Krueger: The Boiler Room Child Killer</title>
+      <description>Freddy Krueger is a fictional character and the antagonist of the A Nightmare on Elm Street horror film franchise. Created by Wes Craven, he made his debut in Craven's A Nightmare on Elm Street (1984) as the malevolent spirit of a child killer who had been burned to death by his victims' parents after evading prison. Krueger goes on to murder his victims in their dreams, causing their deaths in th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/freddy-krueger-20261112.mp3" type="audio/mpeg" length="1041792"/>
+      <guid isPermaLink="false">crime-freddy-krueger-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 18:11:53 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>El Chapo: 34,000 Deaths. $8.8M Bounty. Life Sentence.</title>
       <description>Joaquín Archivaldo Guzmán Loera (Spanish: [xoaˈkin aɾtʃiˈβaldo ɣusˈman loˈeɾa]; born 4 April 1957), commonly known as "El Chapo", is a Mexican former drug lord and the former top leader of the Sinaloa Cartel. Guzmán is believed to be responsible for the deaths of over 34,000 people, and was considered to be the most powerful drug trafficker in the world until he was extradited to the United States</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/el-chapo-20261112.mp3" type="audio/mpeg" length="1145472"/>
