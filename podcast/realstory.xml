@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Poe: The Writer Who Invented His Own Death</title>
+      <description>Edgar Allan Poe (born Edgar Poe; January 19, 1809 – October 7, 1849) was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature. Poe was one of the cou</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/edgar-allan-poe-20261112.mp3" type="audio/mpeg" length="1135104"/>
+      <guid isPermaLink="false">realstory-edgar-allan-poe-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 18:49:04 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Marie Curie: Everyone Forgets She Was Poisoned</title>
       <description>Maria Salomea Skłodowska Curie (Polish: [ˈmarja salɔˈmɛa skwɔˈdɔfska kiˈri] ; née Skłodowska; 7 November 1867 – 4 July 1934), better known as Marie Curie ( KURE-ee; French: [maʁi kyʁi] ), was a Polish and naturalised-French physicist and chemist. She shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, "for their joint researches on the  radioactivity phenomena discovered by Prof</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/marie-curie-20261112.mp3" type="audio/mpeg" length="1211904"/>
