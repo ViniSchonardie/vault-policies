@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>KAL 007. 269 Dead. Autopilot Error Into Soviet Airspace.</title>
+      <description>Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-lines-flight-007-crash-20261112.mp3" type="audio/mpeg" length="1676928"/>
+      <guid isPermaLink="false">aviation-korean-air-lines-flight-007-crash-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 18:33:55 GMT</pubDate>
+      <itunes:duration>105</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Swissair 111. 229 Dead. Flammable Walls Killed Them All.</title>
       <description>Swissair Flight 111 was a scheduled international passenger flight from John F. Kennedy International Airport in New York City, United States, to Cointrin Airport in Geneva, Switzerland. The flight was also a codeshare flight with Delta Air Lines. On 2 September 1998, the McDonnell Douglas MD-11 operating this flight crashed into the Atlantic Ocean southwest of Halifax Stanfield International Airp</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/swissair-flight-111-20261112.mp3" type="audio/mpeg" length="1224576"/>
