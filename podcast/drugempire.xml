@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>El Mencho Built a $12.6B Empire. Then Mexico's Army Killed Him.</title>
+      <description>The Jalisco New Generation Cartel (Spanish: Cártel de Jalisco Nueva Generación, pronounced [ˈkaɾtel ðe xaˈlisko ˈnweβa xeneɾaˈsjon]), also known as CJNG, is a Mexican criminal syndicate based in Jalisco founded and headed by Nemesio Oseguera Cervantes, commonly known as El Mencho, until he was killed by the Mexican Army in 2026. The cartel has been characterized by extreme violence and public rela</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/jalisco-new-generation-cartel-20261112.mp3" type="audio/mpeg" length="1365888"/>
+      <guid isPermaLink="false">drugempire-jalisco-new-generation-cartel-20261112</guid>
+      <pubDate>Thu, 12 Nov 2026 01:37:17 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Opium: From Ancient Medicine to Modern Heroin Empire</title>
       <description>Opium (also known as poppy tears, or Lachryma papaveris) is the dried latex obtained from the seed capsules of the opium poppy Papaver somniferum. Approximately 12 percent of opium is made up of the analgesic alkaloid morphine, which is processed chemically to produce heroin and other synthetic opioids for medicinal use and for the illegal drug trade. Opium's main psychoactive alkaloids, primarily</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/opium-20261111.mp3" type="audio/mpeg" length="1296000"/>
