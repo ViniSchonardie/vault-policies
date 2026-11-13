@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Mission Unlocked the Moon Landing in 10 Days</title>
+      <description>Apollo 9 (March 3–13, 1969) was the third human spaceflight in NASA's Apollo program, which successfully tested systems and procedures critical to landing on the Moon. The three-man crew consisted of Commander James McDivitt, Command Module Pilot David Scott, and Lunar Module Pilot Rusty Schweickart. Flown in low Earth orbit, it was the second crewed Apollo mission that the United States launched </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-9-20261113.mp3" type="audio/mpeg" length="1251840"/>
+      <guid isPermaLink="false">space-apollo-9-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 17:27:00 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Rocket Carried a Tesla to Mars Orbit</title>
       <description>Falcon Heavy is a super heavy-lift launch vehicle with partial reusability that can carry cargo into Earth orbit and beyond. It is designed, manufactured and launched by American aerospace company SpaceX.
 The rocket consists of a center core on which two Falcon 9 boosters are attached, and a second stage on top of the center core. Falcon Heavy has the second highest payload capacity of any current</description>
