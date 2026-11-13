@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vlad the Impaler: Wallachia's Monster Everyone Misunderstands</title>
+      <description>Vlad III (1428/31 – 1476/77), commonly known as Vlad the Impaler (Romanian: Vlad Țepeș [ˈvlad ˈtsepeʃ]) or Vlad Dracula ( DRAK-yuu-lə, -⁠yə-; Romanian: Vlad Drăculea [ˈdrəkule̯a]), was Voivode of Wallachia three times between 1448 and his death. He is regarded as a Christian hero in Romania due to his opposition to the Ottoman Empire and he is considered an important ruler in Wallachian history.
+H</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/vlad-the-impaler-20261113.mp3" type="audio/mpeg" length="1745280"/>
+      <guid isPermaLink="false">realstory-vlad-the-impaler-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:55 GMT</pubDate>
+      <itunes:duration>109</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Poe: The Writer Who Invented His Own Death</title>
       <description>Edgar Allan Poe (born Edgar Poe; January 19, 1809 – October 7, 1849) was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature. Poe was one of the cou</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/edgar-allan-poe-20261112.mp3" type="audio/mpeg" length="1135104"/>
