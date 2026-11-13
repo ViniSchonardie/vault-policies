@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Julius Caesar Stabbed 60 Times. Senate Did Nothing.</title>
+      <description>The Ides of March is the day on the Roman calendar marked as the Idus, roughly the midpoint of a month, of Martius, corresponding to 15 March on the Gregorian calendar. It was marked by several major religious observances. In 44 BC, it was the date of the assassination of Julius Caesar, which made it a turning point in Roman history.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ides-of-march-20261113.mp3" type="audio/mpeg" length="943488"/>
+      <guid isPermaLink="false">crime-ides-of-march-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 18:10:52 GMT</pubDate>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Killed 12. Flushed Them Down the Toilet.</title>
       <description>Dennis Andrew Nilsen was a Scottish serial killer and necrophile who murdered at least twelve young men and boys between 1978 and 1983. Convicted at the Old Bailey of six counts of murder and two of attempted murder, Nilsen was sentenced to life imprisonment on 4 November 1983, with a recommendation that he serve a minimum of 25 years; this recommendation was later changed to a whole life tariff i</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/dennis-nilsen-20261113.mp3" type="audio/mpeg" length="1142784"/>
