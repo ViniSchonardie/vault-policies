@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nietzsche: The Philosopher Everyone Misunderstands</title>
+      <description>Friedrich Wilhelm Nietzsche (15 October 1844 – 25 August 1900) was a German philosopher and writer who started his career as a classical philologist and turned to philosophy early in his academic career. In 1869, at age 24, he was appointed Professor of Classical Philology at the University of Basel. Plagued by health problems for most of his life, he resigned from the university in 1879. He after</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/friedrich-nietzsche-20261113.mp3" type="audio/mpeg" length="1309824"/>
+      <guid isPermaLink="false">realstory-friedrich-nietzsche-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 18:47:05 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dickens: Everyone Misunderstands His Childhood</title>
       <description>Charles John Huffam Dickens ( ; 7 February 1812 – 9 June 1870) was an English writer and journalist. He created some of literature's best-known fictional characters, and is regarded by many as the greatest novelist of the Victorian era. His works enjoyed unprecedented popularity during his lifetime and, by the 20th century, critics and scholars had recognised him as a literary genius. His novels a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/charles-dickens-20261113.mp3" type="audio/mpeg" length="1198848"/>
