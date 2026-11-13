@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>300,000 Trapped. Hitler Refused Escape. All Surrendered.</title>
+      <description>The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern Russia. Marked by intense close-quarters combat and heavy civilian losses during aerial bombardment, the battle is considered the largest and deadliest urban battle in military history and the largest ba</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-stalingrad-20261113.mp3" type="audio/mpeg" length="1320576"/>
+      <guid isPermaLink="false">warvault-battle-of-stalingrad-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 17:53:44 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Napoleon's Last Gamble. 74,500 Men. One Day.</title>
       <description>The Battle of Waterloo was fought on Sunday 18 June 1815, near Waterloo (then in the United Kingdom of the Netherlands, now in Belgium), being the last engagement with Napoleon I. The French Imperial Army under the command of Napoleon I was defeated by two armies of the Seventh Coalition. One was a British-led force with units from the United Kingdom, the Netherlands, Hanover, Brunswick, and Nassa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-waterloo-20261113.mp3" type="audio/mpeg" length="1239168"/>
