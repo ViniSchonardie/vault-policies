@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>132 Dead. Both Engines Cut. CAAC Never Explained.</title>
+      <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20261113.mp3" type="audio/mpeg" length="1276800"/>
+      <guid isPermaLink="false">aviation-china-eastern-airlines-flight-5735-20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 18:33:03 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>179 Dead. Wrong Engine Shut Off. Fatal Mistake.</title>
       <description>Jeju Air Flight 2216 was a scheduled international passenger flight operated by Jeju Air from Suvarnabhumi Airport near Bangkok, Thailand, to Muan International Airport in Muan County, South Korea. On 29 December 2024, when the Boeing 737-800 operating the flight was approaching Muan, a bird strike occurred, with both of the engines ingesting birds, causing an apparent loss of thrust in the right </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/jeju-air-flight-2216-20261113.mp3" type="audio/mpeg" length="1364736"/>
