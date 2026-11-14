@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Patton Crashed Into a Truck. Twelve Days Later, He Was Dead.</title>
+      <description>George Smith Patton Jr. (11 November 1885 – 21 December 1945) was a general in the United States Army who commanded the Seventh Army in the Mediterranean Theater of World War II, then the Third Army in France and Germany after the Allied invasion of Normandy in June 1944.
+Born in 1885, Patton attended the Virginia Military Institute and the United States Military Academy at West Point. He studied </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/george-s-patton-20261114.mp3" type="audio/mpeg" length="1049472"/>
+      <guid isPermaLink="false">warvault-george-s-patton-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 01:52:13 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>300,000 Trapped. Hitler Refused Escape. All Surrendered.</title>
       <description>The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern Russia. Marked by intense close-quarters combat and heavy civilian losses during aerial bombardment, the battle is considered the largest and deadliest urban battle in military history and the largest ba</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-stalingrad-20261113.mp3" type="audio/mpeg" length="1320576"/>
