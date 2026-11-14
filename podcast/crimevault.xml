@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Whitey Bulger: FBI's Secret Informant, Most Wanted Fugitive</title>
+      <description>James Joseph "Whitey" Bulger Jr. was an American organized crime boss who led the Winter Hill Gang, an Irish mob group based in the Winter Hill neighborhood of Somerville, Massachusetts, northwest of Boston. On December 23, 1994, Bulger went into hiding after his former FBI handler, John Connolly, tipped him off about a pending RICO indictment against him. He remained at large for sixteen years. A</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/whitey-bulger-20261114.mp3" type="audio/mpeg" length="1114752"/>
+      <guid isPermaLink="false">crime-whitey-bulger-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 01:10:45 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Julius Caesar Stabbed 60 Times. Senate Did Nothing.</title>
       <description>The Ides of March is the day on the Roman calendar marked as the Idus, roughly the midpoint of a month, of Martius, corresponding to 15 March on the Gregorian calendar. It was marked by several major religious observances. In 44 BC, it was the date of the assassination of Julius Caesar, which made it a turning point in Roman history.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ides-of-march-20261113.mp3" type="audio/mpeg" length="943488"/>
