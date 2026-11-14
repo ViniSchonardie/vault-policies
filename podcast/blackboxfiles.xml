@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>5 Dead. Pilots Ignored Every Warning. 32-Year-Old Cargo Plane.</title>
+      <description>21 Air Flight 7598 was a scheduled domestic cargo flight operated by 21 Air on behalf of Amazon Air from Luis Muñoz Marín International Airport in Carolina, Puerto Rico to Miami International Airport in Miami-Dade County, Florida, United States. On September 6, 2026, the Boeing 767 freighter overran the runway while landing in Miami, striking multiple vehicles in the process. Five people were kill</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/21-air-flight-7598-20261114.mp3" type="audio/mpeg" length="1107840"/>
+      <guid isPermaLink="false">aviation-21-air-flight-7598-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 01:33:43 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>132 Dead. Both Engines Cut. CAAC Never Explained.</title>
       <description>China Eastern Airlines Flight 5735 (MU5735) was a domestic passenger flight from Kunming Changshui International Airport to Guangzhou Baiyun International Airport in China. At 14:23 China Standard Time (06:23 UTC) on 21 March 2022, the Boeing 737-800 aircraft descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi, killing all 132 passengers and crew on boa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-eastern-airlines-flight-5735-20261113.mp3" type="audio/mpeg" length="1276800"/>
