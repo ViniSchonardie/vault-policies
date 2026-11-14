@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Debris Cloud Is About to Trap Humanity in Orbit</title>
+      <description>The Kessler syndrome, also known as the Kessler effect, collisional cascading, or ablation cascade, is a scenario proposed by NASA scientists Donald J. Kessler and Burton G. Cour-Palais in 1978. It describes a situation in which the density of objects in low Earth orbit (LEO) becomes so high due to space pollution that collisions between these objects cascade, exponentially increasing the amount o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/kessler-syndrome-20261114.mp3" type="audio/mpeg" length="1638528"/>
+      <guid isPermaLink="false">space-kessler-syndrome-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 13:29:50 GMT</pubDate>
+      <itunes:duration>102</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Dog Orbited Earth Once. She Never Came Home.</title>
       <description>Laika ( LY-kə; Russian: Лáйка, IPA: [ˈlajkə]; c. 1954 – 3 November 1957) was a Soviet space dog who was one of the first animals in space and the first to orbit the Earth. A stray mongrel from the streets of Moscow, she flew aboard the Sputnik 2 spacecraft, launched into low orbit on 3 November 1957. As the technology to re-enter the atmosphere had not yet been developed, Laika's survival was neve</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/laika-20261114.mp3" type="audio/mpeg" length="1276032"/>
