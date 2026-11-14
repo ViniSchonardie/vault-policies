@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lizzie Borden Acquitted. No One Else Charged.</title>
+      <description>Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892, axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and Borden spent the remainder of her life in Fall River. She died of pneumonia at age 66, nine days before the death of her older sister Emma.
+The Borden murders a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/lizzie-borden-20261114.mp3" type="audio/mpeg" length="954240"/>
+      <guid isPermaLink="false">crime-lizzie-borden-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 13:15:17 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Whitey Bulger: FBI's Secret Informant, Most Wanted Fugitive</title>
       <description>James Joseph "Whitey" Bulger Jr. was an American organized crime boss who led the Winter Hill Gang, an Irish mob group based in the Winter Hill neighborhood of Somerville, Massachusetts, northwest of Boston. On December 23, 1994, Bulger went into hiding after his former FBI handler, John Connolly, tipped him off about a pending RICO indictment against him. He remained at large for sixteen years. A</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/whitey-bulger-20261114.mp3" type="audio/mpeg" length="1114752"/>
