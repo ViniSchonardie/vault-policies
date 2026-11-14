@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Satellite Network Just Exceeded 8,500 Active Orbiters</title>
+      <description>A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other s</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/satellite-20261114.mp3" type="audio/mpeg" length="2170752"/>
+      <guid isPermaLink="false">space-satellite-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 17:27:08 GMT</pubDate>
+      <itunes:duration>136</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Debris Cloud Is About to Trap Humanity in Orbit</title>
       <description>The Kessler syndrome, also known as the Kessler effect, collisional cascading, or ablation cascade, is a scenario proposed by NASA scientists Donald J. Kessler and Burton G. Cour-Palais in 1978. It describes a situation in which the density of objects in low Earth orbit (LEO) becomes so high due to space pollution that collisions between these objects cascade, exponentially increasing the amount o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/kessler-syndrome-20261114.mp3" type="audio/mpeg" length="1638528"/>
