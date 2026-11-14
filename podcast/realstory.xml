@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Louis XIV: Everyone Misunderstands Why He Built Versailles</title>
+      <description>Louis XIV (Louis-Dieudonné; 5 September 1638 – 1 September 1715), known as the "Sun King", was King of France from 14 May 1643 until his death in 1715. He is the longest-reigning monarch in history, reigning for 72 years and 110 days. His reign brought about a golden age in French history, marked by a great expansion of the French colonial empire and a flourishing of French culture throughout Euro</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/louis-xiv-of-france-20261114.mp3" type="audio/mpeg" length="1029120"/>
+      <guid isPermaLink="false">realstory-louis-xiv-of-france-20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 01:47:37 GMT</pubDate>
+      <itunes:duration>64</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nietzsche: The Philosopher Everyone Misunderstands</title>
       <description>Friedrich Wilhelm Nietzsche (15 October 1844 – 25 August 1900) was a German philosopher and writer who started his career as a classical philologist and turned to philosophy early in his academic career. In 1869, at age 24, he was appointed Professor of Classical Philology at the University of Basel. Plagued by health problems for most of his life, he resigned from the university in 1879. He after</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/friedrich-nietzsche-20261113.mp3" type="audio/mpeg" length="1309824"/>
