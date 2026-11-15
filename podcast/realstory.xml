@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Al Capone: America's Most Wanted Was Never Caught</title>
+      <description>Alphonse Gabriel Capone (, kə-POHN; Italian: [kaˈpoːne]; January 17, 1899 – January 25, 1947), sometimes known by the nickname "Scarface", was an American gangster and businessman who attained notoriety during the Prohibition era as the co-founder and boss of the Chicago Outfit from 1925 to 1931. His seven-year reign as a crime boss ended when he was imprisoned at the age of 33.
+Capone was born in</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/al-capone-20261115.mp3" type="audio/mpeg" length="1155456"/>
+      <guid isPermaLink="false">realstory-al-capone-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 01:46:34 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Laozi: Everyone Thinks He Wrote the Tao Te Ching</title>
       <description>Laozi (variously spelled, , low-TSUH; Chinese: 老子; pinyin: Lǎozǐ) was a legendary Chinese philosopher considered to be the author of the Tao Te Ching (Pinyin: Dào Dé Jīng), one of the foundational texts of Taoism. Modern scholarship generally regards his biographical details as later inventions and his opus a collaboration of various writers, with the name Laozi, literally meaning 'Old Master', li</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/laozi-20261114.mp3" type="audio/mpeg" length="1211520"/>
