@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Delta 191. 137 Dead. They Ignored the Microburst</title>
+      <description>Delta Air Lines Flight 191 was a regularly scheduled Delta Air Lines domestic flight from Fort Lauderdale, Florida, to Los Angeles, California, with an intermediate stop at Dallas/Fort Worth International Airport (DFW). On August 2, 1985, the Lockheed L-1011 TriStar operating Flight 191 encountered a microburst while on approach to land at DFW. The aircraft impacted ground just over one mile (1.6 </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/delta-air-lines-flight-191-20261115.mp3" type="audio/mpeg" length="1414272"/>
+      <guid isPermaLink="false">aviation-delta-air-lines-flight-191-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 14:33:07 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Aloha 243. 1 Dead. Maintenance Ignored Every Warning.</title>
       <description>Aloha Airlines Flight 243 was a scheduled domestic passenger flight flown by Aloha Airlines between Hilo and Honolulu in Hawaii. On April 28, 1988, the Boeing 737-297 airplane serving the flight suffered extensive damage after an explosive decompression in flight, caused by part of the fuselage breaking due to poor maintenance and metal fatigue. The plane was able to land safely at Kahului Airport</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/aloha-airlines-flight-243-20261115.mp3" type="audio/mpeg" length="1359360"/>
