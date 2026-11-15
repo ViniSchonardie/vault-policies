@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>American Crocodile. Survives Where Nothing Else Can.</title>
+      <description>The American crocodile (Crocodylus acutus) is a species of crocodilian found in the Neotropics. It is the most widespread of the four extant species of crocodiles from the Americas, with populations present from South Florida, the Caribbean islands of Cuba, Jamaica, and Hispaniola, and the coasts of Mexico to as far south as Peru, Ecuador, Colombia, and Venezuela.
+The habitat of the American croco</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/american-crocodile-20261115.mp3" type="audio/mpeg" length="1243392"/>
+      <guid isPermaLink="false">nature-american-crocodile-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 01:20:30 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Spotted Hyena: Africa's Apex Female Killer</title>
       <description>The spotted hyena (Crocuta crocuta), also known as the laughing hyena, is a hyena species, currently classed as the sole extant member of the genus Crocuta, native to sub-Saharan Africa. It is listed as being of least concern by the IUCN due to its widespread range and large numbers estimated between 27,000 and 47,000 individuals. The species is, however, experiencing declines outside of protected</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/spotted-hyena-20261114.mp3" type="audio/mpeg" length="1236864"/>
