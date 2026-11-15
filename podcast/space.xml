@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Mission Saved NASA After Apollo 1's Fatal Fire</title>
+      <description>Apollo 7 (October 11–22, 1968) was the first crewed flight in NASA's Apollo program, and saw the resumption of human spaceflight by the agency after the fire that killed the three Apollo 1 astronauts during a launch rehearsal test on January 27, 1967. The Apollo 7 crew was commanded by Walter M. Schirra, with Command Module Pilot Donn F. Eisele and Lunar Module pilot R. Walter Cunningham (so desig</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-7-20261115.mp3" type="audio/mpeg" length="1690368"/>
+      <guid isPermaLink="false">space-apollo-7-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 13:30:26 GMT</pubDate>
+      <itunes:duration>106</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Spacecraft Is Still Flying After 20 Years</title>
       <description>New Horizons is an interplanetary space probe launched as a part of NASA's New Frontiers program. Launched in 2006, it became the first spacecraft to perform a flyby study and capture high-resolution photographs of Pluto and its moons during its encounter.
 It was engineered by the Johns Hopkins University Applied Physics Laboratory (APL) and the Southwest Research Institute (SwRI), with a team led</description>
