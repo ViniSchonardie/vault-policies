@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>100 Days. 500,000 Dead. Neighbors Killed Neighbors.</title>
+      <description>The Rwandan genocide, also known as the Tutsi genocide, occurred from 7 April to 19 July 1994 during the Rwandan Civil War. Over a span of around 100 days, members of the Tutsi ethnic group, as well as some moderate Hutu and Twa, were systematically killed by Hutu militias. While the Rwandan Constitution states that over 1 million people were killed, most scholarly estimates suggest between 500,00</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/rwandan-genocide-20261115.mp3" type="audio/mpeg" length="1353216"/>
+      <guid isPermaLink="false">warvault-rwandan-genocide-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 01:53:58 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>150,000 Dead. Built on One Lie.</title>
       <description>The Iraq War (Arabic: حرب العراق, romanized: ḥarb al-ʿirāq), also referred to as the Second Gulf War (Gulf War II), was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraq-war-20261114.mp3" type="audio/mpeg" length="1322880"/>
