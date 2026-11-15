@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Is Still Flying After 20 Years</title>
+      <description>New Horizons is an interplanetary space probe launched as a part of NASA's New Frontiers program. Launched in 2006, it became the first spacecraft to perform a flyby study and capture high-resolution photographs of Pluto and its moons during its encounter.
+It was engineered by the Johns Hopkins University Applied Physics Laboratory (APL) and the Southwest Research Institute (SwRI), with a team led</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/new-horizons-20261115.mp3" type="audio/mpeg" length="1078656"/>
+      <guid isPermaLink="false">space-new-horizons-20261115</guid>
+      <pubDate>Sun, 15 Nov 2026 01:27:34 GMT</pubDate>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Satellite Network Just Exceeded 8,500 Active Orbiters</title>
       <description>A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/satellite-20261114.mp3" type="audio/mpeg" length="2170752"/>
