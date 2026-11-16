@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Archive.today Saved Millions. Then Attacked Wikipedia.</title>
+      <description>archive.today (also known as archive.is, among other domains) is a web archiving website that saves snapshots on demand. It has support for JavaScript-heavy sites such as Google Maps and X.com. archive.today records two snapshots: one replicates the original webpage including any functional live links; the other is a screenshot of the page. 
+The website has come under scrutiny from a number of gov</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/archivetoday-20261116.mp3" type="audio/mpeg" length="1565952"/>
+      <guid isPermaLink="false">sportscrime-archivetoday-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 15:59:05 GMT</pubDate>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Associated Press: Built News. Then Nearly Collapsed.</title>
       <description>The Associated Press (AP) is an American not-for-profit news agency headquartered in New York City.
 Founded in 1846, it operates as a cooperative, unincorporated association, and produces news reports that are distributed to its members, major U.S. daily newspapers and radio and television broadcasters. Since the Pulitzer Prize was established in 1917, the AP has earned 60 of them, including 36 fo</description>
