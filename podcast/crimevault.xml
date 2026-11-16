@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Andrei Chikatilo: 52 Murders. 12 Years. Never Caught Until He Confessed.</title>
+      <description>Andrei Romanovich Chikatilo was a Ukrainian-born Soviet serial killer nicknamed "the Butcher of Rostov", "the Rostov Ripper", and "the Red Ripper" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andri-chikatilo-20261116.mp3" type="audio/mpeg" length="1100544"/>
+      <guid isPermaLink="false">crime-andri-chikatilo-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 18:10:16 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>52 Victims. Soviet Teacher. 12 Years Uncaught.</title>
       <description>Andrei Romanovich Chikatilo (Russian: Андрей Романович Чикатило; Ukrainian: Андрій Романович Чикатило, romanized: Andrii Romanovych Chykatylo; 16 October 1936 – 14 February 1994) was a Ukrainian-born Soviet serial killer nicknamed "the Butcher of Rostov", "the Rostov Ripper", and "the Red Ripper" who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/andrei-chikatilo-20261116.mp3" type="audio/mpeg" length="1267200"/>
