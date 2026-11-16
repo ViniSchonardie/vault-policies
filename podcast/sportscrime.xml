@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Associated Press: Built News. Then Nearly Collapsed.</title>
+      <description>The Associated Press (AP) is an American not-for-profit news agency headquartered in New York City.
+Founded in 1846, it operates as a cooperative, unincorporated association, and produces news reports that are distributed to its members, major U.S. daily newspapers and radio and television broadcasters. Since the Pulitzer Prize was established in 1917, the AP has earned 60 of them, including 36 fo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/associated-press-20261116.mp3" type="audio/mpeg" length="1184256"/>
+      <guid isPermaLink="false">sportscrime-associated-press-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 01:58:44 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>American Express Built an Empire. Then Lost It All.</title>
       <description>American Express Company (Amex) is an American bank holding company and multinational financial services corporation that specializes in payment cards. It is headquartered at 200 Vesey Street, also known as American Express Tower, in the Battery Park City neighborhood of Lower Manhattan; in 2026, the company announced that it would develop and be the sole occupant of the new 2 World Trade Center s</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/american-express-20261115.mp3" type="audio/mpeg" length="1458432"/>
