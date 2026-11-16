@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>46 Dead. Track Inspectors Never Saw It Coming.</title>
+      <description>On 18 January 2026, a high-speed passenger train derailed in the municipality of Adamuz, in the province of Córdoba, Spain. The derailment occurred on a straight section of the Madrid–Seville high-speed rail line that was last refurbished in May 2025. A second train crashed into it and was also derailed. The incident killed 46 people and injured 292 others, including 15 in critical condition. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2026-adamuz-train-derailments-20261116.mp3" type="audio/mpeg" length="1946112"/>
+      <guid isPermaLink="false">aviation-2026-adamuz-train-derailments-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 01:36:21 GMT</pubDate>
+      <itunes:duration>122</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PSA 182. 144 Dead. They Ignored the Warning</title>
       <description>Pacific Southwest Airlines Flight 182 was a scheduled flight on September 25, 1978 by Pacific Southwest Airlines (PSA), from Sacramento (SMF) to San Diego (SAN), with a stopover at Los Angeles (LAX). The aircraft involved were a Boeing 727-214 (registration: N533PS) and a private Cessna 172 (light aircraft; N7711G) which collided mid-air  over San Diego. It was Pacific Southwest Airlines' first fa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pacific-southwest-airlines-flight-182-20261115.mp3" type="audio/mpeg" length="1777536"/>
