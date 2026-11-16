@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Buddha: Everyone Misunderstands His Real Teaching</title>
+      <description>Siddhartha Gautama, most commonly referred to as the Buddha (lit. 'the awakened one'), was a wandering ascetic and religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism. According to Buddhist legends, he was born in Lumbini, in what is now Nepal, to royal parents of the Shakya clan, but renounced his home life to live as a wandering </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/the-buddha-20261116.mp3" type="audio/mpeg" length="1198848"/>
+      <guid isPermaLink="false">realstory-the-buddha-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 18:48:48 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mark Twain: Everyone Misunderstands His Greatest Tragedy</title>
       <description>Samuel Langhorne Clemens (November 30, 1835 – April 21, 1910), known by the pen name Mark Twain, was an American writer, humorist, and essayist. He has been praised as the "greatest humorist the United States has produced", with William Faulkner calling him "the father of American literature". Twain's novels include The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/mark-twain-20261116.mp3" type="audio/mpeg" length="1008000"/>
