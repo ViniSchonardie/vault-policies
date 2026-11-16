@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2 Dead. Controller Cleared Truck Onto Active Runway.</title>
+      <description>Air Canada Express Flight 8646 was a regularly scheduled international passenger flight from Montréal–Trudeau International Airport in Quebec, Canada, to LaGuardia Airport in New York, United States. The flight was operated by Jazz Aviation, an airline operating regional flights on behalf of Air Canada under the brand Air Canada Express.
+On the night of March 22, 2026, the Bombardier CRJ900 servin</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-canada-express-flight-8646-20261116.mp3" type="audio/mpeg" length="1238400"/>
+      <guid isPermaLink="false">aviation-air-canada-express-flight-8646-20261116</guid>
+      <pubDate>Mon, 16 Nov 2026 14:47:48 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>46 Dead. Track Inspectors Never Saw It Coming.</title>
       <description>On 18 January 2026, a high-speed passenger train derailed in the municipality of Adamuz, in the province of Córdoba, Spain. The derailment occurred on a straight section of the Madrid–Seville high-speed rail line that was last refurbished in May 2025. A second train crashed into it and was also derailed. The incident killed 46 people and injured 292 others, including 15 in critical condition. The </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/2026-adamuz-train-derailments-20261116.mp3" type="audio/mpeg" length="1946112"/>
