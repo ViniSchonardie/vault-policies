@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Man Orbited Earth in 108 Minutes—Nobody Expected Him Back</title>
+      <description>Vostok 1 (Russian: Восток, lit. 'East'  or 'Orient') was the first spaceflight of the Vostok programme and the first human orbital spaceflight in history. The Vostok 3KA space capsule was launched from Baikonur Cosmodrome on 12 April 1961, with Soviet cosmonaut Yuri Gagarin aboard, making him the first human to reach orbital velocity around the Earth and to complete a full orbit around the Earth.
+</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vostok-1-20261117.mp3" type="audio/mpeg" length="1228416"/>
+      <guid isPermaLink="false">space-vostok-1-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 01:29:13 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Moon Mission Almost Got Aborted in Space</title>
       <description>Apollo 16 (April 16–27, 1972) was the tenth crewed mission in the United States Apollo space program, administered by NASA, and the fifth and penultimate to land on the Moon. It was the second of Apollo's "J missions", with an extended stay on the lunar surface, a focus on science, and the use of the Lunar Roving Vehicle (LRV). The landing and exploration were in the Descartes Highlands, a site ch</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-16-20261116.mp3" type="audio/mpeg" length="1304448"/>
