@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eastern 401. 101 Dead. One Bump Killed Them All.</title>
+      <description>Eastern Air Lines Flight 401 was a scheduled flight from John F. Kennedy International Airport in Queens, New York, to Miami International Airport in Miami, Florida. Shortly before midnight on December 29, 1972, the Lockheed L-1011 TriStar crashed into the Florida Everglades. All three cockpit crew members, two of the ten flight attendants, and 96 of the 163 passengers were killed. 75 people survi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/eastern-air-lines-flight-401-20261117.mp3" type="audio/mpeg" length="1747200"/>
+      <guid isPermaLink="false">aviation-eastern-air-lines-flight-401-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 18:33:57 GMT</pubDate>
+      <itunes:duration>109</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ValuJet 592. 110 Dead. They Ignored Every Warning.</title>
       <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20261117.mp3" type="audio/mpeg" length="1609728"/>
