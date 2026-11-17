@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>ValuJet 592. 110 Dead. They Ignored Every Warning.</title>
+      <description>ValuJet Flight 592 was a regularly scheduled flight from Miami to Atlanta in the United States. On May 11, 1996, the ValuJet Airlines McDonnell Douglas DC-9 operating the route crashed into the Florida Everglades about 10 minutes after departing Miami due to a fire in the cargo compartment. The fire was caused by mislabeled and improperly stored chemical oxygen generators. All 110 people on board </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/valujet-flight-592-20261117.mp3" type="audio/mpeg" length="1609728"/>
+      <guid isPermaLink="false">aviation-valujet-flight-592-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 14:32:58 GMT</pubDate>
+      <itunes:duration>101</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Lion Air 610. 189 Dead. Boeing Hid The Killer</title>
       <description>Lion Air Flight 610 was a scheduled domestic passenger flight from Soekarno–Hatta International Airport, Tangerang, to Depati Amir Airport, Pangkal Pinang, in Indonesia. On 29 October 2018, the Boeing 737 MAX 8 operating the route, carrying 181 passengers and 8 crew members, crashed into the Java Sea 11 minutes after takeoff, killing all 189 occupants on board. It was the first major accident and </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lion-air-flight-610-crash-20261117.mp3" type="audio/mpeg" length="1682304"/>
