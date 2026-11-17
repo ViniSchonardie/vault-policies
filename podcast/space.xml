@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Probe Is Flying Through the Sun at 430,000 MPH</title>
+      <description>The Parker Solar Probe (PSP; previously Solar Probe, Solar Probe Plus or Solar Probe+) is a NASA space probe launched in 2018 to make observations of the Sun's outer corona.
+It used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86 solar radii (6.9 million km or 4.3 million miles) from the center of the Sun. At its closest approach in 2024, its speed relati</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/parker-solar-probe-20261117.mp3" type="audio/mpeg" length="1110912"/>
+      <guid isPermaLink="false">space-parker-solar-probe-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 17:27:27 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>He Was Supposed to Walk on the Moon. His Mission Exploded Instead.</title>
       <description>Fred Wallace Haise Jr. ( HAYZ; born November 14, 1933) is an American former NASA astronaut, engineer, fighter pilot with the U.S. Marine Corps and U.S. Air Force, and test pilot. He is one of the 24 Apollo astronauts to reach the Moon, having served as Lunar Module pilot on Apollo 13. He was to have been the sixth person to walk on the Moon, but the Apollo 13 landing was aborted en route. Haise f</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/fred-haise-20261117.mp3" type="audio/mpeg" length="1225344"/>
