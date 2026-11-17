@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Lion Air 610. 189 Dead. Boeing Hid The Killer</title>
+      <description>Lion Air Flight 610 was a scheduled domestic passenger flight from Soekarno–Hatta International Airport, Tangerang, to Depati Amir Airport, Pangkal Pinang, in Indonesia. On 29 October 2018, the Boeing 737 MAX 8 operating the route, carrying 181 passengers and 8 crew members, crashed into the Java Sea 11 minutes after takeoff, killing all 189 occupants on board. It was the first major accident and </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/lion-air-flight-610-crash-20261117.mp3" type="audio/mpeg" length="1682304"/>
+      <guid isPermaLink="false">aviation-lion-air-flight-610-crash-20261117</guid>
+      <pubDate>Tue, 17 Nov 2026 01:33:14 GMT</pubDate>
+      <itunes:duration>105</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>14 Dead. Casual Chat. The Law That Followed.</title>
       <description>Delta Air Lines Flight 1141 was a scheduled domestic passenger flight between Dallas Fort Worth International Airport, Texas, and Salt Lake City International Airport, Utah. On August 31, 1988, the flight, operated by a Boeing 727-200 series aircraft, crashed during takeoff at Dallas Fort Worth International Airport, resulting in 14 deaths and 76 injuries among the 108 on board. The cause of the c</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/delta-air-lines-flight-1141-20261116.mp3" type="audio/mpeg" length="1414656"/>
