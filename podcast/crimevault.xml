@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>He Confessed to 600 Murders. Almost All Were Lies.</title>
+      <description>Henry Lee Lucas (August 23, 1936 – March 12, 2001), also known as the Confession Killer, was an American murderer and serial killer who was convicted of murdering his mother in 1960 and two others in 1983. He rose to infamy as a claimed serial killer while incarcerated for these crimes, falsely confessing to approximately 600 other murders to the Texas Rangers and other law enforcement officials. </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/henry-lee-lucas-20261118.mp3" type="audio/mpeg" length="1342080"/>
+      <guid isPermaLink="false">crime-henry-lee-lucas-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 01:12:57 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Joran van der Sloot: Prime Suspect. Then He Killed Again.</title>
       <description>Joran Andreas Petrus van der Sloot is a Dutch murderer, extortionist, con man, and drug trafficker who was convicted in the 2010 killing of Stephany Flores Ramírez in Lima, Peru. He first came to public attention as the prime suspect in the disappearance of Natalee Holloway in 2005.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/joran-van-der-sloot-20261117.mp3" type="audio/mpeg" length="1200384"/>
