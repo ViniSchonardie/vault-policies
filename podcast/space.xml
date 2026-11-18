@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Orbited Saturn for 13 Years. Then It Intentionally Burned Up.</title>
+      <description>Cassini–Huygens ( kə-SEE-nee HOY-gənz), commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which la</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/cassinihuygens-20261118.mp3" type="audio/mpeg" length="1250688"/>
+      <guid isPermaLink="false">space-cassinihuygens-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 01:29:06 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Probe Is Flying Through the Sun at 430,000 MPH</title>
       <description>The Parker Solar Probe (PSP; previously Solar Probe, Solar Probe Plus or Solar Probe+) is a NASA space probe launched in 2018 to make observations of the Sun's outer corona.
 It used repeated gravity assists from Venus to develop an eccentric orbit, approaching within 9.86 solar radii (6.9 million km or 4.3 million miles) from the center of the Sun. At its closest approach in 2024, its speed relati</description>
