@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Shuttle Had 16 Minutes Left. Foam Killed It All.</title>
+      <description>STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission ended on February 1, 2003, with the Space Shuttle Columbia disaster, in which all seven crew members were killed in the re-entry on the Earth's atmosphere; the shuttle was destroyed along with most of its scientific payloads.
+The flight launched from Kennedy Space Center </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-107-20261118.mp3" type="audio/mpeg" length="1391616"/>
+      <guid isPermaLink="false">space-sts-107-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 17:27:52 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>His Spacesuit Nearly Killed Him at 17,500 MPH</title>
       <description>Alexei Arkhipovich Leonov (30 May 1934 – 11 October 2019) was a Soviet and Russian cosmonaut and aviator, Air Force major general, writer, and artist. On 18 March 1965, he became the first person to conduct a spacewalk, exiting the capsule during the Voskhod 2 mission for 12 minutes and 9 seconds. He was also selected to be the first Soviet person to land on the Moon although the project was event</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/alexei-leonov-20261118.mp3" type="audio/mpeg" length="1140864"/>
