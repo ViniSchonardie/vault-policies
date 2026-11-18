@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>257 Dead. Air New Zealand Hid the Coordinates.</title>
+      <description>The Mount Erebus disaster occurred on 28 November 1979 when Air New Zealand Flight 901 (TE901) crashed into Mount Erebus on Ross Island, Antarctica, killing all 237 passengers and 20 crew on board. Air New Zealand had been operating scheduled Antarctic sightseeing flights since 1977. This flight left Auckland Airport in the morning and was supposed to spend a few hours flying over the Antarctic co</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/air-new-zealand-flight-901-20261118.mp3" type="audio/mpeg" length="1534848"/>
+      <guid isPermaLink="false">aviation-air-new-zealand-flight-901-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 18:34:15 GMT</pubDate>
+      <itunes:duration>96</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EgyptAir 990. 217 Dead. Intentional Act Never Proven.</title>
       <description>EgyptAir Flight 990 was a scheduled flight from Los Angeles International Airport to Cairo International Airport, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767-300ER operating the route crashed into the Atlantic Ocean about 60 miles (100 km) south of Nantucket Island, Massachusetts, killing all 217 passengers and crew on board, making it t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/egyptair-flight-990-20261118.mp3" type="audio/mpeg" length="1238784"/>
