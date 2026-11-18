@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robin Hood: Everyone Gets the Legend Completely Wrong</title>
+      <description>Robin Hood is a legendary heroic outlaw originally depicted in English folklore and subsequently featured in literature, theatre, and cinema. According to legend, he was a highly skilled archer and swordsman. In some versions of the legend, he is depicted as being of noble birth, and in modern retellings he is sometimes depicted as having fought in the Crusades before returning to England to find </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/robin-hood-20261118.mp3" type="audio/mpeg" length="1347840"/>
+      <guid isPermaLink="false">realstory-robin-hood-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 01:48:51 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Louis XVI: Everyone Misunderstands Why He Lost France</title>
       <description>Louis XVI (Louis-Auguste; French: [lwi sɛːz]; 23 August 1754 – 21 January 1793) was the last king of France before the fall of the monarchy during the French Revolution. The son of Louis, Dauphin of France (son and heir apparent of King Louis XV), and Maria Josepha of Saxony, Louis became the new Dauphin when his father died in 1765. In 1770, he married Austrian Archduchess Marie Antoinette. He be</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/louis-xvi-of-france-20261117.mp3" type="audio/mpeg" length="1259520"/>
