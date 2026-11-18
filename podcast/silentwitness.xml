@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Show Trials: Verdict Decided Before Court</title>
+      <description>A show trial is a public trial in which the guilt or innocence of the defendant has already been determined. It is a type of political trial. The purpose of holding a show trial is to present both accusation and verdict to the public, serving as an example and a warning to other would-be dissidents or transgressors.
+Show trials tend to be retributive rather than corrective, and they are also condu</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/silentwitness-audio/show-trial-20261118.mp3" type="audio/mpeg" length="1387008"/>
+      <guid isPermaLink="false">trials-show-trial-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 20:44:26 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>23 Nazi Doctors on Trial. Then 7 Were Hanged.</title>
       <description>United States of America v. Karl Brandt, et al., commonly known as the Doctors' Trial, was the first of the twelve "Subsequent Nuremberg trials" for war crimes and crimes against humanity after the end of World War II between 1946 and 1947. The accused were 20 physicians and 3 SS officials charged for their involvement in the Aktion T4 programme and Nazi human experimentation.
 The Doctors' Trial w</description>
