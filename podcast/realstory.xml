@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Nixon: Everyone Misunderstands Why He Really Resigned</title>
+      <description>The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal h</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/watergate-scandal-20261118.mp3" type="audio/mpeg" length="2145792"/>
+      <guid isPermaLink="false">realstory-watergate-scandal-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 14:50:53 GMT</pubDate>
+      <itunes:duration>134</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Robin Hood: Everyone Gets the Legend Completely Wrong</title>
       <description>Robin Hood is a legendary heroic outlaw originally depicted in English folklore and subsequently featured in literature, theatre, and cinema. According to legend, he was a highly skilled archer and swordsman. In some versions of the legend, he is depicted as being of noble birth, and in modern retellings he is sometimes depicted as having fought in the Crusades before returning to England to find </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/robin-hood-20261118.mp3" type="audio/mpeg" length="1347840"/>
