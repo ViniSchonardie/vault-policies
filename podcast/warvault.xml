@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Israel Destroyed an Entire Air Force in One Day. How</title>
+      <description>The Six-Day War, or the 1967 Arab–Israeli war (5–10 June 1967), was fought between Israel and a coalition of Arab states, primarily Egypt, Syria, and Jordan, in the context of the Arab–Israeli conflict. In the war, Israel captured and occupied the West Bank (including East Jerusalem) from Jordan, the Gaza Strip and the Sinai Peninsula from Egypt, and the Golan Heights from Syria.
+Military hostilit</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/six-day-war-20261118.mp3" type="audio/mpeg" length="1232640"/>
+      <guid isPermaLink="false">warvault-six-day-war-20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 17:54:44 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>750 Years of Conflict. One Land. Two Nations.</title>
       <description>Israel and the Palestinians are engaged in an ongoing military and political conflict about land and self-determination within the former territory of Mandatory Palestine. Key aspects of the conflict have included Palestinian refugees, the Israeli occupation of the West Bank and Gaza Strip, the status of Jerusalem, Israeli settlements, borders, security, water rights, the permit regime in the West</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/israelipalestinian-conflict-20261118.mp3" type="audio/mpeg" length="1326336"/>
