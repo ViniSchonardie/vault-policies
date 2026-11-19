@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>349 Dead. One Shared Corridor. They Ignored Every Warning.</title>
+      <description>On 12 November 1996, Saudia Flight 763, a Boeing 747-100 en route from Delhi, India, to Jeddah, with a stopover in Dhahran, Saudi Arabia, and Kazakhstan Airlines Flight 1907, an Ilyushin Il-76 en route from Shymkent, Kazakhstan, to Delhi, collided over the city of Charkhi Dadri, around 100 kilometres (62 mi; 54 nmi) west of Delhi. The crash killed all 349 people on board both planes, making it the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/charkhi-dadri-mid-air-collision-20261119.mp3" type="audio/mpeg" length="1709952"/>
+      <guid isPermaLink="false">aviation-charkhi-dadri-mid-air-collision-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 14:33:09 GMT</pubDate>
+      <itunes:duration>107</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Northwest 255. 156 Dead. They Ignored the Warning System.</title>
       <description>On Sunday, August 16, 1987, a McDonnell Douglas MD-82 operating as Northwest Airlines Flight 255 crashed shortly after takeoff from Detroit Metropolitan Airport at about 20:46 EDT (00:46 UTC August 17). All six crew members and 148 of the 149 passengers, as well as two people on the ground, were killed.
 The National Transportation Safety Board (NTSB) determined that the probable cause of the accid</description>
