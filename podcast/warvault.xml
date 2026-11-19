@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>12,000 Soldiers Charged a Mile. None Made It Back.</title>
+      <description>The Battle of Gettysburg (locally  ) (July 1–3, 1863) was fought in the American Civil War between the Union and Confederate armies in and around Gettysburg, Pennsylvania. The battle, won by the Union, is widely considered the Civil War's turning point, leading to an ultimate victory of the Union and the preservation of the nation. The Battle of Gettysburg was the bloodiest battle of both the Civi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-gettysburg-20261119.mp3" type="audio/mpeg" length="1245696"/>
+      <guid isPermaLink="false">warvault-battle-of-gettysburg-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 13:53:35 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Osama bin Laden Found. SEAL Team Six Killed Him. One Night.</title>
       <description>On May 2, 2011, the United States conducted Operation Neptune Spear, in which SEAL Team Six shot and killed Osama bin Laden at his "Waziristan Haveli" in Abbottabad, Pakistan. Bin Laden, who founded al-Qaeda and orchestrated the September 11 attacks, had been the subject of a United States military manhunt since the beginning of the war in Afghanistan, but escaped to Pakistan—allegedly with Pakist</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/killing-of-osama-bin-laden-20261119.mp3" type="audio/mpeg" length="1688064"/>
