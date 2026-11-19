@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Martin Luther: Everyone Misunderstands Why He Split the Church</title>
+      <description>Martin Luther ( LOO-thər; German: [ˈmaʁtiːn ˈlʊtɐ] ; 10 November 1483 – 18 February 1546) was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history.
+Born in E</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/martin-luther-20261119.mp3" type="audio/mpeg" length="1190400"/>
+      <guid isPermaLink="false">realstory-martin-luther-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 18:48:37 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Paul: Everyone Misunderstands His Conversion</title>
       <description>Paul (born Saul of Tarsus; c. 5 – c. 64/65 AD), commonly known as Paul the Apostle or Saint Paul, was a Christian apostle who spread the teachings of Jesus in the first-century AD. For his contributions towards the New Testament, he is generally regarded as one of the most important figures of the Apostolic Age, and he also founded several Christian communities in Asia Minor and Europe from the mi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/paul-the-apostle-20261119.mp3" type="audio/mpeg" length="1093632"/>
