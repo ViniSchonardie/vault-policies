@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Charles Starkweather Killed 11 People in 40 Days</title>
+      <description>Charles Raymond Starkweather was an American spree killer who murdered eleven people in Nebraska and Wyoming between December 1957 and January 1958, when he was nineteen years old. He killed ten of his victims between January 21 and January 29, 1958, the date of his arrest. During his spree in 1958, Starkweather was accompanied by his fourteen-year-old girlfriend, Caril Ann Fugate.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/charles-starkweather-20261119.mp3" type="audio/mpeg" length="1282176"/>
+      <guid isPermaLink="false">crime-charles-starkweather-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 13:16:30 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>151 Dead at Concert. US Warned Russia 15 Days Before.</title>
       <description>On 22 March 2024, a coordinated terrorist attack against civilians occurred at the Crocus City Hall music venue in Crocus City, Krasnogorsk, Moscow Oblast, Russia. The attack began at around 20:00 MSK (UTC+3), shortly before the Russian band Picnic was scheduled to play a sold-out show at the venue. Four terrorists associated with Islamic State – Khorasan Province carried out a mass shooting, as w</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/crocus-city-hall-attack-20261119.mp3" type="audio/mpeg" length="1460736"/>
