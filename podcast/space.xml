@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Rocket Was Hit by Lightning TWICE at Liftoff</title>
+      <description>Apollo 12 (November 14–24, 1969) was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles "Pete" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day an</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-12-20261119.mp3" type="audio/mpeg" length="1231488"/>
+      <guid isPermaLink="false">space-apollo-12-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 17:27:31 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Three Cosmonauts Died in Space Above Earth</title>
       <description>Soyuz 11 (Russian: Союз 11, lit. 'Union 11') was the only crewed mission to board the world's first space station, Salyut 1. The crew – Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev – arrived at the space station on 7 June 1971, and departed on 29 June 1971. The mission ended in disaster when the crew capsule depressurised during preparations for re-entry, killing the three-person crew</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-11-20261119.mp3" type="audio/mpeg" length="1459968"/>
