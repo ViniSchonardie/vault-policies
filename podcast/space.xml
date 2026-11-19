@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Three Cosmonauts Died in Space Above Earth</title>
+      <description>Soyuz 11 (Russian: Союз 11, lit. 'Union 11') was the only crewed mission to board the world's first space station, Salyut 1. The crew – Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev – arrived at the space station on 7 June 1971, and departed on 29 June 1971. The mission ended in disaster when the crew capsule depressurised during preparations for re-entry, killing the three-person crew</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/soyuz-11-20261119.mp3" type="audio/mpeg" length="1459968"/>
+      <guid isPermaLink="false">space-soyuz-11-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 13:32:58 GMT</pubDate>
+      <itunes:duration>91</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Cosmonaut Was Kicked Off the ISS Mission Hours Before Launch</title>
       <description>SpaceX Crew-12 is the twelfth operational NASA Commercial Crew Program flight and the 20th crewed orbital flight of a Crew Dragon spacecraft. The mission transported four crew members—NASA astronauts Jessica Meir and Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev—to the International Space Station (ISS). The mission launched on 13 February 2026.
 
