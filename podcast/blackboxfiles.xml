@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>United 811. 9 Dead. Boeing Ignored the Design Flaw.</title>
+      <description>United Airlines Flight 811 was a regularly scheduled international flight from Los Angeles to Sydney, with intermediate stops at Honolulu and Auckland. On February 24, 1989, the Boeing 747 serving the flight experienced a cargo-door failure in flight shortly after leaving Honolulu. The resulting explosive decompression blew out several rows of seats, killing nine passengers. The aircraft returned </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/united-airlines-flight-811-20261119.mp3" type="audio/mpeg" length="1406208"/>
+      <guid isPermaLink="false">aviation-united-airlines-flight-811-20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 18:35:51 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>349 Dead. One Shared Corridor. They Ignored Every Warning.</title>
       <description>On 12 November 1996, Saudia Flight 763, a Boeing 747-100 en route from Delhi, India, to Jeddah, with a stopover in Dhahran, Saudi Arabia, and Kazakhstan Airlines Flight 1907, an Ilyushin Il-76 en route from Shymkent, Kazakhstan, to Delhi, collided over the city of Charkhi Dadri, around 100 kilometres (62 mi; 54 nmi) west of Delhi. The crash killed all 349 people on board both planes, making it the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/charkhi-dadri-mid-air-collision-20261119.mp3" type="audio/mpeg" length="1709952"/>
