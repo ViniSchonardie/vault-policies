@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>70 Dead. Pilot Came In Too Low. Nobody Saw It Coming.</title>
+      <description>On 28 August 1988, three aircraft of the Italian Air Force display team collided during the Flugtag '88 airshow at USAF Ramstein Air Base near Kaiserslautern, West Germany. They crashed to the ground in front of a crowd of about 30,000 people, causing 70 fatalities (67 spectators and 3 pilots); 346 spectators sustained serious injuries in the resulting explosion and fire. Hundreds more had minor i</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/ramstein-air-show-disaster-20261120.mp3" type="audio/mpeg" length="1420416"/>
+      <guid isPermaLink="false">aviation-ramstein-air-show-disaster-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 14:32:01 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>38 Dead. Taliban Shot Down Extortion 17. No One Saw It Coming.</title>
       <description>On 6 August 2011, a U.S. CH-47D Chinook military helicopter operating with the call sign Extortion 17 (pronounced "Extortion one-seven") was shot down while transporting a Quick Reaction Force attempting to reinforce a Joint Special Operations Command unit of the 75th Ranger Regiment in the Tangi Valley in Maidan Wardak province, southwest of Kabul, Afghanistan.
 The resulting crash killed all thir</description>
