@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Spent 340 Days in Space (His Body Changed Forever)</title>
+      <description>Scott Joseph Kelly (born February 21, 1964) is an American engineer, retired astronaut, and naval aviator. A veteran of four space flights, Kelly commanded the International Space Station (ISS) on Expeditions 26, 45, and 46.
+Kelly's first spaceflight was as pilot of Space Shuttle Discovery during STS-103 in December 1999. This was the third servicing mission to the Hubble Space Telescope, and last</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/scott-kelly-20261120.mp3" type="audio/mpeg" length="1285248"/>
+      <guid isPermaLink="false">space-scott-kelly-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 01:29:29 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Rocket Was Hit by Lightning TWICE at Liftoff</title>
       <description>Apollo 12 (November 14–24, 1969) was the sixth crewed flight in the United States Apollo program and the second to land on the Moon. It was launched on November 14, 1969, by NASA from the Kennedy Space Center in Florida, landing on the part of the Moon called the Ocean of Storms on November 19, 1969. Commander Charles "Pete" Conrad and Lunar Module Pilot Alan L. Bean completed just over one day an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-12-20261119.mp3" type="audio/mpeg" length="1231488"/>
