@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Shuttle Broke Apart 73 Seconds After Liftoff</title>
+      <description>STS-51-L was the 25th mission of NASA's Space Shuttle program which resulted in the loss of Space Shuttle Challenger.
+It was planned as the first Teacher in Space Project flight in addition to observing Halley's Comet for six days and performing a routine satellite deployment. The mission did not achieve orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-51-l-20261120.mp3" type="audio/mpeg" length="1171584"/>
+      <guid isPermaLink="false">space-sts-51-l-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 17:28:16 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>She Was Told to Be a Nurse. She Orbited Earth 127 Times.</title>
       <description>Mae Carol Jemison (born October 17, 1956) is an American engineer, physician, and former NASA astronaut. She became the first African-American woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour in 1992. Jemison joined NASA's astronaut corps in 1987 and was selected for the STS-47 mission, during which the Endeavour orbited the Earth for nearly eig</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mae-jemison-20261120.mp3" type="audio/mpeg" length="1168128"/>
