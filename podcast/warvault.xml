@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>1.3 Million Arrived. 1.1 Million Never Left.</title>
+      <description>Auschwitz (German: [ˈaʊ̯ʃvɪts]), also known as Oświęcim (Polish: [ɔˈɕfjɛɲ.t͡ɕim]), was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland (in a portion annexed into Germany in 1939) during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) in Oświęcim; Auschwitz II-Birkenau, a concentration and extermination c</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/auschwitz-concentration-camp-20261120.mp3" type="audio/mpeg" length="1292544"/>
+      <guid isPermaLink="false">warvault-auschwitz-concentration-camp-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 13:54:58 GMT</pubDate>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>268 Soldiers Rode Into Greasy Grass. Almost None Rode Out.</title>
       <description>The 1876 Battle of the Little Bighorn, commonly referred to as Custer's Last Stand, and known to the Lakota and other Plains Indians as the Battle of the Greasy Grass, was an armed engagement between combined forces of the Lakota Sioux, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. It took place on June 25–26, 1876, along the Little Bighorn River in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-little-bighorn-20261120.mp3" type="audio/mpeg" length="1615488"/>
