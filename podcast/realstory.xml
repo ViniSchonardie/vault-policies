@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>JFK: Everyone Believes the Wrong Conspiracy Theory</title>
+      <description>John F. Kennedy, the 35th president of the United States, was assassinated while riding in a presidential motorcade through Dealey Plaza in Dallas, Texas, on Friday, November 22, 1963. Kennedy was in the vehicle with his wife Jacqueline, Texas governor John Connally, and Connally's wife Nellie, when he was fatally shot from the nearby Texas School Book Depository by Lee Harvey Oswald, a former U.S</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-john-f-kennedy-20261120.mp3" type="audio/mpeg" length="1921536"/>
+      <guid isPermaLink="false">realstory-assassination-of-john-f-kennedy-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 18:49:20 GMT</pubDate>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Dante: Everyone Misunderstands Why He Wrote The Divine Comedy</title>
       <description>Dante Alighieri (Italian: [ˈdante aliˈɡjɛːri]; most likely baptized Durante di Alighiero degli Alighieri; c. May 1265 – September 14, 1321), widely known mononymously as Dante, was an Italian poet, writer, and philosopher. His Divine Comedy, originally called Comedìa (modern Italian: Commedia) and later christened Divina by Giovanni Boccaccio, is widely considered one of the most important poems o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/dante-alighieri-20261120.mp3" type="audio/mpeg" length="1147392"/>
