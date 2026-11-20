@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Dante: Everyone Misunderstands Why He Wrote The Divine Comedy</title>
+      <description>Dante Alighieri (Italian: [ˈdante aliˈɡjɛːri]; most likely baptized Durante di Alighiero degli Alighieri; c. May 1265 – September 14, 1321), widely known mononymously as Dante, was an Italian poet, writer, and philosopher. His Divine Comedy, originally called Comedìa (modern Italian: Commedia) and later christened Divina by Giovanni Boccaccio, is widely considered one of the most important poems o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/dante-alighieri-20261120.mp3" type="audio/mpeg" length="1147392"/>
+      <guid isPermaLink="false">realstory-dante-alighieri-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 14:48:59 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ada Lovelace: Everyone Gets Her Story Wrong</title>
       <description>Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine. She was the first to recognise the machine had applications beyond pure calculation. Lovelace is often considered the first comput</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ada-lovelace-20261120.mp3" type="audio/mpeg" length="998784"/>
