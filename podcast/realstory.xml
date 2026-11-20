@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ada Lovelace: Everyone Gets Her Story Wrong</title>
+      <description>Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine. She was the first to recognise the machine had applications beyond pure calculation. Lovelace is often considered the first comput</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/ada-lovelace-20261120.mp3" type="audio/mpeg" length="998784"/>
+      <guid isPermaLink="false">realstory-ada-lovelace-20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 01:48:25 GMT</pubDate>
+      <itunes:duration>62</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Martin Luther: Everyone Misunderstands Why He Split the Church</title>
       <description>Martin Luther ( LOO-thər; German: [ˈmaʁtiːn ˈlʊtɐ] ; 10 November 1483 – 18 February 1546) was a German priest, theologian, author, hymnwriter, professor, and former Augustinian friar. Luther was the seminal figure of the Protestant Reformation, and his theological beliefs form the basis of Lutheranism. He is considered one of the most influential figures in Western and Christian history.
 Born in E</description>
