@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Caligula: Everyone Misunderstands Rome's Wildest Emperor</title>
+      <description>Gaius Julius Caesar Augustus Germanicus (31 August AD 12 – 24 January AD 41), also called Gaius or Caligula (), was the third Roman emperor, ruling from AD 37 until his assassination in AD 41. He was the son of the Roman general Germanicus and Agrippina the Elder, Augustus's granddaughter, members of the first ruling family of the Roman Empire. He was born two years before Tiberius became emperor.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/caligula-20261121.mp3" type="audio/mpeg" length="1281024"/>
+      <guid isPermaLink="false">realstory-caligula-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 18:47:16 GMT</pubDate>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trotsky: Everyone Misunderstands Why Stalin Won</title>
       <description>Lev Davidovich Trotsky (né Bronstein; 7 November [O.S. 26 October] 1879 – 21 August 1940), better known as Leon Trotsky, was a Russian revolutionary, Soviet politician and political theorist. He was a key figure in the 1905 Revolution, the October Revolution of 1917, the Russian Civil War, and the establishment of the Soviet Union, from which he was exiled in 1929 before his assassination in 1940.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leon-trotsky-20261121.mp3" type="audio/mpeg" length="1188864"/>
