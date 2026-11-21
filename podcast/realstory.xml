@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Hoover: The Humanitarian Everyone Forgets</title>
+      <description>Herbert Clark Hoover (August 10, 1874 – October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. As a member of the Republican Party, he served as the third United States secretary of commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as inadequ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/herbert-hoover-20261121.mp3" type="audio/mpeg" length="1375488"/>
+      <guid isPermaLink="false">realstory-herbert-hoover-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 01:49:16 GMT</pubDate>
+      <itunes:duration>86</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>JFK: Everyone Believes the Wrong Conspiracy Theory</title>
       <description>John F. Kennedy, the 35th president of the United States, was assassinated while riding in a presidential motorcade through Dealey Plaza in Dallas, Texas, on Friday, November 22, 1963. Kennedy was in the vehicle with his wife Jacqueline, Texas governor John Connally, and Connally's wife Nellie, when he was fatally shot from the nearby Texas School Book Depository by Lee Harvey Oswald, a former U.S</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/assassination-of-john-f-kennedy-20261120.mp3" type="audio/mpeg" length="1921536"/>
