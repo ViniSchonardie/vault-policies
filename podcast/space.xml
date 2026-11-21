@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Helicopter Shouldn't Fly on Mars. It Just Completed 72 Flights.</title>
+      <description>Ingenuity, nicknamed Ginny, is an autonomous  helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission. Ingenuity made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight. It was designed by NASA's Jet Propulsion Labo</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ingenuity-helicopter-20261121.mp3" type="audio/mpeg" length="1487232"/>
+      <guid isPermaLink="false">space-ingenuity-helicopter-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 17:27:41 GMT</pubDate>
+      <itunes:duration>93</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Spacecraft Was Spinning Out of Control at 296°/Second</title>
       <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20261121.mp3" type="audio/mpeg" length="1668864"/>
