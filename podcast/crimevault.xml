@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ed Gein: 40 Grave Robberies. One Horrifying Discovery.</title>
+      <description>Edward Theodore Gein, also known as the Butcher of Plainfield and the Plainfield Ghoul, was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he stole corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ed-gein-20261121.mp3" type="audio/mpeg" length="1183104"/>
+      <guid isPermaLink="false">crime-ed-gein-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 01:12:08 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jerry Brudos: 4 Women. Same Basement. 1968-1969.</title>
       <description>Jerome Henry "Jerry" Brudos was an American serial killer and necrophile known as the Lust Killer and the Shoe Fetish Slayer who committed the kidnap, rape, and murder of four young women between 1968 and 1969 in Salem, Oregon. He is also known to have attempted to abduct two other young women.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jerry-brudos-20261120.mp3" type="audio/mpeg" length="1117824"/>
