@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>300 Spartans Held a Pass. Then One Man Betrayed Them.</title>
+      <description>The Battle of Thermopylae () was fought in 480 BC at Thermopylae between the Achaemenid Persian Empire under Xerxes and an alliance of Greek city-states led by Sparta under Leonidas I. Lasting over the course of three days, it was one of the most prominent battles of both the second Persian invasion of Greece and the wider Greco-Persian Wars.
+The engagement occurred simultaneously with the naval B</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-thermopylae-20261121.mp3" type="audio/mpeg" length="1237632"/>
+      <guid isPermaLink="false">warvault-battle-of-thermopylae-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 13:54:48 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>500,000 Dead. Eight Years. Neither Side Won.</title>
       <description>The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths (excluding numbers from the related Anfal campaign), making it the deadliest conventional war ever fo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/iraniraq-war-20261121.mp3" type="audio/mpeg" length="1442304"/>
