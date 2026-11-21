@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Was Spinning Out of Control at 296°/Second</title>
+      <description>Gemini 8 (officially Gemini VIII) was the sixth crewed spaceflight in NASA's Gemini program. It was launched on March 16, 1966, and was the 14th crewed American flight and the 22nd crewed spaceflight overall. The mission conducted the first U.S. docking of two spacecraft in orbit, but also suffered the first critical in-space system failure of a U.S. spacecraft. Astronauts Neil Armstrong and David</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/gemini-8-20261121.mp3" type="audio/mpeg" length="1668864"/>
+      <guid isPermaLink="false">space-gemini-8-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 13:31:50 GMT</pubDate>
+      <itunes:duration>104</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Lunar Module Tumbled Out of Control Above the Moon</title>
       <description>Apollo 10 (May 18–26, 1969) was the fourth human spaceflight in the United States' Apollo program and the second to orbit the Moon. NASA, the mission's operator, described it as a "dress rehearsal" for the first Moon landing (Apollo 11, two months later). It was designated an "F" mission, intended to test all spacecraft components and procedures short of actual descent and landing.
 After the space</description>
