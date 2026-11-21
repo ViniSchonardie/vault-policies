@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Southwest 1380. 1 Dead. They Ignored the Warning Signs.</title>
+      <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20261121.mp3" type="audio/mpeg" length="1252992"/>
+      <guid isPermaLink="false">aviation-southwest-airlines-flight-1380-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 18:33:35 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>49 Dead. Wrong Runway. Pilots Saw the Warning.</title>
       <description>Comair Flight 5191 was a scheduled United States domestic passenger flight from Lexington, Kentucky, to Atlanta, Georgia. On the morning of August 27, 2006, at around 06:07 EDT (10:07 UTC), the Bombardier CRJ100 crashed while attempting to take off from Blue Grass Airport in Fayette County, Kentucky, 4 miles (6 km; 3 nmi) west of the central business district of the city of Lexington.
 The aircraft</description>
