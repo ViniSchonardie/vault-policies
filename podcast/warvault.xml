@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>780 Men Detained. 756 Released. 15 Still Held. No Trial.</title>
+      <description>The Guantanamo Bay detention camp is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in 2002 by President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the war on terror following the September 11 attacks. As of January 2025, at least 780 people from 48 countries have been detaine</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/guantanamo-bay-detention-camp-20261121.mp3" type="audio/mpeg" length="1119360"/>
+      <guid isPermaLink="false">warvault-guantanamo-bay-detention-camp-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 17:53:57 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>300 Spartans Held a Pass. Then One Man Betrayed Them.</title>
       <description>The Battle of Thermopylae () was fought in 480 BC at Thermopylae between the Achaemenid Persian Empire under Xerxes and an alliance of Greek city-states led by Sparta under Leonidas I. Lasting over the course of three days, it was one of the most prominent battles of both the second Persian invasion of Greece and the wider Greco-Persian Wars.
 The engagement occurred simultaneously with the naval B</description>
