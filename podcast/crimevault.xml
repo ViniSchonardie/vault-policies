@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Jimmy Savile: 300 Victims. BBC Star. Never Charged.</title>
+      <description>Sir James Wilson Vincent Savile (; 31 October 1926 – 29 October 2011) was an English media personality and disc jockey. During his lifetime, he was known for his eccentric image, charitable work, and hosting the BBC shows Top of the Pops and Jim'll Fix It. Following his death, hundreds of allegations of sexual abuse made against him were investigated, leading the police to conclude that he had bee</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/jimmy-savile-20261121.mp3" type="audio/mpeg" length="1367040"/>
+      <guid isPermaLink="false">crime-jimmy-savile-20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 13:14:29 GMT</pubDate>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ed Gein: 40 Grave Robberies. One Horrifying Discovery.</title>
       <description>Edward Theodore Gein, also known as the Butcher of Plainfield and the Plainfield Ghoul, was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety in 1957 after authorities discovered that he stole corpses from local graveyards and fashioned keepsakes from their bones and skin. He also confessed to killing two women</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ed-gein-20261121.mp3" type="audio/mpeg" length="1183104"/>
