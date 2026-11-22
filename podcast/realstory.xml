@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Napoleon III: Everyone Gets His Story Wrong</title>
+      <description>Napoleon III (born Charles-Louis Napoléon Bonaparte; 20 April 1808 – 9 January 1873) was President of France from 1848 to 1852 and then Emperor of the French from 1852 until his deposition in 1870. He was the second president (First president of the French Second Republic), second emperor, and last monarch of France. He created the Second French Empire in 1852, and this period saw rapid industrial</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/napoleon-iii-20261122.mp3" type="audio/mpeg" length="2574336"/>
+      <guid isPermaLink="false">realstory-napoleon-iii-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 14:50:51 GMT</pubDate>
+      <itunes:duration>161</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Edison: Everyone Misunderstands His Greatest Invention</title>
       <description>Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman. He grew up in Michigan with little formal schooling and began working at a young age. He became deaf as a child and learned through books and tinkering. As a railroad telegrapher, he spent much of his time inventing improvements to telegraph systems. By the age of 22, he had sold a few of his early </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-edison-20261122.mp3" type="audio/mpeg" length="1239936"/>
