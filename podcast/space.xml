@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Rover Was Built to Die in 90 Days. It Lasted 14 Years.</title>
+      <description>Opportunity, also known as MER-B (Mars Exploration Rover – B) or MER-1, and nicknamed Oppy, is a robotic rover that was active on Mars from 2004 until 2018. Opportunity was operational on Mars for 5111 sols (14 years, 138 days on Earth). Launched on July 7, 2003, as part of NASA's Mars Exploration Rover program, it landed in Meridiani Planum on January 25, 2004, three weeks after its twin, Spirit </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/opportunity-rover-20261122.mp3" type="audio/mpeg" length="1310208"/>
+      <guid isPermaLink="false">space-opportunity-rover-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 17:27:05 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Walked in Space. Five Months Later, Fire Killed Him.</title>
       <description>Edward Higgins White II (November 14, 1930 – January 27, 1967) was an American aeronautical engineer, United States Air Force officer, test pilot, and NASA astronaut. He was a member of the crews of Gemini 4 and Apollo 1.
 After graduating from West Point in 1952 with a Bachelor of Science degree, White was sent to flight training, and assigned to the 22nd Fighter Day Squadron at Bitburg Air Base, </description>
