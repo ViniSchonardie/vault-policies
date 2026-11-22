@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Edison: Everyone Misunderstands His Greatest Invention</title>
+      <description>Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman. He grew up in Michigan with little formal schooling and began working at a young age. He became deaf as a child and learned through books and tinkering. As a railroad telegrapher, he spent much of his time inventing improvements to telegraph systems. By the age of 22, he had sold a few of his early </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/thomas-edison-20261122.mp3" type="audio/mpeg" length="1239936"/>
+      <guid isPermaLink="false">realstory-thomas-edison-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 01:47:26 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Caligula: Everyone Misunderstands Rome's Wildest Emperor</title>
       <description>Gaius Julius Caesar Augustus Germanicus (31 August AD 12 – 24 January AD 41), also called Gaius or Caligula (), was the third Roman emperor, ruling from AD 37 until his assassination in AD 41. He was the son of the Roman general Germanicus and Agrippina the Elder, Augustus's granddaughter, members of the first ruling family of the Roman Empire. He was born two years before Tiberius became emperor.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/caligula-20261121.mp3" type="audio/mpeg" length="1281024"/>
