@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Cosmonaut Knew He'd Die in Space. He Flew Anyway.</title>
+      <description>Vladimir Mikhaylovich Komarov (Russian: Владимир Михайлович Комаров, IPA: [vlɐˈdʲimʲɪr mʲɪˈxajləvʲɪtɕ kəmɐˈrof]; 16 March 1927 – 24 April 1967) was a Soviet test pilot, aerospace engineer, and cosmonaut. In October 1964, he commanded Voskhod 1, the first spaceflight to carry more than one crew member. He became the first Soviet cosmonaut to fly in space twice when he was selected as the solo pilot</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/vladimir-komarov-20261122.mp3" type="audio/mpeg" length="1035264"/>
+      <guid isPermaLink="false">space-vladimir-komarov-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 01:27:21 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Helicopter Shouldn't Fly on Mars. It Just Completed 72 Flights.</title>
       <description>Ingenuity, nicknamed Ginny, is an autonomous  helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission. Ingenuity made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight. It was designed by NASA's Jet Propulsion Labo</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ingenuity-helicopter-20261121.mp3" type="audio/mpeg" length="1487232"/>
