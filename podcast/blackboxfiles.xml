@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Two 3.8 Megaton Bombs. One Switch Away. They Ignored Every Warning.</title>
+      <description>The 1961 Goldsboro B-52 crash was an aviation accident that occurred near Goldsboro, North Carolina, United States, on 24 January 1961. A Boeing B-52 Stratofortress carrying two 3.8-megaton Mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process. Five crewmen successfully ejected or bailed out of the aircraft and landed safely; another ejected, but did not survive th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/1961-goldsboro-b-52-crash-20261122.mp3" type="audio/mpeg" length="1595904"/>
+      <guid isPermaLink="false">aviation-1961-goldsboro-b-52-crash-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 01:33:35 GMT</pubDate>
+      <itunes:duration>100</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Southwest 1380. 1 Dead. They Ignored the Warning Signs.</title>
       <description>On April 17, 2018, Southwest Airlines Flight 1380, a Boeing 737-7H4 flying from LaGuardia Airport, New York, en route to Dallas Love Field, Texas, experienced an engine failure over Pennsylvania. The engine cowl was broken in the failure, and cowl fragments damaged the fuselage, bursting a cabin window and causing explosive depressurization of the aircraft. Other fragments caused destruction to th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/southwest-airlines-flight-1380-20261121.mp3" type="audio/mpeg" length="1252992"/>
