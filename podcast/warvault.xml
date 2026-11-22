@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>14 Years. Assad Fled. Syria's War Is Over.</title>
+      <description>The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed op</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/syrian-civil-war-20261122.mp3" type="audio/mpeg" length="1187328"/>
+      <guid isPermaLink="false">warvault-syrian-civil-war-20261122</guid>
+      <pubDate>Sun, 22 Nov 2026 01:51:34 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>780 Men Detained. 756 Released. 15 Still Held. No Trial.</title>
       <description>The Guantanamo Bay detention camp is a United States military prison within Naval Station Guantanamo Bay (NSGB), on the coast of Guantánamo Bay, Cuba. It was established in 2002 by President George W. Bush to hold terrorism suspects and "illegal enemy combatants" during the war on terror following the September 11 attacks. As of January 2025, at least 780 people from 48 countries have been detaine</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/guantanamo-bay-detention-camp-20261121.mp3" type="audio/mpeg" length="1119360"/>
