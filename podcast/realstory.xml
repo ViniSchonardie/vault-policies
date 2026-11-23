@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Tolstoy: The Nobel Prize Everyone Says He Deserved</title>
+      <description>Count Lev Nikolayevich Tolstoy (; Russian: Лев Николаевич Толстой, IPA: [ˈlʲef nʲɪkɐˈla(j)ɪvʲɪtɕ tɐlˈstoj] ; 9 September [O.S. 28 August] 1828 – 20 November [O.S. 7 November] 1910), usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.
+Born to an aristocratic family, Tolstoy achieved  acclaim in his twen</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/leo-tolstoy-20261123.mp3" type="audio/mpeg" length="1344768"/>
+      <guid isPermaLink="false">realstory-leo-tolstoy-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 14:48:48 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Michelangelo: Everyone Misunderstands His Greatest Work</title>
       <description>Michelangelo di Lodovico Buonarroti Simoni (6 March 1475 – 18 February 1564), known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance. He was born in the Republic of Florence but was mostly active in Rome from his 30s onwards. His work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/michelangelo-20261123.mp3" type="audio/mpeg" length="1235712"/>
