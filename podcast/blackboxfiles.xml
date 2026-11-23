@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>346 Dead. They Ignored The Warning. Turkish Airlines 981.</title>
+      <description>Turkish Airlines Flight 981 was a scheduled flight from Istanbul Yeşilköy Airport to London Heathrow Airport, with an intermediate stop at Orly Airport in Paris. On 3 March 1974, the McDonnell Douglas DC-10 operating the flight crashed into the Ermenonville Forest, about 40 kilometres (25 mi; 22 nmi) outside Paris, killing all 335 passengers and 11 crew. The crash was also known as the Ermenonvill</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/turkish-airlines-flight-981-20261123.mp3" type="audio/mpeg" length="1335168"/>
+      <guid isPermaLink="false">aviation-turkish-airlines-flight-981-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 01:34:09 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BA Flight 5390. Captain Ejected. 84 Wrong Screws.</title>
       <description>British Airways Flight 5390 was a scheduled international passenger flight from Birmingham Airport in England to Málaga Airport in Spain. On 10 June 1990, the BAC One-Eleven suffered an explosive decompression. While the aircraft was flying over Didcot, England, an improperly installed windscreen panel separated from its frame, causing the captain to be partially ejected from the aircraft. He was </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-5390-20261122.mp3" type="audio/mpeg" length="1553664"/>
