@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Michelangelo: Everyone Misunderstands His Greatest Work</title>
+      <description>Michelangelo di Lodovico Buonarroti Simoni (6 March 1475 – 18 February 1564), known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance. He was born in the Republic of Florence but was mostly active in Rome from his 30s onwards. His work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/michelangelo-20261123.mp3" type="audio/mpeg" length="1235712"/>
+      <guid isPermaLink="false">realstory-michelangelo-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 01:47:42 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Blackbeard: The Pirate Everyone Gets Wrong</title>
       <description>Edward Teach (or Thatch; c. 1680 – 22 November 1718), better known as Blackbeard, was an English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. Little is known about his early life, but he may have been a sailor on privateering ships during Queen Anne's War before he settled on the Bahamian island of New Providence, a base for Captain Benjami</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/blackbeard-20261122.mp3" type="audio/mpeg" length="1191168"/>
