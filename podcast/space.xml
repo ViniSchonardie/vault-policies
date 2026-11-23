@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Canadian Became ISS Commander While Earth Watched Him Play Guitar</title>
+      <description>Chris Austin Hadfield (born August 29, 1959) is a retired Royal Canadian Air Force colonel, test pilot, and CSA astronaut. As the first Canadian to perform extravehicular activity in outer space, he has flown two Space Shuttle missions and also served as commander of the International Space Station (ISS). Prior to his career as an astronaut, he served in the Canadian Armed Forces for 25 years as a</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/chris-hadfield-20261123.mp3" type="audio/mpeg" length="1215744"/>
+      <guid isPermaLink="false">space-chris-hadfield-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 01:29:52 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Rover Was Built to Die in 90 Days. It Lasted 14 Years.</title>
       <description>Opportunity, also known as MER-B (Mars Exploration Rover – B) or MER-1, and nicknamed Oppy, is a robotic rover that was active on Mars from 2004 until 2018. Opportunity was operational on Mars for 5111 sols (14 years, 138 days on Earth). Launched on July 7, 2003, as part of NASA's Mars Exploration Rover program, it landed in Meridiani Planum on January 25, 2004, three weeks after its twin, Spirit </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/opportunity-rover-20261122.mp3" type="audio/mpeg" length="1310208"/>
