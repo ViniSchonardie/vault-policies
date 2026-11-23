@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Donald Trump Won the Presidency. Then Lost It All.</title>
+      <description>Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.
+Born into a wealthy New York City family, Trump graduated from the University of Pennsylvania in 1968 with a bachelor's degree in economics. He became the president o</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/donald-trump-20261123.mp3" type="audio/mpeg" length="1235712"/>
+      <guid isPermaLink="false">sportscrime-donald-trump-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 19:58:40 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Charles Ponzi Promised 50% Returns. Then Vanished.</title>
       <description>A Ponzi scheme (, Italian: [ˈpontsi]) is a form of fraud that lures investors and pays apparent profits to earlier investors with funds from more recent investors. Named after Italian con artist Charles Ponzi, this type of scheme misleads investors by either falsely suggesting that profits are derived from legitimate business activities (whereas the business activities are non-existent), or by exa</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/sportscrime-audio/ponzi-scheme-20261123.mp3" type="audio/mpeg" length="1012608"/>
