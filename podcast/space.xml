@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Shuttle Shouldn't Have Launched (It Changed Everything)</title>
+      <description>STS-1 (Space Transportation System-1) was the first orbital spaceflight of NASA's Space Shuttle program. The first orbiter, Columbia, launched on April 12, 1981, and returned on April 14, 1981, 54.5 hours later, having orbited the Earth 37 times. Columbia carried a crew of two—commander John W. Young and pilot Robert L. Crippen. It was the first American crewed space flight since the Apollo–Soyuz </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/sts-1-20261123.mp3" type="audio/mpeg" length="1314816"/>
+      <guid isPermaLink="false">space-sts-1-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 13:33:39 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Canadian Became ISS Commander While Earth Watched Him Play Guitar</title>
       <description>Chris Austin Hadfield (born August 29, 1959) is a retired Royal Canadian Air Force colonel, test pilot, and CSA astronaut. As the first Canadian to perform extravehicular activity in outer space, he has flown two Space Shuttle missions and also served as commander of the International Space Station (ISS). Prior to his career as an astronaut, he served in the Canadian Armed Forces for 25 years as a</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/chris-hadfield-20261123.mp3" type="audio/mpeg" length="1215744"/>
