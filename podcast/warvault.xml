@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Stalin's Famine. 5 Million Ukrainians. One Harvest.</title>
+      <description>The Holodomor, also known as the Ukrainian famine, was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union.
+While scholars agree the famine was primarily man-made, it remains in dispute whether the Holodomor was intentional,</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/holodomor-20261123.mp3" type="audio/mpeg" length="1171200"/>
+      <guid isPermaLink="false">warvault-holodomor-20261123</guid>
+      <pubDate>Mon, 23 Nov 2026 01:52:15 GMT</pubDate>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>347 Civilians Murdered. Only One Soldier Convicted.</title>
       <description>The My Lai Massacre ( MEE LY; Vietnamese: Thảm sát Mỹ Lai [t̺ʰâm ʂǎt mǐˀ lāj] ) was a U.S. Army  war crime committed on 16 March 1968, involving the mass murder of between 347 and 504 civilians, almost all women, children and elderly men, in Sơn Mỹ village, Quảng Ngãi province, South Vietnam, during the Vietnam War. Some of the female victims,  including children as young as 12, were gang-raped an</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/my-lai-massacre-20261122.mp3" type="audio/mpeg" length="1281024"/>
