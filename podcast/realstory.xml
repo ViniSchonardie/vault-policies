@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Byron: The Poet England Tried to Lynch</title>
+      <description>George Gordon Byron, 6th Baron Byron (22 January 1788 – 19 April 1824), was a British poet. He was one of the major figures of the Romantic movement, and is regarded as being among the greatest British poets. Among his best-known works are the lengthy narratives Don Juan and Childe Harold's Pilgrimage; many of his shorter lyrics in Hebrew Melodies also became popular.
+Byron was educated at Trinity</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/lord-byron-20261124.mp3" type="audio/mpeg" length="1205376"/>
+      <guid isPermaLink="false">realstory-lord-byron-20261124</guid>
+      <pubDate>Tue, 24 Nov 2026 18:47:30 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kant: Everyone Misunderstands His Greatest Discovery</title>
       <description>Immanuel Kant (born Emanuel Kant; 22 April 1724 – 12 February 1804) was a German philosopher. Born in Königsberg in the Kingdom of Prussia, he is considered one of the central thinkers of the Enlightenment. His comprehensive and systematic works in epistemology, metaphysics, logic, ethics, aesthetics, political theory, and the philosophy of religion have made him one of the most influential and hi</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/immanuel-kant-20261124.mp3" type="audio/mpeg" length="1020672"/>
