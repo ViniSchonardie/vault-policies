@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>10 Years of Chaos. 2 Million Dead. Mao's Plan.</title>
+      <description>The Cultural Revolution, formally known as the Great Proletarian Cultural Revolution, was a sociopolitical movement in the People's Republic of China (PRC). It was launched by Mao Zedong, chairman of the Chinese Communist Party, in 1966 and lasted until his death in 1976. Its stated goal was to advance Chinese communism by purging remnants of capitalist and traditional elements from Chinese societ</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/cultural-revolution-20261124.mp3" type="audio/mpeg" length="1508352"/>
+      <guid isPermaLink="false">warvault-cultural-revolution-20261124</guid>
+      <pubDate>Tue, 24 Nov 2026 01:52:49 GMT</pubDate>
+      <itunes:duration>94</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Supreme Leader Assassinated. Iran Went Nuclear.</title>
       <description>Since 28 February 2026, the United States and Israel have been at war with Iran and its regional allies. The war follows the Twelve-Day War in June 2025 and sporadic fighting during the Middle Eastern crisis sparked by the Gaza war (2023–present). Amid ongoing US–Iran negotiations regarding Iran's nuclear program, the war began when the US and Israel conducted hundreds of air strikes on targets ac</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/2026-iran-war-20261123.mp3" type="audio/mpeg" length="1217280"/>
