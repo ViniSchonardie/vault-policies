@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>96 Dead. Fog and Pressure. Poland Lost Its President.</title>
+      <description>On 10 April 2010, a Tupolev Tu-154 aircraft operating as Polish Air Force Flight PLF 101, crashed near the Russian city of Smolensk, killing all 96 people on board. Among the victims were the president of Poland, Lech Kaczyński, and a number of senior Polish military officers, Polish government officials, and members of the Polish clergy, as well as relatives of victims of the Katyn massacre. The </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/smolensk-air-disaster-20261124.mp3" type="audio/mpeg" length="1310208"/>
+      <guid isPermaLink="false">aviation-smolensk-air-disaster-20261124</guid>
+      <pubDate>Tue, 24 Nov 2026 14:33:41 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>224 Dead. Bomb At Airport. Egypt Denied Everything.</title>
       <description>Metrojet Flight 9268 was an international chartered passenger flight operated by Russian airline Kogalymavia (branded as Metrojet). On 31 October 2015, at 06:13 EST (04:13 UTC), the Airbus A321-231 operating the flight exploded above the northern Sinai Peninsula following its departure from Sharm El Sheikh International Airport, Egypt, en route to Pulkovo Airport, Saint Petersburg, Russia. All 224</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/metrojet-flight-9268-20261124.mp3" type="audio/mpeg" length="1162752"/>
