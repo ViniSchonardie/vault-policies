@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Drove 900 Miles to Attack a Rival</title>
+      <description>Lisa Marie Nowak (née Caputo; born May 10, 1963) is an American aeronautical engineer, former NASA astronaut, and retired United States Navy officer. Nowak served as naval flight officer and flight test engineer in the Navy, and was selected by NASA for NASA Astronaut Group 16 in 1996, qualifying as a mission specialist in robotics. She flew in space aboard Space Shuttle Discovery during the STS-1</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/lisa-nowak-20261124.mp3" type="audio/mpeg" length="1152384"/>
+      <guid isPermaLink="false">space-lisa-nowak-20261124</guid>
+      <pubDate>Tue, 24 Nov 2026 17:29:18 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Flew 4 Different Spacecraft in 42 Years</title>
       <description>John Watts Young (September 24, 1930 – January 5, 2018) was an American astronaut, naval officer and aviator, test pilot, and aeronautical engineer. He became the ninth person to walk on the Moon as commander of the Apollo 16 mission in 1972. 
 Before becoming an astronaut, Young received his Bachelor of Science degree in aeronautical engineering from the Georgia Institute of Technology and joined </description>
