@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Army Lost to Birds. Australia's Greatest Defeat.</title>
+      <description>The Emu War (or Great Emu War) was a nuisance wildlife management operation undertaken by the Australian Army in late 1932.
+The so-called 'war' was started in an attempt to cull emus damaging farmland in the Campion district within the Wheatbelt of Western Australia. A deputation of ex-soldiers requested the deployment of machine-guns to cull the emus, leading to Royal Australian Artillery soldier</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/emu-war-20261124.mp3" type="audio/mpeg" length="1039872"/>
+      <guid isPermaLink="false">warvault-emu-war-20261124</guid>
+      <pubDate>Tue, 24 Nov 2026 13:53:30 GMT</pubDate>
+      <itunes:duration>65</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>10 Years of Chaos. 2 Million Dead. Mao's Plan.</title>
       <description>The Cultural Revolution, formally known as the Great Proletarian Cultural Revolution, was a sociopolitical movement in the People's Republic of China (PRC). It was launched by Mao Zedong, chairman of the Chinese Communist Party, in 1966 and lasted until his death in 1976. Its stated goal was to advance Chinese communism by purging remnants of capitalist and traditional elements from Chinese societ</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/cultural-revolution-20261124.mp3" type="audio/mpeg" length="1508352"/>
