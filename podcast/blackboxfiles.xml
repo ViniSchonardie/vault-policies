@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>TAM Flight 3054. 199 Dead. Runway Never Fixed.</title>
+      <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20261125.mp3" type="audio/mpeg" length="1180032"/>
+      <guid isPermaLink="false">aviation-tam-airlines-flight-3054-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 01:34:16 GMT</pubDate>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>SA Airways 295. 159 Dead. Fire Never Explained.</title>
       <description>South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/south-african-airways-flight-295-20261124.mp3" type="audio/mpeg" length="1384320"/>
