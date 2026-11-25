@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>57,470 Men Lost in One Day. July 1, 1916.</title>
+      <description>The Battle of the Somme (French: Bataille de la Somme; German: Schlacht an der Somme), also known as the Somme offensive, was a battle of the First World War fought by the armies of the British Empire and the French Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the river Somme in France. The battle was intended to hasten</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-somme-20261125.mp3" type="audio/mpeg" length="1214592"/>
+      <guid isPermaLink="false">warvault-battle-of-the-somme-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 13:53:56 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>8,000 Died in One Town. The UN Called It Safe.</title>
       <description>The Srebrenica massacre, also known as the Srebrenica genocide, was the July 1995 genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica during the Bosnian War. It was mainly perpetrated by units of the Bosnian Serb Army of Republika Srpska under Ratko Mladić, though the Serb paramilitary unit Scorpions also participated. In addition, 25,000 to 30,000 Bosnia</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/srebrenica-massacre-20261125.mp3" type="audio/mpeg" length="1246080"/>
