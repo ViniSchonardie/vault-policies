@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tony Montana: From Refugee to Miami's Cocaine King in 1980</title>
+      <description>Scarface is a 1983 American epic crime drama film directed by Brian De Palma from a screenplay by Oliver Stone. It is loosely based on the 1930 novel by Armitage Trail and a remake of the 1932 film of the same name directed by Howard Hawks. The film stars an ensemble cast led by Al Pacino, who stars as Cuban refugee Tony Montana. In the film, Montana arrives in Miami during the Mariel boatlift and</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/scarface-1983-film-20261125.mp3" type="audio/mpeg" length="1228416"/>
+      <guid isPermaLink="false">drugempire-scarface-1983-film-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 01:36:37 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Irishman: How Scorsese Made Hollywood's Most Expensive Film</title>
       <description>The Irishman (also known as I Heard You Paint Houses) is a 2019 American epic gangster film directed and produced by Martin Scorsese from a screenplay by Steven Zaillian, based on the 2004 book I Heard You Paint Houses by Charles Brandt. It stars Robert De Niro, Al Pacino, and Joe Pesci, with Ray Romano, Bobby Cannavale, Anna Paquin, Stephen Graham, Stephanie Kurtzuba, Jesse Plemons, and Harvey Ke</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/the-irishman-20261124.mp3" type="audio/mpeg" length="1292160"/>
