@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Mission Saved the Apollo Program in 9 Days</title>
+      <description>Apollo 14 (January 31 – February 9, 1971) was the eighth crewed mission in the United States Apollo program, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the "H missions", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities (EVAs or moonwalks).
+The mission was originally schedule</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/apollo-14-20261125.mp3" type="audio/mpeg" length="1200000"/>
+      <guid isPermaLink="false">space-apollo-14-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 13:31:20 GMT</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This $327M Probe Was Destroyed by a Math Error</title>
       <description>The Mars Climate Orbiter (formerly the Mars Surveyor '98 Orbiter) was a robotic space probe launched by NASA on December 11, 1998, to study the Martian climate, Martian atmosphere, and surface changes and to act as the communications relay in the Mars Surveyor '98 program for Mars Polar Lander. However, on September 23, 1999, communication with the spacecraft was permanently lost as it went into o</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-climate-orbiter-20261125.mp3" type="audio/mpeg" length="1116672"/>
