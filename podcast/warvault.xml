@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>8,000 Died in One Town. The UN Called It Safe.</title>
+      <description>The Srebrenica massacre, also known as the Srebrenica genocide, was the July 1995 genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica during the Bosnian War. It was mainly perpetrated by units of the Bosnian Serb Army of Republika Srpska under Ratko Mladić, though the Serb paramilitary unit Scorpions also participated. In addition, 25,000 to 30,000 Bosnia</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/srebrenica-massacre-20261125.mp3" type="audio/mpeg" length="1246080"/>
+      <guid isPermaLink="false">warvault-srebrenica-massacre-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 01:53:37 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1,500 Years Ended in One Night. Constantinople Fell.</title>
       <description>The Fall of Constantinople, also known as the Conquest of Constantinople, was the capture of Constantinople, the capital city of the Byzantine Empire, by the Ottoman Empire. The city was captured on 29 May 1453 as part of the culmination of a 53-day siege which had begun on 6 April.
 The attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by Sultan Mehm</description>
