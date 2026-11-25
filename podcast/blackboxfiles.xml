@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Pan Am 747. 20 Dead. Crew Hid the Passports.</title>
+      <description>Pan Am Flight 73 was a scheduled passenger flight operated by Pan American World Airways from Bombay to New York City via Karachi and Frankfurt. On 5 September 1986, the Boeing 747-100 serving the flight, with 379 passengers and crew on board, was hijacked while on the ground at Karachi by four armed Palestinian militants affiliated with the Abu Nidal Organization. The cockpit crew escaped from th</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/pan-am-flight-73-20261125.mp3" type="audio/mpeg" length="1319808"/>
+      <guid isPermaLink="false">aviation-pan-am-flight-73-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 14:33:20 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>TAM Flight 3054. 199 Dead. Runway Never Fixed.</title>
       <description>TAM Airlines Flight 3054 was a regularly scheduled domestic passenger flight operated by TAM Airlines from Porto Alegre to São Paulo, Brazil. On the evening of 17 July 2007, the Airbus A320-233 serving the flight from Porto Alegre overran runway 35L at São Paulo's Congonhas Airport after touching down during moderate rain and crashed into a nearby TAM Express warehouse adjacent to a gas station. T</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/tam-airlines-flight-3054-20261125.mp3" type="audio/mpeg" length="1180032"/>
