@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Probe Is Orbiting Jupiter With 1cm Titanium Armor</title>
+      <description>Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, J</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/juno-20261125.mp3" type="audio/mpeg" length="1215744"/>
+      <guid isPermaLink="false">space-juno-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 17:26:47 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Mission Saved the Apollo Program in 9 Days</title>
       <description>Apollo 14 (January 31 – February 9, 1971) was the eighth crewed mission in the United States Apollo program, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the "H missions", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities (EVAs or moonwalks).
 The mission was originally schedule</description>
