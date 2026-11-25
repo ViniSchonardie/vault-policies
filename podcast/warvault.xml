@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2 Million Dead. One Ideology. Cambodia's Four-Year Nightmare.</title>
+      <description>Khmer Rouge is the name that was popularly given to members of the Communist Party of Kampuchea (CPK), and by extension to Democratic Kampuchea, which ruled Cambodia between 1975 and 1979. The name was coined in the 1960s by Norodom Sihanouk to describe his country's heterogeneous, communist-led dissidents, with whom he allied after the 1970 Cambodian coup d'état.
+The Kampuchea Revolutionary Army </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/khmer-rouge-20261125.mp3" type="audio/mpeg" length="1244544"/>
+      <guid isPermaLink="false">warvault-khmer-rouge-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 17:55:08 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>57,470 Men Lost in One Day. July 1, 1916.</title>
       <description>The Battle of the Somme (French: Bataille de la Somme; German: Schlacht an der Somme), also known as the Somme offensive, was a battle of the First World War fought by the armies of the British Empire and the French Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the river Somme in France. The battle was intended to hasten</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-the-somme-20261125.mp3" type="audio/mpeg" length="1214592"/>
