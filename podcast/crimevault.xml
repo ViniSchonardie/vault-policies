@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>She Tortured Slaves in Her Attic. Then Escaped to France.</title>
+      <description>Marie Delphine Macarty or MacCarthy, more commonly known as Madame Blanque or, after her third marriage, as Madame LaLaurie, was a New Orleans socialite and serial killer who tortured and murdered enslaved people in her household.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/delphine-lalaurie-20261125.mp3" type="audio/mpeg" length="1146624"/>
+      <guid isPermaLink="false">crime-delphine-lalaurie-20261125</guid>
+      <pubDate>Wed, 25 Nov 2026 01:11:15 GMT</pubDate>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Silk Road Creator Sentenced to Life. Then Trump Freed Him.</title>
       <description>Ross William Ulbricht (; born March 27, 1984) is an American cybercriminal who created and operated Silk Road, the first modern darknet market, from 2011 until his arrest in 2013. Silk Road was an online marketplace that facilitated the trade in narcotics and other illegal products and services. Sales were anonymous, using bitcoin. It operated as a hidden service on the Tor network. Ulbricht ran t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ross-ulbricht-20261124.mp3" type="audio/mpeg" length="1019136"/>
