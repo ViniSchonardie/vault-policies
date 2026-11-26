@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Vampire of Sacramento: 6 Victims in 32 Days</title>
+      <description>Richard Trenton Chase was an American serial killer, cannibal and necrophile known as the Vampire of Sacramento, the Dracula Killer and the Vampire Killer, who killed six people between December 1977 and January 1978 in Sacramento, California.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-chase-20261126.mp3" type="audio/mpeg" length="1240320"/>
+      <guid isPermaLink="false">crime-richard-chase-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 18:10:55 GMT</pubDate>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ghostface: The Killer Behind the Mask. Six Different Murderers.</title>
       <description>Ghostface (alternatively stylized as Ghost Face or GhostFace) is an identity that is adopted by the main antagonists of the Scream franchise. The figure was originally created by Kevin Williamson, and is primarily mute in person but voiced over the phone by Roger L. Jackson, regardless of who is behind the mask (as all killers use a voice changer utilizing that exact voice, starting in person with</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ghostface-20261126.mp3" type="audio/mpeg" length="1309056"/>
