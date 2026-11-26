@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Netflix's Narcos: Mexico. A Location Scout Was Murdered.</title>
+      <description>Narcos: Mexico is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro that premiered on Netflix on November 16, 2018. It was originally intended to be the fourth season of the Netflix series Narcos, but it was ultimately developed as a companion series. It focuses on the development of Mexico's illegal drug trade, whereas the parent series</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/narcos-mexico-20261126.mp3" type="audio/mpeg" length="1141248"/>
+      <guid isPermaLink="false">drugempire-narcos-mexico-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 15:38:48 GMT</pubDate>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How Netflix Made Escobar's Empire the Most Watched Crime Drama</title>
       <description>Narcos is an American crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro. Set and filmed in Colombia, seasons 1 and 2 are about Colombian narcoterrorist and drug lord Pablo Escobar, leader of the Medellín Cartel and billionaire through cocaine production and distribution. The series also focuses on Escobar's interactions with drug lords, Drug Enforce</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/drugempire-audio/narcos-20261126.mp3" type="audio/mpeg" length="1210752"/>
