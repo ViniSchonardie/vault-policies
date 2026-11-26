@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ghostface: The Killer Behind the Mask. Six Different Murderers.</title>
+      <description>Ghostface (alternatively stylized as Ghost Face or GhostFace) is an identity that is adopted by the main antagonists of the Scream franchise. The figure was originally created by Kevin Williamson, and is primarily mute in person but voiced over the phone by Roger L. Jackson, regardless of who is behind the mask (as all killers use a voice changer utilizing that exact voice, starting in person with</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/ghostface-20261126.mp3" type="audio/mpeg" length="1309056"/>
+      <guid isPermaLink="false">crime-ghostface-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 13:17:24 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>36 Years Alone. He Killed a Guard. Never Left His Cell.</title>
       <description>Thomas Edward Silverstein (born Thomas Edward Conway; February 4, 1952 – May 11, 2019) was an American criminal who spent the last 42 years of his life in prison after being convicted of three separate murders, with a fourth murder conviction being overturned and Silverstein being implicated in a fifth, while imprisoned for armed robbery. Silverstein spent the last 36 years of his life in solitary</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/thomas-silverstein-20261126.mp3" type="audio/mpeg" length="1166592"/>
