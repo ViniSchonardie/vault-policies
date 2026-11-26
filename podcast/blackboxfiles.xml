@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>BA Flight 38. 152 Aboard. Ice Nobody Saw Coming.</title>
+      <description>British Airways Flight 38 was a scheduled international passenger flight from Beijing Capital International Airport in Beijing, China, to Heathrow Airport in London, United Kingdom, an 8,100-kilometre (4,400 nmi; 5,000 mi) trip. On 17 January 2008, the Boeing 777-200ER aircraft crash-landed short of runway 27L at Heathrow. Of the 152 people on board, 47 were injured, 1 of them seriously. The aircr</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-38-20261126.mp3" type="audio/mpeg" length="1477632"/>
+      <guid isPermaLink="false">aviation-british-airways-flight-38-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 14:34:02 GMT</pubDate>
+      <itunes:duration>92</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amazon Air 767. 3 Dead. Captain Never Saw It Coming.</title>
       <description>Atlas Air Flight 3591 was a scheduled domestic cargo flight between Miami International Airport and George Bush Intercontinental Airport in Houston. On February 23, 2019, the Boeing 767-375ER(BCF) operating this flight crashed into Trinity Bay during approach into Houston, killing the two crew members and single passenger on board. The accident occurred near Anahuac, Texas, east of Houston, shortl</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/atlas-air-flight-3591-20261126.mp3" type="audio/mpeg" length="1306752"/>
