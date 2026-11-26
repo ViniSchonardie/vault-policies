@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>170 Dead. Libya Blamed. The Forgotten Bombing.</title>
+      <description>UTA Flight 772 was a scheduled international passenger flight of the French airline Union de Transports Aériens (UTA) operating from Brazzaville in the People's Republic of the Congo, via N'Djamena in Chad, to Charles de Gaulle Airport in Paris, France. On 19 September 1989, the McDonnell Douglas DC-10-30 operating the flight crashed into the Ténéré desert near Bilma, Niger, killing all 170 people</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/uta-772-bombing-20261126.mp3" type="audio/mpeg" length="1347456"/>
+      <guid isPermaLink="false">aviation-uta-772-bombing-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 18:34:46 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>BA Flight 38. 152 Aboard. Ice Nobody Saw Coming.</title>
       <description>British Airways Flight 38 was a scheduled international passenger flight from Beijing Capital International Airport in Beijing, China, to Heathrow Airport in London, United Kingdom, an 8,100-kilometre (4,400 nmi; 5,000 mi) trip. On 17 January 2008, the Boeing 777-200ER aircraft crash-landed short of runway 27L at Heathrow. Of the 152 people on board, 47 were injured, 1 of them seriously. The aircr</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/british-airways-flight-38-20261126.mp3" type="audio/mpeg" length="1477632"/>
