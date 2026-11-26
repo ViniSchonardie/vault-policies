@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Amazon Air 767. 3 Dead. Captain Never Saw It Coming.</title>
+      <description>Atlas Air Flight 3591 was a scheduled domestic cargo flight between Miami International Airport and George Bush Intercontinental Airport in Houston. On February 23, 2019, the Boeing 767-375ER(BCF) operating this flight crashed into Trinity Bay during approach into Houston, killing the two crew members and single passenger on board. The accident occurred near Anahuac, Texas, east of Houston, shortl</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/atlas-air-flight-3591-20261126.mp3" type="audio/mpeg" length="1306752"/>
+      <guid isPermaLink="false">aviation-atlas-air-flight-3591-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 01:33:27 GMT</pubDate>
+      <itunes:duration>82</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>176 Dead. Iran Fired First. Then Lied About It.</title>
       <description>Ukraine International Airlines Flight 752 was a scheduled international passenger flight from Tehran to Kyiv, operated by Ukraine International Airlines. On 8 January 2020, the Boeing 737-800 flying the route was shot down by the Islamic Revolutionary Guard Corps (IRGC) shortly after takeoff, killing all 176 occupants on board.
 Missiles were fired at the aircraft by the IRGC amidst heightened tens</description>
