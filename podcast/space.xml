@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>She Broke Through the Sky. Then It Broke Apart.</title>
+      <description>Judith Arlene Resnik (April 5, 1949 – January 28, 1986) was an American electrical engineer, software engineer, biomedical engineer, pilot and NASA astronaut who died in the Space Shuttle Challenger disaster. She was the fourth woman, the second American woman and the first Jewish woman of any nationality to fly in space, logging 145 hours in orbit.
+Recognized while still a child for her intellect</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/judith-resnik-20261126.mp3" type="audio/mpeg" length="1388544"/>
+      <guid isPermaLink="false">space-judith-resnik-20261126</guid>
+      <pubDate>Thu, 26 Nov 2026 01:30:20 GMT</pubDate>
+      <itunes:duration>87</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Probe Is Orbiting Jupiter With 1cm Titanium Armor</title>
       <description>Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, J</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/juno-20261125.mp3" type="audio/mpeg" length="1215744"/>
