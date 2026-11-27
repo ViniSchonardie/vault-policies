@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>35,000 Americans vs 21,000 Japanese. More Americans Died.</title>
+      <description>The Battle of Iwo Jima (硫黄島の戦い, Iōtō no Tatakai,or Iōjima no Tatakai; 19 February – 26 March 1945) was a major battle in which the United States Marine Corps (USMC), United States Navy (USN), and United States Army (USA) landed on and eventually captured the island of Iwo Jima from the Imperial Japanese Army (IJA) during World War II. The American invasion, designated Operation Detachment, had the</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-iwo-jima-20261127.mp3" type="audio/mpeg" length="1527552"/>
+      <guid isPermaLink="false">warvault-battle-of-iwo-jima-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 17:54:58 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>82 Days. 250,000 Dead. The Typhoon of Steel.</title>
       <description>The Battle of Okinawa (Japanese: 沖縄戦, Hepburn: Okinawa-sen), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by the United States Army and United States Marine Corps forces against the Imperial Japanese Army. The initial invasion of Okinawa on 1 April 1945 was the largest amphibious assault in the Pacific Theater of World War II. The Kerama Island</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-okinawa-20261127.mp3" type="audio/mpeg" length="1725696"/>
