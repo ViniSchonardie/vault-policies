@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Alaska Airlines 1282. 177 Aboard. Four Missing Bolts.</title>
+      <description>Alaska Airlines Flight 1282 was a scheduled domestic passenger flight operated by Alaska Airlines from Portland International Airport in Portland, Oregon, to Ontario International Airport in Ontario, California. Shortly after takeoff on January 5, 2024, a door plug on the Boeing 737 MAX 9 aircraft blew out, causing an uncontrolled decompression of the aircraft. 
+The aircraft returned to Portland f</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/alaska-airlines-flight-1282-on-5-january-2024-20261127.mp3" type="audio/mpeg" length="1337088"/>
+      <guid isPermaLink="false">aviation-alaska-airlines-flight-1282-on-5-january-2024-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 01:34:23 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>170 Dead. Libya Blamed. The Forgotten Bombing.</title>
       <description>UTA Flight 772 was a scheduled international passenger flight of the French airline Union de Transports Aériens (UTA) operating from Brazzaville in the People's Republic of the Congo, via N'Djamena in Chad, to Charles de Gaulle Airport in Paris, France. On 19 September 1989, the McDonnell Douglas DC-10-30 operating the flight crashed into the Ténéré desert near Bilma, Niger, killing all 170 people</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/uta-772-bombing-20261126.mp3" type="audio/mpeg" length="1347456"/>
