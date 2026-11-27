@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>189 Dead. Pilots Ignored Every Warning Sign.</title>
+      <description>Birgenair Flight 301 was a chartered flight by Turkish-managed Birgenair partner Alas Nacionales from Puerto Plata in the Dominican Republic to Frankfurt, Germany, via Gander, Canada, and Berlin, Germany. On 6 February 1996, the Boeing 757 operating the route crashed shortly after take-off from Puerto Plata's Gregorio Luperón International Airport, killing all 189 people on board. The cause was pi</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/birgenair-flight-301-20261127.mp3" type="audio/mpeg" length="1696896"/>
+      <guid isPermaLink="false">aviation-birgenair-flight-301-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 14:33:09 GMT</pubDate>
+      <itunes:duration>106</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Alaska Airlines 1282. 177 Aboard. Four Missing Bolts.</title>
       <description>Alaska Airlines Flight 1282 was a scheduled domestic passenger flight operated by Alaska Airlines from Portland International Airport in Portland, Oregon, to Ontario International Airport in Ontario, California. Shortly after takeoff on January 5, 2024, a door plug on the Boeing 737 MAX 9 aircraft blew out, causing an uncontrolled decompression of the aircraft. 
 The aircraft returned to Portland f</description>
