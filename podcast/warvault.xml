@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>82 Days. 250,000 Dead. The Typhoon of Steel.</title>
+      <description>The Battle of Okinawa (Japanese: 沖縄戦, Hepburn: Okinawa-sen), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by the United States Army and United States Marine Corps forces against the Imperial Japanese Army. The initial invasion of Okinawa on 1 April 1945 was the largest amphibious assault in the Pacific Theater of World War II. The Kerama Island</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/battle-of-okinawa-20261127.mp3" type="audio/mpeg" length="1725696"/>
+      <guid isPermaLink="false">warvault-battle-of-okinawa-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 13:53:35 GMT</pubDate>
+      <itunes:duration>108</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>12 Million Displaced. One Line. August 15, 1947.</title>
       <description>The partition of India in 1947 was the division of British India into two independent dominion states, the Union of India and Dominion of Pakistan. The Union of India is today the Republic of India, and the Dominion of Pakistan is the Islamic Republic of Pakistan and the People's Republic of Bangladesh. The partition involved the division of two provinces, Bengal and the Punjab, based on district-</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/warvault-audio/partition-of-india-20261127.mp3" type="audio/mpeg" length="1050624"/>
