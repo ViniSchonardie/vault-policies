@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Grim Sleeper: 23 Years. 10 Victims. One Pizza Crust.</title>
+      <description>Lonnie David Franklin Jr., better known by the nickname Grim Sleeper, was an American serial killer who was responsible for at least ten murders and one attempted murder in Los Angeles, California from 1984 to 2007. He was also convicted for rape and sexual violence. Franklin earned his nickname when he appeared to have taken a 14-year break from his crimes, from 1988 to 2002.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/grim-sleeper-20261127.mp3" type="audio/mpeg" length="1236864"/>
+      <guid isPermaLink="false">crime-grim-sleeper-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 01:12:16 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Vampire of Sacramento: 6 Victims in 32 Days</title>
       <description>Richard Trenton Chase was an American serial killer, cannibal and necrophile known as the Vampire of Sacramento, the Dracula Killer and the Vampire Killer, who killed six people between December 1977 and January 1978 in Sacramento, California.</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/richard-chase-20261126.mp3" type="audio/mpeg" length="1240320"/>
