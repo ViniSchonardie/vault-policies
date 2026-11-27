@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Vampire Squid. Eyes Bigger Than Its Brain.</title>
+      <description>The vampire squid (Vampyroteuthis infernalis, lit. 'vampire squid from hell') is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions. The vampire squid uses its bioluminescent organs and its unique oxygen metabolism to thrive in the parts of the ocean with the lowest concentrations of oxygen. It has two long retractile filaments, located between the fir</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/vampire-squid-20261127.mp3" type="audio/mpeg" length="1439232"/>
+      <guid isPermaLink="false">nature-vampire-squid-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 01:22:20 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Bottlenose Dolphin. Brain Bigger Than Yours.</title>
       <description>The bottlenose dolphin is a toothed whale in the genus Tursiops. They are common, cosmopolitan members of the family Delphinidae, the family of oceanic dolphins. Molecular studies show the genus contains three species: the common bottlenose dolphin (Tursiops truncatus), the Indo-Pacific bottlenose dolphin (Tursiops aduncus), and Tamanend's bottlenose dolphin (Tursiops erebennus). Others, like the </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/bottlenose-dolphin-20261126.mp3" type="audio/mpeg" length="1269888"/>
