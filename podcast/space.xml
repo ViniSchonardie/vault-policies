@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Was Removed 3 Days Before Launch</title>
+      <description>Thomas Kenneth Mattingly II (March 17, 1936 – October 31, 2023) was an American aviator, aeronautical engineer, test pilot, rear admiral in the United States Navy, and astronaut who orbited the Moon on Apollo 16 and flew on the STS-4 and STS-51-C missions.
+Born in Chicago, Illinois, Mattingly was replaced as Apollo 13 command module pilot (CMP) three days before launch, then helped NASA bring the </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/ken-mattingly-20261127.mp3" type="audio/mpeg" length="1127808"/>
+      <guid isPermaLink="false">space-ken-mattingly-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 01:28:48 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Drone Is Flying to Saturn's Moon in 2028</title>
       <description>Dragonfly is an upcoming NASA mission to send a robotic rotorcraft to the surface of Titan, the largest moon of Saturn. It is to be launched in July 2028 and arrive in 2034, becoming the first aircraft on Titan. Built to study prebiotic chemistry and extraterrestrial habitability, it is intended to make the first powered and fully controlled atmospheric flight on any natural satellite. It will the</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/titan-dragonfly-20261126.mp3" type="audio/mpeg" length="1337472"/>
