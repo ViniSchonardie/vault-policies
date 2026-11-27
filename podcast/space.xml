@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Spacecraft Is Still Transmitting 80 Billion Miles Away</title>
+      <description>Pioneer 10 (originally designated Pioneer F) is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/pioneer-10-20261127.mp3" type="audio/mpeg" length="1336320"/>
+      <guid isPermaLink="false">space-pioneer-10-20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 13:29:56 GMT</pubDate>
+      <itunes:duration>84</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Was Removed 3 Days Before Launch</title>
       <description>Thomas Kenneth Mattingly II (March 17, 1936 – October 31, 2023) was an American aviator, aeronautical engineer, test pilot, rear admiral in the United States Navy, and astronaut who orbited the Moon on Apollo 16 and flew on the STS-4 and STS-51-C missions.
 Born in Chicago, Illinois, Mattingly was replaced as Apollo 13 command module pilot (CMP) three days before launch, then helped NASA bring the </description>
