@@ -17,6 +17,16 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Rover Shouldn't Work. It Traveled 330 Feet on Mars</title>
+      <description>Mars Pathfinder was an American robotic spacecraft that landed a base station with a roving probe on Mars in 1997. It consisted of a lander, renamed the Carl Sagan Memorial Station, and a lightweight, 10.6 kg (23 lb) wheeled robotic Mars rover named Sojourner, the first rover to operate outside the Earth–Moon system. The mission terminated in 1998.
+Launched on December 4, 1996, by NASA aboard a De</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/mars-pathfinder-20261128.mp3" type="audio/mpeg" length="1526784"/>
+      <guid isPermaLink="false">space-mars-pathfinder-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 17:29:12 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Astronaut Circled the Moon Before Anyone Else</title>
       <description>Frank Frederick Borman II (March 14, 1928 – November 7, 2023) was an American United States Air Force (USAF) colonel, aeronautical engineer, NASA astronaut, test pilot, and businessman. He was the commander of Apollo 8, the first mission to fly around the Moon, and together with crewmates Jim Lovell and William Anders, became the first of 28 humans to do so, for which he was awarded the Congressio</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/frank-borman-20261128.mp3" type="audio/mpeg" length="1149696"/>
