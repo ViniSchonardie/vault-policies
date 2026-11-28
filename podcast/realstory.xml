@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Assange: The Hacker Who Exposed What Governments Hide</title>
+      <description>Julian Paul Assange (  ə-SAHNZH; né Hawkins; born 3 July 1971) is an Australian editor, programmer, and publisher who founded WikiLeaks in 2006. He came to international attention in 2010 after WikiLeaks published a series of leaks from Chelsea Manning, a United States Army intelligence analyst: footage of a U.S. airstrike in Baghdad showing war crimes committed by the U.S. Army, U.S. military log</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/realstory-audio/julian-assange-20261128.mp3" type="audio/mpeg" length="1418112"/>
+      <guid isPermaLink="false">realstory-julian-assange-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 18:49:29 GMT</pubDate>
+      <itunes:duration>89</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Von Braun: The Nazi Scientist America Saved from Justice</title>
       <description>Wernher Magnus Maximilian Freiherr von Braun (US:  VUR-nər von BROWN; German: [ˈvɛʁnheːɐ̯ fɔn ˈbʁaʊn]; 23 March 1912 – 16 June 1977) was a German American aerospace engineer and space architect. He became a member of the Nazi Party and then the Allgemeine SS to support his rocket work. He led the development of rocket technology in Nazi Germany, and later of rocket and space technology in the US.
 </description>
