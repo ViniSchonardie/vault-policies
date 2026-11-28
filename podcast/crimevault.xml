@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Eugen Weidmann: France's Last Public Execution</title>
+      <description>Eugen Weidmann was a German-born criminal and serial killer who was executed by guillotine in France in June 1939, the last public execution in France, an execution witnessed by the 17-year-old Christopher Lee who was visiting Paris at the time.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/eugen-weidmann-20261128.mp3" type="audio/mpeg" length="1269120"/>
+      <guid isPermaLink="false">crime-eugen-weidmann-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 01:11:39 GMT</pubDate>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Abortion Doctor Killed Hundreds. Regulators Ignored 46 Lawsuits.</title>
       <description>Kermit Barron Gosnell was an American serial killer and abortion doctor. At his clinic in West Philadelphia, Gosnell provided illegal late-term abortions, committed post-labor infanticide after many live births, and ran a prescription pill mill which eventually attracted federal attention. Gosnell was convicted of the murders of three infants who were born alive after using drugs to induce labor, </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/crimevault-audio/kermit-gosnell-20261127.mp3" type="audio/mpeg" length="1447680"/>
