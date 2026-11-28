@@ -17,6 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>47 Dead. They Shut Down The Wrong Engine.</title>
+      <description>The Kegworth air disaster occurred when British Midland Airways Flight 092, a Boeing 737-400, crashed onto the motorway embankment between the M1 motorway and A453 road near Kegworth, Leicestershire, England, while attempting to make an emergency landing at East Midlands Airport on 8 January 1989.
+The aircraft was on a scheduled flight from London Heathrow Airport to Belfast International Airport.</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/kegworth-air-disaster-20261128.mp3" type="audio/mpeg" length="1780224"/>
+      <guid isPermaLink="false">aviation-kegworth-air-disaster-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 18:35:08 GMT</pubDate>
+      <itunes:duration>111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KAL 801. 229 Dead. Captain Ignored Every Warning.</title>
       <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20261128.mp3" type="audio/mpeg" length="1111296"/>
