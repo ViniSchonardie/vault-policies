@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Mugger Crocodile. Uses Sticks to Hunt.</title>
+      <description>The mugger crocodile (Crocodylus palustris) is a medium-sized broad-snouted crocodile, also known as mugger and marsh crocodile. It is native to freshwater habitats from south-eastern Iran to the Indian subcontinent, where it inhabits marshes, lakes, rivers and artificial ponds. It rarely reaches a body length of 5 m (16 ft 5 in) and is a powerful swimmer, but also walks on land in search of suita</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/mugger-crocodile-20261128.mp3" type="audio/mpeg" length="1323264"/>
+      <guid isPermaLink="false">nature-mugger-crocodile-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 12:24:26 GMT</pubDate>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Steller's Sea Eagle. Heaviest Hunter Alive.</title>
       <description>Steller's sea eagle (Haliaeetus pelagicus), also known as the Pacific sea eagle or white-shouldered eagle, is a very large diurnal bird of prey in the family Accipitridae. It was described first by Peter Simon Pallas in 1811. No subspecies are recognised. A sturdy eagle, it has dark brown plumage with white wings and tail, a yellow beak, and yellow talons. Typically, it is the heaviest eagle in th</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/nature-audio/stellers-sea-eagle-20261128.mp3" type="audio/mpeg" length="1432704"/>
