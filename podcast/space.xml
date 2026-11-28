@@ -17,6 +17,15 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>This Astronaut Took the Most Famous Photo Ever</title>
+      <description>William Alison Anders (17 October 1933 – 7 June 2024) was a United States Air Force major general, electrical engineer, nuclear engineer, NASA astronaut, and businessman. In December 1968, he was a member of the crew of Apollo 8, the first three people to leave low Earth orbit and travel to the Moon. Along with fellow astronauts Frank Borman and Jim Lovell, he circled the Moon ten times, and broad</description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/space-audio/bill-anders-20261128.mp3" type="audio/mpeg" length="1209984"/>
+      <guid isPermaLink="false">space-bill-anders-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 01:29:11 GMT</pubDate>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>This Video Game Legend Just Flew to Space for $30 Million</title>
       <description>Richard Allen Garriott de Cayeux (né Garriott; born 4 July 1961) is a British-born American video game developer, entrepreneur and space tourist.
 Garriott, who is the son of NASA astronaut Owen Garriott, was originally a game designer and programmer, and is now involved in a number of aspects of computer-game development. On October 12, 2008, Garriott flew aboard the Soyuz TMA-13 mission to the In</description>
