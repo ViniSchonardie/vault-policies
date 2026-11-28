@@ -17,6 +17,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>KAL 801. 229 Dead. Captain Ignored Every Warning.</title>
+      <description>Korean Air Flight 801 was a scheduled international passenger flight operated by Korean Air, from Gimpo International Airport, Seoul to Antonio B. Won Pat International Airport, Guam. On August 6, 1997, the Boeing 747-300 operating the flight crashed on Bijia Peak, south of Nimitz Hill, in Asan-Maina, Guam, while on approach to the destination airport, killing 229 of the 254 people aboard, making </description>
+      <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/korean-air-flight-801-20261128.mp3" type="audio/mpeg" length="1111296"/>
+      <guid isPermaLink="false">aviation-korean-air-flight-801-20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 14:30:00 GMT</pubDate>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>225 Dead. A Repair Team Ignored Boeing's Manual.</title>
       <description>China Airlines Flight 611 was a regularly scheduled international passenger flight operated by a Boeing 747-200 from Chiang Kai-shek International Airport (now Taoyuan International Airport) in Taiwan to Hong Kong International Airport. On May 25th, 2002, the flight disintegrated midair and crashed into the Taiwan Strait, 26 miles (23 nmi; 42 km) northeast of the Penghu Islands, 20 minutes after t</description>
       <enclosure url="https://github.com/ViniSchonardie/vault-policies/releases/download/blackboxfiles-audio/china-airlines-flight-611-20261128.mp3" type="audio/mpeg" length="1118976"/>
